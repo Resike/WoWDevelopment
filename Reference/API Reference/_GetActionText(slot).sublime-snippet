@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:text} = GetActionText(${2:slot})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_GetActionText</tabTrigger>
+  <description>(slot)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

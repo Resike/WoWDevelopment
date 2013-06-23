@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:dungeonName}, ${2:typeId}, ${3:minLvl}, ${4:maxLvl}, ${5:recLvl}, ${6:minRecLvl}, ${7:maxRecLvl}, ${8:expansionId}, ${9:groupId}, ${10:textureName}, ${11:difficulty}, ${12:maxPlayers}, ${13:dungeonDesc}, ${14:isHoliday} = GetLFGDungeonInfo(${15:id})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_GetLFGDungeonInfo</tabTrigger>
+  <description>(id)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

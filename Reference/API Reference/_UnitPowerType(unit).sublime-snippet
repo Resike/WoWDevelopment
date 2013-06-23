@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:powerType}, ${2:powerToken}, ${3:altR}, ${4:altG}, ${5:altB} = UnitPowerType("${6:unit}")$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_UnitPowerType</tabTrigger>
+  <description>("unit")</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

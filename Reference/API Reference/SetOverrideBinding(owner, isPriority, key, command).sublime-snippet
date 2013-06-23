@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+SetOverrideBinding(${1:owner}, ${2:isPriority}, "${3:key}", "${4:command}")$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>SetOverrideBinding</tabTrigger>
+  <description>(owner, isPriority, →)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:isSticky}, ${2:isHeader}, ${3:newsType}, ${4:text1}, ${5:text2}, ${6:id}, ${7:data}, ${8:data2}, ${9:weekday}, ${10:day}, ${11:month}, ${12:year}, ${13:unknown} = GetGuildNewsInfo(${14:newsIndex})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_GetGuildNewsInfo</tabTrigger>
+  <description>(newsIndex)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

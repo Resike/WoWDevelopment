@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:name}, ${2:rank2}, ${3:icon}, ${4:powerCost}, ${5:isFunnel}, ${6:powerType}, ${7:castingTime}, ${8:minRange}, ${9:maxRange} = GetSpellInfo("${10:name}")$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_GetSpellInfo</tabTrigger>
+  <description>("name")</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

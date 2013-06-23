@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:texture}, ${2:quantity}, ${3:link} = GetContainerItemPurchaseItem(${4:container}, ${5:slot}, ${6:index})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_GetContainerItemPurchaseItem</tabTrigger>
+  <description>(container, →)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

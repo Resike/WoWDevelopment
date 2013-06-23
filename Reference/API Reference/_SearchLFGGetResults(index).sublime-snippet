@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:name}, ${2:level}, ${3:areaName}, ${4:className}, ${5:comment}, ${6:partyMembers}, ${7:status}, ${8:class}, ${9:encountersTotal}, ${10:encountersComplete}, ${11:isIneligible}, ${12:isLeader}, ${13:isTank}, ${14:isHealer}, ${15:isDamage} = SearchLFGGetResults(${16:index})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_SearchLFGGetResults</tabTrigger>
+  <description>(index)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

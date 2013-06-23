@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:name}, ${2:typeID}, ${3:textureFilename}, ${4:moneyBase}, ${5:moneyVar}, ${6:experienceBase}, ${7:experienceVar}, ${8:numStrangers}, ${9:numRewards} = GetLFGCompletionReward()$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_GetLFGCompletionReward</tabTrigger>
+  <description>()</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

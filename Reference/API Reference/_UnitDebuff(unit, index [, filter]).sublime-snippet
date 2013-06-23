@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example- Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:name}, ${2:rank}, ${3:icon}, ${4:count}, ${5:dispelType}, ${6:duration}, ${7:expires}, ${8:caster}, ${9:isStealable}, ${10:shouldConsolidate}, ${11:spellID}, ${12:canApplyAura}, ${13:isBossDebuff}, ${14:value1}, ${15:value2}, ${16:value3} = UnitDebuff("${17:unit}", "${18:name}", ${19:["rank"]}, ${20:["filter"]})$0
+]]></content>
+  <!-- Optional- Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_UnitDebuff</tabTrigger>
+  <description>("unit", "name", ["rank"], →)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

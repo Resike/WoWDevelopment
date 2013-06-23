@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:name}, ${2:link}, ${3:quality}, ${4:iLevel}, ${5:reqLevel}, ${6:class}, ${7:subclass}, ${8:maxStack}, ${9:equipSlot}, ${10:texture}, ${11:vendorPrice} = GetItemInfo(${12:itemID})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_GetItemInfo</tabTrigger>
+  <description>(itemID)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

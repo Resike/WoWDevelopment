@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:title}, ${2:description}, ${3:creator}, ${4:eventType}, ${5:repeatOption}, ${6:maxSize}, ${7:textureIndex}, ${8:weekday}, ${9:month}, ${10:day}, ${11:year}, ${12:hour}, ${13:minute}, ${14:lockoutWeekday}, ${15:lockoutMonth}, ${16:lockoutDay}, ${17:lockoutYear}, ${18:lockoutHour}, ${19:lockoutMinute}, ${20:locked}, ${21:autoApprove}, ${22:pendingInvite}, ${23:inviteStatus}, ${24:inviteType}, ${25:calendarType} = CalendarGetEventInfo()$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_CalendarGetEventInfo</tabTrigger>
+  <description>()</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

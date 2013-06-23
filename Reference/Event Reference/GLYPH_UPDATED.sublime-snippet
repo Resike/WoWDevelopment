@@ -1,0 +1,10 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+GLYPH_UPDATED
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>GLYPH_UPDATED</tabTrigger>
+  <description> </description>
+  <scope>source.lua</scope>
+</snippet>

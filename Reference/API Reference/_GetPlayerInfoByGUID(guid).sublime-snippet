@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:class}, ${2:classFilename}, ${3:race}, ${4:raceFilename}, ${5:sex}, ${6:name}, ${7:realm} = GetPlayerInfoByGUID("${8:GUID}")$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_GetPlayerInfoByGUID</tabTrigger>
+  <description>("GUID")</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

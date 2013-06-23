@@ -1,0 +1,10 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+ADDON_ACTION_BLOCKED
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>ADDON_ACTION_BLOCKED</tabTrigger>
+  <description> </description>
+  <scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+SetGradientAlpha("${2:orientation}", ${3:startR}, ${4:startG}, ${5:startB}, ${6:startAlpha}, ${7:endR}, ${8:endG}, ${9:endB}, ${10:endAlpha})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>SetGradientAlpha</tabTrigger>
+  <description>("orientation", startR, →)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

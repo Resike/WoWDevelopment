@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:name}, ${2:guild}, ${3:level}, ${4:race}, ${5:class}, ${6:zone}, ${7:classFileName}, ${8:sex} = GetWhoInfo(${9:index})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_GetWhoInfo</tabTrigger>
+  <description>(index)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

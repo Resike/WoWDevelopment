@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+QueryAuctionItems(${1:["name"]}, ${2:[minLevel]}, ${3:[maxLevel]}, ${4:[invTypeIndex]}, ${5:[classIndex]}, ${6:[subClassIndex]}, ${7:[page]}, ${8:[isUsable]}, ${9:[minQuality]}, ${10:[getAll]})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>QueryAuctionItems</tabTrigger>
+  <description>(["name"], [minLevel], →)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:teamName}, ${2:teamSize}, ${3:teamRating}, ${4:teamPlayed}, ${5:teamWins}, ${6:playerPlayed}, ${7:playerRating}, ${8:bg_red}, ${9:bg_green}, ${10:bg_blue}, ${11:emblem}, ${12:emblem_red}, ${13:emblem_green}, ${14:emblem_blue}, ${15:border}, ${16:border_red}, ${17:border_green}, ${18:border_blue} = GetInspectArenaTeamData(${19:team})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_GetInspectArenaTeamData</tabTrigger>
+  <description>(team)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

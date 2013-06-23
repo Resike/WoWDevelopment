@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:name}, ${2:header}, ${3:collapsed}, ${4:channelNumber}, ${5:count}, ${6:active}, ${7:category}, ${8:voiceEnabled}, ${9:voiceActive} = GetChannelDisplayInfo(${10:index})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_GetChannelDisplayInfo</tabTrigger>
+  <description>(index)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

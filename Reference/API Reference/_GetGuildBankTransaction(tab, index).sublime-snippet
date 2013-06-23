@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:type}, ${2:name}, ${3:itemLink}, ${4:count}, ${5:tab1}, ${6:tab2}, ${7:year}, ${8:month}, ${9:day}, ${10:hour} = GetGuildBankTransaction(${11:tab}, ${12:index})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_GetGuildBankTransaction</tabTrigger>
+  <description>(tab, index)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

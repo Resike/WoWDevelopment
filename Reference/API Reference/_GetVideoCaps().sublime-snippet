@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:hasAnisotropic}, ${2:hasPixelShaders}, ${3:hasVertexShaders}, ${4:hasTrilinear}, ${5:hasTripleBufering}, ${6:maxAnisotropy}, ${7:hasHardwareCursor} = GetVideoCaps()$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_GetVideoCaps</tabTrigger>
+  <description>()</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:professionID}, ${2:isCollapsed}, ${3:iconTexture}, ${4:headerName}, ${5:numOnline}, ${6:numVisible}, ${7:numPlayers}, ${8:playerName}, ${9:class}, ${10:online}, ${11:zone}, ${12:skill}, ${13:classFileName}, ${14:isMobile} = GetGuildTradeSkillInfo(${15:index})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_GetGuildTradeSkillInfo</tabTrigger>
+  <description>(index)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

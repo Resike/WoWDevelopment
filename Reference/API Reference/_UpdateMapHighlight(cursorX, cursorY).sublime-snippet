@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:name}, ${2:fileName}, ${3:texCoordX}, ${4:texCoordY}, ${5:textureX}, ${6:textureY}, ${7:scrollChildX}, ${8:scrollChildY} = UpdateMapHighlight(${9:cursorX}, ${10:cursorY})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_UpdateMapHighlight</tabTrigger>
+  <description>(X, Y)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

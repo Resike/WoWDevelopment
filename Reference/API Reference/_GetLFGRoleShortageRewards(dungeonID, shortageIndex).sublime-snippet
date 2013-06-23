@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:eligible}, ${2:forTank}, ${3:forHealer}, ${4:forDamage}, ${5:itemCount}, ${6:money}, ${7:xp} = GetLFGRoleShortageRewards(${8:dungeonID}, ${9:shortageIndex})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_GetLFGRoleShortageRewards</tabTrigger>
+  <description>(dungeonID, →)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

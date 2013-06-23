@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:pointsThisWeek}, ${2:maxPointsThisWeek}, ${3:tier2Quantity}, ${4:tier2Limit}, ${5:tier1Quantity}, ${6:tier1Limit} = GetPVPRewards()$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_GetPVPRewards</tabTrigger>
+  <description>()</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

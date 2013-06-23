@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:presenceID}, ${2:givenName}, ${3:surname}, ${4:isFriend} = BNGetFOFInfo(${5:presenceID}, ${6:mutual}, ${7:non-mutual}, ${8:index})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_BNGetFOFInfo</tabTrigger>
+  <description>(presID, mutual, →)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

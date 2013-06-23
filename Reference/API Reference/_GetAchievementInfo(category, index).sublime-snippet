@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:id}, ${2:name}, ${3:points}, ${4:completed}, ${5:month}, ${6:day}, ${7:year}, ${8:description}, ${9:flags}, ${10:icon}, ${11:rewardText}, ${12:isGuildAch} = GetAchievementInfo(${13:category}, ${14:index})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_GetAchievementInfo</tabTrigger>
+  <description>(cat, index)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

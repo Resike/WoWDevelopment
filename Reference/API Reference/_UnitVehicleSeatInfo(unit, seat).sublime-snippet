@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:controlType}, ${2:occupantName}, ${3:occupantRealm}, ${4:canEject}, ${5:canSwitchSeats} = UnitVehicleSeatInfo("${6:unit}", ${7:seat})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_UnitVehicleSeatInfo</tabTrigger>
+  <description>("unit", seat)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

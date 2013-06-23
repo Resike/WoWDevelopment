@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example- Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:currentXP}, ${2:nextLevelXP}, ${3:dailyXP}, ${4:maxDailyXP}, ${5:weeklyXP}, ${6:totalXP}, ${7:isUncapped} = UnitGetGuildXP("${8:unit}")$0
+]]></content>
+  <!-- Optional- Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_UnitGetGuildXP</tabTrigger>
+  <description>("unit")</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

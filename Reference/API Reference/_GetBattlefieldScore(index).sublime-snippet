@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:name}, ${2:killingBlows}, ${3:honorableKills}, ${4:deaths}, ${5:honorGained}, ${6:faction}, ${7:race}, ${8:class}, ${9:classToken}, ${10:damageDone}, ${11:healingDone}, ${12:bgRating}, ${13:ratingChange}, ${14:preMatchMMR}, ${15:mmrChange}, ${16:talentSpec} = GetBattlefieldScore(${17:index})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_GetBattlefieldScore</tabTrigger>
+  <description>(index)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

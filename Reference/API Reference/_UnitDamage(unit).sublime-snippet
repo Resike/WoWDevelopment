@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example- Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:minDamage}, ${2:maxDamage}, ${3:minOffHandDamage}, ${4:maxOffHandDamage}, ${5:physicalBonusPos}, ${6:physicalBonusNeg}, ${7:percent} = UnitDamage("${8:unit}")$0
+]]></content>
+  <!-- Optional- Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_UnitDamage</tabTrigger>
+  <description>("unit")</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

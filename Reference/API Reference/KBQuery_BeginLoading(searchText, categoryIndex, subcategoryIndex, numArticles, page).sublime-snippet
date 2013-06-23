@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+KBQuery_BeginLoading("${1:searchText}", ${2:categoryIndex}, ${3:subcategoryIndex}, ${4:numArticles}, ${5:page})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>KBQuery_BeginLoading</tabTrigger>
+  <description>("searchText", →)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

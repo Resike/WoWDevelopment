@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:uiType}, ${2:state}, ${3:hidden}, ${4:text}, ${5:icon}, ${6:dynamicIcon}, ${7:tooltip}, ${8:dynamicTooltip}, ${9:extendedUI}, ${10:extendedUIState1}, ${11:extendedUIState2}, ${12:extendedUIState3} = GetWorldStateUIInfo(${13:index})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_GetWorldStateUIInfo</tabTrigger>
+  <description>(index)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

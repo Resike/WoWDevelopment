@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+StartAuction(${1:minBid}, ${2:buyoutPrice}, ${3:runTime}, ${4:stackSize}, ${5:numStacks})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>StartAuction</tabTrigger>
+  <description>(minBid, buyoutPrice, →)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

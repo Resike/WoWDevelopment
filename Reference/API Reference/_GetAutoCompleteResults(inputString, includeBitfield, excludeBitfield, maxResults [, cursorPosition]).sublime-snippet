@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:...} = GetAutoCompleteResults("${2:inputString}", ${3:includeBitfield}, ${4:excludeBitfield}, ${5:maxResults}, ${6:[cursorPosition]})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_GetAutoCompleteResults</tabTrigger>
+  <description>("inputStr", →)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

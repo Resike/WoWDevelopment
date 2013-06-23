@@ -1,0 +1,10 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+REQUEST_CEMETERY_LIST_RESPONSE
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>REQUEST_CEMETERY_LIST_RESPONSE</tabTrigger>
+  <description> </description>
+  <scope>source.lua</scope>
+</snippet>

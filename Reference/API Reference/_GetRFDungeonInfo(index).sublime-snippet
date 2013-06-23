@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:id}, ${2:name}, ${3:typeID}, ${4:subtype}, ${5:minLevel}, ${6:maxLevel}, ${7:level3}, ${8:level4}, ${9:level5}, ${10:result09}, ${11:result10}, ${12:result11}, ${13:name2}, ${14:result13}, ${15:raidSize}, ${16:description}, ${17:result16}, ${18:result17}, ${19:result18} = GetRFDungeonInfo(${20:index})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_GetRFDungeonInfo</tabTrigger>
+  <description>(index)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

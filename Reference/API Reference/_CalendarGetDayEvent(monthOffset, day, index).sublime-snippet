@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:title}, ${2:hour}, ${3:minute}, ${4:calendarType}, ${5:sequenceType}, ${6:eventType}, ${7:texture}, ${8:modStatus}, ${9:inviteStatus}, ${10:invitedBy}, ${11:difficulty}, ${12:inviteType} = CalendarGetDayEvent(${13:monthOffset}, ${14:day}, ${15:index})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_CalendarGetDayEvent</tabTrigger>
+  <description>(→, day, index)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

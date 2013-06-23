@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:presenceID}, ${2:presenceName}, ${3:battleTag}, ${4:isBattleTagPresence}, ${5:toonName}, ${6:toonID}, ${7:client}, ${8:isOnline}, ${9:lastOnline}, ${10:isAFK}, ${11:isDND}, ${12:messageText}, ${13:noteText}, ${14:isRIDFriend}, ${15:broadcastTime}, ${16:canSoR} = BNGetFriendInfo(${17:friendIndex})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_BNGetFriendInfo</tabTrigger>
+  <description>(friendIndex)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

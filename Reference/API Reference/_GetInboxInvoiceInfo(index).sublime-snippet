@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:invoiceType}, ${2:itemName}, ${3:playerName}, ${4:bid}, ${5:buyout}, ${6:deposit}, ${7:consignment}, ${8:moneyDelay}, ${9:etaHour}, ${10:etaMin} = GetInboxInvoiceInfo(${11:index})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_GetInboxInvoiceInfo</tabTrigger>
+  <description>(index)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

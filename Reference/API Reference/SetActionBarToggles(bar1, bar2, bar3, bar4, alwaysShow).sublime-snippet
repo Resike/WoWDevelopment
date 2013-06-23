@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+SetActionBarToggles(${1:bar1}, ${2:bar2}, ${3:bar3}, ${4:bar4}, ${5:alwaysShow})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>SetActionBarToggles</tabTrigger>
+  <description>(bar1, bar2, bar3, →)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

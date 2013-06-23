@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:title}, ${2:calendarType}, ${3:raidID}, ${4:hour}, ${5:minute}, ${6:difficulty} = CalendarGetRaidInfo(${7:monthOffset}, ${8:day}, ${9:index})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_CalendarGetRaidInfo</tabTrigger>
+  <description>(→, day, index)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

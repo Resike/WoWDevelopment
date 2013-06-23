@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:name}, ${2:description}, ${3:headerType}, ${4:abilityIcon}, ${5:displayInfo}, ${6:siblingID}, ${7:nextSectionID}, ${8:fileredByDifficulty}, ${9:sectionLink}, ${10:startsOpen}, ${11:flag1}, ${12:flag2}, ${13:flag3}, ${14:flag4} = EJ_GetSectionInfo(${15:sectionID})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_EJ_GetSectionInfo</tabTrigger>
+  <description>(sectionID)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

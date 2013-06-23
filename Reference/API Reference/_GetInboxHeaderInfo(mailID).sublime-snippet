@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:packageIcon}, ${2:stationeryIcon}, ${3:sender}, ${4:subject}, ${5:money}, ${6:CODAmount}, ${7:daysLeft}, ${8:itemCount}, ${9:wasRead}, ${10:wasReturned}, ${11:textCreated}, ${12:canReply}, ${13:isGM}, ${14:itemQuantity} = GetInboxHeaderInfo(${15:mailID})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_GetInboxHeaderInfo</tabTrigger>
+  <description>(mailID)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

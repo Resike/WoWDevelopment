@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:instanceName}, ${2:instanceID}, ${3:instanceReset}, ${4:instanceDifficulty}, ${5:locked}, ${6:extended}, ${7:instanceIDMostSig}, ${8:isRaid}, ${9:maxPlayers}, ${10:difficultyName}, ${11:maxBosses}, ${12:defeatedBosses} = GetSavedInstanceInfo(${13:index})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_GetSavedInstanceInfo</tabTrigger>
+  <description>(index)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

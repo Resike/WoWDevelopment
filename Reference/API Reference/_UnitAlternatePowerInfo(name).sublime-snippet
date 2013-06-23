@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:barType}, ${2:minPower}, ${3:startInset}, ${4:endInset}, ${5:smooth}, ${6:hideFromOthers}, ${7:showOnRaid}, ${8:opaqueSpark}, ${9:opaqueFlash}, ${10:powerName}, ${11:powerTooltip} = UnitAlternatePowerInfo("${12:name}")$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_UnitAlternatePowerInfo</tabTrigger>
+  <description>("name")</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

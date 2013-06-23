@@ -1,0 +1,10 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+ENABLE_LOW_LEVEL_RAID
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>ENABLE_LOW_LEVEL_RAID</tabTrigger>
+  <description> </description>
+  <scope>source.lua</scope>
+</snippet>

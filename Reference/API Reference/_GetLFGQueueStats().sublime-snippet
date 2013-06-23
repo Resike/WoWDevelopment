@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:hasData}, ${2:leaderNeeds}, ${3:tankNeeds}, ${4:healerNeeds}, ${5:dpsNeeds}, ${6:totalTanks}, ${7:totalHealers}, ${8:totalDPS}, ${9:instanceType}, ${10:instanceSubType}, ${11:instanceName}, ${12:averageWait}, ${13:tankWait}, ${14:healerWait}, ${15:dpsWait}, ${16:myWait}, ${17:queuedTime} = GetLFGQueueStats()$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_GetLFGQueueStats</tabTrigger>
+  <description>()</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

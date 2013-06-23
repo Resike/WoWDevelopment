@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:ULx}, ${2:ULy}, ${3:LLx}, ${4:LLy}, ${5:URx}, ${6:URy}, ${7:LRx}, ${8:LRy} = ${9:Texture}:GetTexCoord()$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_Texture:GetTexCoord</tabTrigger>
+  <description>()</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

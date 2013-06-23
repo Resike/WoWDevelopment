@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:name}, ${2:rank}, ${3:rankIndex}, ${4:level}, ${5:class}, ${6:zone}, ${7:note}, ${8:officernote}, ${9:online}, ${10:status}, ${11:classFileName}, ${12:achievementPoints}, ${13:achievementRank}, ${14:isMobile}, ${15:canSoR} = GetGuildRosterInfo(${16:index})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_GetGuildRosterInfo</tabTrigger>
+  <description>(index)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

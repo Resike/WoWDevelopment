@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${:${}1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+${1:name}, ${2:description}, ${3:standingID}, ${4:barMin}, ${5:barMax}, ${6:barValue}, ${7:atWarWith}, ${8:canToggleAtWar}, ${9:isHeader}, ${10:isCollapsed}, ${11:hasRep}, ${12:isWatched}, ${13:isChild} = GetFactionInfo(${14:index})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>_GetFactionInfo</tabTrigger>
+  <description>(index)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

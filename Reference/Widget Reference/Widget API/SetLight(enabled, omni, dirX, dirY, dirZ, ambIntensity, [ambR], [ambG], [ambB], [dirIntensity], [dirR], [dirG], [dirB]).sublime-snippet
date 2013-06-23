@@ -1,0 +1,11 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+SetLight(${2:enabled}, ${3:omni}, ${4:dirX}, ${5:dirY}, ${6:dirZ}, ${7:ambIntensity}, ${8:[ambR]}, ${9:[ambG]}, ${10:[ambB]}, ${11:[dirIntensity]}, ${12:[dirR]}, ${13:[dirG]}, ${14:[dirB]})$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>SetLight</tabTrigger>
+  <description>(enabled, omni, dirX, dirY, →)</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.lua</scope>
+</snippet>

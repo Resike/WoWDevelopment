@@ -1,0 +1,10 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+ACTIVE_TALENT_GROUP_CHANGED
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>ACTIVE_TALENT_GROUP_CHANGED</tabTrigger>
+  <description> </description>
+  <scope>source.lua</scope>
+</snippet>
