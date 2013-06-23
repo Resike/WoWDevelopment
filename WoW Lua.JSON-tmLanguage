@@ -29,8 +29,32 @@
                     "name": "punctuation.definition.parameters.end.lua"
                 }
             }, 
+            "match": "\\b(local\\sfunction)\\s+([\\w,\\.\\-_]+[.:]*)?([a-zA-Z_]\\w*)\\s*(\\()([^)]*)(\\))", 
+            "name": "meta.function.local.lua"
+        }, 
+        {
+            "captures": {
+                "1": {
+                    "name": "keyword.control.lua"
+                }, 
+                "2": {
+                    "name": "invalid.illegal.global.lua"
+                }, 
+                "3": {
+                    "name": "invalid.illegal.global.lua"
+                }, 
+                "4": {
+                    "name": "punctuation.definition.parameters.begin.lua"
+                }, 
+                "5": {
+                    "name": "variable.parameter.function.lua"
+                }, 
+                "6": {
+                    "name": "punctuation.definition.parameters.end.lua"
+                }
+            }, 
             "match": "\\b(function)\\s+([\\w,\\.\\-_]+[.:]*)?([a-zA-Z_]\\w*)\\s*(\\()([^)]*)(\\))", 
-            "name": "meta.function.lua"
+            "name": "meta.function.global.lua"
         }, 
         {
             "match": "(?<![\\d.])\\s0x[a-fA-F\\d]+|\\b\\d+(\\.\\d+)?([eE]-?\\d+)?|\\.\\d+([eE]-?\\d+)?", 
@@ -100,7 +124,7 @@
                         "1": {
                             "name": "string.quoted.single.widget-handler.lua"
                         }, 
-                        "3": {
+                        "2": {
                             "name": "string.quoted.single.lua"
                         }
                     }, 
