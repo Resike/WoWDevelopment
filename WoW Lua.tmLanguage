@@ -53,9 +53,48 @@
 				</dict>
 			</dict>
 			<key>match</key>
+			<string>\b(local\sfunction)\s+([\w,\.\-_]+[.:]*)?([a-zA-Z_]\w*)\s*(\()([^)]*)(\))</string>
+			<key>name</key>
+			<string>meta.function.local.lua</string>
+		</dict>
+		<dict>
+			<key>captures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>keyword.control.lua</string>
+				</dict>
+				<key>2</key>
+				<dict>
+					<key>name</key>
+					<string>invalid.illegal.global.lua</string>
+				</dict>
+				<key>3</key>
+				<dict>
+					<key>name</key>
+					<string>invalid.illegal.global.lua</string>
+				</dict>
+				<key>4</key>
+				<dict>
+					<key>name</key>
+					<string>punctuation.definition.parameters.begin.lua</string>
+				</dict>
+				<key>5</key>
+				<dict>
+					<key>name</key>
+					<string>variable.parameter.function.lua</string>
+				</dict>
+				<key>6</key>
+				<dict>
+					<key>name</key>
+					<string>punctuation.definition.parameters.end.lua</string>
+				</dict>
+			</dict>
+			<key>match</key>
 			<string>\b(function)\s+([\w,\.\-_]+[.:]*)?([a-zA-Z_]\w*)\s*(\()([^)]*)(\))</string>
 			<key>name</key>
-			<string>meta.function.lua</string>
+			<string>meta.function.global.lua</string>
 		</dict>
 		<dict>
 			<key>match</key>
@@ -165,7 +204,7 @@
 							<key>name</key>
 							<string>string.quoted.single.widget-handler.lua</string>
 						</dict>
-						<key>3</key>
+						<key>2</key>
 						<dict>
 							<key>name</key>
 							<string>string.quoted.single.lua</string>
