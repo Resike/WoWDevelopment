@@ -253,23 +253,17 @@
                 {
                     "captures": {
                         "1": {
-                            "name": "support.type.lua"
+                            "name": "support.function.sub-function.lua"
                         }, 
                         "2": {
-                            "name": "support.function.lua"
+                            "name": "punctuation.definition.seperators.lua"
                         }, 
                         "3": {
-                            "name": "punctuation.definition.parameters.begin.lua"
-                        }, 
-                        "4": {
-                            "name": "variable.parameter.lua"
-                        }, 
-                        "5": {
-                            "name": "punctuation.definition.parameters.end.lua"
+                            "name": "support.type.sub-function.lua"
                         }
                     }, 
-                    "match": "\\b([^(){}\"'\\[\\]\\s]+)[.:]([^)]+)(\\()([^()]*)(\\))", 
-                    "name": "meta.function.parameter.lua"
+                    "match": "\\b([A-Za-z_]+[0-9]*)([.:])([A-Za-z_]+[0-9]*)\\b", 
+                    "name": "meta.function.sub-function.lua"
                 }, 
                 {
                     "captures": {
@@ -283,11 +277,11 @@
                             "name": "punctuation.definition.parameters.end.lua"
                         }
                     }, 
-                    "match": "(\\[)([^\"'(){}\\[\\]]+)(\\])", 
+                    "match": "\\b(\\[)([^\"'(){}\\[\\]]+)(\\])\\b", 
                     "name": "meta.function.optional-argument.lua"
                 }, 
                 {
-                    "match": "[^,\\[\\](){}\\s]", 
+                    "match": "\\b[^,\\[\\](){}\\s]+\\b", 
                     "name": "variable.parameter.lua"
                 }
             ]
