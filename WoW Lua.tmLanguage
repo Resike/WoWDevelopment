@@ -404,33 +404,23 @@
 						<key>1</key>
 						<dict>
 							<key>name</key>
-							<string>support.type.lua</string>
+							<string>support.function.sub-function.lua</string>
 						</dict>
 						<key>2</key>
 						<dict>
 							<key>name</key>
-							<string>support.function.lua</string>
+							<string>punctuation.definition.seperators.lua</string>
 						</dict>
 						<key>3</key>
 						<dict>
 							<key>name</key>
-							<string>punctuation.definition.parameters.begin.lua</string>
-						</dict>
-						<key>4</key>
-						<dict>
-							<key>name</key>
-							<string>variable.parameter.lua</string>
-						</dict>
-						<key>5</key>
-						<dict>
-							<key>name</key>
-							<string>punctuation.definition.parameters.end.lua</string>
+							<string>support.type.sub-function.lua</string>
 						</dict>
 					</dict>
 					<key>match</key>
-					<string>\b([^(){}"'\[\]\s]+)[.:]([^)]+)(\()([^()]*)(\))</string>
+					<string>\b([A-Za-z_]+[0-9]*)([.:])([A-Za-z_]+[0-9]*)\b</string>
 					<key>name</key>
-					<string>meta.function.parameter.lua</string>
+					<string>meta.function.sub-function.lua</string>
 				</dict>
 				<dict>
 					<key>captures</key>
@@ -452,13 +442,13 @@
 						</dict>
 					</dict>
 					<key>match</key>
-					<string>(\[)([^"'(){}\[\]]+)(\])</string>
+					<string>\b(\[)([^"'(){}\[\]]+)(\])\b</string>
 					<key>name</key>
 					<string>meta.function.optional-argument.lua</string>
 				</dict>
 				<dict>
 					<key>match</key>
-					<string>[^,\[\](){}\s]</string>
+					<string>\b[^,\[\](){}\s]+\b</string>
 					<key>name</key>
 					<string>variable.parameter.lua</string>
 				</dict>
