@@ -1,13 +1,10 @@
 <snippet>
-  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
-  <content><![CDATA[
+	<content><![CDATA[
 function(${1:self})
-	${2: -- Tab again to proceed to this step.}
+	${2:}
 end$0
 ]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>OnHide</tabTrigger>
-  <description>(self)</description>
-  <!-- Optional: Set a scope to limit where the snippet will trigger -->
-  <scope>source.lua</scope>
+	<tabTrigger>OnHide</tabTrigger>
+	<description>(self)</description>
+	<scope>source.lua</scope>
 </snippet>

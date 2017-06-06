@@ -1,11 +1,8 @@
 <snippet>
-  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
-  <content><![CDATA[
+	<content><![CDATA[
 OnPlay
 ]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>OnPlay</tabTrigger>
-  <description> </description>
-  <!-- Optional: Set a scope to limit where the snippet will trigger -->
-  <scope>source.lua</scope>
+	<tabTrigger>OnPlay</tabTrigger>
+	<description> </description>
+	<scope>source.lua</scope>
 </snippet>
