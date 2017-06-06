@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHARACTER_UPGRADE_SPELL_TIER_SET]]></content>
+	<tabTrigger>CHARACTER_UPGRADE_SPELL_TIER_SET</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

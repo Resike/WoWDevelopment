@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SOUNDKIT_FINISHED]]></content>
+	<tabTrigger>SOUNDKIT_FINISHED</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

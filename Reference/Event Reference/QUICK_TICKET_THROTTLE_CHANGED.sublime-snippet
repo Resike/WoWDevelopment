@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[QUICK_TICKET_THROTTLE_CHANGED]]></content>
+	<tabTrigger>QUICK_TICKET_THROTTLE_CHANGED</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

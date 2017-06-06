@@ -1,10 +1,6 @@
 <snippet>
-  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
-  <content><![CDATA[
-MAX_SPELL_START_RECOVERY_OFFSET_CHANGED
-]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>MAX_SPELL_START_RECOVERY_OFFSET_CHANGED</tabTrigger>
-  <description> </description>
-  <scope>source.lua</scope>
+	<content><![CDATA[MAX_SPELL_START_RECOVERY_OFFSET_CHANGED]]></content>
+	<tabTrigger>MAX_SPELL_START_RECOVERY_OFFSET_CHANGED</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
 </snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TOKEN_STATUS_CHANGED]]></content>
+	<tabTrigger>TOKEN_STATUS_CHANGED</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

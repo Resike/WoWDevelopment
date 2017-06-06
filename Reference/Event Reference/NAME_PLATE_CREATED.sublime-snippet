@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NAME_PLATE_CREATED]]></content>
+	<tabTrigger>NAME_PLATE_CREATED</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

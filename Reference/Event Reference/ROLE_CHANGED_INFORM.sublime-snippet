@@ -1,10 +1,6 @@
 <snippet>
-  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
-  <content><![CDATA[
-ROLE_CHANGED_INFORM
-]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>ROLE_CHANGED_INFORM</tabTrigger>
-  <description> </description>
-  <scope>source.lua</scope>
+	<content><![CDATA[ROLE_CHANGED_INFORM]]></content>
+	<tabTrigger>ROLE_CHANGED_INFORM</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
 </snippet>

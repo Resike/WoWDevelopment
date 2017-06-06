@@ -1,10 +1,6 @@
 <snippet>
-  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
-  <content><![CDATA[
-UNIT_SPELLCAST_INTERRUPTIBLE
-]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>UNIT_SPELLCAST_INTERRUPTIBLE</tabTrigger>
-  <description> </description>
-  <scope>source.lua</scope>
+	<content><![CDATA[UNIT_SPELLCAST_INTERRUPTIBLE]]></content>
+	<tabTrigger>UNIT_SPELLCAST_INTERRUPTIBLE</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
 </snippet>

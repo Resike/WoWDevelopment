@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AUTH_CHALLENGE_FINISHED]]></content>
+	<tabTrigger>AUTH_CHALLENGE_FINISHED</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

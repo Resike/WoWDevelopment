@@ -1,10 +1,6 @@
 <snippet>
-  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
-  <content><![CDATA[
-DISABLE_XP_GAIN
-]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>DISABLE_XP_GAIN</tabTrigger>
-  <description> </description>
-  <scope>source.lua</scope>
+	<content><![CDATA[DISABLE_XP_GAIN]]></content>
+	<tabTrigger>DISABLE_XP_GAIN</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
 </snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RECRUIT_A_FRIEND_INVITER_FRIEND_ADDED]]></content>
+	<tabTrigger>RECRUIT_A_FRIEND_INVITER_FRIEND_ADDED</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

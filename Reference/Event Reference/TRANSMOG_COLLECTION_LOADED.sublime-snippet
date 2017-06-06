@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TRANSMOG_COLLECTION_LOADED]]></content>
+	<tabTrigger>TRANSMOG_COLLECTION_LOADED</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,10 +1,6 @@
 <snippet>
-  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
-  <content><![CDATA[
-LOCALPLAYER_PET_RENAMED
-]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>LOCALPLAYER_PET_RENAMED</tabTrigger>
-  <description> </description>
-  <scope>source.lua</scope>
+	<content><![CDATA[LOCALPLAYER_PET_RENAMED]]></content>
+	<tabTrigger>LOCALPLAYER_PET_RENAMED</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
 </snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[QUEST_REMOVED]]></content>
+	<tabTrigger>QUEST_REMOVED</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

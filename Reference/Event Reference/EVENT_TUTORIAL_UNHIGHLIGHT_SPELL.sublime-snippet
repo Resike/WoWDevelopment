@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EVENT_TUTORIAL_UNHIGHLIGHT_SPELL]]></content>
+	<tabTrigger>EVENT_TUTORIAL_UNHIGHLIGHT_SPELL</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

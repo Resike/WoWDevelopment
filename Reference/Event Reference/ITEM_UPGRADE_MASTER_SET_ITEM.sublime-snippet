@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ITEM_UPGRADE_MASTER_SET_ITEM]]></content>
+	<tabTrigger>ITEM_UPGRADE_MASTER_SET_ITEM</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

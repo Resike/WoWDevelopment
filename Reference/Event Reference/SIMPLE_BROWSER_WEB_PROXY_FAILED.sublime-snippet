@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SIMPLE_BROWSER_WEB_PROXY_FAILED]]></content>
+	<tabTrigger>SIMPLE_BROWSER_WEB_PROXY_FAILED</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

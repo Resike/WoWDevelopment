@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[USE_GLYPH]]></content>
+	<tabTrigger>USE_GLYPH</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

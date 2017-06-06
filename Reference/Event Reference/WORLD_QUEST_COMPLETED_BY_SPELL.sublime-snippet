@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WORLD_QUEST_COMPLETED_BY_SPELL]]></content>
+	<tabTrigger>WORLD_QUEST_COMPLETED_BY_SPELL</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

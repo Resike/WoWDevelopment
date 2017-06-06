@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ARCHAEOLOGY_FIND_COMPLETE]]></content>
+	<tabTrigger>ARCHAEOLOGY_FIND_COMPLETE</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GARRISON_MISSION_REWARD_INFO]]></content>
+	<tabTrigger>GARRISON_MISSION_REWARD_INFO</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,10 +1,6 @@
 <snippet>
-  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
-  <content><![CDATA[
-WEIGHTED_SPELL_UPDATED
-]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>WEIGHTED_SPELL_UPDATED</tabTrigger>
-  <description> </description>
-  <scope>source.lua</scope>
+	<content><![CDATA[WEIGHTED_SPELL_UPDATED]]></content>
+	<tabTrigger>WEIGHTED_SPELL_UPDATED</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
 </snippet>

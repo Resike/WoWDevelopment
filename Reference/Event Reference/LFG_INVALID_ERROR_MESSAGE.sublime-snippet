@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LFG_INVALID_ERROR_MESSAGE]]></content>
+	<tabTrigger>LFG_INVALID_ERROR_MESSAGE</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

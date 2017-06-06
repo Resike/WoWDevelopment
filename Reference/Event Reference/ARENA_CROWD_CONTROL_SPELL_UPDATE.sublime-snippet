@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ARENA_CROWD_CONTROL_SPELL_UPDATE]]></content>
+	<tabTrigger>ARENA_CROWD_CONTROL_SPELL_UPDATE</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

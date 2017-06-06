@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LFG_LIST_ENTRY_EXPIRED_TIMEOUT]]></content>
+	<tabTrigger>LFG_LIST_ENTRY_EXPIRED_TIMEOUT</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

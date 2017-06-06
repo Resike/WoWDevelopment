@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLEAR_BOSS_EMOTES]]></content>
+	<tabTrigger>CLEAR_BOSS_EMOTES</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

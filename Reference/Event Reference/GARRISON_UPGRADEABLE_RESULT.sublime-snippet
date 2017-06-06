@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GARRISON_UPGRADEABLE_RESULT]]></content>
+	<tabTrigger>GARRISON_UPGRADEABLE_RESULT</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

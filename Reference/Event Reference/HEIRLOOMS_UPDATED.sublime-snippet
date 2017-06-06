@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HEIRLOOMS_UPDATED]]></content>
+	<tabTrigger>HEIRLOOMS_UPDATED</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

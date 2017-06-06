@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PVP_TIMER_UPDATE]]></content>
+	<tabTrigger>PVP_TIMER_UPDATE</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

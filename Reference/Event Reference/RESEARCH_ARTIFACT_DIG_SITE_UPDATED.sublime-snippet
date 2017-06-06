@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RESEARCH_ARTIFACT_DIG_SITE_UPDATED]]></content>
+	<tabTrigger>RESEARCH_ARTIFACT_DIG_SITE_UPDATED</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

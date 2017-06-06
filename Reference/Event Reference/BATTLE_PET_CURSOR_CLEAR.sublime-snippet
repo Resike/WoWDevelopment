@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BATTLE_PET_CURSOR_CLEAR]]></content>
+	<tabTrigger>BATTLE_PET_CURSOR_CLEAR</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

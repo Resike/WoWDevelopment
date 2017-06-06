@@ -1,10 +1,6 @@
 <snippet>
-  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
-  <content><![CDATA[
-ENABLE_TAXI_BENCHMARK
-]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>ENABLE_TAXI_BENCHMARK</tabTrigger>
-  <description> </description>
-  <scope>source.lua</scope>
+	<content><![CDATA[ENABLE_TAXI_BENCHMARK]]></content>
+	<tabTrigger>ENABLE_TAXI_BENCHMARK</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
 </snippet>

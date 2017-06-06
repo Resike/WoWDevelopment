@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BATTLEGROUND_POINTS_UPDATE]]></content>
+	<tabTrigger>BATTLEGROUND_POINTS_UPDATE</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

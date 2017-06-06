@@ -1,10 +1,6 @@
 <snippet>
-  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
-  <content><![CDATA[
-VOID_DEPOSIT_WARNING
-]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>VOID_DEPOSIT_WARNING</tabTrigger>
-  <description> </description>
-  <scope>source.lua</scope>
+	<content><![CDATA[VOID_DEPOSIT_WARNING]]></content>
+	<tabTrigger>VOID_DEPOSIT_WARNING</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
 </snippet>

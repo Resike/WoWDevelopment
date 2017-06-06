@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PLAYER_STOPPED_MOVING]]></content>
+	<tabTrigger>PLAYER_STOPPED_MOVING</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

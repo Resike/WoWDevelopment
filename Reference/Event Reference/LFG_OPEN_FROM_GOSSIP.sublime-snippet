@@ -1,10 +1,6 @@
 <snippet>
-  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
-  <content><![CDATA[
-LFG_OPEN_FROM_GOSSIP
-]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>LFG_OPEN_FROM_GOSSIP</tabTrigger>
-  <description> </description>
-  <scope>source.lua</scope>
+	<content><![CDATA[LFG_OPEN_FROM_GOSSIP]]></content>
+	<tabTrigger>LFG_OPEN_FROM_GOSSIP</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
 </snippet>

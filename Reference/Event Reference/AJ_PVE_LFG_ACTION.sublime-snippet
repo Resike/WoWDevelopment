@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AJ_PVE_LFG_ACTION]]></content>
+	<tabTrigger>AJ_PVE_LFG_ACTION</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

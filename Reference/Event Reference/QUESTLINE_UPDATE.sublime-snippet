@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[QUESTLINE_UPDATE]]></content>
+	<tabTrigger>QUESTLINE_UPDATE</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SPEED_UPDATE]]></content>
+	<tabTrigger>SPEED_UPDATE</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

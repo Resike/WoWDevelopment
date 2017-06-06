@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SHOW_RATED_PVP_REWARD_TOAST]]></content>
+	<tabTrigger>SHOW_RATED_PVP_REWARD_TOAST</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

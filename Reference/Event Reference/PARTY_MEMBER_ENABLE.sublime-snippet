@@ -1,10 +1,6 @@
 <snippet>
-  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
-  <content><![CDATA[
-PARTY_MEMBER_ENABLE
-]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>PARTY_MEMBER_ENABLE</tabTrigger>
-  <description> </description>
-  <scope>source.lua</scope>
+	<content><![CDATA[PARTY_MEMBER_ENABLE]]></content>
+	<tabTrigger>PARTY_MEMBER_ENABLE</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
 </snippet>

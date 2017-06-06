@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BOSS_KILL]]></content>
+	<tabTrigger>BOSS_KILL</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

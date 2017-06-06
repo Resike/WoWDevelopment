@@ -1,10 +1,6 @@
 <snippet>
-  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
-  <content><![CDATA[
-COMMENTATOR_MAP_UPDATE
-]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>COMMENTATOR_MAP_UPDATE</tabTrigger>
-  <description> </description>
-  <scope>source.lua</scope>
+	<content><![CDATA[COMMENTATOR_MAP_UPDATE]]></content>
+	<tabTrigger>COMMENTATOR_MAP_UPDATE</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
 </snippet>

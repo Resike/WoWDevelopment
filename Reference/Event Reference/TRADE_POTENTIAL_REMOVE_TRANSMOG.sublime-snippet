@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TRADE_POTENTIAL_REMOVE_TRANSMOG]]></content>
+	<tabTrigger>TRADE_POTENTIAL_REMOVE_TRANSMOG</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

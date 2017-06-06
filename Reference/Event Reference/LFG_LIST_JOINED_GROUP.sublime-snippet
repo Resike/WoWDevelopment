@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LFG_LIST_JOINED_GROUP]]></content>
+	<tabTrigger>LFG_LIST_JOINED_GROUP</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

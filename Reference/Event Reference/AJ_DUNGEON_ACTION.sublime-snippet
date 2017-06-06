@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AJ_DUNGEON_ACTION]]></content>
+	<tabTrigger>AJ_DUNGEON_ACTION</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

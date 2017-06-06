@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PVP_REWARDS_UPDATE]]></content>
+	<tabTrigger>PVP_REWARDS_UPDATE</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

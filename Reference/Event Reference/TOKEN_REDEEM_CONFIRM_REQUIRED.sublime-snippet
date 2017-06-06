@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TOKEN_REDEEM_CONFIRM_REQUIRED]]></content>
+	<tabTrigger>TOKEN_REDEEM_CONFIRM_REQUIRED</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

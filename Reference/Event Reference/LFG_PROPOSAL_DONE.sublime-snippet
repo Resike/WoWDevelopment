@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LFG_PROPOSAL_DONE]]></content>
+	<tabTrigger>LFG_PROPOSAL_DONE</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

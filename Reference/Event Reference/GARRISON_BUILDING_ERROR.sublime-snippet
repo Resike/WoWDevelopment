@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GARRISON_BUILDING_ERROR]]></content>
+	<tabTrigger>GARRISON_BUILDING_ERROR</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

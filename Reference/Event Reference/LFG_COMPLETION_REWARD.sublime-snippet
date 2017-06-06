@@ -1,10 +1,6 @@
 <snippet>
-  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
-  <content><![CDATA[
-LFG_COMPLETION_REWARD
-]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>LFG_COMPLETION_REWARD</tabTrigger>
-  <description> </description>
-  <scope>source.lua</scope>
+	<content><![CDATA[LFG_COMPLETION_REWARD]]></content>
+	<tabTrigger>LFG_COMPLETION_REWARD</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
 </snippet>

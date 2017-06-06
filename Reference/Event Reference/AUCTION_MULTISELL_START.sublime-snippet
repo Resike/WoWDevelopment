@@ -1,10 +1,6 @@
 <snippet>
-  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
-  <content><![CDATA[
-AUCTION_MULTISELL_START
-]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>AUCTION_MULTISELL_START</tabTrigger>
-  <description> </description>
-  <scope>source.lua</scope>
+	<content><![CDATA[AUCTION_MULTISELL_START]]></content>
+	<tabTrigger>AUCTION_MULTISELL_START</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
 </snippet>

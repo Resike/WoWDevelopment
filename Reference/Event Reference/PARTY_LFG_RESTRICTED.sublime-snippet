@@ -1,10 +1,6 @@
 <snippet>
-  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
-  <content><![CDATA[
-PARTY_LFG_RESTRICTED
-]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>PARTY_LFG_RESTRICTED</tabTrigger>
-  <description> </description>
-  <scope>source.lua</scope>
+	<content><![CDATA[PARTY_LFG_RESTRICTED]]></content>
+	<tabTrigger>PARTY_LFG_RESTRICTED</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
 </snippet>

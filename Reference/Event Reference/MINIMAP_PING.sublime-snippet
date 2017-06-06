@@ -1,10 +1,6 @@
 <snippet>
-  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
-  <content><![CDATA[
-MINIMAP_PING
-]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>MINIMAP_PING</tabTrigger>
-  <description> </description>
-  <scope>source.lua</scope>
+	<content><![CDATA[MINIMAP_PING]]></content>
+	<tabTrigger>MINIMAP_PING</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
 </snippet>

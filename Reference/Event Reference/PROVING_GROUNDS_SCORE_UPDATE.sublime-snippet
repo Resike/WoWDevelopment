@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PROVING_GROUNDS_SCORE_UPDATE]]></content>
+	<tabTrigger>PROVING_GROUNDS_SCORE_UPDATE</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

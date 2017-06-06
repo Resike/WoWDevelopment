@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TASK_PROGRESS_UPDATE]]></content>
+	<tabTrigger>TASK_PROGRESS_UPDATE</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

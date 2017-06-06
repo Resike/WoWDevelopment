@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TOKEN_REDEEM_RESULT]]></content>
+	<tabTrigger>TOKEN_REDEEM_RESULT</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

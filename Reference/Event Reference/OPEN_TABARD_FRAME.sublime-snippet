@@ -1,10 +1,6 @@
 <snippet>
-  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
-  <content><![CDATA[
-OPEN_TABARD_FRAME
-]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>OPEN_TABARD_FRAME</tabTrigger>
-  <description> </description>
-  <scope>source.lua</scope>
+	<content><![CDATA[OPEN_TABARD_FRAME]]></content>
+	<tabTrigger>OPEN_TABARD_FRAME</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
 </snippet>

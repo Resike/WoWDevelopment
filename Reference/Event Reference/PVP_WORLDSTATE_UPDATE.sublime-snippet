@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PVP_WORLDSTATE_UPDATE]]></content>
+	<tabTrigger>PVP_WORLDSTATE_UPDATE</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

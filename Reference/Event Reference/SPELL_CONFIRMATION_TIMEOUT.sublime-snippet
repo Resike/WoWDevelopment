@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SPELL_CONFIRMATION_TIMEOUT]]></content>
+	<tabTrigger>SPELL_CONFIRMATION_TIMEOUT</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,10 +1,6 @@
 <snippet>
-  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
-  <content><![CDATA[
-GMRESPONSE_RECEIVED
-]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>GMRESPONSE_RECEIVED</tabTrigger>
-  <description> </description>
-  <scope>source.lua</scope>
+	<content><![CDATA[GMRESPONSE_RECEIVED]]></content>
+	<tabTrigger>GMRESPONSE_RECEIVED</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
 </snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SOCKET_INFO_FAILURE]]></content>
+	<tabTrigger>SOCKET_INFO_FAILURE</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

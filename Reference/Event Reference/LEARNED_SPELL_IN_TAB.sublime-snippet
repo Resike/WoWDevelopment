@@ -1,10 +1,6 @@
 <snippet>
-  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
-  <content><![CDATA[
-LEARNED_SPELL_IN_TAB
-]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>LEARNED_SPELL_IN_TAB</tabTrigger>
-  <description> </description>
-  <scope>source.lua</scope>
+	<content><![CDATA[LEARNED_SPELL_IN_TAB]]></content>
+	<tabTrigger>LEARNED_SPELL_IN_TAB</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
 </snippet>

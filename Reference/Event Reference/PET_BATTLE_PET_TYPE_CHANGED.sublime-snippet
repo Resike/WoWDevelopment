@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PET_BATTLE_PET_TYPE_CHANGED]]></content>
+	<tabTrigger>PET_BATTLE_PET_TYPE_CHANGED</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

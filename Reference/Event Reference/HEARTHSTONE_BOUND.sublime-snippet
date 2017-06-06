@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HEARTHSTONE_BOUND]]></content>
+	<tabTrigger>HEARTHSTONE_BOUND</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

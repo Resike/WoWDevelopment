@@ -1,10 +1,6 @@
 <snippet>
-  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
-  <content><![CDATA[
-UPDATE_CHAT_WINDOWS
-]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>UPDATE_CHAT_WINDOWS</tabTrigger>
-  <description> </description>
-  <scope>source.lua</scope>
+	<content><![CDATA[UPDATE_CHAT_WINDOWS]]></content>
+	<tabTrigger>UPDATE_CHAT_WINDOWS</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
 </snippet>

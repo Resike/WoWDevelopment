@@ -1,10 +1,6 @@
 <snippet>
-  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
-  <content><![CDATA[
-CONFIRM_BINDER
-]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>CONFIRM_BINDER</tabTrigger>
-  <description> </description>
-  <scope>source.lua</scope>
+	<content><![CDATA[CONFIRM_BINDER]]></content>
+	<tabTrigger>CONFIRM_BINDER</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
 </snippet>

@@ -1,10 +1,6 @@
 <snippet>
-  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
-  <content><![CDATA[
-GOSSIP_CONFIRM_CANCEL
-]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>GOSSIP_CONFIRM_CANCEL</tabTrigger>
-  <description> </description>
-  <scope>source.lua</scope>
+	<content><![CDATA[GOSSIP_CONFIRM_CANCEL]]></content>
+	<tabTrigger>GOSSIP_CONFIRM_CANCEL</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
 </snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[STURDINESS_UPDATE]]></content>
+	<tabTrigger>STURDINESS_UPDATE</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

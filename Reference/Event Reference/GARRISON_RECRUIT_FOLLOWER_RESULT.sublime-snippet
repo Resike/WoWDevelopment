@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GARRISON_RECRUIT_FOLLOWER_RESULT]]></content>
+	<tabTrigger>GARRISON_RECRUIT_FOLLOWER_RESULT</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

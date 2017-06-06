@@ -1,10 +1,6 @@
 <snippet>
-  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
-  <content><![CDATA[
-UNIT_PET_EXPERIENCE
-]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>UNIT_PET_EXPERIENCE</tabTrigger>
-  <description> </description>
-  <scope>source.lua</scope>
+	<content><![CDATA[UNIT_PET_EXPERIENCE]]></content>
+	<tabTrigger>UNIT_PET_EXPERIENCE</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
 </snippet>

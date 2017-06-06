@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[QUEST_WATCH_LIST_CHANGED]]></content>
+	<tabTrigger>QUEST_WATCH_LIST_CHANGED</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

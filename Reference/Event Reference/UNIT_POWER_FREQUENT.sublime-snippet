@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UNIT_POWER_FREQUENT]]></content>
+	<tabTrigger>UNIT_POWER_FREQUENT</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

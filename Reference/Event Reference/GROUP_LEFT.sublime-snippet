@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GROUP_LEFT]]></content>
+	<tabTrigger>GROUP_LEFT</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

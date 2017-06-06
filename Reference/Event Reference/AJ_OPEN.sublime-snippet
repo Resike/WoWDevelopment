@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AJ_OPEN]]></content>
+	<tabTrigger>AJ_OPEN</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

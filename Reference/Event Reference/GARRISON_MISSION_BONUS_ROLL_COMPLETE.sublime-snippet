@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GARRISON_MISSION_BONUS_ROLL_COMPLETE]]></content>
+	<tabTrigger>GARRISON_MISSION_BONUS_ROLL_COMPLETE</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

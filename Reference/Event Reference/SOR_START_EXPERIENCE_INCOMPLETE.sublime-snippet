@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SOR_START_EXPERIENCE_INCOMPLETE]]></content>
+	<tabTrigger>SOR_START_EXPERIENCE_INCOMPLETE</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

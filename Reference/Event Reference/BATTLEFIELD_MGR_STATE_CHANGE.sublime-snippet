@@ -1,10 +1,6 @@
 <snippet>
-  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
-  <content><![CDATA[
-BATTLEFIELD_MGR_STATE_CHANGE
-]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>BATTLEFIELD_MGR_STATE_CHANGE</tabTrigger>
-  <description> </description>
-  <scope>source.lua</scope>
+	<content><![CDATA[BATTLEFIELD_MGR_STATE_CHANGE]]></content>
+	<tabTrigger>BATTLEFIELD_MGR_STATE_CHANGE</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
 </snippet>

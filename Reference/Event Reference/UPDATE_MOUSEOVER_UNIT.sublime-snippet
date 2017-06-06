@@ -1,10 +1,6 @@
 <snippet>
-  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
-  <content><![CDATA[
-UPDATE_MOUSEOVER_UNIT
-]]></content>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>UPDATE_MOUSEOVER_UNIT</tabTrigger>
-  <description> </description>
-  <scope>source.lua</scope>
+	<content><![CDATA[UPDATE_MOUSEOVER_UNIT]]></content>
+	<tabTrigger>UPDATE_MOUSEOVER_UNIT</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
 </snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TOKEN_BUY_RESULT]]></content>
+	<tabTrigger>TOKEN_BUY_RESULT</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

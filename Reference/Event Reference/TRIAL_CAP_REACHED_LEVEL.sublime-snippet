@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TRIAL_CAP_REACHED_LEVEL]]></content>
+	<tabTrigger>TRIAL_CAP_REACHED_LEVEL</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BANK_BAG_SLOT_FLAGS_UPDATED]]></content>
+	<tabTrigger>BANK_BAG_SLOT_FLAGS_UPDATED</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

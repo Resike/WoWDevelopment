@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UPDATE_EXPANSION_LEVEL]]></content>
+	<tabTrigger>UPDATE_EXPANSION_LEVEL</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>

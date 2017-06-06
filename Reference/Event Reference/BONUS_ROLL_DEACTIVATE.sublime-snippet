@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BONUS_ROLL_DEACTIVATE]]></content>
+	<tabTrigger>BONUS_ROLL_DEACTIVATE</tabTrigger>
+	<description>event</description>
+	<scope>source.lua</scope>
+</snippet>
