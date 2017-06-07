@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EJ_GetCurrentTier($1)$0]]></content>
 	<tabTrigger>EJ_GetCurrentTier</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

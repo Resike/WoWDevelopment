@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[DungeonCompletionAlertFrameReward_OnLeave($1)$0]]></content>
 	<tabTrigger>DungeonCompletionAlertFrameReward_OnLeave</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

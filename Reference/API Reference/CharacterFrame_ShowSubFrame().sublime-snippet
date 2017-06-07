@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[CharacterFrame_ShowSubFrame($1)$0]]></content>
 	<tabTrigger>CharacterFrame_ShowSubFrame</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

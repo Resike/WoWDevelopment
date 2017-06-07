@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[WorldStateScoreFrame_OnClose($1)$0]]></content>
 	<tabTrigger>WorldStateScoreFrame_OnClose</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

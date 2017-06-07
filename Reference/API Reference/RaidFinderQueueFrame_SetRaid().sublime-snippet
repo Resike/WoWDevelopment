@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[RaidFinderQueueFrame_SetRaid($1)$0]]></content>
 	<tabTrigger>RaidFinderQueueFrame_SetRaid</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[StanceBar_UpdateState($1)$0]]></content>
 	<tabTrigger>StanceBar_UpdateState</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SetAddonVersionCheck($1)$0]]></content>
 	<tabTrigger>SetAddonVersionCheck</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

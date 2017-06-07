@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[WorldMapFrame_AnimAlphaOut($1)$0]]></content>
 	<tabTrigger>WorldMapFrame_AnimAlphaOut</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

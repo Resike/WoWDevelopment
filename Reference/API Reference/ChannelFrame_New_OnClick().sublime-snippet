@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ChannelFrame_New_OnClick($1)$0]]></content>
 	<tabTrigger>ChannelFrame_New_OnClick</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

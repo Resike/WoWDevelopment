@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[C_Heirloom.GetHeirloomSourceFilter($1)$0]]></content>
 	<tabTrigger>C_Heirloom.GetHeirloomSourceFilter</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

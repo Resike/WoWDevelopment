@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[UIDropDownMenu_GetSelectedValue($1)$0]]></content>
 	<tabTrigger>UIDropDownMenu_GetSelectedValue</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

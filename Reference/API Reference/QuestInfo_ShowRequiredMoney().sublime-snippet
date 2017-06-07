@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[QuestInfo_ShowRequiredMoney($1)$0]]></content>
 	<tabTrigger>QuestInfo_ShowRequiredMoney</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

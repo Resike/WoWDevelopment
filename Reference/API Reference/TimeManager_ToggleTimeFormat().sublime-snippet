@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[TimeManager_ToggleTimeFormat($1)$0]]></content>
 	<tabTrigger>TimeManager_ToggleTimeFormat</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[VoiceChatTalkers_CanHide($1)$0]]></content>
 	<tabTrigger>VoiceChatTalkers_CanHide</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

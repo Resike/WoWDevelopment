@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[CanOpenPanels($1)$0]]></content>
 	<tabTrigger>CanOpenPanels</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ObjectiveTrackerBonusBannerFrame_PlayBanner($1)$0]]></content>
 	<tabTrigger>ObjectiveTrackerBonusBannerFrame_PlayBanner</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

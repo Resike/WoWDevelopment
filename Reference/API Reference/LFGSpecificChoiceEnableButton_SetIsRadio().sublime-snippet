@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[LFGSpecificChoiceEnableButton_SetIsRadio($1)$0]]></content>
 	<tabTrigger>LFGSpecificChoiceEnableButton_SetIsRadio</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

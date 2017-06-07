@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PetActionButton_OnLoad($1)$0]]></content>
 	<tabTrigger>PetActionButton_OnLoad</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

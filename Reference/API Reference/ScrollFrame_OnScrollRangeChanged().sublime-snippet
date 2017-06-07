@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ScrollFrame_OnScrollRangeChanged($1)$0]]></content>
 	<tabTrigger>ScrollFrame_OnScrollRangeChanged</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

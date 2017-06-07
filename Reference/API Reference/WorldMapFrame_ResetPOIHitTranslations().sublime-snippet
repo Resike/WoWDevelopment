@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[WorldMapFrame_ResetPOIHitTranslations($1)$0]]></content>
 	<tabTrigger>WorldMapFrame_ResetPOIHitTranslations</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

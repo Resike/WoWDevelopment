@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[C_Garrison.GetFollowerXP($1)$0]]></content>
 	<tabTrigger>C_Garrison.GetFollowerXP</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

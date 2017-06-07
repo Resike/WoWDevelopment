@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ScenarioObjectiveTracker_AnimateReward($1)$0]]></content>
 	<tabTrigger>ScenarioObjectiveTracker_AnimateReward</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

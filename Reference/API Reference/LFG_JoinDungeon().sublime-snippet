@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[LFG_JoinDungeon($1)$0]]></content>
 	<tabTrigger>LFG_JoinDungeon</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

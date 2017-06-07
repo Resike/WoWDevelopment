@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ShowWatchBarText($1)$0]]></content>
 	<tabTrigger>ShowWatchBarText</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

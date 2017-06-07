@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[C_ChallengeMode.IsWeeklyRewardAvailable($1)$0]]></content>
 	<tabTrigger>C_ChallengeMode.IsWeeklyRewardAvailable</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[C_Commentator.GetSpeedFactor($1)$0]]></content>
 	<tabTrigger>C_Commentator.GetSpeedFactor</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

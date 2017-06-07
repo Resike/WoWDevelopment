@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[DressUpSources($1)$0]]></content>
 	<tabTrigger>DressUpSources</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[FlowContainer_SetVerticalSpacing($1)$0]]></content>
 	<tabTrigger>FlowContainer_SetVerticalSpacing</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

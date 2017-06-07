@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AudioOptionsFrame_SetCurrentToDefaults($1)$0]]></content>
 	<tabTrigger>AudioOptionsFrame_SetCurrentToDefaults</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

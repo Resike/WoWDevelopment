@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[InterfaceAddOnsList_Update($1)$0]]></content>
 	<tabTrigger>InterfaceAddOnsList_Update</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

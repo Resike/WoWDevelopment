@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[BossTargetFrame_UpdateLevelTextAnchor($1)$0]]></content>
 	<tabTrigger>BossTargetFrame_UpdateLevelTextAnchor</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

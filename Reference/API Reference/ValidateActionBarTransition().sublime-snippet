@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ValidateActionBarTransition($1)$0]]></content>
 	<tabTrigger>ValidateActionBarTransition</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[BNGetSelectedBlock($1)$0]]></content>
 	<tabTrigger>BNGetSelectedBlock</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

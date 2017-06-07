@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[TutorialFrame_Hide($1)$0]]></content>
 	<tabTrigger>TutorialFrame_Hide</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

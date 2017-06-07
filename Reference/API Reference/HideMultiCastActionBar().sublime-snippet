@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[HideMultiCastActionBar($1)$0]]></content>
 	<tabTrigger>HideMultiCastActionBar</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

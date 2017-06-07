@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MiniMapTrackingDropDown_IsNoTrackingActive($1)$0]]></content>
 	<tabTrigger>MiniMapTrackingDropDown_IsNoTrackingActive</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

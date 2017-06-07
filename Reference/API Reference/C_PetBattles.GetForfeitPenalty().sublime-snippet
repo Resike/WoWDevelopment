@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[C_PetBattles.GetForfeitPenalty($1)$0]]></content>
 	<tabTrigger>C_PetBattles.GetForfeitPenalty</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

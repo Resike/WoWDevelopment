@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[QuestPOI_GetButton($1)$0]]></content>
 	<tabTrigger>QuestPOI_GetButton</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

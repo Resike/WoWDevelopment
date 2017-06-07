@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[FCF_SetChatWindowOpacity($1)$0]]></content>
 	<tabTrigger>FCF_SetChatWindowOpacity</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

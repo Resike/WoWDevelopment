@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[CombatLog_Color_ColorStringBySchool($1)$0]]></content>
 	<tabTrigger>CombatLog_Color_ColorStringBySchool</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

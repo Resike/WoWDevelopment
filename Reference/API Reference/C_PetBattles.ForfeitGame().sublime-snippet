@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[C_PetBattles.ForfeitGame($1)$0]]></content>
 	<tabTrigger>C_PetBattles.ForfeitGame</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

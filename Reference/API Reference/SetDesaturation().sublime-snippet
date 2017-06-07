@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SetDesaturation($1)$0]]></content>
 	<tabTrigger>SetDesaturation</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

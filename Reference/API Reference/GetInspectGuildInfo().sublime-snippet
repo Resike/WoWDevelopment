@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GetInspectGuildInfo($1)$0]]></content>
 	<tabTrigger>GetInspectGuildInfo</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

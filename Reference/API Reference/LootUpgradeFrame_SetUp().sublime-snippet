@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[LootUpgradeFrame_SetUp($1)$0]]></content>
 	<tabTrigger>LootUpgradeFrame_SetUp</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

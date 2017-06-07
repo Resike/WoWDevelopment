@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ObjectiveTracker_CheckAndHideHeader($1)$0]]></content>
 	<tabTrigger>ObjectiveTracker_CheckAndHideHeader</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

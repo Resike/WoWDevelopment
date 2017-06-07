@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PossessBar_UpdateState($1)$0]]></content>
 	<tabTrigger>PossessBar_UpdateState</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

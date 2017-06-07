@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[CompactUnitFrame_UpdateDebuffs($1)$0]]></content>
 	<tabTrigger>CompactUnitFrame_UpdateDebuffs</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

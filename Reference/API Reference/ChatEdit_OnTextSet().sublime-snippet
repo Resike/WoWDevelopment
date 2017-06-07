@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ChatEdit_OnTextSet($1)$0]]></content>
 	<tabTrigger>ChatEdit_OnTextSet</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

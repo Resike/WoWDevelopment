@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[LFGListSearchPanelSearchBox_OnEnterPressed($1)$0]]></content>
 	<tabTrigger>LFGListSearchPanelSearchBox_OnEnterPressed</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

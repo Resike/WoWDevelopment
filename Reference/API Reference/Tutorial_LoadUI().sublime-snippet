@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Tutorial_LoadUI($1)$0]]></content>
 	<tabTrigger>Tutorial_LoadUI</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

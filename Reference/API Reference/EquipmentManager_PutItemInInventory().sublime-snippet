@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EquipmentManager_PutItemInInventory($1)$0]]></content>
 	<tabTrigger>EquipmentManager_PutItemInInventory</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

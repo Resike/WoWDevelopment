@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[QuestObjectiveTracker_OpenQuestDetails($1)$0]]></content>
 	<tabTrigger>QuestObjectiveTracker_OpenQuestDetails</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

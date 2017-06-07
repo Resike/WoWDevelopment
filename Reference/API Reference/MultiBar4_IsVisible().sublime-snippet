@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MultiBar4_IsVisible($1)$0]]></content>
 	<tabTrigger>MultiBar4_IsVisible</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

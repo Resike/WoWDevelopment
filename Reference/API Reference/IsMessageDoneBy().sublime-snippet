@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[IsMessageDoneBy($1)$0]]></content>
 	<tabTrigger>IsMessageDoneBy</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

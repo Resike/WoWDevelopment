@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ChatEdit_ParseText($1)$0]]></content>
 	<tabTrigger>ChatEdit_ParseText</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

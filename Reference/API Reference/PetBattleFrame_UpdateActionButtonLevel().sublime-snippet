@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PetBattleFrame_UpdateActionButtonLevel($1)$0]]></content>
 	<tabTrigger>PetBattleFrame_UpdateActionButtonLevel</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

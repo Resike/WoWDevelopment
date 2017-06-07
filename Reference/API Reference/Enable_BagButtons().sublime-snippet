@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Enable_BagButtons($1)$0]]></content>
 	<tabTrigger>Enable_BagButtons</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

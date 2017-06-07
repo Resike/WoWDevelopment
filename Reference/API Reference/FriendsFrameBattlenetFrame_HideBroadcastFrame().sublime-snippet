@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[FriendsFrameBattlenetFrame_HideBroadcastFrame($1)$0]]></content>
 	<tabTrigger>FriendsFrameBattlenetFrame_HideBroadcastFrame</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

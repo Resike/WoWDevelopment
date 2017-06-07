@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SetGuildBankTabItemWithdraw($1)$0]]></content>
 	<tabTrigger>SetGuildBankTabItemWithdraw</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Graphics_TableGetValue($1)$0]]></content>
 	<tabTrigger>Graphics_TableGetValue</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

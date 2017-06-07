@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ActionButton_ClearFlash($1)$0]]></content>
 	<tabTrigger>ActionButton_ClearFlash</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

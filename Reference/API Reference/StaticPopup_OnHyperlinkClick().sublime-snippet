@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[StaticPopup_OnHyperlinkClick($1)$0]]></content>
 	<tabTrigger>StaticPopup_OnHyperlinkClick</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

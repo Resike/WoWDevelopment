@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ModelPreviewFrame_RefreshCurrentDisplay($1)$0]]></content>
 	<tabTrigger>ModelPreviewFrame_RefreshCurrentDisplay</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

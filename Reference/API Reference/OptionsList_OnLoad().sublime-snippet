@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[OptionsList_OnLoad($1)$0]]></content>
 	<tabTrigger>OptionsList_OnLoad</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

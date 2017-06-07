@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[LFGListUtil_ValidateLevelReq($1)$0]]></content>
 	<tabTrigger>LFGListUtil_ValidateLevelReq</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

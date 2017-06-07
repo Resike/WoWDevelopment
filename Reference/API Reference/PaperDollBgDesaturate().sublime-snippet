@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PaperDollBgDesaturate($1)$0]]></content>
 	<tabTrigger>PaperDollBgDesaturate</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

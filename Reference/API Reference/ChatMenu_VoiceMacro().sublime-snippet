@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ChatMenu_VoiceMacro($1)$0]]></content>
 	<tabTrigger>ChatMenu_VoiceMacro</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

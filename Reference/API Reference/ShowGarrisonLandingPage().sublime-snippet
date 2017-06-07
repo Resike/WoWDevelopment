@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ShowGarrisonLandingPage($1)$0]]></content>
 	<tabTrigger>ShowGarrisonLandingPage</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

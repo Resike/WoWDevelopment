@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GuildMicroButton_OnEvent($1)$0]]></content>
 	<tabTrigger>GuildMicroButton_OnEvent</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

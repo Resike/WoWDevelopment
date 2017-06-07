@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MerchantFrame_UpdateCanRepairAll($1)$0]]></content>
 	<tabTrigger>MerchantFrame_UpdateCanRepairAll</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

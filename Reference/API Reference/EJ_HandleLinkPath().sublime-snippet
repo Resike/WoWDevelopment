@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EJ_HandleLinkPath($1)$0]]></content>
 	<tabTrigger>EJ_HandleLinkPath</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

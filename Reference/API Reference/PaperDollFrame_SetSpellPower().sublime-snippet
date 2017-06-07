@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PaperDollFrame_SetSpellPower($1)$0]]></content>
 	<tabTrigger>PaperDollFrame_SetSpellPower</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

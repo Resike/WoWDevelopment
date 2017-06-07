@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PVPHonorXPBar_Update($1)$0]]></content>
 	<tabTrigger>PVPHonorXPBar_Update</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

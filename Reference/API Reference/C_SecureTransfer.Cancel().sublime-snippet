@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[C_SecureTransfer.Cancel($1)$0]]></content>
 	<tabTrigger>C_SecureTransfer.Cancel</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[CastingBarFrame_SetUseStartColorForFinished($1)$0]]></content>
 	<tabTrigger>CastingBarFrame_SetUseStartColorForFinished</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

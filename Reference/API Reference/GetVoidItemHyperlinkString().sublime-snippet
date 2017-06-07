@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GetVoidItemHyperlinkString($1)$0]]></content>
 	<tabTrigger>GetVoidItemHyperlinkString</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

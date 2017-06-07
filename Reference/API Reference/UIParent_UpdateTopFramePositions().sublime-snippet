@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[UIParent_UpdateTopFramePositions($1)$0]]></content>
 	<tabTrigger>UIParent_UpdateTopFramePositions</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

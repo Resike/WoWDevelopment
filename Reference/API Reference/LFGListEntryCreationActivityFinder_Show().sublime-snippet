@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[LFGListEntryCreationActivityFinder_Show($1)$0]]></content>
 	<tabTrigger>LFGListEntryCreationActivityFinder_Show</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

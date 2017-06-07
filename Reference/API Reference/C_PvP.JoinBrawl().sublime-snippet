@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[C_PvP.JoinBrawl($1)$0]]></content>
 	<tabTrigger>C_PvP.JoinBrawl</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

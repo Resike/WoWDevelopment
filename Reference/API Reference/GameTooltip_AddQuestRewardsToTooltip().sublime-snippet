@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GameTooltip_AddQuestRewardsToTooltip($1)$0]]></content>
 	<tabTrigger>GameTooltip_AddQuestRewardsToTooltip</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

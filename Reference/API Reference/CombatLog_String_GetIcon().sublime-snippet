@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[CombatLog_String_GetIcon($1)$0]]></content>
 	<tabTrigger>CombatLog_String_GetIcon</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>

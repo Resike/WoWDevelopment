@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Saturate($1)$0]]></content>
 	<tabTrigger>Saturate</tabTrigger>
-	<description>...</description>
+	<description>(...)</description>
 	<scope>source.lua</scope>
 </snippet>
