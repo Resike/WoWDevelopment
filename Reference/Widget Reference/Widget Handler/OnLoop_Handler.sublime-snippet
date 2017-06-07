@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-function(${1:self}, "${2:loopState}")
+function(${1:self}, ${2:loopState})
 	${3:}
 end$0
 ]]></content>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-function(${1:self}, ${2:xOffset}, ${3:yOffset})
+function(${1:self}, ${2:x}, ${3:y})
 	${4:}
 end$0
 ]]></content>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-function(${1:self}, "${2:button}", ${3:down})
+function(${1:self}, ${2:button}, ${3:down})
 	${4:}
 end$0
 ]]></content>
