@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:isTransmogrified}, ${2:canTransmogrify}, ${3:cannotTransmogrifyReason}, ${4:hasPending}, ${5:hasUndo}, ${6:visibleItemID}, ${7:textureName} = GetTransmogrifySlotInfo(${8:slot})$0]]></content>
-	<tabTrigger>_GetTransmogrifySlotInfo</tabTrigger>
-	<description>(slot)</description>
-	<scope>source.lua</scope>
-</snippet>

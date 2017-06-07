@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GuildMicroButton_UpdateTabard($1)$0]]></content>
+	<tabTrigger>GuildMicroButton_UpdateTabard</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:pitch} = GetUnitPitch("${2:unit}")$0]]></content>
-	<tabTrigger>_GetUnitPitch</tabTrigger>
-	<description>("unit")</description>
-	<scope>source.lua</scope>
-</snippet>

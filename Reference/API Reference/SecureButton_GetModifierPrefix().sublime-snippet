@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SecureButton_GetModifierPrefix($1)$0]]></content>
+	<tabTrigger>SecureButton_GetModifierPrefix</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WorldMap_HandleUnitClick($1)$0]]></content>
+	<tabTrigger>WorldMap_HandleUnitClick</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:link} = GetGlyphLink(${2:socket}, ${3:talentGroup})$0]]></content>
-	<tabTrigger>_GetGlyphLink</tabTrigger>
-	<description>(socket, talentGroup)</description>
-	<scope>source.lua</scope>
-</snippet>

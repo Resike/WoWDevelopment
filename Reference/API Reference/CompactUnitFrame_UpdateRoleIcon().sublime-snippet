@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CompactUnitFrame_UpdateRoleIcon($1)$0]]></content>
+	<tabTrigger>CompactUnitFrame_UpdateRoleIcon</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

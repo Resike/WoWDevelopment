@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WorldFrame_OnLoad($1)$0]]></content>
+	<tabTrigger>WorldFrame_OnLoad</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_LFGList.GetSearchResultFriends($1)$0]]></content>
+	<tabTrigger>C_LFGList.GetSearchResultFriends</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VoiceChat_StopPlayingLoopbackSound()$0]]></content>
-	<tabTrigger>VoiceChat_StopPlayingLoopbackSound</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

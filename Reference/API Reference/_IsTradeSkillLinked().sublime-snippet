@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:isLinked}, ${2:name} = IsTradeSkillLinked()$0]]></content>
-	<tabTrigger>_IsTradeSkillLinked</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

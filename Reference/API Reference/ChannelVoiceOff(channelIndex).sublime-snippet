@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChannelVoiceOff(${1:channelIndex})$0]]></content>
-	<tabTrigger>ChannelVoiceOff</tabTrigger>
-	<description>(channelIndex)</description>
-	<scope>source.lua</scope>
-</snippet>

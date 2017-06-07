@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DoTradeSkill(${1:index}, ${2:[repeat]})$0]]></content>
-	<tabTrigger>DoTradeSkill</tabTrigger>
-	<description>(index, [repeat])</description>
-	<scope>source.lua</scope>
-</snippet>

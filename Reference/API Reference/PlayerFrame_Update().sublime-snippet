@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerFrame_Update($1)$0]]></content>
+	<tabTrigger>PlayerFrame_Update</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:isSupported} = MovieRecording_IsSupported()$0]]></content>
-	<tabTrigger>_MovieRecording_IsSupported</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

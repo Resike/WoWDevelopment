@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BNGetMatureLanguageFilter()$0]]></content>
-	<tabTrigger>BNGetMatureLanguageFilter</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

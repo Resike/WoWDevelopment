@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ToggleAnimKitDisplay($1)$0]]></content>
+	<tabTrigger>ToggleAnimKitDisplay</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

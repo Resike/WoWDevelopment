@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ObjectiveTracker_OnSizeChanged($1)$0]]></content>
+	<tabTrigger>ObjectiveTracker_OnSizeChanged</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

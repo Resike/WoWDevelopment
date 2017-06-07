@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StreamingFrame_FadeIN_OnFinished($1)$0]]></content>
+	<tabTrigger>StreamingFrame_FadeIN_OnFinished</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

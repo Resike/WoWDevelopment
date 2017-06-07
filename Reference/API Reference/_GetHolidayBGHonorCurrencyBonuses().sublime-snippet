@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:unk}, ${2:honorWinReward}, ${3:arenaWinReward}, ${4:honorLossReward}, ${5:arenaLossReward} = GetHolidayBGHonorCurrencyBonuses()$0]]></content>
-	<tabTrigger>_GetHolidayBGHonorCurrencyBonuses</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

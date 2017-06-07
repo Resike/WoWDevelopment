@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:skillName}, ${2:skillType}, ${3:numAvailable}, ${4:isExpanded}, ${5:serviceType}, ${6:numSkillUps} = GetTradeSkillInfo(${7:index})$0]]></content>
-	<tabTrigger>_GetTradeSkillInfo</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetNumFlexRaidDungeons($1)$0]]></content>
+	<tabTrigger>GetNumFlexRaidDungeons</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

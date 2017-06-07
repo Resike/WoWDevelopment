@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetTradeSkillNumReagents(${1:index})$0]]></content>
-	<tabTrigger>GetTradeSkillNumReagents</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

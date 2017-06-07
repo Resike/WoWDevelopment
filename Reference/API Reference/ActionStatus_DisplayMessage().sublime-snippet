@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ActionStatus_DisplayMessage($1)$0]]></content>
+	<tabTrigger>ActionStatus_DisplayMessage</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_ChallengeMode.CloseKeystoneFrame($1)$0]]></content>
+	<tabTrigger>C_ChallengeMode.CloseKeystoneFrame</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

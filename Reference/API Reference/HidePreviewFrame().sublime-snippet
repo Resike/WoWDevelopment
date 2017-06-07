@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HidePreviewFrame($1)$0]]></content>
+	<tabTrigger>HidePreviewFrame</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:presenceID}, ${2:unknown}, ${3:displayName} = BNGetConversationMemberInfo(${4:channel}, ${5:memberIndex})$0]]></content>
-	<tabTrigger>_BNGetConversationMemberInfo</tabTrigger>
-	<description>(channel, →)</description>
-	<scope>source.lua</scope>
-</snippet>

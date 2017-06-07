@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetActiveVoiceChannelBySessionID(${1:session})$0]]></content>
-	<tabTrigger>SetActiveVoiceChannelBySessionID</tabTrigger>
-	<description>(session)</description>
-	<scope>source.lua</scope>
-</snippet>

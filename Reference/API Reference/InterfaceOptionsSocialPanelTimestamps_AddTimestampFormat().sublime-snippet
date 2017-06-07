@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InterfaceOptionsSocialPanelTimestamps_AddTimestampFormat($1)$0]]></content>
+	<tabTrigger>InterfaceOptionsSocialPanelTimestamps_AddTimestampFormat</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

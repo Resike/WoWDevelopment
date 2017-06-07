@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CombatLog_AddEvent($1)$0]]></content>
+	<tabTrigger>CombatLog_AddEvent</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

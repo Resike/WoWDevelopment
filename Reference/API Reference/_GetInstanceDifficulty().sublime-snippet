@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:difficulty} = GetInstanceDifficulty()$0]]></content>
-	<tabTrigger>_GetInstanceDifficulty</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

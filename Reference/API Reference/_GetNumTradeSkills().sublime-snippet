@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:numSkills} = GetNumTradeSkills()$0]]></content>
-	<tabTrigger>_GetNumTradeSkills</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

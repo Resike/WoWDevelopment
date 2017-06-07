@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetVoiceSessionInfo(${1:session})$0]]></content>
-	<tabTrigger>GetVoiceSessionInfo</tabTrigger>
-	<description>(session)</description>
-	<scope>source.lua</scope>
-</snippet>

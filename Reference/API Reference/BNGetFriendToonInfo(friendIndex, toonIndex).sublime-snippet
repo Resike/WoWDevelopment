@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BNGetFriendToonInfo(${1:friendIndex}, ${2:toonIndex})$0]]></content>
-	<tabTrigger>BNGetFriendToonInfo</tabTrigger>
-	<description>(friendIndex, →)</description>
-	<scope>source.lua</scope>
-</snippet>

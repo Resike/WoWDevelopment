@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:enabled}, ${2:glyphType}, ${3:glyphTooltipIndex}, ${4:glyphSpell}, ${5:icon} = GetGlyphSocketInfo(${6:socket}, ${7:talentGroup})$0]]></content>
-	<tabTrigger>_GetGlyphSocketInfo</tabTrigger>
-	<description>(socket, talentGroup)</description>
-	<scope>source.lua</scope>
-</snippet>

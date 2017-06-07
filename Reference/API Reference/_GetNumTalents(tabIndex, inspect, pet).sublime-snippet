@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:numTalents} = GetNumTalents(${2:tabIndex}, ${3:inspect}, ${4:pet})$0]]></content>
-	<tabTrigger>_GetNumTalents</tabTrigger>
-	<description>(tabIndex, inspect, pet)</description>
-	<scope>source.lua</scope>
-</snippet>

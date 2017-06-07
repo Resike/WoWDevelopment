@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LevelUpDisplay_BuildPetList($1)$0]]></content>
+	<tabTrigger>LevelUpDisplay_BuildPetList</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

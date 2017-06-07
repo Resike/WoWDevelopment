@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:isTapped} = UnitIsTappedByPlayer("${2:unit}")$0]]></content>
-	<tabTrigger>_UnitIsTappedByPlayer</tabTrigger>
-	<description>("unit")</description>
-	<scope>source.lua</scope>
-</snippet>

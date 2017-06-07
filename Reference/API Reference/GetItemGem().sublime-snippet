@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetItemGem($1)$0]]></content>
+	<tabTrigger>GetItemGem</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

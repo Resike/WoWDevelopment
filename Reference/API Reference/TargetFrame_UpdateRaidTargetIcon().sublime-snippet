@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TargetFrame_UpdateRaidTargetIcon($1)$0]]></content>
+	<tabTrigger>TargetFrame_UpdateRaidTargetIcon</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

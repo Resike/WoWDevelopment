@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:tradeskillName}, ${2:rank}, ${3:maxLevel} = GetTradeSkillLine()$0]]></content>
-	<tabTrigger>_GetTradeSkillLine</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

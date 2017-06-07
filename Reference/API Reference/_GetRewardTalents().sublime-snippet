@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:talents} = GetRewardTalents()$0]]></content>
-	<tabTrigger>_GetRewardTalents</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_LootJournal.GetFilteredLegendaries($1)$0]]></content>
+	<tabTrigger>C_LootJournal.GetFilteredLegendaries</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

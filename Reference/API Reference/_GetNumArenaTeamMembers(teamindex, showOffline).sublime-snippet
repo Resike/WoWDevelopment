@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:numMembers} = GetNumArenaTeamMembers(${2:teamIndex}, ${3:showOffline})$0]]></content>
-	<tabTrigger>_GetNumArenaTeamMembers</tabTrigger>
-	<description>(teamIndex, →)</description>
-	<scope>source.lua</scope>
-</snippet>

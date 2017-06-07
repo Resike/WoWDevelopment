@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GlyphMatchesSocket(${1:socket})$0]]></content>
-	<tabTrigger>GlyphMatchesSocket</tabTrigger>
-	<description>(socket)</description>
-	<scope>source.lua</scope>
-</snippet>

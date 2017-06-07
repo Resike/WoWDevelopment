@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MerchantFrame_UpdateBuybackInfo($1)$0]]></content>
+	<tabTrigger>MerchantFrame_UpdateBuybackInfo</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

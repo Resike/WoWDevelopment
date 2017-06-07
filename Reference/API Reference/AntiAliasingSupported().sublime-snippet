@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AntiAliasingSupported($1)$0]]></content>
+	<tabTrigger>AntiAliasingSupported</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

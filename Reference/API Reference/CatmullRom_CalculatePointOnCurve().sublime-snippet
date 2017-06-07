@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CatmullRom_CalculatePointOnCurve($1)$0]]></content>
+	<tabTrigger>CatmullRom_CalculatePointOnCurve</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

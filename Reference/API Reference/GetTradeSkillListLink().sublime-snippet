@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetTradeSkillListLink()$0]]></content>
-	<tabTrigger>GetTradeSkillListLink</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

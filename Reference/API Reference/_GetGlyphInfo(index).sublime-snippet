@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:name}, ${2:glyphType}, ${3:isKnown}, ${4:icon}, ${5:castSpell} = GetGlyphInfo(${6:index})$0]]></content>
-	<tabTrigger>_GetGlyphInfo</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

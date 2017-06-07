@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_EquipmentSet.GetEquipmentSetForSpec($1)$0]]></content>
+	<tabTrigger>C_EquipmentSet.GetEquipmentSetForSpec</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

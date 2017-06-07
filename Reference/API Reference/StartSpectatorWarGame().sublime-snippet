@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StartSpectatorWarGame($1)$0]]></content>
+	<tabTrigger>StartSpectatorWarGame</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

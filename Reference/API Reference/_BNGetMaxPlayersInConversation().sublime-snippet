@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:count} = BNGetMaxPlayersInConversation()$0]]></content>
-	<tabTrigger>_BNGetMaxPlayersInConversation</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

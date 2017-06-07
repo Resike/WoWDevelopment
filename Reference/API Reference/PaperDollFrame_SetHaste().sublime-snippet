@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PaperDollFrame_SetHaste($1)$0]]></content>
+	<tabTrigger>PaperDollFrame_SetHaste</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

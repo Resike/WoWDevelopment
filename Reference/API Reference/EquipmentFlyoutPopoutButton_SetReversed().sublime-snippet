@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EquipmentFlyoutPopoutButton_SetReversed($1)$0]]></content>
+	<tabTrigger>EquipmentFlyoutPopoutButton_SetReversed</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

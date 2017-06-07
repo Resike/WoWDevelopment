@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ArenaTeam_GetTeamSizeID(${1:teamSize})$0]]></content>
-	<tabTrigger>ArenaTeam_GetTeamSizeID</tabTrigger>
-	<description>(teamSize)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_WowTokenSecure.GetBalanceRedemptionInfo($1)$0]]></content>
+	<tabTrigger>C_WowTokenSecure.GetBalanceRedemptionInfo</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

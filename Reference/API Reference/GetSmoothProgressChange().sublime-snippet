@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetSmoothProgressChange($1)$0]]></content>
+	<tabTrigger>GetSmoothProgressChange</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

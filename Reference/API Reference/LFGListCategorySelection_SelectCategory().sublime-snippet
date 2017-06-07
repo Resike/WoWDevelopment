@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LFGListCategorySelection_SelectCategory($1)$0]]></content>
+	<tabTrigger>LFGListCategorySelection_SelectCategory</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

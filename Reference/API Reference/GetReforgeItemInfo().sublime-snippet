@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetReforgeItemInfo()$0]]></content>
-	<tabTrigger>GetReforgeItemInfo</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

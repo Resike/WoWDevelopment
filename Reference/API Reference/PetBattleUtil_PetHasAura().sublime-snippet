@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PetBattleUtil_PetHasAura($1)$0]]></content>
+	<tabTrigger>PetBattleUtil_PetHasAura</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

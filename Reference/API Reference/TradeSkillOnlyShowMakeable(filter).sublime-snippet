@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TradeSkillOnlyShowMakeable(${1:filter})$0]]></content>
-	<tabTrigger>TradeSkillOnlyShowMakeable</tabTrigger>
-	<description>(filter)</description>
-	<scope>source.lua</scope>
-</snippet>

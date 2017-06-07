@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:...} = GetTradeSkillSubClasses()$0]]></content>
-	<tabTrigger>_GetTradeSkillSubClasses</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

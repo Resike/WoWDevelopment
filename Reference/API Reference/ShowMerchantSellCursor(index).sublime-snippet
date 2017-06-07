@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ShowMerchantSellCursor(${1:index})$0]]></content>
-	<tabTrigger>ShowMerchantSellCursor</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

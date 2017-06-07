@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BuffButton_OnLoad($1)$0]]></content>
+	<tabTrigger>BuffButton_OnLoad</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

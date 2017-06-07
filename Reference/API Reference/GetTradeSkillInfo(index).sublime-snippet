@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetTradeSkillInfo(${1:index})$0]]></content>
-	<tabTrigger>GetTradeSkillInfo</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

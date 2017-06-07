@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CreateFontStringPool($1)$0]]></content>
+	<tabTrigger>CreateFontStringPool</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

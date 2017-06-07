@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:index} = GetTradeSkillSelectionIndex()$0]]></content>
-	<tabTrigger>_GetTradeSkillSelectionIndex</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

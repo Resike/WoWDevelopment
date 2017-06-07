@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpellActivationOverlay_GetUnusedOverlay($1)$0]]></content>
+	<tabTrigger>SpellActivationOverlay_GetUnusedOverlay</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

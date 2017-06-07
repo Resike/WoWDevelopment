@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PartyMemberFrame_RefreshPetDebuffs($1)$0]]></content>
+	<tabTrigger>PartyMemberFrame_RefreshPetDebuffs</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

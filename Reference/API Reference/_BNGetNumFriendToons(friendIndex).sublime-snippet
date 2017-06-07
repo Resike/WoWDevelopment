@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:numToons} = BNGetNumFriendToons(${2:friendIndex})$0]]></content>
-	<tabTrigger>_BNGetNumFriendToons</tabTrigger>
-	<description>(friendIndex)</description>
-	<scope>source.lua</scope>
-</snippet>

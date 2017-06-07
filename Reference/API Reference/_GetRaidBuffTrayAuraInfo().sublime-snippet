@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:name}, ${2:rank}, ${3:texture}, ${4:duration}, ${5:expiration}, ${6:spellId}, ${7:slot} = GetRaidBuffTrayAuraInfo()$0]]></content>
-	<tabTrigger>_GetRaidBuffTrayAuraInfo</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

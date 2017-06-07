@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetTradeSkillInvSlotFilter(${1:index})$0]]></content>
-	<tabTrigger>GetTradeSkillInvSlotFilter</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

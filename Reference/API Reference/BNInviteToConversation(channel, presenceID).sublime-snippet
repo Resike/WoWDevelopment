@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BNInviteToConversation(${1:channel}, ${2:presenceID})$0]]></content>
-	<tabTrigger>BNInviteToConversation</tabTrigger>
-	<description>(channel, presID)</description>
-	<scope>source.lua</scope>
-</snippet>

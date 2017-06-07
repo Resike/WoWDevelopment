@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LFGDungeonList_SetHeaderCollapsed($1)$0]]></content>
+	<tabTrigger>LFGDungeonList_SetHeaderCollapsed</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:name}, ${2:voiceActive}, ${3:sessionActive}, ${4:muted}, ${5:squelched} = GetVoiceSessionMemberInfoBySessionID(${6:session}, ${7:index})$0]]></content>
-	<tabTrigger>_GetVoiceSessionMemberInfoBySessionID</tabTrigger>
-	<description>(→)</description>
-	<scope>source.lua</scope>
-</snippet>

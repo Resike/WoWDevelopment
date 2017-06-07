@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VoiceEnumerateCaptureDevices(${1:deviceIndex})$0]]></content>
-	<tabTrigger>VoiceEnumerateCaptureDevices</tabTrigger>
-	<description>(deviceIdx)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StaticPopupItemFrame_RetrieveInfo($1)$0]]></content>
+	<tabTrigger>StaticPopupItemFrame_RetrieveInfo</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

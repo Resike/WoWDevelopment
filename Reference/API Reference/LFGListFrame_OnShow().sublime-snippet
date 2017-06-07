@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LFGListFrame_OnShow($1)$0]]></content>
+	<tabTrigger>LFGListFrame_OnShow</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

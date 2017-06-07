@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QueryGuildXP()$0]]></content>
-	<tabTrigger>QueryGuildXP</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

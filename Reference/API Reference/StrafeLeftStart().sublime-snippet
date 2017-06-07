@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StrafeLeftStart($1)$0]]></content>
+	<tabTrigger>StrafeLeftStart</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

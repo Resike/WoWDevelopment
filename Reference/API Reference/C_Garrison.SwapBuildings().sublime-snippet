@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_Garrison.SwapBuildings($1)$0]]></content>
+	<tabTrigger>C_Garrison.SwapBuildings</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

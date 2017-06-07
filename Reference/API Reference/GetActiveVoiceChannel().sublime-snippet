@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetActiveVoiceChannel()$0]]></content>
-	<tabTrigger>GetActiveVoiceChannel</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

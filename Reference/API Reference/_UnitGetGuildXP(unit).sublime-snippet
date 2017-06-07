@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:currentXP}, ${2:nextLevelXP}, ${3:dailyXP}, ${4:maxDailyXP}, ${5:weeklyXP}, ${6:totalXP}, ${7:isUncapped} = UnitGetGuildXP("${8:unit}")$0]]></content>
-	<tabTrigger>_UnitGetGuildXP</tabTrigger>
-	<description>("unit")</description>
-	<scope>source.lua</scope>
-</snippet>

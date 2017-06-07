@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetPrimarySpecialization($1)$0]]></content>
+	<tabTrigger>GetPrimarySpecialization</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

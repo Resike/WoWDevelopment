@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:currentReforge}, ${2:icon}, ${3:name}, ${4:quality}, ${5:bound}, ${6:cost} = GetReforgeItemInfo()$0]]></content>
-	<tabTrigger>_GetReforgeItemInfo</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

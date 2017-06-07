@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScorePlayer_OnClick($1)$0]]></content>
+	<tabTrigger>ScorePlayer_OnClick</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

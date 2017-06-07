@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ChatFrame_OpenMenu($1)$0]]></content>
+	<tabTrigger>ChatFrame_OpenMenu</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

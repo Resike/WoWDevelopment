@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetCritChanceFromAgility(${1:["unit"]})$0]]></content>
-	<tabTrigger>GetCritChanceFromAgility</tabTrigger>
-	<description>(["unit"])</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EquipmentManager_RunAction($1)$0]]></content>
+	<tabTrigger>EquipmentManager_RunAction</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

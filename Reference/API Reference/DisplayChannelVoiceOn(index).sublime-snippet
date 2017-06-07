@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DisplayChannelVoiceOn(${1:index})$0]]></content>
-	<tabTrigger>DisplayChannelVoiceOn</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

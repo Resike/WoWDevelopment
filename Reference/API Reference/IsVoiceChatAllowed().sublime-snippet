@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsVoiceChatAllowed()$0]]></content>
-	<tabTrigger>IsVoiceChatAllowed</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

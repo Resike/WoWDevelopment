@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChannelUnSilenceVoice(${1:channelID}, ${2:["name"]})$0]]></content>
-	<tabTrigger>ChannelUnSilenceVoice</tabTrigger>
-	<description>(cID, ["name"])</description>
-	<scope>source.lua</scope>
-</snippet>

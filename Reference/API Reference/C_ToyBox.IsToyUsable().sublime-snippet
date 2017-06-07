@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_ToyBox.IsToyUsable($1)$0]]></content>
+	<tabTrigger>C_ToyBox.IsToyUsable</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_PartyInfo.GetInviteConfirmationInvalidQueues($1)$0]]></content>
+	<tabTrigger>C_PartyInfo.GetInviteConfirmationInvalidQueues</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:teamName}, ${2:teamSize}, ${3:teamRating}, ${4:teamPlayed}, ${5:teamWins}, ${6:seasonTeamPlayed}, ${7:seasonTeamWins}, ${8:playerPlayed}, ${9:seasonPlayerPlayed}, ${10:teamRank}, ${11:playerRating}, ${12:bg_red}, ${13:bg_green}, ${14:bg_blue}, ${15:emblem}, ${16:emblem_red}, ${17:emblem_green}, ${18:emblem_blue}, ${19:border}, ${20:border_red}, ${21:border_green}, ${22:border_blue} = GetArenaTeam(${23:team})$0]]></content>
-	<tabTrigger>_GetArenaTeam</tabTrigger>
-	<description>(team)</description>
-	<scope>source.lua</scope>
-</snippet>

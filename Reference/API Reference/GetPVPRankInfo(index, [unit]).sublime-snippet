@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetPVPRankInfo(${1:index}, ${2:["unit"]})$0]]></content>
-	<tabTrigger>GetPVPRankInfo</tabTrigger>
-	<description>(index, ["unit"])</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_ToyBox.GetCollectedShown($1)$0]]></content>
+	<tabTrigger>C_ToyBox.GetCollectedShown</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

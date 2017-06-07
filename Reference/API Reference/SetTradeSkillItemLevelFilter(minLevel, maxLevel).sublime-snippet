@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetTradeSkillItemLevelFilter(${1:minLevel}, ${2:maxLevel})$0]]></content>
-	<tabTrigger>SetTradeSkillItemLevelFilter</tabTrigger>
-	<description>(min, max)</description>
-	<scope>source.lua</scope>
-</snippet>

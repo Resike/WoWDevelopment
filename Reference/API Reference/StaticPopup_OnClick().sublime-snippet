@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StaticPopup_OnClick($1)$0]]></content>
+	<tabTrigger>StaticPopup_OnClick</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

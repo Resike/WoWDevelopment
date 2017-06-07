@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:unknown}, ${2:toonName}, ${3:client}, ${4:realmName}, ${5:realmID}, ${6:faction}, ${7:race}, ${8:class}, ${9:unknown}, ${10:zoneName}, ${11:level}, ${12:gameText}, ${13:broadcastText}, ${14:broadcastTime}, ${15:unknown}, ${16:presenceID} = BNGetToonInfo(${17:presenceID})$0]]></content>
-	<tabTrigger>_BNGetToonInfo</tabTrigger>
-	<description>(presenceID)</description>
-	<scope>source.lua</scope>
-</snippet>

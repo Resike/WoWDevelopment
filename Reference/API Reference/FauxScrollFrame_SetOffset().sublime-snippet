@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FauxScrollFrame_SetOffset($1)$0]]></content>
+	<tabTrigger>FauxScrollFrame_SetOffset</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Main_HelpPlate_Button_ShowTooltip($1)$0]]></content>
+	<tabTrigger>Main_HelpPlate_Button_ShowTooltip</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

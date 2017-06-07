@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:token}, ${2:display}, ${3:...} = GetAuctionInvTypes(${4:classIndex}, ${5:subClassIndex})$0]]></content>
-	<tabTrigger>_GetAuctionInvTypes</tabTrigger>
-	<description>(classIndex, →)</description>
-	<scope>source.lua</scope>
-</snippet>

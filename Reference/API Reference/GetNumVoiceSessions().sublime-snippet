@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetNumVoiceSessions()$0]]></content>
-	<tabTrigger>GetNumVoiceSessions</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

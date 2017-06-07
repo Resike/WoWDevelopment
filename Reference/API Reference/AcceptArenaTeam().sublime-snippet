@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AcceptArenaTeam()$0]]></content>
-	<tabTrigger>AcceptArenaTeam</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

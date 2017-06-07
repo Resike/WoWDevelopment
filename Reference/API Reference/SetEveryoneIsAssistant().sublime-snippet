@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetEveryoneIsAssistant($1)$0]]></content>
+	<tabTrigger>SetEveryoneIsAssistant</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[QuestObjectiveFindGroupButton_UpdateEnabledState($1)$0]]></content>
+	<tabTrigger>QuestObjectiveFindGroupButton_UpdateEnabledState</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

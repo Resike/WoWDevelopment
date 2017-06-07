@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:direction} = GetEclipseDirection()$0]]></content>
-	<tabTrigger>_GetEclipseDirection</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

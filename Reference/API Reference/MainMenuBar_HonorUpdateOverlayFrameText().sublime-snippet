@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MainMenuBar_HonorUpdateOverlayFrameText($1)$0]]></content>
+	<tabTrigger>MainMenuBar_HonorUpdateOverlayFrameText</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

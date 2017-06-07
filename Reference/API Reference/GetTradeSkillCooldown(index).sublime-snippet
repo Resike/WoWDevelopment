@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetTradeSkillCooldown(${1:index})$0]]></content>
-	<tabTrigger>GetTradeSkillCooldown</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

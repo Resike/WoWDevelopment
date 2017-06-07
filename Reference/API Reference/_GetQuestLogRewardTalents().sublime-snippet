@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:talents} = GetQuestLogRewardTalents()$0]]></content>
-	<tabTrigger>_GetQuestLogRewardTalents</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

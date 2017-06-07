@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PetActionButton_StartFlash($1)$0]]></content>
+	<tabTrigger>PetActionButton_StartFlash</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

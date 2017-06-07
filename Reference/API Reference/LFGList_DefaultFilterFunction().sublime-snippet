@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LFGList_DefaultFilterFunction($1)$0]]></content>
+	<tabTrigger>LFGList_DefaultFilterFunction</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

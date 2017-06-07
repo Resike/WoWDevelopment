@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ChatConfig_CreateColorSwatches($1)$0]]></content>
+	<tabTrigger>ChatConfig_CreateColorSwatches</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AutoQuestPopUpTracker_OnMouseDown($1)$0]]></content>
+	<tabTrigger>AutoQuestPopUpTracker_OnMouseDown</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

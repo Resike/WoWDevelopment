@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LFGDungeonReadyStatusIndividual_UpdateIcon($1)$0]]></content>
+	<tabTrigger>LFGDungeonReadyStatusIndividual_UpdateIcon</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

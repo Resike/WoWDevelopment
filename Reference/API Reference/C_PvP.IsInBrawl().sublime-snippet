@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_PvP.IsInBrawl($1)$0]]></content>
+	<tabTrigger>C_PvP.IsInBrawl</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

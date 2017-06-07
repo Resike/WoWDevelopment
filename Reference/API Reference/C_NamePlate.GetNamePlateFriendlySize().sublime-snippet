@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_NamePlate.GetNamePlateFriendlySize($1)$0]]></content>
+	<tabTrigger>C_NamePlate.GetNamePlateFriendlySize</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GameTooltip_OnHide($1)$0]]></content>
+	<tabTrigger>GameTooltip_OnHide</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VoiceSelectCaptureDevice("${1:deviceName}")$0]]></content>
-	<tabTrigger>VoiceSelectCaptureDevice</tabTrigger>
-	<description>("deviceName")</description>
-	<scope>source.lua</scope>
-</snippet>

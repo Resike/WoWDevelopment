@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DownloadSettings()$0]]></content>
-	<tabTrigger>DownloadSettings</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

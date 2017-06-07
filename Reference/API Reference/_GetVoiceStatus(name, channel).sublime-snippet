@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:status} = GetVoiceStatus("${2:name}", "${3:channel}")$0]]></content>
-	<tabTrigger>_GetVoiceStatus</tabTrigger>
-	<description>("name", "channel")</description>
-	<scope>source.lua</scope>
-</snippet>

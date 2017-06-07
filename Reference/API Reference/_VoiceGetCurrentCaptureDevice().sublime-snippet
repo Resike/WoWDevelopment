@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:index} = VoiceGetCurrentCaptureDevice()$0]]></content>
-	<tabTrigger>_VoiceGetCurrentCaptureDevice</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

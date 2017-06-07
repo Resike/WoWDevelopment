@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetMaxPrestigeLevel($1)$0]]></content>
+	<tabTrigger>GetMaxPrestigeLevel</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

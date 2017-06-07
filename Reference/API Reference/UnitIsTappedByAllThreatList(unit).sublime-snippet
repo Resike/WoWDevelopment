@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnitIsTappedByAllThreatList("${1:unit}")$0]]></content>
-	<tabTrigger>UnitIsTappedByAllThreatList</tabTrigger>
-	<description>("unit")</description>
-	<scope>source.lua</scope>
-</snippet>

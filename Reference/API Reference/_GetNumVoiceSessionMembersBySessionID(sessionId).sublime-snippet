@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:numMembers} = GetNumVoiceSessionMembersBySessionID(${2:sessionID})$0]]></content>
-	<tabTrigger>_GetNumVoiceSessionMembersBySessionID</tabTrigger>
-	<description>(→)</description>
-	<scope>source.lua</scope>
-</snippet>

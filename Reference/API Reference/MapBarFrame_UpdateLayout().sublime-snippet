@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MapBarFrame_UpdateLayout($1)$0]]></content>
+	<tabTrigger>MapBarFrame_UpdateLayout</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

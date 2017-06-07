@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[QuestMapQuestOptions_ShareQuest($1)$0]]></content>
+	<tabTrigger>QuestMapQuestOptions_ShareQuest</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

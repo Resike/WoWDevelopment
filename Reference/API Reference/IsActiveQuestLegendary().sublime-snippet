@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IsActiveQuestLegendary($1)$0]]></content>
+	<tabTrigger>IsActiveQuestLegendary</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

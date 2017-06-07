@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:personalBGRating}, ${2:ratedBGreward}, ${3:pointsThisWeek}, ${4:maxPointsThisWeek}, ${5:unknown}, ${6:unknown}, ${7:weeklyWins}, ${8:weeklyPlayed}, ${9:unknown}, ${10:unknown} = GetPersonalRatedBGInfo()$0]]></content>
-	<tabTrigger>_GetPersonalRatedBGInfo</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

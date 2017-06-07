@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ArenaTeamRoster(${1:team})$0]]></content>
-	<tabTrigger>ArenaTeamRoster</tabTrigger>
-	<description>(team)</description>
-	<scope>source.lua</scope>
-</snippet>

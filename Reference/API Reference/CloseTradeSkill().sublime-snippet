@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CloseTradeSkill()$0]]></content>
-	<tabTrigger>CloseTradeSkill</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

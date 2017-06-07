@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PanelTemplates_ShowTab($1)$0]]></content>
+	<tabTrigger>PanelTemplates_ShowTab</tabTrigger>
+	<description>...</description>
+	<scope>source.lua</scope>
+</snippet>

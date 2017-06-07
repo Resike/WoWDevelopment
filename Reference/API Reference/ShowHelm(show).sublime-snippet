@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ShowHelm(${1:show})$0]]></content>
-	<tabTrigger>ShowHelm</tabTrigger>
-	<description>(show)</description>
-	<scope>source.lua</scope>
-</snippet>

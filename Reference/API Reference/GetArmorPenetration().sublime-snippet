@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetArmorPenetration()$0]]></content>
-	<tabTrigger>GetArmorPenetration</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>
