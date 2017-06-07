@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_LOOT_PLAYER_NOT_FOUND]]></content>
+	<tabTrigger>LE_GAME_ERR_LOOT_PLAYER_NOT_FOUND</tabTrigger>
+	<description>492</description>
+	<scope>source.lua</scope>
+</snippet>

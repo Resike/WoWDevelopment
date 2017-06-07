@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_TOKEN_REDEEM_TYPE_BALANCE]]></content>
+	<tabTrigger>LE_TOKEN_REDEEM_TYPE_BALANCE</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_QUEST_ONLY_ONE_TIMED]]></content>
+	<tabTrigger>LE_GAME_ERR_QUEST_ONLY_ONE_TIMED</tabTrigger>
+	<description>173</description>
+	<scope>source.lua</scope>
+</snippet>

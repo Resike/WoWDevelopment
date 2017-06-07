@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_FOLLOWER_ABILITY_CAST_RESULT_NO_PENDING_CAST]]></content>
+	<tabTrigger>LE_FOLLOWER_ABILITY_CAST_RESULT_NO_PENDING_CAST</tabTrigger>
+	<description>3</description>
+	<scope>source.lua</scope>
+</snippet>

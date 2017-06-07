@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_BG_PLAYER_JOINED_SS]]></content>
+	<tabTrigger>LE_GAME_ERR_BG_PLAYER_JOINED_SS</tabTrigger>
+	<description>540</description>
+	<scope>source.lua</scope>
+</snippet>

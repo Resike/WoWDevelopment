@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NUM_LE_ITEM_BIND_TYPES]]></content>
+	<tabTrigger>NUM_LE_ITEM_BIND_TYPES</tabTrigger>
+	<description>5</description>
+	<scope>source.lua</scope>
+</snippet>

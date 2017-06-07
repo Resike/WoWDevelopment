@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WARDROBE_NEXT_VISUAL_KEY]]></content>
+	<tabTrigger>WARDROBE_NEXT_VISUAL_KEY</tabTrigger>
+	<description>"RIGHT"</description>
+	<scope>source.lua</scope>
+</snippet>

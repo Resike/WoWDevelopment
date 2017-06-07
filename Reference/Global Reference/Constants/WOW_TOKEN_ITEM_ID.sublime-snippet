@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WOW_TOKEN_ITEM_ID]]></content>
+	<tabTrigger>WOW_TOKEN_ITEM_ID</tabTrigger>
+	<description>122284</description>
+	<scope>source.lua</scope>
+</snippet>

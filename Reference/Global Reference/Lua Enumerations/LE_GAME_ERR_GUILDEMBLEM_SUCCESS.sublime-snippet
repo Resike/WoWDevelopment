@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_GUILDEMBLEM_SUCCESS]]></content>
+	<tabTrigger>LE_GAME_ERR_GUILDEMBLEM_SUCCESS</tabTrigger>
+	<description>351</description>
+	<scope>source.lua</scope>
+</snippet>

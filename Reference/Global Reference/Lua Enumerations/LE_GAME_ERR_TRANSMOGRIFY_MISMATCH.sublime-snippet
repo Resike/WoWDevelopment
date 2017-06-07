@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_TRANSMOGRIFY_MISMATCH]]></content>
+	<tabTrigger>LE_GAME_ERR_TRANSMOGRIFY_MISMATCH</tabTrigger>
+	<description>836</description>
+	<scope>source.lua</scope>
+</snippet>

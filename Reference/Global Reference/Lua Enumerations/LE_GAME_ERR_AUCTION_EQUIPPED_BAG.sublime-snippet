@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_AUCTION_EQUIPPED_BAG]]></content>
+	<tabTrigger>LE_GAME_ERR_AUCTION_EQUIPPED_BAG</tabTrigger>
+	<description>435</description>
+	<scope>source.lua</scope>
+</snippet>

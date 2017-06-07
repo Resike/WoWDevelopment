@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_CANT_WRAP_UNIQUE]]></content>
+	<tabTrigger>LE_GAME_ERR_CANT_WRAP_UNIQUE</tabTrigger>
+	<description>325</description>
+	<scope>source.lua</scope>
+</snippet>

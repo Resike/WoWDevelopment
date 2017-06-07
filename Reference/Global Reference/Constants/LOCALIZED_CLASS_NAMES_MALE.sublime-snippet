@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LOCALIZED_CLASS_NAMES_MALE]]></content>
+	<tabTrigger>LOCALIZED_CLASS_NAMES_MALE</tabTrigger>
+	<description></description>
+	<scope>source.lua</scope>
+</snippet>

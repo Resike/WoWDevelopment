@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PANEL_DEFAULT_HEIGHT]]></content>
+	<tabTrigger>PANEL_DEFAULT_HEIGHT</tabTrigger>
+	<description>424</description>
+	<scope>source.lua</scope>
+</snippet>

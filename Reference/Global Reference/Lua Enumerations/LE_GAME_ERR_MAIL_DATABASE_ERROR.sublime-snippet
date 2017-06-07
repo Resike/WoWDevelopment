@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_MAIL_DATABASE_ERROR]]></content>
+	<tabTrigger>LE_GAME_ERR_MAIL_DATABASE_ERROR</tabTrigger>
+	<description>419</description>
+	<scope>source.lua</scope>
+</snippet>

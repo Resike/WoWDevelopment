@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_PETBATTLE_QUEUE_SLOT_REVOKED]]></content>
+	<tabTrigger>LE_GAME_ERR_PETBATTLE_QUEUE_SLOT_REVOKED</tabTrigger>
+	<description>916</description>
+	<scope>source.lua</scope>
+</snippet>

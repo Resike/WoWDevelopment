@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_NOEMOTEWHILERUNNING]]></content>
+	<tabTrigger>LE_GAME_ERR_NOEMOTEWHILERUNNING</tabTrigger>
+	<description>366</description>
+	<scope>source.lua</scope>
+</snippet>

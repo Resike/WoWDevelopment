@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_GENERIC_STUNNED]]></content>
+	<tabTrigger>LE_GAME_ERR_GENERIC_STUNNED</tabTrigger>
+	<description>478</description>
+	<scope>source.lua</scope>
+</snippet>

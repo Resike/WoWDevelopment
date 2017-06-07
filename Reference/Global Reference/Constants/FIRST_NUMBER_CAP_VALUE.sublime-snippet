@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FIRST_NUMBER_CAP_VALUE]]></content>
+	<tabTrigger>FIRST_NUMBER_CAP_VALUE</tabTrigger>
+	<description>1000</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_ATTACK_CHANNEL]]></content>
+	<tabTrigger>LE_GAME_ERR_ATTACK_CHANNEL</tabTrigger>
+	<description>203</description>
+	<scope>source.lua</scope>
+</snippet>

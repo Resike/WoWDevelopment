@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_USE_PREVENTED_BY_MECHANIC_S]]></content>
+	<tabTrigger>LE_GAME_ERR_USE_PREVENTED_BY_MECHANIC_S</tabTrigger>
+	<description>567</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_TRANSMOG_COLLECTION_TYPE_1H_AXE]]></content>
+	<tabTrigger>LE_TRANSMOG_COLLECTION_TYPE_1H_AXE</tabTrigger>
+	<description>13</description>
+	<scope>source.lua</scope>
+</snippet>

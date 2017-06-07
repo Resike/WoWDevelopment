@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_QUEST_OBJECTIVE_COMPLETE_S]]></content>
+	<tabTrigger>LE_GAME_ERR_QUEST_OBJECTIVE_COMPLETE_S</tabTrigger>
+	<description>282</description>
+	<scope>source.lua</scope>
+</snippet>

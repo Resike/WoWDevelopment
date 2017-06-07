@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_LFG_TOO_MANY_MEMBERS]]></content>
+	<tabTrigger>LE_GAME_ERR_LFG_TOO_MANY_MEMBERS</tabTrigger>
+	<description>756</description>
+	<scope>source.lua</scope>
+</snippet>

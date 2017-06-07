@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_AUCTION_BID_OWN]]></content>
+	<tabTrigger>LE_GAME_ERR_AUCTION_BID_OWN</tabTrigger>
+	<description>437</description>
+	<scope>source.lua</scope>
+</snippet>

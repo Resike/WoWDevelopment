@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_AUTOCOMPLETE_PRIORITY_INTERACTED]]></content>
+	<tabTrigger>LE_AUTOCOMPLETE_PRIORITY_INTERACTED</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

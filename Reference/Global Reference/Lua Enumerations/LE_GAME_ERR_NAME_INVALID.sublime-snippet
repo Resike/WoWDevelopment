@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_NAME_INVALID]]></content>
+	<tabTrigger>LE_GAME_ERR_NAME_INVALID</tabTrigger>
+	<description>623</description>
+	<scope>source.lua</scope>
+</snippet>

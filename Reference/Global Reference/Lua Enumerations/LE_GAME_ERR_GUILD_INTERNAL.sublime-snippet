@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_GUILD_INTERNAL]]></content>
+	<tabTrigger>LE_GAME_ERR_GUILD_INTERNAL</tabTrigger>
+	<description>128</description>
+	<scope>source.lua</scope>
+</snippet>

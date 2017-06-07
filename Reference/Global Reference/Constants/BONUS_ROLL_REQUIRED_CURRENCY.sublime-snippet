@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BONUS_ROLL_REQUIRED_CURRENCY]]></content>
+	<tabTrigger>BONUS_ROLL_REQUIRED_CURRENCY</tabTrigger>
+	<description>697</description>
+	<scope>source.lua</scope>
+</snippet>

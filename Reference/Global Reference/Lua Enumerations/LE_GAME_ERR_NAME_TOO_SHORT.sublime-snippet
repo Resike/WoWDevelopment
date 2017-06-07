@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_NAME_TOO_SHORT]]></content>
+	<tabTrigger>LE_GAME_ERR_NAME_TOO_SHORT</tabTrigger>
+	<description>625</description>
+	<scope>source.lua</scope>
+</snippet>

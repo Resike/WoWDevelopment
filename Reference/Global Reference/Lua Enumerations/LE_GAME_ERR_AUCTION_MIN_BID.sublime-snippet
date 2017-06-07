@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_AUCTION_MIN_BID]]></content>
+	<tabTrigger>LE_GAME_ERR_AUCTION_MIN_BID</tabTrigger>
+	<description>440</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_USE_DESTROYED]]></content>
+	<tabTrigger>LE_GAME_ERR_USE_DESTROYED</tabTrigger>
+	<description>266</description>
+	<scope>source.lua</scope>
+</snippet>

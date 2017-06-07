@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_IN_BATTLEGROUND_RESPEC]]></content>
+	<tabTrigger>LE_GAME_ERR_IN_BATTLEGROUND_RESPEC</tabTrigger>
+	<description>731</description>
+	<scope>source.lua</scope>
+</snippet>

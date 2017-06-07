@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_FOLLOWER_ABILITY_CAST_RESULT_MUST_BE_UNIQUE]]></content>
+	<tabTrigger>LE_FOLLOWER_ABILITY_CAST_RESULT_MUST_BE_UNIQUE</tabTrigger>
+	<description>11</description>
+	<scope>source.lua</scope>
+</snippet>

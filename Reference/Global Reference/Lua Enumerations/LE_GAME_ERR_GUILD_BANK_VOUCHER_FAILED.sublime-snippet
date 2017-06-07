@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_GUILD_BANK_VOUCHER_FAILED]]></content>
+	<tabTrigger>LE_GAME_ERR_GUILD_BANK_VOUCHER_FAILED</tabTrigger>
+	<description>815</description>
+	<scope>source.lua</scope>
+</snippet>

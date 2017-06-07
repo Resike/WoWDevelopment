@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_IGNORE_FULL]]></content>
+	<tabTrigger>LE_GAME_ERR_IGNORE_FULL</tabTrigger>
+	<description>309</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WORLD_QUESTS_TIME_LOW_MINUTES]]></content>
+	<tabTrigger>WORLD_QUESTS_TIME_LOW_MINUTES</tabTrigger>
+	<description>75</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_FRIEND_DELETED]]></content>
+	<tabTrigger>LE_GAME_ERR_FRIEND_DELETED</tabTrigger>
+	<description>308</description>
+	<scope>source.lua</scope>
+</snippet>

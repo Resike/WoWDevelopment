@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SPEC_MONK_MISTWEAVER]]></content>
+	<tabTrigger>SPEC_MONK_MISTWEAVER</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

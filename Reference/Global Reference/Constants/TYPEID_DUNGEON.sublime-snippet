@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TYPEID_DUNGEON]]></content>
+	<tabTrigger>TYPEID_DUNGEON</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

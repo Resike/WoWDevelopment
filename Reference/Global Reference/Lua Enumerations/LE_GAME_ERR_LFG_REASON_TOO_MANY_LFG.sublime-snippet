@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_LFG_REASON_TOO_MANY_LFG]]></content>
+	<tabTrigger>LE_GAME_ERR_LFG_REASON_TOO_MANY_LFG</tabTrigger>
+	<description>779</description>
+	<scope>source.lua</scope>
+</snippet>

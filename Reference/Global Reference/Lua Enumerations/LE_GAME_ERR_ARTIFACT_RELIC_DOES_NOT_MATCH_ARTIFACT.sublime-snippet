@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_ARTIFACT_RELIC_DOES_NOT_MATCH_ARTIFACT]]></content>
+	<tabTrigger>LE_GAME_ERR_ARTIFACT_RELIC_DOES_NOT_MATCH_ARTIFACT</tabTrigger>
+	<description>964</description>
+	<scope>source.lua</scope>
+</snippet>

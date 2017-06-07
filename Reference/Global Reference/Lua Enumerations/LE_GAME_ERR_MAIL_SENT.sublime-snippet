@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_MAIL_SENT]]></content>
+	<tabTrigger>LE_GAME_ERR_MAIL_SENT</tabTrigger>
+	<description>423</description>
+	<scope>source.lua</scope>
+</snippet>

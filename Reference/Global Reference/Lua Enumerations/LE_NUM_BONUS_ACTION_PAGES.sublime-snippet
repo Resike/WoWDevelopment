@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_NUM_BONUS_ACTION_PAGES]]></content>
+	<tabTrigger>LE_NUM_BONUS_ACTION_PAGES</tabTrigger>
+	<description>4</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PANEL_DEFAULT_WIDTH]]></content>
+	<tabTrigger>PANEL_DEFAULT_WIDTH</tabTrigger>
+	<description>338</description>
+	<scope>source.lua</scope>
+</snippet>

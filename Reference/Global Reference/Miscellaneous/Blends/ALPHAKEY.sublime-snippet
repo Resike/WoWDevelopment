@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ALPHAKEY]]></content>
+	<tabTrigger>ALPHAKEY</tabTrigger>
+	<description>blend</description>
+	<scope>source.lua</scope>
+</snippet>

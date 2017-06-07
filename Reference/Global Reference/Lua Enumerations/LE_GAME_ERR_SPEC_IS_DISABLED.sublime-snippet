@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_SPEC_IS_DISABLED]]></content>
+	<tabTrigger>LE_GAME_ERR_SPEC_IS_DISABLED</tabTrigger>
+	<description>961</description>
+	<scope>source.lua</scope>
+</snippet>

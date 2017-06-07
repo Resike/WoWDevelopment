@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_QUEST_MUST_CHOOSE]]></content>
+	<tabTrigger>LE_GAME_ERR_QUEST_MUST_CHOOSE</tabTrigger>
+	<description>182</description>
+	<scope>source.lua</scope>
+</snippet>

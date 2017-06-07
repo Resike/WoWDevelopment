@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[INVSLOT_RANGED]]></content>
+	<tabTrigger>INVSLOT_RANGED</tabTrigger>
+	<description>18</description>
+	<scope>source.lua</scope>
+</snippet>

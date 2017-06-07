@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_KILLED_BY_S]]></content>
+	<tabTrigger>LE_GAME_ERR_KILLED_BY_S</tabTrigger>
+	<description>153</description>
+	<scope>source.lua</scope>
+</snippet>

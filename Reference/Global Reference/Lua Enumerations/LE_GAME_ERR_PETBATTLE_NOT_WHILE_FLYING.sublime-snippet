@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_PETBATTLE_NOT_WHILE_FLYING]]></content>
+	<tabTrigger>LE_GAME_ERR_PETBATTLE_NOT_WHILE_FLYING</tabTrigger>
+	<description>883</description>
+	<scope>source.lua</scope>
+</snippet>

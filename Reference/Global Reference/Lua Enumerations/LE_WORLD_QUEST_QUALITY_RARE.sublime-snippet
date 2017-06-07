@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_WORLD_QUEST_QUALITY_RARE]]></content>
+	<tabTrigger>LE_WORLD_QUEST_QUALITY_RARE</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

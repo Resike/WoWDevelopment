@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_TAXITOOFARAWAY]]></content>
+	<tabTrigger>LE_GAME_ERR_TAXITOOFARAWAY</tabTrigger>
+	<description>208</description>
+	<scope>source.lua</scope>
+</snippet>

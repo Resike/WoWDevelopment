@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_ATTACK_PACIFIED]]></content>
+	<tabTrigger>LE_GAME_ERR_ATTACK_PACIFIED</tabTrigger>
+	<description>196</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_BATTLETAG_FRIEND_SUCCESS]]></content>
+	<tabTrigger>LE_GAME_ERR_BATTLETAG_FRIEND_SUCCESS</tabTrigger>
+	<description>934</description>
+	<scope>source.lua</scope>
+</snippet>

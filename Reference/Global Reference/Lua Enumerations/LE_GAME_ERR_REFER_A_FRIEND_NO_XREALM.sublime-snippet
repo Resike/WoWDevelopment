@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_REFER_A_FRIEND_NO_XREALM]]></content>
+	<tabTrigger>LE_GAME_ERR_REFER_A_FRIEND_NO_XREALM</tabTrigger>
+	<description>648</description>
+	<scope>source.lua</scope>
+</snippet>

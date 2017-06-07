@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_FRAME_TUTORIAL_HEIRLOOM_JOURNAL_TAB]]></content>
+	<tabTrigger>LE_FRAME_TUTORIAL_HEIRLOOM_JOURNAL_TAB</tabTrigger>
+	<description>23</description>
+	<scope>source.lua</scope>
+</snippet>

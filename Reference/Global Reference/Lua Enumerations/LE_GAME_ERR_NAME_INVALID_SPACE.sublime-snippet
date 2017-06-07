@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_NAME_INVALID_SPACE]]></content>
+	<tabTrigger>LE_GAME_ERR_NAME_INVALID_SPACE</tabTrigger>
+	<description>631</description>
+	<scope>source.lua</scope>
+</snippet>

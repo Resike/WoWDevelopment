@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_FRIEND_ONLINE_SS]]></content>
+	<tabTrigger>LE_GAME_ERR_FRIEND_ONLINE_SS</tabTrigger>
+	<description>299</description>
+	<scope>source.lua</scope>
+</snippet>

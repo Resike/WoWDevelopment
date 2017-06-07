@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_PETBATTLE_NO_PETS_IN_SLOTS]]></content>
+	<tabTrigger>LE_GAME_ERR_PETBATTLE_NO_PETS_IN_SLOTS</tabTrigger>
+	<description>892</description>
+	<scope>source.lua</scope>
+</snippet>

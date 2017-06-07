@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_VOID_STORAGE_REPAIR]]></content>
+	<tabTrigger>LE_GAME_ERR_VOID_STORAGE_REPAIR</tabTrigger>
+	<description>846</description>
+	<scope>source.lua</scope>
+</snippet>

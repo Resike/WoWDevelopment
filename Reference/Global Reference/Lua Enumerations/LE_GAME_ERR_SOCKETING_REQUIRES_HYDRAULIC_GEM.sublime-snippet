@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_SOCKETING_REQUIRES_HYDRAULIC_GEM]]></content>
+	<tabTrigger>LE_GAME_ERR_SOCKETING_REQUIRES_HYDRAULIC_GEM</tabTrigger>
+	<description>579</description>
+	<scope>source.lua</scope>
+</snippet>

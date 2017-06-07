@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_INVALID_PROMOTION_CODE]]></content>
+	<tabTrigger>LE_GAME_ERR_INVALID_PROMOTION_CODE</tabTrigger>
+	<description>539</description>
+	<scope>source.lua</scope>
+</snippet>

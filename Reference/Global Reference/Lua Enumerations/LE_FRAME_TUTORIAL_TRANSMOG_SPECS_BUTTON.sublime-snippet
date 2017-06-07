@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_FRAME_TUTORIAL_TRANSMOG_SPECS_BUTTON]]></content>
+	<tabTrigger>LE_FRAME_TUTORIAL_TRANSMOG_SPECS_BUTTON</tabTrigger>
+	<description>37</description>
+	<scope>source.lua</scope>
+</snippet>

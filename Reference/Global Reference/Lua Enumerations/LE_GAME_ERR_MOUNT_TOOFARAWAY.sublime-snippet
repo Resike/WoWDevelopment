@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_MOUNT_TOOFARAWAY]]></content>
+	<tabTrigger>LE_GAME_ERR_MOUNT_TOOFARAWAY</tabTrigger>
+	<description>233</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_PAN_STEADY]]></content>
+	<tabTrigger>LE_PAN_STEADY</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

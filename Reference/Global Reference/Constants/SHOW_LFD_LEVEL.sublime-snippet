@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SHOW_LFD_LEVEL]]></content>
+	<tabTrigger>SHOW_LFD_LEVEL</tabTrigger>
+	<description>15</description>
+	<scope>source.lua</scope>
+</snippet>

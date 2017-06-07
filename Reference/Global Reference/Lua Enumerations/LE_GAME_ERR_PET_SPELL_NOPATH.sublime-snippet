@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_PET_SPELL_NOPATH]]></content>
+	<tabTrigger>LE_GAME_ERR_PET_SPELL_NOPATH</tabTrigger>
+	<description>396</description>
+	<scope>source.lua</scope>
+</snippet>

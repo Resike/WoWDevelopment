@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_SET_LOOT_FREEFORALL]]></content>
+	<tabTrigger>LE_GAME_ERR_SET_LOOT_FREEFORALL</tabTrigger>
+	<description>267</description>
+	<scope>source.lua</scope>
+</snippet>

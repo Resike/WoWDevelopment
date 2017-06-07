@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_BATTLETAG_FRIEND_NOT_ALLOWED]]></content>
+	<tabTrigger>LE_GAME_ERR_BATTLETAG_FRIEND_NOT_ALLOWED</tabTrigger>
+	<description>932</description>
+	<scope>source.lua</scope>
+</snippet>

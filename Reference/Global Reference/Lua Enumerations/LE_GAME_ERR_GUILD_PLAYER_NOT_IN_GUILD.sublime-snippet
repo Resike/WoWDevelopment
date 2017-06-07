@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_GUILD_PLAYER_NOT_IN_GUILD]]></content>
+	<tabTrigger>LE_GAME_ERR_GUILD_PLAYER_NOT_IN_GUILD</tabTrigger>
+	<description>124</description>
+	<scope>source.lua</scope>
+</snippet>

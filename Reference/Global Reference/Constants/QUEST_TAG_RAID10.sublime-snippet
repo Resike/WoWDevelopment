@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[QUEST_TAG_RAID10]]></content>
+	<tabTrigger>QUEST_TAG_RAID10</tabTrigger>
+	<description>88</description>
+	<scope>source.lua</scope>
+</snippet>

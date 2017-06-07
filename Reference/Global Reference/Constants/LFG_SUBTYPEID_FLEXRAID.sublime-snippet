@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LFG_SUBTYPEID_FLEXRAID]]></content>
+	<tabTrigger>LFG_SUBTYPEID_FLEXRAID</tabTrigger>
+	<description>5</description>
+	<scope>source.lua</scope>
+</snippet>

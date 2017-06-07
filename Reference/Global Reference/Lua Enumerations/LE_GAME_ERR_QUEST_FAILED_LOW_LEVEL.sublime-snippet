@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_QUEST_FAILED_LOW_LEVEL]]></content>
+	<tabTrigger>LE_GAME_ERR_QUEST_FAILED_LOW_LEVEL</tabTrigger>
+	<description>168</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WORLD_QUESTS_TIME_CRITICAL_MINUTES]]></content>
+	<tabTrigger>WORLD_QUESTS_TIME_CRITICAL_MINUTES</tabTrigger>
+	<description>15</description>
+	<scope>source.lua</scope>
+</snippet>

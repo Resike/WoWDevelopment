@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_NUM_CHARACTER_UPGRADE_RESULT]]></content>
+	<tabTrigger>LE_NUM_CHARACTER_UPGRADE_RESULT</tabTrigger>
+	<description>13</description>
+	<scope>source.lua</scope>
+</snippet>

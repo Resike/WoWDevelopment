@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_MAP_LANDMARK_TYPE_DUNGEON_ENTRANCE]]></content>
+	<tabTrigger>LE_MAP_LANDMARK_TYPE_DUNGEON_ENTRANCE</tabTrigger>
+	<description>9</description>
+	<scope>source.lua</scope>
+</snippet>

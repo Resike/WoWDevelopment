@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_CANT_SPEAK_LANGAGE]]></content>
+	<tabTrigger>LE_GAME_ERR_CANT_SPEAK_LANGAGE</tabTrigger>
+	<description>571</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_MAP_LANDMARK_TYPE_VIGNETTE]]></content>
+	<tabTrigger>LE_MAP_LANDMARK_TYPE_VIGNETTE</tabTrigger>
+	<description>6</description>
+	<scope>source.lua</scope>
+</snippet>

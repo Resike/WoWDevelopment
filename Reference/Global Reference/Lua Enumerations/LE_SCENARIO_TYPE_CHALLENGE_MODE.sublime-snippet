@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_SCENARIO_TYPE_CHALLENGE_MODE]]></content>
+	<tabTrigger>LE_SCENARIO_TYPE_CHALLENGE_MODE</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

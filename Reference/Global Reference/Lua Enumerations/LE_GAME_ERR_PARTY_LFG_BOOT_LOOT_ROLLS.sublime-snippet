@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_PARTY_LFG_BOOT_LOOT_ROLLS]]></content>
+	<tabTrigger>LE_GAME_ERR_PARTY_LFG_BOOT_LOOT_ROLLS</tabTrigger>
+	<description>686</description>
+	<scope>source.lua</scope>
+</snippet>

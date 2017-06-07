@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_WORLD_ELAPSED_TIMER_TYPE_PROVING_GROUND]]></content>
+	<tabTrigger>LE_WORLD_ELAPSED_TIMER_TYPE_PROVING_GROUND</tabTrigger>
+	<description>3</description>
+	<scope>source.lua</scope>
+</snippet>

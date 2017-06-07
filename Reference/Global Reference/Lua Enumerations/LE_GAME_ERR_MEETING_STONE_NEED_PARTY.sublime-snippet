@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_MEETING_STONE_NEED_PARTY]]></content>
+	<tabTrigger>LE_GAME_ERR_MEETING_STONE_NEED_PARTY</tabTrigger>
+	<description>521</description>
+	<scope>source.lua</scope>
+</snippet>

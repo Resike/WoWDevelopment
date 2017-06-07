@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_TOY_ALREADY_KNOWN]]></content>
+	<tabTrigger>LE_GAME_ERR_TOY_ALREADY_KNOWN</tabTrigger>
+	<description>958</description>
+	<scope>source.lua</scope>
+</snippet>

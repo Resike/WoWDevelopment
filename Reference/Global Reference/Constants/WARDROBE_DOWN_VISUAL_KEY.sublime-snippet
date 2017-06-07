@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WARDROBE_DOWN_VISUAL_KEY]]></content>
+	<tabTrigger>WARDROBE_DOWN_VISUAL_KEY</tabTrigger>
+	<description>"DOWN"</description>
+	<scope>source.lua</scope>
+</snippet>

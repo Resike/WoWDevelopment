@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BATTLENET_FONT_COLOR_CODE]]></content>
+	<tabTrigger>BATTLENET_FONT_COLOR_CODE</tabTrigger>
+	<description>"|cff82c5ff"</description>
+	<scope>source.lua</scope>
+</snippet>

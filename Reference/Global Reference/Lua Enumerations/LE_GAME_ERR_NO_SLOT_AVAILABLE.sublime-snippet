@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_NO_SLOT_AVAILABLE]]></content>
+	<tabTrigger>LE_GAME_ERR_NO_SLOT_AVAILABLE</tabTrigger>
+	<description>20</description>
+	<scope>source.lua</scope>
+</snippet>

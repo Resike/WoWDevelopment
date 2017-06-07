@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_LFG_REMOVED_XP_TOGGLE]]></content>
+	<tabTrigger>LE_GAME_ERR_LFG_REMOVED_XP_TOGGLE</tabTrigger>
+	<description>695</description>
+	<scope>source.lua</scope>
+</snippet>

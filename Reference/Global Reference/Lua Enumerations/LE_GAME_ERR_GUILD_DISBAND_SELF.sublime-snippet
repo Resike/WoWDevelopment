@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_GUILD_DISBAND_SELF]]></content>
+	<tabTrigger>LE_GAME_ERR_GUILD_DISBAND_SELF</tabTrigger>
+	<description>119</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_LFG_CANT_USE_DUNGEONS]]></content>
+	<tabTrigger>LE_GAME_ERR_LFG_CANT_USE_DUNGEONS</tabTrigger>
+	<description>778</description>
+	<scope>source.lua</scope>
+</snippet>

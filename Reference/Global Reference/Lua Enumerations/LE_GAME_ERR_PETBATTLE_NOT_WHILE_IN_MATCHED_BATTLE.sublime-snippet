@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_PETBATTLE_NOT_WHILE_IN_MATCHED_BATTLE]]></content>
+	<tabTrigger>LE_GAME_ERR_PETBATTLE_NOT_WHILE_IN_MATCHED_BATTLE</tabTrigger>
+	<description>896</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_QUEST_ADD_PLAYER_KILL_SII]]></content>
+	<tabTrigger>LE_GAME_ERR_QUEST_ADD_PLAYER_KILL_SII</tabTrigger>
+	<description>287</description>
+	<scope>source.lua</scope>
+</snippet>

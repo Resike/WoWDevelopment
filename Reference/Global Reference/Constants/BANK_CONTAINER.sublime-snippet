@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BANK_CONTAINER]]></content>
+	<tabTrigger>BANK_CONTAINER</tabTrigger>
+	<description>-1</description>
+	<scope>source.lua</scope>
+</snippet>

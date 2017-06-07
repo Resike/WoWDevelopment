@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_MAIL_DELETE_ITEM_ERROR]]></content>
+	<tabTrigger>LE_GAME_ERR_MAIL_DELETE_ITEM_ERROR</tabTrigger>
+	<description>420</description>
+	<scope>source.lua</scope>
+</snippet>

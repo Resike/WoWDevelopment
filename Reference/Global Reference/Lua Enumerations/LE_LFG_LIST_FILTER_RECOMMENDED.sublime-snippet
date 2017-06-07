@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_LFG_LIST_FILTER_RECOMMENDED]]></content>
+	<tabTrigger>LE_LFG_LIST_FILTER_RECOMMENDED</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

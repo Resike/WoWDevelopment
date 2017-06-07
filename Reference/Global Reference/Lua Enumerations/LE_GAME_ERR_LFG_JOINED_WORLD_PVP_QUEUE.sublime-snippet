@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_LFG_JOINED_WORLD_PVP_QUEUE]]></content>
+	<tabTrigger>LE_GAME_ERR_LFG_JOINED_WORLD_PVP_QUEUE</tabTrigger>
+	<description>771</description>
+	<scope>source.lua</scope>
+</snippet>

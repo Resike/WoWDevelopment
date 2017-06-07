@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_LFG_RANDOM_COOLDOWN_PARTY]]></content>
+	<tabTrigger>LE_GAME_ERR_LFG_RANDOM_COOLDOWN_PARTY</tabTrigger>
+	<description>755</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_OUT_OF_COMBO_POINTS]]></content>
+	<tabTrigger>LE_GAME_ERR_OUT_OF_COMBO_POINTS</tabTrigger>
+	<description>339</description>
+	<scope>source.lua</scope>
+</snippet>

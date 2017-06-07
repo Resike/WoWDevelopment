@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_FRAME_TUTORIAL_GARRISON_BUILDING]]></content>
+	<tabTrigger>LE_FRAME_TUTORIAL_GARRISON_BUILDING</tabTrigger>
+	<description>9</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_PARENTAL_CONTROLS_CHAT_MUTED]]></content>
+	<tabTrigger>LE_GAME_ERR_PARENTAL_CONTROLS_CHAT_MUTED</tabTrigger>
+	<description>863</description>
+	<scope>source.lua</scope>
+</snippet>

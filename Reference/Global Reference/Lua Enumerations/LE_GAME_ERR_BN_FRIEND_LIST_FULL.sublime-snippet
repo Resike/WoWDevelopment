@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_BN_FRIEND_LIST_FULL]]></content>
+	<tabTrigger>LE_GAME_ERR_BN_FRIEND_LIST_FULL</tabTrigger>
+	<description>801</description>
+	<scope>source.lua</scope>
+</snippet>

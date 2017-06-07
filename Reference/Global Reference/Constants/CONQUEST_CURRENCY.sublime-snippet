@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CONQUEST_CURRENCY]]></content>
+	<tabTrigger>CONQUEST_CURRENCY</tabTrigger>
+	<description>390</description>
+	<scope>source.lua</scope>
+</snippet>

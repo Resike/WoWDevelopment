@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_BATTLEGROUND_JOIN_MUST_COMPLETE_QUEST]]></content>
+	<tabTrigger>LE_GAME_ERR_BATTLEGROUND_JOIN_MUST_COMPLETE_QUEST</tabTrigger>
+	<description>730</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SPELL_POWER_SOUL_SHARDS]]></content>
+	<tabTrigger>SPELL_POWER_SOUL_SHARDS</tabTrigger>
+	<description>7</description>
+	<scope>source.lua</scope>
+</snippet>

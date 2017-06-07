@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_TRADE_TEMP_ENCHANT_BOUND]]></content>
+	<tabTrigger>LE_GAME_ERR_TRADE_TEMP_ENCHANT_BOUND</tabTrigger>
+	<description>47</description>
+	<scope>source.lua</scope>
+</snippet>

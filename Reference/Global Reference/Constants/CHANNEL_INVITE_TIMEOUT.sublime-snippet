@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHANNEL_INVITE_TIMEOUT]]></content>
+	<tabTrigger>CHANNEL_INVITE_TIMEOUT</tabTrigger>
+	<description>60</description>
+	<scope>source.lua</scope>
+</snippet>

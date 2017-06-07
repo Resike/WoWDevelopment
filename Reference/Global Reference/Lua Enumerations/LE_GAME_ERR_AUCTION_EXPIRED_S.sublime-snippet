@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_AUCTION_EXPIRED_S]]></content>
+	<tabTrigger>LE_GAME_ERR_AUCTION_EXPIRED_S</tabTrigger>
+	<description>449</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[COMBATLOG_OBJECT_CONTROL_NPC]]></content>
+	<tabTrigger>COMBATLOG_OBJECT_CONTROL_NPC</tabTrigger>
+	<description>0x00000200</description>
+	<scope>source.lua</scope>
+</snippet>

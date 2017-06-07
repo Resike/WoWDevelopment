@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_TRANSMOG_TYPE_APPEARANCE]]></content>
+	<tabTrigger>LE_TRANSMOG_TYPE_APPEARANCE</tabTrigger>
+	<description>0</description>
+	<scope>source.lua</scope>
+</snippet>

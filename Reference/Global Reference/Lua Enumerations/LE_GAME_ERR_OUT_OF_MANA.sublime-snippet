@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_OUT_OF_MANA]]></content>
+	<tabTrigger>LE_GAME_ERR_OUT_OF_MANA</tabTrigger>
+	<description>327</description>
+	<scope>source.lua</scope>
+</snippet>

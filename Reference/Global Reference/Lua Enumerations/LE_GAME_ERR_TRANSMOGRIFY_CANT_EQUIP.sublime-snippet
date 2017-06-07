@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_TRANSMOGRIFY_CANT_EQUIP]]></content>
+	<tabTrigger>LE_GAME_ERR_TRANSMOGRIFY_CANT_EQUIP</tabTrigger>
+	<description>831</description>
+	<scope>source.lua</scope>
+</snippet>

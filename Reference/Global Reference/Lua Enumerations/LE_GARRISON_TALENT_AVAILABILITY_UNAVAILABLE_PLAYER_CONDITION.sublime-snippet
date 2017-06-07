@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GARRISON_TALENT_AVAILABILITY_UNAVAILABLE_PLAYER_CONDITION]]></content>
+	<tabTrigger>LE_GARRISON_TALENT_AVAILABILITY_UNAVAILABLE_PLAYER_CONDITION</tabTrigger>
+	<description>7</description>
+	<scope>source.lua</scope>
+</snippet>

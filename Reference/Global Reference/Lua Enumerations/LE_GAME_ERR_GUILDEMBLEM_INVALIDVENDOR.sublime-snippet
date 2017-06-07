@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_GUILDEMBLEM_INVALIDVENDOR]]></content>
+	<tabTrigger>LE_GAME_ERR_GUILDEMBLEM_INVALIDVENDOR</tabTrigger>
+	<description>356</description>
+	<scope>source.lua</scope>
+</snippet>

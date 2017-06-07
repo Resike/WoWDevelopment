@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TALENT_SORT_ORDER]]></content>
+	<tabTrigger>TALENT_SORT_ORDER</tabTrigger>
+	<description></description>
+	<scope>source.lua</scope>
+</snippet>

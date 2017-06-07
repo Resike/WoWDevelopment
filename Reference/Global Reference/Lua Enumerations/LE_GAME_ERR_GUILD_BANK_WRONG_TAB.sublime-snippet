@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_GUILD_BANK_WRONG_TAB]]></content>
+	<tabTrigger>LE_GAME_ERR_GUILD_BANK_WRONG_TAB</tabTrigger>
+	<description>148</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_AUCTION_REMOVED]]></content>
+	<tabTrigger>LE_GAME_ERR_AUCTION_REMOVED</tabTrigger>
+	<description>445</description>
+	<scope>source.lua</scope>
+</snippet>

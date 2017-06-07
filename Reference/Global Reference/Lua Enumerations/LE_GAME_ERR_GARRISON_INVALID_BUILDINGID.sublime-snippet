@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_GARRISON_INVALID_BUILDINGID]]></content>
+	<tabTrigger>LE_GAME_ERR_GARRISON_INVALID_BUILDINGID</tabTrigger>
+	<description>949</description>
+	<scope>source.lua</scope>
+</snippet>

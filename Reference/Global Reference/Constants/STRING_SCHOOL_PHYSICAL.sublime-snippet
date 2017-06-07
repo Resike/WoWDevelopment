@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[STRING_SCHOOL_PHYSICAL]]></content>
+	<tabTrigger>STRING_SCHOOL_PHYSICAL</tabTrigger>
+	<description></description>
+	<scope>source.lua</scope>
+</snippet>

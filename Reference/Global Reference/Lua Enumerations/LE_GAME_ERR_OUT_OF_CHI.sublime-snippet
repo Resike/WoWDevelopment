@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_OUT_OF_CHI]]></content>
+	<tabTrigger>LE_GAME_ERR_OUT_OF_CHI</tabTrigger>
+	<description>331</description>
+	<scope>source.lua</scope>
+</snippet>

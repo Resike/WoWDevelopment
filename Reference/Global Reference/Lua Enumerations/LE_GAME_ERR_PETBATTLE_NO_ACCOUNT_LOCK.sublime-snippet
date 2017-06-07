@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_PETBATTLE_NO_ACCOUNT_LOCK]]></content>
+	<tabTrigger>LE_GAME_ERR_PETBATTLE_NO_ACCOUNT_LOCK</tabTrigger>
+	<description>893</description>
+	<scope>source.lua</scope>
+</snippet>

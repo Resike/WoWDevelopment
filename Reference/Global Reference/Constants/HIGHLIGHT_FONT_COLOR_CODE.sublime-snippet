@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HIGHLIGHT_FONT_COLOR_CODE]]></content>
+	<tabTrigger>HIGHLIGHT_FONT_COLOR_CODE</tabTrigger>
+	<description>"|cffffffff"</description>
+	<scope>source.lua</scope>
+</snippet>

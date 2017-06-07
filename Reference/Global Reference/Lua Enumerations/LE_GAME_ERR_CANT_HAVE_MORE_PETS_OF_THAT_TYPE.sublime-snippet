@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_CANT_HAVE_MORE_PETS_OF_THAT_TYPE]]></content>
+	<tabTrigger>LE_GAME_ERR_CANT_HAVE_MORE_PETS_OF_THAT_TYPE</tabTrigger>
+	<description>897</description>
+	<scope>source.lua</scope>
+</snippet>

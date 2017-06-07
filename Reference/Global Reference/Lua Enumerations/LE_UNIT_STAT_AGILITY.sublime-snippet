@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_UNIT_STAT_AGILITY]]></content>
+	<tabTrigger>LE_UNIT_STAT_AGILITY</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

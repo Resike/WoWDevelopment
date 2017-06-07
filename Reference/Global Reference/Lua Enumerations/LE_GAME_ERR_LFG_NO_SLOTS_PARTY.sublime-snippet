@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_LFG_NO_SLOTS_PARTY]]></content>
+	<tabTrigger>LE_GAME_ERR_LFG_NO_SLOTS_PARTY</tabTrigger>
+	<description>743</description>
+	<scope>source.lua</scope>
+</snippet>

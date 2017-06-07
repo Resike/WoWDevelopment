@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_PVP_KILL_DISHONORABLE]]></content>
+	<tabTrigger>LE_GAME_ERR_PVP_KILL_DISHONORABLE</tabTrigger>
+	<description>473</description>
+	<scope>source.lua</scope>
+</snippet>

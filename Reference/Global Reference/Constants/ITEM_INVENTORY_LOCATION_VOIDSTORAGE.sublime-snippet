@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ITEM_INVENTORY_LOCATION_VOIDSTORAGE]]></content>
+	<tabTrigger>ITEM_INVENTORY_LOCATION_VOIDSTORAGE</tabTrigger>
+	<description>0x00800000</description>
+	<scope>source.lua</scope>
+</snippet>

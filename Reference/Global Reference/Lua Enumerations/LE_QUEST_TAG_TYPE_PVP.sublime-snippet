@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_QUEST_TAG_TYPE_PVP]]></content>
+	<tabTrigger>LE_QUEST_TAG_TYPE_PVP</tabTrigger>
+	<description>3</description>
+	<scope>source.lua</scope>
+</snippet>

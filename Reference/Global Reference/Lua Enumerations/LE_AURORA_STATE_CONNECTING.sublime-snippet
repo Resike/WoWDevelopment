@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_AURORA_STATE_CONNECTING]]></content>
+	<tabTrigger>LE_AURORA_STATE_CONNECTING</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

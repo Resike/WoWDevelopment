@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_UNIT_NOT_FOUND]]></content>
+	<tabTrigger>LE_GAME_ERR_UNIT_NOT_FOUND</tabTrigger>
+	<description>348</description>
+	<scope>source.lua</scope>
+</snippet>

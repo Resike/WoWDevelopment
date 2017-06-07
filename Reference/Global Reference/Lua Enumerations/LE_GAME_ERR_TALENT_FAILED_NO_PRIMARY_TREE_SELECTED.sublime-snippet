@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_TALENT_FAILED_NO_PRIMARY_TREE_SELECTED]]></content>
+	<tabTrigger>LE_GAME_ERR_TALENT_FAILED_NO_PRIMARY_TREE_SELECTED</tabTrigger>
+	<description>810</description>
+	<scope>source.lua</scope>
+</snippet>

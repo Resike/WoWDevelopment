@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_FRAME_TUTORIAL_GAME_TIME_AUCTION_HOUSE]]></content>
+	<tabTrigger>LE_FRAME_TUTORIAL_GAME_TIME_AUCTION_HOUSE</tabTrigger>
+	<description>25</description>
+	<scope>source.lua</scope>
+</snippet>

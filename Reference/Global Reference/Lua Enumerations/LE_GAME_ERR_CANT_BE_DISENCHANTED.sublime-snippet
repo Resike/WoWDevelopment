@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_CANT_BE_DISENCHANTED]]></content>
+	<tabTrigger>LE_GAME_ERR_CANT_BE_DISENCHANTED</tabTrigger>
+	<description>426</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_ALREADY_USING_LFG_LIST]]></content>
+	<tabTrigger>LE_GAME_ERR_ALREADY_USING_LFG_LIST</tabTrigger>
+	<description>955</description>
+	<scope>source.lua</scope>
+</snippet>

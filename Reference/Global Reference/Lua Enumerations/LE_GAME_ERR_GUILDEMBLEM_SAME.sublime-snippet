@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_GUILDEMBLEM_SAME]]></content>
+	<tabTrigger>LE_GAME_ERR_GUILDEMBLEM_SAME</tabTrigger>
+	<description>523</description>
+	<scope>source.lua</scope>
+</snippet>

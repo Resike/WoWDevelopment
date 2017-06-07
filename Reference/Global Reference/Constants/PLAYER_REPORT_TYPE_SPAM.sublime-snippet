@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PLAYER_REPORT_TYPE_SPAM]]></content>
+	<tabTrigger>PLAYER_REPORT_TYPE_SPAM</tabTrigger>
+	<description>"spam"</description>
+	<scope>source.lua</scope>
+</snippet>

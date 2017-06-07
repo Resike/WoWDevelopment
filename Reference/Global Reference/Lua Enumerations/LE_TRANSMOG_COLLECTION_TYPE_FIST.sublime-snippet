@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_TRANSMOG_COLLECTION_TYPE_FIST]]></content>
+	<tabTrigger>LE_TRANSMOG_COLLECTION_TYPE_FIST</tabTrigger>
+	<description>17</description>
+	<scope>source.lua</scope>
+</snippet>

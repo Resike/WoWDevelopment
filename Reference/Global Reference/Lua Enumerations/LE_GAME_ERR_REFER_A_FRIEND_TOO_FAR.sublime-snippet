@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_REFER_A_FRIEND_TOO_FAR]]></content>
+	<tabTrigger>LE_GAME_ERR_REFER_A_FRIEND_TOO_FAR</tabTrigger>
+	<description>639</description>
+	<scope>source.lua</scope>
+</snippet>

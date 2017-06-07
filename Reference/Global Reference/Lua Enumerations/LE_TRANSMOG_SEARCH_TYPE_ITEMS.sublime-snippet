@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_TRANSMOG_SEARCH_TYPE_ITEMS]]></content>
+	<tabTrigger>LE_TRANSMOG_SEARCH_TYPE_ITEMS</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

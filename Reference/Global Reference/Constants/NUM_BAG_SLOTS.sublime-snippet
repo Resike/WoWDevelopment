@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NUM_BAG_SLOTS]]></content>
+	<tabTrigger>NUM_BAG_SLOTS</tabTrigger>
+	<description>4</description>
+	<scope>source.lua</scope>
+</snippet>

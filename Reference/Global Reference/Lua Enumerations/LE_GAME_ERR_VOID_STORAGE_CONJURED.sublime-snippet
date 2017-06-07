@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_VOID_STORAGE_CONJURED]]></content>
+	<tabTrigger>LE_GAME_ERR_VOID_STORAGE_CONJURED</tabTrigger>
+	<description>849</description>
+	<scope>source.lua</scope>
+</snippet>

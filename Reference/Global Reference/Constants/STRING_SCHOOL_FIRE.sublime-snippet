@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[STRING_SCHOOL_FIRE]]></content>
+	<tabTrigger>STRING_SCHOOL_FIRE</tabTrigger>
+	<description></description>
+	<scope>source.lua</scope>
+</snippet>

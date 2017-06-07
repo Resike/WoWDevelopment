@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_VOICE_IGNORE_DELETED]]></content>
+	<tabTrigger>LE_GAME_ERR_VOICE_IGNORE_DELETED</tabTrigger>
+	<description>601</description>
+	<scope>source.lua</scope>
+</snippet>

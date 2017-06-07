@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_OUT_OF_RUNES]]></content>
+	<tabTrigger>LE_GAME_ERR_OUT_OF_RUNES</tabTrigger>
+	<description>333</description>
+	<scope>source.lua</scope>
+</snippet>

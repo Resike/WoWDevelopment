@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_MOUNT_INVALIDMOUNTEE]]></content>
+	<tabTrigger>LE_GAME_ERR_MOUNT_INVALIDMOUNTEE</tabTrigger>
+	<description>232</description>
+	<scope>source.lua</scope>
+</snippet>

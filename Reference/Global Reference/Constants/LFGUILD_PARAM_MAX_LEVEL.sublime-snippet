@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LFGUILD_PARAM_MAX_LEVEL]]></content>
+	<tabTrigger>LFGUILD_PARAM_MAX_LEVEL</tabTrigger>
+	<description>12</description>
+	<scope>source.lua</scope>
+</snippet>

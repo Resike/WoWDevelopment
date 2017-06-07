@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_CHARACTER_UPGRADE_RESULT_TRIAL_THROTTLE_WEEK]]></content>
+	<tabTrigger>LE_CHARACTER_UPGRADE_RESULT_TRIAL_THROTTLE_WEEK</tabTrigger>
+	<description>5</description>
+	<scope>source.lua</scope>
+</snippet>

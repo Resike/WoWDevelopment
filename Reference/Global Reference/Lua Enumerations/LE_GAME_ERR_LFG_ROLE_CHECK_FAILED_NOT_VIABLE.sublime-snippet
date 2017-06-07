@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_LFG_ROLE_CHECK_FAILED_NOT_VIABLE]]></content>
+	<tabTrigger>LE_GAME_ERR_LFG_ROLE_CHECK_FAILED_NOT_VIABLE</tabTrigger>
+	<description>737</description>
+	<scope>source.lua</scope>
+</snippet>

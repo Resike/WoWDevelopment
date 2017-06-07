@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WARDROBE_TOOLTIP_CYCLE_ARROW_ICON]]></content>
+	<tabTrigger>WARDROBE_TOOLTIP_CYCLE_ARROW_ICON</tabTrigger>
+	<description>"|TInterface\\Transmogrify\\transmog-tooltip-arrow:12:11:-1:-1|t"</description>
+	<scope>source.lua</scope>
+</snippet>

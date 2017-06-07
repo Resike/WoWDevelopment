@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_TRADE_WRONG_REALM]]></content>
+	<tabTrigger>LE_GAME_ERR_TRADE_WRONG_REALM</tabTrigger>
+	<description>559</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[QUEST_TAG_LEGENDARY]]></content>
+	<tabTrigger>QUEST_TAG_LEGENDARY</tabTrigger>
+	<description>83</description>
+	<scope>source.lua</scope>
+</snippet>

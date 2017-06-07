@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SPELL_POWER_CHI]]></content>
+	<tabTrigger>SPELL_POWER_CHI</tabTrigger>
+	<description>12</description>
+	<scope>source.lua</scope>
+</snippet>

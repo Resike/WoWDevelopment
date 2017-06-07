@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_OUT_OF_MAELSTROM]]></content>
+	<tabTrigger>LE_GAME_ERR_OUT_OF_MAELSTROM</tabTrigger>
+	<description>338</description>
+	<scope>source.lua</scope>
+</snippet>

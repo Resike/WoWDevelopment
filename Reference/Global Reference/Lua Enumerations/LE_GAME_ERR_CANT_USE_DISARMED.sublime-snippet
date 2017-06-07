@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_CANT_USE_DISARMED]]></content>
+	<tabTrigger>LE_GAME_ERR_CANT_USE_DISARMED</tabTrigger>
+	<description>427</description>
+	<scope>source.lua</scope>
+</snippet>

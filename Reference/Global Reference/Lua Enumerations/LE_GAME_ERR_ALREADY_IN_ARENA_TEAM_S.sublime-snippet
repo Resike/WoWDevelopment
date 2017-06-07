@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_ALREADY_IN_ARENA_TEAM_S]]></content>
+	<tabTrigger>LE_GAME_ERR_ALREADY_IN_ARENA_TEAM_S</tabTrigger>
+	<description>538</description>
+	<scope>source.lua</scope>
+</snippet>

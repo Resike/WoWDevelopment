@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_OUT_OF_HEALTH]]></content>
+	<tabTrigger>LE_GAME_ERR_OUT_OF_HEALTH</tabTrigger>
+	<description>332</description>
+	<scope>source.lua</scope>
+</snippet>

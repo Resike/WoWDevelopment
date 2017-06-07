@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_GUILD_DISBANDED]]></content>
+	<tabTrigger>LE_GAME_ERR_GUILD_DISBANDED</tabTrigger>
+	<description>131</description>
+	<scope>source.lua</scope>
+</snippet>

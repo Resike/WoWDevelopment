@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_CANT_EQUIP_RANK]]></content>
+	<tabTrigger>LE_GAME_ERR_CANT_EQUIP_RANK</tabTrigger>
+	<description>7</description>
+	<scope>source.lua</scope>
+</snippet>

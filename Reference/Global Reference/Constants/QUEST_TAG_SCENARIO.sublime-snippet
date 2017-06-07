@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[QUEST_TAG_SCENARIO]]></content>
+	<tabTrigger>QUEST_TAG_SCENARIO</tabTrigger>
+	<description>98</description>
+	<scope>source.lua</scope>
+</snippet>

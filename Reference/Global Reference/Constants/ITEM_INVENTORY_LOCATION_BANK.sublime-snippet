@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ITEM_INVENTORY_LOCATION_BANK]]></content>
+	<tabTrigger>ITEM_INVENTORY_LOCATION_BANK</tabTrigger>
+	<description>0x00400000</description>
+	<scope>source.lua</scope>
+</snippet>

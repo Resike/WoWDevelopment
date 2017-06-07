@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_QUEST_FAILED_EXPANSION]]></content>
+	<tabTrigger>LE_GAME_ERR_QUEST_FAILED_EXPANSION</tabTrigger>
+	<description>172</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_SOCKETING_ITEM_TOO_LOW_LEVEL]]></content>
+	<tabTrigger>LE_GAME_ERR_SOCKETING_ITEM_TOO_LOW_LEVEL</tabTrigger>
+	<description>583</description>
+	<scope>source.lua</scope>
+</snippet>

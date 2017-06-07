@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_WOW_CONNECTION_STATE_CONNECTING]]></content>
+	<tabTrigger>LE_WOW_CONNECTION_STATE_CONNECTING</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

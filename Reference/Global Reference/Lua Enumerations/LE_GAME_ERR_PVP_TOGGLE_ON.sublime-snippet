@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_PVP_TOGGLE_ON]]></content>
+	<tabTrigger>LE_GAME_ERR_PVP_TOGGLE_ON</tabTrigger>
+	<description>525</description>
+	<scope>source.lua</scope>
+</snippet>

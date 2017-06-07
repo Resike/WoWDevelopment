@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_BATTLEDGROUND_QUEUED_FOR_RATED]]></content>
+	<tabTrigger>LE_GAME_ERR_BATTLEDGROUND_QUEUED_FOR_RATED</tabTrigger>
+	<description>535</description>
+	<scope>source.lua</scope>
+</snippet>

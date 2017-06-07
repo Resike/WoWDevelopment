@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_RAID_DISALLOWED_BY_LEVEL]]></content>
+	<tabTrigger>LE_GAME_ERR_RAID_DISALLOWED_BY_LEVEL</tabTrigger>
+	<description>690</description>
+	<scope>source.lua</scope>
+</snippet>

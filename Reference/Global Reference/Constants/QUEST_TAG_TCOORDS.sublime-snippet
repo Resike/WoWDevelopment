@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[QUEST_TAG_TCOORDS]]></content>
+	<tabTrigger>QUEST_TAG_TCOORDS</tabTrigger>
+	<description></description>
+	<scope>source.lua</scope>
+</snippet>

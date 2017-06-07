@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_OBJECT_IS_BUSY]]></content>
+	<tabTrigger>LE_GAME_ERR_OBJECT_IS_BUSY</tabTrigger>
+	<description>404</description>
+	<scope>source.lua</scope>
+</snippet>

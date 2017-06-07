@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_ITEM_UNIQUE_EQUIPPABLE]]></content>
+	<tabTrigger>LE_GAME_ERR_ITEM_UNIQUE_EQUIPPABLE</tabTrigger>
+	<description>568</description>
+	<scope>source.lua</scope>
+</snippet>

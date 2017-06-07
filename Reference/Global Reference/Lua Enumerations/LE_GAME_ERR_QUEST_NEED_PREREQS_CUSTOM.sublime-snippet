@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_QUEST_NEED_PREREQS_CUSTOM]]></content>
+	<tabTrigger>LE_GAME_ERR_QUEST_NEED_PREREQS_CUSTOM</tabTrigger>
+	<description>175</description>
+	<scope>source.lua</scope>
+</snippet>

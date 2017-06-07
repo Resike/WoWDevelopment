@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_CLAIMED_CHALLENGE_MODE_REWARD_OLD]]></content>
+	<tabTrigger>LE_GAME_ERR_CLAIMED_CHALLENGE_MODE_REWARD_OLD</tabTrigger>
+	<description>984</description>
+	<scope>source.lua</scope>
+</snippet>

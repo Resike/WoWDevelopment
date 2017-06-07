@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_LFG_GROUP_FULL]]></content>
+	<tabTrigger>LE_GAME_ERR_LFG_GROUP_FULL</tabTrigger>
+	<description>740</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_NAME_CONSECUTIVE_SPACES]]></content>
+	<tabTrigger>LE_GAME_ERR_NAME_CONSECUTIVE_SPACES</tabTrigger>
+	<description>632</description>
+	<scope>source.lua</scope>
+</snippet>

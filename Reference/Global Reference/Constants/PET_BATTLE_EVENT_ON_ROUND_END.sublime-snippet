@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PET_BATTLE_EVENT_ON_ROUND_END]]></content>
+	<tabTrigger>PET_BATTLE_EVENT_ON_ROUND_END</tabTrigger>
+	<description>7</description>
+	<scope>source.lua</scope>
+</snippet>

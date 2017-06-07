@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FIRE_TOTEM_SLOT]]></content>
+	<tabTrigger>FIRE_TOTEM_SLOT</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

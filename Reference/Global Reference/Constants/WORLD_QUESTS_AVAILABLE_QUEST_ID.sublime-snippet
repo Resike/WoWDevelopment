@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WORLD_QUESTS_AVAILABLE_QUEST_ID]]></content>
+	<tabTrigger>WORLD_QUESTS_AVAILABLE_QUEST_ID</tabTrigger>
+	<description>43341</description>
+	<scope>source.lua</scope>
+</snippet>

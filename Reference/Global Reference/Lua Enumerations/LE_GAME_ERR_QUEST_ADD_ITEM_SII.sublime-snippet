@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_QUEST_ADD_ITEM_SII]]></content>
+	<tabTrigger>LE_GAME_ERR_QUEST_ADD_ITEM_SII</tabTrigger>
+	<description>286</description>
+	<scope>source.lua</scope>
+</snippet>

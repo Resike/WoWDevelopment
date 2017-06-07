@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_FEIGN_DEATH_RESISTED]]></content>
+	<tabTrigger>LE_GAME_ERR_FEIGN_DEATH_RESISTED</tabTrigger>
+	<description>505</description>
+	<scope>source.lua</scope>
+</snippet>

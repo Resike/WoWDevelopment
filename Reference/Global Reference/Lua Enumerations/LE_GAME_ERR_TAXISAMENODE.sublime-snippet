@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_TAXISAMENODE]]></content>
+	<tabTrigger>LE_GAME_ERR_TAXISAMENODE</tabTrigger>
+	<description>204</description>
+	<scope>source.lua</scope>
+</snippet>

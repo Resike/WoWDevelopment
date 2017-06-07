@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_CHEST_IN_USE]]></content>
+	<tabTrigger>LE_GAME_ERR_CHEST_IN_USE</tabTrigger>
+	<description>254</description>
+	<scope>source.lua</scope>
+</snippet>

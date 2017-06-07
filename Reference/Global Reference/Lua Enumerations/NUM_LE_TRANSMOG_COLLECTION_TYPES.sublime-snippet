@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NUM_LE_TRANSMOG_COLLECTION_TYPES]]></content>
+	<tabTrigger>NUM_LE_TRANSMOG_COLLECTION_TYPES</tabTrigger>
+	<description>28</description>
+	<scope>source.lua</scope>
+</snippet>

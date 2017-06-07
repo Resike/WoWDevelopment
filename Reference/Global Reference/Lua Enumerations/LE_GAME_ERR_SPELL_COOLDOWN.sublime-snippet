@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_SPELL_COOLDOWN]]></content>
+	<tabTrigger>LE_GAME_ERR_SPELL_COOLDOWN</tabTrigger>
+	<description>54</description>
+	<scope>source.lua</scope>
+</snippet>

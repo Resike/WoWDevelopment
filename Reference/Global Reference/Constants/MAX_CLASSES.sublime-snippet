@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MAX_CLASSES]]></content>
+	<tabTrigger>MAX_CLASSES</tabTrigger>
+	<description>12</description>
+	<scope>source.lua</scope>
+</snippet>

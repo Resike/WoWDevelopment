@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LUA_WARNING_TREAT_AS_ERROR]]></content>
+	<tabTrigger>LUA_WARNING_TREAT_AS_ERROR</tabTrigger>
+	<description>0</description>
+	<scope>source.lua</scope>
+</snippet>

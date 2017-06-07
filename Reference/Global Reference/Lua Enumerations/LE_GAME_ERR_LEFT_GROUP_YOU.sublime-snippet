@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_LEFT_GROUP_YOU]]></content>
+	<tabTrigger>LE_GAME_ERR_LEFT_GROUP_YOU</tabTrigger>
+	<description>84</description>
+	<scope>source.lua</scope>
+</snippet>

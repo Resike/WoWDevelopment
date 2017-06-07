@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_ROLE_CHECK_ALREADY_IN_PROGRESS]]></content>
+	<tabTrigger>LE_GAME_ERR_ROLE_CHECK_ALREADY_IN_PROGRESS</tabTrigger>
+	<description>940</description>
+	<scope>source.lua</scope>
+</snippet>

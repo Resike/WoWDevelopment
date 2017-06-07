@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_USE_CANT_IMMUNE]]></content>
+	<tabTrigger>LE_GAME_ERR_USE_CANT_IMMUNE</tabTrigger>
+	<description>425</description>
+	<scope>source.lua</scope>
+</snippet>

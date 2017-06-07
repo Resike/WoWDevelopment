@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MATERIAL_TEXT_COLOR_TABLE]]></content>
+	<tabTrigger>MATERIAL_TEXT_COLOR_TABLE</tabTrigger>
+	<description></description>
+	<scope>source.lua</scope>
+</snippet>

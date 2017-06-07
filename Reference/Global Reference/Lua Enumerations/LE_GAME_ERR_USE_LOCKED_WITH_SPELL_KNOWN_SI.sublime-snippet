@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_USE_LOCKED_WITH_SPELL_KNOWN_SI]]></content>
+	<tabTrigger>LE_GAME_ERR_USE_LOCKED_WITH_SPELL_KNOWN_SI</tabTrigger>
+	<description>261</description>
+	<scope>source.lua</scope>
+</snippet>

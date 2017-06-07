@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HTML_START]]></content>
+	<tabTrigger>HTML_START</tabTrigger>
+	<description><![CDATA["<html><body><p>"]]></description>
+	<scope>source.lua</scope>
+</snippet>

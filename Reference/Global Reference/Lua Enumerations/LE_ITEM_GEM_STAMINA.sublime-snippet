@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_ITEM_GEM_STAMINA]]></content>
+	<tabTrigger>LE_ITEM_GEM_STAMINA</tabTrigger>
+	<description>3</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_REFER_A_FRIEND_TARGET_TOO_HIGH]]></content>
+	<tabTrigger>LE_GAME_ERR_REFER_A_FRIEND_TARGET_TOO_HIGH</tabTrigger>
+	<description>637</description>
+	<scope>source.lua</scope>
+</snippet>

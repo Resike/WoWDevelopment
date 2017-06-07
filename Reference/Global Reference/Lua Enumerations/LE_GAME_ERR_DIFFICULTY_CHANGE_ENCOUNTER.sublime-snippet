@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_DIFFICULTY_CHANGE_ENCOUNTER]]></content>
+	<tabTrigger>LE_GAME_ERR_DIFFICULTY_CHANGE_ENCOUNTER</tabTrigger>
+	<description>786</description>
+	<scope>source.lua</scope>
+</snippet>

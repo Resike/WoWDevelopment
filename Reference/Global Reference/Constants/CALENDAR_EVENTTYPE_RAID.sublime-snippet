@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CALENDAR_EVENTTYPE_RAID]]></content>
+	<tabTrigger>CALENDAR_EVENTTYPE_RAID</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

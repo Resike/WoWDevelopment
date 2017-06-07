@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_SET_LOOT_PERSONAL]]></content>
+	<tabTrigger>LE_GAME_ERR_SET_LOOT_PERSONAL</tabTrigger>
+	<description>943</description>
+	<scope>source.lua</scope>
+</snippet>

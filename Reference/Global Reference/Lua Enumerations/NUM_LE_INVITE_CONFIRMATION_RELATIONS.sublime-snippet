@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NUM_LE_INVITE_CONFIRMATION_RELATIONS]]></content>
+	<tabTrigger>NUM_LE_INVITE_CONFIRMATION_RELATIONS</tabTrigger>
+	<description>3</description>
+	<scope>source.lua</scope>
+</snippet>

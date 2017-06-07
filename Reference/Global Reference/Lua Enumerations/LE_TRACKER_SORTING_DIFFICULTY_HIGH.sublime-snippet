@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_TRACKER_SORTING_DIFFICULTY_HIGH]]></content>
+	<tabTrigger>LE_TRACKER_SORTING_DIFFICULTY_HIGH</tabTrigger>
+	<description>4</description>
+	<scope>source.lua</scope>
+</snippet>

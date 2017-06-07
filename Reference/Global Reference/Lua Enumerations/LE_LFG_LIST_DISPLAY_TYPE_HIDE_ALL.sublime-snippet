@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_LFG_LIST_DISPLAY_TYPE_HIDE_ALL]]></content>
+	<tabTrigger>LE_LFG_LIST_DISPLAY_TYPE_HIDE_ALL</tabTrigger>
+	<description>4</description>
+	<scope>source.lua</scope>
+</snippet>

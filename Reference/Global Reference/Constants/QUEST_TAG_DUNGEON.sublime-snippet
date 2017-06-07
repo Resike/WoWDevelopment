@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[QUEST_TAG_DUNGEON]]></content>
+	<tabTrigger>QUEST_TAG_DUNGEON</tabTrigger>
+	<description>81</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_EXPANSION_LEGION]]></content>
+	<tabTrigger>LE_EXPANSION_LEGION</tabTrigger>
+	<description>6</description>
+	<scope>source.lua</scope>
+</snippet>

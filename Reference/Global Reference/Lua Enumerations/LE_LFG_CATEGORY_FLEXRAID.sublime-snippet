@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_LFG_CATEGORY_FLEXRAID]]></content>
+	<tabTrigger>LE_LFG_CATEGORY_FLEXRAID</tabTrigger>
+	<description>5</description>
+	<scope>source.lua</scope>
+</snippet>

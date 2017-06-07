@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TRANSMOG_SLOTS]]></content>
+	<tabTrigger>TRANSMOG_SLOTS</tabTrigger>
+	<description></description>
+	<scope>source.lua</scope>
+</snippet>

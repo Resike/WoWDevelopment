@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_LOOT_TOO_FAR]]></content>
+	<tabTrigger>LE_GAME_ERR_LOOT_TOO_FAR</tabTrigger>
+	<description>155</description>
+	<scope>source.lua</scope>
+</snippet>

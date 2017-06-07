@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SPEC_PALADIN_RETRIBUTION]]></content>
+	<tabTrigger>SPEC_PALADIN_RETRIBUTION</tabTrigger>
+	<description>3</description>
+	<scope>source.lua</scope>
+</snippet>

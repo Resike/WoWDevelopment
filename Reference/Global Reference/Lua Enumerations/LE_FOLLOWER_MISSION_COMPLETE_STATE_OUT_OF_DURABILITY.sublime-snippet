@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_FOLLOWER_MISSION_COMPLETE_STATE_OUT_OF_DURABILITY]]></content>
+	<tabTrigger>LE_FOLLOWER_MISSION_COMPLETE_STATE_OUT_OF_DURABILITY</tabTrigger>
+	<description>4</description>
+	<scope>source.lua</scope>
+</snippet>

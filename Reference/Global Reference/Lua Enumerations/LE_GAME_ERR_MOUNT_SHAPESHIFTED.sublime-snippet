@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_MOUNT_SHAPESHIFTED]]></content>
+	<tabTrigger>LE_GAME_ERR_MOUNT_SHAPESHIFTED</tabTrigger>
+	<description>240</description>
+	<scope>source.lua</scope>
+</snippet>

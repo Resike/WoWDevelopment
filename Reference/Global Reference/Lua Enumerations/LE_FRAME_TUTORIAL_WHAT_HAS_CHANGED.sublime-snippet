@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_FRAME_TUTORIAL_WHAT_HAS_CHANGED]]></content>
+	<tabTrigger>LE_FRAME_TUTORIAL_WHAT_HAS_CHANGED</tabTrigger>
+	<description>8</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_NO_LOOT_IN_CHALLENGE_MODE]]></content>
+	<tabTrigger>LE_GAME_ERR_NO_LOOT_IN_CHALLENGE_MODE</tabTrigger>
+	<description>938</description>
+	<scope>source.lua</scope>
+</snippet>

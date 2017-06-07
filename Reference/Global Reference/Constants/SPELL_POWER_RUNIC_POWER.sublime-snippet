@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SPELL_POWER_RUNIC_POWER]]></content>
+	<tabTrigger>SPELL_POWER_RUNIC_POWER</tabTrigger>
+	<description>6</description>
+	<scope>source.lua</scope>
+</snippet>

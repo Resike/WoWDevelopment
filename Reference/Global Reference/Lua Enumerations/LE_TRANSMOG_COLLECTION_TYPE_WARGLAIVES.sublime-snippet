@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_TRANSMOG_COLLECTION_TYPE_WARGLAIVES]]></content>
+	<tabTrigger>LE_TRANSMOG_COLLECTION_TYPE_WARGLAIVES</tabTrigger>
+	<description>28</description>
+	<scope>source.lua</scope>
+</snippet>

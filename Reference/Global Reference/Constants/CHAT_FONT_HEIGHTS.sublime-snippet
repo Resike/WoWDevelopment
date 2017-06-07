@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHAT_FONT_HEIGHTS]]></content>
+	<tabTrigger>CHAT_FONT_HEIGHTS</tabTrigger>
+	<description></description>
+	<scope>source.lua</scope>
+</snippet>

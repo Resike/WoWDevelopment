@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NPE_TUTORIAL_COMPLETE_LEVEL]]></content>
+	<tabTrigger>NPE_TUTORIAL_COMPLETE_LEVEL</tabTrigger>
+	<description>10</description>
+	<scope>source.lua</scope>
+</snippet>

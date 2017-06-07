@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[INVSLOT_FIRST_EQUIPPED]]></content>
+	<tabTrigger>INVSLOT_FIRST_EQUIPPED</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

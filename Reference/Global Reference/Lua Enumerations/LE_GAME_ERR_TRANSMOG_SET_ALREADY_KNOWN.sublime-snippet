@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_TRANSMOG_SET_ALREADY_KNOWN]]></content>
+	<tabTrigger>LE_GAME_ERR_TRANSMOG_SET_ALREADY_KNOWN</tabTrigger>
+	<description>959</description>
+	<scope>source.lua</scope>
+</snippet>

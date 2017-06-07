@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_PETBATTLE_GAME_ROUNDS_LIMIT_WARNING]]></content>
+	<tabTrigger>LE_GAME_ERR_PETBATTLE_GAME_ROUNDS_LIMIT_WARNING</tabTrigger>
+	<description>921</description>
+	<scope>source.lua</scope>
+</snippet>

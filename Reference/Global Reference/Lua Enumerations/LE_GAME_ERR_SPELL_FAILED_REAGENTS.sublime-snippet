@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_SPELL_FAILED_REAGENTS]]></content>
+	<tabTrigger>LE_GAME_ERR_SPELL_FAILED_REAGENTS</tabTrigger>
+	<description>246</description>
+	<scope>source.lua</scope>
+</snippet>

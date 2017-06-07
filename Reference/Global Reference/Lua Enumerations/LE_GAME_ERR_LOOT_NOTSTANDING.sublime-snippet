@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_LOOT_NOTSTANDING]]></content>
+	<tabTrigger>LE_GAME_ERR_LOOT_NOTSTANDING</tabTrigger>
+	<description>158</description>
+	<scope>source.lua</scope>
+</snippet>

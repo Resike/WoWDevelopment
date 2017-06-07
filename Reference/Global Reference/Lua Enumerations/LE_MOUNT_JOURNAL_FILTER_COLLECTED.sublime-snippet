@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_MOUNT_JOURNAL_FILTER_COLLECTED]]></content>
+	<tabTrigger>LE_MOUNT_JOURNAL_FILTER_COLLECTED</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

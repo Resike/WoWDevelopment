@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_PARTY_LFG_BOOT_DUNGEON_COMPLETE]]></content>
+	<tabTrigger>LE_GAME_ERR_PARTY_LFG_BOOT_DUNGEON_COMPLETE</tabTrigger>
+	<description>685</description>
+	<scope>source.lua</scope>
+</snippet>

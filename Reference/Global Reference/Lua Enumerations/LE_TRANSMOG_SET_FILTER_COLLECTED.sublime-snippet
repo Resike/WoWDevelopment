@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_TRANSMOG_SET_FILTER_COLLECTED]]></content>
+	<tabTrigger>LE_TRANSMOG_SET_FILTER_COLLECTED</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

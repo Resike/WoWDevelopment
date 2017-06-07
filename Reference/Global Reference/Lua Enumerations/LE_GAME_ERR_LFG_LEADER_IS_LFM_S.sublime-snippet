@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_LFG_LEADER_IS_LFM_S]]></content>
+	<tabTrigger>LE_GAME_ERR_LFG_LEADER_IS_LFM_S</tabTrigger>
+	<description>569</description>
+	<scope>source.lua</scope>
+</snippet>

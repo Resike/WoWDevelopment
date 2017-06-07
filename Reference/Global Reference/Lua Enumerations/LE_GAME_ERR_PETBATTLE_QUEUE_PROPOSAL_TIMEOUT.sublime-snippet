@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_PETBATTLE_QUEUE_PROPOSAL_TIMEOUT]]></content>
+	<tabTrigger>LE_GAME_ERR_PETBATTLE_QUEUE_PROPOSAL_TIMEOUT</tabTrigger>
+	<description>907</description>
+	<scope>source.lua</scope>
+</snippet>

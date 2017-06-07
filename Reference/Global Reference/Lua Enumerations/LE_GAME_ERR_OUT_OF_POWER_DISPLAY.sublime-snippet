@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_OUT_OF_POWER_DISPLAY]]></content>
+	<tabTrigger>LE_GAME_ERR_OUT_OF_POWER_DISPLAY</tabTrigger>
+	<description>344</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_IGNORING_YOU_S]]></content>
+	<tabTrigger>LE_GAME_ERR_IGNORING_YOU_S</tabTrigger>
+	<description>371</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_LOOT_STUNNED]]></content>
+	<tabTrigger>LE_GAME_ERR_LOOT_STUNNED</tabTrigger>
+	<description>159</description>
+	<scope>source.lua</scope>
+</snippet>

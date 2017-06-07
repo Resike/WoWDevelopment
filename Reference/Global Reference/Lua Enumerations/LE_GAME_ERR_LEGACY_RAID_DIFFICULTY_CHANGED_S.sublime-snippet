@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_LEGACY_RAID_DIFFICULTY_CHANGED_S]]></content>
+	<tabTrigger>LE_GAME_ERR_LEGACY_RAID_DIFFICULTY_CHANGED_S</tabTrigger>
+	<description>715</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DIFFICULTY_PRIMARYRAID_LFR]]></content>
+	<tabTrigger>DIFFICULTY_PRIMARYRAID_LFR</tabTrigger>
+	<description>17</description>
+	<scope>source.lua</scope>
+</snippet>

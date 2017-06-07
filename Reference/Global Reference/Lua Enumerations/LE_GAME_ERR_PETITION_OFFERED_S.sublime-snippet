@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_PETITION_OFFERED_S]]></content>
+	<tabTrigger>LE_GAME_ERR_PETITION_OFFERED_S</tabTrigger>
+	<description>375</description>
+	<scope>source.lua</scope>
+</snippet>

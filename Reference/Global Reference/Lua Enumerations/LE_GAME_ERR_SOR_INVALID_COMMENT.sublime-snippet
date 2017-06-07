@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_SOR_INVALID_COMMENT]]></content>
+	<tabTrigger>LE_GAME_ERR_SOR_INVALID_COMMENT</tabTrigger>
+	<description>866</description>
+	<scope>source.lua</scope>
+</snippet>

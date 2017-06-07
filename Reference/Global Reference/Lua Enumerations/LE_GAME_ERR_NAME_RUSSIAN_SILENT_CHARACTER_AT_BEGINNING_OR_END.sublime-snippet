@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_NAME_RUSSIAN_SILENT_CHARACTER_AT_BEGINNING_OR_END]]></content>
+	<tabTrigger>LE_GAME_ERR_NAME_RUSSIAN_SILENT_CHARACTER_AT_BEGINNING_OR_END</tabTrigger>
+	<description>634</description>
+	<scope>source.lua</scope>
+</snippet>

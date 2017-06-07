@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_TAXIUNSPECIFIEDSERVERERROR]]></content>
+	<tabTrigger>LE_GAME_ERR_TAXIUNSPECIFIEDSERVERERROR</tabTrigger>
+	<description>206</description>
+	<scope>source.lua</scope>
+</snippet>

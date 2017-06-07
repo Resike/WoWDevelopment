@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[INVSLOT_OFFHAND]]></content>
+	<tabTrigger>INVSLOT_OFFHAND</tabTrigger>
+	<description>17</description>
+	<scope>source.lua</scope>
+</snippet>

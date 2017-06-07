@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_EQUIPMENT_MANAGER_BAGS_FULL]]></content>
+	<tabTrigger>LE_GAME_ERR_EQUIPMENT_MANAGER_BAGS_FULL</tabTrigger>
+	<description>969</description>
+	<scope>source.lua</scope>
+</snippet>

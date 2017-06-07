@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_FRAME_TUTORIAL_TRANSMOG_JOURNAL_TAB]]></content>
+	<tabTrigger>LE_FRAME_TUTORIAL_TRANSMOG_JOURNAL_TAB</tabTrigger>
+	<description>35</description>
+	<scope>source.lua</scope>
+</snippet>

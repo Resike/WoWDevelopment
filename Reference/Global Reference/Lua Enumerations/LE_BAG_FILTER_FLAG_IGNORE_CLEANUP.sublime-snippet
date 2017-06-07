@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_BAG_FILTER_FLAG_IGNORE_CLEANUP]]></content>
+	<tabTrigger>LE_BAG_FILTER_FLAG_IGNORE_CLEANUP</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

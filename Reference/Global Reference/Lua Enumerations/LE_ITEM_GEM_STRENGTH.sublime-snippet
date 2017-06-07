@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_ITEM_GEM_STRENGTH]]></content>
+	<tabTrigger>LE_ITEM_GEM_STRENGTH</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

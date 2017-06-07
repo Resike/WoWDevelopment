@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_VOID_STORAGE_STACKABLE]]></content>
+	<tabTrigger>LE_GAME_ERR_VOID_STORAGE_STACKABLE</tabTrigger>
+	<description>844</description>
+	<scope>source.lua</scope>
+</snippet>

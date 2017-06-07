@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LFGUILD_PARAM_TANK]]></content>
+	<tabTrigger>LFGUILD_PARAM_TANK</tabTrigger>
+	<description>8</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_BAG_IN_BAG]]></content>
+	<tabTrigger>LE_GAME_ERR_BAG_IN_BAG</tabTrigger>
+	<description>16</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_CANT_DO_THAT_CHALLENGE_MODE_ACTIVE]]></content>
+	<tabTrigger>LE_GAME_ERR_CANT_DO_THAT_CHALLENGE_MODE_ACTIVE</tabTrigger>
+	<description>979</description>
+	<scope>source.lua</scope>
+</snippet>

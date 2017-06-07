@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_LEARN_HEIRLOOM_S]]></content>
+	<tabTrigger>LE_GAME_ERR_LEARN_HEIRLOOM_S</tabTrigger>
+	<description>68</description>
+	<scope>source.lua</scope>
+</snippet>

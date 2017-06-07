@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_FRAME_TUTORIAL_ARTIFACT_KNOWLEDGE_LEVEL_LIMIT]]></content>
+	<tabTrigger>LE_FRAME_TUTORIAL_ARTIFACT_KNOWLEDGE_LEVEL_LIMIT</tabTrigger>
+	<description>27</description>
+	<scope>source.lua</scope>
+</snippet>

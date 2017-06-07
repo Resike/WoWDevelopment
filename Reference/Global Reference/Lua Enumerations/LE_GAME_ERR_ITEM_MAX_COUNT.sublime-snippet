@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_ITEM_MAX_COUNT]]></content>
+	<tabTrigger>LE_GAME_ERR_ITEM_MAX_COUNT</tabTrigger>
+	<description>22</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_BATTLEGROUND_JOIN_MERCENARY]]></content>
+	<tabTrigger>LE_GAME_ERR_BATTLEGROUND_JOIN_MERCENARY</tabTrigger>
+	<description>709</description>
+	<scope>source.lua</scope>
+</snippet>

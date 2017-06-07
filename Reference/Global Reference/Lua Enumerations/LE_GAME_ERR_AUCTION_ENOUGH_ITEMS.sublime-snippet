@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_AUCTION_ENOUGH_ITEMS]]></content>
+	<tabTrigger>LE_GAME_ERR_AUCTION_ENOUGH_ITEMS</tabTrigger>
+	<description>797</description>
+	<scope>source.lua</scope>
+</snippet>

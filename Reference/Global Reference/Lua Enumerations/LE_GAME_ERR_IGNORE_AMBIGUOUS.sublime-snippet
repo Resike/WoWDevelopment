@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_IGNORE_AMBIGUOUS]]></content>
+	<tabTrigger>LE_GAME_ERR_IGNORE_AMBIGUOUS</tabTrigger>
+	<description>315</description>
+	<scope>source.lua</scope>
+</snippet>

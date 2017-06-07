@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_TICKET_TEXT_TOO_LONG]]></content>
+	<tabTrigger>LE_GAME_ERR_TICKET_TEXT_TOO_LONG</tabTrigger>
+	<description>403</description>
+	<scope>source.lua</scope>
+</snippet>

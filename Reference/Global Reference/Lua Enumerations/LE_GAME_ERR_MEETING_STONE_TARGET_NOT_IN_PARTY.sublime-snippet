@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_MEETING_STONE_TARGET_NOT_IN_PARTY]]></content>
+	<tabTrigger>LE_GAME_ERR_MEETING_STONE_TARGET_NOT_IN_PARTY</tabTrigger>
+	<description>517</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GARRISON_TALENT_AVAILABILITY_UNAVAILABLE_ANOTHER_IS_RESEARCHING]]></content>
+	<tabTrigger>LE_GARRISON_TALENT_AVAILABILITY_UNAVAILABLE_ANOTHER_IS_RESEARCHING</tabTrigger>
+	<description>3</description>
+	<scope>source.lua</scope>
+</snippet>

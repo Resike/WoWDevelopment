@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_REMOVE_FROM_PVP_QUEUE_FACTION_CHANGE]]></content>
+	<tabTrigger>LE_GAME_ERR_REMOVE_FROM_PVP_QUEUE_FACTION_CHANGE</tabTrigger>
+	<description>723</description>
+	<scope>source.lua</scope>
+</snippet>

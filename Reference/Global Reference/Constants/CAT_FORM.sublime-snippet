@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAT_FORM]]></content>
+	<tabTrigger>CAT_FORM</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

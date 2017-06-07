@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CRITERIA_TYPE_ACHIEVEMENT]]></content>
+	<tabTrigger>CRITERIA_TYPE_ACHIEVEMENT</tabTrigger>
+	<description>8</description>
+	<scope>source.lua</scope>
+</snippet>

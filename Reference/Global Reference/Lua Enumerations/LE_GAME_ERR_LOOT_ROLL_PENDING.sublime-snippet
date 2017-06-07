@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_LOOT_ROLL_PENDING]]></content>
+	<tabTrigger>LE_GAME_ERR_LOOT_ROLL_PENDING</tabTrigger>
+	<description>491</description>
+	<scope>source.lua</scope>
+</snippet>

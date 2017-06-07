@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_INVALID_ITEM_TARGET]]></content>
+	<tabTrigger>LE_GAME_ERR_INVALID_ITEM_TARGET</tabTrigger>
+	<description>369</description>
+	<scope>source.lua</scope>
+</snippet>

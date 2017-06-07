@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_FRAME_TUTORIAL_TOYBOX_MOUSEWHEEL_PAGING]]></content>
+	<tabTrigger>LE_FRAME_TUTORIAL_TOYBOX_MOUSEWHEEL_PAGING</tabTrigger>
+	<description>19</description>
+	<scope>source.lua</scope>
+</snippet>

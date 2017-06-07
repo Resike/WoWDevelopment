@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_LFG_READY_CHECK_FAILED_TIMEOUT]]></content>
+	<tabTrigger>LE_GAME_ERR_LFG_READY_CHECK_FAILED_TIMEOUT</tabTrigger>
+	<description>739</description>
+	<scope>source.lua</scope>
+</snippet>

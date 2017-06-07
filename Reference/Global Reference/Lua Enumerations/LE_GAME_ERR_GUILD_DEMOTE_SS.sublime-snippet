@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_GUILD_DEMOTE_SS]]></content>
+	<tabTrigger>LE_GAME_ERR_GUILD_DEMOTE_SS</tabTrigger>
+	<description>111</description>
+	<scope>source.lua</scope>
+</snippet>

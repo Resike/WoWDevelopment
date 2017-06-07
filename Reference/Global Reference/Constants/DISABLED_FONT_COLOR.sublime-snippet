@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DISABLED_FONT_COLOR]]></content>
+	<tabTrigger>DISABLED_FONT_COLOR</tabTrigger>
+	<description>{r=0.498, g=0.498, b=0.498}</description>
+	<scope>source.lua</scope>
+</snippet>

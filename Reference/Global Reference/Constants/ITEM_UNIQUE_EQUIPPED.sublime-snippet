@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ITEM_UNIQUE_EQUIPPED]]></content>
+	<tabTrigger>ITEM_UNIQUE_EQUIPPED</tabTrigger>
+	<description>-1</description>
+	<scope>source.lua</scope>
+</snippet>

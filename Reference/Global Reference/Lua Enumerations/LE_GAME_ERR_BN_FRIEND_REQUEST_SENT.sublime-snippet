@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_BN_FRIEND_REQUEST_SENT]]></content>
+	<tabTrigger>LE_GAME_ERR_BN_FRIEND_REQUEST_SENT</tabTrigger>
+	<description>802</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_TOKEN_RESULT_ERROR_TOO_MANY_TOKENS]]></content>
+	<tabTrigger>LE_TOKEN_RESULT_ERROR_TOO_MANY_TOKENS</tabTrigger>
+	<description>5</description>
+	<scope>source.lua</scope>
+</snippet>

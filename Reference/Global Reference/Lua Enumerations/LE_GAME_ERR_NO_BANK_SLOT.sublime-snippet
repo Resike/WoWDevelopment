@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_NO_BANK_SLOT]]></content>
+	<tabTrigger>LE_GAME_ERR_NO_BANK_SLOT</tabTrigger>
+	<description>33</description>
+	<scope>source.lua</scope>
+</snippet>

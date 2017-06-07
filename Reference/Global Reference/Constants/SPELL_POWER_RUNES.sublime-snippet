@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SPELL_POWER_RUNES]]></content>
+	<tabTrigger>SPELL_POWER_RUNES</tabTrigger>
+	<description>5</description>
+	<scope>source.lua</scope>
+</snippet>

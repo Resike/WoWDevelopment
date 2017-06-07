@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[COMBATLOG_OBJECT_MAINTANK]]></content>
+	<tabTrigger>COMBATLOG_OBJECT_MAINTANK</tabTrigger>
+	<description>0x00040000</description>
+	<scope>source.lua</scope>
+</snippet>

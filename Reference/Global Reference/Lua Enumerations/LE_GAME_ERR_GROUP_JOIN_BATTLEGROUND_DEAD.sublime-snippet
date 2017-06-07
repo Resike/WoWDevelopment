@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_GROUP_JOIN_BATTLEGROUND_DEAD]]></content>
+	<tabTrigger>LE_GAME_ERR_GROUP_JOIN_BATTLEGROUND_DEAD</tabTrigger>
+	<description>528</description>
+	<scope>source.lua</scope>
+</snippet>

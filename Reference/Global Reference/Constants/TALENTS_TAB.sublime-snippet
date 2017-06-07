@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TALENTS_TAB]]></content>
+	<tabTrigger>TALENTS_TAB</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

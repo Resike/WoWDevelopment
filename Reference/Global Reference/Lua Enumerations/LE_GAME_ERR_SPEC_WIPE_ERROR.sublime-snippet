@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_SPEC_WIPE_ERROR]]></content>
+	<tabTrigger>LE_GAME_ERR_SPEC_WIPE_ERROR</tabTrigger>
+	<description>502</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_GUILD_UNDELETABLE_DUE_TO_LEVEL]]></content>
+	<tabTrigger>LE_GAME_ERR_GUILD_UNDELETABLE_DUE_TO_LEVEL</tabTrigger>
+	<description>828</description>
+	<scope>source.lua</scope>
+</snippet>

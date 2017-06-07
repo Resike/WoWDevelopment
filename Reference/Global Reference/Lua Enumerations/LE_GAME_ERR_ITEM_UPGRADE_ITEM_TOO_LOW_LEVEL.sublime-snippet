@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_ITEM_UPGRADE_ITEM_TOO_LOW_LEVEL]]></content>
+	<tabTrigger>LE_GAME_ERR_ITEM_UPGRADE_ITEM_TOO_LOW_LEVEL</tabTrigger>
+	<description>923</description>
+	<scope>source.lua</scope>
+</snippet>

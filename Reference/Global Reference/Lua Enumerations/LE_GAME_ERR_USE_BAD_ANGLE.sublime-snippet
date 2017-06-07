@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_USE_BAD_ANGLE]]></content>
+	<tabTrigger>LE_GAME_ERR_USE_BAD_ANGLE</tabTrigger>
+	<description>263</description>
+	<scope>source.lua</scope>
+</snippet>

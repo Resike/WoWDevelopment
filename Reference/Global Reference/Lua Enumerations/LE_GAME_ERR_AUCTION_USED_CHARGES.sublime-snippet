@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_AUCTION_USED_CHARGES]]></content>
+	<tabTrigger>LE_GAME_ERR_AUCTION_USED_CHARGES</tabTrigger>
+	<description>442</description>
+	<scope>source.lua</scope>
+</snippet>

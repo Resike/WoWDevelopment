@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_LOOT_MASTER_OTHER]]></content>
+	<tabTrigger>LE_GAME_ERR_LOOT_MASTER_OTHER</tabTrigger>
+	<description>565</description>
+	<scope>source.lua</scope>
+</snippet>

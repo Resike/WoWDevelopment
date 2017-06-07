@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLASS_TALENT_LEVELS]]></content>
+	<tabTrigger>CLASS_TALENT_LEVELS</tabTrigger>
+	<description></description>
+	<scope>source.lua</scope>
+</snippet>

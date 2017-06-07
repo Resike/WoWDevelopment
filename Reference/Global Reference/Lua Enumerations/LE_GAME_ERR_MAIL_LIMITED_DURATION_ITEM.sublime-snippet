@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_MAIL_LIMITED_DURATION_ITEM]]></content>
+	<tabTrigger>LE_GAME_ERR_MAIL_LIMITED_DURATION_ITEM</tabTrigger>
+	<description>732</description>
+	<scope>source.lua</scope>
+</snippet>

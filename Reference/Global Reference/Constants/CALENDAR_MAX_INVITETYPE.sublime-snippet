@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CALENDAR_MAX_INVITETYPE]]></content>
+	<tabTrigger>CALENDAR_MAX_INVITETYPE</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

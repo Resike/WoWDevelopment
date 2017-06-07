@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_GUILD_PROMOTE_SSS]]></content>
+	<tabTrigger>LE_GAME_ERR_GUILD_PROMOTE_SSS</tabTrigger>
+	<description>110</description>
+	<scope>source.lua</scope>
+</snippet>

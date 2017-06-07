@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_BATTLETAG_FRIEND_NOT_VALID]]></content>
+	<tabTrigger>LE_GAME_ERR_BATTLETAG_FRIEND_NOT_VALID</tabTrigger>
+	<description>931</description>
+	<scope>source.lua</scope>
+</snippet>

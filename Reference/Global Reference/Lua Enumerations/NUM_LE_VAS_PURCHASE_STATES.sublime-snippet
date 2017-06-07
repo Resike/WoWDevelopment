@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NUM_LE_VAS_PURCHASE_STATES]]></content>
+	<tabTrigger>NUM_LE_VAS_PURCHASE_STATES</tabTrigger>
+	<description>8</description>
+	<scope>source.lua</scope>
+</snippet>

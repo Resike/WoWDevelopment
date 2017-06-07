@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_LFG_MISMATCHED_SLOTS_LOCAL_XREALM]]></content>
+	<tabTrigger>LE_GAME_ERR_LFG_MISMATCHED_SLOTS_LOCAL_XREALM</tabTrigger>
+	<description>746</description>
+	<scope>source.lua</scope>
+</snippet>

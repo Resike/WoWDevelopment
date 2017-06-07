@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_FRAME_TUTORIAL_HONOR_TALENT_PRESTIGE]]></content>
+	<tabTrigger>LE_FRAME_TUTORIAL_HONOR_TALENT_PRESTIGE</tabTrigger>
+	<description>41</description>
+	<scope>source.lua</scope>
+</snippet>

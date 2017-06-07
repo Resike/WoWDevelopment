@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_ITEM_ARMOR_LIBRAM]]></content>
+	<tabTrigger>LE_ITEM_ARMOR_LIBRAM</tabTrigger>
+	<description>7</description>
+	<scope>source.lua</scope>
+</snippet>

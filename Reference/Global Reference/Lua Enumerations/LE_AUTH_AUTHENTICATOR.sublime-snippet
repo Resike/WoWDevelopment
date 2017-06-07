@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_AUTH_AUTHENTICATOR]]></content>
+	<tabTrigger>LE_AUTH_AUTHENTICATOR</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_REFER_A_FRIEND_INSUFFICIENT_GRANTABLE_LEVELS]]></content>
+	<tabTrigger>LE_GAME_ERR_REFER_A_FRIEND_INSUFFICIENT_GRANTABLE_LEVELS</tabTrigger>
+	<description>638</description>
+	<scope>source.lua</scope>
+</snippet>

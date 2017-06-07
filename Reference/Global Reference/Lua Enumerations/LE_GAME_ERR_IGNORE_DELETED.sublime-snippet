@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_IGNORE_DELETED]]></content>
+	<tabTrigger>LE_GAME_ERR_IGNORE_DELETED</tabTrigger>
+	<description>316</description>
+	<scope>source.lua</scope>
+</snippet>

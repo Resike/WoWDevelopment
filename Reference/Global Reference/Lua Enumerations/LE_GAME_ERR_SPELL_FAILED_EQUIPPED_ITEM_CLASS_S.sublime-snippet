@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_SPELL_FAILED_EQUIPPED_ITEM_CLASS_S]]></content>
+	<tabTrigger>LE_GAME_ERR_SPELL_FAILED_EQUIPPED_ITEM_CLASS_S</tabTrigger>
+	<description>249</description>
+	<scope>source.lua</scope>
+</snippet>

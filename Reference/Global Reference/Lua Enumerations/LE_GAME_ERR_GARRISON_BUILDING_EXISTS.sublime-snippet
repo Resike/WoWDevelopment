@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_GARRISON_BUILDING_EXISTS]]></content>
+	<tabTrigger>LE_GAME_ERR_GARRISON_BUILDING_EXISTS</tabTrigger>
+	<description>947</description>
+	<scope>source.lua</scope>
+</snippet>

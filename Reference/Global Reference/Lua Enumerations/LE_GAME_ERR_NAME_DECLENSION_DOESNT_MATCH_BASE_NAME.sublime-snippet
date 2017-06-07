@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_NAME_DECLENSION_DOESNT_MATCH_BASE_NAME]]></content>
+	<tabTrigger>LE_GAME_ERR_NAME_DECLENSION_DOESNT_MATCH_BASE_NAME</tabTrigger>
+	<description>635</description>
+	<scope>source.lua</scope>
+</snippet>

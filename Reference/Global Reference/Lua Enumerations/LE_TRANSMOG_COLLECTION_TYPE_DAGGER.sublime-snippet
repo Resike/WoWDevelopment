@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_TRANSMOG_COLLECTION_TYPE_DAGGER]]></content>
+	<tabTrigger>LE_TRANSMOG_COLLECTION_TYPE_DAGGER</tabTrigger>
+	<description>16</description>
+	<scope>source.lua</scope>
+</snippet>

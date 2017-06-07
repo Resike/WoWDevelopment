@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_RESTRICTED_ACCOUNT_TRIAL]]></content>
+	<tabTrigger>LE_GAME_ERR_RESTRICTED_ACCOUNT_TRIAL</tabTrigger>
+	<description>543</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[QUEST_TAG_ACCOUNT]]></content>
+	<tabTrigger>QUEST_TAG_ACCOUNT</tabTrigger>
+	<description>102</description>
+	<scope>source.lua</scope>
+</snippet>

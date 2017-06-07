@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_VOID_TRANSFER_STORAGE_FULL]]></content>
+	<tabTrigger>LE_GAME_ERR_VOID_TRANSFER_STORAGE_FULL</tabTrigger>
+	<description>852</description>
+	<scope>source.lua</scope>
+</snippet>

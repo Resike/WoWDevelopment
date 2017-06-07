@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_FRAME_TUTORIAL_PROFESSIONS]]></content>
+	<tabTrigger>LE_FRAME_TUTORIAL_PROFESSIONS</tabTrigger>
+	<description>5</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_MEETING_STONE_MUST_BE_LEADER]]></content>
+	<tabTrigger>LE_GAME_ERR_MEETING_STONE_MUST_BE_LEADER</tabTrigger>
+	<description>519</description>
+	<scope>source.lua</scope>
+</snippet>

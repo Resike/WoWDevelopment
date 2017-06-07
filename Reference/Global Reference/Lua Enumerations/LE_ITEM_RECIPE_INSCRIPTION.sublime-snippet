@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_ITEM_RECIPE_INSCRIPTION]]></content>
+	<tabTrigger>LE_ITEM_RECIPE_INSCRIPTION</tabTrigger>
+	<description>11</description>
+	<scope>source.lua</scope>
+</snippet>

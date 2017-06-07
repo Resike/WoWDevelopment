@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DIFFICULTY_DUNGEON_HEROIC]]></content>
+	<tabTrigger>DIFFICULTY_DUNGEON_HEROIC</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

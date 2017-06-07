@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_VENDOR_NOT_INTERESTED]]></content>
+	<tabTrigger>LE_GAME_ERR_VENDOR_NOT_INTERESTED</tabTrigger>
+	<description>37</description>
+	<scope>source.lua</scope>
+</snippet>

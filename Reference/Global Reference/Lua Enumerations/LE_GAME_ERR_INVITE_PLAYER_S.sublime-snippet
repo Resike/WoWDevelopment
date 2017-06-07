@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_INVITE_PLAYER_S]]></content>
+	<tabTrigger>LE_GAME_ERR_INVITE_PLAYER_S</tabTrigger>
+	<description>72</description>
+	<scope>source.lua</scope>
+</snippet>

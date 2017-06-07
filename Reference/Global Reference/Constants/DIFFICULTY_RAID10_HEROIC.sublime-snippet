@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DIFFICULTY_RAID10_HEROIC]]></content>
+	<tabTrigger>DIFFICULTY_RAID10_HEROIC</tabTrigger>
+	<description>5</description>
+	<scope>source.lua</scope>
+</snippet>

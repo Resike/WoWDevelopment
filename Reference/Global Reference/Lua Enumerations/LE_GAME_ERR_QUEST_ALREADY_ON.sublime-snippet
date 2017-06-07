@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_QUEST_ALREADY_ON]]></content>
+	<tabTrigger>LE_GAME_ERR_QUEST_ALREADY_ON</tabTrigger>
+	<description>176</description>
+	<scope>source.lua</scope>
+</snippet>

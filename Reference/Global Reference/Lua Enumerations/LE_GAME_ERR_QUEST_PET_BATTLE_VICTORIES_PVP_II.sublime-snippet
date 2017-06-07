@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_QUEST_PET_BATTLE_VICTORIES_PVP_II]]></content>
+	<tabTrigger>LE_GAME_ERR_QUEST_PET_BATTLE_VICTORIES_PVP_II</tabTrigger>
+	<description>939</description>
+	<scope>source.lua</scope>
+</snippet>

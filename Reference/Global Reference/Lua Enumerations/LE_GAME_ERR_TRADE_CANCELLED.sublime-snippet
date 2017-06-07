@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_TRADE_CANCELLED]]></content>
+	<tabTrigger>LE_GAME_ERR_TRADE_CANCELLED</tabTrigger>
+	<description>225</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_TAXINOTELIGIBLE]]></content>
+	<tabTrigger>LE_GAME_ERR_TAXINOTELIGIBLE</tabTrigger>
+	<description>216</description>
+	<scope>source.lua</scope>
+</snippet>

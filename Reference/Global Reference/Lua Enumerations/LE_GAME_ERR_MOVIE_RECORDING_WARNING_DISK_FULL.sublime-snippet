@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_MOVIE_RECORDING_WARNING_DISK_FULL]]></content>
+	<tabTrigger>LE_GAME_ERR_MOVIE_RECORDING_WARNING_DISK_FULL</tabTrigger>
+	<description>972</description>
+	<scope>source.lua</scope>
+</snippet>

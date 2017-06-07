@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_EXHAUSTION_NORMAL]]></content>
+	<tabTrigger>LE_GAME_ERR_EXHAUSTION_NORMAL</tabTrigger>
+	<description>407</description>
+	<scope>source.lua</scope>
+</snippet>

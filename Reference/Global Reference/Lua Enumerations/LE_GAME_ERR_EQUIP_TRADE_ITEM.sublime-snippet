@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_EQUIP_TRADE_ITEM]]></content>
+	<tabTrigger>LE_GAME_ERR_EQUIP_TRADE_ITEM</tabTrigger>
+	<description>524</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GMTICKET_QUEUE_STATUS_DISABLED]]></content>
+	<tabTrigger>GMTICKET_QUEUE_STATUS_DISABLED</tabTrigger>
+	<description>-1</description>
+	<scope>source.lua</scope>
+</snippet>

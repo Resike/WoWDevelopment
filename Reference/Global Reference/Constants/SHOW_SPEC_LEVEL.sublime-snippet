@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SHOW_SPEC_LEVEL]]></content>
+	<tabTrigger>SHOW_SPEC_LEVEL</tabTrigger>
+	<description>10</description>
+	<scope>source.lua</scope>
+</snippet>

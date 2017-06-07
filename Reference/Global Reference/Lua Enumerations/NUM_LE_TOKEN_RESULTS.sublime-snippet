@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NUM_LE_TOKEN_RESULTS]]></content>
+	<tabTrigger>NUM_LE_TOKEN_RESULTS</tabTrigger>
+	<description>10</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_SOCKETING_REQUIRES_META_GEM]]></content>
+	<tabTrigger>LE_GAME_ERR_SOCKETING_REQUIRES_META_GEM</tabTrigger>
+	<description>577</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LFG_SUBTYPEID_RAID]]></content>
+	<tabTrigger>LFG_SUBTYPEID_RAID</tabTrigger>
+	<description>3</description>
+	<scope>source.lua</scope>
+</snippet>

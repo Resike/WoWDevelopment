@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_PARTY_PRIVATE_GROUP_ONLY]]></content>
+	<tabTrigger>LE_GAME_ERR_PARTY_PRIVATE_GROUP_ONLY</tabTrigger>
+	<description>688</description>
+	<scope>source.lua</scope>
+</snippet>

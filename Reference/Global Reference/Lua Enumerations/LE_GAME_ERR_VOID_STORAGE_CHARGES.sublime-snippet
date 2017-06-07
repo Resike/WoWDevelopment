@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_VOID_STORAGE_CHARGES]]></content>
+	<tabTrigger>LE_GAME_ERR_VOID_STORAGE_CHARGES</tabTrigger>
+	<description>847</description>
+	<scope>source.lua</scope>
+</snippet>

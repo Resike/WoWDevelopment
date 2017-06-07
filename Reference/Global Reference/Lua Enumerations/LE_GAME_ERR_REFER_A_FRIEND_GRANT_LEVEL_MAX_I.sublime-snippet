@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_REFER_A_FRIEND_GRANT_LEVEL_MAX_I]]></content>
+	<tabTrigger>LE_GAME_ERR_REFER_A_FRIEND_GRANT_LEVEL_MAX_I</tabTrigger>
+	<description>642</description>
+	<scope>source.lua</scope>
+</snippet>

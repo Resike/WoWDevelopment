@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_PET_JOURNAL_FILTER_NOT_COLLECTED]]></content>
+	<tabTrigger>LE_PET_JOURNAL_FILTER_NOT_COLLECTED</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

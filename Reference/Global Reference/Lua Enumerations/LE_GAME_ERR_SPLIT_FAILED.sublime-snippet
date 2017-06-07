@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_SPLIT_FAILED]]></content>
+	<tabTrigger>LE_GAME_ERR_SPLIT_FAILED</tabTrigger>
+	<description>29</description>
+	<scope>source.lua</scope>
+</snippet>

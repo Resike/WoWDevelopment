@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_BN_BROADCAST_THROTTLE]]></content>
+	<tabTrigger>LE_GAME_ERR_BN_BROADCAST_THROTTLE</tabTrigger>
+	<description>803</description>
+	<scope>source.lua</scope>
+</snippet>

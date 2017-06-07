@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_EXPANSION_MISTS_OF_PANDARIA]]></content>
+	<tabTrigger>LE_EXPANSION_MISTS_OF_PANDARIA</tabTrigger>
+	<description>4</description>
+	<scope>source.lua</scope>
+</snippet>

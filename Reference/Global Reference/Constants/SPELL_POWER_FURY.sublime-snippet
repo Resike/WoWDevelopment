@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SPELL_POWER_FURY]]></content>
+	<tabTrigger>SPELL_POWER_FURY</tabTrigger>
+	<description>17</description>
+	<scope>source.lua</scope>
+</snippet>

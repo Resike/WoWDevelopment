@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_MAIL_INVALID_ATTACHMENT_SLOT]]></content>
+	<tabTrigger>LE_GAME_ERR_MAIL_INVALID_ATTACHMENT_SLOT</tabTrigger>
+	<description>609</description>
+	<scope>source.lua</scope>
+</snippet>

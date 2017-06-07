@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_FRAME_TUTORIAL_ARTIFACT_APPEARANCE_TAB]]></content>
+	<tabTrigger>LE_FRAME_TUTORIAL_ARTIFACT_APPEARANCE_TAB</tabTrigger>
+	<description>30</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GARR_FOLLOWER_QUALITY_COMMON]]></content>
+	<tabTrigger>LE_GARR_FOLLOWER_QUALITY_COMMON</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

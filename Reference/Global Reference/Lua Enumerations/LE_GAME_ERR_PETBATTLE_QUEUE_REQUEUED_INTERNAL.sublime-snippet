@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_PETBATTLE_QUEUE_REQUEUED_INTERNAL]]></content>
+	<tabTrigger>LE_GAME_ERR_PETBATTLE_QUEUE_REQUEUED_INTERNAL</tabTrigger>
+	<description>909</description>
+	<scope>source.lua</scope>
+</snippet>

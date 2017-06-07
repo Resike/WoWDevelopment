@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[QUEST_TAG_HEROIC]]></content>
+	<tabTrigger>QUEST_TAG_HEROIC</tabTrigger>
+	<description>85</description>
+	<scope>source.lua</scope>
+</snippet>

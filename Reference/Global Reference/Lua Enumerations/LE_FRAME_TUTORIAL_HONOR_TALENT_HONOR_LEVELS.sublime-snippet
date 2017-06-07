@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_FRAME_TUTORIAL_HONOR_TALENT_HONOR_LEVELS]]></content>
+	<tabTrigger>LE_FRAME_TUTORIAL_HONOR_TALENT_HONOR_LEVELS</tabTrigger>
+	<description>40</description>
+	<scope>source.lua</scope>
+</snippet>

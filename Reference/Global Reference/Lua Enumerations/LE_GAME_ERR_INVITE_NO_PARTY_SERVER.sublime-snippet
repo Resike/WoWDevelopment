@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_INVITE_NO_PARTY_SERVER]]></content>
+	<tabTrigger>LE_GAME_ERR_INVITE_NO_PARTY_SERVER</tabTrigger>
+	<description>672</description>
+	<scope>source.lua</scope>
+</snippet>

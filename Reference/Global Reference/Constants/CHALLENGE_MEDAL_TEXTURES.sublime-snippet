@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHALLENGE_MEDAL_TEXTURES]]></content>
+	<tabTrigger>CHALLENGE_MEDAL_TEXTURES</tabTrigger>
+	<description></description>
+	<scope>source.lua</scope>
+</snippet>

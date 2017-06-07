@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_TICKET_STATUS_SURVEY]]></content>
+	<tabTrigger>LE_TICKET_STATUS_SURVEY</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

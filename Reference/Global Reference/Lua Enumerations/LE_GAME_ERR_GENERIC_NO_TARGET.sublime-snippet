@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_GENERIC_NO_TARGET]]></content>
+	<tabTrigger>LE_GAME_ERR_GENERIC_NO_TARGET</tabTrigger>
+	<description>219</description>
+	<scope>source.lua</scope>
+</snippet>

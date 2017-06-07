@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_TRADE_BOUND_ITEM]]></content>
+	<tabTrigger>LE_GAME_ERR_TRADE_BOUND_ITEM</tabTrigger>
+	<description>45</description>
+	<scope>source.lua</scope>
+</snippet>

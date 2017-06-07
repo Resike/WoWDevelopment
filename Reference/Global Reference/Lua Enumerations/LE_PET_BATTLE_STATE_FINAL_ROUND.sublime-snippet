@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_PET_BATTLE_STATE_FINAL_ROUND]]></content>
+	<tabTrigger>LE_PET_BATTLE_STATE_FINAL_ROUND</tabTrigger>
+	<description>6</description>
+	<scope>source.lua</scope>
+</snippet>

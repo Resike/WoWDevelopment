@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_CANT_USE_ITEM_IN_RATED_BATTLEGROUND]]></content>
+	<tabTrigger>LE_GAME_ERR_CANT_USE_ITEM_IN_RATED_BATTLEGROUND</tabTrigger>
+	<description>188</description>
+	<scope>source.lua</scope>
+</snippet>

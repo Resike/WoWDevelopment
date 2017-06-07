@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_SPELL_CONFIRMATION_PROMPT_TYPE_STATIC_TEXT]]></content>
+	<tabTrigger>LE_SPELL_CONFIRMATION_PROMPT_TYPE_STATIC_TEXT</tabTrigger>
+	<description>0</description>
+	<scope>source.lua</scope>
+</snippet>

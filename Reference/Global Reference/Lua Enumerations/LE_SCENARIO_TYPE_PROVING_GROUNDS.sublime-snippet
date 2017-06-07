@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_SCENARIO_TYPE_PROVING_GROUNDS]]></content>
+	<tabTrigger>LE_SCENARIO_TYPE_PROVING_GROUNDS</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

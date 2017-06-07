@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NO_TRANSMOG_VISUAL_ID]]></content>
+	<tabTrigger>NO_TRANSMOG_VISUAL_ID</tabTrigger>
+	<description>0</description>
+	<scope>source.lua</scope>
+</snippet>

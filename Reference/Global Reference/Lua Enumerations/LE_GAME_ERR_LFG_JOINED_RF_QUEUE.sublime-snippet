@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_LFG_JOINED_RF_QUEUE]]></content>
+	<tabTrigger>LE_GAME_ERR_LFG_JOINED_RF_QUEUE</tabTrigger>
+	<description>769</description>
+	<scope>source.lua</scope>
+</snippet>

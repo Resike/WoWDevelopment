@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_QUESTLINE_FLOOR_LOCATION_BELOW]]></content>
+	<tabTrigger>LE_QUESTLINE_FLOOR_LOCATION_BELOW</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

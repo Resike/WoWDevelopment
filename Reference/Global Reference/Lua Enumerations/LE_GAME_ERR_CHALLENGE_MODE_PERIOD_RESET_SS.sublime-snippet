@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_CHALLENGE_MODE_PERIOD_RESET_SS]]></content>
+	<tabTrigger>LE_GAME_ERR_CHALLENGE_MODE_PERIOD_RESET_SS</tabTrigger>
+	<description>978</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_COMBAT_DAMAGE_SSI]]></content>
+	<tabTrigger>LE_GAME_ERR_COMBAT_DAMAGE_SSI</tabTrigger>
+	<description>184</description>
+	<scope>source.lua</scope>
+</snippet>

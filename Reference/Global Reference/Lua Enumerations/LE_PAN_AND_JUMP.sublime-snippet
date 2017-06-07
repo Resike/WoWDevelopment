@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_PAN_AND_JUMP]]></content>
+	<tabTrigger>LE_PAN_AND_JUMP</tabTrigger>
+	<description>6</description>
+	<scope>source.lua</scope>
+</snippet>

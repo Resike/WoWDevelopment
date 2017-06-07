@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_LFG_DESERTER_PLAYER]]></content>
+	<tabTrigger>LE_GAME_ERR_LFG_DESERTER_PLAYER</tabTrigger>
+	<description>751</description>
+	<scope>source.lua</scope>
+</snippet>

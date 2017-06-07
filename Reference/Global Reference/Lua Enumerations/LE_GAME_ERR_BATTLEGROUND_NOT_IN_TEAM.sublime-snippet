@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_BATTLEGROUND_NOT_IN_TEAM]]></content>
+	<tabTrigger>LE_GAME_ERR_BATTLEGROUND_NOT_IN_TEAM</tabTrigger>
+	<description>573</description>
+	<scope>source.lua</scope>
+</snippet>

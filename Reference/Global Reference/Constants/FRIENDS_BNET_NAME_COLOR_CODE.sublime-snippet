@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FRIENDS_BNET_NAME_COLOR_CODE]]></content>
+	<tabTrigger>FRIENDS_BNET_NAME_COLOR_CODE</tabTrigger>
+	<description>"|cff82c5ff"</description>
+	<scope>source.lua</scope>
+</snippet>

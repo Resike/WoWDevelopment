@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_ITEM_BIND_QUEST]]></content>
+	<tabTrigger>LE_ITEM_BIND_QUEST</tabTrigger>
+	<description>4</description>
+	<scope>source.lua</scope>
+</snippet>

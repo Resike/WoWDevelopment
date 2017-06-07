@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SCHOOL_MASK_ARCANE]]></content>
+	<tabTrigger>SCHOOL_MASK_ARCANE</tabTrigger>
+	<description>0x40</description>
+	<scope>source.lua</scope>
+</snippet>

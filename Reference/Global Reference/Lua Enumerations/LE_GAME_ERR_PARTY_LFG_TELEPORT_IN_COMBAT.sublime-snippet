@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_PARTY_LFG_TELEPORT_IN_COMBAT]]></content>
+	<tabTrigger>LE_GAME_ERR_PARTY_LFG_TELEPORT_IN_COMBAT</tabTrigger>
+	<description>689</description>
+	<scope>source.lua</scope>
+</snippet>

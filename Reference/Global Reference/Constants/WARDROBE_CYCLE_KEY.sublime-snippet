@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WARDROBE_CYCLE_KEY]]></content>
+	<tabTrigger>WARDROBE_CYCLE_KEY</tabTrigger>
+	<description>"TAB"</description>
+	<scope>source.lua</scope>
+</snippet>

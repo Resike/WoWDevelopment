@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_TICKET_CREATE_ERROR]]></content>
+	<tabTrigger>LE_GAME_ERR_TICKET_CREATE_ERROR</tabTrigger>
+	<description>399</description>
+	<scope>source.lua</scope>
+</snippet>

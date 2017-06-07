@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_TRANSMOG_COLLECTION_TYPE_POLEARM]]></content>
+	<tabTrigger>LE_TRANSMOG_COLLECTION_TYPE_POLEARM</tabTrigger>
+	<description>24</description>
+	<scope>source.lua</scope>
+</snippet>

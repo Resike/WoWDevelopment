@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_BAD_ON_USE_ENCHANT]]></content>
+	<tabTrigger>LE_GAME_ERR_BAD_ON_USE_ENCHANT</tabTrigger>
+	<description>651</description>
+	<scope>source.lua</scope>
+</snippet>

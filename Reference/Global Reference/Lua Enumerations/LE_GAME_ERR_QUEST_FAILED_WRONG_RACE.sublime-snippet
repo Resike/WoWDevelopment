@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_QUEST_FAILED_WRONG_RACE]]></content>
+	<tabTrigger>LE_GAME_ERR_QUEST_FAILED_WRONG_RACE</tabTrigger>
+	<description>170</description>
+	<scope>source.lua</scope>
+</snippet>

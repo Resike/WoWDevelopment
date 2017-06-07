@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_OUT_OF_RAGE]]></content>
+	<tabTrigger>LE_GAME_ERR_OUT_OF_RAGE</tabTrigger>
+	<description>328</description>
+	<scope>source.lua</scope>
+</snippet>

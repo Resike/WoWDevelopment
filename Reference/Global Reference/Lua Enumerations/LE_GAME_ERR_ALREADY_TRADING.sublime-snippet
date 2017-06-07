@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_ALREADY_TRADING]]></content>
+	<tabTrigger>LE_GAME_ERR_ALREADY_TRADING</tabTrigger>
+	<description>231</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_PARTY_LFG_BOOT_NOT_ELIGIBLE_S]]></content>
+	<tabTrigger>LE_GAME_ERR_PARTY_LFG_BOOT_NOT_ELIGIBLE_S</tabTrigger>
+	<description>678</description>
+	<scope>source.lua</scope>
+</snippet>

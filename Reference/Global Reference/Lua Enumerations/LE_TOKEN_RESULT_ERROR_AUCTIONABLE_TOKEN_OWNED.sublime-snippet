@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_TOKEN_RESULT_ERROR_AUCTIONABLE_TOKEN_OWNED]]></content>
+	<tabTrigger>LE_TOKEN_RESULT_ERROR_AUCTIONABLE_TOKEN_OWNED</tabTrigger>
+	<description>8</description>
+	<scope>source.lua</scope>
+</snippet>

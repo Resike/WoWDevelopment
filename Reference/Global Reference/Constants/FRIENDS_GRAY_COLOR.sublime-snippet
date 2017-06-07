@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FRIENDS_GRAY_COLOR]]></content>
+	<tabTrigger>FRIENDS_GRAY_COLOR</tabTrigger>
+	<description>{r=0.486, g=0.518, b=0.541}</description>
+	<scope>source.lua</scope>
+</snippet>

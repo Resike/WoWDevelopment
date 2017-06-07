@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[INVSLOT_AMMO]]></content>
+	<tabTrigger>INVSLOT_AMMO</tabTrigger>
+	<description>0</description>
+	<scope>source.lua</scope>
+</snippet>

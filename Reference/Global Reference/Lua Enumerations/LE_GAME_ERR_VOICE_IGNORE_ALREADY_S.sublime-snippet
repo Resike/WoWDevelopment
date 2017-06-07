@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_VOICE_IGNORE_ALREADY_S]]></content>
+	<tabTrigger>LE_GAME_ERR_VOICE_IGNORE_ALREADY_S</tabTrigger>
+	<description>597</description>
+	<scope>source.lua</scope>
+</snippet>

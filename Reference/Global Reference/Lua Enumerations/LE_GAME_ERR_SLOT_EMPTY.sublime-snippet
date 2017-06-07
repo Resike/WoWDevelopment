@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_SLOT_EMPTY]]></content>
+	<tabTrigger>LE_GAME_ERR_SLOT_EMPTY</tabTrigger>
+	<description>26</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_AMMO_ONLY]]></content>
+	<tabTrigger>LE_GAME_ERR_AMMO_ONLY</tabTrigger>
+	<description>19</description>
+	<scope>source.lua</scope>
+</snippet>

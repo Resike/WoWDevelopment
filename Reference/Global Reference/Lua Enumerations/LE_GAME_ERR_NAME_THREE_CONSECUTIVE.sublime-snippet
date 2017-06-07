@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_NAME_THREE_CONSECUTIVE]]></content>
+	<tabTrigger>LE_GAME_ERR_NAME_THREE_CONSECUTIVE</tabTrigger>
+	<description>630</description>
+	<scope>source.lua</scope>
+</snippet>

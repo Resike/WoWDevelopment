@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_PLAYER_IS_NEUTRAL]]></content>
+	<tabTrigger>LE_GAME_ERR_PLAYER_IS_NEUTRAL</tabTrigger>
+	<description>291</description>
+	<scope>source.lua</scope>
+</snippet>

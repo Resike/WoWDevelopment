@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FRIENDS_WOW_NAME_COLOR]]></content>
+	<tabTrigger>FRIENDS_WOW_NAME_COLOR</tabTrigger>
+	<description>{r=0.996, g=0.882, b=0.361}</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_TRANSMOG_COLLECTION_TYPE_CHEST]]></content>
+	<tabTrigger>LE_TRANSMOG_COLLECTION_TYPE_CHEST</tabTrigger>
+	<description>4</description>
+	<scope>source.lua</scope>
+</snippet>

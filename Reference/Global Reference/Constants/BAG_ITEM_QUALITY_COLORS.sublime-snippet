@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BAG_ITEM_QUALITY_COLORS]]></content>
+	<tabTrigger>BAG_ITEM_QUALITY_COLORS</tabTrigger>
+	<description></description>
+	<scope>source.lua</scope>
+</snippet>

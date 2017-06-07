@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DIM_RED_FONT_COLOR]]></content>
+	<tabTrigger>DIM_RED_FONT_COLOR</tabTrigger>
+	<description>{r=0.8, g=0.1, b=0.1}</description>
+	<scope>source.lua</scope>
+</snippet>

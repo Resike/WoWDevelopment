@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_EXHAUSTION_EXHAUSTED]]></content>
+	<tabTrigger>LE_GAME_ERR_EXHAUSTION_EXHAUSTED</tabTrigger>
+	<description>409</description>
+	<scope>source.lua</scope>
+</snippet>

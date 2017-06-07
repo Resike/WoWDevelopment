@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_MAIL_ATTACHMENT_EXPIRED]]></content>
+	<tabTrigger>LE_GAME_ERR_MAIL_ATTACHMENT_EXPIRED</tabTrigger>
+	<description>612</description>
+	<scope>source.lua</scope>
+</snippet>

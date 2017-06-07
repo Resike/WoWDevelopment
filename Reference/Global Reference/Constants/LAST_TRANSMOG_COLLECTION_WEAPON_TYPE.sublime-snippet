@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LAST_TRANSMOG_COLLECTION_WEAPON_TYPE]]></content>
+	<tabTrigger>LAST_TRANSMOG_COLLECTION_WEAPON_TYPE</tabTrigger>
+	<description>28</description>
+	<scope>source.lua</scope>
+</snippet>

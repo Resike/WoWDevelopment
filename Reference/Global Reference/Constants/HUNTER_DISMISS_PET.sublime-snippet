@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HUNTER_DISMISS_PET]]></content>
+	<tabTrigger>HUNTER_DISMISS_PET</tabTrigger>
+	<description>2641</description>
+	<scope>source.lua</scope>
+</snippet>

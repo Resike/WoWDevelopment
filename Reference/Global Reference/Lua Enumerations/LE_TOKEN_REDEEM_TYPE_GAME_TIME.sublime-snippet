@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_TOKEN_REDEEM_TYPE_GAME_TIME]]></content>
+	<tabTrigger>LE_TOKEN_REDEEM_TYPE_GAME_TIME</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

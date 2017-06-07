@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_OUT_OF_ENERGY]]></content>
+	<tabTrigger>LE_GAME_ERR_OUT_OF_ENERGY</tabTrigger>
+	<description>330</description>
+	<scope>source.lua</scope>
+</snippet>

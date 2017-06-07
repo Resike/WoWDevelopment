@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_CHARACTER_CREATE_TYPE_BOOST]]></content>
+	<tabTrigger>LE_CHARACTER_CREATE_TYPE_BOOST</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

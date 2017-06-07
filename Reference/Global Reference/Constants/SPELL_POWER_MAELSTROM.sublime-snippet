@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SPELL_POWER_MAELSTROM]]></content>
+	<tabTrigger>SPELL_POWER_MAELSTROM</tabTrigger>
+	<description>11</description>
+	<scope>source.lua</scope>
+</snippet>

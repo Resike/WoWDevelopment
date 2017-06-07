@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_PET_SPELL_TARGETS_DEAD]]></content>
+	<tabTrigger>LE_GAME_ERR_PET_SPELL_TARGETS_DEAD</tabTrigger>
+	<description>394</description>
+	<scope>source.lua</scope>
+</snippet>

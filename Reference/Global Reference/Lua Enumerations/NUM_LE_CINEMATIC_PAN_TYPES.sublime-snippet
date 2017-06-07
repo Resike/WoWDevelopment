@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NUM_LE_CINEMATIC_PAN_TYPES]]></content>
+	<tabTrigger>NUM_LE_CINEMATIC_PAN_TYPES</tabTrigger>
+	<description>6</description>
+	<scope>source.lua</scope>
+</snippet>

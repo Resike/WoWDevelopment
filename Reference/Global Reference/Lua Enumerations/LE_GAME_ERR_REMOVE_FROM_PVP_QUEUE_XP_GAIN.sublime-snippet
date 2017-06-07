@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_REMOVE_FROM_PVP_QUEUE_XP_GAIN]]></content>
+	<tabTrigger>LE_GAME_ERR_REMOVE_FROM_PVP_QUEUE_XP_GAIN</tabTrigger>
+	<description>707</description>
+	<scope>source.lua</scope>
+</snippet>

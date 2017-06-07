@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[INSTANCE_TYPE_DUNGEON]]></content>
+	<tabTrigger>INSTANCE_TYPE_DUNGEON</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

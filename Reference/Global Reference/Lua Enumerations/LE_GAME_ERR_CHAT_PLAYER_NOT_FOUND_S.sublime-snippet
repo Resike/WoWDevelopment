@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_CHAT_PLAYER_NOT_FOUND_S]]></content>
+	<tabTrigger>LE_GAME_ERR_CHAT_PLAYER_NOT_FOUND_S</tabTrigger>
+	<description>277</description>
+	<scope>source.lua</scope>
+</snippet>

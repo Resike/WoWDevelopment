@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_GUILD_NOT_ENOUGH_MONEY]]></content>
+	<tabTrigger>LE_GAME_ERR_GUILD_NOT_ENOUGH_MONEY</tabTrigger>
+	<description>140</description>
+	<scope>source.lua</scope>
+</snippet>

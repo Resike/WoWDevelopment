@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_TOKEN_CHOICE_SUBSCRIPTION]]></content>
+	<tabTrigger>LE_TOKEN_CHOICE_SUBSCRIPTION</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

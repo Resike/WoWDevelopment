@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LFGUILD_PARAM_QUESTS]]></content>
+	<tabTrigger>LFGUILD_PARAM_QUESTS</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

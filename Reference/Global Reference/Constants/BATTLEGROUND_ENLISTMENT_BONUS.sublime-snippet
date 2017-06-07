@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BATTLEGROUND_ENLISTMENT_BONUS]]></content>
+	<tabTrigger>BATTLEGROUND_ENLISTMENT_BONUS</tabTrigger>
+	<description>241260</description>
+	<scope>source.lua</scope>
+</snippet>

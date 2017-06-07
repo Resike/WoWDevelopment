@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_ATTACK_STUNNED]]></content>
+	<tabTrigger>LE_GAME_ERR_ATTACK_STUNNED</tabTrigger>
+	<description>195</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_RAID_CONVERTED_TO_PARTY]]></content>
+	<tabTrigger>LE_GAME_ERR_RAID_CONVERTED_TO_PARTY</tabTrigger>
+	<description>717</description>
+	<scope>source.lua</scope>
+</snippet>

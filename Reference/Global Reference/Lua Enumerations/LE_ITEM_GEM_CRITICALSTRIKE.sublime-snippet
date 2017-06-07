@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_ITEM_GEM_CRITICALSTRIKE]]></content>
+	<tabTrigger>LE_ITEM_GEM_CRITICALSTRIKE</tabTrigger>
+	<description>5</description>
+	<scope>source.lua</scope>
+</snippet>

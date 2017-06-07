@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_TRADE_NOT_ON_TAPLIST]]></content>
+	<tabTrigger>LE_GAME_ERR_TRADE_NOT_ON_TAPLIST</tabTrigger>
+	<description>560</description>
+	<scope>source.lua</scope>
+</snippet>

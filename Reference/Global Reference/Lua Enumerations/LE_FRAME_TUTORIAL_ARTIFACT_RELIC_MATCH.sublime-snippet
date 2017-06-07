@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_FRAME_TUTORIAL_ARTIFACT_RELIC_MATCH]]></content>
+	<tabTrigger>LE_FRAME_TUTORIAL_ARTIFACT_RELIC_MATCH</tabTrigger>
+	<description>31</description>
+	<scope>source.lua</scope>
+</snippet>

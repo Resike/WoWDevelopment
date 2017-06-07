@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SHOW_SEARCH_BAR_NUM_FRIENDS]]></content>
+	<tabTrigger>SHOW_SEARCH_BAR_NUM_FRIENDS</tabTrigger>
+	<description>12</description>
+	<scope>source.lua</scope>
+</snippet>

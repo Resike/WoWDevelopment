@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_PROFICIENCY_NEEDED]]></content>
+	<tabTrigger>LE_GAME_ERR_PROFICIENCY_NEEDED</tabTrigger>
+	<description>10</description>
+	<scope>source.lua</scope>
+</snippet>

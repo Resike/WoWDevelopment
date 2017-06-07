@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_PET_BROKEN]]></content>
+	<tabTrigger>LE_GAME_ERR_PET_BROKEN</tabTrigger>
+	<description>500</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LE_GAME_ERR_GUILD_LEADER_S]]></content>
+	<tabTrigger>LE_GAME_ERR_GUILD_LEADER_S</tabTrigger>
+	<description>120</description>
+	<scope>source.lua</scope>
+</snippet>

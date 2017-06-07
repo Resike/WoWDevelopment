@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[STANDARD_TOTEM_PRIORITIES]]></content>
+	<tabTrigger>STANDARD_TOTEM_PRIORITIES</tabTrigger>
+	<description></description>
+	<scope>source.lua</scope>
+</snippet>
