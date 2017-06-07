@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>comment</key>
-	<string>WoW Lua Syntax Highlighting.</string>
+	<string>WoW XML Syntax Highlighting.</string>
 	<key>fileTypes</key>
 	<array>
-		<string>lua</string>
+		<string>xml</string>
 	</array>
 	<key>name</key>
-	<string>WoW Lua</string>
+	<string>WoW XML</string>
 	<key>patterns</key>
 	<array>
 		<dict>
@@ -76,12 +76,16 @@
 		</dict>
 		<dict>
 			<key>include</key>
+			<string>text.xml</string>
+		</dict>
+		<dict>
+			<key>include</key>
 			<string>source.lua</string>
 		</dict>
 	</array>
 	<key>scopeName</key>
 	<string>source.lua.wow</string>
 	<key>uuid</key>
-	<string>93E017CC-6F27-11D9-90EB-000D93589AF7</string>
+	<string>93E017CC-6F27-11D9-90EB-000D93589AF8</string>
 </dict>
 </plist>
