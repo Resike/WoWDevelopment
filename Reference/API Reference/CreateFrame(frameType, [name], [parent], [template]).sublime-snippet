@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CreateFrame("${1:frameType}", ${2:["name"]}, ${3:[parent]}, ${4:["template"]})$0]]></content>
+	<content><![CDATA[CreateFrame("${1:frameType}", ${2:["name"]}, ${3:[parent]}${4:, ${5:["template"]}})$0]]></content>
 	<tabTrigger>CreateFrame</tabTrigger>
 	<description>("frameType", ["name"], →)</description>
 	<scope>source.lua</scope>
