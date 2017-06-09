@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GuildBankPopupFrame_RefreshIconList($1)$0]]></content>
+	<tabTrigger>GuildBankPopupFrame_RefreshIconList</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua</scope>
+</snippet>

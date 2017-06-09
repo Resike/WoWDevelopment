@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PvPObjectiveBannerFrame_OnAnimFinished($1)$0]]></content>
+	<tabTrigger>PvPObjectiveBannerFrame_OnAnimFinished</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GarrisonLandingPageTab_OnClick($1)$0]]></content>
+	<tabTrigger>GarrisonLandingPageTab_OnClick</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua</scope>
+</snippet>

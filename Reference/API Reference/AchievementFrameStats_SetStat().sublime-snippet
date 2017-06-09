@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AchievementFrameStats_SetStat($1)$0]]></content>
+	<tabTrigger>AchievementFrameStats_SetStat</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua</scope>
+</snippet>

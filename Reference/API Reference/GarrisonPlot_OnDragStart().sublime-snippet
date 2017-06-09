@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GarrisonPlot_OnDragStart($1)$0]]></content>
+	<tabTrigger>GarrisonPlot_OnDragStart</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua</scope>
+</snippet>

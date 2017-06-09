@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerTalentFrame_ClearTalentSelections($1)$0]]></content>
+	<tabTrigger>PlayerTalentFrame_ClearTalentSelections</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua</scope>
+</snippet>

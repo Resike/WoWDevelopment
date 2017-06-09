@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GarrisonEnemyPortait_Set($1)$0]]></content>
+	<tabTrigger>GarrisonEnemyPortait_Set</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PriceDropDown_OnClick($1)$0]]></content>
+	<tabTrigger>PriceDropDown_OnClick</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua</scope>
+</snippet>

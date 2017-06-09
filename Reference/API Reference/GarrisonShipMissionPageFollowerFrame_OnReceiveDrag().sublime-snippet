@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GarrisonShipMissionPageFollowerFrame_OnReceiveDrag($1)$0]]></content>
+	<tabTrigger>GarrisonShipMissionPageFollowerFrame_OnReceiveDrag</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua</scope>
+</snippet>

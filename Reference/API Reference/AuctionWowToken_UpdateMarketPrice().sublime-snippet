@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AuctionWowToken_UpdateMarketPrice($1)$0]]></content>
+	<tabTrigger>AuctionWowToken_UpdateMarketPrice</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua</scope>
+</snippet>

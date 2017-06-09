@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GuildBankFrame_ChangeBackground($1)$0]]></content>
+	<tabTrigger>GuildBankFrame_ChangeBackground</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua</scope>
+</snippet>

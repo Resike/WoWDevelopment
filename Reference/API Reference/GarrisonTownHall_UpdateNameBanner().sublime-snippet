@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GarrisonTownHall_UpdateNameBanner($1)$0]]></content>
+	<tabTrigger>GarrisonTownHall_UpdateNameBanner</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua</scope>
+</snippet>

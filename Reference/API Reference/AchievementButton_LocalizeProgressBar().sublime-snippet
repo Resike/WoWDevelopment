@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AchievementButton_LocalizeProgressBar($1)$0]]></content>
+	<tabTrigger>AchievementButton_LocalizeProgressBar</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ArchaeologyFrameSummary_PageClick($1)$0]]></content>
+	<tabTrigger>ArchaeologyFrameSummary_PageClick</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua</scope>
+</snippet>

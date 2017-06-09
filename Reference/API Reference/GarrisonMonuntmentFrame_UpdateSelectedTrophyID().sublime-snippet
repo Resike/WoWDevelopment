@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GarrisonMonuntmentFrame_UpdateSelectedTrophyID($1)$0]]></content>
+	<tabTrigger>GarrisonMonuntmentFrame_UpdateSelectedTrophyID</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GarrisonShipyardMap_UpdateBonusEffects($1)$0]]></content>
+	<tabTrigger>GarrisonShipyardMap_UpdateBonusEffects</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GarrisonFollowerListButton_OnDragStop($1)$0]]></content>
+	<tabTrigger>GarrisonFollowerListButton_OnDragStop</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua</scope>
+</snippet>

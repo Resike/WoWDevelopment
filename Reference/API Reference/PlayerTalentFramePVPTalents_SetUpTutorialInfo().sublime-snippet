@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerTalentFramePVPTalents_SetUpTutorialInfo($1)$0]]></content>
+	<tabTrigger>PlayerTalentFramePVPTalents_SetUpTutorialInfo</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua</scope>
+</snippet>

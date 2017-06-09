@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GarrisonFollowerAbilities_IsNew($1)$0]]></content>
+	<tabTrigger>GarrisonFollowerAbilities_IsNew</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua</scope>
+</snippet>

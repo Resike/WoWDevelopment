@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GarrisonFollowerList_DefaultMissionSort($1)$0]]></content>
+	<tabTrigger>GarrisonFollowerList_DefaultMissionSort</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua</scope>
+</snippet>

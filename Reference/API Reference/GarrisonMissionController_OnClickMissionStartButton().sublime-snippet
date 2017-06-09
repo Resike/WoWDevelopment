@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GarrisonMissionController_OnClickMissionStartButton($1)$0]]></content>
+	<tabTrigger>GarrisonMissionController_OnClickMissionStartButton</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua</scope>
+</snippet>

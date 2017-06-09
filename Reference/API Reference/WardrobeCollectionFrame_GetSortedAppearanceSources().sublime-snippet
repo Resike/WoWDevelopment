@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WardrobeCollectionFrame_GetSortedAppearanceSources($1)$0]]></content>
+	<tabTrigger>WardrobeCollectionFrame_GetSortedAppearanceSources</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CalendarCreateEvent_SetLockEvent($1)$0]]></content>
+	<tabTrigger>CalendarCreateEvent_SetLockEvent</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua</scope>
+</snippet>

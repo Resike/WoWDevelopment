@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CalendarViewEventFrame_OnShow($1)$0]]></content>
+	<tabTrigger>CalendarViewEventFrame_OnShow</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua</scope>
+</snippet>

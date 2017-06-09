@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CalendarInviteContextMenu_InviteToGroup($1)$0]]></content>
+	<tabTrigger>CalendarInviteContextMenu_InviteToGroup</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MapCanvasDetailLayer_CalculateTotalLayerSize($1)$0]]></content>
+	<tabTrigger>MapCanvasDetailLayer_CalculateTotalLayerSize</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua</scope>
+</snippet>
