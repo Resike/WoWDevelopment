@@ -421,35 +421,35 @@
 		<!-- Lua library functions -->
 		<dict>
 			<key>match</key>
-			<string>\s*((?&lt;=[\b(and|or|not|return|if)\b|,|\|-|%|#|\*|\/|\^|==?|~=|&lt;=?|&gt;=?|(?&lt;!\.)\.{2}(?!\.)])|(?&lt;!...))\s*\b((string\.(byte|char|dump|find|format|gmatch|gsub|len|lower|match|rep|reverse|sub|upper)|(table\.(concat|insert|maxn|remove|sort))|(math\.(abs|acos|asin|atan2?|ceil|cosh?|deg|exp|floor|fmod|frexp|ldexp|log|log10|max|min|modf|pow|rad|random|randomseed|sinh?|sqrt|tanh?))|(io\.(close|flush|input|lines|open|output|popen|read|tmpfile|type|write))|(os\.(clock|date|difftime|execute|exit|getenv|remove|rename|setlocale|time|tmpname))|(package\.(cpath|loaded|loadlib|path|preload|seeall))|debug\.(debug|[gs]etfenv|[gs]ethook|getinfo|[gs]etlocal|[gs]etmetatable|getregistry|[gs]etupvalue|traceback)))\b</string>
+			<string>\s*((?&lt;=[\b(and|or|not|return|if)\b|,|\|-|%|#|\*|\/|\^|==?|~=])|(?&lt;!...))\s*\b((string\.(byte|char|dump|find|format|gmatch|gsub|len|lower|match|rep|reverse|sub|upper)|(table\.(concat|insert|maxn|remove|sort))|(math\.(abs|acos|asin|atan2?|ceil|cosh?|deg|exp|floor|fmod|frexp|ldexp|log|log10|max|min|modf|pow|rad|random|randomseed|sinh?|sqrt|tanh?))|(io\.(close|flush|input|lines|open|output|popen|read|tmpfile|type|write))|(os\.(clock|date|difftime|execute|exit|getenv|remove|rename|setlocale|time|tmpname))|(package\.(cpath|loaded|loadlib|path|preload|seeall))|debug\.(debug|[gs]etfenv|[gs]ethook|getinfo|[gs]etlocal|[gs]etmetatable|getregistry|[gs]etupvalue|traceback)))\b</string>
 			<key>name</key>
 			<string>support.function.lua-library.lua</string>
 		</dict>
 		<!-- Custom library functions -->
 		<dict>
 			<key>match</key>
-			<string>\s*((?&lt;=[\b(and|or|not|return|if)\b|,|\|-|%|#|\*|\/|\^|==?|~=|&lt;=?|&gt;=?|(?&lt;!\.)\.{2}(?!\.)])|(?&lt;!...))\s*\b(math.round|string.split|spairs)\b</string>
+			<string>\s*((?&lt;=[\b(and|or|not|return|if)\b|,|\|-|%|#|\*|\/|\^|==?|~=])|(?&lt;!...))\s*\b(math.round|string.split|spairs)\b</string>
 			<key>name</key>
 			<string>support.function.lua-library.lua</string>
 		</dict>
 		<!-- Lua library collections -->
 		<dict>
 			<key>match</key>
-			<string>\s*((?&lt;=[\b(and|or|not|return|if)\b|,|\|-|%|#|\*|\/|\^|==?|~=|&lt;=?|&gt;=?|(?&lt;!\.)\.{2}(?!\.)])|(?&lt;!...))\s*\b(string|table|math|io|os|package|debug)\b</string>
+			<string>\s*((?&lt;=[\b(and|or|not|return|if)\b|,|\|-|%|#|\*|\/|\^|==?|~=])|(?&lt;!...))\s*\b(string|table|math|io|os|package|debug)\b</string>
 			<key>name</key>
 			<string>support.function.lua-library.lua</string>
 		</dict>
 		<!-- Lua support functions -->
 		<dict>
 			<key>match</key>
-			<string>\s*((?&lt;=[\b(and|or|not|return|if)\b|,|\|-|%|#|\*|\/|\^|==?|~=|&lt;=?|&gt;=?|(?&lt;!\.)\.{2}(?!\.)])|(?&lt;!...))\s*\b(dofile|loadfile|module|require)\b</string>
+			<string>\s*((?&lt;=[\b(and|or|not|return|if)\b|,|\|-|%|#|\*|\/|\^|==?|~=])|(?&lt;!...))\s*\b(dofile|loadfile|module|require)\b</string>
 			<key>name</key>
 			<string>support.function.lua-library.lua</string>
 		</dict>
 		<!-- WoW library functions -->
 		<dict>
 			<key>match</key>
-			<string>\s*((?&lt;=[\b(and|or|not|return|if)\b|,|\|-|%|#|\*|\/|\^|==?|~=|&lt;=?|&gt;=?|(?&lt;!\.)\.{2}(?!\.)])|(?&lt;!...))\s*\b(_ERRORMESSAGE|abs|acos|asin|assert|atan|atan2|ceil|class|collectgarbage|cos|date|debuglocals|debugprofilestart|debugprofilestop|debugstack|deg|difftime|error|escapePatternSymbols|exp|fastrandom|floor|forceinsecure|foreach|foreachi|format|frexp|gcinfo|geterrorhandler|getfenv|getglobal|getmetatable|getn|getprinthandler|gmatch|gsub|hooksecurefunc|includes|instanceOf|ipairs|issecure|issecurevariable|ldexp|loadstring|log|log10|max|message|min|mod|newproxy|next|nop|pairs|pcall|print|rad|random|rawequal|rawget|rawset|scrub|securecall|select|seterrorhandler|setfenv|setglobal|setmetatable|setprinthandler|sin|sort|sqrt|strbyte|strchar|strcmputf8i|strconcat|strfind|strjoin|strlen|strlenutf8|strlower|strmatch|strrep|strrev|strsplit|strsub|strtrim|strupper|subclassOf|tContains|tDeleteItem|tFilter|tInvert|tan|time|tinsert|tonumber|tostring|tostringall|tremove|type|unpack|wipe|xpcall)\b</string>
+			<string>\s*((?&lt;=[\b(and|or|not|return|if)\b|,|\|-|%|#|\*|\/|\^|==?|~=])|(?&lt;!...))\s*\b(_ERRORMESSAGE|abs|acos|asin|assert|atan|atan2|ceil|class|collectgarbage|cos|date|debuglocals|debugprofilestart|debugprofilestop|debugstack|deg|difftime|error|escapePatternSymbols|exp|fastrandom|floor|forceinsecure|foreach|foreachi|format|frexp|gcinfo|geterrorhandler|getfenv|getglobal|getmetatable|getn|getprinthandler|gmatch|gsub|hooksecurefunc|includes|instanceOf|ipairs|issecure|issecurevariable|ldexp|loadstring|log|log10|max|message|min|mod|newproxy|next|nop|pairs|pcall|print|rad|random|rawequal|rawget|rawset|scrub|securecall|select|seterrorhandler|setfenv|setglobal|setmetatable|setprinthandler|sin|sort|sqrt|strbyte|strchar|strcmputf8i|strconcat|strfind|strjoin|strlen|strlenutf8|strlower|strmatch|strrep|strrev|strsplit|strsub|strtrim|strupper|subclassOf|tContains|tDeleteItem|tFilter|tInvert|tan|time|tinsert|tonumber|tostring|tostringall|tremove|type|unpack|wipe|xpcall)\b</string>
 			<key>name</key>
 			<string>support.function.lua-library.FrameXML.lua</string>
 		</dict>
