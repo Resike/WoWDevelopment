@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[repeat
+	${1}
+until]]></content>
+	<tabTrigger>repeat</tabTrigger>
+	<scope>source.lua</scope>
+	<description>repeat</description>
+</snippet>

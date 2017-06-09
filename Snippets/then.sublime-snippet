@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[then
+	${1}
+end]]></content>
+	<tabTrigger>then</tabTrigger>
+	<scope>source.lua</scope>
+	<description>then</description>
+</snippet>

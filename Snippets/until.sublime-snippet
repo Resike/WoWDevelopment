@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[until${1}]]></content>
+	<tabTrigger>until</tabTrigger>
+	<scope>source.lua</scope>
+	<description>until</description>
+</snippet>

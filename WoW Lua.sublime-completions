@@ -1,0 +1,13 @@
+{
+	"scope": "source.lua - keyword.control.lua - constant.language.lua - string",
+	"completions": [
+		"in",
+		"else",
+		"return",
+		"false",
+		"true",
+		"break",
+		"or",
+		"and",
+	]
+}
