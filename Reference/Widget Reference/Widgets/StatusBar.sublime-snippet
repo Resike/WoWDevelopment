@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StatusBar]]></content>
+	<tabTrigger>StatusBar</tabTrigger>
+	<description>frameType</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SimpleHTML]]></content>
+	<tabTrigger>SimpleHTML</tabTrigger>
+	<description>frameType</description>
+	<scope>source.lua</scope>
+</snippet>
