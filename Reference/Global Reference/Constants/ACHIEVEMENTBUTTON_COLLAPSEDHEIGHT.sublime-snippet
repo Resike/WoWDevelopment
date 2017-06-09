@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACHIEVEMENTBUTTON_COLLAPSEDHEIGHT]]></content>
+	<tabTrigger>ACHIEVEMENTBUTTON_COLLAPSEDHEIGHT</tabTrigger>
+	<description>84</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[COPPER_PER_GOLD]]></content>
+	<tabTrigger>COPPER_PER_GOLD</tabTrigger>
+	<description>10000</description>
+	<scope>source.lua</scope>
+</snippet>

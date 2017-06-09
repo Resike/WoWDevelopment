@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NUM_WORLDMAP_FLAGS]]></content>
+	<tabTrigger>NUM_WORLDMAP_FLAGS</tabTrigger>
+	<description>4</description>
+	<scope>source.lua</scope>
+</snippet>

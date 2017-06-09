@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ALT_POWER_TYPE_PILL]]></content>
+	<tabTrigger>ALT_POWER_TYPE_PILL</tabTrigger>
+	<description>3</description>
+	<scope>source.lua</scope>
+</snippet>

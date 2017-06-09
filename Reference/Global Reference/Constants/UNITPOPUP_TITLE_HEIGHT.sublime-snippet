@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UNITPOPUP_TITLE_HEIGHT]]></content>
+	<tabTrigger>UNITPOPUP_TITLE_HEIGHT</tabTrigger>
+	<description>26</description>
+	<scope>source.lua</scope>
+</snippet>

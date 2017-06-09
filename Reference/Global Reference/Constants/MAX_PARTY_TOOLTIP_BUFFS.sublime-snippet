@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MAX_PARTY_TOOLTIP_BUFFS]]></content>
+	<tabTrigger>MAX_PARTY_TOOLTIP_BUFFS</tabTrigger>
+	<description>16</description>
+	<scope>source.lua</scope>
+</snippet>

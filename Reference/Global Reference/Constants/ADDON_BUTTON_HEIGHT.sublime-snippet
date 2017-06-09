@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ADDON_BUTTON_HEIGHT]]></content>
+	<tabTrigger>ADDON_BUTTON_HEIGHT</tabTrigger>
+	<description>16</description>
+	<scope>source.lua</scope>
+</snippet>

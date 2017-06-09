@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LFD_STATISTIC_CHANGE_TIME]]></content>
+	<tabTrigger>LFD_STATISTIC_CHANGE_TIME</tabTrigger>
+	<description>10</description>
+	<scope>source.lua</scope>
+</snippet>

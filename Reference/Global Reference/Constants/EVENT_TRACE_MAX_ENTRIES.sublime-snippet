@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EVENT_TRACE_MAX_ENTRIES]]></content>
+	<tabTrigger>EVENT_TRACE_MAX_ENTRIES</tabTrigger>
+	<description>1000</description>
+	<scope>source.lua</scope>
+</snippet>

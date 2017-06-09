@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GARRISON_LONG_MISSION_TIME]]></content>
+	<tabTrigger>GARRISON_LONG_MISSION_TIME</tabTrigger>
+	<description>28800</description>
+	<scope>source.lua</scope>
+</snippet>

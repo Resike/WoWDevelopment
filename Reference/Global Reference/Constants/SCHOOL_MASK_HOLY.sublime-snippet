@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SCHOOL_MASK_HOLY]]></content>
 	<tabTrigger>SCHOOL_MASK_HOLY</tabTrigger>
-	<description>0x02</description>
+	<description>2</description>
 	<scope>source.lua</scope>
 </snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[COMBATFEEDBACK_HOLDTIME]]></content>
+	<tabTrigger>COMBATFEEDBACK_HOLDTIME</tabTrigger>
+	<description>0.7</description>
+	<scope>source.lua</scope>
+</snippet>

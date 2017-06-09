@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EQUIPMENTFLYOUT_MAXROWS]]></content>
+	<tabTrigger>EQUIPMENTFLYOUT_MAXROWS</tabTrigger>
+	<description>4</description>
+	<scope>source.lua</scope>
+</snippet>

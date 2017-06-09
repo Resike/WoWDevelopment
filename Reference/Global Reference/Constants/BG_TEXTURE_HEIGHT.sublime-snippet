@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BG_TEXTURE_HEIGHT]]></content>
+	<tabTrigger>BG_TEXTURE_HEIGHT</tabTrigger>
+	<description>512</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MAX_ARENA_ENEMIES]]></content>
+	<tabTrigger>MAX_ARENA_ENEMIES</tabTrigger>
+	<description>5</description>
+	<scope>source.lua</scope>
+</snippet>

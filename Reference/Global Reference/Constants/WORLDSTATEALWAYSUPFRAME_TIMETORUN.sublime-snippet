@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WORLDSTATEALWAYSUPFRAME_TIMETORUN]]></content>
+	<tabTrigger>WORLDSTATEALWAYSUPFRAME_TIMETORUN</tabTrigger>
+	<description>60</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OBJECTIVE_TRACKER_UPDATE_ALL]]></content>
+	<tabTrigger>OBJECTIVE_TRACKER_UPDATE_ALL</tabTrigger>
+	<description>65535</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SOCIAL_DEFAULT_FRAME_WIDTH]]></content>
+	<tabTrigger>SOCIAL_DEFAULT_FRAME_WIDTH</tabTrigger>
+	<description>388</description>
+	<scope>source.lua</scope>
+</snippet>

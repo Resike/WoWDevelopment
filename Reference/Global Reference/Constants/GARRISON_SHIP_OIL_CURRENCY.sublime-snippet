@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GARRISON_SHIP_OIL_CURRENCY]]></content>
+	<tabTrigger>GARRISON_SHIP_OIL_CURRENCY</tabTrigger>
+	<description>1101</description>
+	<scope>source.lua</scope>
+</snippet>

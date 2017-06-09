@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AUCTION_TIMER_UPDATE_DELAY]]></content>
+	<tabTrigger>AUCTION_TIMER_UPDATE_DELAY</tabTrigger>
+	<description>0.3</description>
+	<scope>source.lua</scope>
+</snippet>

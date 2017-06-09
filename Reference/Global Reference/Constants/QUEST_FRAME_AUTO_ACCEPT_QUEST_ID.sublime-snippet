@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[QUEST_FRAME_AUTO_ACCEPT_QUEST_ID]]></content>
+	<tabTrigger>QUEST_FRAME_AUTO_ACCEPT_QUEST_ID</tabTrigger>
+	<description>0</description>
+	<scope>source.lua</scope>
+</snippet>

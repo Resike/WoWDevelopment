@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[COMBOFRAME_SHINE_FADE_OUT]]></content>
+	<tabTrigger>COMBOFRAME_SHINE_FADE_OUT</tabTrigger>
+	<description>0.4</description>
+	<scope>source.lua</scope>
+</snippet>

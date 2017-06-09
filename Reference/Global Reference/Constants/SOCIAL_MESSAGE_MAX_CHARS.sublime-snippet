@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SOCIAL_MESSAGE_MAX_CHARS]]></content>
+	<tabTrigger>SOCIAL_MESSAGE_MAX_CHARS</tabTrigger>
+	<description>140</description>
+	<scope>source.lua</scope>
+</snippet>

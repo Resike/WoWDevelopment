@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAMERA_MODIFICATION_TYPE_DISCARD]]></content>
+	<tabTrigger>CAMERA_MODIFICATION_TYPE_DISCARD</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

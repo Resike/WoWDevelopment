@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MAX_RAID_CLASS_BUTTONS]]></content>
+	<tabTrigger>MAX_RAID_CLASS_BUTTONS</tabTrigger>
+	<description>15</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODELFRAME_DEFAULT_ROTATION]]></content>
+	<tabTrigger>MODELFRAME_DEFAULT_ROTATION</tabTrigger>
+	<description>0.61</description>
+	<scope>source.lua</scope>
+</snippet>

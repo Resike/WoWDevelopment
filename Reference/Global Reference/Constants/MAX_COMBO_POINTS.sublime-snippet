@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MAX_COMBO_POINTS]]></content>
+	<tabTrigger>MAX_COMBO_POINTS</tabTrigger>
+	<description>5</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NUM_PET_STABLE_PAGES]]></content>
+	<tabTrigger>NUM_PET_STABLE_PAGES</tabTrigger>
+	<description>5</description>
+	<scope>source.lua</scope>
+</snippet>

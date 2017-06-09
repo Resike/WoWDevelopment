@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HELPFRAME_ACCOUNT_SECURITY]]></content>
+	<tabTrigger>HELPFRAME_ACCOUNT_SECURITY</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

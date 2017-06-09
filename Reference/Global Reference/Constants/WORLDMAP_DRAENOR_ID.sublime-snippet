@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WORLDMAP_DRAENOR_ID]]></content>
+	<tabTrigger>WORLDMAP_DRAENOR_ID</tabTrigger>
+	<description>7</description>
+	<scope>source.lua</scope>
+</snippet>

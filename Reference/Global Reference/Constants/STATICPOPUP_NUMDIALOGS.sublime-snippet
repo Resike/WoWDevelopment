@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[STATICPOPUP_NUMDIALOGS]]></content>
+	<tabTrigger>STATICPOPUP_NUMDIALOGS</tabTrigger>
+	<description>4</description>
+	<scope>source.lua</scope>
+</snippet>

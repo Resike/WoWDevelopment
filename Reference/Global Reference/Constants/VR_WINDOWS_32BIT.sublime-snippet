@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VR_WINDOWS_32BIT]]></content>
+	<tabTrigger>VR_WINDOWS_32BIT</tabTrigger>
+	<description>4096</description>
+	<scope>source.lua</scope>
+</snippet>

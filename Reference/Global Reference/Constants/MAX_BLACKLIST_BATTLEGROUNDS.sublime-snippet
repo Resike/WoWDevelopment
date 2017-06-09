@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MAX_BLACKLIST_BATTLEGROUNDS]]></content>
+	<tabTrigger>MAX_BLACKLIST_BATTLEGROUNDS</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

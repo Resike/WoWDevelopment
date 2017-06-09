@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SCENARIO_FLAG_DEPRECATED2]]></content>
 	<tabTrigger>SCENARIO_FLAG_DEPRECATED2</tabTrigger>
-	<description>0x00000004</description>
+	<description>4</description>
 	<scope>source.lua</scope>
 </snippet>

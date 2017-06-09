@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NUM_SHOPPING_TOOLTIPS]]></content>
+	<tabTrigger>NUM_SHOPPING_TOOLTIPS</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

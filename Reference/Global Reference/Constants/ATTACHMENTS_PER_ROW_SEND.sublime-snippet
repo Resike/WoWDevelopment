@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ATTACHMENTS_PER_ROW_SEND]]></content>
+	<tabTrigger>ATTACHMENTS_PER_ROW_SEND</tabTrigger>
+	<description>7</description>
+	<scope>source.lua</scope>
+</snippet>

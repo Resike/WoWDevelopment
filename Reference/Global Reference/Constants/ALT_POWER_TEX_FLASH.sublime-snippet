@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ALT_POWER_TEX_FLASH]]></content>
+	<tabTrigger>ALT_POWER_TEX_FLASH</tabTrigger>
+	<description>4</description>
+	<scope>source.lua</scope>
+</snippet>

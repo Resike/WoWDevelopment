@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TIMER_TYPE_CHALLENGE_MODE]]></content>
+	<tabTrigger>TIMER_TYPE_CHALLENGE_MODE</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

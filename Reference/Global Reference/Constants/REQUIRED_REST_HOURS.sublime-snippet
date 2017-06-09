@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[REQUIRED_REST_HOURS]]></content>
+	<tabTrigger>REQUIRED_REST_HOURS</tabTrigger>
+	<description>5</description>
+	<scope>source.lua</scope>
+</snippet>

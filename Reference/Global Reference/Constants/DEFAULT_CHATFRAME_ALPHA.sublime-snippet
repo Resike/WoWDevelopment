@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DEFAULT_CHATFRAME_ALPHA]]></content>
+	<tabTrigger>DEFAULT_CHATFRAME_ALPHA</tabTrigger>
+	<description>0.25</description>
+	<scope>source.lua</scope>
+</snippet>

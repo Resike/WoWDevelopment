@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACHIEVEMENTUI_MAX_SUMMARY_ACHIEVEMENTS]]></content>
+	<tabTrigger>ACHIEVEMENTUI_MAX_SUMMARY_ACHIEVEMENTS</tabTrigger>
+	<description>4</description>
+	<scope>source.lua</scope>
+</snippet>

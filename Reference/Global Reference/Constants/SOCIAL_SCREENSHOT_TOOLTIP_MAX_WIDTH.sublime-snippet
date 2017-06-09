@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SOCIAL_SCREENSHOT_TOOLTIP_MAX_WIDTH]]></content>
+	<tabTrigger>SOCIAL_SCREENSHOT_TOOLTIP_MAX_WIDTH</tabTrigger>
+	<description>236</description>
+	<scope>source.lua</scope>
+</snippet>

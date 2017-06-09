@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MAX_RAID_GROUPS]]></content>
+	<tabTrigger>MAX_RAID_GROUPS</tabTrigger>
+	<description>8</description>
+	<scope>source.lua</scope>
+</snippet>

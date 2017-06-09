@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILD_DETAIL_OFFICER_HEIGHT]]></content>
+	<tabTrigger>GUILD_DETAIL_OFFICER_HEIGHT</tabTrigger>
+	<description>228</description>
+	<scope>source.lua</scope>
+</snippet>

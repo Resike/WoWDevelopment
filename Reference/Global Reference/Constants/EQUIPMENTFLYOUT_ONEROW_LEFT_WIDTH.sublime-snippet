@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EQUIPMENTFLYOUT_ONEROW_LEFT_WIDTH]]></content>
+	<tabTrigger>EQUIPMENTFLYOUT_ONEROW_LEFT_WIDTH</tabTrigger>
+	<description>43</description>
+	<scope>source.lua</scope>
+</snippet>

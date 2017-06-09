@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ORBIT_CAMERA_MOUSE_MODE_ZOOM]]></content>
+	<tabTrigger>ORBIT_CAMERA_MOUSE_MODE_ZOOM</tabTrigger>
+	<description>6</description>
+	<scope>source.lua</scope>
+</snippet>

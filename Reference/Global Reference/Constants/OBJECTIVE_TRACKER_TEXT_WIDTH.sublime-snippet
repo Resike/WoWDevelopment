@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OBJECTIVE_TRACKER_TEXT_WIDTH]]></content>
+	<tabTrigger>OBJECTIVE_TRACKER_TEXT_WIDTH</tabTrigger>
+	<description>227</description>
+	<scope>source.lua</scope>
+</snippet>

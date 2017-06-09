@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MAX_TARGET_DEBUFFS]]></content>
+	<tabTrigger>MAX_TARGET_DEBUFFS</tabTrigger>
+	<description>16</description>
+	<scope>source.lua</scope>
+</snippet>

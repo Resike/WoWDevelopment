@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BATTLE_PET_DISPLAY_ROTATION]]></content>
+	<tabTrigger>BATTLE_PET_DISPLAY_ROTATION</tabTrigger>
+	<description>1.17809724509617</description>
+	<scope>source.lua</scope>
+</snippet>

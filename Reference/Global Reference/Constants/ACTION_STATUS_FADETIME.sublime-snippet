@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACTION_STATUS_FADETIME]]></content>
+	<tabTrigger>ACTION_STATUS_FADETIME</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

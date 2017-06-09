@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NUM_ICONS_PER_ROW]]></content>
+	<tabTrigger>NUM_ICONS_PER_ROW</tabTrigger>
+	<description>10</description>
+	<scope>source.lua</scope>
+</snippet>

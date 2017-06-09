@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ARCHAEOLOGY_MID_TITLE_YOFFSET]]></content>
+	<tabTrigger>ARCHAEOLOGY_MID_TITLE_YOFFSET</tabTrigger>
+	<description>-110</description>
+	<scope>source.lua</scope>
+</snippet>

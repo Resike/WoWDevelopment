@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MAX_RAID_MEMBERS]]></content>
+	<tabTrigger>MAX_RAID_MEMBERS</tabTrigger>
+	<description>40</description>
+	<scope>source.lua</scope>
+</snippet>

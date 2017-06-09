@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BOSS_FRAME_CASTBAR_HEIGHT]]></content>
+	<tabTrigger>BOSS_FRAME_CASTBAR_HEIGHT</tabTrigger>
+	<description>16</description>
+	<scope>source.lua</scope>
+</snippet>

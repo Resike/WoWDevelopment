@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHALLENGE_MEDAL_PLAT]]></content>
+	<tabTrigger>CHALLENGE_MEDAL_PLAT</tabTrigger>
+	<description>4</description>
+	<scope>source.lua</scope>
+</snippet>

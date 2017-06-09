@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHANNELPULLOUT_TAB_FADE_TIME]]></content>
+	<tabTrigger>CHANNELPULLOUT_TAB_FADE_TIME</tabTrigger>
+	<description>0.15</description>
+	<scope>source.lua</scope>
+</snippet>

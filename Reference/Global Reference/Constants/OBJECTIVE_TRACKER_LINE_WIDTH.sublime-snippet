@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OBJECTIVE_TRACKER_LINE_WIDTH]]></content>
+	<tabTrigger>OBJECTIVE_TRACKER_LINE_WIDTH</tabTrigger>
+	<description>248</description>
+	<scope>source.lua</scope>
+</snippet>

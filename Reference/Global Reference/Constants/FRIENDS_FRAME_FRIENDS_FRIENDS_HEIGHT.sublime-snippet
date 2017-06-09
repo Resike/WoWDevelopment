@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FRIENDS_FRAME_FRIENDS_FRIENDS_HEIGHT]]></content>
+	<tabTrigger>FRIENDS_FRAME_FRIENDS_FRIENDS_HEIGHT</tabTrigger>
+	<description>16</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SOCIAL_IMAGE_TYPE_ACHIEVEMENT]]></content>
+	<tabTrigger>SOCIAL_IMAGE_TYPE_ACHIEVEMENT</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

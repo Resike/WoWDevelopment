@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FRIENDS_SCROLLFRAME_HEIGHT]]></content>
+	<tabTrigger>FRIENDS_SCROLLFRAME_HEIGHT</tabTrigger>
+	<description>307</description>
+	<scope>source.lua</scope>
+</snippet>

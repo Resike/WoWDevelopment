@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ALERT_FRAME_COALESCE_SUCCESS]]></content>
+	<tabTrigger>ALERT_FRAME_COALESCE_SUCCESS</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

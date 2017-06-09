@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MAX_NUM_ITEMS]]></content>
+	<tabTrigger>MAX_NUM_ITEMS</tabTrigger>
+	<description>10</description>
+	<scope>source.lua</scope>
+</snippet>

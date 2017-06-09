@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BN_TOAST_RIGHT_OFFSET]]></content>
+	<tabTrigger>BN_TOAST_RIGHT_OFFSET</tabTrigger>
+	<description>-1</description>
+	<scope>source.lua</scope>
+</snippet>

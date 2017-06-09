@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MAX_LFG_LIST_SEARCH_AUTOCOMPLETE_ENTRIES]]></content>
+	<tabTrigger>MAX_LFG_LIST_SEARCH_AUTOCOMPLETE_ENTRIES</tabTrigger>
+	<description>6</description>
+	<scope>source.lua</scope>
+</snippet>

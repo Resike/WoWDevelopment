@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LFD_MAX_SHOWN_LEVEL_DIFF]]></content>
+	<tabTrigger>LFD_MAX_SHOWN_LEVEL_DIFF</tabTrigger>
+	<description>15</description>
+	<scope>source.lua</scope>
+</snippet>

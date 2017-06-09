@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SCROLLING_MESSAGE_FRAME_INSERT_MODE_BOTTOM]]></content>
+	<tabTrigger>SCROLLING_MESSAGE_FRAME_INSERT_MODE_BOTTOM</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

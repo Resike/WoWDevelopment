@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AUTOCOMPLETE_FLAG_ONLINE]]></content>
+	<tabTrigger>AUTOCOMPLETE_FLAG_ONLINE</tabTrigger>
+	<description>32</description>
+	<scope>source.lua</scope>
+</snippet>

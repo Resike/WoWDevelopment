@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MAX_BOSS_FRAMES]]></content>
+	<tabTrigger>MAX_BOSS_FRAMES</tabTrigger>
+	<description>5</description>
+	<scope>source.lua</scope>
+</snippet>

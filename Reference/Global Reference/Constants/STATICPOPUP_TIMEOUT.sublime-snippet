@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[STATICPOPUP_TIMEOUT]]></content>
+	<tabTrigger>STATICPOPUP_TIMEOUT</tabTrigger>
+	<description>60</description>
+	<scope>source.lua</scope>
+</snippet>

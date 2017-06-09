@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PETACTIONBAR_YPOS]]></content>
+	<tabTrigger>PETACTIONBAR_YPOS</tabTrigger>
+	<description>92</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NUM_AUCTION_ITEMS_PER_PAGE]]></content>
+	<tabTrigger>NUM_AUCTION_ITEMS_PER_PAGE</tabTrigger>
+	<description>50</description>
+	<scope>source.lua</scope>
+</snippet>

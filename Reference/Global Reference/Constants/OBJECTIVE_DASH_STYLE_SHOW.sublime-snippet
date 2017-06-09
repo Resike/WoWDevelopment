@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OBJECTIVE_DASH_STYLE_SHOW]]></content>
+	<tabTrigger>OBJECTIVE_DASH_STYLE_SHOW</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GARRISON_CURRENCY]]></content>
+	<tabTrigger>GARRISON_CURRENCY</tabTrigger>
+	<description>824</description>
+	<scope>source.lua</scope>
+</snippet>

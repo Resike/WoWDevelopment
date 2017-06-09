@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CONTAINER_BAG_OFFSET]]></content>
+	<tabTrigger>CONTAINER_BAG_OFFSET</tabTrigger>
+	<description>19</description>
+	<scope>source.lua</scope>
+</snippet>

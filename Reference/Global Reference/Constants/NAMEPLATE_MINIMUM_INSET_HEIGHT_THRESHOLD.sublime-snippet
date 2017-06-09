@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NAMEPLATE_MINIMUM_INSET_HEIGHT_THRESHOLD]]></content>
+	<tabTrigger>NAMEPLATE_MINIMUM_INSET_HEIGHT_THRESHOLD</tabTrigger>
+	<description>10</description>
+	<scope>source.lua</scope>
+</snippet>

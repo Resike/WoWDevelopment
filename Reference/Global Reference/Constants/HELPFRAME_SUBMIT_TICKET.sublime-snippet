@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HELPFRAME_SUBMIT_TICKET]]></content>
+	<tabTrigger>HELPFRAME_SUBMIT_TICKET</tabTrigger>
+	<description>14</description>
+	<scope>source.lua</scope>
+</snippet>

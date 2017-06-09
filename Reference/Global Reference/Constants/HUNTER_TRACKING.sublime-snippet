@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HUNTER_TRACKING]]></content>
+	<tabTrigger>HUNTER_TRACKING</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

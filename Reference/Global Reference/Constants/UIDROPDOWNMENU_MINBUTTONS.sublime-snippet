@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UIDROPDOWNMENU_MINBUTTONS]]></content>
+	<tabTrigger>UIDROPDOWNMENU_MINBUTTONS</tabTrigger>
+	<description>8</description>
+	<scope>source.lua</scope>
+</snippet>

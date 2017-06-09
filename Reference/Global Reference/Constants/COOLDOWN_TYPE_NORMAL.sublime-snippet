@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[COOLDOWN_TYPE_NORMAL]]></content>
+	<tabTrigger>COOLDOWN_TYPE_NORMAL</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

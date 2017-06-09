@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ROLE_SELECTION_PROMPT_DEFAULT_HEIGHT]]></content>
+	<tabTrigger>ROLE_SELECTION_PROMPT_DEFAULT_HEIGHT</tabTrigger>
+	<description>160</description>
+	<scope>source.lua</scope>
+</snippet>

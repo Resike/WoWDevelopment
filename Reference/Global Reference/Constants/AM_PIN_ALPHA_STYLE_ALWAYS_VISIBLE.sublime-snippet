@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AM_PIN_ALPHA_STYLE_ALWAYS_VISIBLE]]></content>
+	<tabTrigger>AM_PIN_ALPHA_STYLE_ALWAYS_VISIBLE</tabTrigger>
+	<description>3</description>
+	<scope>source.lua</scope>
+</snippet>

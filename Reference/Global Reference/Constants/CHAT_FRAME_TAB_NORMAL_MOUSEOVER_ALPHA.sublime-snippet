@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHAT_FRAME_TAB_NORMAL_MOUSEOVER_ALPHA]]></content>
+	<tabTrigger>CHAT_FRAME_TAB_NORMAL_MOUSEOVER_ALPHA</tabTrigger>
+	<description>0.6</description>
+	<scope>source.lua</scope>
+</snippet>

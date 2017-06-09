@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NUM_CHAT_WINDOWS]]></content>
+	<tabTrigger>NUM_CHAT_WINDOWS</tabTrigger>
+	<description>10</description>
+	<scope>source.lua</scope>
+</snippet>

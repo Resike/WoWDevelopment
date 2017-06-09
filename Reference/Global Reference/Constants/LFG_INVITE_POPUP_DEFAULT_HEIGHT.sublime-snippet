@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LFG_INVITE_POPUP_DEFAULT_HEIGHT]]></content>
+	<tabTrigger>LFG_INVITE_POPUP_DEFAULT_HEIGHT</tabTrigger>
+	<description>180</description>
+	<scope>source.lua</scope>
+</snippet>

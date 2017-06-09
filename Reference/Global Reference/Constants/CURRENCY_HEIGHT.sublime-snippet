@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CURRENCY_HEIGHT]]></content>
+	<tabTrigger>CURRENCY_HEIGHT</tabTrigger>
+	<description>20</description>
+	<scope>source.lua</scope>
+</snippet>

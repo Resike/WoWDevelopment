@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NUM_EXTENDED_UI_FRAMES]]></content>
+	<tabTrigger>NUM_EXTENDED_UI_FRAMES</tabTrigger>
+	<description>0</description>
+	<scope>source.lua</scope>
+</snippet>

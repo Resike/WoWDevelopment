@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[QUEST_DESCRIPTION_GRADIENT_CPS]]></content>
+	<tabTrigger>QUEST_DESCRIPTION_GRADIENT_CPS</tabTrigger>
+	<description>70</description>
+	<scope>source.lua</scope>
+</snippet>

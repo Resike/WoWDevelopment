@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PENDING_BUTTON_MIN_HEIGHT]]></content>
+	<tabTrigger>PENDING_BUTTON_MIN_HEIGHT</tabTrigger>
+	<description>92</description>
+	<scope>source.lua</scope>
+</snippet>

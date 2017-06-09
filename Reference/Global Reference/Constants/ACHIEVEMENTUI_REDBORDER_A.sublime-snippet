@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACHIEVEMENTUI_REDBORDER_A]]></content>
+	<tabTrigger>ACHIEVEMENTUI_REDBORDER_A</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

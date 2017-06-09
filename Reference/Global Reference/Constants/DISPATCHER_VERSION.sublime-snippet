@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DISPATCHER_VERSION]]></content>
+	<tabTrigger>DISPATCHER_VERSION</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

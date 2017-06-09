@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ECLIPSE_BAR_LUNAR_BUFF_ID]]></content>
+	<tabTrigger>ECLIPSE_BAR_LUNAR_BUFF_ID</tabTrigger>
+	<description>48518</description>
+	<scope>source.lua</scope>
+</snippet>

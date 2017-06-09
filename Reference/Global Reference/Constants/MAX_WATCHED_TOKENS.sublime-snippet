@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MAX_WATCHED_TOKENS]]></content>
+	<tabTrigger>MAX_WATCHED_TOKENS</tabTrigger>
+	<description>3</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ZoneFadeOutDuration]]></content>
+	<tabTrigger>ZoneFadeOutDuration</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

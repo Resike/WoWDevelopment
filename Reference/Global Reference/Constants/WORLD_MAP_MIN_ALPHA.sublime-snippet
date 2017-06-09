@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WORLD_MAP_MIN_ALPHA]]></content>
+	<tabTrigger>WORLD_MAP_MIN_ALPHA</tabTrigger>
+	<description>0.35</description>
+	<scope>source.lua</scope>
+</snippet>

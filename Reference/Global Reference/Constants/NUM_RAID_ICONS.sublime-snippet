@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NUM_RAID_ICONS]]></content>
+	<tabTrigger>NUM_RAID_ICONS</tabTrigger>
+	<description>8</description>
+	<scope>source.lua</scope>
+</snippet>

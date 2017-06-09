@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WORLD_MAP_MAX_ALPHA]]></content>
+	<tabTrigger>WORLD_MAP_MAX_ALPHA</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

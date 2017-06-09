@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUF_READY_CHECK_DECAY_TIME]]></content>
+	<tabTrigger>CUF_READY_CHECK_DECAY_TIME</tabTrigger>
+	<description>11</description>
+	<scope>source.lua</scope>
+</snippet>

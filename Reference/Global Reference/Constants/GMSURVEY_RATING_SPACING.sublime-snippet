@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GMSURVEY_RATING_SPACING]]></content>
+	<tabTrigger>GMSURVEY_RATING_SPACING</tabTrigger>
+	<description>76</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BOSS_DEBUFF_SIZE_INCREASE]]></content>
+	<tabTrigger>BOSS_DEBUFF_SIZE_INCREASE</tabTrigger>
+	<description>9</description>
+	<scope>source.lua</scope>
+</snippet>

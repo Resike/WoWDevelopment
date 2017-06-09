@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GARRISON_MISSION_COMPLETE_BANNER_WIDTH]]></content>
+	<tabTrigger>GARRISON_MISSION_COMPLETE_BANNER_WIDTH</tabTrigger>
+	<description>300</description>
+	<scope>source.lua</scope>
+</snippet>

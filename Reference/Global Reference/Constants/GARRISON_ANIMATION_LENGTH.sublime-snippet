@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GARRISON_ANIMATION_LENGTH]]></content>
+	<tabTrigger>GARRISON_ANIMATION_LENGTH</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

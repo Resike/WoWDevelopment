@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AUCTION_CANCEL_COST]]></content>
+	<tabTrigger>AUCTION_CANCEL_COST</tabTrigger>
+	<description>5</description>
+	<scope>source.lua</scope>
+</snippet>

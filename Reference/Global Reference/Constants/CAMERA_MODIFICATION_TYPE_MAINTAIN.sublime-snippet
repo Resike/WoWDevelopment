@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAMERA_MODIFICATION_TYPE_MAINTAIN]]></content>
+	<tabTrigger>CAMERA_MODIFICATION_TYPE_MAINTAIN</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NUM_ACTIONBAR_BUTTONS]]></content>
+	<tabTrigger>NUM_ACTIONBAR_BUTTONS</tabTrigger>
+	<description>12</description>
+	<scope>source.lua</scope>
+</snippet>

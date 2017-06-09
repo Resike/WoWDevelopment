@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UIDROPDOWNMENU_SHOW_TIME]]></content>
+	<tabTrigger>UIDROPDOWNMENU_SHOW_TIME</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

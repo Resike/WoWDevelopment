@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AUTOCOMPLETE_MAX_BUTTONS]]></content>
+	<tabTrigger>AUTOCOMPLETE_MAX_BUTTONS</tabTrigger>
+	<description>5</description>
+	<scope>source.lua</scope>
+</snippet>

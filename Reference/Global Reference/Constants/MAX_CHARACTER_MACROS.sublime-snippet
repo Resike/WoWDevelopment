@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MAX_CHARACTER_MACROS]]></content>
+	<tabTrigger>MAX_CHARACTER_MACROS</tabTrigger>
+	<description>18</description>
+	<scope>source.lua</scope>
+</snippet>

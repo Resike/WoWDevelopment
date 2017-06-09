@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ALT_POWER_TEX_BACKGROUND]]></content>
+	<tabTrigger>ALT_POWER_TEX_BACKGROUND</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

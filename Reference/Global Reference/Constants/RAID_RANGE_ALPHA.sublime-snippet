@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RAID_RANGE_ALPHA]]></content>
+	<tabTrigger>RAID_RANGE_ALPHA</tabTrigger>
+	<description>0.5</description>
+	<scope>source.lua</scope>
+</snippet>

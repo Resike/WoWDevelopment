@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHATCONFIG_CHANNELS_MAXWIDTH]]></content>
+	<tabTrigger>CHATCONFIG_CHANNELS_MAXWIDTH</tabTrigger>
+	<description>145</description>
+	<scope>source.lua</scope>
+</snippet>

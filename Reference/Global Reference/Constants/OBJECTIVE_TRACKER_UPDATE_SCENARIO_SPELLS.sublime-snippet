@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OBJECTIVE_TRACKER_UPDATE_SCENARIO_SPELLS]]></content>
+	<tabTrigger>OBJECTIVE_TRACKER_UPDATE_SCENARIO_SPELLS</tabTrigger>
+	<description>65536</description>
+	<scope>source.lua</scope>
+</snippet>

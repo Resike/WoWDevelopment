@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PLAYER_DISPLAYED_TITLES]]></content>
+	<tabTrigger>PLAYER_DISPLAYED_TITLES</tabTrigger>
+	<description>6</description>
+	<scope>source.lua</scope>
+</snippet>

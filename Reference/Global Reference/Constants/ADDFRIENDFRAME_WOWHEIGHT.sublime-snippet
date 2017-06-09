@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ADDFRIENDFRAME_WOWHEIGHT]]></content>
+	<tabTrigger>ADDFRIENDFRAME_WOWHEIGHT</tabTrigger>
+	<description>218</description>
+	<scope>source.lua</scope>
+</snippet>

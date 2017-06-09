@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ITEM_UPGRADE_MAX_STATS_SHOWN]]></content>
+	<tabTrigger>ITEM_UPGRADE_MAX_STATS_SHOWN</tabTrigger>
+	<description>10</description>
+	<scope>source.lua</scope>
+</snippet>

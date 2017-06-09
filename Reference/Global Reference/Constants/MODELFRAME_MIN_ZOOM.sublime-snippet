@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODELFRAME_MIN_ZOOM]]></content>
+	<tabTrigger>MODELFRAME_MIN_ZOOM</tabTrigger>
+	<description>0</description>
+	<scope>source.lua</scope>
+</snippet>

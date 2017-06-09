@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FRIENDS_TO_DISPLAY]]></content>
+	<tabTrigger>FRIENDS_TO_DISPLAY</tabTrigger>
+	<description>10</description>
+	<scope>source.lua</scope>
+</snippet>

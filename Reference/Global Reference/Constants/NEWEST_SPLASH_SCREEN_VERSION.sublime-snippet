@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NEWEST_SPLASH_SCREEN_VERSION]]></content>
+	<tabTrigger>NEWEST_SPLASH_SCREEN_VERSION</tabTrigger>
+	<description>9</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ARTIFACT_POWER_STYLE_UNPURCHASED_LOCKED]]></content>
+	<tabTrigger>ARTIFACT_POWER_STYLE_UNPURCHASED_LOCKED</tabTrigger>
+	<description>6</description>
+	<scope>source.lua</scope>
+</snippet>

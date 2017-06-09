@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACHIEVEMENTUI_CATEGORIESWIDTH]]></content>
+	<tabTrigger>ACHIEVEMENTUI_CATEGORIESWIDTH</tabTrigger>
+	<description>197</description>
+	<scope>source.lua</scope>
+</snippet>

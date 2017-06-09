@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BUFF_FLASH_TIME_OFF]]></content>
+	<tabTrigger>BUFF_FLASH_TIME_OFF</tabTrigger>
+	<description>0.75</description>
+	<scope>source.lua</scope>
+</snippet>

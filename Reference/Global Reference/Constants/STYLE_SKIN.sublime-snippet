@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[STYLE_SKIN]]></content>
+	<tabTrigger>STYLE_SKIN</tabTrigger>
+	<description>4</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EQUIPPED_FIRST]]></content>
+	<tabTrigger>EQUIPPED_FIRST</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

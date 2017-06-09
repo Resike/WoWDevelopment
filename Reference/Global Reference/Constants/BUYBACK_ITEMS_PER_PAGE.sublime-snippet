@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BUYBACK_ITEMS_PER_PAGE]]></content>
+	<tabTrigger>BUYBACK_ITEMS_PER_PAGE</tabTrigger>
+	<description>12</description>
+	<scope>source.lua</scope>
+</snippet>

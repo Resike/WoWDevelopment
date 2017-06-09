@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PETACTIONBAR_SLIDETIME]]></content>
+	<tabTrigger>PETACTIONBAR_SLIDETIME</tabTrigger>
+	<description>0.09</description>
+	<scope>source.lua</scope>
+</snippet>

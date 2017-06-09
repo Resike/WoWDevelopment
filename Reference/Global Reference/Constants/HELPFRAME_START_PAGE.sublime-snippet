@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HELPFRAME_START_PAGE]]></content>
+	<tabTrigger>HELPFRAME_START_PAGE</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

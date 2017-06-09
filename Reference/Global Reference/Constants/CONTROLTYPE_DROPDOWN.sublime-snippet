@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CONTROLTYPE_DROPDOWN]]></content>
+	<tabTrigger>CONTROLTYPE_DROPDOWN</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

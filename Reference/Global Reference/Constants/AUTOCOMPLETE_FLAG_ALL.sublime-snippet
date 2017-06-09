@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AUTOCOMPLETE_FLAG_ALL]]></content>
+	<tabTrigger>AUTOCOMPLETE_FLAG_ALL</tabTrigger>
+	<description>4294967295</description>
+	<scope>source.lua</scope>
+</snippet>

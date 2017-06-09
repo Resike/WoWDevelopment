@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DEVTOOLS_DEPTH_CUTOFF]]></content>
+	<tabTrigger>DEVTOOLS_DEPTH_CUTOFF</tabTrigger>
+	<description>10</description>
+	<scope>source.lua</scope>
+</snippet>

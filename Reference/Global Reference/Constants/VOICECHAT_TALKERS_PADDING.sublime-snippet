@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VOICECHAT_TALKERS_PADDING]]></content>
+	<tabTrigger>VOICECHAT_TALKERS_PADDING</tabTrigger>
+	<description>16</description>
+	<scope>source.lua</scope>
+</snippet>

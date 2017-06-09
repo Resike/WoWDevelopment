@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHAT_TAB_HIDE_DELAY]]></content>
+	<tabTrigger>CHAT_TAB_HIDE_DELAY</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

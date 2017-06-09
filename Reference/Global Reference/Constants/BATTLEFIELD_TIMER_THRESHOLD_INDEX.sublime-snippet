@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BATTLEFIELD_TIMER_THRESHOLD_INDEX]]></content>
+	<tabTrigger>BATTLEFIELD_TIMER_THRESHOLD_INDEX</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

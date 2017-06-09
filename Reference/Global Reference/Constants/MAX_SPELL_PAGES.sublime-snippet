@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MAX_SPELL_PAGES]]></content>
+	<tabTrigger>MAX_SPELL_PAGES</tabTrigger>
+	<description>86</description>
+	<scope>source.lua</scope>
+</snippet>

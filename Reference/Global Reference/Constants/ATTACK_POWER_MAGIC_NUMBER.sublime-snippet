@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ATTACK_POWER_MAGIC_NUMBER]]></content>
+	<tabTrigger>ATTACK_POWER_MAGIC_NUMBER</tabTrigger>
+	<description>3.5</description>
+	<scope>source.lua</scope>
+</snippet>

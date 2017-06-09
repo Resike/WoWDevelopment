@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ACHIEVEMENT_FLAGS_HAS_PROGRESS_BAR]]></content>
 	<tabTrigger>ACHIEVEMENT_FLAGS_HAS_PROGRESS_BAR</tabTrigger>
-	<description>0x00000080</description>
+	<description>128</description>
 	<scope>source.lua</scope>
 </snippet>

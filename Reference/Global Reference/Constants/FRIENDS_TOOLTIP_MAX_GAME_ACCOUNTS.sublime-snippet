@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FRIENDS_TOOLTIP_MAX_GAME_ACCOUNTS]]></content>
+	<tabTrigger>FRIENDS_TOOLTIP_MAX_GAME_ACCOUNTS</tabTrigger>
+	<description>5</description>
+	<scope>source.lua</scope>
+</snippet>

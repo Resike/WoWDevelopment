@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NAVBAR_WIDTHBUFFER]]></content>
+	<tabTrigger>NAVBAR_WIDTHBUFFER</tabTrigger>
+	<description>20</description>
+	<scope>source.lua</scope>
+</snippet>

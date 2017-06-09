@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[COMBAT_TEXT_X_SCALE]]></content>
+	<tabTrigger>COMBAT_TEXT_X_SCALE</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

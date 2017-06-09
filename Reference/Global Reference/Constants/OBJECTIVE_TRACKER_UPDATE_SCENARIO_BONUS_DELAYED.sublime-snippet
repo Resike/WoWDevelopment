@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OBJECTIVE_TRACKER_UPDATE_SCENARIO_BONUS_DELAYED]]></content>
+	<tabTrigger>OBJECTIVE_TRACKER_UPDATE_SCENARIO_BONUS_DELAYED</tabTrigger>
+	<description>256</description>
+	<scope>source.lua</scope>
+</snippet>

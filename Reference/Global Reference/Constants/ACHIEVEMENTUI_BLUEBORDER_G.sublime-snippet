@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACHIEVEMENTUI_BLUEBORDER_G]]></content>
+	<tabTrigger>ACHIEVEMENTUI_BLUEBORDER_G</tabTrigger>
+	<description>0.671</description>
+	<scope>source.lua</scope>
+</snippet>

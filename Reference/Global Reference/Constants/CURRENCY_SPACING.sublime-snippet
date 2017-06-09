@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CURRENCY_SPACING]]></content>
+	<tabTrigger>CURRENCY_SPACING</tabTrigger>
+	<description>5</description>
+	<scope>source.lua</scope>
+</snippet>

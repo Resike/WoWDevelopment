@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BACKPACK_TOKENFRAME_HEIGHT]]></content>
+	<tabTrigger>BACKPACK_TOKENFRAME_HEIGHT</tabTrigger>
+	<description>22</description>
+	<scope>source.lua</scope>
+</snippet>

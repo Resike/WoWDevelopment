@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MAX_PVP_TALENT_TIERS]]></content>
+	<tabTrigger>MAX_PVP_TALENT_TIERS</tabTrigger>
+	<description>6</description>
+	<scope>source.lua</scope>
+</snippet>

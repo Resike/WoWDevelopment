@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DEBUFF_MAX_DISPLAY]]></content>
+	<tabTrigger>DEBUFF_MAX_DISPLAY</tabTrigger>
+	<description>16</description>
+	<scope>source.lua</scope>
+</snippet>

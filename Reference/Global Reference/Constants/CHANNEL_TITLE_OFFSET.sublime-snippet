@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHANNEL_TITLE_OFFSET]]></content>
+	<tabTrigger>CHANNEL_TITLE_OFFSET</tabTrigger>
+	<description>10</description>
+	<scope>source.lua</scope>
+</snippet>

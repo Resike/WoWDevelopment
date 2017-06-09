@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NUM_WORLDMAP_GRAVEYARDS]]></content>
+	<tabTrigger>NUM_WORLDMAP_GRAVEYARDS</tabTrigger>
+	<description>0</description>
+	<scope>source.lua</scope>
+</snippet>

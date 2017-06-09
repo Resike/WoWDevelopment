@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TABARDEMBLEMID]]></content>
+	<tabTrigger>TABARDEMBLEMID</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

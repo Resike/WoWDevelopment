@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[COMBAT_TEXT_MAX_OFFSET]]></content>
+	<tabTrigger>COMBAT_TEXT_MAX_OFFSET</tabTrigger>
+	<description>130</description>
+	<scope>source.lua</scope>
+</snippet>

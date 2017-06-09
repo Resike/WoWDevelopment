@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LFG_LIST_UTIL_SUPPRESS_AUTO_ACCEPT_LINE]]></content>
+	<tabTrigger>LFG_LIST_UTIL_SUPPRESS_AUTO_ACCEPT_LINE</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

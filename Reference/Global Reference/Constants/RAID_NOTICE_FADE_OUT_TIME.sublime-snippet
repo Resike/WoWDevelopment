@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RAID_NOTICE_FADE_OUT_TIME]]></content>
+	<tabTrigger>RAID_NOTICE_FADE_OUT_TIME</tabTrigger>
+	<description>3</description>
+	<scope>source.lua</scope>
+</snippet>

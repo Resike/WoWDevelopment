@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UNDERBIASED_REASON_LEVEL]]></content>
+	<tabTrigger>UNDERBIASED_REASON_LEVEL</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

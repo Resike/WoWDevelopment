@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[QUICK_JOIN_NAME_SEPARATION]]></content>
+	<tabTrigger>QUICK_JOIN_NAME_SEPARATION</tabTrigger>
+	<description>-1</description>
+	<scope>source.lua</scope>
+</snippet>

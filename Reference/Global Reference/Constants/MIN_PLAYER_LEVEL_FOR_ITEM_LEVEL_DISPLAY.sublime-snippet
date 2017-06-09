@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MIN_PLAYER_LEVEL_FOR_ITEM_LEVEL_DISPLAY]]></content>
+	<tabTrigger>MIN_PLAYER_LEVEL_FOR_ITEM_LEVEL_DISPLAY</tabTrigger>
+	<description>90</description>
+	<scope>source.lua</scope>
+</snippet>

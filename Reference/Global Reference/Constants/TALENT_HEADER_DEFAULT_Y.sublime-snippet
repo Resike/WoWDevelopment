@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TALENT_HEADER_DEFAULT_Y]]></content>
+	<tabTrigger>TALENT_HEADER_DEFAULT_Y</tabTrigger>
+	<description>-36</description>
+	<scope>source.lua</scope>
+</snippet>

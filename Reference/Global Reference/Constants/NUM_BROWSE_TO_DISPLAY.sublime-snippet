@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NUM_BROWSE_TO_DISPLAY]]></content>
+	<tabTrigger>NUM_BROWSE_TO_DISPLAY</tabTrigger>
+	<description>8</description>
+	<scope>source.lua</scope>
+</snippet>

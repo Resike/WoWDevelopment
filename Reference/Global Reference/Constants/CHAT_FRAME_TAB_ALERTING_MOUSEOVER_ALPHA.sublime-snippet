@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHAT_FRAME_TAB_ALERTING_MOUSEOVER_ALPHA]]></content>
+	<tabTrigger>CHAT_FRAME_TAB_ALERTING_MOUSEOVER_ALPHA</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

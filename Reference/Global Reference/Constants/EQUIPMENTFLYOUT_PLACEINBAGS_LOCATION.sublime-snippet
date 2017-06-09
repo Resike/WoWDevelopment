@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EQUIPMENTFLYOUT_PLACEINBAGS_LOCATION]]></content>
+	<tabTrigger>EQUIPMENTFLYOUT_PLACEINBAGS_LOCATION</tabTrigger>
+	<description>4294967295</description>
+	<scope>source.lua</scope>
+</snippet>

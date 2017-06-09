@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ATTACHMENTS_MAX_SEND]]></content>
+	<tabTrigger>ATTACHMENTS_MAX_SEND</tabTrigger>
+	<description>12</description>
+	<scope>source.lua</scope>
+</snippet>

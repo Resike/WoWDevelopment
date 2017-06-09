@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CR_SPEED]]></content>
+	<tabTrigger>CR_SPEED</tabTrigger>
+	<description>14</description>
+	<scope>source.lua</scope>
+</snippet>

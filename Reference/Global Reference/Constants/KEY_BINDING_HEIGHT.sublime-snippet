@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[KEY_BINDING_HEIGHT]]></content>
+	<tabTrigger>KEY_BINDING_HEIGHT</tabTrigger>
+	<description>25</description>
+	<scope>source.lua</scope>
+</snippet>

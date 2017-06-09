@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[KBASE_NUM_ARTICLES_PER_PAGE]]></content>
+	<tabTrigger>KBASE_NUM_ARTICLES_PER_PAGE</tabTrigger>
+	<description>100</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MAX_SURVEY_ANSWERS]]></content>
+	<tabTrigger>MAX_SURVEY_ANSWERS</tabTrigger>
+	<description>12</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UIDROPDOWNMENU_MAXLEVELS]]></content>
+	<tabTrigger>UIDROPDOWNMENU_MAXLEVELS</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TRADE_SKILL_TEXT_WIDTH]]></content>
+	<tabTrigger>TRADE_SKILL_TEXT_WIDTH</tabTrigger>
+	<description>270</description>
+	<scope>source.lua</scope>
+</snippet>

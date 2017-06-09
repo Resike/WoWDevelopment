@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SQUELCH_TYPE_BLOCK_INVITE]]></content>
+	<tabTrigger>SQUELCH_TYPE_BLOCK_INVITE</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

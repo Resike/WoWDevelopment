@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PANEL_INSET_ATTIC_OFFSET]]></content>
+	<tabTrigger>PANEL_INSET_ATTIC_OFFSET</tabTrigger>
+	<description>-60</description>
+	<scope>source.lua</scope>
+</snippet>

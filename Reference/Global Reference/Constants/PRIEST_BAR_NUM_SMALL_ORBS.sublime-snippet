@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PRIEST_BAR_NUM_SMALL_ORBS]]></content>
+	<tabTrigger>PRIEST_BAR_NUM_SMALL_ORBS</tabTrigger>
+	<description>5</description>
+	<scope>source.lua</scope>
+</snippet>

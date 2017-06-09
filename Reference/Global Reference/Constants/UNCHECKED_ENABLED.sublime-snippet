@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UNCHECKED_ENABLED]]></content>
+	<tabTrigger>UNCHECKED_ENABLED</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

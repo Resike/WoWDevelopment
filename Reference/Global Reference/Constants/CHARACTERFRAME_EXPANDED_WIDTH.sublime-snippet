@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHARACTERFRAME_EXPANDED_WIDTH]]></content>
+	<tabTrigger>CHARACTERFRAME_EXPANDED_WIDTH</tabTrigger>
+	<description>540</description>
+	<scope>source.lua</scope>
+</snippet>

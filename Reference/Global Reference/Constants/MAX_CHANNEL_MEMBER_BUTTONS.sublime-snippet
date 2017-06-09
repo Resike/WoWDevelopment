@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MAX_CHANNEL_MEMBER_BUTTONS]]></content>
+	<tabTrigger>MAX_CHANNEL_MEMBER_BUTTONS</tabTrigger>
+	<description>22</description>
+	<scope>source.lua</scope>
+</snippet>

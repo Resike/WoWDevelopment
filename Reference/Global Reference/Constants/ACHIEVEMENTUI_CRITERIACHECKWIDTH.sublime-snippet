@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACHIEVEMENTUI_CRITERIACHECKWIDTH]]></content>
+	<tabTrigger>ACHIEVEMENTUI_CRITERIACHECKWIDTH</tabTrigger>
+	<description>20</description>
+	<scope>source.lua</scope>
+</snippet>

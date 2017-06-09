@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EQUIPMENTFLYOUT_UNIGNORESLOT_LOCATION]]></content>
+	<tabTrigger>EQUIPMENTFLYOUT_UNIGNORESLOT_LOCATION</tabTrigger>
+	<description>4294967293</description>
+	<scope>source.lua</scope>
+</snippet>

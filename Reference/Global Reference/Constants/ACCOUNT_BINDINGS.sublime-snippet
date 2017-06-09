@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACCOUNT_BINDINGS]]></content>
+	<tabTrigger>ACCOUNT_BINDINGS</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

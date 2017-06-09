@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EQUIPPED_LAST]]></content>
+	<tabTrigger>EQUIPPED_LAST</tabTrigger>
+	<description>19</description>
+	<scope>source.lua</scope>
+</snippet>

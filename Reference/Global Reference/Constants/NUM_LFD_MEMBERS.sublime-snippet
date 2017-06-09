@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NUM_LFD_MEMBERS]]></content>
+	<tabTrigger>NUM_LFD_MEMBERS</tabTrigger>
+	<description>5</description>
+	<scope>source.lua</scope>
+</snippet>

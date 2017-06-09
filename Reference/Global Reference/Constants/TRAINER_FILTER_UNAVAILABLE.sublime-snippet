@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TRAINER_FILTER_UNAVAILABLE]]></content>
+	<tabTrigger>TRAINER_FILTER_UNAVAILABLE</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ITEM_INVENTORY_BANK_BAG_OFFSET]]></content>
+	<tabTrigger>ITEM_INVENTORY_BANK_BAG_OFFSET</tabTrigger>
+	<description>4</description>
+	<scope>source.lua</scope>
+</snippet>

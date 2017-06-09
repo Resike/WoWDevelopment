@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WORLD_QUEST_REWARD_TYPE_FLAG_ARTIFACT_POWER]]></content>
+	<tabTrigger>WORLD_QUEST_REWARD_TYPE_FLAG_ARTIFACT_POWER</tabTrigger>
+	<description>4</description>
+	<scope>source.lua</scope>
+</snippet>

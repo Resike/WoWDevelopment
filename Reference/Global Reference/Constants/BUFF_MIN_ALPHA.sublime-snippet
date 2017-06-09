@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BUFF_MIN_ALPHA]]></content>
+	<tabTrigger>BUFF_MIN_ALPHA</tabTrigger>
+	<description>0.3</description>
+	<scope>source.lua</scope>
+</snippet>

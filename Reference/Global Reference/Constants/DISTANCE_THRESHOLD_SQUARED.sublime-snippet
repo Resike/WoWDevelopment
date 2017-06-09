@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DISTANCE_THRESHOLD_SQUARED]]></content>
+	<tabTrigger>DISTANCE_THRESHOLD_SQUARED</tabTrigger>
+	<description>62500</description>
+	<scope>source.lua</scope>
+</snippet>

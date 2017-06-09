@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UIMENU_BORDER_WIDTH]]></content>
+	<tabTrigger>UIMENU_BORDER_WIDTH</tabTrigger>
+	<description>12</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MULTICASTACTIONBAR_SLIDETIME]]></content>
+	<tabTrigger>MULTICASTACTIONBAR_SLIDETIME</tabTrigger>
+	<description>0.09</description>
+	<scope>source.lua</scope>
+</snippet>

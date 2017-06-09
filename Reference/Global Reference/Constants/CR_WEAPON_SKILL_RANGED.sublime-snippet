@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CR_WEAPON_SKILL_RANGED]]></content>
+	<tabTrigger>CR_WEAPON_SKILL_RANGED</tabTrigger>
+	<description>23</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LAST_ITEM_BUYOUT]]></content>
+	<tabTrigger>LAST_ITEM_BUYOUT</tabTrigger>
+	<description>0</description>
+	<scope>source.lua</scope>
+</snippet>

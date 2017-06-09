@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MAX_BOUNTY_OBJECTIVES]]></content>
+	<tabTrigger>MAX_BOUNTY_OBJECTIVES</tabTrigger>
+	<description>7</description>
+	<scope>source.lua</scope>
+</snippet>

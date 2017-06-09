@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MULTICASTACTIONBAR_XPOS]]></content>
+	<tabTrigger>MULTICASTACTIONBAR_XPOS</tabTrigger>
+	<description>30</description>
+	<scope>source.lua</scope>
+</snippet>

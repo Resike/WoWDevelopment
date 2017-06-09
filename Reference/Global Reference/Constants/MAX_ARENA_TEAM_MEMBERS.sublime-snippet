@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MAX_ARENA_TEAM_MEMBERS]]></content>
+	<tabTrigger>MAX_ARENA_TEAM_MEMBERS</tabTrigger>
+	<description>10</description>
+	<scope>source.lua</scope>
+</snippet>

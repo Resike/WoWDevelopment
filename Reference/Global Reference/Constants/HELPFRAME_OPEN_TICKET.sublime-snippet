@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HELPFRAME_OPEN_TICKET]]></content>
+	<tabTrigger>HELPFRAME_OPEN_TICKET</tabTrigger>
+	<description>6</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NUM_CONTAINER_COLUMNS]]></content>
+	<tabTrigger>NUM_CONTAINER_COLUMNS</tabTrigger>
+	<description>4</description>
+	<scope>source.lua</scope>
+</snippet>

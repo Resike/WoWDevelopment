@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TUTORIAL_QUEST_TO_WATCH]]></content>
+	<tabTrigger>TUTORIAL_QUEST_TO_WATCH</tabTrigger>
+	<description>28766</description>
+	<scope>source.lua</scope>
+</snippet>

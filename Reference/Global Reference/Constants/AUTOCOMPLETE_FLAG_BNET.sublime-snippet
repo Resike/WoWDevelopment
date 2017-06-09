@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AUTOCOMPLETE_FLAG_BNET]]></content>
+	<tabTrigger>AUTOCOMPLETE_FLAG_BNET</tabTrigger>
+	<description>8</description>
+	<scope>source.lua</scope>
+</snippet>

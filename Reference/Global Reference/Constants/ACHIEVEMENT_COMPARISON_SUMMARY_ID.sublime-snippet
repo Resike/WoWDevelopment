@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACHIEVEMENT_COMPARISON_SUMMARY_ID]]></content>
+	<tabTrigger>ACHIEVEMENT_COMPARISON_SUMMARY_ID</tabTrigger>
+	<description>-1</description>
+	<scope>source.lua</scope>
+</snippet>

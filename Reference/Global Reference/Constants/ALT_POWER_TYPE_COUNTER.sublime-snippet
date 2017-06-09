@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ALT_POWER_TYPE_COUNTER]]></content>
+	<tabTrigger>ALT_POWER_TYPE_COUNTER</tabTrigger>
+	<description>4</description>
+	<scope>source.lua</scope>
+</snippet>

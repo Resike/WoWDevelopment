@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACHIEVEMENTBUTTON_CRITERIAROWHEIGHT]]></content>
+	<tabTrigger>ACHIEVEMENTBUTTON_CRITERIAROWHEIGHT</tabTrigger>
+	<description>15</description>
+	<scope>source.lua</scope>
+</snippet>

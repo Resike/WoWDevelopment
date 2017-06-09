@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OPTION_STATIC_HEIGHT]]></content>
+	<tabTrigger>OPTION_STATIC_HEIGHT</tabTrigger>
+	<description>136</description>
+	<scope>source.lua</scope>
+</snippet>

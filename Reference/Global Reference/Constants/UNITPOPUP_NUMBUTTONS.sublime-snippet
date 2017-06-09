@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UNITPOPUP_NUMBUTTONS]]></content>
+	<tabTrigger>UNITPOPUP_NUMBUTTONS</tabTrigger>
+	<description>9</description>
+	<scope>source.lua</scope>
+</snippet>

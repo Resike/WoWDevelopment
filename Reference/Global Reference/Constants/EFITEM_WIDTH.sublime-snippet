@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EFITEM_WIDTH]]></content>
+	<tabTrigger>EFITEM_WIDTH</tabTrigger>
+	<description>37</description>
+	<scope>source.lua</scope>
+</snippet>

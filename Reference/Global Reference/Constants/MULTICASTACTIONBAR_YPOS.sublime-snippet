@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MULTICASTACTIONBAR_YPOS]]></content>
+	<tabTrigger>MULTICASTACTIONBAR_YPOS</tabTrigger>
+	<description>-5</description>
+	<scope>source.lua</scope>
+</snippet>

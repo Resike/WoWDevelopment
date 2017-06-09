@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NUM_TOKEN_LOGS_TO_DISPLAY]]></content>
+	<tabTrigger>NUM_TOKEN_LOGS_TO_DISPLAY</tabTrigger>
+	<description>14</description>
+	<scope>source.lua</scope>
+</snippet>

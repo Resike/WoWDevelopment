@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EVALUATION_TREE_FLAG_PROGRESS_BAR]]></content>
 	<tabTrigger>EVALUATION_TREE_FLAG_PROGRESS_BAR</tabTrigger>
-	<description>0x00000001</description>
+	<description>1</description>
 	<scope>source.lua</scope>
 </snippet>

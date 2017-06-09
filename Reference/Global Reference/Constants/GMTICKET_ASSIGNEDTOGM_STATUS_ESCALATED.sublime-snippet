@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GMTICKET_ASSIGNEDTOGM_STATUS_ESCALATED]]></content>
+	<tabTrigger>GMTICKET_ASSIGNEDTOGM_STATUS_ESCALATED</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

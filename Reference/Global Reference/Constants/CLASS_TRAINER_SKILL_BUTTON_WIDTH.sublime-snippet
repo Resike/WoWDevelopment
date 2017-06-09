@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLASS_TRAINER_SKILL_BUTTON_WIDTH]]></content>
+	<tabTrigger>CLASS_TRAINER_SKILL_BUTTON_WIDTH</tabTrigger>
+	<description>318</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACHIEVEMENTUI_GOLDBORDER_B]]></content>
+	<tabTrigger>ACHIEVEMENTUI_GOLDBORDER_B</tabTrigger>
+	<description>0.125</description>
+	<scope>source.lua</scope>
+</snippet>

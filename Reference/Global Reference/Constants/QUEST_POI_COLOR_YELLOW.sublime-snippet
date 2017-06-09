@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[QUEST_POI_COLOR_YELLOW]]></content>
+	<tabTrigger>QUEST_POI_COLOR_YELLOW</tabTrigger>
+	<description>0.5</description>
+	<scope>source.lua</scope>
+</snippet>

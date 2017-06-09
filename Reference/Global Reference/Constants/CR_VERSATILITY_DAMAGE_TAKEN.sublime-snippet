@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CR_VERSATILITY_DAMAGE_TAKEN]]></content>
+	<tabTrigger>CR_VERSATILITY_DAMAGE_TAKEN</tabTrigger>
+	<description>31</description>
+	<scope>source.lua</scope>
+</snippet>

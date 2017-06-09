@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NUM_LFD_CHOICE_BUTTONS]]></content>
+	<tabTrigger>NUM_LFD_CHOICE_BUTTONS</tabTrigger>
+	<description>15</description>
+	<scope>source.lua</scope>
+</snippet>

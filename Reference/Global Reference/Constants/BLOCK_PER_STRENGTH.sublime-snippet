@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BLOCK_PER_STRENGTH]]></content>
+	<tabTrigger>BLOCK_PER_STRENGTH</tabTrigger>
+	<description>0.5</description>
+	<scope>source.lua</scope>
+</snippet>

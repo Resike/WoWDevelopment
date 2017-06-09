@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BUFF_DURATION_WARNING_TIME]]></content>
+	<tabTrigger>BUFF_DURATION_WARNING_TIME</tabTrigger>
+	<description>60</description>
+	<scope>source.lua</scope>
+</snippet>

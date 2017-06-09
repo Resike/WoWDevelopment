@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MAX_RAID_INFOS]]></content>
+	<tabTrigger>MAX_RAID_INFOS</tabTrigger>
+	<description>20</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SCENARIOS_HIDE_ABOVE_LEVEL]]></content>
+	<tabTrigger>SCENARIOS_HIDE_ABOVE_LEVEL</tabTrigger>
+	<description>90</description>
+	<scope>source.lua</scope>
+</snippet>

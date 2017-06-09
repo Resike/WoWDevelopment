@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WORLDMAP_WINDOWED_SIZE]]></content>
+	<tabTrigger>WORLDMAP_WINDOWED_SIZE</tabTrigger>
+	<description>0.695</description>
+	<scope>source.lua</scope>
+</snippet>

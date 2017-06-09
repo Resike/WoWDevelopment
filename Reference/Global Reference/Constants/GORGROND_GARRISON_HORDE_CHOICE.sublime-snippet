@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GORGROND_GARRISON_HORDE_CHOICE]]></content>
+	<tabTrigger>GORGROND_GARRISON_HORDE_CHOICE</tabTrigger>
+	<description>56</description>
+	<scope>source.lua</scope>
+</snippet>

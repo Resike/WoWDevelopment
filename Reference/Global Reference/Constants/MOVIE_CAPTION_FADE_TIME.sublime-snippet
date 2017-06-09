@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MOVIE_CAPTION_FADE_TIME]]></content>
+	<tabTrigger>MOVIE_CAPTION_FADE_TIME</tabTrigger>
+	<description>1</description>
+	<scope>source.lua</scope>
+</snippet>

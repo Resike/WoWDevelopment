@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MINIMAPPING_TIMER]]></content>
+	<tabTrigger>MINIMAPPING_TIMER</tabTrigger>
+	<description>5.5</description>
+	<scope>source.lua</scope>
+</snippet>

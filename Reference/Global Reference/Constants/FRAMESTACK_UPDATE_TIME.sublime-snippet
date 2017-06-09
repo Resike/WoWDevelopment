@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FRAMESTACK_UPDATE_TIME]]></content>
+	<tabTrigger>FRAMESTACK_UPDATE_TIME</tabTrigger>
+	<description>0.1</description>
+	<scope>source.lua</scope>
+</snippet>

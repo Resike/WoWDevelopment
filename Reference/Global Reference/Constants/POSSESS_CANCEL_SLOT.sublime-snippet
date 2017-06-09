@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[POSSESS_CANCEL_SLOT]]></content>
+	<tabTrigger>POSSESS_CANCEL_SLOT</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BACKPACK_HEIGHT]]></content>
+	<tabTrigger>BACKPACK_HEIGHT</tabTrigger>
+	<description>255</description>
+	<scope>source.lua</scope>
+</snippet>

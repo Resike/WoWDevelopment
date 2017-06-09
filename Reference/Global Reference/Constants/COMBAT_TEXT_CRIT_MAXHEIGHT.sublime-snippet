@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[COMBAT_TEXT_CRIT_MAXHEIGHT]]></content>
+	<tabTrigger>COMBAT_TEXT_CRIT_MAXHEIGHT</tabTrigger>
+	<description>60</description>
+	<scope>source.lua</scope>
+</snippet>

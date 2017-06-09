@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[INIT_OPTION_HEIGHT]]></content>
+	<tabTrigger>INIT_OPTION_HEIGHT</tabTrigger>
+	<description>278</description>
+	<scope>source.lua</scope>
+</snippet>

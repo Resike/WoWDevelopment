@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MAX_COD_AMOUNT]]></content>
+	<tabTrigger>MAX_COD_AMOUNT</tabTrigger>
+	<description>10000</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[COMBO_FRAME_LAST_NUM_POINTS]]></content>
+	<tabTrigger>COMBO_FRAME_LAST_NUM_POINTS</tabTrigger>
+	<description>0</description>
+	<scope>source.lua</scope>
+</snippet>

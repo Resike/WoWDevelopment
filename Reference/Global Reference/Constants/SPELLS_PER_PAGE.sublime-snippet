@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SPELLS_PER_PAGE]]></content>
+	<tabTrigger>SPELLS_PER_PAGE</tabTrigger>
+	<description>12</description>
+	<scope>source.lua</scope>
+</snippet>

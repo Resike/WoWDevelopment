@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACHIEVEMENT_FILTER_COMPLETE]]></content>
+	<tabTrigger>ACHIEVEMENT_FILTER_COMPLETE</tabTrigger>
+	<description>2</description>
+	<scope>source.lua</scope>
+</snippet>

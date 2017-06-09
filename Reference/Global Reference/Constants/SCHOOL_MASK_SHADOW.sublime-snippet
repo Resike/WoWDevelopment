@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SCHOOL_MASK_SHADOW]]></content>
 	<tabTrigger>SCHOOL_MASK_SHADOW</tabTrigger>
-	<description>0x20</description>
+	<description>32</description>
 	<scope>source.lua</scope>
 </snippet>

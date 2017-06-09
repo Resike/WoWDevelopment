@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MAP_CANVAS_TILE_HEIGHT]]></content>
+	<tabTrigger>MAP_CANVAS_TILE_HEIGHT</tabTrigger>
+	<description>256</description>
+	<scope>source.lua</scope>
+</snippet>

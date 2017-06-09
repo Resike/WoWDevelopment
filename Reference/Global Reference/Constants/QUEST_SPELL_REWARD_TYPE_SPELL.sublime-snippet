@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[QUEST_SPELL_REWARD_TYPE_SPELL]]></content>
+	<tabTrigger>QUEST_SPELL_REWARD_TYPE_SPELL</tabTrigger>
+	<description>5</description>
+	<scope>source.lua</scope>
+</snippet>

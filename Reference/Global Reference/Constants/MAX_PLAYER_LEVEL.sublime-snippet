@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MAX_PLAYER_LEVEL]]></content>
+	<tabTrigger>MAX_PLAYER_LEVEL</tabTrigger>
+	<description>110</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EJ_ALERT_TIME_DIFF]]></content>
+	<tabTrigger>EJ_ALERT_TIME_DIFF</tabTrigger>
+	<description>1209600</description>
+	<scope>source.lua</scope>
+</snippet>

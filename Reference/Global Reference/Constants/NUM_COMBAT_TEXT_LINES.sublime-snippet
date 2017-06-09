@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NUM_COMBAT_TEXT_LINES]]></content>
+	<tabTrigger>NUM_COMBAT_TEXT_LINES</tabTrigger>
+	<description>20</description>
+	<scope>source.lua</scope>
+</snippet>

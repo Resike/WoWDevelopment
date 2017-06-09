@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILD_REWARDS_BUTTON_HEIGHT]]></content>
+	<tabTrigger>GUILD_REWARDS_BUTTON_HEIGHT</tabTrigger>
+	<description>47</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ASHRAN_MAP_ID]]></content>
+	<tabTrigger>ASHRAN_MAP_ID</tabTrigger>
+	<description>978</description>
+	<scope>source.lua</scope>
+</snippet>

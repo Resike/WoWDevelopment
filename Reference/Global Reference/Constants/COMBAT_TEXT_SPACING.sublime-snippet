@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[COMBAT_TEXT_SPACING]]></content>
+	<tabTrigger>COMBAT_TEXT_SPACING</tabTrigger>
+	<description>10</description>
+	<scope>source.lua</scope>
+</snippet>

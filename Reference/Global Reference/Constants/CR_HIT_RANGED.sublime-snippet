@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CR_HIT_RANGED]]></content>
+	<tabTrigger>CR_HIT_RANGED</tabTrigger>
+	<description>7</description>
+	<scope>source.lua</scope>
+</snippet>

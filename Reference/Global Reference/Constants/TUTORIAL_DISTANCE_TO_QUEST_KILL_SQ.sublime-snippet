@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TUTORIAL_DISTANCE_TO_QUEST_KILL_SQ]]></content>
+	<tabTrigger>TUTORIAL_DISTANCE_TO_QUEST_KILL_SQ</tabTrigger>
+	<description>2500</description>
+	<scope>source.lua</scope>
+</snippet>

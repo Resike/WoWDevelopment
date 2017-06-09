@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UIDROPDOWNMENU_BUTTON_HEIGHT]]></content>
+	<tabTrigger>UIDROPDOWNMENU_BUTTON_HEIGHT</tabTrigger>
+	<description>16</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VOICECHAT_BUTTON_OFFSET]]></content>
+	<tabTrigger>VOICECHAT_BUTTON_OFFSET</tabTrigger>
+	<description>45</description>
+	<scope>source.lua</scope>
+</snippet>

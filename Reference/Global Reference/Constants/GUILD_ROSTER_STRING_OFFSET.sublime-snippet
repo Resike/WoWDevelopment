@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILD_ROSTER_STRING_OFFSET]]></content>
+	<tabTrigger>GUILD_ROSTER_STRING_OFFSET</tabTrigger>
+	<description>6</description>
+	<scope>source.lua</scope>
+</snippet>

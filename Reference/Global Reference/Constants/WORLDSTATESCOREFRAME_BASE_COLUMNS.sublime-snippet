@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WORLDSTATESCOREFRAME_BASE_COLUMNS]]></content>
+	<tabTrigger>WORLDSTATESCOREFRAME_BASE_COLUMNS</tabTrigger>
+	<description>6</description>
+	<scope>source.lua</scope>
+</snippet>

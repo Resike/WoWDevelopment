@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MONEY_ICON_WIDTH]]></content>
+	<tabTrigger>MONEY_ICON_WIDTH</tabTrigger>
+	<description>19</description>
+	<scope>source.lua</scope>
+</snippet>

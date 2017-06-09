@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IGNORES_TO_DISPLAY]]></content>
+	<tabTrigger>IGNORES_TO_DISPLAY</tabTrigger>
+	<description>19</description>
+	<scope>source.lua</scope>
+</snippet>

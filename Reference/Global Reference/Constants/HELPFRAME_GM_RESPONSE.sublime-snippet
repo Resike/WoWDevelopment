@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HELPFRAME_GM_RESPONSE]]></content>
+	<tabTrigger>HELPFRAME_GM_RESPONSE</tabTrigger>
+	<description>15</description>
+	<scope>source.lua</scope>
+</snippet>

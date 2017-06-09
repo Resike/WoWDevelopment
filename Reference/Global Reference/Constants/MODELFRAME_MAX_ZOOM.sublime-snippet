@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MODELFRAME_MAX_ZOOM]]></content>
+	<tabTrigger>MODELFRAME_MAX_ZOOM</tabTrigger>
+	<description>0.7</description>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EFITEM_XOFFSET]]></content>
+	<tabTrigger>EFITEM_XOFFSET</tabTrigger>
+	<description>4</description>
+	<scope>source.lua</scope>
+</snippet>

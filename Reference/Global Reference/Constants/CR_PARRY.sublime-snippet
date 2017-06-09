@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CR_PARRY]]></content>
+	<tabTrigger>CR_PARRY</tabTrigger>
+	<description>4</description>
+	<scope>source.lua</scope>
+</snippet>
