@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>toc</string>
+	</array>
+	<key>name</key>
+	<string>WoW TOC</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>begin</key>
+			<string>##</string>
+			<key>end</key>
+			<string>(:|\Z)</string>
+			<key>name</key>
+			<string>keyword.tag.toc</string>
+			<key>patterns</key>
+			<array>
+				<dict>
+					<key>captures</key>
+					<dict>
+						<key>1</key>
+						<dict>
+							<key>name</key>
+							<string>string.toc</string>
+						</dict>
+					</dict>
+					<key>match</key>
+					<string>[Xx]-([^:]+)</string>
+					<key>name</key>
+					<string>constant.language.tag.custom.toc</string>
+				</dict>
+				<dict>
+					<key>comment</key>
+					<string>localized title/description strings</string>
+					<key>match</key>
+					<string>(?i)(title-|notes-|description-)(enUS|enGB|frFR|deDE|esES|esMX|itIT|ptBR|ruRU|koKR|zhTW|zhCN)</string>
+					<key>name</key>
+					<string>constant.language.tag.localized.toc</string>
+				</dict>
+				<dict>
+					<key>comment</key>
+					<string>known acceptable tag strings</string>
+					<key>match</key>
+					<string>(?i)(interface|title|notes|description|requireddeps|\bdep[^:]+|optionaldeps|loadondemand|loadwith|loadmanagers|savedvariablespercharacter|savedvariables|defaultstate|secure|author|version)</string>
+					<key>name</key>
+					<string>constant.language.tag.known.toc</string>
+				</dict>
+				<dict>
+					<key>comment</key>
+					<string>Invalid tags highlight as syntax errors</string>
+					<key>match</key>
+					<string>\S[^:]+</string>
+					<key>name</key>
+					<string>invalid.tag.known.toc</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>captures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>comment.source.toc</string>
+				</dict>
+			</dict>
+			<key>comment</key>
+			<string>Comments</string>
+			<key>match</key>
+			<string>^#[^#]+$</string>
+			<key>name</key>
+			<string>comment.source.toc</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>source.toc</string>
+	<key>uuid</key>
+	<string>f3883b6b-18b0-47a0-8a74-c998a8425ff4</string>
+</dict>
+</plist>

@@ -9,5 +9,9 @@
 		"break",
 		"or",
 		"and",
+		{
+			"trigger": "OnChar\t(self, "text")",
+			"contents": "function(${1:self}, ${2:text})\n\t${3:}\nend$0",
+		},
 	]
 }
