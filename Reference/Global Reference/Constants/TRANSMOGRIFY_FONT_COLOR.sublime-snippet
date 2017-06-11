@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TRANSMOGRIFY_FONT_COLOR]]></content>
-	<tabTrigger>TRANSMOGRIFY_FONT_COLOR</tabTrigger>
-	<description>{r=1, g=0.5, b=1}</description>
-	<scope>source.lua</scope>
-</snippet>

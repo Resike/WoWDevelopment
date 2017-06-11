@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_INVENTORY_TYPE_RANGED_TYPE]]></content>
-	<tabTrigger>LE_INVENTORY_TYPE_RANGED_TYPE</tabTrigger>
-	<description>15</description>
-	<scope>source.lua</scope>
-</snippet>

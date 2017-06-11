@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_TALENT_FAILED_UNKNOWN]]></content>
-	<tabTrigger>LE_GAME_ERR_TALENT_FAILED_UNKNOWN</tabTrigger>
-	<description>812</description>
-	<scope>source.lua</scope>
-</snippet>

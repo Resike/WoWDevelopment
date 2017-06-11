@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PET_TYPE_SUFFIX]]></content>
-	<tabTrigger>PET_TYPE_SUFFIX</tabTrigger>
-	<description></description>
-	<scope>source.lua</scope>
-</snippet>

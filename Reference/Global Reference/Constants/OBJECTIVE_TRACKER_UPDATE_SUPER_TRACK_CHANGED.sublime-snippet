@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OBJECTIVE_TRACKER_UPDATE_SUPER_TRACK_CHANGED]]></content>
-	<tabTrigger>OBJECTIVE_TRACKER_UPDATE_SUPER_TRACK_CHANGED</tabTrigger>
-	<description>512</description>
-	<scope>source.lua</scope>
-</snippet>

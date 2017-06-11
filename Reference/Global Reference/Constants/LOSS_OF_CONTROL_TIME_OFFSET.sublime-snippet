@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LOSS_OF_CONTROL_TIME_OFFSET]]></content>
-	<tabTrigger>LOSS_OF_CONTROL_TIME_OFFSET</tabTrigger>
-	<description>6</description>
-	<scope>source.lua</scope>
-</snippet>

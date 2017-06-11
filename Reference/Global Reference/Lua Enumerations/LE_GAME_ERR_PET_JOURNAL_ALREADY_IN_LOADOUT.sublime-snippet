@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_PET_JOURNAL_ALREADY_IN_LOADOUT]]></content>
-	<tabTrigger>LE_GAME_ERR_PET_JOURNAL_ALREADY_IN_LOADOUT</tabTrigger>
-	<description>869</description>
-	<scope>source.lua</scope>
-</snippet>

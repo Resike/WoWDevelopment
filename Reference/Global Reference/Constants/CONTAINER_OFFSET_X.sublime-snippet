@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CONTAINER_OFFSET_X]]></content>
-	<tabTrigger>CONTAINER_OFFSET_X</tabTrigger>
-	<description>0</description>
-	<scope>source.lua</scope>
-</snippet>

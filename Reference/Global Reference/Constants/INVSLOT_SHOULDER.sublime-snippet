@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[INVSLOT_SHOULDER]]></content>
-	<tabTrigger>INVSLOT_SHOULDER</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

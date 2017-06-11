@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ARCHAEOLOGY_MAX_RACES]]></content>
-	<tabTrigger>ARCHAEOLOGY_MAX_RACES</tabTrigger>
-	<description>12</description>
-	<scope>source.lua</scope>
-</snippet>

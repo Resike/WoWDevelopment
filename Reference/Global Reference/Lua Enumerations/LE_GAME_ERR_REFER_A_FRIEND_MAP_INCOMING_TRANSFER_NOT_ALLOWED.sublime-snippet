@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_REFER_A_FRIEND_MAP_INCOMING_TRANSFER_NOT_ALLOWED]]></content>
-	<tabTrigger>LE_GAME_ERR_REFER_A_FRIEND_MAP_INCOMING_TRANSFER_NOT_ALLOWED</tabTrigger>
-	<description>649</description>
-	<scope>source.lua</scope>
-</snippet>

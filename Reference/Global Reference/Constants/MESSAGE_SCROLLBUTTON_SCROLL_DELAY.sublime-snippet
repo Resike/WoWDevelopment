@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MESSAGE_SCROLLBUTTON_SCROLL_DELAY]]></content>
-	<tabTrigger>MESSAGE_SCROLLBUTTON_SCROLL_DELAY</tabTrigger>
-	<description>0.05</description>
-	<scope>source.lua</scope>
-</snippet>

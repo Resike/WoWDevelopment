@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_GUILD_PLAYER_NOT_FOUND_S]]></content>
-	<tabTrigger>LE_GAME_ERR_GUILD_PLAYER_NOT_FOUND_S</tabTrigger>
-	<description>122</description>
-	<scope>source.lua</scope>
-</snippet>

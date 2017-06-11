@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ROWS_IN_BG_TEXTURE]]></content>
-	<tabTrigger>ROWS_IN_BG_TEXTURE</tabTrigger>
-	<description>6</description>
-	<scope>source.lua</scope>
-</snippet>

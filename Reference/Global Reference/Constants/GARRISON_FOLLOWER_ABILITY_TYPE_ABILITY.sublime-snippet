@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GARRISON_FOLLOWER_ABILITY_TYPE_ABILITY]]></content>
-	<tabTrigger>GARRISON_FOLLOWER_ABILITY_TYPE_ABILITY</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

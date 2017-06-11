@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ALT_POWER_TEX_SPARK]]></content>
-	<tabTrigger>ALT_POWER_TEX_SPARK</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

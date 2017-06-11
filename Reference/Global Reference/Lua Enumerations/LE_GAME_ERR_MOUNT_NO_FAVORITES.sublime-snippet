@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_MOUNT_NO_FAVORITES]]></content>
-	<tabTrigger>LE_GAME_ERR_MOUNT_NO_FAVORITES</tabTrigger>
-	<description>241</description>
-	<scope>source.lua</scope>
-</snippet>

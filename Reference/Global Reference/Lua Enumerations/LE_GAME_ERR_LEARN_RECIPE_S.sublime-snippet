@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_LEARN_RECIPE_S]]></content>
-	<tabTrigger>LE_GAME_ERR_LEARN_RECIPE_S</tabTrigger>
-	<description>64</description>
-	<scope>source.lua</scope>
-</snippet>

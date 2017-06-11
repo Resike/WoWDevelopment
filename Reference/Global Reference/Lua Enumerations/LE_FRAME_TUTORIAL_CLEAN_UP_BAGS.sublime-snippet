@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_FRAME_TUTORIAL_CLEAN_UP_BAGS]]></content>
-	<tabTrigger>LE_FRAME_TUTORIAL_CLEAN_UP_BAGS</tabTrigger>
-	<description>15</description>
-	<scope>source.lua</scope>
-</snippet>

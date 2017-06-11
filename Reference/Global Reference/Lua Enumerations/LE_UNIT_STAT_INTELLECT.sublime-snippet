@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_UNIT_STAT_INTELLECT]]></content>
-	<tabTrigger>LE_UNIT_STAT_INTELLECT</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

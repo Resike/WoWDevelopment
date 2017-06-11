@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_GARRISON_REQUIRES_BLUEPRINT]]></content>
-	<tabTrigger>LE_GAME_ERR_GARRISON_REQUIRES_BLUEPRINT</tabTrigger>
-	<description>951</description>
-	<scope>source.lua</scope>
-</snippet>

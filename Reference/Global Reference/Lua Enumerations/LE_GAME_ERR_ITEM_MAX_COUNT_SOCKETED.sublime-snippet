@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_ITEM_MAX_COUNT_SOCKETED]]></content>
-	<tabTrigger>LE_GAME_ERR_ITEM_MAX_COUNT_SOCKETED</tabTrigger>
-	<description>584</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UNITPOPUP_SPACER_SPACING]]></content>
-	<tabTrigger>UNITPOPUP_SPACER_SPACING</tabTrigger>
-	<description>6</description>
-	<scope>source.lua</scope>
-</snippet>

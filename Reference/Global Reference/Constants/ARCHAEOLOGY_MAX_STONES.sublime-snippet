@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ARCHAEOLOGY_MAX_STONES]]></content>
-	<tabTrigger>ARCHAEOLOGY_MAX_STONES</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OBJECTIVE_TRACKER_HEADER_OFFSET_X]]></content>
-	<tabTrigger>OBJECTIVE_TRACKER_HEADER_OFFSET_X</tabTrigger>
-	<description>-10</description>
-	<scope>source.lua</scope>
-</snippet>

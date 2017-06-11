@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_FRAME_TUTORIAL_BOUNTY_FINISHED]]></content>
-	<tabTrigger>LE_FRAME_TUTORIAL_BOUNTY_FINISHED</tabTrigger>
-	<description>33</description>
-	<scope>source.lua</scope>
-</snippet>

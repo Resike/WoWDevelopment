@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TEXTURE_ITEM_QUEST_BORDER]]></content>
-	<tabTrigger>TEXTURE_ITEM_QUEST_BORDER</tabTrigger>
-	<description>"Interface\\ContainerFrame\\UI-Icon-QuestBorder"</description>
-	<scope>source.lua</scope>
-</snippet>

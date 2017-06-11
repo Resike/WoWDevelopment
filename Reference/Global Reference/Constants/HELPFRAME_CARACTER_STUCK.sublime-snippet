@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HELPFRAME_CARACTER_STUCK]]></content>
-	<tabTrigger>HELPFRAME_CARACTER_STUCK</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

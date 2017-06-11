@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RED_FONT_COLOR_CODE]]></content>
-	<tabTrigger>RED_FONT_COLOR_CODE</tabTrigger>
-	<description>"|cffff2020"</description>
-	<scope>source.lua</scope>
-</snippet>

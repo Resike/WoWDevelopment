@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OBJECTIVE_TRACKER_UPDATE_MODULE_AUTO_QUEST_POPUP]]></content>
-	<tabTrigger>OBJECTIVE_TRACKER_UPDATE_MODULE_AUTO_QUEST_POPUP</tabTrigger>
-	<description>2048</description>
-	<scope>source.lua</scope>
-</snippet>

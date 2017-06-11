@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_BANKSLOT_NOTBANKER]]></content>
-	<tabTrigger>LE_GAME_ERR_BANKSLOT_NOTBANKER</tabTrigger>
-	<description>294</description>
-	<scope>source.lua</scope>
-</snippet>

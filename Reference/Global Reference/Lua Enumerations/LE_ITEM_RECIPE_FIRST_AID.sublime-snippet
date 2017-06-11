@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_ITEM_RECIPE_FIRST_AID]]></content>
-	<tabTrigger>LE_ITEM_RECIPE_FIRST_AID</tabTrigger>
-	<description>7</description>
-	<scope>source.lua</scope>
-</snippet>

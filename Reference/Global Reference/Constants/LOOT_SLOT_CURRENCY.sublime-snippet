@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LOOT_SLOT_CURRENCY]]></content>
-	<tabTrigger>LOOT_SLOT_CURRENCY</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

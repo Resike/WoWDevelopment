@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CR_DODGE]]></content>
-	<tabTrigger>CR_DODGE</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

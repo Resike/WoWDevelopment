@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CHAT_FRAME_NORMAL_MIN_HEIGHT]]></content>
-	<tabTrigger>CHAT_FRAME_NORMAL_MIN_HEIGHT</tabTrigger>
-	<description>120</description>
-	<scope>source.lua</scope>
-</snippet>

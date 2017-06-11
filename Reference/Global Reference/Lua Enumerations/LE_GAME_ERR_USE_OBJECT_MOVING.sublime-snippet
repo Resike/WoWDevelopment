@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_USE_OBJECT_MOVING]]></content>
-	<tabTrigger>LE_GAME_ERR_USE_OBJECT_MOVING</tabTrigger>
-	<description>264</description>
-	<scope>source.lua</scope>
-</snippet>

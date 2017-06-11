@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_MAIL_WRAPPED_COD]]></content>
-	<tabTrigger>LE_GAME_ERR_MAIL_WRAPPED_COD</tabTrigger>
-	<description>421</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CATEGORY_TO_NOT_DISPLAY]]></content>
-	<tabTrigger>CATEGORY_TO_NOT_DISPLAY</tabTrigger>
-	<description>9</description>
-	<scope>source.lua</scope>
-</snippet>

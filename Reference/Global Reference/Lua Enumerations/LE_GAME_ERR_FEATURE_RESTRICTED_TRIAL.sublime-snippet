@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_FEATURE_RESTRICTED_TRIAL]]></content>
-	<tabTrigger>LE_GAME_ERR_FEATURE_RESTRICTED_TRIAL</tabTrigger>
-	<description>962</description>
-	<scope>source.lua</scope>
-</snippet>

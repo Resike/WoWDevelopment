@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_NO_CHALLENGE_MODE_REWARD]]></content>
-	<tabTrigger>LE_GAME_ERR_NO_CHALLENGE_MODE_REWARD</tabTrigger>
-	<description>976</description>
-	<scope>source.lua</scope>
-</snippet>

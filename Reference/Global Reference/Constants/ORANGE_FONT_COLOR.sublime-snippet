@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ORANGE_FONT_COLOR]]></content>
-	<tabTrigger>ORANGE_FONT_COLOR</tabTrigger>
-	<description>{r=1.0, g=0.5, b=0.25}</description>
-	<scope>source.lua</scope>
-</snippet>

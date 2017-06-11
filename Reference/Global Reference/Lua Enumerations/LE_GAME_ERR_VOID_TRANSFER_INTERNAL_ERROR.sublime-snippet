@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_VOID_TRANSFER_INTERNAL_ERROR]]></content>
-	<tabTrigger>LE_GAME_ERR_VOID_TRANSFER_INTERNAL_ERROR</tabTrigger>
-	<description>854</description>
-	<scope>source.lua</scope>
-</snippet>

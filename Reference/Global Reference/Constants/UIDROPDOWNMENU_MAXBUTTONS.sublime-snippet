@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UIDROPDOWNMENU_MAXBUTTONS]]></content>
-	<tabTrigger>UIDROPDOWNMENU_MAXBUTTONS</tabTrigger>
-	<description>24</description>
-	<scope>source.lua</scope>
-</snippet>

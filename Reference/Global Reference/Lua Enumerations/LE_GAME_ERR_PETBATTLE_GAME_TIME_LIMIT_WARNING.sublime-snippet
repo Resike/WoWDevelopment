@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_PETBATTLE_GAME_TIME_LIMIT_WARNING]]></content>
-	<tabTrigger>LE_GAME_ERR_PETBATTLE_GAME_TIME_LIMIT_WARNING</tabTrigger>
-	<description>920</description>
-	<scope>source.lua</scope>
-</snippet>

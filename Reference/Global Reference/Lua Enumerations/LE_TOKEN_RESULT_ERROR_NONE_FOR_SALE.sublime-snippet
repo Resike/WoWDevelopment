@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_TOKEN_RESULT_ERROR_NONE_FOR_SALE]]></content>
-	<tabTrigger>LE_TOKEN_RESULT_ERROR_NONE_FOR_SALE</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

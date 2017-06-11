@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CLASS_TRAINER_SKILL_HEIGHT]]></content>
-	<tabTrigger>CLASS_TRAINER_SKILL_HEIGHT</tabTrigger>
-	<description>47</description>
-	<scope>source.lua</scope>
-</snippet>

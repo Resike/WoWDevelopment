@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ARCHAEOLOGY_HELP_TAB]]></content>
-	<tabTrigger>ARCHAEOLOGY_HELP_TAB</tabTrigger>
-	<description>0</description>
-	<scope>source.lua</scope>
-</snippet>

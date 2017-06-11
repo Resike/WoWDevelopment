@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_ITEM_FILTER_TYPE_FEET]]></content>
-	<tabTrigger>LE_ITEM_FILTER_TYPE_FEET</tabTrigger>
-	<description>8</description>
-	<scope>source.lua</scope>
-</snippet>

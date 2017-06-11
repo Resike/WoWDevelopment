@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_PETITION_NOT_SAME_SERVER]]></content>
-	<tabTrigger>LE_GAME_ERR_PETITION_NOT_SAME_SERVER</tabTrigger>
-	<description>385</description>
-	<scope>source.lua</scope>
-</snippet>

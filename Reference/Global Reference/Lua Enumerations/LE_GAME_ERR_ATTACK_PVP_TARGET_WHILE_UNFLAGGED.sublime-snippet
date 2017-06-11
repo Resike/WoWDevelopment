@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_ATTACK_PVP_TARGET_WHILE_UNFLAGGED]]></content>
-	<tabTrigger>LE_GAME_ERR_ATTACK_PVP_TARGET_WHILE_UNFLAGGED</tabTrigger>
-	<description>194</description>
-	<scope>source.lua</scope>
-</snippet>

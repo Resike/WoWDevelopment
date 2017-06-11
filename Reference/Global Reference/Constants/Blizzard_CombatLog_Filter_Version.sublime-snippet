@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Blizzard_CombatLog_Filter_Version]]></content>
-	<tabTrigger>Blizzard_CombatLog_Filter_Version</tabTrigger>
-	<description>4.3</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OBJECTIVE_TRACKER_DOUBLE_LINE_HEIGHT]]></content>
-	<tabTrigger>OBJECTIVE_TRACKER_DOUBLE_LINE_HEIGHT</tabTrigger>
-	<description>24</description>
-	<scope>source.lua</scope>
-</snippet>

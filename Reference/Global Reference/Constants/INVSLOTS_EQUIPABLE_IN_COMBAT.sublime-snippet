@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[INVSLOTS_EQUIPABLE_IN_COMBAT]]></content>
-	<tabTrigger>INVSLOTS_EQUIPABLE_IN_COMBAT</tabTrigger>
-	<description></description>
-	<scope>source.lua</scope>
-</snippet>

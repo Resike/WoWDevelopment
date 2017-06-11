@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RAID_TARGET_TEXTURE_DIMENSION]]></content>
-	<tabTrigger>RAID_TARGET_TEXTURE_DIMENSION</tabTrigger>
-	<description>256</description>
-	<scope>source.lua</scope>
-</snippet>

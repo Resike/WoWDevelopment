@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_TOKEN_RESULT_ERROR_TRIAL_RESTRICTED]]></content>
-	<tabTrigger>LE_TOKEN_RESULT_ERROR_TRIAL_RESTRICTED</tabTrigger>
-	<description>9</description>
-	<scope>source.lua</scope>
-</snippet>

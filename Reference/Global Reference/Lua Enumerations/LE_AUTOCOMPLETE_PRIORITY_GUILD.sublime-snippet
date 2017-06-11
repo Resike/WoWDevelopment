@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_AUTOCOMPLETE_PRIORITY_GUILD]]></content>
-	<tabTrigger>LE_AUTOCOMPLETE_PRIORITY_GUILD</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

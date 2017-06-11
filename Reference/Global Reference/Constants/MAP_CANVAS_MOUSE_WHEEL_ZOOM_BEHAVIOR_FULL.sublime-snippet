@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAP_CANVAS_MOUSE_WHEEL_ZOOM_BEHAVIOR_FULL]]></content>
-	<tabTrigger>MAP_CANVAS_MOUSE_WHEEL_ZOOM_BEHAVIOR_FULL</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

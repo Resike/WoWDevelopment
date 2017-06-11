@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UNDERBIASED_REASON_NOT_UNDERBIASED]]></content>
-	<tabTrigger>UNDERBIASED_REASON_NOT_UNDERBIASED</tabTrigger>
-	<description>0</description>
-	<scope>source.lua</scope>
-</snippet>

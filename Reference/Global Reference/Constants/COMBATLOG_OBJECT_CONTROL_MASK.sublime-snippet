@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[COMBATLOG_OBJECT_CONTROL_MASK]]></content>
-	<tabTrigger>COMBATLOG_OBJECT_CONTROL_MASK</tabTrigger>
-	<description>768</description>
-	<scope>source.lua</scope>
-</snippet>

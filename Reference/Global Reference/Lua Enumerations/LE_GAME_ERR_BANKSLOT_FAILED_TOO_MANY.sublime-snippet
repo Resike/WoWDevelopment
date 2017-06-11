@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_BANKSLOT_FAILED_TOO_MANY]]></content>
-	<tabTrigger>LE_GAME_ERR_BANKSLOT_FAILED_TOO_MANY</tabTrigger>
-	<description>292</description>
-	<scope>source.lua</scope>
-</snippet>

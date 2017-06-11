@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SHOW_CONQUEST_LEVEL]]></content>
-	<tabTrigger>SHOW_CONQUEST_LEVEL</tabTrigger>
-	<description>70</description>
-	<scope>source.lua</scope>
-</snippet>

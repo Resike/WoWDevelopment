@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NEW_ITEM_ATLAS_BY_QUALITY]]></content>
-	<tabTrigger>NEW_ITEM_ATLAS_BY_QUALITY</tabTrigger>
-	<description></description>
-	<scope>source.lua</scope>
-</snippet>

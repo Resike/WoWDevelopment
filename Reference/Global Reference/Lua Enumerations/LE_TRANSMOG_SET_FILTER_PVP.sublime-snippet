@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_TRANSMOG_SET_FILTER_PVP]]></content>
-	<tabTrigger>LE_TRANSMOG_SET_FILTER_PVP</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

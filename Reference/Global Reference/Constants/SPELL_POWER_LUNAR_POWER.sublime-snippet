@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SPELL_POWER_LUNAR_POWER]]></content>
-	<tabTrigger>SPELL_POWER_LUNAR_POWER</tabTrigger>
-	<description>8</description>
-	<scope>source.lua</scope>
-</snippet>

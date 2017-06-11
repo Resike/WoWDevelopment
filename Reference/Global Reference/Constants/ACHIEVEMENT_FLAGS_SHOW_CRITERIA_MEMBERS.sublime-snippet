@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACHIEVEMENT_FLAGS_SHOW_CRITERIA_MEMBERS]]></content>
-	<tabTrigger>ACHIEVEMENT_FLAGS_SHOW_CRITERIA_MEMBERS</tabTrigger>
-	<description>65536</description>
-	<scope>source.lua</scope>
-</snippet>

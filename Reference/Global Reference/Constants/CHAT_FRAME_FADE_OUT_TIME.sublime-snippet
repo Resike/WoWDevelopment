@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CHAT_FRAME_FADE_OUT_TIME]]></content>
-	<tabTrigger>CHAT_FRAME_FADE_OUT_TIME</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

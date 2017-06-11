@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAX_POWER_PER_EMBER]]></content>
-	<tabTrigger>MAX_POWER_PER_EMBER</tabTrigger>
-	<description>10</description>
-	<scope>source.lua</scope>
-</snippet>

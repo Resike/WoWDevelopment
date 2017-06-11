@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CALENDAR_INVITESTATUS_OUT]]></content>
-	<tabTrigger>CALENDAR_INVITESTATUS_OUT</tabTrigger>
-	<description>5</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MEMBERS_PER_RAID_GROUP]]></content>
-	<tabTrigger>MEMBERS_PER_RAID_GROUP</tabTrigger>
-	<description>5</description>
-	<scope>source.lua</scope>
-</snippet>

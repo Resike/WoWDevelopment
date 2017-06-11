@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_MAP_LANDMARK_TYPE_TAXINODE]]></content>
-	<tabTrigger>LE_MAP_LANDMARK_TYPE_TAXINODE</tabTrigger>
-	<description>5</description>
-	<scope>source.lua</scope>
-</snippet>

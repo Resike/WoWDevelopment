@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_POTION_COOLDOWN]]></content>
-	<tabTrigger>LE_GAME_ERR_POTION_COOLDOWN</tabTrigger>
-	<description>52</description>
-	<scope>source.lua</scope>
-</snippet>

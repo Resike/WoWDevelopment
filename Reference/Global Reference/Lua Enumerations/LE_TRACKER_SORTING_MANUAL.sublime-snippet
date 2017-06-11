@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_TRACKER_SORTING_MANUAL]]></content>
-	<tabTrigger>LE_TRACKER_SORTING_MANUAL</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

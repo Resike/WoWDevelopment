@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_QUEST_PUSH_DEAD_S]]></content>
-	<tabTrigger>LE_GAME_ERR_QUEST_PUSH_DEAD_S</tabTrigger>
-	<description>458</description>
-	<scope>source.lua</scope>
-</snippet>

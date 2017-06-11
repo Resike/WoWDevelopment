@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_AUTOLOOT_MONEY_S]]></content>
-	<tabTrigger>LE_GAME_ERR_AUTOLOOT_MONEY_S</tabTrigger>
-	<description>477</description>
-	<scope>source.lua</scope>
-</snippet>

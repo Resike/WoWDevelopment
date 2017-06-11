@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SILVER_PER_GOLD]]></content>
-	<tabTrigger>SILVER_PER_GOLD</tabTrigger>
-	<description>100</description>
-	<scope>source.lua</scope>
-</snippet>

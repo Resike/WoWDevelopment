@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[_ERROR_LIMIT]]></content>
-	<tabTrigger>_ERROR_LIMIT</tabTrigger>
-	<description>1000</description>
-	<scope>source.lua</scope>
-</snippet>

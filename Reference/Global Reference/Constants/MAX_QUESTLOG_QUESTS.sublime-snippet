@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAX_QUESTLOG_QUESTS]]></content>
-	<tabTrigger>MAX_QUESTLOG_QUESTS</tabTrigger>
-	<description>25</description>
-	<scope>source.lua</scope>
-</snippet>

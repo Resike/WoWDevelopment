@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GARRISON_TALENT_AVAILABILITY_UNAVAILABLE_NOT_ENOUGH_RESOURCES]]></content>
-	<tabTrigger>LE_GARRISON_TALENT_AVAILABILITY_UNAVAILABLE_NOT_ENOUGH_RESOURCES</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_MEETING_STONE_MEMBER_STILL_IN_QUEUE]]></content>
-	<tabTrigger>LE_GAME_ERR_MEETING_STONE_MEMBER_STILL_IN_QUEUE</tabTrigger>
-	<description>510</description>
-	<scope>source.lua</scope>
-</snippet>

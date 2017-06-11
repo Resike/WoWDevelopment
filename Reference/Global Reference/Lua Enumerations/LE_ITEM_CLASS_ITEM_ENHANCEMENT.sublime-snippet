@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_ITEM_CLASS_ITEM_ENHANCEMENT]]></content>
-	<tabTrigger>LE_ITEM_CLASS_ITEM_ENHANCEMENT</tabTrigger>
-	<description>8</description>
-	<scope>source.lua</scope>
-</snippet>

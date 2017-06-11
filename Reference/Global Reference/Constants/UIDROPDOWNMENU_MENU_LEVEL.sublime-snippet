@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UIDROPDOWNMENU_MENU_LEVEL]]></content>
-	<tabTrigger>UIDROPDOWNMENU_MENU_LEVEL</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

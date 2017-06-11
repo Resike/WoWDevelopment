@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_MUST_REPAIR_DURABILITY]]></content>
-	<tabTrigger>LE_GAME_ERR_MUST_REPAIR_DURABILITY</tabTrigger>
-	<description>480</description>
-	<scope>source.lua</scope>
-</snippet>

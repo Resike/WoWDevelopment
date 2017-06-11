@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SHARDBAR_SHOW_LEVEL]]></content>
-	<tabTrigger>SHARDBAR_SHOW_LEVEL</tabTrigger>
-	<description>10</description>
-	<scope>source.lua</scope>
-</snippet>

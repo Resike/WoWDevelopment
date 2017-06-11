@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CHAT_BUTTON_FLASH_TIME]]></content>
-	<tabTrigger>CHAT_BUTTON_FLASH_TIME</tabTrigger>
-	<description>0.5</description>
-	<scope>source.lua</scope>
-</snippet>

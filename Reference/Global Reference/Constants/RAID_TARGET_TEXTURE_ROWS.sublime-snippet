@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RAID_TARGET_TEXTURE_ROWS]]></content>
-	<tabTrigger>RAID_TARGET_TEXTURE_ROWS</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

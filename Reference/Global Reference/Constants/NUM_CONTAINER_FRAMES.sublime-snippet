@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_CONTAINER_FRAMES]]></content>
-	<tabTrigger>NUM_CONTAINER_FRAMES</tabTrigger>
-	<description>13</description>
-	<scope>source.lua</scope>
-</snippet>

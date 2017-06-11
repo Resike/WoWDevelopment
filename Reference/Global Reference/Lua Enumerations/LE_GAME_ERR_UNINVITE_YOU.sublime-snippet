@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_UNINVITE_YOU]]></content>
-	<tabTrigger>LE_GAME_ERR_UNINVITE_YOU</tabTrigger>
-	<description>88</description>
-	<scope>source.lua</scope>
-</snippet>

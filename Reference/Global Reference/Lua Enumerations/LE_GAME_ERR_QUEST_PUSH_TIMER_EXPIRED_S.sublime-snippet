@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_QUEST_PUSH_TIMER_EXPIRED_S]]></content>
-	<tabTrigger>LE_GAME_ERR_QUEST_PUSH_TIMER_EXPIRED_S</tabTrigger>
-	<description>463</description>
-	<scope>source.lua</scope>
-</snippet>

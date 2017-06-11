@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FONT_COLOR_CODE_CLOSE]]></content>
-	<tabTrigger>FONT_COLOR_CODE_CLOSE</tabTrigger>
-	<description>"|r"</description>
-	<scope>source.lua</scope>
-</snippet>

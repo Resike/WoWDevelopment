@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NAMEPLATE_ADDITIONAL_INSET_HEIGHT_PADDING]]></content>
-	<tabTrigger>NAMEPLATE_ADDITIONAL_INSET_HEIGHT_PADDING</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

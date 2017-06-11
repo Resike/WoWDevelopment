@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CONTROLTYPE_CHECKBOX]]></content>
-	<tabTrigger>CONTROLTYPE_CHECKBOX</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

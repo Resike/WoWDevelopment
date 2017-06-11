@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_GUILD_RANKS_LOCKED]]></content>
-	<tabTrigger>LE_GAME_ERR_GUILD_RANKS_LOCKED</tabTrigger>
-	<description>134</description>
-	<scope>source.lua</scope>
-</snippet>

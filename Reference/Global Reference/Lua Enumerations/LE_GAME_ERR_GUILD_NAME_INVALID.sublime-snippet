@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_GUILD_NAME_INVALID]]></content>
-	<tabTrigger>LE_GAME_ERR_GUILD_NAME_INVALID</tabTrigger>
-	<description>388</description>
-	<scope>source.lua</scope>
-</snippet>

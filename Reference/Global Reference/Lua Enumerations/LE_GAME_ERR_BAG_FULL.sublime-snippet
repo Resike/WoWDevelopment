@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_BAG_FULL]]></content>
-	<tabTrigger>LE_GAME_ERR_BAG_FULL</tabTrigger>
-	<description>13</description>
-	<scope>source.lua</scope>
-</snippet>

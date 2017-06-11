@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MINIMAP_BOTTOM_EDGE_EXTENT]]></content>
-	<tabTrigger>MINIMAP_BOTTOM_EDGE_EXTENT</tabTrigger>
-	<description>192</description>
-	<scope>source.lua</scope>
-</snippet>

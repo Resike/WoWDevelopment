@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_RAID_YOU_JOINED]]></content>
-	<tabTrigger>LE_GAME_ERR_RAID_YOU_JOINED</tabTrigger>
-	<description>481</description>
-	<scope>source.lua</scope>
-</snippet>

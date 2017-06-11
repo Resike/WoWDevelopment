@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_2HANDED_EQUIPPED]]></content>
-	<tabTrigger>LE_GAME_ERR_2HANDED_EQUIPPED</tabTrigger>
-	<description>36</description>
-	<scope>source.lua</scope>
-</snippet>

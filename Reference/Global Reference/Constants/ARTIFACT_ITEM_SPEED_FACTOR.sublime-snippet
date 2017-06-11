@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ARTIFACT_ITEM_SPEED_FACTOR]]></content>
-	<tabTrigger>ARTIFACT_ITEM_SPEED_FACTOR</tabTrigger>
-	<description>0.15</description>
-	<scope>source.lua</scope>
-</snippet>

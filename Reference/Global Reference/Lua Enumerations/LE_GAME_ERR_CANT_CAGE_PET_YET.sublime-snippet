@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_CANT_CAGE_PET_YET]]></content>
-	<tabTrigger>LE_GAME_ERR_CANT_CAGE_PET_YET</tabTrigger>
-	<description>937</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFGUILD_PARAM_LOOKING]]></content>
-	<tabTrigger>LFGUILD_PARAM_LOOKING</tabTrigger>
-	<description>13</description>
-	<scope>source.lua</scope>
-</snippet>

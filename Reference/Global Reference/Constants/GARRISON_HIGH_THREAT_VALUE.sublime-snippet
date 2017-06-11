@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GARRISON_HIGH_THREAT_VALUE]]></content>
-	<tabTrigger>GARRISON_HIGH_THREAT_VALUE</tabTrigger>
-	<description>300</description>
-	<scope>source.lua</scope>
-</snippet>

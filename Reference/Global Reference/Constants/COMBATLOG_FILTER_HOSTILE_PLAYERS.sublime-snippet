@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[COMBATLOG_FILTER_HOSTILE_PLAYERS]]></content>
-	<tabTrigger>COMBATLOG_FILTER_HOSTILE_PLAYERS</tabTrigger>
-	<description>32078</description>
-	<scope>source.lua</scope>
-</snippet>

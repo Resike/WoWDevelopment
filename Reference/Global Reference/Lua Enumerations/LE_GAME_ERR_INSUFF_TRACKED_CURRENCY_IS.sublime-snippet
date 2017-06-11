@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_INSUFF_TRACKED_CURRENCY_IS]]></content>
-	<tabTrigger>LE_GAME_ERR_INSUFF_TRACKED_CURRENCY_IS</tabTrigger>
-	<description>824</description>
-	<scope>source.lua</scope>
-</snippet>

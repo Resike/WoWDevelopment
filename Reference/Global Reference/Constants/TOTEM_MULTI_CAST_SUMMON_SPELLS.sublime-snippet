@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TOTEM_MULTI_CAST_SUMMON_SPELLS]]></content>
-	<tabTrigger>TOTEM_MULTI_CAST_SUMMON_SPELLS</tabTrigger>
-	<description></description>
-	<scope>source.lua</scope>
-</snippet>

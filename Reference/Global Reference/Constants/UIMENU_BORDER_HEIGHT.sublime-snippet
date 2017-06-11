@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UIMENU_BORDER_HEIGHT]]></content>
-	<tabTrigger>UIMENU_BORDER_HEIGHT</tabTrigger>
-	<description>12</description>
-	<scope>source.lua</scope>
-</snippet>

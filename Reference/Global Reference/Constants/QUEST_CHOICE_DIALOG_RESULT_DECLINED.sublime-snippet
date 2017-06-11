@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QUEST_CHOICE_DIALOG_RESULT_DECLINED]]></content>
-	<tabTrigger>QUEST_CHOICE_DIALOG_RESULT_DECLINED</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

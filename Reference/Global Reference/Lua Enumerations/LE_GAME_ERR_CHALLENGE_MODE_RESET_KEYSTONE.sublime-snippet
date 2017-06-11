@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_CHALLENGE_MODE_RESET_KEYSTONE]]></content>
-	<tabTrigger>LE_GAME_ERR_CHALLENGE_MODE_RESET_KEYSTONE</tabTrigger>
-	<description>868</description>
-	<scope>source.lua</scope>
-</snippet>

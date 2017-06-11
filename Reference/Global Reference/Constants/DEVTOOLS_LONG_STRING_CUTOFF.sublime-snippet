@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DEVTOOLS_LONG_STRING_CUTOFF]]></content>
-	<tabTrigger>DEVTOOLS_LONG_STRING_CUTOFF</tabTrigger>
-	<description>200</description>
-	<scope>source.lua</scope>
-</snippet>

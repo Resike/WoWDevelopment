@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_ATTACK_MOUNTED]]></content>
-	<tabTrigger>LE_GAME_ERR_ATTACK_MOUNTED</tabTrigger>
-	<description>197</description>
-	<scope>source.lua</scope>
-</snippet>

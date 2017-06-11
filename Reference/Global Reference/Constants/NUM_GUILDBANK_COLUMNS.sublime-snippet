@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_GUILDBANK_COLUMNS]]></content>
-	<tabTrigger>NUM_GUILDBANK_COLUMNS</tabTrigger>
-	<description>7</description>
-	<scope>source.lua</scope>
-</snippet>

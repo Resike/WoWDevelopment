@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ARTIFACT_POWER_STYLE_PURCHASED]]></content>
-	<tabTrigger>ARTIFACT_POWER_STYLE_PURCHASED</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

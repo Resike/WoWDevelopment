@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QUEST_DESCRIPTION_GRADIENT_LENGTH]]></content>
-	<tabTrigger>QUEST_DESCRIPTION_GRADIENT_LENGTH</tabTrigger>
-	<description>30</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_PLAYER_SILENCED]]></content>
-	<tabTrigger>LE_GAME_ERR_PLAYER_SILENCED</tabTrigger>
-	<description>604</description>
-	<scope>source.lua</scope>
-</snippet>

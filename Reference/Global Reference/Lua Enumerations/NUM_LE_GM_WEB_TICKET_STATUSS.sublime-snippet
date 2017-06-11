@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_LE_GM_WEB_TICKET_STATUSS]]></content>
-	<tabTrigger>NUM_LE_GM_WEB_TICKET_STATUSS</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

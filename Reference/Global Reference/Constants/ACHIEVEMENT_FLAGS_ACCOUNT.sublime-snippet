@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACHIEVEMENT_FLAGS_ACCOUNT]]></content>
-	<tabTrigger>ACHIEVEMENT_FLAGS_ACCOUNT</tabTrigger>
-	<description>131072</description>
-	<scope>source.lua</scope>
-</snippet>

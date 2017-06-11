@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OBJTRACKER_OFFSET_X]]></content>
-	<tabTrigger>OBJTRACKER_OFFSET_X</tabTrigger>
-	<description>10</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_JOIN_LFG_OBJECT_FAILED]]></content>
-	<tabTrigger>LE_GAME_ERR_JOIN_LFG_OBJECT_FAILED</tabTrigger>
-	<description>693</description>
-	<scope>source.lua</scope>
-</snippet>

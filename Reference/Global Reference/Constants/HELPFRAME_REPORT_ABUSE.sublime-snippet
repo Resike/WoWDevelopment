@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HELPFRAME_REPORT_ABUSE]]></content>
-	<tabTrigger>HELPFRAME_REPORT_ABUSE</tabTrigger>
-	<description>5</description>
-	<scope>source.lua</scope>
-</snippet>

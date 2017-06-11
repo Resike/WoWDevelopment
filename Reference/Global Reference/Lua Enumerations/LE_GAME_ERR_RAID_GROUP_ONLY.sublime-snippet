@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_RAID_GROUP_ONLY]]></content>
-	<tabTrigger>LE_GAME_ERR_RAID_GROUP_ONLY</tabTrigger>
-	<description>468</description>
-	<scope>source.lua</scope>
-</snippet>

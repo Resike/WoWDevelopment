@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HTML_END]]></content>
-	<tabTrigger>HTML_END</tabTrigger>
-	<description><![CDATA["</p></body></html>"]]></description>
-	<scope>source.lua</scope>
-</snippet>

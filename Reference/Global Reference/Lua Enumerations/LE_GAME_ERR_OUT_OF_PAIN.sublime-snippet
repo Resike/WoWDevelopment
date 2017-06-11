@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_OUT_OF_PAIN]]></content>
-	<tabTrigger>LE_GAME_ERR_OUT_OF_PAIN</tabTrigger>
-	<description>343</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UIMENU_NUMBUTTONS]]></content>
-	<tabTrigger>UIMENU_NUMBUTTONS</tabTrigger>
-	<description>32</description>
-	<scope>source.lua</scope>
-</snippet>

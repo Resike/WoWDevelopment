@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ALT_POWER_TYPE_CIRCULAR]]></content>
-	<tabTrigger>ALT_POWER_TYPE_CIRCULAR</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

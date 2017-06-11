@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SPELL_POWER_ARCANE_CHARGES]]></content>
-	<tabTrigger>SPELL_POWER_ARCANE_CHARGES</tabTrigger>
-	<description>16</description>
-	<scope>source.lua</scope>
-</snippet>

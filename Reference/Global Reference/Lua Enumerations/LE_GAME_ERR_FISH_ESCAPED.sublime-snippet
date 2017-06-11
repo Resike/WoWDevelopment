@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_FISH_ESCAPED]]></content>
-	<tabTrigger>LE_GAME_ERR_FISH_ESCAPED</tabTrigger>
-	<description>373</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILD_ROSTER_STRING_WIDTH_ADJ]]></content>
-	<tabTrigger>GUILD_ROSTER_STRING_WIDTH_ADJ</tabTrigger>
-	<description>14</description>
-	<scope>source.lua</scope>
-</snippet>

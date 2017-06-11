@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_INVITE_SELF]]></content>
-	<tabTrigger>LE_GAME_ERR_INVITE_SELF</tabTrigger>
-	<description>73</description>
-	<scope>source.lua</scope>
-</snippet>

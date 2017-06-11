@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_MAP_LANDMARK_TYPE_INVASION]]></content>
-	<tabTrigger>LE_MAP_LANDMARK_TYPE_INVASION</tabTrigger>
-	<description>8</description>
-	<scope>source.lua</scope>
-</snippet>

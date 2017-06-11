@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_FOLLOWER_TYPE_GARRISON_6_0]]></content>
-	<tabTrigger>LE_FOLLOWER_TYPE_GARRISON_6_0</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

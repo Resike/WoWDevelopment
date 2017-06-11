@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PACKAGEITEMS_TO_DISPLAY]]></content>
-	<tabTrigger>PACKAGEITEMS_TO_DISPLAY</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

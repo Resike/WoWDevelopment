@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_VOID_STORAGE_HOLIDAY]]></content>
-	<tabTrigger>LE_GAME_ERR_VOID_STORAGE_HOLIDAY</tabTrigger>
-	<description>859</description>
-	<scope>source.lua</scope>
-</snippet>

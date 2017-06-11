@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[COMBAT_TEXT_SCROLLSPEED]]></content>
-	<tabTrigger>COMBAT_TEXT_SCROLLSPEED</tabTrigger>
-	<description>1.9</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TOTEM_MULTI_CAST_RECALL_SPELLS]]></content>
-	<tabTrigger>TOTEM_MULTI_CAST_RECALL_SPELLS</tabTrigger>
-	<description></description>
-	<scope>source.lua</scope>
-</snippet>

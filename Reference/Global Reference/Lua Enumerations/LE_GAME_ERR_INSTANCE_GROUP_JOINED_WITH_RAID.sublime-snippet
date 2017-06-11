@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_INSTANCE_GROUP_JOINED_WITH_RAID]]></content>
-	<tabTrigger>LE_GAME_ERR_INSTANCE_GROUP_JOINED_WITH_RAID</tabTrigger>
-	<description>484</description>
-	<scope>source.lua</scope>
-</snippet>

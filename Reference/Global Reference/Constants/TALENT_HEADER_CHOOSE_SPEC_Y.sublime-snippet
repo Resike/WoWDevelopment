@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TALENT_HEADER_CHOOSE_SPEC_Y]]></content>
-	<tabTrigger>TALENT_HEADER_CHOOSE_SPEC_Y</tabTrigger>
-	<description>-28</description>
-	<scope>source.lua</scope>
-</snippet>

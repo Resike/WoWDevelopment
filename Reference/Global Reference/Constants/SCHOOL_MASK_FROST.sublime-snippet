@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SCHOOL_MASK_FROST]]></content>
-	<tabTrigger>SCHOOL_MASK_FROST</tabTrigger>
-	<description>16</description>
-	<scope>source.lua</scope>
-</snippet>

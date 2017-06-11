@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_LE_ITEM_QUALITYS]]></content>
-	<tabTrigger>NUM_LE_ITEM_QUALITYS</tabTrigger>
-	<description>9</description>
-	<scope>source.lua</scope>
-</snippet>

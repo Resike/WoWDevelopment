@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AUTO_COMPLETE_ACCOUNT_CHARACTER]]></content>
-	<tabTrigger>AUTO_COMPLETE_ACCOUNT_CHARACTER</tabTrigger>
-	<description>128</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[COMBATLOG_FILTER_FRIENDLY_UNITS]]></content>
-	<tabTrigger>COMBATLOG_FILTER_FRIENDLY_UNITS</tabTrigger>
-	<description>32542</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_SPELL_FAILED_ALREADY_AT_FULL_POWER_S]]></content>
-	<tabTrigger>LE_GAME_ERR_SPELL_FAILED_ALREADY_AT_FULL_POWER_S</tabTrigger>
-	<description>476</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[STYLE_FACE]]></content>
-	<tabTrigger>STYLE_FACE</tabTrigger>
-	<description>5</description>
-	<scope>source.lua</scope>
-</snippet>

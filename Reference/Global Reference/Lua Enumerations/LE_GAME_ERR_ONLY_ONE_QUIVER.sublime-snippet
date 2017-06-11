@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_ONLY_ONE_QUIVER]]></content>
-	<tabTrigger>LE_GAME_ERR_ONLY_ONE_QUIVER</tabTrigger>
-	<description>32</description>
-	<scope>source.lua</scope>
-</snippet>

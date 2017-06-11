@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_TRANSMOG_COLLECTION_TYPE_TABARD]]></content>
-	<tabTrigger>LE_TRANSMOG_COLLECTION_TYPE_TABARD</tabTrigger>
-	<description>6</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_ITEM_FILTER_TYPE_OFF_HAND]]></content>
-	<tabTrigger>LE_ITEM_FILTER_TYPE_OFF_HAND</tabTrigger>
-	<description>22</description>
-	<scope>source.lua</scope>
-</snippet>

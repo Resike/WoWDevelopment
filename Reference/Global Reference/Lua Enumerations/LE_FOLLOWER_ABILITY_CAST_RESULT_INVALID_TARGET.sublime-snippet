@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_FOLLOWER_ABILITY_CAST_RESULT_INVALID_TARGET]]></content>
-	<tabTrigger>LE_FOLLOWER_ABILITY_CAST_RESULT_INVALID_TARGET</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

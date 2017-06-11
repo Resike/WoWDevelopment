@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_CHARACTER_UPGRADE_RESULT_TRIAL_BOOST_DISABLED]]></content>
-	<tabTrigger>LE_CHARACTER_UPGRADE_RESULT_TRIAL_BOOST_DISABLED</tabTrigger>
-	<description>8</description>
-	<scope>source.lua</scope>
-</snippet>

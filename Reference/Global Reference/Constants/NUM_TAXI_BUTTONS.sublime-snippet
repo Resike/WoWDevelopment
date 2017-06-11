@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_TAXI_BUTTONS]]></content>
-	<tabTrigger>NUM_TAXI_BUTTONS</tabTrigger>
-	<description>0</description>
-	<scope>source.lua</scope>
-</snippet>

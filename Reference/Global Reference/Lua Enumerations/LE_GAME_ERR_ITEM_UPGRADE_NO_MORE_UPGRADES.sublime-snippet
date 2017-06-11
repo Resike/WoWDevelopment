@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_ITEM_UPGRADE_NO_MORE_UPGRADES]]></content>
-	<tabTrigger>LE_GAME_ERR_ITEM_UPGRADE_NO_MORE_UPGRADES</tabTrigger>
-	<description>925</description>
-	<scope>source.lua</scope>
-</snippet>

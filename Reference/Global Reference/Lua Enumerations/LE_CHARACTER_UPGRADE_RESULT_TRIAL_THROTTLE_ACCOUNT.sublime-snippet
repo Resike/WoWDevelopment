@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_CHARACTER_UPGRADE_RESULT_TRIAL_THROTTLE_ACCOUNT]]></content>
-	<tabTrigger>LE_CHARACTER_UPGRADE_RESULT_TRIAL_THROTTLE_ACCOUNT</tabTrigger>
-	<description>6</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_CHARACTER_UNDELETE_RESULT_ERROR_UNKNOWN]]></content>
-	<tabTrigger>LE_CHARACTER_UNDELETE_RESULT_ERROR_UNKNOWN</tabTrigger>
-	<description>6</description>
-	<scope>source.lua</scope>
-</snippet>

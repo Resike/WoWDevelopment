@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MONEY_TEXT_VADJUST]]></content>
-	<tabTrigger>MONEY_TEXT_VADJUST</tabTrigger>
-	<description>0</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SPELL_POWER_OBSOLETE]]></content>
-	<tabTrigger>SPELL_POWER_OBSOLETE</tabTrigger>
-	<description>14</description>
-	<scope>source.lua</scope>
-</snippet>

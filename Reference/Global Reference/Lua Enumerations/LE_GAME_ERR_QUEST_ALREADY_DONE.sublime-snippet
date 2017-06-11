@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_QUEST_ALREADY_DONE]]></content>
-	<tabTrigger>LE_GAME_ERR_QUEST_ALREADY_DONE</tabTrigger>
-	<description>177</description>
-	<scope>source.lua</scope>
-</snippet>

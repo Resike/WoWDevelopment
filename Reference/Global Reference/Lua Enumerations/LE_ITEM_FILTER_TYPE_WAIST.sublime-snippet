@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_ITEM_FILTER_TYPE_WAIST]]></content>
-	<tabTrigger>LE_ITEM_FILTER_TYPE_WAIST</tabTrigger>
-	<description>6</description>
-	<scope>source.lua</scope>
-</snippet>

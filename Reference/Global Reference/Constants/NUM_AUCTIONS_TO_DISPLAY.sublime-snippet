@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_AUCTIONS_TO_DISPLAY]]></content>
-	<tabTrigger>NUM_AUCTIONS_TO_DISPLAY</tabTrigger>
-	<description>9</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_LE_AUTOCOMPLETE_PRIORITYS]]></content>
-	<tabTrigger>NUM_LE_AUTOCOMPLETE_PRIORITYS</tabTrigger>
-	<description>6</description>
-	<scope>source.lua</scope>
-</snippet>

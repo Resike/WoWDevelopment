@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_TICKET_ALREADY_EXISTS]]></content>
-	<tabTrigger>LE_GAME_ERR_TICKET_ALREADY_EXISTS</tabTrigger>
-	<description>398</description>
-	<scope>source.lua</scope>
-</snippet>

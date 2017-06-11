@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CR_HASTE_RANGED]]></content>
-	<tabTrigger>CR_HASTE_RANGED</tabTrigger>
-	<description>19</description>
-	<scope>source.lua</scope>
-</snippet>

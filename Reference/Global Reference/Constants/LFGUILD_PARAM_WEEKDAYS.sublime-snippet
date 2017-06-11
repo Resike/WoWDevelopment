@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFGUILD_PARAM_WEEKDAYS]]></content>
-	<tabTrigger>LFGUILD_PARAM_WEEKDAYS</tabTrigger>
-	<description>6</description>
-	<scope>source.lua</scope>
-</snippet>

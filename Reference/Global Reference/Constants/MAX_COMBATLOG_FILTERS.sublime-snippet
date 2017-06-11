@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAX_COMBATLOG_FILTERS]]></content>
-	<tabTrigger>MAX_COMBATLOG_FILTERS</tabTrigger>
-	<description>20</description>
-	<scope>source.lua</scope>
-</snippet>

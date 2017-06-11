@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WARLOCK_SOULBURN]]></content>
-	<tabTrigger>WARLOCK_SOULBURN</tabTrigger>
-	<description>117198</description>
-	<scope>source.lua</scope>
-</snippet>

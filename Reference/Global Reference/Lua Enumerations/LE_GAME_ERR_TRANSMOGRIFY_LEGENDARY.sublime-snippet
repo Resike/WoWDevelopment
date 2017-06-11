@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_TRANSMOGRIFY_LEGENDARY]]></content>
-	<tabTrigger>LE_GAME_ERR_TRANSMOGRIFY_LEGENDARY</tabTrigger>
-	<description>837</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_PETBATTLE_QUEUE_JOURNAL_LOCK]]></content>
-	<tabTrigger>LE_GAME_ERR_PETBATTLE_QUEUE_JOURNAL_LOCK</tabTrigger>
-	<description>904</description>
-	<scope>source.lua</scope>
-</snippet>

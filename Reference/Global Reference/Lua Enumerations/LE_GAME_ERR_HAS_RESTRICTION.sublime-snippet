@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_HAS_RESTRICTION]]></content>
-	<tabTrigger>LE_GAME_ERR_HAS_RESTRICTION</tabTrigger>
-	<description>922</description>
-	<scope>source.lua</scope>
-</snippet>

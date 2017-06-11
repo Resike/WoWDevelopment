@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_MOUNT_JOURNAL_FILTER_UNUSABLE]]></content>
-	<tabTrigger>LE_MOUNT_JOURNAL_FILTER_UNUSABLE</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

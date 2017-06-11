@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[REPUTATIONFRAME_ROWSPACING]]></content>
-	<tabTrigger>REPUTATIONFRAME_ROWSPACING</tabTrigger>
-	<description>23</description>
-	<scope>source.lua</scope>
-</snippet>

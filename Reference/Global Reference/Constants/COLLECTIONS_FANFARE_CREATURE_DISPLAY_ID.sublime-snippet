@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[COLLECTIONS_FANFARE_CREATURE_DISPLAY_ID]]></content>
-	<tabTrigger>COLLECTIONS_FANFARE_CREATURE_DISPLAY_ID</tabTrigger>
-	<description>71933</description>
-	<scope>source.lua</scope>
-</snippet>

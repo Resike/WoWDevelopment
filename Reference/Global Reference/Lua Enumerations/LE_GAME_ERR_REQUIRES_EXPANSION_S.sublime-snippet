@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_REQUIRES_EXPANSION_S]]></content>
-	<tabTrigger>LE_GAME_ERR_REQUIRES_EXPANSION_S</tabTrigger>
-	<description>807</description>
-	<scope>source.lua</scope>
-</snippet>

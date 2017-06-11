@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MONEY_BUTTON_SPACING_SMALL]]></content>
-	<tabTrigger>MONEY_BUTTON_SPACING_SMALL</tabTrigger>
-	<description>-4</description>
-	<scope>source.lua</scope>
-</snippet>

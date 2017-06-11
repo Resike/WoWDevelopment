@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_FRAME_TUTORIAL_ARTIFACT_KNOWLEDGE]]></content>
-	<tabTrigger>LE_FRAME_TUTORIAL_ARTIFACT_KNOWLEDGE</tabTrigger>
-	<description>42</description>
-	<scope>source.lua</scope>
-</snippet>

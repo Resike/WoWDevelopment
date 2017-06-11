@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SPELL_POWER_ALTERNATE_POWER]]></content>
-	<tabTrigger>SPELL_POWER_ALTERNATE_POWER</tabTrigger>
-	<description>10</description>
-	<scope>source.lua</scope>
-</snippet>

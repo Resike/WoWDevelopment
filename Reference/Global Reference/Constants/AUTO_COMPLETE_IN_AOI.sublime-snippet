@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AUTO_COMPLETE_IN_AOI]]></content>
-	<tabTrigger>AUTO_COMPLETE_IN_AOI</tabTrigger>
-	<description>64</description>
-	<scope>source.lua</scope>
-</snippet>

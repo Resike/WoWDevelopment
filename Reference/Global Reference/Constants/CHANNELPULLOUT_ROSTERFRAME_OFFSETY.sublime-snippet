@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CHANNELPULLOUT_ROSTERFRAME_OFFSETY]]></content>
-	<tabTrigger>CHANNELPULLOUT_ROSTERFRAME_OFFSETY</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

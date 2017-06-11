@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SOCIAL_SCREENSHOT_TOOLTIP_MAX_HEIGHT]]></content>
-	<tabTrigger>SOCIAL_SCREENSHOT_TOOLTIP_MAX_HEIGHT</tabTrigger>
-	<description>146</description>
-	<scope>source.lua</scope>
-</snippet>

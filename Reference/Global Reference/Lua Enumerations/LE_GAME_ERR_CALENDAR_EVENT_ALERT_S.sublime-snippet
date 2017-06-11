@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_CALENDAR_EVENT_ALERT_S]]></content>
-	<tabTrigger>LE_GAME_ERR_CALENDAR_EVENT_ALERT_S</tabTrigger>
-	<description>667</description>
-	<scope>source.lua</scope>
-</snippet>

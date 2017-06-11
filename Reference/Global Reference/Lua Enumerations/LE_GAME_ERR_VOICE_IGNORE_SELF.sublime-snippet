@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_VOICE_IGNORE_SELF]]></content>
-	<tabTrigger>LE_GAME_ERR_VOICE_IGNORE_SELF</tabTrigger>
-	<description>595</description>
-	<scope>source.lua</scope>
-</snippet>

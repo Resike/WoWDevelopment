@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ORBIT_CAMERA_MOUSE_MODE_ROLL_ROTATION]]></content>
-	<tabTrigger>ORBIT_CAMERA_MOUSE_MODE_ROLL_ROTATION</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

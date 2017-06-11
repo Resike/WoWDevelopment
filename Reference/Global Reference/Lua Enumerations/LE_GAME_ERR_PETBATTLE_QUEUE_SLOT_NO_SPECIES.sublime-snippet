@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_PETBATTLE_QUEUE_SLOT_NO_SPECIES]]></content>
-	<tabTrigger>LE_GAME_ERR_PETBATTLE_QUEUE_SLOT_NO_SPECIES</tabTrigger>
-	<description>914</description>
-	<scope>source.lua</scope>
-</snippet>

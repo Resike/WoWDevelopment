@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFGUILD_PARAM_DAMAGE]]></content>
-	<tabTrigger>LFGUILD_PARAM_DAMAGE</tabTrigger>
-	<description>10</description>
-	<scope>source.lua</scope>
-</snippet>

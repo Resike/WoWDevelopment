@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[INVSLOT_BACK]]></content>
-	<tabTrigger>INVSLOT_BACK</tabTrigger>
-	<description>15</description>
-	<scope>source.lua</scope>
-</snippet>

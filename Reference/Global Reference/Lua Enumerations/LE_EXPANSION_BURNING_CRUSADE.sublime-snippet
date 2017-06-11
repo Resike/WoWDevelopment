@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_EXPANSION_BURNING_CRUSADE]]></content>
-	<tabTrigger>LE_EXPANSION_BURNING_CRUSADE</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

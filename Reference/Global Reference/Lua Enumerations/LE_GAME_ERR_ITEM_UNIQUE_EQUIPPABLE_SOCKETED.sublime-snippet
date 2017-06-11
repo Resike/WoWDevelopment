@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_ITEM_UNIQUE_EQUIPPABLE_SOCKETED]]></content>
-	<tabTrigger>LE_GAME_ERR_ITEM_UNIQUE_EQUIPPABLE_SOCKETED</tabTrigger>
-	<description>588</description>
-	<scope>source.lua</scope>
-</snippet>

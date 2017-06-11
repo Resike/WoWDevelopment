@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_GARRISON_NOT_ENOUGH_CURRENCY]]></content>
-	<tabTrigger>LE_GAME_ERR_GARRISON_NOT_ENOUGH_CURRENCY</tabTrigger>
-	<description>952</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACHIEVEMENTBUTTON_METAROWHEIGHT]]></content>
-	<tabTrigger>ACHIEVEMENTBUTTON_METAROWHEIGHT</tabTrigger>
-	<description>14</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SPEC_WARLOCK_DESTRUCTION]]></content>
-	<tabTrigger>SPEC_WARLOCK_DESTRUCTION</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

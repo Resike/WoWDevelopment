@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[STRING_SCHOOL_FROST]]></content>
-	<tabTrigger>STRING_SCHOOL_FROST</tabTrigger>
-	<description></description>
-	<scope>source.lua</scope>
-</snippet>

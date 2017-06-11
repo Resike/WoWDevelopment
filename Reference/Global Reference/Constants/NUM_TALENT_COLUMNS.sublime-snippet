@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_TALENT_COLUMNS]]></content>
-	<tabTrigger>NUM_TALENT_COLUMNS</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

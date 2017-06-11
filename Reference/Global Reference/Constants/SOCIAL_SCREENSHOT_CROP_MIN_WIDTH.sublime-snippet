@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SOCIAL_SCREENSHOT_CROP_MIN_WIDTH]]></content>
-	<tabTrigger>SOCIAL_SCREENSHOT_CROP_MIN_WIDTH</tabTrigger>
-	<description>100</description>
-	<scope>source.lua</scope>
-</snippet>

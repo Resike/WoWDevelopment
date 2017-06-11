@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_ATTACK_NO_ACTIONS]]></content>
-	<tabTrigger>LE_GAME_ERR_ATTACK_NO_ACTIONS</tabTrigger>
-	<description>794</description>
-	<scope>source.lua</scope>
-</snippet>

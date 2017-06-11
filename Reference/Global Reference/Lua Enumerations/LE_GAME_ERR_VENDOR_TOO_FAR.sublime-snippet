@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_VENDOR_TOO_FAR]]></content>
-	<tabTrigger>LE_GAME_ERR_VENDOR_TOO_FAR</tabTrigger>
-	<description>40</description>
-	<scope>source.lua</scope>
-</snippet>

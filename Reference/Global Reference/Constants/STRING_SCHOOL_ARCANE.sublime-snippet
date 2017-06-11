@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[STRING_SCHOOL_ARCANE]]></content>
-	<tabTrigger>STRING_SCHOOL_ARCANE</tabTrigger>
-	<description></description>
-	<scope>source.lua</scope>
-</snippet>

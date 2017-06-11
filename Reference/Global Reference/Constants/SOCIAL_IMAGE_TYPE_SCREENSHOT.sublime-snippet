@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SOCIAL_IMAGE_TYPE_SCREENSHOT]]></content>
-	<tabTrigger>SOCIAL_IMAGE_TYPE_SCREENSHOT</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

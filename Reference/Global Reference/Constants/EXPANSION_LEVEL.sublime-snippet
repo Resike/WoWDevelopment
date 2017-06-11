@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EXPANSION_LEVEL]]></content>
-	<tabTrigger>EXPANSION_LEVEL</tabTrigger>
-	<description>6</description>
-	<scope>source.lua</scope>
-</snippet>

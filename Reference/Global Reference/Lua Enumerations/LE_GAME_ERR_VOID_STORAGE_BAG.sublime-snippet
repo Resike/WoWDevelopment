@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_VOID_STORAGE_BAG]]></content>
-	<tabTrigger>LE_GAME_ERR_VOID_STORAGE_BAG</tabTrigger>
-	<description>851</description>
-	<scope>source.lua</scope>
-</snippet>

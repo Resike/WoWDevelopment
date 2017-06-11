@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_NOT_OWNER]]></content>
-	<tabTrigger>LE_GAME_ERR_NOT_OWNER</tabTrigger>
-	<description>31</description>
-	<scope>source.lua</scope>
-</snippet>

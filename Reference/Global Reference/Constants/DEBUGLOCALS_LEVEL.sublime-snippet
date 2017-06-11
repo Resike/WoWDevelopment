@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DEBUGLOCALS_LEVEL]]></content>
-	<tabTrigger>DEBUGLOCALS_LEVEL</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_NEW_LEADER_YOU]]></content>
-	<tabTrigger>LE_GAME_ERR_NEW_LEADER_YOU</tabTrigger>
-	<description>80</description>
-	<scope>source.lua</scope>
-</snippet>

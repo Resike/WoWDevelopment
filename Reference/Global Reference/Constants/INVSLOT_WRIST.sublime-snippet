@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[INVSLOT_WRIST]]></content>
-	<tabTrigger>INVSLOT_WRIST</tabTrigger>
-	<description>9</description>
-	<scope>source.lua</scope>
-</snippet>

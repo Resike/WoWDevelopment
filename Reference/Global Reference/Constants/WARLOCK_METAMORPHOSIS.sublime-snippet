@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WARLOCK_METAMORPHOSIS]]></content>
-	<tabTrigger>WARLOCK_METAMORPHOSIS</tabTrigger>
-	<description>103958</description>
-	<scope>source.lua</scope>
-</snippet>

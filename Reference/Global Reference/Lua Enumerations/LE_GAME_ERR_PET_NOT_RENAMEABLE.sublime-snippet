@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_PET_NOT_RENAMEABLE]]></content>
-	<tabTrigger>LE_GAME_ERR_PET_NOT_RENAMEABLE</tabTrigger>
-	<description>281</description>
-	<scope>source.lua</scope>
-</snippet>

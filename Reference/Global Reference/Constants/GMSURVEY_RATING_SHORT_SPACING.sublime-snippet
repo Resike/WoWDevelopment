@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GMSURVEY_RATING_SHORT_SPACING]]></content>
-	<tabTrigger>GMSURVEY_RATING_SHORT_SPACING</tabTrigger>
-	<description>25</description>
-	<scope>source.lua</scope>
-</snippet>

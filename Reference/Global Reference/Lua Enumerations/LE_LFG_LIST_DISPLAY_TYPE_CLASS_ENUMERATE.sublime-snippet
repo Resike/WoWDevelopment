@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_LFG_LIST_DISPLAY_TYPE_CLASS_ENUMERATE]]></content>
-	<tabTrigger>LE_LFG_LIST_DISPLAY_TYPE_CLASS_ENUMERATE</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_NOT_DURING_ARENA_MATCH]]></content>
-	<tabTrigger>LE_GAME_ERR_NOT_DURING_ARENA_MATCH</tabTrigger>
-	<description>603</description>
-	<scope>source.lua</scope>
-</snippet>

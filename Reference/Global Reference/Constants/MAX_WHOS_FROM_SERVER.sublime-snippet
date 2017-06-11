@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAX_WHOS_FROM_SERVER]]></content>
-	<tabTrigger>MAX_WHOS_FROM_SERVER</tabTrigger>
-	<description>50</description>
-	<scope>source.lua</scope>
-</snippet>

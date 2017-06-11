@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ITEM_INVENTORY_LOCATION_PLAYER]]></content>
-	<tabTrigger>ITEM_INVENTORY_LOCATION_PLAYER</tabTrigger>
-	<description>1048576</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EQUIPMENTFLYOUT_IGNORESLOT_LOCATION]]></content>
-	<tabTrigger>EQUIPMENTFLYOUT_IGNORESLOT_LOCATION</tabTrigger>
-	<description>4294967294</description>
-	<scope>source.lua</scope>
-</snippet>

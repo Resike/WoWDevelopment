@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_PLAYER_WRONG_FACTION]]></content>
-	<tabTrigger>LE_GAME_ERR_PLAYER_WRONG_FACTION</tabTrigger>
-	<description>290</description>
-	<scope>source.lua</scope>
-</snippet>

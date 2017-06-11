@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACHIEVEMENTUI_MAXCONTENTWIDTH]]></content>
-	<tabTrigger>ACHIEVEMENTUI_MAXCONTENTWIDTH</tabTrigger>
-	<description>330</description>
-	<scope>source.lua</scope>
-</snippet>

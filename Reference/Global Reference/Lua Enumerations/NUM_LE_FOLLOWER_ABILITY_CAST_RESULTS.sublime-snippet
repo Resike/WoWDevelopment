@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_LE_FOLLOWER_ABILITY_CAST_RESULTS]]></content>
-	<tabTrigger>NUM_LE_FOLLOWER_ABILITY_CAST_RESULTS</tabTrigger>
-	<description>14</description>
-	<scope>source.lua</scope>
-</snippet>

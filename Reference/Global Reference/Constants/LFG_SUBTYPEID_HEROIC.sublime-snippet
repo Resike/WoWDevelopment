@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFG_SUBTYPEID_HEROIC]]></content>
-	<tabTrigger>LFG_SUBTYPEID_HEROIC</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

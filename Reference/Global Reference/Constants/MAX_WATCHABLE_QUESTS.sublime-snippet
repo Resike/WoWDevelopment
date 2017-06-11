@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAX_WATCHABLE_QUESTS]]></content>
-	<tabTrigger>MAX_WATCHABLE_QUESTS</tabTrigger>
-	<description>25</description>
-	<scope>source.lua</scope>
-</snippet>

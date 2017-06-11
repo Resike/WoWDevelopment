@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DIFFICULTY_PRIMARYRAID_MYTHIC]]></content>
-	<tabTrigger>DIFFICULTY_PRIMARYRAID_MYTHIC</tabTrigger>
-	<description>16</description>
-	<scope>source.lua</scope>
-</snippet>

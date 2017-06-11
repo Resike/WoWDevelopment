@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RAID_FINDER_SHOW_LEVEL]]></content>
-	<tabTrigger>RAID_FINDER_SHOW_LEVEL</tabTrigger>
-	<description>85</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_TARGET_NOT_IN_GROUP_S]]></content>
-	<tabTrigger>LE_GAME_ERR_TARGET_NOT_IN_GROUP_S</tabTrigger>
-	<description>91</description>
-	<scope>source.lua</scope>
-</snippet>

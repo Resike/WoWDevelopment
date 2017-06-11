@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CLASS_TRAINER_SCROLL_HEIGHT]]></content>
-	<tabTrigger>CLASS_TRAINER_SCROLL_HEIGHT</tabTrigger>
-	<description>330</description>
-	<scope>source.lua</scope>
-</snippet>

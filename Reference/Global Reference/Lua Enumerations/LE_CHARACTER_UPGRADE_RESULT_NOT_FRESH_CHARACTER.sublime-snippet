@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_CHARACTER_UPGRADE_RESULT_NOT_FRESH_CHARACTER]]></content>
-	<tabTrigger>LE_CHARACTER_UPGRADE_RESULT_NOT_FRESH_CHARACTER</tabTrigger>
-	<description>12</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_MODEL_BLEND_OPERATION_ANIM]]></content>
-	<tabTrigger>LE_MODEL_BLEND_OPERATION_ANIM</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

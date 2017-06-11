@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_BATTLE_PET_ACTION_TRAP]]></content>
-	<tabTrigger>LE_BATTLE_PET_ACTION_TRAP</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_GUILD_WITHDRAW_LIMIT]]></content>
-	<tabTrigger>LE_GAME_ERR_GUILD_WITHDRAW_LIMIT</tabTrigger>
-	<description>139</description>
-	<scope>source.lua</scope>
-</snippet>

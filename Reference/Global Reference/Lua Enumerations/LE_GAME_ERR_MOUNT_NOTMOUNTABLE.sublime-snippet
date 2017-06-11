@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_MOUNT_NOTMOUNTABLE]]></content>
-	<tabTrigger>LE_GAME_ERR_MOUNT_NOTMOUNTABLE</tabTrigger>
-	<description>235</description>
-	<scope>source.lua</scope>
-</snippet>

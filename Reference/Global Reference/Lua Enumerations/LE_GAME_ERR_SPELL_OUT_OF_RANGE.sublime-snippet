@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_SPELL_OUT_OF_RANGE]]></content>
-	<tabTrigger>LE_GAME_ERR_SPELL_OUT_OF_RANGE</tabTrigger>
-	<description>358</description>
-	<scope>source.lua</scope>
-</snippet>

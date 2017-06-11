@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_TOKEN_RESULT_ERROR_DISABLED]]></content>
-	<tabTrigger>LE_TOKEN_RESULT_ERROR_DISABLED</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

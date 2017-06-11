@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_LFG_CATEGORY_LFR]]></content>
-	<tabTrigger>LE_LFG_CATEGORY_LFR</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

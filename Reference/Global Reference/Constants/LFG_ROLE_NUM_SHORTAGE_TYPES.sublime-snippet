@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFG_ROLE_NUM_SHORTAGE_TYPES]]></content>
-	<tabTrigger>LFG_ROLE_NUM_SHORTAGE_TYPES</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

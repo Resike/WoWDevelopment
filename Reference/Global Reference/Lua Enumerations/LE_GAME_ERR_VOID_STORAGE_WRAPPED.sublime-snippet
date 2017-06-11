@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_VOID_STORAGE_WRAPPED]]></content>
-	<tabTrigger>LE_GAME_ERR_VOID_STORAGE_WRAPPED</tabTrigger>
-	<description>843</description>
-	<scope>source.lua</scope>
-</snippet>

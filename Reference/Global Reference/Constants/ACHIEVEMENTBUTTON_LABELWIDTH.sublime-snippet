@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACHIEVEMENTBUTTON_LABELWIDTH]]></content>
-	<tabTrigger>ACHIEVEMENTBUTTON_LABELWIDTH</tabTrigger>
-	<description>320</description>
-	<scope>source.lua</scope>
-</snippet>

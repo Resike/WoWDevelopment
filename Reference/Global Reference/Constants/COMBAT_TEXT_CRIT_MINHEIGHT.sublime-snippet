@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[COMBAT_TEXT_CRIT_MINHEIGHT]]></content>
-	<tabTrigger>COMBAT_TEXT_CRIT_MINHEIGHT</tabTrigger>
-	<description>30</description>
-	<scope>source.lua</scope>
-</snippet>

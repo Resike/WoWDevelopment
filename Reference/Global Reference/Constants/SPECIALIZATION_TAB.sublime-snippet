@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SPECIALIZATION_TAB]]></content>
-	<tabTrigger>SPECIALIZATION_TAB</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

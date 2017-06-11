@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_LFG_JOINED_LIST]]></content>
-	<tabTrigger>LE_GAME_ERR_LFG_JOINED_LIST</tabTrigger>
-	<description>772</description>
-	<scope>source.lua</scope>
-</snippet>

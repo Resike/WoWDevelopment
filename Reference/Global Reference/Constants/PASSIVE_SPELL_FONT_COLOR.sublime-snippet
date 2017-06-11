@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PASSIVE_SPELL_FONT_COLOR]]></content>
-	<tabTrigger>PASSIVE_SPELL_FONT_COLOR</tabTrigger>
-	<description>{r=0.77, g=0.64, b=0.0}</description>
-	<scope>source.lua</scope>
-</snippet>

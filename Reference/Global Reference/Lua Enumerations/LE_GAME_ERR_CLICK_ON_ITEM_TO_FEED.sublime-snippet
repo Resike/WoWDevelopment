@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_CLICK_ON_ITEM_TO_FEED]]></content>
-	<tabTrigger>LE_GAME_ERR_CLICK_ON_ITEM_TO_FEED</tabTrigger>
-	<description>489</description>
-	<scope>source.lua</scope>
-</snippet>

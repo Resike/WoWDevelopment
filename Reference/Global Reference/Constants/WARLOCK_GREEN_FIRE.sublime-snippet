@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WARLOCK_GREEN_FIRE]]></content>
-	<tabTrigger>WARLOCK_GREEN_FIRE</tabTrigger>
-	<description>101508</description>
-	<scope>source.lua</scope>
-</snippet>

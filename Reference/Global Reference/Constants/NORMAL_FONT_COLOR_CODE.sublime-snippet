@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NORMAL_FONT_COLOR_CODE]]></content>
-	<tabTrigger>NORMAL_FONT_COLOR_CODE</tabTrigger>
-	<description>"|cffffd200"</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SPELL_POWER_FOCUS]]></content>
-	<tabTrigger>SPELL_POWER_FOCUS</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

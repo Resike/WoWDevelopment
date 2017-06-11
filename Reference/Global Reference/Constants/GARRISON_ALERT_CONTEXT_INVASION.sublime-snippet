@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GARRISON_ALERT_CONTEXT_INVASION]]></content>
-	<tabTrigger>GARRISON_ALERT_CONTEXT_INVASION</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

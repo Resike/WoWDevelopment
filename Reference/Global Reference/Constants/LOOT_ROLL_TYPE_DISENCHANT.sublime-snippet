@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LOOT_ROLL_TYPE_DISENCHANT]]></content>
-	<tabTrigger>LOOT_ROLL_TYPE_DISENCHANT</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

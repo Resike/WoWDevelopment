@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[COOLDOWN_TYPE_LOSS_OF_CONTROL]]></content>
-	<tabTrigger>COOLDOWN_TYPE_LOSS_OF_CONTROL</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

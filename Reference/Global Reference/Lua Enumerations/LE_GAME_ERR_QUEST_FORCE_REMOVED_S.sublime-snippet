@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_QUEST_FORCE_REMOVED_S]]></content>
-	<tabTrigger>LE_GAME_ERR_QUEST_FORCE_REMOVED_S</tabTrigger>
-	<description>793</description>
-	<scope>source.lua</scope>
-</snippet>

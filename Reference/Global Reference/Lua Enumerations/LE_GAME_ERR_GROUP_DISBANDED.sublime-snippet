@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_GROUP_DISBANDED]]></content>
-	<tabTrigger>LE_GAME_ERR_GROUP_DISBANDED</tabTrigger>
-	<description>85</description>
-	<scope>source.lua</scope>
-</snippet>

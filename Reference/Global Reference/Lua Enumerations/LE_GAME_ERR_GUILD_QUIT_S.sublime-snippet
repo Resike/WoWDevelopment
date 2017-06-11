@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_GUILD_QUIT_S]]></content>
-	<tabTrigger>LE_GAME_ERR_GUILD_QUIT_S</tabTrigger>
-	<description>114</description>
-	<scope>source.lua</scope>
-</snippet>

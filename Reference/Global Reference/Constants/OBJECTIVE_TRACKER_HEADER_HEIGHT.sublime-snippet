@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OBJECTIVE_TRACKER_HEADER_HEIGHT]]></content>
-	<tabTrigger>OBJECTIVE_TRACKER_HEADER_HEIGHT</tabTrigger>
-	<description>25</description>
-	<scope>source.lua</scope>
-</snippet>

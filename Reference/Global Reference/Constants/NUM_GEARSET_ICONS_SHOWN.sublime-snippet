@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_GEARSET_ICONS_SHOWN]]></content>
-	<tabTrigger>NUM_GEARSET_ICONS_SHOWN</tabTrigger>
-	<description>90</description>
-	<scope>source.lua</scope>
-</snippet>

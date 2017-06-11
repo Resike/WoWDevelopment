@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SPEC_MONK_BREWMASTER]]></content>
-	<tabTrigger>SPEC_MONK_BREWMASTER</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

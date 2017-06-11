@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SOUND_MASTERVOLUME_STEP]]></content>
-	<tabTrigger>SOUND_MASTERVOLUME_STEP</tabTrigger>
-	<description>0.1</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QUEST_CHOICE_DIALOG_RESULT_ABSTAIN]]></content>
-	<tabTrigger>QUEST_CHOICE_DIALOG_RESULT_ABSTAIN</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

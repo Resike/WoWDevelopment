@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_REAGENT_BANK_LOCKED]]></content>
-	<tabTrigger>LE_GAME_ERR_REAGENT_BANK_LOCKED</tabTrigger>
-	<description>946</description>
-	<scope>source.lua</scope>
-</snippet>

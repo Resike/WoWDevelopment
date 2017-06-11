@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ASHRAN_QUEUE_ID]]></content>
-	<tabTrigger>ASHRAN_QUEUE_ID</tabTrigger>
-	<description>1127</description>
-	<scope>source.lua</scope>
-</snippet>

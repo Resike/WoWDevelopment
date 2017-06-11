@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CONTROLTYPE_SLIDER]]></content>
-	<tabTrigger>CONTROLTYPE_SLIDER</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

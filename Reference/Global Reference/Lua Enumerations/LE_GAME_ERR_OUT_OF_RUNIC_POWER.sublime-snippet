@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_OUT_OF_RUNIC_POWER]]></content>
-	<tabTrigger>LE_GAME_ERR_OUT_OF_RUNIC_POWER</tabTrigger>
-	<description>334</description>
-	<scope>source.lua</scope>
-</snippet>

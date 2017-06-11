@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OBJECTIVE_TRACKER_UPDATE_WORLD_QUEST_ADDED]]></content>
-	<tabTrigger>OBJECTIVE_TRACKER_UPDATE_WORLD_QUEST_ADDED</tabTrigger>
-	<description>8</description>
-	<scope>source.lua</scope>
-</snippet>

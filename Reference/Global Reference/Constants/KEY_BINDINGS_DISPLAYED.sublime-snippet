@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[KEY_BINDINGS_DISPLAYED]]></content>
-	<tabTrigger>KEY_BINDINGS_DISPLAYED</tabTrigger>
-	<description>21</description>
-	<scope>source.lua</scope>
-</snippet>

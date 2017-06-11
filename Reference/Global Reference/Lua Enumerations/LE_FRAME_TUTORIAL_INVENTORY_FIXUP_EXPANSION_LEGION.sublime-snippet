@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_FRAME_TUTORIAL_INVENTORY_FIXUP_EXPANSION_LEGION]]></content>
-	<tabTrigger>LE_FRAME_TUTORIAL_INVENTORY_FIXUP_EXPANSION_LEGION</tabTrigger>
-	<description>43</description>
-	<scope>source.lua</scope>
-</snippet>

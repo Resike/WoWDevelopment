@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_FRAME_TUTORIAL_TOYBOX]]></content>
-	<tabTrigger>LE_FRAME_TUTORIAL_TOYBOX</tabTrigger>
-	<description>21</description>
-	<scope>source.lua</scope>
-</snippet>

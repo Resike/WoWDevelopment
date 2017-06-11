@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QuestDifficultyColors]]></content>
-	<tabTrigger>QuestDifficultyColors</tabTrigger>
-	<description></description>
-	<scope>source.lua</scope>
-</snippet>

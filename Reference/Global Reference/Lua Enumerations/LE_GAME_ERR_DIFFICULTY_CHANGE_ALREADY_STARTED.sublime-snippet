@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_DIFFICULTY_CHANGE_ALREADY_STARTED]]></content>
-	<tabTrigger>LE_GAME_ERR_DIFFICULTY_CHANGE_ALREADY_STARTED</tabTrigger>
-	<description>789</description>
-	<scope>source.lua</scope>
-</snippet>

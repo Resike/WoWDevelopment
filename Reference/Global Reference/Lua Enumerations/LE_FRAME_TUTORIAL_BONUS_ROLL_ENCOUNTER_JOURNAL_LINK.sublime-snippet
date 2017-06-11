@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_FRAME_TUTORIAL_BONUS_ROLL_ENCOUNTER_JOURNAL_LINK]]></content>
-	<tabTrigger>LE_FRAME_TUTORIAL_BONUS_ROLL_ENCOUNTER_JOURNAL_LINK</tabTrigger>
-	<description>45</description>
-	<scope>source.lua</scope>
-</snippet>

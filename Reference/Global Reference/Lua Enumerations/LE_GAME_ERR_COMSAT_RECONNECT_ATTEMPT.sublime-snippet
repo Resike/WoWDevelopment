@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_COMSAT_RECONNECT_ATTEMPT]]></content>
-	<tabTrigger>LE_GAME_ERR_COMSAT_RECONNECT_ATTEMPT</tabTrigger>
-	<description>607</description>
-	<scope>source.lua</scope>
-</snippet>

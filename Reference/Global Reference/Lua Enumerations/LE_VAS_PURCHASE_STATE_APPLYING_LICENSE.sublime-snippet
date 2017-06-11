@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_VAS_PURCHASE_STATE_APPLYING_LICENSE]]></content>
-	<tabTrigger>LE_VAS_PURCHASE_STATE_APPLYING_LICENSE</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

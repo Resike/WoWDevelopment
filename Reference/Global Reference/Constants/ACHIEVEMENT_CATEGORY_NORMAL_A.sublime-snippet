@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACHIEVEMENT_CATEGORY_NORMAL_A]]></content>
-	<tabTrigger>ACHIEVEMENT_CATEGORY_NORMAL_A</tabTrigger>
-	<description>0.9</description>
-	<scope>source.lua</scope>
-</snippet>

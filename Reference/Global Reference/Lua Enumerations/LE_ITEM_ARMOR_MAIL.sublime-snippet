@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_ITEM_ARMOR_MAIL]]></content>
-	<tabTrigger>LE_ITEM_ARMOR_MAIL</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

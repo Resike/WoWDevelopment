@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BUFFS_PER_ROW]]></content>
-	<tabTrigger>BUFFS_PER_ROW</tabTrigger>
-	<description>8</description>
-	<scope>source.lua</scope>
-</snippet>

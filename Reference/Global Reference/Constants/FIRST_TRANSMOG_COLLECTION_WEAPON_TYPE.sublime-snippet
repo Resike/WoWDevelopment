@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FIRST_TRANSMOG_COLLECTION_WEAPON_TYPE]]></content>
-	<tabTrigger>FIRST_TRANSMOG_COLLECTION_WEAPON_TYPE</tabTrigger>
-	<description>12</description>
-	<scope>source.lua</scope>
-</snippet>

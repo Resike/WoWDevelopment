@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACHIEVEMENT_CATEGORY_HIGHLIGHT_A]]></content>
-	<tabTrigger>ACHIEVEMENT_CATEGORY_HIGHLIGHT_A</tabTrigger>
-	<description>0.65</description>
-	<scope>source.lua</scope>
-</snippet>

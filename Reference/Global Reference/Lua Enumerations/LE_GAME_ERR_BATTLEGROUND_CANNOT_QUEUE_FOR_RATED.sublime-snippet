@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_BATTLEGROUND_CANNOT_QUEUE_FOR_RATED]]></content>
-	<tabTrigger>LE_GAME_ERR_BATTLEGROUND_CANNOT_QUEUE_FOR_RATED</tabTrigger>
-	<description>534</description>
-	<scope>source.lua</scope>
-</snippet>

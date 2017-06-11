@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CURRENT_ACTIONBAR_PAGE]]></content>
-	<tabTrigger>CURRENT_ACTIONBAR_PAGE</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

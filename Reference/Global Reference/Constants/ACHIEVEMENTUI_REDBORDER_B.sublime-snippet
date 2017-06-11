@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACHIEVEMENTUI_REDBORDER_B]]></content>
-	<tabTrigger>ACHIEVEMENTUI_REDBORDER_B</tabTrigger>
-	<description>0.05</description>
-	<scope>source.lua</scope>
-</snippet>

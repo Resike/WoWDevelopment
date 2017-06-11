@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFG_SUBTYPEID_WORLDPVP]]></content>
-	<tabTrigger>LFG_SUBTYPEID_WORLDPVP</tabTrigger>
-	<description>6</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QUEST_SPELL_REWARD_TYPE_FOLLOWER]]></content>
-	<tabTrigger>QUEST_SPELL_REWARD_TYPE_FOLLOWER</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

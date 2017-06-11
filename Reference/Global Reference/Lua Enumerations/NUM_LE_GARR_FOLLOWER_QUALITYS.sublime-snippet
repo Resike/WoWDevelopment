@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_LE_GARR_FOLLOWER_QUALITYS]]></content>
-	<tabTrigger>NUM_LE_GARR_FOLLOWER_QUALITYS</tabTrigger>
-	<description>7</description>
-	<scope>source.lua</scope>
-</snippet>

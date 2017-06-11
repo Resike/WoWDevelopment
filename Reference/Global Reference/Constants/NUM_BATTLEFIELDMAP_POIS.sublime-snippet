@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_BATTLEFIELDMAP_POIS]]></content>
-	<tabTrigger>NUM_BATTLEFIELDMAP_POIS</tabTrigger>
-	<description>0</description>
-	<scope>source.lua</scope>
-</snippet>

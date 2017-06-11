@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[INVSLOT_LEGS]]></content>
-	<tabTrigger>INVSLOT_LEGS</tabTrigger>
-	<description>7</description>
-	<scope>source.lua</scope>
-</snippet>

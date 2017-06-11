@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CLASS_SORT_ORDER]]></content>
-	<tabTrigger>CLASS_SORT_ORDER</tabTrigger>
-	<description></description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AJ_MAX_NUM_SUGGESTIONS]]></content>
-	<tabTrigger>AJ_MAX_NUM_SUGGESTIONS</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

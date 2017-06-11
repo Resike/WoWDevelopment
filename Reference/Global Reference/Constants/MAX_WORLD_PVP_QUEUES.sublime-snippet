@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAX_WORLD_PVP_QUEUES]]></content>
-	<tabTrigger>MAX_WORLD_PVP_QUEUES</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_PETITION_ALREADY_SIGNED_OTHER]]></content>
-	<tabTrigger>LE_GAME_ERR_PETITION_ALREADY_SIGNED_OTHER</tabTrigger>
-	<description>381</description>
-	<scope>source.lua</scope>
-</snippet>

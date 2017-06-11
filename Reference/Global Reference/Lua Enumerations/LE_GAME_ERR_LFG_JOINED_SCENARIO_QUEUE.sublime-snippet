@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_LFG_JOINED_SCENARIO_QUEUE]]></content>
-	<tabTrigger>LE_GAME_ERR_LFG_JOINED_SCENARIO_QUEUE</tabTrigger>
-	<description>770</description>
-	<scope>source.lua</scope>
-</snippet>

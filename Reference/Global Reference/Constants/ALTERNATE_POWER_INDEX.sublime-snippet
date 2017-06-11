@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ALTERNATE_POWER_INDEX]]></content>
-	<tabTrigger>ALTERNATE_POWER_INDEX</tabTrigger>
-	<description>10</description>
-	<scope>source.lua</scope>
-</snippet>

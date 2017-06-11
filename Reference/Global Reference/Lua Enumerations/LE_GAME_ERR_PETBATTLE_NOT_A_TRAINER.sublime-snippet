@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_PETBATTLE_NOT_A_TRAINER]]></content>
-	<tabTrigger>LE_GAME_ERR_PETBATTLE_NOT_A_TRAINER</tabTrigger>
-	<description>887</description>
-	<scope>source.lua</scope>
-</snippet>

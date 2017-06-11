@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[STYLE_FACIAL_HAIR]]></content>
-	<tabTrigger>STYLE_FACIAL_HAIR</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

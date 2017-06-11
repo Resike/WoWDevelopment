@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFR_BROWSE_AUTO_REFRESH_TIME]]></content>
-	<tabTrigger>LFR_BROWSE_AUTO_REFRESH_TIME</tabTrigger>
-	<description>20</description>
-	<scope>source.lua</scope>
-</snippet>

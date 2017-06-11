@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CR_LIFESTEAL]]></content>
-	<tabTrigger>CR_LIFESTEAL</tabTrigger>
-	<description>17</description>
-	<scope>source.lua</scope>
-</snippet>

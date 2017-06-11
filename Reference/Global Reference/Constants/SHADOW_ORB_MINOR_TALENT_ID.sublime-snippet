@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SHADOW_ORB_MINOR_TALENT_ID]]></content>
-	<tabTrigger>SHADOW_ORB_MINOR_TALENT_ID</tabTrigger>
-	<description>157217</description>
-	<scope>source.lua</scope>
-</snippet>

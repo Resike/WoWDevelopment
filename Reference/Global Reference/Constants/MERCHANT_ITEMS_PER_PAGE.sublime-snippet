@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MERCHANT_ITEMS_PER_PAGE]]></content>
-	<tabTrigger>MERCHANT_ITEMS_PER_PAGE</tabTrigger>
-	<description>10</description>
-	<scope>source.lua</scope>
-</snippet>

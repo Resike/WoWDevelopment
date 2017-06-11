@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HELPFRAME_SUBMIT_SUGGESTION]]></content>
-	<tabTrigger>HELPFRAME_SUBMIT_SUGGESTION</tabTrigger>
-	<description>16</description>
-	<scope>source.lua</scope>
-</snippet>

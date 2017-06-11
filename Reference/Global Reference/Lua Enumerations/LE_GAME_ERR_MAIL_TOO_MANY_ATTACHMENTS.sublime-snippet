@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_MAIL_TOO_MANY_ATTACHMENTS]]></content>
-	<tabTrigger>LE_GAME_ERR_MAIL_TOO_MANY_ATTACHMENTS</tabTrigger>
-	<description>610</description>
-	<scope>source.lua</scope>
-</snippet>

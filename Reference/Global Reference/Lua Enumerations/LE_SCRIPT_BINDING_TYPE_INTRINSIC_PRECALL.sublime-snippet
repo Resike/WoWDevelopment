@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_SCRIPT_BINDING_TYPE_INTRINSIC_PRECALL]]></content>
-	<tabTrigger>LE_SCRIPT_BINDING_TYPE_INTRINSIC_PRECALL</tabTrigger>
-	<description>0</description>
-	<scope>source.lua</scope>
-</snippet>

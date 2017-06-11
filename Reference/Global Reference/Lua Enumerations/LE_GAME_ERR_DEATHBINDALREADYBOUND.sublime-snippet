@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_DEATHBINDALREADYBOUND]]></content>
-	<tabTrigger>LE_GAME_ERR_DEATHBINDALREADYBOUND</tabTrigger>
-	<description>364</description>
-	<scope>source.lua</scope>
-</snippet>

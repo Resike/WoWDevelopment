@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_READY_CHECK_THROTTLED]]></content>
-	<tabTrigger>LE_GAME_ERR_READY_CHECK_THROTTLED</tabTrigger>
-	<description>556</description>
-	<scope>source.lua</scope>
-</snippet>

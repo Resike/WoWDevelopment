@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PLAYER_REPORT_TYPE_BAD_PLAYER_NAME]]></content>
-	<tabTrigger>PLAYER_REPORT_TYPE_BAD_PLAYER_NAME</tabTrigger>
-	<description>"badplayername"</description>
-	<scope>source.lua</scope>
-</snippet>

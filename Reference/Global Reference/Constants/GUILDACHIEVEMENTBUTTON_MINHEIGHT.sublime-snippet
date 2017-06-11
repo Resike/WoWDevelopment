@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILDACHIEVEMENTBUTTON_MINHEIGHT]]></content>
-	<tabTrigger>GUILDACHIEVEMENTBUTTON_MINHEIGHT</tabTrigger>
-	<description>128</description>
-	<scope>source.lua</scope>
-</snippet>

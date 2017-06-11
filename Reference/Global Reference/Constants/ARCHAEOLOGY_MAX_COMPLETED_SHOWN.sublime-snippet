@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ARCHAEOLOGY_MAX_COMPLETED_SHOWN]]></content>
-	<tabTrigger>ARCHAEOLOGY_MAX_COMPLETED_SHOWN</tabTrigger>
-	<description>12</description>
-	<scope>source.lua</scope>
-</snippet>

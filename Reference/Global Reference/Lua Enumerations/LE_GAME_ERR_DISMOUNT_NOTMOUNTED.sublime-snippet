@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_DISMOUNT_NOTMOUNTED]]></content>
-	<tabTrigger>LE_GAME_ERR_DISMOUNT_NOTMOUNTED</tabTrigger>
-	<description>243</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_OUT_OF_INSANITY]]></content>
-	<tabTrigger>LE_GAME_ERR_OUT_OF_INSANITY</tabTrigger>
-	<description>340</description>
-	<scope>source.lua</scope>
-</snippet>

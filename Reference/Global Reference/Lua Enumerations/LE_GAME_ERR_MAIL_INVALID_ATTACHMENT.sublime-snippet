@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_MAIL_INVALID_ATTACHMENT]]></content>
-	<tabTrigger>LE_GAME_ERR_MAIL_INVALID_ATTACHMENT</tabTrigger>
-	<description>611</description>
-	<scope>source.lua</scope>
-</snippet>

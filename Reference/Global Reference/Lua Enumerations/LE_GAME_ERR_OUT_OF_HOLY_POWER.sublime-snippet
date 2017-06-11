@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_OUT_OF_HOLY_POWER]]></content>
-	<tabTrigger>LE_GAME_ERR_OUT_OF_HOLY_POWER</tabTrigger>
-	<description>337</description>
-	<scope>source.lua</scope>
-</snippet>

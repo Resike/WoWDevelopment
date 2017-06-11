@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[INVSLOT_LAST_EQUIPPED]]></content>
-	<tabTrigger>INVSLOT_LAST_EQUIPPED</tabTrigger>
-	<description>19</description>
-	<scope>source.lua</scope>
-</snippet>

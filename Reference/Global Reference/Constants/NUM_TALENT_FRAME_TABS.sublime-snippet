@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_TALENT_FRAME_TABS]]></content>
-	<tabTrigger>NUM_TALENT_FRAME_TABS</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

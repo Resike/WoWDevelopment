@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_REALM_RELATION_COALESCED]]></content>
-	<tabTrigger>LE_REALM_RELATION_COALESCED</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_MEETING_STONE_NO_RAID_GROUP]]></content>
-	<tabTrigger>LE_GAME_ERR_MEETING_STONE_NO_RAID_GROUP</tabTrigger>
-	<description>520</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CR_CRIT_SPELL]]></content>
-	<tabTrigger>CR_CRIT_SPELL</tabTrigger>
-	<description>11</description>
-	<scope>source.lua</scope>
-</snippet>

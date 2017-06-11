@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAX_GUILDBANK_TABS]]></content>
-	<tabTrigger>MAX_GUILDBANK_TABS</tabTrigger>
-	<description>8</description>
-	<scope>source.lua</scope>
-</snippet>

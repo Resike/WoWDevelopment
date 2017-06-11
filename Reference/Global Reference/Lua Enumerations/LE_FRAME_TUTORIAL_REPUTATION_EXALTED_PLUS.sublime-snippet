@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_FRAME_TUTORIAL_REPUTATION_EXALTED_PLUS]]></content>
-	<tabTrigger>LE_FRAME_TUTORIAL_REPUTATION_EXALTED_PLUS</tabTrigger>
-	<description>47</description>
-	<scope>source.lua</scope>
-</snippet>

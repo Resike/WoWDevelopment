@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_EXPANSION_CLASSIC]]></content>
-	<tabTrigger>LE_EXPANSION_CLASSIC</tabTrigger>
-	<description>0</description>
-	<scope>source.lua</scope>
-</snippet>

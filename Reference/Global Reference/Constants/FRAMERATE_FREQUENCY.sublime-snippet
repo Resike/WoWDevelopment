@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FRAMERATE_FREQUENCY]]></content>
-	<tabTrigger>FRAMERATE_FREQUENCY</tabTrigger>
-	<description>0.25</description>
-	<scope>source.lua</scope>
-</snippet>

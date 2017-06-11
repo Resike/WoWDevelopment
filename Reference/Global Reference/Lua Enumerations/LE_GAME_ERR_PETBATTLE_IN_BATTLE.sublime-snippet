@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_PETBATTLE_IN_BATTLE]]></content>
-	<tabTrigger>LE_GAME_ERR_PETBATTLE_IN_BATTLE</tabTrigger>
-	<description>889</description>
-	<scope>source.lua</scope>
-</snippet>

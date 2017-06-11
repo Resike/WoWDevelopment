@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WORLDMAP_WINTERGRASP_ID]]></content>
-	<tabTrigger>WORLDMAP_WINTERGRASP_ID</tabTrigger>
-	<description>501</description>
-	<scope>source.lua</scope>
-</snippet>

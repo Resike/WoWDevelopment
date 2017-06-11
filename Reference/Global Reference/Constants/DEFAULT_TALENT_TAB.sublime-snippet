@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DEFAULT_TALENT_TAB]]></content>
-	<tabTrigger>DEFAULT_TALENT_TAB</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

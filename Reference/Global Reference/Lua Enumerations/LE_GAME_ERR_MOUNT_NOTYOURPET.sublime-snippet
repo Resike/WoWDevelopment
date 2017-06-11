@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_MOUNT_NOTYOURPET]]></content>
-	<tabTrigger>LE_GAME_ERR_MOUNT_NOTYOURPET</tabTrigger>
-	<description>236</description>
-	<scope>source.lua</scope>
-</snippet>

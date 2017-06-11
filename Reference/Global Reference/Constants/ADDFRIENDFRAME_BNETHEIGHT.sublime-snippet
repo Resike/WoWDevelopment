@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ADDFRIENDFRAME_BNETHEIGHT]]></content>
-	<tabTrigger>ADDFRIENDFRAME_BNETHEIGHT</tabTrigger>
-	<description>296</description>
-	<scope>source.lua</scope>
-</snippet>

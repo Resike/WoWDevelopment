@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WARGAME_HEADER_HEIGHT]]></content>
-	<tabTrigger>WARGAME_HEADER_HEIGHT</tabTrigger>
-	<description>16</description>
-	<scope>source.lua</scope>
-</snippet>

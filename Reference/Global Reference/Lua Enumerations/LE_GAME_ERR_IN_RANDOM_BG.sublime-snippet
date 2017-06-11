@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_IN_RANDOM_BG]]></content>
-	<tabTrigger>LE_GAME_ERR_IN_RANDOM_BG</tabTrigger>
-	<description>795</description>
-	<scope>source.lua</scope>
-</snippet>

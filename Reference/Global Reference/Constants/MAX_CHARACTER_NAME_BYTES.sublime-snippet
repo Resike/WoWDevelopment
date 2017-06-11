@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAX_CHARACTER_NAME_BYTES]]></content>
-	<tabTrigger>MAX_CHARACTER_NAME_BYTES</tabTrigger>
-	<description>305</description>
-	<scope>source.lua</scope>
-</snippet>

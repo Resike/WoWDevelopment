@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FRIENDS_OFFLINE_BACKGROUND_COLOR]]></content>
-	<tabTrigger>FRIENDS_OFFLINE_BACKGROUND_COLOR</tabTrigger>
-	<description>{r=0.588, g=0.588, b=0.588, a=0.05}</description>
-	<scope>source.lua</scope>
-</snippet>

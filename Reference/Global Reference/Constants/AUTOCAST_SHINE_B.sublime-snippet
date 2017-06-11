@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AUTOCAST_SHINE_B]]></content>
-	<tabTrigger>AUTOCAST_SHINE_B</tabTrigger>
-	<description>0.32</description>
-	<scope>source.lua</scope>
-</snippet>

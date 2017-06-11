@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_QUEST_FACTION_ALLIANCE]]></content>
-	<tabTrigger>LE_QUEST_FACTION_ALLIANCE</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

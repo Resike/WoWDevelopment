@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_MUST_EQUIP_ARTIFACT]]></content>
-	<tabTrigger>LE_GAME_ERR_MUST_EQUIP_ARTIFACT</tabTrigger>
-	<description>965</description>
-	<scope>source.lua</scope>
-</snippet>

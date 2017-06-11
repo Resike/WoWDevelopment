@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_PROFANE_CHAT_NAME]]></content>
-	<tabTrigger>LE_GAME_ERR_PROFANE_CHAT_NAME</tabTrigger>
-	<description>615</description>
-	<scope>source.lua</scope>
-</snippet>

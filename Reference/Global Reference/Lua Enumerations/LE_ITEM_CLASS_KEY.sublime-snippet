@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_ITEM_CLASS_KEY]]></content>
-	<tabTrigger>LE_ITEM_CLASS_KEY</tabTrigger>
-	<description>13</description>
-	<scope>source.lua</scope>
-</snippet>

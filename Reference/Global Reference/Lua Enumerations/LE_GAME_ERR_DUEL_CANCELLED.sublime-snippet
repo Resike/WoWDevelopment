@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_DUEL_CANCELLED]]></content>
-	<tabTrigger>LE_GAME_ERR_DUEL_CANCELLED</tabTrigger>
-	<description>363</description>
-	<scope>source.lua</scope>
-</snippet>

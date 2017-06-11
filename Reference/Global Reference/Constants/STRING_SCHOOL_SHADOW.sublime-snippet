@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[STRING_SCHOOL_SHADOW]]></content>
-	<tabTrigger>STRING_SCHOOL_SHADOW</tabTrigger>
-	<description></description>
-	<scope>source.lua</scope>
-</snippet>

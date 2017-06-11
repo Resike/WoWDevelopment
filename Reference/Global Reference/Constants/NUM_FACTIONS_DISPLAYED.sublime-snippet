@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_FACTIONS_DISPLAYED]]></content>
-	<tabTrigger>NUM_FACTIONS_DISPLAYED</tabTrigger>
-	<description>15</description>
-	<scope>source.lua</scope>
-</snippet>

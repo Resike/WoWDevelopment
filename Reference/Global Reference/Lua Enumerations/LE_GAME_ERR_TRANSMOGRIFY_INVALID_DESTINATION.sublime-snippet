@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_TRANSMOGRIFY_INVALID_DESTINATION]]></content>
-	<tabTrigger>LE_GAME_ERR_TRANSMOGRIFY_INVALID_DESTINATION</tabTrigger>
-	<description>835</description>
-	<scope>source.lua</scope>
-</snippet>

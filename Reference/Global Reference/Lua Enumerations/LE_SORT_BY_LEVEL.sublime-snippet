@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_SORT_BY_LEVEL]]></content>
-	<tabTrigger>LE_SORT_BY_LEVEL</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

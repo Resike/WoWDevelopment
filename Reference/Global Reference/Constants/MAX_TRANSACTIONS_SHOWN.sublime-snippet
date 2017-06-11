@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAX_TRANSACTIONS_SHOWN]]></content>
-	<tabTrigger>MAX_TRANSACTIONS_SHOWN</tabTrigger>
-	<description>21</description>
-	<scope>source.lua</scope>
-</snippet>

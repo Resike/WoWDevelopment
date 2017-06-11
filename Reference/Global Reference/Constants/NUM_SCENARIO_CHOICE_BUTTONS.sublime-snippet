@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_SCENARIO_CHOICE_BUTTONS]]></content>
-	<tabTrigger>NUM_SCENARIO_CHOICE_BUTTONS</tabTrigger>
-	<description>19</description>
-	<scope>source.lua</scope>
-</snippet>

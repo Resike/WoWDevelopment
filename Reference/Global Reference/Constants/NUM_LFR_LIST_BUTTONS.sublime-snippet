@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_LFR_LIST_BUTTONS]]></content>
-	<tabTrigger>NUM_LFR_LIST_BUTTONS</tabTrigger>
-	<description>21</description>
-	<scope>source.lua</scope>
-</snippet>

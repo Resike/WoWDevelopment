@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_FRAME_TUTORIAL_REAGENT_BANK_UNLOCK]]></content>
-	<tabTrigger>LE_FRAME_TUTORIAL_REAGENT_BANK_UNLOCK</tabTrigger>
-	<description>17</description>
-	<scope>source.lua</scope>
-</snippet>

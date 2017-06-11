@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[COMBATLOG_MESSAGE_LIMIT]]></content>
-	<tabTrigger>COMBATLOG_MESSAGE_LIMIT</tabTrigger>
-	<description>300</description>
-	<scope>source.lua</scope>
-</snippet>

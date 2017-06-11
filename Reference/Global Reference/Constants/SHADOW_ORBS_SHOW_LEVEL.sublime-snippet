@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SHADOW_ORBS_SHOW_LEVEL]]></content>
-	<tabTrigger>SHADOW_ORBS_SHOW_LEVEL</tabTrigger>
-	<description>10</description>
-	<scope>source.lua</scope>
-</snippet>

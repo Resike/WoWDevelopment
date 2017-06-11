@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_QUEST_TURN_IN_FAIL_REASON]]></content>
-	<tabTrigger>LE_GAME_ERR_QUEST_TURN_IN_FAIL_REASON</tabTrigger>
-	<description>983</description>
-	<scope>source.lua</scope>
-</snippet>

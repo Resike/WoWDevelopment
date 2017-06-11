@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_MACRO_ICONS_SHOWN]]></content>
-	<tabTrigger>NUM_MACRO_ICONS_SHOWN</tabTrigger>
-	<description>90</description>
-	<scope>source.lua</scope>
-</snippet>

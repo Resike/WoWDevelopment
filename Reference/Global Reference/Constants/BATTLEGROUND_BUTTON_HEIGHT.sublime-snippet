@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BATTLEGROUND_BUTTON_HEIGHT]]></content>
-	<tabTrigger>BATTLEGROUND_BUTTON_HEIGHT</tabTrigger>
-	<description>40</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_BONUS_ROLL_EMPTY]]></content>
-	<tabTrigger>LE_GAME_ERR_BONUS_ROLL_EMPTY</tabTrigger>
-	<description>926</description>
-	<scope>source.lua</scope>
-</snippet>

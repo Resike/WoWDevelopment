@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TRADE_ENCHANT_SLOT]]></content>
-	<tabTrigger>TRADE_ENCHANT_SLOT</tabTrigger>
-	<description>7</description>
-	<scope>source.lua</scope>
-</snippet>

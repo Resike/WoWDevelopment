@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_WOW_CONNECTION_STATE_IN_QUEUE]]></content>
-	<tabTrigger>LE_WOW_CONNECTION_STATE_IN_QUEUE</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

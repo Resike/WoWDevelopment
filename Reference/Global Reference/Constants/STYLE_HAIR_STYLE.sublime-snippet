@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[STYLE_HAIR_STYLE]]></content>
-	<tabTrigger>STYLE_HAIR_STYLE</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

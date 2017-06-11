@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_EVALUATION_TREE_FLAGS]]></content>
-	<tabTrigger>NUM_EVALUATION_TREE_FLAGS</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

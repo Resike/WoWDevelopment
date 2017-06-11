@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ARTIFACT_TIER_2_SOUND_REFUND_END_DELAY]]></content>
-	<tabTrigger>ARTIFACT_TIER_2_SOUND_REFUND_END_DELAY</tabTrigger>
-	<description>0.9</description>
-	<scope>source.lua</scope>
-</snippet>

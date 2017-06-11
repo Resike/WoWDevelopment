@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_NOT_BARBER_SITTING]]></content>
-	<tabTrigger>LE_GAME_ERR_NOT_BARBER_SITTING</tabTrigger>
-	<description>591</description>
-	<scope>source.lua</scope>
-</snippet>

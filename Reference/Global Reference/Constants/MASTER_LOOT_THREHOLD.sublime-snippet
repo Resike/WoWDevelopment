@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MASTER_LOOT_THREHOLD]]></content>
-	<tabTrigger>MASTER_LOOT_THREHOLD</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

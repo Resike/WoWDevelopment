@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BANK_TAB_HEIGHT]]></content>
-	<tabTrigger>BANK_TAB_HEIGHT</tabTrigger>
-	<description>77</description>
-	<scope>source.lua</scope>
-</snippet>

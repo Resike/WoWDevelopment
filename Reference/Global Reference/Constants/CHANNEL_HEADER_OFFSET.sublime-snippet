@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CHANNEL_HEADER_OFFSET]]></content>
-	<tabTrigger>CHANNEL_HEADER_OFFSET</tabTrigger>
-	<description>5</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GRAY_CHECKED]]></content>
-	<tabTrigger>GRAY_CHECKED</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

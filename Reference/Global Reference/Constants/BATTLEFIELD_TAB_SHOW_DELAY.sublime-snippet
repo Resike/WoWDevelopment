@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BATTLEFIELD_TAB_SHOW_DELAY]]></content>
-	<tabTrigger>BATTLEFIELD_TAB_SHOW_DELAY</tabTrigger>
-	<description>0.2</description>
-	<scope>source.lua</scope>
-</snippet>

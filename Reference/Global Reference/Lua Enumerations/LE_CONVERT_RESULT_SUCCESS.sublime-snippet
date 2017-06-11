@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_CONVERT_RESULT_SUCCESS]]></content>
-	<tabTrigger>LE_CONVERT_RESULT_SUCCESS</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

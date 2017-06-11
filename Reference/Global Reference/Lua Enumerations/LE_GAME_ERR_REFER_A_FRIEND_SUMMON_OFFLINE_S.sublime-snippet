@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_REFER_A_FRIEND_SUMMON_OFFLINE_S]]></content>
-	<tabTrigger>LE_GAME_ERR_REFER_A_FRIEND_SUMMON_OFFLINE_S</tabTrigger>
-	<description>645</description>
-	<scope>source.lua</scope>
-</snippet>

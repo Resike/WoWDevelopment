@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_LFG_READY_CHECK_FAILED]]></content>
-	<tabTrigger>LE_GAME_ERR_LFG_READY_CHECK_FAILED</tabTrigger>
-	<description>738</description>
-	<scope>source.lua</scope>
-</snippet>

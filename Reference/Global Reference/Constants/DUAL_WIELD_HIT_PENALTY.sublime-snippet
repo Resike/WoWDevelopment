@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DUAL_WIELD_HIT_PENALTY]]></content>
-	<tabTrigger>DUAL_WIELD_HIT_PENALTY</tabTrigger>
-	<description>19</description>
-	<scope>source.lua</scope>
-</snippet>

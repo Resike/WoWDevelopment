@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_CANNOT_ABANDON_LAST_PET]]></content>
-	<tabTrigger>LE_GAME_ERR_CANNOT_ABANDON_LAST_PET</tabTrigger>
-	<description>981</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MERCHANT_HIGH_PRICE_COST]]></content>
-	<tabTrigger>MERCHANT_HIGH_PRICE_COST</tabTrigger>
-	<description>1500000</description>
-	<scope>source.lua</scope>
-</snippet>

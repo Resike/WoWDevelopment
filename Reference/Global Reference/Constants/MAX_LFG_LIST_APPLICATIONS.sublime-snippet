@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAX_LFG_LIST_APPLICATIONS]]></content>
-	<tabTrigger>MAX_LFG_LIST_APPLICATIONS</tabTrigger>
-	<description>5</description>
-	<scope>source.lua</scope>
-</snippet>

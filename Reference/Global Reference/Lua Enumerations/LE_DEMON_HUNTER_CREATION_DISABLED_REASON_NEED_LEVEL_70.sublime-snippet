@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_DEMON_HUNTER_CREATION_DISABLED_REASON_NEED_LEVEL_70]]></content>
-	<tabTrigger>LE_DEMON_HUNTER_CREATION_DISABLED_REASON_NEED_LEVEL_70</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

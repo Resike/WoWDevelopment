@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_REFER_A_FRIEND_NOT_IN_LFG]]></content>
-	<tabTrigger>LE_GAME_ERR_REFER_A_FRIEND_NOT_IN_LFG</tabTrigger>
-	<description>647</description>
-	<scope>source.lua</scope>
-</snippet>

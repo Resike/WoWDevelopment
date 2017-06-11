@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CR_BLOCK]]></content>
-	<tabTrigger>CR_BLOCK</tabTrigger>
-	<description>5</description>
-	<scope>source.lua</scope>
-</snippet>

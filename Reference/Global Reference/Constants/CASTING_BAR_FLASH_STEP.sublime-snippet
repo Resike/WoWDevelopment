@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CASTING_BAR_FLASH_STEP]]></content>
-	<tabTrigger>CASTING_BAR_FLASH_STEP</tabTrigger>
-	<description>0.2</description>
-	<scope>source.lua</scope>
-</snippet>

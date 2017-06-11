@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BATTLEFIELD_MINIMAP_UPDATE_RATE]]></content>
-	<tabTrigger>BATTLEFIELD_MINIMAP_UPDATE_RATE</tabTrigger>
-	<description>0.1</description>
-	<scope>source.lua</scope>
-</snippet>

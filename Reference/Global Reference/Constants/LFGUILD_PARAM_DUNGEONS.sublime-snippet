@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFGUILD_PARAM_DUNGEONS]]></content>
-	<tabTrigger>LFGUILD_PARAM_DUNGEONS</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

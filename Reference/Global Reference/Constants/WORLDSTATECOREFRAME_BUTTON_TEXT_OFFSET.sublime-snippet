@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WORLDSTATECOREFRAME_BUTTON_TEXT_OFFSET]]></content>
-	<tabTrigger>WORLDSTATECOREFRAME_BUTTON_TEXT_OFFSET</tabTrigger>
-	<description>-28</description>
-	<scope>source.lua</scope>
-</snippet>

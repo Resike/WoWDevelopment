@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CONTAINER_WIDTH]]></content>
-	<tabTrigger>CONTAINER_WIDTH</tabTrigger>
-	<description>192</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_ITEM_CLASS_GEM]]></content>
-	<tabTrigger>LE_ITEM_CLASS_GEM</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

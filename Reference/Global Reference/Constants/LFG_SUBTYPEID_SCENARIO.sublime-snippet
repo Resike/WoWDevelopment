@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFG_SUBTYPEID_SCENARIO]]></content>
-	<tabTrigger>LFG_SUBTYPEID_SCENARIO</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

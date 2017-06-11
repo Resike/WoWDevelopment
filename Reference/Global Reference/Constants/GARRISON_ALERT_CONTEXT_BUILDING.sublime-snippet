@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GARRISON_ALERT_CONTEXT_BUILDING]]></content>
-	<tabTrigger>GARRISON_ALERT_CONTEXT_BUILDING</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

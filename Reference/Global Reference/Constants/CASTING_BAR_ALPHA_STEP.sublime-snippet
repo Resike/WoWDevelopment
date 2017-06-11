@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CASTING_BAR_ALPHA_STEP]]></content>
-	<tabTrigger>CASTING_BAR_ALPHA_STEP</tabTrigger>
-	<description>0.05</description>
-	<scope>source.lua</scope>
-</snippet>

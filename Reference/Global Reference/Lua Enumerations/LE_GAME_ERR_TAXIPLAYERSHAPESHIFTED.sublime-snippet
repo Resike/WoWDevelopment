@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_TAXIPLAYERSHAPESHIFTED]]></content>
-	<tabTrigger>LE_GAME_ERR_TAXIPLAYERSHAPESHIFTED</tabTrigger>
-	<description>213</description>
-	<scope>source.lua</scope>
-</snippet>

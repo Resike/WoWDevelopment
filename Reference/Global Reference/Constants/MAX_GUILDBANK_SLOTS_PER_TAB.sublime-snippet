@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAX_GUILDBANK_SLOTS_PER_TAB]]></content>
-	<tabTrigger>MAX_GUILDBANK_SLOTS_PER_TAB</tabTrigger>
-	<description>98</description>
-	<scope>source.lua</scope>
-</snippet>

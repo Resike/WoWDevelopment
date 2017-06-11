@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_ITEM_WEAPON_THROWN]]></content>
-	<tabTrigger>LE_ITEM_WEAPON_THROWN</tabTrigger>
-	<description>16</description>
-	<scope>source.lua</scope>
-</snippet>

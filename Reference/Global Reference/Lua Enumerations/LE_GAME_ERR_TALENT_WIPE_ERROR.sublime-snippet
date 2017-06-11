@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_TALENT_WIPE_ERROR]]></content>
-	<tabTrigger>LE_GAME_ERR_TALENT_WIPE_ERROR</tabTrigger>
-	<description>501</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_INVALID_QUEST_TARGET]]></content>
-	<tabTrigger>LE_GAME_ERR_INVALID_QUEST_TARGET</tabTrigger>
-	<description>370</description>
-	<scope>source.lua</scope>
-</snippet>

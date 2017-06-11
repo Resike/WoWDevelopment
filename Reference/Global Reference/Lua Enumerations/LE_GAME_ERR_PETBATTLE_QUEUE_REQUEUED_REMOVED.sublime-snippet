@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_PETBATTLE_QUEUE_REQUEUED_REMOVED]]></content>
-	<tabTrigger>LE_GAME_ERR_PETBATTLE_QUEUE_REQUEUED_REMOVED</tabTrigger>
-	<description>910</description>
-	<scope>source.lua</scope>
-</snippet>

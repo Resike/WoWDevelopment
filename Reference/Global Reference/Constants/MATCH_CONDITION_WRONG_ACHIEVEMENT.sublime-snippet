@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MATCH_CONDITION_WRONG_ACHIEVEMENT]]></content>
-	<tabTrigger>MATCH_CONDITION_WRONG_ACHIEVEMENT</tabTrigger>
-	<description>34</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_CHARACTER_UPGRADE_RESULT_DB_ERROR]]></content>
-	<tabTrigger>LE_CHARACTER_UPGRADE_RESULT_DB_ERROR</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

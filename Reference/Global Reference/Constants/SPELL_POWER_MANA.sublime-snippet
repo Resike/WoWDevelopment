@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SPELL_POWER_MANA]]></content>
-	<tabTrigger>SPELL_POWER_MANA</tabTrigger>
-	<description>0</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_CANT_DO_THAT_IN_A_GROUP]]></content>
-	<tabTrigger>LE_GAME_ERR_CANT_DO_THAT_IN_A_GROUP</tabTrigger>
-	<description>829</description>
-	<scope>source.lua</scope>
-</snippet>

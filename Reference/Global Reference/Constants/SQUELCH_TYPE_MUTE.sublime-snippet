@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SQUELCH_TYPE_MUTE]]></content>
-	<tabTrigger>SQUELCH_TYPE_MUTE</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

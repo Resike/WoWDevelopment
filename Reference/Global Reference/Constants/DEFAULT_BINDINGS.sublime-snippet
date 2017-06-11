@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DEFAULT_BINDINGS]]></content>
-	<tabTrigger>DEFAULT_BINDINGS</tabTrigger>
-	<description>0</description>
-	<scope>source.lua</scope>
-</snippet>

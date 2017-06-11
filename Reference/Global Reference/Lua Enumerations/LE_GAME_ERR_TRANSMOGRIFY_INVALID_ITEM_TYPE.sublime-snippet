@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_TRANSMOGRIFY_INVALID_ITEM_TYPE]]></content>
-	<tabTrigger>LE_GAME_ERR_TRANSMOGRIFY_INVALID_ITEM_TYPE</tabTrigger>
-	<description>832</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[COPPER_PER_SILVER]]></content>
-	<tabTrigger>COPPER_PER_SILVER</tabTrigger>
-	<description>100</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_CANT_BE_OBLITERATED]]></content>
-	<tabTrigger>LE_GAME_ERR_CANT_BE_OBLITERATED</tabTrigger>
-	<description>963</description>
-	<scope>source.lua</scope>
-</snippet>

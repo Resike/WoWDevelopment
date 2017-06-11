@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PET_BATTLE_STATE_SPEED]]></content>
-	<tabTrigger>PET_BATTLE_STATE_SPEED</tabTrigger>
-	<description>20</description>
-	<scope>source.lua</scope>
-</snippet>

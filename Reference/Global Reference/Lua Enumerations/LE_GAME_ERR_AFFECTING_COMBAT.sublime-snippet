@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_AFFECTING_COMBAT]]></content>
-	<tabTrigger>LE_GAME_ERR_AFFECTING_COMBAT</tabTrigger>
-	<description>967</description>
-	<scope>source.lua</scope>
-</snippet>

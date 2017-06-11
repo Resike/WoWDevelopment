@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SCHOOL_MASK_FIRE]]></content>
-	<tabTrigger>SCHOOL_MASK_FIRE</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

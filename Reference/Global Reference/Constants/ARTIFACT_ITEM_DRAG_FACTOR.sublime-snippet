@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ARTIFACT_ITEM_DRAG_FACTOR]]></content>
-	<tabTrigger>ARTIFACT_ITEM_DRAG_FACTOR</tabTrigger>
-	<description>0.0065</description>
-	<scope>source.lua</scope>
-</snippet>

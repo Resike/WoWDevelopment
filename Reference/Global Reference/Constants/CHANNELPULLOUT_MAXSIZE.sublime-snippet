@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CHANNELPULLOUT_MAXSIZE]]></content>
-	<tabTrigger>CHANNELPULLOUT_MAXSIZE</tabTrigger>
-	<description>25</description>
-	<scope>source.lua</scope>
-</snippet>

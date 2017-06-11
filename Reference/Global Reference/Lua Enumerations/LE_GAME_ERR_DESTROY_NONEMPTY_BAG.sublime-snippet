@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_DESTROY_NONEMPTY_BAG]]></content>
-	<tabTrigger>LE_GAME_ERR_DESTROY_NONEMPTY_BAG</tabTrigger>
-	<description>15</description>
-	<scope>source.lua</scope>
-</snippet>

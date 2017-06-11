@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_MAIL_REACHED_CAP]]></content>
-	<tabTrigger>LE_GAME_ERR_MAIL_REACHED_CAP</tabTrigger>
-	<description>552</description>
-	<scope>source.lua</scope>
-</snippet>

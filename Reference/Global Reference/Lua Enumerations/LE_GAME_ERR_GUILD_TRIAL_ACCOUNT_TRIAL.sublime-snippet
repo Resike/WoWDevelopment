@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_GUILD_TRIAL_ACCOUNT_TRIAL]]></content>
-	<tabTrigger>LE_GAME_ERR_GUILD_TRIAL_ACCOUNT_TRIAL</tabTrigger>
-	<description>826</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_MOVIE_RECORDING_WARNING_COMPRESSING]]></content>
-	<tabTrigger>LE_GAME_ERR_MOVIE_RECORDING_WARNING_COMPRESSING</tabTrigger>
-	<description>975</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_DEMON_HUNTER_CREATION_DISABLED_REASON_HAVE_DH]]></content>
-	<tabTrigger>LE_DEMON_HUNTER_CREATION_DISABLED_REASON_HAVE_DH</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

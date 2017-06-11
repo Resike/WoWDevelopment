@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_FRAME_TUTORIAL_SPELLBOOK]]></content>
-	<tabTrigger>LE_FRAME_TUTORIAL_SPELLBOOK</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

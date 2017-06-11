@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_RANK_FLAGS]]></content>
-	<tabTrigger>NUM_RANK_FLAGS</tabTrigger>
-	<description>20</description>
-	<scope>source.lua</scope>
-</snippet>

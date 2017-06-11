@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EQUIPMENTFLYOUT_MULTIROW_MIDDLE_HEIGHT]]></content>
-	<tabTrigger>EQUIPMENTFLYOUT_MULTIROW_MIDDLE_HEIGHT</tabTrigger>
-	<description>42</description>
-	<scope>source.lua</scope>
-</snippet>

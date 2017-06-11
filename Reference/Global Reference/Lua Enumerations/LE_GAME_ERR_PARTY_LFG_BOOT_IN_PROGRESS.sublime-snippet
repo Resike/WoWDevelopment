@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_PARTY_LFG_BOOT_IN_PROGRESS]]></content>
-	<tabTrigger>LE_GAME_ERR_PARTY_LFG_BOOT_IN_PROGRESS</tabTrigger>
-	<description>680</description>
-	<scope>source.lua</scope>
-</snippet>

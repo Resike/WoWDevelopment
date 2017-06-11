@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_TAXINOPATHS]]></content>
-	<tabTrigger>LE_GAME_ERR_TAXINOPATHS</tabTrigger>
-	<description>215</description>
-	<scope>source.lua</scope>
-</snippet>

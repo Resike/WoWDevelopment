@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_INVALID_GLYPH_SLOT]]></content>
-	<tabTrigger>LE_GAME_ERR_INVALID_GLYPH_SLOT</tabTrigger>
-	<description>665</description>
-	<scope>source.lua</scope>
-</snippet>

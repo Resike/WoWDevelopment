@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFD_MAX_REWARDS]]></content>
-	<tabTrigger>LFD_MAX_REWARDS</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

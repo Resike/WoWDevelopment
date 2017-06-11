@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GARRISON_FOLLOWER_MAX_LEVEL]]></content>
-	<tabTrigger>GARRISON_FOLLOWER_MAX_LEVEL</tabTrigger>
-	<description>100</description>
-	<scope>source.lua</scope>
-</snippet>

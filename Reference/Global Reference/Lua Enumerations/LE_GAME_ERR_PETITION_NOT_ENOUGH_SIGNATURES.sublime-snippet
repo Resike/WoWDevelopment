@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_PETITION_NOT_ENOUGH_SIGNATURES]]></content>
-	<tabTrigger>LE_GAME_ERR_PETITION_NOT_ENOUGH_SIGNATURES</tabTrigger>
-	<description>384</description>
-	<scope>source.lua</scope>
-</snippet>

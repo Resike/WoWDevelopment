@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PET_ACHIEVEMENT_CATEGORY]]></content>
-	<tabTrigger>PET_ACHIEVEMENT_CATEGORY</tabTrigger>
-	<description>15117</description>
-	<scope>source.lua</scope>
-</snippet>

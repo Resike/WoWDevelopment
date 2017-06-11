@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_LE_GARRISON_TALENT_AVAILABILITYS]]></content>
-	<tabTrigger>NUM_LE_GARRISON_TALENT_AVAILABILITYS</tabTrigger>
-	<description>8</description>
-	<scope>source.lua</scope>
-</snippet>

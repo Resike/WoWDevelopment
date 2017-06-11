@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_MEETING_STONE_MEMBER_ADDED_S]]></content>
-	<tabTrigger>LE_GAME_ERR_MEETING_STONE_MEMBER_ADDED_S</tabTrigger>
-	<description>513</description>
-	<scope>source.lua</scope>
-</snippet>

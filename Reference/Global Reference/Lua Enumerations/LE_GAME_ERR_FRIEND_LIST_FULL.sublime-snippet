@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_FRIEND_LIST_FULL]]></content>
-	<tabTrigger>LE_GAME_ERR_FRIEND_LIST_FULL</tabTrigger>
-	<description>296</description>
-	<scope>source.lua</scope>
-</snippet>

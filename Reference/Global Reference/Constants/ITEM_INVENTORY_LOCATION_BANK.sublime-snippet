@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ITEM_INVENTORY_LOCATION_BANK]]></content>
-	<tabTrigger>ITEM_INVENTORY_LOCATION_BANK</tabTrigger>
-	<description>4194304</description>
-	<scope>source.lua</scope>
-</snippet>

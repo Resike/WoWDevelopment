@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CHANNEL_FRAME_SCROLLBAR_OFFSET]]></content>
-	<tabTrigger>CHANNEL_FRAME_SCROLLBAR_OFFSET</tabTrigger>
-	<description>25</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CONTAINER_SPACING]]></content>
-	<tabTrigger>CONTAINER_SPACING</tabTrigger>
-	<description>0</description>
-	<scope>source.lua</scope>
-</snippet>

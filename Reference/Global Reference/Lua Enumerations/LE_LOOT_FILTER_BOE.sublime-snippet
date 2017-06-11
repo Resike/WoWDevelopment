@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_LOOT_FILTER_BOE]]></content>
-	<tabTrigger>LE_LOOT_FILTER_BOE</tabTrigger>
-	<description>7</description>
-	<scope>source.lua</scope>
-</snippet>

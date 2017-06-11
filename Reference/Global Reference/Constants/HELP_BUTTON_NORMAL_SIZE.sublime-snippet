@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HELP_BUTTON_NORMAL_SIZE]]></content>
-	<tabTrigger>HELP_BUTTON_NORMAL_SIZE</tabTrigger>
-	<description>46</description>
-	<scope>source.lua</scope>
-</snippet>

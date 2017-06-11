@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACHIEVEMENTBUTTON_DESCRIPTIONHEIGHT]]></content>
-	<tabTrigger>ACHIEVEMENTBUTTON_DESCRIPTIONHEIGHT</tabTrigger>
-	<description>20</description>
-	<scope>source.lua</scope>
-</snippet>

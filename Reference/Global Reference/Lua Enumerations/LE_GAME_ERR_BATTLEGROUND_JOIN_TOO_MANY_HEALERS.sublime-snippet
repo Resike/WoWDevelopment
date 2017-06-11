@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_BATTLEGROUND_JOIN_TOO_MANY_HEALERS]]></content>
-	<tabTrigger>LE_GAME_ERR_BATTLEGROUND_JOIN_TOO_MANY_HEALERS</tabTrigger>
-	<description>710</description>
-	<scope>source.lua</scope>
-</snippet>

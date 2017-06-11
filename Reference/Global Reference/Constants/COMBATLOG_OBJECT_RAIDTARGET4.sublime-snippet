@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[COMBATLOG_OBJECT_RAIDTARGET4]]></content>
-	<tabTrigger>COMBATLOG_OBJECT_RAIDTARGET4</tabTrigger>
-	<description>8</description>
-	<scope>source.lua</scope>
-</snippet>

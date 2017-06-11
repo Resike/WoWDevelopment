@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MINIMAPPING_FADE_TIMER]]></content>
-	<tabTrigger>MINIMAPPING_FADE_TIMER</tabTrigger>
-	<description>0.5</description>
-	<scope>source.lua</scope>
-</snippet>

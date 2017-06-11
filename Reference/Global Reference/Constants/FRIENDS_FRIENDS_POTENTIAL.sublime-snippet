@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FRIENDS_FRIENDS_POTENTIAL]]></content>
-	<tabTrigger>FRIENDS_FRIENDS_POTENTIAL</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_RANK_REQUIRES_AUTHENTICATOR]]></content>
-	<tabTrigger>LE_GAME_ERR_RANK_REQUIRES_AUTHENTICATOR</tabTrigger>
-	<description>814</description>
-	<scope>source.lua</scope>
-</snippet>

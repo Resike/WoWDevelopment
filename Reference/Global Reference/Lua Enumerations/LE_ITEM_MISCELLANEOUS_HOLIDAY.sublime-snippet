@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_ITEM_MISCELLANEOUS_HOLIDAY]]></content>
-	<tabTrigger>LE_ITEM_MISCELLANEOUS_HOLIDAY</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

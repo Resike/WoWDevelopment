@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_TRANSMOG_COLLECTION_TYPE_WAND]]></content>
-	<tabTrigger>LE_TRANSMOG_COLLECTION_TYPE_WAND</tabTrigger>
-	<description>12</description>
-	<scope>source.lua</scope>
-</snippet>

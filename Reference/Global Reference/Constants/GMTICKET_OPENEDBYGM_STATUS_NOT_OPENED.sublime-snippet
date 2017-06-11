@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GMTICKET_OPENEDBYGM_STATUS_NOT_OPENED]]></content>
-	<tabTrigger>GMTICKET_OPENEDBYGM_STATUS_NOT_OPENED</tabTrigger>
-	<description>0</description>
-	<scope>source.lua</scope>
-</snippet>

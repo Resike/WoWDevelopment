@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_WRONG_BAG_TYPE_SUBCLASS]]></content>
-	<tabTrigger>LE_GAME_ERR_WRONG_BAG_TYPE_SUBCLASS</tabTrigger>
-	<description>320</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_GARRISON_INVALID_PLOT_BUILDING]]></content>
-	<tabTrigger>LE_GAME_ERR_GARRISON_INVALID_PLOT_BUILDING</tabTrigger>
-	<description>950</description>
-	<scope>source.lua</scope>
-</snippet>

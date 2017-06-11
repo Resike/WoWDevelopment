@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_TOKEN_RESULT_ERROR_BALANCE_NEAR_CAP]]></content>
-	<tabTrigger>LE_TOKEN_RESULT_ERROR_BALANCE_NEAR_CAP</tabTrigger>
-	<description>10</description>
-	<scope>source.lua</scope>
-</snippet>

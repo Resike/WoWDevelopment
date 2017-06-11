@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CHANNEL_TITLE_WIDTH]]></content>
-	<tabTrigger>CHANNEL_TITLE_WIDTH</tabTrigger>
-	<description>135</description>
-	<scope>source.lua</scope>
-</snippet>

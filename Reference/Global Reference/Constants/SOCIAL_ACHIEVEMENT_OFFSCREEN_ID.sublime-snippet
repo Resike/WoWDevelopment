@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SOCIAL_ACHIEVEMENT_OFFSCREEN_ID]]></content>
-	<tabTrigger>SOCIAL_ACHIEVEMENT_OFFSCREEN_ID</tabTrigger>
-	<description>0</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_PLAY_TIME_EXCEEDED]]></content>
-	<tabTrigger>LE_GAME_ERR_PLAY_TIME_EXCEEDED</tabTrigger>
-	<description>544</description>
-	<scope>source.lua</scope>
-</snippet>

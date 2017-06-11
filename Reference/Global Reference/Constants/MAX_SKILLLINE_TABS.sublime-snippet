@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAX_SKILLLINE_TABS]]></content>
-	<tabTrigger>MAX_SKILLLINE_TABS</tabTrigger>
-	<description>8</description>
-	<scope>source.lua</scope>
-</snippet>

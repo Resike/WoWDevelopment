@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_SOCKETING_COGWHEEL_GEM_ONLY_IN_COGWHEELSLOT]]></content>
-	<tabTrigger>LE_GAME_ERR_SOCKETING_COGWHEEL_GEM_ONLY_IN_COGWHEELSLOT</tabTrigger>
-	<description>582</description>
-	<scope>source.lua</scope>
-</snippet>

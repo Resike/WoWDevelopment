@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_CHAT_WHILE_DEAD]]></content>
-	<tabTrigger>LE_GAME_ERR_CHAT_WHILE_DEAD</tabTrigger>
-	<description>276</description>
-	<scope>source.lua</scope>
-</snippet>

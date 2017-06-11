@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LIGHT_GHOST]]></content>
-	<tabTrigger>LIGHT_GHOST</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CHAT_FRAME_MIN_WIDTH]]></content>
-	<tabTrigger>CHAT_FRAME_MIN_WIDTH</tabTrigger>
-	<description>296</description>
-	<scope>source.lua</scope>
-</snippet>

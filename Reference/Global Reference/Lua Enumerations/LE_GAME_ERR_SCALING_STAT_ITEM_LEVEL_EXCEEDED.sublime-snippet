@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_SCALING_STAT_ITEM_LEVEL_EXCEEDED]]></content>
-	<tabTrigger>LE_GAME_ERR_SCALING_STAT_ITEM_LEVEL_EXCEEDED</tabTrigger>
-	<description>660</description>
-	<scope>source.lua</scope>
-</snippet>

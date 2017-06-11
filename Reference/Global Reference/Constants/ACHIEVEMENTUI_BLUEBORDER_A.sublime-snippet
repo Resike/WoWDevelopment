@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACHIEVEMENTUI_BLUEBORDER_A]]></content>
-	<tabTrigger>ACHIEVEMENTUI_BLUEBORDER_A</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

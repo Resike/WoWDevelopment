@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_VENDOR_HATES_YOU]]></content>
-	<tabTrigger>LE_GAME_ERR_VENDOR_HATES_YOU</tabTrigger>
-	<description>38</description>
-	<scope>source.lua</scope>
-</snippet>

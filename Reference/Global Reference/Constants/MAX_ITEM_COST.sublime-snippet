@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAX_ITEM_COST]]></content>
-	<tabTrigger>MAX_ITEM_COST</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

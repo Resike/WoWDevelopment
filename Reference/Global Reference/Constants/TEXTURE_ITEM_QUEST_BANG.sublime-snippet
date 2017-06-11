@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TEXTURE_ITEM_QUEST_BANG]]></content>
-	<tabTrigger>TEXTURE_ITEM_QUEST_BANG</tabTrigger>
-	<description>"Interface\\ContainerFrame\\UI-Icon-QuestBang"</description>
-	<scope>source.lua</scope>
-</snippet>

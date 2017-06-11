@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PLAYER_REPORT_TYPE_CHEATING]]></content>
-	<tabTrigger>PLAYER_REPORT_TYPE_CHEATING</tabTrigger>
-	<description>"cheater"</description>
-	<scope>source.lua</scope>
-</snippet>

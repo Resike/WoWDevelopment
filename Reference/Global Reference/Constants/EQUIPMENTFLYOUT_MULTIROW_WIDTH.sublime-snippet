@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EQUIPMENTFLYOUT_MULTIROW_WIDTH]]></content>
-	<tabTrigger>EQUIPMENTFLYOUT_MULTIROW_WIDTH</tabTrigger>
-	<description>214</description>
-	<scope>source.lua</scope>
-</snippet>

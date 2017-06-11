@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_PETBATTLE_NOT_WHILE_DEAD]]></content>
-	<tabTrigger>LE_GAME_ERR_PETBATTLE_NOT_WHILE_DEAD</tabTrigger>
-	<description>882</description>
-	<scope>source.lua</scope>
-</snippet>

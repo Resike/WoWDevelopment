@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AUTOCOMPLETE_FLAG_IN_GUILD]]></content>
-	<tabTrigger>AUTOCOMPLETE_FLAG_IN_GUILD</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

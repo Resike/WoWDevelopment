@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_CHALLENGE_MODE_IN_PROGRESS]]></content>
-	<tabTrigger>LE_GAME_ERR_CHALLENGE_MODE_IN_PROGRESS</tabTrigger>
-	<description>928</description>
-	<scope>source.lua</scope>
-</snippet>

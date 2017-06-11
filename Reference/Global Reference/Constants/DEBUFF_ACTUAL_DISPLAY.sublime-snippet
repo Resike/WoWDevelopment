@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DEBUFF_ACTUAL_DISPLAY]]></content>
-	<tabTrigger>DEBUFF_ACTUAL_DISPLAY</tabTrigger>
-	<description>0</description>
-	<scope>source.lua</scope>
-</snippet>

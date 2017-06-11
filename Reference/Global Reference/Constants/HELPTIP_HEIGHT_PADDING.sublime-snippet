@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HELPTIP_HEIGHT_PADDING]]></content>
-	<tabTrigger>HELPTIP_HEIGHT_PADDING</tabTrigger>
-	<description>29</description>
-	<scope>source.lua</scope>
-</snippet>

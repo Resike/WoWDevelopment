@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_ITEM_CANT_BE_DESTROYED]]></content>
-	<tabTrigger>LE_GAME_ERR_ITEM_CANT_BE_DESTROYED</tabTrigger>
-	<description>397</description>
-	<scope>source.lua</scope>
-</snippet>

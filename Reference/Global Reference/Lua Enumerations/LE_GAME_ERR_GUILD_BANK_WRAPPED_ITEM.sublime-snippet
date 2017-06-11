@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_GUILD_BANK_WRAPPED_ITEM]]></content>
-	<tabTrigger>LE_GAME_ERR_GUILD_BANK_WRAPPED_ITEM</tabTrigger>
-	<description>146</description>
-	<scope>source.lua</scope>
-</snippet>

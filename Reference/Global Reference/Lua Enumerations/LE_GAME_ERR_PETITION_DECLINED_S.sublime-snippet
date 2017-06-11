@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_PETITION_DECLINED_S]]></content>
-	<tabTrigger>LE_GAME_ERR_PETITION_DECLINED_S</tabTrigger>
-	<description>378</description>
-	<scope>source.lua</scope>
-</snippet>

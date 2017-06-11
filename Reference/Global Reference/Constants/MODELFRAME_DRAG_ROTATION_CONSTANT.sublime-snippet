@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODELFRAME_DRAG_ROTATION_CONSTANT]]></content>
-	<tabTrigger>MODELFRAME_DRAG_ROTATION_CONSTANT</tabTrigger>
-	<description>0.01</description>
-	<scope>source.lua</scope>
-</snippet>

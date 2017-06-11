@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[COMBAT_TEXT_CRIT_SCALE_TIME]]></content>
-	<tabTrigger>COMBAT_TEXT_CRIT_SCALE_TIME</tabTrigger>
-	<description>0.05</description>
-	<scope>source.lua</scope>
-</snippet>

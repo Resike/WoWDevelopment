@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LANGUAGE_TEXT_HEIGHT]]></content>
-	<tabTrigger>LANGUAGE_TEXT_HEIGHT</tabTrigger>
-	<description>0.04296875</description>
-	<scope>source.lua</scope>
-</snippet>

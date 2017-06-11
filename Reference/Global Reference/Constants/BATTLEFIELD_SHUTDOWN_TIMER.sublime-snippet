@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BATTLEFIELD_SHUTDOWN_TIMER]]></content>
-	<tabTrigger>BATTLEFIELD_SHUTDOWN_TIMER</tabTrigger>
-	<description>0</description>
-	<scope>source.lua</scope>
-</snippet>

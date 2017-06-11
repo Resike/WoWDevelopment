@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[INVSLOT_FINGER2]]></content>
-	<tabTrigger>INVSLOT_FINGER2</tabTrigger>
-	<description>12</description>
-	<scope>source.lua</scope>
-</snippet>

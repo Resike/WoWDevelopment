@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_LOOT_MASTER_INV_FULL]]></content>
-	<tabTrigger>LE_GAME_ERR_LOOT_MASTER_INV_FULL</tabTrigger>
-	<description>563</description>
-	<scope>source.lua</scope>
-</snippet>

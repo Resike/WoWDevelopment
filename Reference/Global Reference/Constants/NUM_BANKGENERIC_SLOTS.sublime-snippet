@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_BANKGENERIC_SLOTS]]></content>
-	<tabTrigger>NUM_BANKGENERIC_SLOTS</tabTrigger>
-	<description>28</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[COMBATLOG_OBJECT_NONE]]></content>
-	<tabTrigger>COMBATLOG_OBJECT_NONE</tabTrigger>
-	<description>2147483648</description>
-	<scope>source.lua</scope>
-</snippet>

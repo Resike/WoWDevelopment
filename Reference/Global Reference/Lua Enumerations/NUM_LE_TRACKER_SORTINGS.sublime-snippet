@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_LE_TRACKER_SORTINGS]]></content>
-	<tabTrigger>NUM_LE_TRACKER_SORTINGS</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

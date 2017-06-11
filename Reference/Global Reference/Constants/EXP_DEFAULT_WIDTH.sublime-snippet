@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EXP_DEFAULT_WIDTH]]></content>
-	<tabTrigger>EXP_DEFAULT_WIDTH</tabTrigger>
-	<description>1024</description>
-	<scope>source.lua</scope>
-</snippet>

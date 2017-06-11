@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TAXI_BUTTON_MIN_DIST]]></content>
-	<tabTrigger>TAXI_BUTTON_MIN_DIST</tabTrigger>
-	<description>18</description>
-	<scope>source.lua</scope>
-</snippet>

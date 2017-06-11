@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[INSTANCE_TYPE_RAID]]></content>
-	<tabTrigger>INSTANCE_TYPE_RAID</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

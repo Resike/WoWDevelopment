@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_QUEST_TAG_TYPE_NORMAL]]></content>
-	<tabTrigger>LE_QUEST_TAG_TYPE_NORMAL</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

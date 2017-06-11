@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_CHAT_THROTTLED]]></content>
-	<tabTrigger>LE_GAME_ERR_CHAT_THROTTLED</tabTrigger>
-	<description>551</description>
-	<scope>source.lua</scope>
-</snippet>

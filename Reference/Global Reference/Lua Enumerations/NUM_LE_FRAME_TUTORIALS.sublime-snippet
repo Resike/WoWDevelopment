@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_LE_FRAME_TUTORIALS]]></content>
-	<tabTrigger>NUM_LE_FRAME_TUTORIALS</tabTrigger>
-	<description>50</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_FRAME_TUTORIAL_TRANSMOG_SETS_TAB]]></content>
-	<tabTrigger>LE_FRAME_TUTORIAL_TRANSMOG_SETS_TAB</tabTrigger>
-	<description>48</description>
-	<scope>source.lua</scope>
-</snippet>

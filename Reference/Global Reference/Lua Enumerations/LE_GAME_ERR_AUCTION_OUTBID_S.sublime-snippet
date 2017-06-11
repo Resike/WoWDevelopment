@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_AUCTION_OUTBID_S]]></content>
-	<tabTrigger>LE_GAME_ERR_AUCTION_OUTBID_S</tabTrigger>
-	<description>446</description>
-	<scope>source.lua</scope>
-</snippet>

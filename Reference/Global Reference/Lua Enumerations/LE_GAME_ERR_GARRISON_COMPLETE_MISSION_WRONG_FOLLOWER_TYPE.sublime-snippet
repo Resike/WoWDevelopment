@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_GARRISON_COMPLETE_MISSION_WRONG_FOLLOWER_TYPE]]></content>
-	<tabTrigger>LE_GAME_ERR_GARRISON_COMPLETE_MISSION_WRONG_FOLLOWER_TYPE</tabTrigger>
-	<description>954</description>
-	<scope>source.lua</scope>
-</snippet>

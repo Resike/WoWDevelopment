@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_LE_AUTHS]]></content>
-	<tabTrigger>NUM_LE_AUTHS</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

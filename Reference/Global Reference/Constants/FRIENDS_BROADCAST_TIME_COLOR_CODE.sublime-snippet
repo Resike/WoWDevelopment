@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FRIENDS_BROADCAST_TIME_COLOR_CODE]]></content>
-	<tabTrigger>FRIENDS_BROADCAST_TIME_COLOR_CODE</tabTrigger>
-	<description>"|cff4381a8"</description>
-	<scope>source.lua</scope>
-</snippet>

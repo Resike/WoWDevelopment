@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_ARENA_TEAM_CHANGE_FAILED_QUEUED]]></content>
-	<tabTrigger>LE_GAME_ERR_ARENA_TEAM_CHANGE_FAILED_QUEUED</tabTrigger>
-	<description>699</description>
-	<scope>source.lua</scope>
-</snippet>

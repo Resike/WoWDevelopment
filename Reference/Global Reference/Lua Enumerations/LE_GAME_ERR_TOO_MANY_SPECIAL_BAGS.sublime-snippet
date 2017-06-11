@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_TOO_MANY_SPECIAL_BAGS]]></content>
-	<tabTrigger>LE_GAME_ERR_TOO_MANY_SPECIAL_BAGS</tabTrigger>
-	<description>17</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_GUILD_BANK_CONJURED_ITEM]]></content>
-	<tabTrigger>LE_GAME_ERR_GUILD_BANK_CONJURED_ITEM</tabTrigger>
-	<description>142</description>
-	<scope>source.lua</scope>
-</snippet>

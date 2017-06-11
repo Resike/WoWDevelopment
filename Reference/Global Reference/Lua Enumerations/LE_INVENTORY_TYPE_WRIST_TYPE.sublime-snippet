@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_INVENTORY_TYPE_WRIST_TYPE]]></content>
-	<tabTrigger>LE_INVENTORY_TYPE_WRIST_TYPE</tabTrigger>
-	<description>9</description>
-	<scope>source.lua</scope>
-</snippet>

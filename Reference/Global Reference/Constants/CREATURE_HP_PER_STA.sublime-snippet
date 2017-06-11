@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CREATURE_HP_PER_STA]]></content>
-	<tabTrigger>CREATURE_HP_PER_STA</tabTrigger>
-	<description>10</description>
-	<scope>source.lua</scope>
-</snippet>

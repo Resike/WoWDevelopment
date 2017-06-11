@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFG_SUBTYPEID_DUNGEON]]></content>
-	<tabTrigger>LFG_SUBTYPEID_DUNGEON</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

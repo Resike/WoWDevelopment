@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EQUINOX_TALENT_SPELL_ID]]></content>
-	<tabTrigger>EQUINOX_TALENT_SPELL_ID</tabTrigger>
-	<description>152220</description>
-	<scope>source.lua</scope>
-</snippet>

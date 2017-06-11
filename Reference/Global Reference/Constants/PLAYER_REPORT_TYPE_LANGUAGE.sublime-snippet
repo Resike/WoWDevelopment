@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PLAYER_REPORT_TYPE_LANGUAGE]]></content>
-	<tabTrigger>PLAYER_REPORT_TYPE_LANGUAGE</tabTrigger>
-	<description>"language"</description>
-	<scope>source.lua</scope>
-</snippet>

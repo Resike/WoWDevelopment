@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACHIEVEMENT_FLAGS_SHOW_GUILD_MEMBERS]]></content>
-	<tabTrigger>ACHIEVEMENT_FLAGS_SHOW_GUILD_MEMBERS</tabTrigger>
-	<description>32768</description>
-	<scope>source.lua</scope>
-</snippet>

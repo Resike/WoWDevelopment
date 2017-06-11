@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_TAXI_ROUTES]]></content>
-	<tabTrigger>NUM_TAXI_ROUTES</tabTrigger>
-	<description>0</description>
-	<scope>source.lua</scope>
-</snippet>

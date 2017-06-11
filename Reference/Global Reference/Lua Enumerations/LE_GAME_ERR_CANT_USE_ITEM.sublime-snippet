@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_CANT_USE_ITEM]]></content>
-	<tabTrigger>LE_GAME_ERR_CANT_USE_ITEM</tabTrigger>
-	<description>186</description>
-	<scope>source.lua</scope>
-</snippet>

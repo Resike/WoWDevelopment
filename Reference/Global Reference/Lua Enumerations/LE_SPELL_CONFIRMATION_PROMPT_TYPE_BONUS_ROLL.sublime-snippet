@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_SPELL_CONFIRMATION_PROMPT_TYPE_BONUS_ROLL]]></content>
-	<tabTrigger>LE_SPELL_CONFIRMATION_PROMPT_TYPE_BONUS_ROLL</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

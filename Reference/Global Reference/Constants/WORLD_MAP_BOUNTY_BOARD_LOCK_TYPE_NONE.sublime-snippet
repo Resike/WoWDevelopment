@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WORLD_MAP_BOUNTY_BOARD_LOCK_TYPE_NONE]]></content>
-	<tabTrigger>WORLD_MAP_BOUNTY_BOARD_LOCK_TYPE_NONE</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_RAID_GROUP_REQUIREMENTS_UNMATCH]]></content>
-	<tabTrigger>LE_GAME_ERR_RAID_GROUP_REQUIREMENTS_UNMATCH</tabTrigger>
-	<description>470</description>
-	<scope>source.lua</scope>
-</snippet>

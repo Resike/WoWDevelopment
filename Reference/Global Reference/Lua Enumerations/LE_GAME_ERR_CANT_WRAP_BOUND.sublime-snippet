@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_CANT_WRAP_BOUND]]></content>
-	<tabTrigger>LE_GAME_ERR_CANT_WRAP_BOUND</tabTrigger>
-	<description>324</description>
-	<scope>source.lua</scope>
-</snippet>

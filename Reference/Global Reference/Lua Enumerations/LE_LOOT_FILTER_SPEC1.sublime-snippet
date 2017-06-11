@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_LOOT_FILTER_SPEC1]]></content>
-	<tabTrigger>LE_LOOT_FILTER_SPEC1</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

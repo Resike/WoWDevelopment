@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_SPELL_FAILED_ALREADY_AT_FULL_HEALTH]]></content>
-	<tabTrigger>LE_GAME_ERR_SPELL_FAILED_ALREADY_AT_FULL_HEALTH</tabTrigger>
-	<description>474</description>
-	<scope>source.lua</scope>
-</snippet>

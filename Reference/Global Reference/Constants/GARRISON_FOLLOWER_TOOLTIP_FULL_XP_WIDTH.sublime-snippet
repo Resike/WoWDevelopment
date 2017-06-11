@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GARRISON_FOLLOWER_TOOLTIP_FULL_XP_WIDTH]]></content>
-	<tabTrigger>GARRISON_FOLLOWER_TOOLTIP_FULL_XP_WIDTH</tabTrigger>
-	<description>180</description>
-	<scope>source.lua</scope>
-</snippet>

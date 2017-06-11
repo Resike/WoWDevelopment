@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CR_ARMOR_PENETRATION]]></content>
-	<tabTrigger>CR_ARMOR_PENETRATION</tabTrigger>
-	<description>25</description>
-	<scope>source.lua</scope>
-</snippet>

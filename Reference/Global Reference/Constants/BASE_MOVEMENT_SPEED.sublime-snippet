@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BASE_MOVEMENT_SPEED]]></content>
-	<tabTrigger>BASE_MOVEMENT_SPEED</tabTrigger>
-	<description>7</description>
-	<scope>source.lua</scope>
-</snippet>

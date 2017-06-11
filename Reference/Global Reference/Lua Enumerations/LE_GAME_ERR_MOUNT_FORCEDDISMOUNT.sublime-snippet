@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_MOUNT_FORCEDDISMOUNT]]></content>
-	<tabTrigger>LE_GAME_ERR_MOUNT_FORCEDDISMOUNT</tabTrigger>
-	<description>346</description>
-	<scope>source.lua</scope>
-</snippet>

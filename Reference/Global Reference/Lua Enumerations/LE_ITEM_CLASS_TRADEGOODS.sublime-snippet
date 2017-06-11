@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_ITEM_CLASS_TRADEGOODS]]></content>
-	<tabTrigger>LE_ITEM_CLASS_TRADEGOODS</tabTrigger>
-	<description>7</description>
-	<scope>source.lua</scope>
-</snippet>

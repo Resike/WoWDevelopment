@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_LOOT_GONE]]></content>
-	<tabTrigger>LE_GAME_ERR_LOOT_GONE</tabTrigger>
-	<description>345</description>
-	<scope>source.lua</scope>
-</snippet>

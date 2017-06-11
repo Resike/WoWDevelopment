@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GARRISON_MODEL_PRELOAD_TIME]]></content>
-	<tabTrigger>GARRISON_MODEL_PRELOAD_TIME</tabTrigger>
-	<description>0.25</description>
-	<scope>source.lua</scope>
-</snippet>

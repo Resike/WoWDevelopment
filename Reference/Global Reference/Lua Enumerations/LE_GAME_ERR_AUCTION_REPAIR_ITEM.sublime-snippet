@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_AUCTION_REPAIR_ITEM]]></content>
-	<tabTrigger>LE_GAME_ERR_AUCTION_REPAIR_ITEM</tabTrigger>
-	<description>441</description>
-	<scope>source.lua</scope>
-</snippet>

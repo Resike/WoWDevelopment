@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_COMMAND_NEEDS_TARGET]]></content>
-	<tabTrigger>LE_GAME_ERR_COMMAND_NEEDS_TARGET</tabTrigger>
-	<description>359</description>
-	<scope>source.lua</scope>
-</snippet>

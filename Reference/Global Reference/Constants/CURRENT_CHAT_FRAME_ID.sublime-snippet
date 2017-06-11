@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CURRENT_CHAT_FRAME_ID]]></content>
-	<tabTrigger>CURRENT_CHAT_FRAME_ID</tabTrigger>
-	<description>10</description>
-	<scope>source.lua</scope>
-</snippet>

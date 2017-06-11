@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_PARTY_CATEGORY_INSTANCE]]></content>
-	<tabTrigger>LE_PARTY_CATEGORY_INSTANCE</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

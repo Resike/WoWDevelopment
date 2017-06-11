@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_GLYPH_WIPE_ERROR]]></content>
-	<tabTrigger>LE_GAME_ERR_GLYPH_WIPE_ERROR</tabTrigger>
-	<description>503</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFG_CATEGORY_NAMES]]></content>
-	<tabTrigger>LFG_CATEGORY_NAMES</tabTrigger>
-	<description></description>
-	<scope>source.lua</scope>
-</snippet>

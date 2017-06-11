@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BN_TOAST_TOP_BUFFER]]></content>
-	<tabTrigger>BN_TOAST_TOP_BUFFER</tabTrigger>
-	<description>20</description>
-	<scope>source.lua</scope>
-</snippet>

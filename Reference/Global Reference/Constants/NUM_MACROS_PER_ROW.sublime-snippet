@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_MACROS_PER_ROW]]></content>
-	<tabTrigger>NUM_MACROS_PER_ROW</tabTrigger>
-	<description>6</description>
-	<scope>source.lua</scope>
-</snippet>

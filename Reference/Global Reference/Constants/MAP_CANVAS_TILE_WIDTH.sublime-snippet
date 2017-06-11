@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAP_CANVAS_TILE_WIDTH]]></content>
-	<tabTrigger>MAP_CANVAS_TILE_WIDTH</tabTrigger>
-	<description>256</description>
-	<scope>source.lua</scope>
-</snippet>

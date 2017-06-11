@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_MOVIE_RECORDING_WARNING_NO_MOVIE]]></content>
-	<tabTrigger>LE_GAME_ERR_MOVIE_RECORDING_WARNING_NO_MOVIE</tabTrigger>
-	<description>973</description>
-	<scope>source.lua</scope>
-</snippet>

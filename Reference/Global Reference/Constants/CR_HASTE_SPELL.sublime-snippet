@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CR_HASTE_SPELL]]></content>
-	<tabTrigger>CR_HASTE_SPELL</tabTrigger>
-	<description>20</description>
-	<scope>source.lua</scope>
-</snippet>

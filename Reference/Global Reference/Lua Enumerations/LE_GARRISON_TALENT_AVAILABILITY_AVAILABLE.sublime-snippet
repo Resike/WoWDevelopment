@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GARRISON_TALENT_AVAILABILITY_AVAILABLE]]></content>
-	<tabTrigger>LE_GARRISON_TALENT_AVAILABILITY_AVAILABLE</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

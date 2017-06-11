@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_SPELL_FAILED_TOTEMS]]></content>
-	<tabTrigger>LE_GAME_ERR_SPELL_FAILED_TOTEMS</tabTrigger>
-	<description>245</description>
-	<scope>source.lua</scope>
-</snippet>

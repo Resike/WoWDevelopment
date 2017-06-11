@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_SHAPESHIFT_FORM_CANNOT_EQUIP]]></content>
-	<tabTrigger>LE_GAME_ERR_SHAPESHIFT_FORM_CANNOT_EQUIP</tabTrigger>
-	<description>658</description>
-	<scope>source.lua</scope>
-</snippet>

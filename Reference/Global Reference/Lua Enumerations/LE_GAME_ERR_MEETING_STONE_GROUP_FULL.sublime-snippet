@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_MEETING_STONE_GROUP_FULL]]></content>
-	<tabTrigger>LE_GAME_ERR_MEETING_STONE_GROUP_FULL</tabTrigger>
-	<description>514</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_SOR_START_EXPERIENCE_INCOMPLETE]]></content>
-	<tabTrigger>LE_GAME_ERR_SOR_START_EXPERIENCE_INCOMPLETE</tabTrigger>
-	<description>864</description>
-	<scope>source.lua</scope>
-</snippet>

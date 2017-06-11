@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[COMBATLOG_OBJECT_MAINASSIST]]></content>
-	<tabTrigger>COMBATLOG_OBJECT_MAINASSIST</tabTrigger>
-	<description>524288</description>
-	<scope>source.lua</scope>
-</snippet>

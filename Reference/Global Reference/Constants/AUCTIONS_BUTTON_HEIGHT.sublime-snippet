@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AUCTIONS_BUTTON_HEIGHT]]></content>
-	<tabTrigger>AUCTIONS_BUTTON_HEIGHT</tabTrigger>
-	<description>37</description>
-	<scope>source.lua</scope>
-</snippet>

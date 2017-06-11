@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_TRANSMOG_COLLECTION_TYPE_HOLDABLE]]></content>
-	<tabTrigger>LE_TRANSMOG_COLLECTION_TYPE_HOLDABLE</tabTrigger>
-	<description>19</description>
-	<scope>source.lua</scope>
-</snippet>

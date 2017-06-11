@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[COMBATLOG_OBJECT_REACTION_NEUTRAL]]></content>
-	<tabTrigger>COMBATLOG_OBJECT_REACTION_NEUTRAL</tabTrigger>
-	<description>32</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TAXIROUTE_LINEFACTOR]]></content>
-	<tabTrigger>TAXIROUTE_LINEFACTOR</tabTrigger>
-	<description>1.06666666666667</description>
-	<scope>source.lua</scope>
-</snippet>

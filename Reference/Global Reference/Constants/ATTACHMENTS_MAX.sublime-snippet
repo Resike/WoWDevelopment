@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ATTACHMENTS_MAX]]></content>
-	<tabTrigger>ATTACHMENTS_MAX</tabTrigger>
-	<description>16</description>
-	<scope>source.lua</scope>
-</snippet>

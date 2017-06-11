@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_BATTLEGROUND_JOIN_XP_GAIN]]></content>
-	<tabTrigger>LE_GAME_ERR_BATTLEGROUND_JOIN_XP_GAIN</tabTrigger>
-	<description>708</description>
-	<scope>source.lua</scope>
-</snippet>

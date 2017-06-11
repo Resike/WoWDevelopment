@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_PETBATTLE_QUEUE_QUEUED]]></content>
-	<tabTrigger>LE_GAME_ERR_PETBATTLE_QUEUE_QUEUED</tabTrigger>
-	<description>901</description>
-	<scope>source.lua</scope>
-</snippet>

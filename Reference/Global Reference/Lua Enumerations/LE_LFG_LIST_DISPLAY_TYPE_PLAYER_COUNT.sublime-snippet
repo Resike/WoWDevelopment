@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_LFG_LIST_DISPLAY_TYPE_PLAYER_COUNT]]></content>
-	<tabTrigger>LE_LFG_LIST_DISPLAY_TYPE_PLAYER_COUNT</tabTrigger>
-	<description>5</description>
-	<scope>source.lua</scope>
-</snippet>

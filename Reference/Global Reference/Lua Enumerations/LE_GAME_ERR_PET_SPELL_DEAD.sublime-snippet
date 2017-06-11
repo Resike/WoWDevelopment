@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_PET_SPELL_DEAD]]></content>
-	<tabTrigger>LE_GAME_ERR_PET_SPELL_DEAD</tabTrigger>
-	<description>395</description>
-	<scope>source.lua</scope>
-</snippet>

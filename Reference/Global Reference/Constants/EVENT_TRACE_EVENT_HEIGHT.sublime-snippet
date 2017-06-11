@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EVENT_TRACE_EVENT_HEIGHT]]></content>
-	<tabTrigger>EVENT_TRACE_EVENT_HEIGHT</tabTrigger>
-	<description>16</description>
-	<scope>source.lua</scope>
-</snippet>

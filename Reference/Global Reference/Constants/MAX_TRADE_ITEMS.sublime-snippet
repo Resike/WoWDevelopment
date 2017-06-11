@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAX_TRADE_ITEMS]]></content>
-	<tabTrigger>MAX_TRADE_ITEMS</tabTrigger>
-	<description>7</description>
-	<scope>source.lua</scope>
-</snippet>

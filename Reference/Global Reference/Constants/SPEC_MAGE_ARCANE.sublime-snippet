@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SPEC_MAGE_ARCANE]]></content>
-	<tabTrigger>SPEC_MAGE_ARCANE</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

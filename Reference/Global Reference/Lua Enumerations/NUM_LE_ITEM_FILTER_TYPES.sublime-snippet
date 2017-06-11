@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_LE_ITEM_FILTER_TYPES]]></content>
-	<tabTrigger>NUM_LE_ITEM_FILTER_TYPES</tabTrigger>
-	<description>31</description>
-	<scope>source.lua</scope>
-</snippet>

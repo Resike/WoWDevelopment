@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAX_RAID_FINDER_COOLDOWN_NAMES]]></content>
-	<tabTrigger>MAX_RAID_FINDER_COOLDOWN_NAMES</tabTrigger>
-	<description>8</description>
-	<scope>source.lua</scope>
-</snippet>

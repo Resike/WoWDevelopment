@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_TAXINOTENOUGHMONEY]]></content>
-	<tabTrigger>LE_GAME_ERR_TAXINOTENOUGHMONEY</tabTrigger>
-	<description>207</description>
-	<scope>source.lua</scope>
-</snippet>

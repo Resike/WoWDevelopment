@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[COMBATLOG_OBJECT_AFFILIATION_OUTSIDER]]></content>
-	<tabTrigger>COMBATLOG_OBJECT_AFFILIATION_OUTSIDER</tabTrigger>
-	<description>8</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_BUG_SUBMITTED_SUCCESSFULLY]]></content>
-	<tabTrigger>LE_GAME_ERR_BUG_SUBMITTED_SUCCESSFULLY</tabTrigger>
-	<description>873</description>
-	<scope>source.lua</scope>
-</snippet>

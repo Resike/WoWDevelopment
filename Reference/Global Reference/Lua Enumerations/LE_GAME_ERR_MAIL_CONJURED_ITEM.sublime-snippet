@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_MAIL_CONJURED_ITEM]]></content>
-	<tabTrigger>LE_GAME_ERR_MAIL_CONJURED_ITEM</tabTrigger>
-	<description>415</description>
-	<scope>source.lua</scope>
-</snippet>

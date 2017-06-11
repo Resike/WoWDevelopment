@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TRANSMOG_INVALID_CODES]]></content>
-	<tabTrigger>TRANSMOG_INVALID_CODES</tabTrigger>
-	<description></description>
-	<scope>source.lua</scope>
-</snippet>

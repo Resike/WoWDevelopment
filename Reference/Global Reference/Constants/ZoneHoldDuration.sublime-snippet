@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ZoneHoldDuration]]></content>
-	<tabTrigger>ZoneHoldDuration</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

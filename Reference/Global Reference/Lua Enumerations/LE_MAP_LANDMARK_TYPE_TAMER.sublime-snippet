@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_MAP_LANDMARK_TYPE_TAMER]]></content>
-	<tabTrigger>LE_MAP_LANDMARK_TYPE_TAMER</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

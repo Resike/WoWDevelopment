@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[REWARDS_WIDTH]]></content>
-	<tabTrigger>REWARDS_WIDTH</tabTrigger>
-	<description>200</description>
-	<scope>source.lua</scope>
-</snippet>

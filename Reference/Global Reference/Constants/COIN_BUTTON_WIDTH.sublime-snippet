@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[COIN_BUTTON_WIDTH]]></content>
-	<tabTrigger>COIN_BUTTON_WIDTH</tabTrigger>
-	<description>32</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SHOW_TALENT_LEVEL]]></content>
-	<tabTrigger>SHOW_TALENT_LEVEL</tabTrigger>
-	<description>15</description>
-	<scope>source.lua</scope>
-</snippet>

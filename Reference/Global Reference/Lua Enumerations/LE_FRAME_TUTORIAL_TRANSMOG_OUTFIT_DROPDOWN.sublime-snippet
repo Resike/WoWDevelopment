@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_FRAME_TUTORIAL_TRANSMOG_OUTFIT_DROPDOWN]]></content>
-	<tabTrigger>LE_FRAME_TUTORIAL_TRANSMOG_OUTFIT_DROPDOWN</tabTrigger>
-	<description>38</description>
-	<scope>source.lua</scope>
-</snippet>

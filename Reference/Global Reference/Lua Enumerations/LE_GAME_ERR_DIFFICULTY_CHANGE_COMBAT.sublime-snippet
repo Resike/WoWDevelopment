@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_DIFFICULTY_CHANGE_COMBAT]]></content>
-	<tabTrigger>LE_GAME_ERR_DIFFICULTY_CHANGE_COMBAT</tabTrigger>
-	<description>787</description>
-	<scope>source.lua</scope>
-</snippet>

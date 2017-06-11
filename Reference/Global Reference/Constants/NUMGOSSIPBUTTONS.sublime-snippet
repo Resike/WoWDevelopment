@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUMGOSSIPBUTTONS]]></content>
-	<tabTrigger>NUMGOSSIPBUTTONS</tabTrigger>
-	<description>32</description>
-	<scope>source.lua</scope>
-</snippet>

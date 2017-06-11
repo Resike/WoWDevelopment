@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_WORLDMAP_OVERLAYS]]></content>
-	<tabTrigger>NUM_WORLDMAP_OVERLAYS</tabTrigger>
-	<description>0</description>
-	<scope>source.lua</scope>
-</snippet>

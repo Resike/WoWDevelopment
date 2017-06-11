@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_FLIGHT_PATH_TYPE_REACHABLE]]></content>
-	<tabTrigger>LE_FLIGHT_PATH_TYPE_REACHABLE</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

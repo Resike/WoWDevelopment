@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CHAT_FRAME_TAB_ALERTING_NOMOUSE_ALPHA]]></content>
-	<tabTrigger>CHAT_FRAME_TAB_ALERTING_NOMOUSE_ALPHA</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

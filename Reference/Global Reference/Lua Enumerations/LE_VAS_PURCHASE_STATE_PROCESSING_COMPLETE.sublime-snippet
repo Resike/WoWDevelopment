@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_VAS_PURCHASE_STATE_PROCESSING_COMPLETE]]></content>
-	<tabTrigger>LE_VAS_PURCHASE_STATE_PROCESSING_COMPLETE</tabTrigger>
-	<description>7</description>
-	<scope>source.lua</scope>
-</snippet>

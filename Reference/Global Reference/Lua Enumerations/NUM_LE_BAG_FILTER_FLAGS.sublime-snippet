@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_LE_BAG_FILTER_FLAGS]]></content>
-	<tabTrigger>NUM_LE_BAG_FILTER_FLAGS</tabTrigger>
-	<description>5</description>
-	<scope>source.lua</scope>
-</snippet>

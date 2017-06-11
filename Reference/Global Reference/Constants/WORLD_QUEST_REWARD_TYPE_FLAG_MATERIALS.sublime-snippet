@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WORLD_QUEST_REWARD_TYPE_FLAG_MATERIALS]]></content>
-	<tabTrigger>WORLD_QUEST_REWARD_TYPE_FLAG_MATERIALS</tabTrigger>
-	<description>8</description>
-	<scope>source.lua</scope>
-</snippet>

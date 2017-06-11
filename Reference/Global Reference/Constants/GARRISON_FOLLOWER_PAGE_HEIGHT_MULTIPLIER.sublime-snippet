@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GARRISON_FOLLOWER_PAGE_HEIGHT_MULTIPLIER]]></content>
-	<tabTrigger>GARRISON_FOLLOWER_PAGE_HEIGHT_MULTIPLIER</tabTrigger>
-	<description>0.65</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_NOT_LEADER]]></content>
-	<tabTrigger>LE_GAME_ERR_NOT_LEADER</tabTrigger>
-	<description>95</description>
-	<scope>source.lua</scope>
-</snippet>

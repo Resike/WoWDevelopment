@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_LE_MODEL_LIGHT_TYPES]]></content>
-	<tabTrigger>NUM_LE_MODEL_LIGHT_TYPES</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

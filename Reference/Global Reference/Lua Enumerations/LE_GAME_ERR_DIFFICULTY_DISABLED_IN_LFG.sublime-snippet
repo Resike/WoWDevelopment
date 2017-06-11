@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_DIFFICULTY_DISABLED_IN_LFG]]></content>
-	<tabTrigger>LE_GAME_ERR_DIFFICULTY_DISABLED_IN_LFG</tabTrigger>
-	<description>856</description>
-	<scope>source.lua</scope>
-</snippet>

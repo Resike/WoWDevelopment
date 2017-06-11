@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_ITEM_CLASS_MISCELLANEOUS]]></content>
-	<tabTrigger>LE_ITEM_CLASS_MISCELLANEOUS</tabTrigger>
-	<description>15</description>
-	<scope>source.lua</scope>
-</snippet>

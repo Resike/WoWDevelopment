@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SOCIAL_IMAGE_FRAME_ASPECT_RATIO]]></content>
-	<tabTrigger>SOCIAL_IMAGE_FRAME_ASPECT_RATIO</tabTrigger>
-	<description>1.6</description>
-	<scope>source.lua</scope>
-</snippet>

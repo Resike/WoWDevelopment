@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[INSTANCE_TYPE_ARENA]]></content>
-	<tabTrigger>INSTANCE_TYPE_ARENA</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

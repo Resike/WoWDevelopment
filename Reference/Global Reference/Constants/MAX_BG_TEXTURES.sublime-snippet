@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAX_BG_TEXTURES]]></content>
-	<tabTrigger>MAX_BG_TEXTURES</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

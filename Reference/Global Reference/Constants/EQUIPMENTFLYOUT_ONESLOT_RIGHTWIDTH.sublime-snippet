@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EQUIPMENTFLYOUT_ONESLOT_RIGHTWIDTH]]></content>
-	<tabTrigger>EQUIPMENTFLYOUT_ONESLOT_RIGHTWIDTH</tabTrigger>
-	<description>24</description>
-	<scope>source.lua</scope>
-</snippet>

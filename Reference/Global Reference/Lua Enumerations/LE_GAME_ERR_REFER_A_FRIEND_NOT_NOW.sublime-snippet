@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_REFER_A_FRIEND_NOT_NOW]]></content>
-	<tabTrigger>LE_GAME_ERR_REFER_A_FRIEND_NOT_NOW</tabTrigger>
-	<description>641</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_GUILDBANK_ICONS_PER_ROW]]></content>
-	<tabTrigger>NUM_GUILDBANK_ICONS_PER_ROW</tabTrigger>
-	<description>10</description>
-	<scope>source.lua</scope>
-</snippet>

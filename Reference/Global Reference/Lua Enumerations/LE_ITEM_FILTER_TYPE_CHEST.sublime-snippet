@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_ITEM_FILTER_TYPE_CHEST]]></content>
-	<tabTrigger>LE_ITEM_FILTER_TYPE_CHEST</tabTrigger>
-	<description>5</description>
-	<scope>source.lua</scope>
-</snippet>

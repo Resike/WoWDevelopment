@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_PET_BATTLE_STATE_FINISHED]]></content>
-	<tabTrigger>LE_PET_BATTLE_STATE_FINISHED</tabTrigger>
-	<description>7</description>
-	<scope>source.lua</scope>
-</snippet>

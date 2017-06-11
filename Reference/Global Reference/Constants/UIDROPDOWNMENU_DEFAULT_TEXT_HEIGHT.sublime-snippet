@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UIDROPDOWNMENU_DEFAULT_TEXT_HEIGHT]]></content>
-	<tabTrigger>UIDROPDOWNMENU_DEFAULT_TEXT_HEIGHT</tabTrigger>
-	<description>10</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_VOID_STORAGE_UNBOUND]]></content>
-	<tabTrigger>LE_GAME_ERR_VOID_STORAGE_UNBOUND</tabTrigger>
-	<description>845</description>
-	<scope>source.lua</scope>
-</snippet>

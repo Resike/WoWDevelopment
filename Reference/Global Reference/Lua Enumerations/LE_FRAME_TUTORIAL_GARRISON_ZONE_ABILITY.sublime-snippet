@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_FRAME_TUTORIAL_GARRISON_ZONE_ABILITY]]></content>
-	<tabTrigger>LE_FRAME_TUTORIAL_GARRISON_ZONE_ABILITY</tabTrigger>
-	<description>13</description>
-	<scope>source.lua</scope>
-</snippet>

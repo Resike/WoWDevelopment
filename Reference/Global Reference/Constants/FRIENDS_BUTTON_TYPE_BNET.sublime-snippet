@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FRIENDS_BUTTON_TYPE_BNET]]></content>
-	<tabTrigger>FRIENDS_BUTTON_TYPE_BNET</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

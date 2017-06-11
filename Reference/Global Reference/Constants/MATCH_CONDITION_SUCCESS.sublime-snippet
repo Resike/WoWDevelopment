@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MATCH_CONDITION_SUCCESS]]></content>
-	<tabTrigger>MATCH_CONDITION_SUCCESS</tabTrigger>
-	<description>57</description>
-	<scope>source.lua</scope>
-</snippet>

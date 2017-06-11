@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_NUM_NORMAL_ACTION_PAGES]]></content>
-	<tabTrigger>LE_NUM_NORMAL_ACTION_PAGES</tabTrigger>
-	<description>6</description>
-	<scope>source.lua</scope>
-</snippet>

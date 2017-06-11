@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFGUILD_PARAM_HEALER]]></content>
-	<tabTrigger>LFGUILD_PARAM_HEALER</tabTrigger>
-	<description>9</description>
-	<scope>source.lua</scope>
-</snippet>

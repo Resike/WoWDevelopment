@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BUFF_HORIZ_SPACING]]></content>
-	<tabTrigger>BUFF_HORIZ_SPACING</tabTrigger>
-	<description>-5</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[COMBAT_TEXT_LOW_HEALTH_THRESHOLD]]></content>
-	<tabTrigger>COMBAT_TEXT_LOW_HEALTH_THRESHOLD</tabTrigger>
-	<description>0.2</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAX_GUILDRANKS]]></content>
-	<tabTrigger>MAX_GUILDRANKS</tabTrigger>
-	<description>10</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_FILTERS_TO_DISPLAY]]></content>
-	<tabTrigger>NUM_FILTERS_TO_DISPLAY</tabTrigger>
-	<description>15</description>
-	<scope>source.lua</scope>
-</snippet>

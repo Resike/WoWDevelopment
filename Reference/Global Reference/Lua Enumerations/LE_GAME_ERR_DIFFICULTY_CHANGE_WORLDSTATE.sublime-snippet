@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_DIFFICULTY_CHANGE_WORLDSTATE]]></content>
-	<tabTrigger>LE_GAME_ERR_DIFFICULTY_CHANGE_WORLDSTATE</tabTrigger>
-	<description>785</description>
-	<scope>source.lua</scope>
-</snippet>

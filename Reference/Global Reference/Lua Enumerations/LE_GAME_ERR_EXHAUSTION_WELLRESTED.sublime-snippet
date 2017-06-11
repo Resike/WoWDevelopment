@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_EXHAUSTION_WELLRESTED]]></content>
-	<tabTrigger>LE_GAME_ERR_EXHAUSTION_WELLRESTED</tabTrigger>
-	<description>405</description>
-	<scope>source.lua</scope>
-</snippet>

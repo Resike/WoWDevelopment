@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BATTLE_PET_ABILITY_CATCH]]></content>
-	<tabTrigger>BATTLE_PET_ABILITY_CATCH</tabTrigger>
-	<description>5</description>
-	<scope>source.lua</scope>
-</snippet>

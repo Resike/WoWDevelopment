@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_GUILDEMBLEM_NOTGUILDMASTER]]></content>
-	<tabTrigger>LE_GAME_ERR_GUILDEMBLEM_NOTGUILDMASTER</tabTrigger>
-	<description>354</description>
-	<scope>source.lua</scope>
-</snippet>

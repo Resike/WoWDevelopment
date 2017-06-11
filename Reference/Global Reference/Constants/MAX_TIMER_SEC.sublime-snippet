@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAX_TIMER_SEC]]></content>
-	<tabTrigger>MAX_TIMER_SEC</tabTrigger>
-	<description>359999</description>
-	<scope>source.lua</scope>
-</snippet>

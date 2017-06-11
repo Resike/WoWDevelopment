@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAX_ADDONS_DISPLAYED]]></content>
-	<tabTrigger>MAX_ADDONS_DISPLAYED</tabTrigger>
-	<description>19</description>
-	<scope>source.lua</scope>
-</snippet>

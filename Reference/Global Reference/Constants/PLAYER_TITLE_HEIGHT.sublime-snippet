@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PLAYER_TITLE_HEIGHT]]></content>
-	<tabTrigger>PLAYER_TITLE_HEIGHT</tabTrigger>
-	<description>22</description>
-	<scope>source.lua</scope>
-</snippet>

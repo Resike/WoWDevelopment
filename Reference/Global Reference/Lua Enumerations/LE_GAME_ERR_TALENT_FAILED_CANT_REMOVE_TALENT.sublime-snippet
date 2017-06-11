@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_TALENT_FAILED_CANT_REMOVE_TALENT]]></content>
-	<tabTrigger>LE_GAME_ERR_TALENT_FAILED_CANT_REMOVE_TALENT</tabTrigger>
-	<description>811</description>
-	<scope>source.lua</scope>
-</snippet>

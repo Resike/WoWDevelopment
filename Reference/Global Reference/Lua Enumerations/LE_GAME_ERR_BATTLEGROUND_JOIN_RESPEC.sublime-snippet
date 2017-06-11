@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_BATTLEGROUND_JOIN_RESPEC]]></content>
-	<tabTrigger>LE_GAME_ERR_BATTLEGROUND_JOIN_RESPEC</tabTrigger>
-	<description>726</description>
-	<scope>source.lua</scope>
-</snippet>

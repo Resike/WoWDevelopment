@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_SORT_BY_NAME]]></content>
-	<tabTrigger>LE_SORT_BY_NAME</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QUESTION_MARK_ICON]]></content>
-	<tabTrigger>QUESTION_MARK_ICON</tabTrigger>
-	<description>"INTERFACE\\ICONS\\INV_MISC_QUESTIONMARK.BLP"</description>
-	<scope>source.lua</scope>
-</snippet>

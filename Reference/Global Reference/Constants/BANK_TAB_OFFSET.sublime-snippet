@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BANK_TAB_OFFSET]]></content>
-	<tabTrigger>BANK_TAB_OFFSET</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

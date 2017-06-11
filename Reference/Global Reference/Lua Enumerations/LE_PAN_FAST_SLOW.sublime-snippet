@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_PAN_FAST_SLOW]]></content>
-	<tabTrigger>LE_PAN_FAST_SLOW</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

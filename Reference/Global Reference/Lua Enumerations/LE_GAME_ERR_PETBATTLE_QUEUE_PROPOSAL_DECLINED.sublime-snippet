@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_PETBATTLE_QUEUE_PROPOSAL_DECLINED]]></content>
-	<tabTrigger>LE_GAME_ERR_PETBATTLE_QUEUE_PROPOSAL_DECLINED</tabTrigger>
-	<description>906</description>
-	<scope>source.lua</scope>
-</snippet>

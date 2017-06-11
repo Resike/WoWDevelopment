@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CAMERA_TRANSITION_TYPE_IMMEDIATE]]></content>
-	<tabTrigger>CAMERA_TRANSITION_TYPE_IMMEDIATE</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

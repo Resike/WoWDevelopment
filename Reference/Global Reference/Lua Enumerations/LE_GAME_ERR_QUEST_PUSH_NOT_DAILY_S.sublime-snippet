@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_QUEST_PUSH_NOT_DAILY_S]]></content>
-	<tabTrigger>LE_GAME_ERR_QUEST_PUSH_NOT_DAILY_S</tabTrigger>
-	<description>462</description>
-	<scope>source.lua</scope>
-</snippet>

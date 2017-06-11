@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFGUILD_PARAM_ANY_LEVEL]]></content>
-	<tabTrigger>LFGUILD_PARAM_ANY_LEVEL</tabTrigger>
-	<description>11</description>
-	<scope>source.lua</scope>
-</snippet>

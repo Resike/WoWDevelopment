@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_QUEST_REWARD_EXP_I]]></content>
-	<tabTrigger>LE_GAME_ERR_QUEST_REWARD_EXP_I</tabTrigger>
-	<description>180</description>
-	<scope>source.lua</scope>
-</snippet>

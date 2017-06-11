@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFG_INSTANCE_INVALID_RAID_LOCKED]]></content>
-	<tabTrigger>LFG_INSTANCE_INVALID_RAID_LOCKED</tabTrigger>
-	<description>6</description>
-	<scope>source.lua</scope>
-</snippet>

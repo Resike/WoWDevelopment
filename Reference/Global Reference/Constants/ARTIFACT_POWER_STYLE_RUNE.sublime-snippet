@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ARTIFACT_POWER_STYLE_RUNE]]></content>
-	<tabTrigger>ARTIFACT_POWER_STYLE_RUNE</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

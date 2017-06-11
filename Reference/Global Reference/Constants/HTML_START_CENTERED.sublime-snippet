@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HTML_START_CENTERED]]></content>
-	<tabTrigger>HTML_START_CENTERED</tabTrigger>
-	<description><![CDATA["<html><body><p align=\"center\">"]]></description>
-	<scope>source.lua</scope>
-</snippet>

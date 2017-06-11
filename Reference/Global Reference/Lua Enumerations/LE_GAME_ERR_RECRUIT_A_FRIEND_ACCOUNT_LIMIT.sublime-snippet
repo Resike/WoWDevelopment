@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_RECRUIT_A_FRIEND_ACCOUNT_LIMIT]]></content>
-	<tabTrigger>LE_GAME_ERR_RECRUIT_A_FRIEND_ACCOUNT_LIMIT</tabTrigger>
-	<description>941</description>
-	<scope>source.lua</scope>
-</snippet>

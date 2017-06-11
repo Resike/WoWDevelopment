@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_SOCKETING_REQUIRES_COGWHEEL_GEM]]></content>
-	<tabTrigger>LE_GAME_ERR_SOCKETING_REQUIRES_COGWHEEL_GEM</tabTrigger>
-	<description>581</description>
-	<scope>source.lua</scope>
-</snippet>

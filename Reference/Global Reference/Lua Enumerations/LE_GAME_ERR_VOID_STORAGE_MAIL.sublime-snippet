@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_VOID_STORAGE_MAIL]]></content>
-	<tabTrigger>LE_GAME_ERR_VOID_STORAGE_MAIL</tabTrigger>
-	<description>850</description>
-	<scope>source.lua</scope>
-</snippet>

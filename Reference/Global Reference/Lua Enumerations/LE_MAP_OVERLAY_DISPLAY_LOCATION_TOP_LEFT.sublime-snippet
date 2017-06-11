@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_MAP_OVERLAY_DISPLAY_LOCATION_TOP_LEFT]]></content>
-	<tabTrigger>LE_MAP_OVERLAY_DISPLAY_LOCATION_TOP_LEFT</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

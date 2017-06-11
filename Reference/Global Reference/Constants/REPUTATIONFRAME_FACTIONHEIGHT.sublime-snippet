@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[REPUTATIONFRAME_FACTIONHEIGHT]]></content>
-	<tabTrigger>REPUTATIONFRAME_FACTIONHEIGHT</tabTrigger>
-	<description>26</description>
-	<scope>source.lua</scope>
-</snippet>

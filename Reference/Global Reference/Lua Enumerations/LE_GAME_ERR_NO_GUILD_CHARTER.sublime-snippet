@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_NO_GUILD_CHARTER]]></content>
-	<tabTrigger>LE_GAME_ERR_NO_GUILD_CHARTER</tabTrigger>
-	<description>149</description>
-	<scope>source.lua</scope>
-</snippet>

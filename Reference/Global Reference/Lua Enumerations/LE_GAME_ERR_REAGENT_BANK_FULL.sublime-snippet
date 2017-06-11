@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_REAGENT_BANK_FULL]]></content>
-	<tabTrigger>LE_GAME_ERR_REAGENT_BANK_FULL</tabTrigger>
-	<description>945</description>
-	<scope>source.lua</scope>
-</snippet>

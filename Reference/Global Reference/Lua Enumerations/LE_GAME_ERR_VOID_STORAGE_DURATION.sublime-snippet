@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_VOID_STORAGE_DURATION]]></content>
-	<tabTrigger>LE_GAME_ERR_VOID_STORAGE_DURATION</tabTrigger>
-	<description>860</description>
-	<scope>source.lua</scope>
-</snippet>

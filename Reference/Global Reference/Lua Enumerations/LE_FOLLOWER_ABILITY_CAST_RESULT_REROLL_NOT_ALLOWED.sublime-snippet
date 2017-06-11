@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_FOLLOWER_ABILITY_CAST_RESULT_REROLL_NOT_ALLOWED]]></content>
-	<tabTrigger>LE_FOLLOWER_ABILITY_CAST_RESULT_REROLL_NOT_ALLOWED</tabTrigger>
-	<description>6</description>
-	<scope>source.lua</scope>
-</snippet>

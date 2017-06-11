@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_TAXIPLAYERBUSY]]></content>
-	<tabTrigger>LE_GAME_ERR_TAXIPLAYERBUSY</tabTrigger>
-	<description>211</description>
-	<scope>source.lua</scope>
-</snippet>

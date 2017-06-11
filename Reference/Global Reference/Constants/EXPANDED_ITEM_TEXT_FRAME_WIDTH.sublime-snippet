@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EXPANDED_ITEM_TEXT_FRAME_WIDTH]]></content>
-	<tabTrigger>EXPANDED_ITEM_TEXT_FRAME_WIDTH</tabTrigger>
-	<description>520</description>
-	<scope>source.lua</scope>
-</snippet>

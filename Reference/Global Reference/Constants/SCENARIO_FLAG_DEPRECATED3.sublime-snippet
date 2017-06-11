@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SCENARIO_FLAG_DEPRECATED3]]></content>
-	<tabTrigger>SCENARIO_FLAG_DEPRECATED3</tabTrigger>
-	<description>8</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAX_LFG_LIST_GROUP_DROPDOWN_ENTRIES]]></content>
-	<tabTrigger>MAX_LFG_LIST_GROUP_DROPDOWN_ENTRIES</tabTrigger>
-	<description>17</description>
-	<scope>source.lua</scope>
-</snippet>

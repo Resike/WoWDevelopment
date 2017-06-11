@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_WORLDMAP_DEBUG_ZONEMAP]]></content>
-	<tabTrigger>NUM_WORLDMAP_DEBUG_ZONEMAP</tabTrigger>
-	<description>0</description>
-	<scope>source.lua</scope>
-</snippet>

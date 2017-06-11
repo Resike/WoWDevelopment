@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FRIENDS_WOW_NAME_COLOR_CODE]]></content>
-	<tabTrigger>FRIENDS_WOW_NAME_COLOR_CODE</tabTrigger>
-	<description>"|cfffde05c"</description>
-	<scope>source.lua</scope>
-</snippet>

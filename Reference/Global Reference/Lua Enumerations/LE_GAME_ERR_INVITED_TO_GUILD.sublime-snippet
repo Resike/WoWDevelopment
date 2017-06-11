@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_INVITED_TO_GUILD]]></content>
-	<tabTrigger>LE_GAME_ERR_INVITED_TO_GUILD</tabTrigger>
-	<description>102</description>
-	<scope>source.lua</scope>
-</snippet>

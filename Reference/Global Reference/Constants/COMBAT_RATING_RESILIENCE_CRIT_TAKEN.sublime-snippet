@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[COMBAT_RATING_RESILIENCE_CRIT_TAKEN]]></content>
-	<tabTrigger>COMBAT_RATING_RESILIENCE_CRIT_TAKEN</tabTrigger>
-	<description>15</description>
-	<scope>source.lua</scope>
-</snippet>

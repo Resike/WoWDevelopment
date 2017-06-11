@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ARTIFACT_ITEM_BASE_Y_ROTATION]]></content>
-	<tabTrigger>ARTIFACT_ITEM_BASE_Y_ROTATION</tabTrigger>
-	<description>0</description>
-	<scope>source.lua</scope>
-</snippet>

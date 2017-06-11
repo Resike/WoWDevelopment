@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_PARTY_ROLE_NOT_AVAILABLE]]></content>
-	<tabTrigger>LE_GAME_ERR_PARTY_ROLE_NOT_AVAILABLE</tabTrigger>
-	<description>692</description>
-	<scope>source.lua</scope>
-</snippet>

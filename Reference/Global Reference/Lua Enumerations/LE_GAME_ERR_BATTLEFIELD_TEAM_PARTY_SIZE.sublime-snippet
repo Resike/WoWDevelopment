@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_BATTLEFIELD_TEAM_PARTY_SIZE]]></content>
-	<tabTrigger>LE_GAME_ERR_BATTLEFIELD_TEAM_PARTY_SIZE</tabTrigger>
-	<description>823</description>
-	<scope>source.lua</scope>
-</snippet>

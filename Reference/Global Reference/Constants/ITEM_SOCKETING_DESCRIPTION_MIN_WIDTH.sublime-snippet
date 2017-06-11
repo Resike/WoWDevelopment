@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ITEM_SOCKETING_DESCRIPTION_MIN_WIDTH]]></content>
-	<tabTrigger>ITEM_SOCKETING_DESCRIPTION_MIN_WIDTH</tabTrigger>
-	<description>240</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_RAID_PULLOUT_FRAMES]]></content>
-	<tabTrigger>NUM_RAID_PULLOUT_FRAMES</tabTrigger>
-	<description>0</description>
-	<scope>source.lua</scope>
-</snippet>

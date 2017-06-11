@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_CANT_STACK]]></content>
-	<tabTrigger>LE_GAME_ERR_CANT_STACK</tabTrigger>
-	<description>24</description>
-	<scope>source.lua</scope>
-</snippet>

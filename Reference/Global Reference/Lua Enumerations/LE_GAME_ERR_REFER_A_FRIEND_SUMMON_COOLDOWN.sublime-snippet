@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_REFER_A_FRIEND_SUMMON_COOLDOWN]]></content>
-	<tabTrigger>LE_GAME_ERR_REFER_A_FRIEND_SUMMON_COOLDOWN</tabTrigger>
-	<description>644</description>
-	<scope>source.lua</scope>
-</snippet>

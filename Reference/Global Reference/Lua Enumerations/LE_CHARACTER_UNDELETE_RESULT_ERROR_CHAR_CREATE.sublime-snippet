@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_CHARACTER_UNDELETE_RESULT_ERROR_CHAR_CREATE]]></content>
-	<tabTrigger>LE_CHARACTER_UNDELETE_RESULT_ERROR_CHAR_CREATE</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

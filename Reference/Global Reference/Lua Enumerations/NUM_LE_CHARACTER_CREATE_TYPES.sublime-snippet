@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_LE_CHARACTER_CREATE_TYPES]]></content>
-	<tabTrigger>NUM_LE_CHARACTER_CREATE_TYPES</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MIRRORTIMER_NUMTIMERS]]></content>
-	<tabTrigger>MIRRORTIMER_NUMTIMERS</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

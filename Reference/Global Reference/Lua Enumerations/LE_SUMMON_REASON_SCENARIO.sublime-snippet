@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_SUMMON_REASON_SCENARIO]]></content>
-	<tabTrigger>LE_SUMMON_REASON_SCENARIO</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

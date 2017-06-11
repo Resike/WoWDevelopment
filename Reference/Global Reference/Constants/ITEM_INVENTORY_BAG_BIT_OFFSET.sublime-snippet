@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ITEM_INVENTORY_BAG_BIT_OFFSET]]></content>
-	<tabTrigger>ITEM_INVENTORY_BAG_BIT_OFFSET</tabTrigger>
-	<description>8</description>
-	<scope>source.lua</scope>
-</snippet>

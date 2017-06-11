@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_CORPSE_IS_NOT_IN_INSTANCE]]></content>
-	<tabTrigger>LE_GAME_ERR_CORPSE_IS_NOT_IN_INSTANCE</tabTrigger>
-	<description>471</description>
-	<scope>source.lua</scope>
-</snippet>

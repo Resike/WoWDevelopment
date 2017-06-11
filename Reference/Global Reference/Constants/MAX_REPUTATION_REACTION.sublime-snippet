@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAX_REPUTATION_REACTION]]></content>
-	<tabTrigger>MAX_REPUTATION_REACTION</tabTrigger>
-	<description>8</description>
-	<scope>source.lua</scope>
-</snippet>

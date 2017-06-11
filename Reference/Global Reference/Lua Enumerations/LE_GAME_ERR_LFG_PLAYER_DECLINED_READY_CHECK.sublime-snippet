@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_LFG_PLAYER_DECLINED_READY_CHECK]]></content>
-	<tabTrigger>LE_GAME_ERR_LFG_PLAYER_DECLINED_READY_CHECK</tabTrigger>
-	<description>766</description>
-	<scope>source.lua</scope>
-</snippet>

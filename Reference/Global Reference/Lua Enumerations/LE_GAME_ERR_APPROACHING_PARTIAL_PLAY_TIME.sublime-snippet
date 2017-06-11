@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_APPROACHING_PARTIAL_PLAY_TIME]]></content>
-	<tabTrigger>LE_GAME_ERR_APPROACHING_PARTIAL_PLAY_TIME</tabTrigger>
-	<description>545</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[STREAMING_CURRENT_STATUS]]></content>
-	<tabTrigger>STREAMING_CURRENT_STATUS</tabTrigger>
-	<description>0</description>
-	<scope>source.lua</scope>
-</snippet>

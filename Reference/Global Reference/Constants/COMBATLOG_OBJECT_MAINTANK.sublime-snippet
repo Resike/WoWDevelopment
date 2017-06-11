@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[COMBATLOG_OBJECT_MAINTANK]]></content>
-	<tabTrigger>COMBATLOG_OBJECT_MAINTANK</tabTrigger>
-	<description>262144</description>
-	<scope>source.lua</scope>
-</snippet>

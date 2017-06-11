@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EQUIPMENTFLYOUT_ONESLOT_HEIGHT]]></content>
-	<tabTrigger>EQUIPMENTFLYOUT_ONESLOT_HEIGHT</tabTrigger>
-	<description>54</description>
-	<scope>source.lua</scope>
-</snippet>

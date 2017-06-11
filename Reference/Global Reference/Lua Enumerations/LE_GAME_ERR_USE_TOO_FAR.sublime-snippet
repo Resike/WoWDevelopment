@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_USE_TOO_FAR]]></content>
-	<tabTrigger>LE_GAME_ERR_USE_TOO_FAR</tabTrigger>
-	<description>262</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_EXHAUSTION_TIRED]]></content>
-	<tabTrigger>LE_GAME_ERR_EXHAUSTION_TIRED</tabTrigger>
-	<description>408</description>
-	<scope>source.lua</scope>
-</snippet>

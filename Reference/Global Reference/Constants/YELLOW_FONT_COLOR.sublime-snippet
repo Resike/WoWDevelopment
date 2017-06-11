@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[YELLOW_FONT_COLOR]]></content>
-	<tabTrigger>YELLOW_FONT_COLOR</tabTrigger>
-	<description>{r=1.0, g=1.0, b=0.0}</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_ITEM_CLASS_WOW_TOKEN]]></content>
-	<tabTrigger>LE_ITEM_CLASS_WOW_TOKEN</tabTrigger>
-	<description>18</description>
-	<scope>source.lua</scope>
-</snippet>

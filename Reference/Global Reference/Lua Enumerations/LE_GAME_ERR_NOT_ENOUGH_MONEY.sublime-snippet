@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_NOT_ENOUGH_MONEY]]></content>
-	<tabTrigger>LE_GAME_ERR_NOT_ENOUGH_MONEY</tabTrigger>
-	<description>42</description>
-	<scope>source.lua</scope>
-</snippet>

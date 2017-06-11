@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_CANNOTCREATEFILE]]></content>
-	<tabTrigger>LE_GAME_ERR_CANNOTCREATEFILE</tabTrigger>
-	<description>289</description>
-	<scope>source.lua</scope>
-</snippet>

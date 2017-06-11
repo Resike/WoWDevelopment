@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WHOS_TO_DISPLAY]]></content>
-	<tabTrigger>WHOS_TO_DISPLAY</tabTrigger>
-	<description>17</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WORLDMAP_MAELSTROM_ID]]></content>
-	<tabTrigger>WORLDMAP_MAELSTROM_ID</tabTrigger>
-	<description>5</description>
-	<scope>source.lua</scope>
-</snippet>

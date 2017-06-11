@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PANEL_INSET_TOP_OFFSET]]></content>
-	<tabTrigger>PANEL_INSET_TOP_OFFSET</tabTrigger>
-	<description>-24</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_PETBATTLE_CREATE_FAILED]]></content>
-	<tabTrigger>LE_GAME_ERR_PETBATTLE_CREATE_FAILED</tabTrigger>
-	<description>876</description>
-	<scope>source.lua</scope>
-</snippet>

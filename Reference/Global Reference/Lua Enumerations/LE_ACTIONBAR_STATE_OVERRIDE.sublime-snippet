@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_ACTIONBAR_STATE_OVERRIDE]]></content>
-	<tabTrigger>LE_ACTIONBAR_STATE_OVERRIDE</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

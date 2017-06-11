@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TRAINER_FILTER_USED]]></content>
-	<tabTrigger>TRAINER_FILTER_USED</tabTrigger>
-	<description>0</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_LE_ITEM_GEMS]]></content>
-	<tabTrigger>NUM_LE_ITEM_GEMS</tabTrigger>
-	<description>12</description>
-	<scope>source.lua</scope>
-</snippet>

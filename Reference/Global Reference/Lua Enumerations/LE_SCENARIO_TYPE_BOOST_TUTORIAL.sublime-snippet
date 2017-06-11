@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_SCENARIO_TYPE_BOOST_TUTORIAL]]></content>
-	<tabTrigger>LE_SCENARIO_TYPE_BOOST_TUTORIAL</tabTrigger>
-	<description>5</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TIMER_TYPE_PVP]]></content>
-	<tabTrigger>TIMER_TYPE_PVP</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

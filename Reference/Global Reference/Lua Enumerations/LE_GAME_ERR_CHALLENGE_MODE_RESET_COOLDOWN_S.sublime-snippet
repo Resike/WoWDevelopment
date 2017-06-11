@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_CHALLENGE_MODE_RESET_COOLDOWN_S]]></content>
-	<tabTrigger>LE_GAME_ERR_CHALLENGE_MODE_RESET_COOLDOWN_S</tabTrigger>
-	<description>867</description>
-	<scope>source.lua</scope>
-</snippet>

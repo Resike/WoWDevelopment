@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PI]]></content>
-	<tabTrigger>PI</tabTrigger>
-	<description>3.14159265358979</description>
-	<scope>source.lua</scope>
-</snippet>

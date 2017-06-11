@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAXIMUM_BID_PRICE]]></content>
-	<tabTrigger>MAXIMUM_BID_PRICE</tabTrigger>
-	<description>99999999999</description>
-	<scope>source.lua</scope>
-</snippet>

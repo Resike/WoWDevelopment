@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OBJECTIVE_DASH_STYLE_HIDE_AND_COLLAPSE]]></content>
-	<tabTrigger>OBJECTIVE_DASH_STYLE_HIDE_AND_COLLAPSE</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

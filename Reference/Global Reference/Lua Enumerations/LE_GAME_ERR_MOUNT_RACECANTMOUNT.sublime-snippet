@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_MOUNT_RACECANTMOUNT]]></content>
-	<tabTrigger>LE_GAME_ERR_MOUNT_RACECANTMOUNT</tabTrigger>
-	<description>239</description>
-	<scope>source.lua</scope>
-</snippet>

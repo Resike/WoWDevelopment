@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_NOAMMO_S]]></content>
-	<tabTrigger>LE_GAME_ERR_NOAMMO_S</tabTrigger>
-	<description>360</description>
-	<scope>source.lua</scope>
-</snippet>

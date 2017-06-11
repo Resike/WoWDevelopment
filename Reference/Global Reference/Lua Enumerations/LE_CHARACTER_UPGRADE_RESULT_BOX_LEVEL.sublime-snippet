@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_CHARACTER_UPGRADE_RESULT_BOX_LEVEL]]></content>
-	<tabTrigger>LE_CHARACTER_UPGRADE_RESULT_BOX_LEVEL</tabTrigger>
-	<description>7</description>
-	<scope>source.lua</scope>
-</snippet>

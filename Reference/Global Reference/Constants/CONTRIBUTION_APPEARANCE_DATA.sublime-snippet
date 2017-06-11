@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CONTRIBUTION_APPEARANCE_DATA]]></content>
-	<tabTrigger>CONTRIBUTION_APPEARANCE_DATA</tabTrigger>
-	<description></description>
-	<scope>source.lua</scope>
-</snippet>

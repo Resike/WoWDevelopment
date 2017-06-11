@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_ZONE_EXPLORED]]></content>
-	<tabTrigger>LE_GAME_ERR_ZONE_EXPLORED</tabTrigger>
-	<description>367</description>
-	<scope>source.lua</scope>
-</snippet>

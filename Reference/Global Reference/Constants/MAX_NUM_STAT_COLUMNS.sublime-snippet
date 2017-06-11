@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAX_NUM_STAT_COLUMNS]]></content>
-	<tabTrigger>MAX_NUM_STAT_COLUMNS</tabTrigger>
-	<description>7</description>
-	<scope>source.lua</scope>
-</snippet>

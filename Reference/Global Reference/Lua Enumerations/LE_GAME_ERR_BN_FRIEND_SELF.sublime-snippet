@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_BN_FRIEND_SELF]]></content>
-	<tabTrigger>LE_GAME_ERR_BN_FRIEND_SELF</tabTrigger>
-	<description>798</description>
-	<scope>source.lua</scope>
-</snippet>

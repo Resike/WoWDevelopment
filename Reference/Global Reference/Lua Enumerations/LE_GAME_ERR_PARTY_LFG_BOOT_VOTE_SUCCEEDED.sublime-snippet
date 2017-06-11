@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_PARTY_LFG_BOOT_VOTE_SUCCEEDED]]></content>
-	<tabTrigger>LE_GAME_ERR_PARTY_LFG_BOOT_VOTE_SUCCEEDED</tabTrigger>
-	<description>682</description>
-	<scope>source.lua</scope>
-</snippet>

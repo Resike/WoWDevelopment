@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_INVENTORY_TYPE_THROWN_TYPE]]></content>
-	<tabTrigger>LE_INVENTORY_TYPE_THROWN_TYPE</tabTrigger>
-	<description>25</description>
-	<scope>source.lua</scope>
-</snippet>

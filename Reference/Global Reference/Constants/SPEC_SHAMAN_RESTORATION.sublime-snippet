@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SPEC_SHAMAN_RESTORATION]]></content>
-	<tabTrigger>SPEC_SHAMAN_RESTORATION</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

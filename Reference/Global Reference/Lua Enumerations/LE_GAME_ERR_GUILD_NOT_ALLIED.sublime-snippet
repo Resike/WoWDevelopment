@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_GUILD_NOT_ALLIED]]></content>
-	<tabTrigger>LE_GAME_ERR_GUILD_NOT_ALLIED</tabTrigger>
-	<description>132</description>
-	<scope>source.lua</scope>
-</snippet>

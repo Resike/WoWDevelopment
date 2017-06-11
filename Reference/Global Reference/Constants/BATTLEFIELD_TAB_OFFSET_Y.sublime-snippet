@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BATTLEFIELD_TAB_OFFSET_Y]]></content>
-	<tabTrigger>BATTLEFIELD_TAB_OFFSET_Y</tabTrigger>
-	<description>210</description>
-	<scope>source.lua</scope>
-</snippet>

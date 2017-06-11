@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UIDROPDOWNMENU_BORDER_HEIGHT]]></content>
-	<tabTrigger>UIDROPDOWNMENU_BORDER_HEIGHT</tabTrigger>
-	<description>15</description>
-	<scope>source.lua</scope>
-</snippet>

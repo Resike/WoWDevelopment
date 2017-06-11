@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_SPECIFY_MASTER_LOOTER]]></content>
-	<tabTrigger>LE_GAME_ERR_SPECIFY_MASTER_LOOTER</tabTrigger>
-	<description>273</description>
-	<scope>source.lua</scope>
-</snippet>

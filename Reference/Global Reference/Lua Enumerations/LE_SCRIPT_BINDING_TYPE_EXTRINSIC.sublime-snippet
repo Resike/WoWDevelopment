@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_SCRIPT_BINDING_TYPE_EXTRINSIC]]></content>
-	<tabTrigger>LE_SCRIPT_BINDING_TYPE_EXTRINSIC</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

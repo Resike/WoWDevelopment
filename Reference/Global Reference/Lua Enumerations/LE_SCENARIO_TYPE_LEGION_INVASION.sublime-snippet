@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_SCENARIO_TYPE_LEGION_INVASION]]></content>
-	<tabTrigger>LE_SCENARIO_TYPE_LEGION_INVASION</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

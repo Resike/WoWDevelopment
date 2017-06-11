@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_TICKET_NO_TEXT]]></content>
-	<tabTrigger>LE_GAME_ERR_TICKET_NO_TEXT</tabTrigger>
-	<description>402</description>
-	<scope>source.lua</scope>
-</snippet>

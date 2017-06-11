@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_ITEM_RECIPE_FISHING]]></content>
-	<tabTrigger>LE_ITEM_RECIPE_FISHING</tabTrigger>
-	<description>9</description>
-	<scope>source.lua</scope>
-</snippet>

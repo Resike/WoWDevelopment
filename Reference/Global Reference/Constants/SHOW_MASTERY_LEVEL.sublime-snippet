@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SHOW_MASTERY_LEVEL]]></content>
-	<tabTrigger>SHOW_MASTERY_LEVEL</tabTrigger>
-	<description>78</description>
-	<scope>source.lua</scope>
-</snippet>

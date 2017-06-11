@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FRIENDS_BUTTON_TYPE_INVITE]]></content>
-	<tabTrigger>FRIENDS_BUTTON_TYPE_INVITE</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SOCIAL_IMAGE_FRAME_MIN_WIDTH]]></content>
-	<tabTrigger>SOCIAL_IMAGE_FRAME_MIN_WIDTH</tabTrigger>
-	<description>354</description>
-	<scope>source.lua</scope>
-</snippet>

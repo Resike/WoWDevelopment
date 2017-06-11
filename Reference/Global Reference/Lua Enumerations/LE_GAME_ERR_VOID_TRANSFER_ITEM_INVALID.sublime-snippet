@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_VOID_TRANSFER_ITEM_INVALID]]></content>
-	<tabTrigger>LE_GAME_ERR_VOID_TRANSFER_ITEM_INVALID</tabTrigger>
-	<description>855</description>
-	<scope>source.lua</scope>
-</snippet>

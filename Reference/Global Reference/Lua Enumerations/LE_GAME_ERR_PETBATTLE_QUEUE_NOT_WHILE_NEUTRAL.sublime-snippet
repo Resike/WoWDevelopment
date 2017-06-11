@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_PETBATTLE_QUEUE_NOT_WHILE_NEUTRAL]]></content>
-	<tabTrigger>LE_GAME_ERR_PETBATTLE_QUEUE_NOT_WHILE_NEUTRAL</tabTrigger>
-	<description>919</description>
-	<scope>source.lua</scope>
-</snippet>

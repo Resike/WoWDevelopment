@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_OVERRIDE_BUTTONS]]></content>
-	<tabTrigger>NUM_OVERRIDE_BUTTONS</tabTrigger>
-	<description>6</description>
-	<scope>source.lua</scope>
-</snippet>

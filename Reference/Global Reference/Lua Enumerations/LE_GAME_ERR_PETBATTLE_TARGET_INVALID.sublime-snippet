@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_PETBATTLE_TARGET_INVALID]]></content>
-	<tabTrigger>LE_GAME_ERR_PETBATTLE_TARGET_INVALID</tabTrigger>
-	<description>884</description>
-	<scope>source.lua</scope>
-</snippet>

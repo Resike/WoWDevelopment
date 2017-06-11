@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_WORLD_ELAPSED_TIMER_TYPE_CHALLENGE_MODE]]></content>
-	<tabTrigger>LE_WORLD_ELAPSED_TIMER_TYPE_CHALLENGE_MODE</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

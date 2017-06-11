@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAX_TALENT_TABS]]></content>
-	<tabTrigger>MAX_TALENT_TABS</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

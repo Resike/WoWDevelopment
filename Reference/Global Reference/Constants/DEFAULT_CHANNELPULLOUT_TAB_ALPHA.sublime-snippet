@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DEFAULT_CHANNELPULLOUT_TAB_ALPHA]]></content>
-	<tabTrigger>DEFAULT_CHANNELPULLOUT_TAB_ALPHA</tabTrigger>
-	<description>0.75</description>
-	<scope>source.lua</scope>
-</snippet>

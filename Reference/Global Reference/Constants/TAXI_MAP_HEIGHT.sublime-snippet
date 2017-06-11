@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TAXI_MAP_HEIGHT]]></content>
-	<tabTrigger>TAXI_MAP_HEIGHT</tabTrigger>
-	<description>580</description>
-	<scope>source.lua</scope>
-</snippet>

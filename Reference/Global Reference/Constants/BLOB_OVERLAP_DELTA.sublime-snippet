@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BLOB_OVERLAP_DELTA]]></content>
-	<tabTrigger>BLOB_OVERLAP_DELTA</tabTrigger>
-	<description>2.50e-005</description>
-	<scope>source.lua</scope>
-</snippet>

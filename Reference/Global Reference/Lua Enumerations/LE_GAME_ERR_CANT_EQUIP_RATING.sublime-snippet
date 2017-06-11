@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_CANT_EQUIP_RATING]]></content>
-	<tabTrigger>LE_GAME_ERR_CANT_EQUIP_RATING</tabTrigger>
-	<description>8</description>
-	<scope>source.lua</scope>
-</snippet>

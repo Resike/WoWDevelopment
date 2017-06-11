@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_FRAME_TUTORIAL_GARRISON_MISSION_PAGE]]></content>
-	<tabTrigger>LE_FRAME_TUTORIAL_GARRISON_MISSION_PAGE</tabTrigger>
-	<description>11</description>
-	<scope>source.lua</scope>
-</snippet>

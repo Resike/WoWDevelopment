@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_ONLY_ONE_BOLT]]></content>
-	<tabTrigger>LE_GAME_ERR_ONLY_ONE_BOLT</tabTrigger>
-	<description>317</description>
-	<scope>source.lua</scope>
-</snippet>

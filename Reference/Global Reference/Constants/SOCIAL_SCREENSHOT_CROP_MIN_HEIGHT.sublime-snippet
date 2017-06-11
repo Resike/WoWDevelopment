@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SOCIAL_SCREENSHOT_CROP_MIN_HEIGHT]]></content>
-	<tabTrigger>SOCIAL_SCREENSHOT_CROP_MIN_HEIGHT</tabTrigger>
-	<description>100</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_TOO_FAR_TO_INTERACT]]></content>
-	<tabTrigger>LE_GAME_ERR_TOO_FAR_TO_INTERACT</tabTrigger>
-	<description>781</description>
-	<scope>source.lua</scope>
-</snippet>

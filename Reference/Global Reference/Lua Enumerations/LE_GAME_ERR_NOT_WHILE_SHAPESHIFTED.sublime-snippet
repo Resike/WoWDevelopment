@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_NOT_WHILE_SHAPESHIFTED]]></content>
-	<tabTrigger>LE_GAME_ERR_NOT_WHILE_SHAPESHIFTED</tabTrigger>
-	<description>497</description>
-	<scope>source.lua</scope>
-</snippet>

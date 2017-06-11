@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_TRANSMOG_COLLECTION_TYPE_LEGS]]></content>
-	<tabTrigger>LE_TRANSMOG_COLLECTION_TYPE_LEGS</tabTrigger>
-	<description>10</description>
-	<scope>source.lua</scope>
-</snippet>

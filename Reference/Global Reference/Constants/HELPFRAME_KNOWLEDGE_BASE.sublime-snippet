@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HELPFRAME_KNOWLEDGE_BASE]]></content>
-	<tabTrigger>HELPFRAME_KNOWLEDGE_BASE</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

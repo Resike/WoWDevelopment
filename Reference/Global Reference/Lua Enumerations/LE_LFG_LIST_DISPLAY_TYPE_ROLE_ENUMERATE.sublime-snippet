@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_LFG_LIST_DISPLAY_TYPE_ROLE_ENUMERATE]]></content>
-	<tabTrigger>LE_LFG_LIST_DISPLAY_TYPE_ROLE_ENUMERATE</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

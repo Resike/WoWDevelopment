@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODELFRAME_ZOOM_STEP]]></content>
-	<tabTrigger>MODELFRAME_ZOOM_STEP</tabTrigger>
-	<description>0.15</description>
-	<scope>source.lua</scope>
-</snippet>

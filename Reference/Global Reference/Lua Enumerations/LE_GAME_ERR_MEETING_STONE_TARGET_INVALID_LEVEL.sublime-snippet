@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_MEETING_STONE_TARGET_INVALID_LEVEL]]></content>
-	<tabTrigger>LE_GAME_ERR_MEETING_STONE_TARGET_INVALID_LEVEL</tabTrigger>
-	<description>518</description>
-	<scope>source.lua</scope>
-</snippet>

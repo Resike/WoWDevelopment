@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[STAGGER_YELLOW_INDEX]]></content>
-	<tabTrigger>STAGGER_YELLOW_INDEX</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

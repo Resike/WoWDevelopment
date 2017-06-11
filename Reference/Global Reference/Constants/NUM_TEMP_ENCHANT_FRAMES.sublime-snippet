@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_TEMP_ENCHANT_FRAMES]]></content>
-	<tabTrigger>NUM_TEMP_ENCHANT_FRAMES</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

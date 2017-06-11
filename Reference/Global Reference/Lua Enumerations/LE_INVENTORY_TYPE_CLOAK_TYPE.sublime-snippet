@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_INVENTORY_TYPE_CLOAK_TYPE]]></content>
-	<tabTrigger>LE_INVENTORY_TYPE_CLOAK_TYPE</tabTrigger>
-	<description>16</description>
-	<scope>source.lua</scope>
-</snippet>

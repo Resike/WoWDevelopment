@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FRIENDS_BNET_BACKGROUND_COLOR]]></content>
-	<tabTrigger>FRIENDS_BNET_BACKGROUND_COLOR</tabTrigger>
-	<description>{r=0, g=0.694, b=0.941, a=0.05}</description>
-	<scope>source.lua</scope>
-</snippet>

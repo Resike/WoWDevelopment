@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFG_INSTANCE_INVALID_WRONG_FACTION]]></content>
-	<tabTrigger>LFG_INSTANCE_INVALID_WRONG_FACTION</tabTrigger>
-	<description>10</description>
-	<scope>source.lua</scope>
-</snippet>

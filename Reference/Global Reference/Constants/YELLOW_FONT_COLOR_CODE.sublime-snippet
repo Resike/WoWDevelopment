@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[YELLOW_FONT_COLOR_CODE]]></content>
-	<tabTrigger>YELLOW_FONT_COLOR_CODE</tabTrigger>
-	<description>"|cffffff00"</description>
-	<scope>source.lua</scope>
-</snippet>

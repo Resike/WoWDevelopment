@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[REAGENTBANK_CONTAINER]]></content>
-	<tabTrigger>REAGENTBANK_CONTAINER</tabTrigger>
-	<description>-3</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_INVENTORY_TYPE_FINGER_TYPE]]></content>
-	<tabTrigger>LE_INVENTORY_TYPE_FINGER_TYPE</tabTrigger>
-	<description>11</description>
-	<scope>source.lua</scope>
-</snippet>

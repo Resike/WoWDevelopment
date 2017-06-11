@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_LFG_GET_INFO_TIMEOUT]]></content>
-	<tabTrigger>LE_GAME_ERR_LFG_GET_INFO_TIMEOUT</tabTrigger>
-	<description>749</description>
-	<scope>source.lua</scope>
-</snippet>

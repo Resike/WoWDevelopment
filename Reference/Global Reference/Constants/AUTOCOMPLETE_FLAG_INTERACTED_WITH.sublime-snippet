@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AUTOCOMPLETE_FLAG_INTERACTED_WITH]]></content>
-	<tabTrigger>AUTOCOMPLETE_FLAG_INTERACTED_WITH</tabTrigger>
-	<description>16</description>
-	<scope>source.lua</scope>
-</snippet>

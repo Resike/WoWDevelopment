@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_VOID_STORAGE_UNIQUE]]></content>
-	<tabTrigger>LE_GAME_ERR_VOID_STORAGE_UNIQUE</tabTrigger>
-	<description>857</description>
-	<scope>source.lua</scope>
-</snippet>

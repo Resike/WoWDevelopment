@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_AUTOCOMPLETE_PRIORITY_ACCOUNT_CHARACTER]]></content>
-	<tabTrigger>LE_AUTOCOMPLETE_PRIORITY_ACCOUNT_CHARACTER</tabTrigger>
-	<description>6</description>
-	<scope>source.lua</scope>
-</snippet>

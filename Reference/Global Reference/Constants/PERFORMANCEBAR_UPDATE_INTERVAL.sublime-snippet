@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PERFORMANCEBAR_UPDATE_INTERVAL]]></content>
-	<tabTrigger>PERFORMANCEBAR_UPDATE_INTERVAL</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

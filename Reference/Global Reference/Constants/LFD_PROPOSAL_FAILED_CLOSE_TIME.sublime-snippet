@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFD_PROPOSAL_FAILED_CLOSE_TIME]]></content>
-	<tabTrigger>LFD_PROPOSAL_FAILED_CLOSE_TIME</tabTrigger>
-	<description>5</description>
-	<scope>source.lua</scope>
-</snippet>

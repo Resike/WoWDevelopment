@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[COMBAT_RATING_RESILIENCE_PLAYER_DAMAGE_TAKEN]]></content>
-	<tabTrigger>COMBAT_RATING_RESILIENCE_PLAYER_DAMAGE_TAKEN</tabTrigger>
-	<description>16</description>
-	<scope>source.lua</scope>
-</snippet>

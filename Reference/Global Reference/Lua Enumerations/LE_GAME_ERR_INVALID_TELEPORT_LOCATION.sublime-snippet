@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_INVALID_TELEPORT_LOCATION]]></content>
-	<tabTrigger>LE_GAME_ERR_INVALID_TELEPORT_LOCATION</tabTrigger>
-	<description>780</description>
-	<scope>source.lua</scope>
-</snippet>

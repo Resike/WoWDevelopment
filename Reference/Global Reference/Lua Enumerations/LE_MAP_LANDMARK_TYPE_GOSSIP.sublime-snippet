@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_MAP_LANDMARK_TYPE_GOSSIP]]></content>
-	<tabTrigger>LE_MAP_LANDMARK_TYPE_GOSSIP</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

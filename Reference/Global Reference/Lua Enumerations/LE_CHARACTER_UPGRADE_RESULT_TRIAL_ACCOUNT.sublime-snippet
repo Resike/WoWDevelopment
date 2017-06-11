@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_CHARACTER_UPGRADE_RESULT_TRIAL_ACCOUNT]]></content>
-	<tabTrigger>LE_CHARACTER_UPGRADE_RESULT_TRIAL_ACCOUNT</tabTrigger>
-	<description>9</description>
-	<scope>source.lua</scope>
-</snippet>

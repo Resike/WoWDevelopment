@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DEVTOOLS_MAX_ENTRY_CUTOFF]]></content>
-	<tabTrigger>DEVTOOLS_MAX_ENTRY_CUTOFF</tabTrigger>
-	<description>30</description>
-	<scope>source.lua</scope>
-</snippet>

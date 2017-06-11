@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SCENARIO_FLAG_SUPRESS_STAGE_TEXT]]></content>
-	<tabTrigger>SCENARIO_FLAG_SUPRESS_STAGE_TEXT</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

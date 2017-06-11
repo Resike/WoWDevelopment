@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[STYLE_NUM_CUSTOM_DISPLAY]]></content>
-	<tabTrigger>STYLE_NUM_CUSTOM_DISPLAY</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

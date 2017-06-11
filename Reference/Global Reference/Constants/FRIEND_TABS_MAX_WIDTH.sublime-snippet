@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FRIEND_TABS_MAX_WIDTH]]></content>
-	<tabTrigger>FRIEND_TABS_MAX_WIDTH</tabTrigger>
-	<description>280</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_WORLD_QUEST_QUALITY_COMMON]]></content>
-	<tabTrigger>LE_WORLD_QUEST_QUALITY_COMMON</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_MAP_LANDMARK_TYPE_DIGSITE]]></content>
-	<tabTrigger>LE_MAP_LANDMARK_TYPE_DIGSITE</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

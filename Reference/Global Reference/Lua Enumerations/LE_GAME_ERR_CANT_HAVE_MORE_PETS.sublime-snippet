@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_CANT_HAVE_MORE_PETS]]></content>
-	<tabTrigger>LE_GAME_ERR_CANT_HAVE_MORE_PETS</tabTrigger>
-	<description>898</description>
-	<scope>source.lua</scope>
-</snippet>

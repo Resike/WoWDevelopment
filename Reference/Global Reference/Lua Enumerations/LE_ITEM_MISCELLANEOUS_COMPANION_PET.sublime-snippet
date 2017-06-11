@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_ITEM_MISCELLANEOUS_COMPANION_PET]]></content>
-	<tabTrigger>LE_ITEM_MISCELLANEOUS_COMPANION_PET</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

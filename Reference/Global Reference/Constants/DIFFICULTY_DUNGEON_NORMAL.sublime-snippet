@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DIFFICULTY_DUNGEON_NORMAL]]></content>
-	<tabTrigger>DIFFICULTY_DUNGEON_NORMAL</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

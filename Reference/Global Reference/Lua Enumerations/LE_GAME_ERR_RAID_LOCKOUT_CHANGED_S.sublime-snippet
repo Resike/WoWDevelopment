@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_RAID_LOCKOUT_CHANGED_S]]></content>
-	<tabTrigger>LE_GAME_ERR_RAID_LOCKOUT_CHANGED_S</tabTrigger>
-	<description>716</description>
-	<scope>source.lua</scope>
-</snippet>

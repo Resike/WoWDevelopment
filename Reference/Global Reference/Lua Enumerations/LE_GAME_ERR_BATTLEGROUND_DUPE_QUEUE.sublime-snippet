@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_BATTLEGROUND_DUPE_QUEUE]]></content>
-	<tabTrigger>LE_GAME_ERR_BATTLEGROUND_DUPE_QUEUE</tabTrigger>
-	<description>729</description>
-	<scope>source.lua</scope>
-</snippet>

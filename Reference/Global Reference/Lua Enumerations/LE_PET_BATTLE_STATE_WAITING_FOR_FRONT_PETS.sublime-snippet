@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_PET_BATTLE_STATE_WAITING_FOR_FRONT_PETS]]></content>
-	<tabTrigger>LE_PET_BATTLE_STATE_WAITING_FOR_FRONT_PETS</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

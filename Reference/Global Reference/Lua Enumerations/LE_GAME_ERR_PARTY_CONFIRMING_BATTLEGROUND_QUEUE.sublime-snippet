@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_PARTY_CONFIRMING_BATTLEGROUND_QUEUE]]></content>
-	<tabTrigger>LE_GAME_ERR_PARTY_CONFIRMING_BATTLEGROUND_QUEUE</tabTrigger>
-	<description>822</description>
-	<scope>source.lua</scope>
-</snippet>

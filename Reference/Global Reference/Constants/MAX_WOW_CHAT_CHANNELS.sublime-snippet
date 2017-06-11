@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAX_WOW_CHAT_CHANNELS]]></content>
-	<tabTrigger>MAX_WOW_CHAT_CHANNELS</tabTrigger>
-	<description>10</description>
-	<scope>source.lua</scope>
-</snippet>

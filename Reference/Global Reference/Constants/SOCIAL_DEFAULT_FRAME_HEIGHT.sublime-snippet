@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SOCIAL_DEFAULT_FRAME_HEIGHT]]></content>
-	<tabTrigger>SOCIAL_DEFAULT_FRAME_HEIGHT</tabTrigger>
-	<description>190</description>
-	<scope>source.lua</scope>
-</snippet>

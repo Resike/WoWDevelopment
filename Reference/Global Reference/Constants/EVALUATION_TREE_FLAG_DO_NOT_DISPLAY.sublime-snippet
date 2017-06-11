@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EVALUATION_TREE_FLAG_DO_NOT_DISPLAY]]></content>
-	<tabTrigger>EVALUATION_TREE_FLAG_DO_NOT_DISPLAY</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

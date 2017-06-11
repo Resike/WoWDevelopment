@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_ITEM_LOCKED]]></content>
-	<tabTrigger>LE_GAME_ERR_ITEM_LOCKED</tabTrigger>
-	<description>35</description>
-	<scope>source.lua</scope>
-</snippet>

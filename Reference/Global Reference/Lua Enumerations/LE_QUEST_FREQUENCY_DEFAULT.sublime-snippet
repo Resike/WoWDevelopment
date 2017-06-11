@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_QUEST_FREQUENCY_DEFAULT]]></content>
-	<tabTrigger>LE_QUEST_FREQUENCY_DEFAULT</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

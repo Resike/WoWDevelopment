@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_GUILD_REMOVE_SS]]></content>
-	<tabTrigger>LE_GAME_ERR_GUILD_REMOVE_SS</tabTrigger>
-	<description>116</description>
-	<scope>source.lua</scope>
-</snippet>

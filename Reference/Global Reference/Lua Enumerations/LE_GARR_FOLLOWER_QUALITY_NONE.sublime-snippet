@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GARR_FOLLOWER_QUALITY_NONE]]></content>
-	<tabTrigger>LE_GARR_FOLLOWER_QUALITY_NONE</tabTrigger>
-	<description>0</description>
-	<scope>source.lua</scope>
-</snippet>

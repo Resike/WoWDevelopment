@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_DEATH_RECAP_EVENTS]]></content>
-	<tabTrigger>NUM_DEATH_RECAP_EVENTS</tabTrigger>
-	<description>5</description>
-	<scope>source.lua</scope>
-</snippet>

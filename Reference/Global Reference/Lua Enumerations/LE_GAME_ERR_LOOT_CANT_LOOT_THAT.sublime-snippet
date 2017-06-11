@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_LOOT_CANT_LOOT_THAT]]></content>
-	<tabTrigger>LE_GAME_ERR_LOOT_CANT_LOOT_THAT</tabTrigger>
-	<description>619</description>
-	<scope>source.lua</scope>
-</snippet>

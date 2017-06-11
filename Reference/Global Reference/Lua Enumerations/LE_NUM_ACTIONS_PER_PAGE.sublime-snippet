@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_NUM_ACTIONS_PER_PAGE]]></content>
-	<tabTrigger>LE_NUM_ACTIONS_PER_PAGE</tabTrigger>
-	<description>12</description>
-	<scope>source.lua</scope>
-</snippet>

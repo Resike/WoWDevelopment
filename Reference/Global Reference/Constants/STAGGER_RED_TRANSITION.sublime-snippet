@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[STAGGER_RED_TRANSITION]]></content>
-	<tabTrigger>STAGGER_RED_TRANSITION</tabTrigger>
-	<description>0.6</description>
-	<scope>source.lua</scope>
-</snippet>

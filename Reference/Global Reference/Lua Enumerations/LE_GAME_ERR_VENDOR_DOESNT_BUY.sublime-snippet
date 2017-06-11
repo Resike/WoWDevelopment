@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_VENDOR_DOESNT_BUY]]></content>
-	<tabTrigger>LE_GAME_ERR_VENDOR_DOESNT_BUY</tabTrigger>
-	<description>41</description>
-	<scope>source.lua</scope>
-</snippet>

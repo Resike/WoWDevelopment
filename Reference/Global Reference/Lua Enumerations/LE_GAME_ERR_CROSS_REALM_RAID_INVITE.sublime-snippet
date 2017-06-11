@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_CROSS_REALM_RAID_INVITE]]></content>
-	<tabTrigger>LE_GAME_ERR_CROSS_REALM_RAID_INVITE</tabTrigger>
-	<description>77</description>
-	<scope>source.lua</scope>
-</snippet>

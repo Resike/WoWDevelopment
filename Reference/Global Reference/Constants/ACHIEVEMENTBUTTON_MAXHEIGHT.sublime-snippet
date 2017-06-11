@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACHIEVEMENTBUTTON_MAXHEIGHT]]></content>
-	<tabTrigger>ACHIEVEMENTBUTTON_MAXHEIGHT</tabTrigger>
-	<description>232</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EFITEM_YOFFSET]]></content>
-	<tabTrigger>EFITEM_YOFFSET</tabTrigger>
-	<description>-5</description>
-	<scope>source.lua</scope>
-</snippet>

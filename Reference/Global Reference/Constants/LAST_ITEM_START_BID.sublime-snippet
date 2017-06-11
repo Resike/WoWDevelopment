@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LAST_ITEM_START_BID]]></content>
-	<tabTrigger>LAST_ITEM_START_BID</tabTrigger>
-	<description>0</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BN_TOAST_BOTTOM_OFFSET]]></content>
-	<tabTrigger>BN_TOAST_BOTTOM_OFFSET</tabTrigger>
-	<description>-12</description>
-	<scope>source.lua</scope>
-</snippet>

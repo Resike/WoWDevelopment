@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[INVSLOT_WAIST]]></content>
-	<tabTrigger>INVSLOT_WAIST</tabTrigger>
-	<description>6</description>
-	<scope>source.lua</scope>
-</snippet>

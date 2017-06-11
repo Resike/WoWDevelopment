@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[COMBATLOG_OBJECT_REACTION_HOSTILE]]></content>
-	<tabTrigger>COMBATLOG_OBJECT_REACTION_HOSTILE</tabTrigger>
-	<description>64</description>
-	<scope>source.lua</scope>
-</snippet>

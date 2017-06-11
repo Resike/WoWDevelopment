@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAX_PARTY_DEBUFFS]]></content>
-	<tabTrigger>MAX_PARTY_DEBUFFS</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

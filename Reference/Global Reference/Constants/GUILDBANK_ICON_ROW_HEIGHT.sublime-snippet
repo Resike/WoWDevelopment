@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILDBANK_ICON_ROW_HEIGHT]]></content>
-	<tabTrigger>GUILDBANK_ICON_ROW_HEIGHT</tabTrigger>
-	<description>36</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_LOOT_BAD_FACING]]></content>
-	<tabTrigger>LE_GAME_ERR_LOOT_BAD_FACING</tabTrigger>
-	<description>157</description>
-	<scope>source.lua</scope>
-</snippet>

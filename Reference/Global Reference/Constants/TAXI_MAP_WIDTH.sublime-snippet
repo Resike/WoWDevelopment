@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TAXI_MAP_WIDTH]]></content>
-	<tabTrigger>TAXI_MAP_WIDTH</tabTrigger>
-	<description>580</description>
-	<scope>source.lua</scope>
-</snippet>

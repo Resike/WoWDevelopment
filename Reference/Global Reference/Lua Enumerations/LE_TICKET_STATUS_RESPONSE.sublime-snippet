@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_TICKET_STATUS_RESPONSE]]></content>
-	<tabTrigger>LE_TICKET_STATUS_RESPONSE</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

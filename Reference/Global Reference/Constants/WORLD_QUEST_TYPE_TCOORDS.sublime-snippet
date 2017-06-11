@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WORLD_QUEST_TYPE_TCOORDS]]></content>
-	<tabTrigger>WORLD_QUEST_TYPE_TCOORDS</tabTrigger>
-	<description></description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[COMBATFEEDBACK_FADEINTIME]]></content>
-	<tabTrigger>COMBATFEEDBACK_FADEINTIME</tabTrigger>
-	<description>0.2</description>
-	<scope>source.lua</scope>
-</snippet>

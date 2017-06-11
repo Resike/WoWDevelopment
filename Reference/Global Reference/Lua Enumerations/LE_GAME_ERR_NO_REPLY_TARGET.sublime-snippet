@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_NO_REPLY_TARGET]]></content>
-	<tabTrigger>LE_GAME_ERR_NO_REPLY_TARGET</tabTrigger>
-	<description>218</description>
-	<scope>source.lua</scope>
-</snippet>

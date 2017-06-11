@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[STATIC_CONSTANTS]]></content>
-	<tabTrigger>STATIC_CONSTANTS</tabTrigger>
-	<description></description>
-	<scope>source.lua</scope>
-</snippet>

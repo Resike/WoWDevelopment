@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BUFF_FRAME_BASE_EXTENT]]></content>
-	<tabTrigger>BUFF_FRAME_BASE_EXTENT</tabTrigger>
-	<description>13</description>
-	<scope>source.lua</scope>
-</snippet>

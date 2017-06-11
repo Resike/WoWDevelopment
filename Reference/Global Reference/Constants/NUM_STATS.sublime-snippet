@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_STATS]]></content>
-	<tabTrigger>NUM_STATS</tabTrigger>
-	<description>5</description>
-	<scope>source.lua</scope>
-</snippet>

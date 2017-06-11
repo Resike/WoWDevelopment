@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_SYSTEM]]></content>
-	<tabTrigger>LE_GAME_ERR_SYSTEM</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

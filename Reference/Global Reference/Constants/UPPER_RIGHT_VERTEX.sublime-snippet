@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UPPER_RIGHT_VERTEX]]></content>
-	<tabTrigger>UPPER_RIGHT_VERTEX</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

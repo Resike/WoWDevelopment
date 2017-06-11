@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_LE_CHARACTER_UNDELETE_RESULTS]]></content>
-	<tabTrigger>NUM_LE_CHARACTER_UNDELETE_RESULTS</tabTrigger>
-	<description>6</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QUEST_TYPE_DUNGEON]]></content>
-	<tabTrigger>QUEST_TYPE_DUNGEON</tabTrigger>
-	<description>81</description>
-	<scope>source.lua</scope>
-</snippet>

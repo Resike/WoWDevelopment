@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACHIEVEMENTBUTTON_TEXTUREHEIGHT]]></content>
-	<tabTrigger>ACHIEVEMENTBUTTON_TEXTUREHEIGHT</tabTrigger>
-	<description>128</description>
-	<scope>source.lua</scope>
-</snippet>

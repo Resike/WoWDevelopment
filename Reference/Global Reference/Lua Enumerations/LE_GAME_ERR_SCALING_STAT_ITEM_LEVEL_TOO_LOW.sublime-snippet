@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_SCALING_STAT_ITEM_LEVEL_TOO_LOW]]></content>
-	<tabTrigger>LE_GAME_ERR_SCALING_STAT_ITEM_LEVEL_TOO_LOW</tabTrigger>
-	<description>661</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAX_EQUIPMENT_SETS_PER_PLAYER]]></content>
-	<tabTrigger>MAX_EQUIPMENT_SETS_PER_PLAYER</tabTrigger>
-	<description>10</description>
-	<scope>source.lua</scope>
-</snippet>

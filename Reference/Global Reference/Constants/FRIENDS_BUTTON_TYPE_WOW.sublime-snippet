@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FRIENDS_BUTTON_TYPE_WOW]]></content>
-	<tabTrigger>FRIENDS_BUTTON_TYPE_WOW</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

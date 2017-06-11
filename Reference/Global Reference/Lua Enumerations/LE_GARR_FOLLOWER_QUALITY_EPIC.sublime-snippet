@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GARR_FOLLOWER_QUALITY_EPIC]]></content>
-	<tabTrigger>LE_GARR_FOLLOWER_QUALITY_EPIC</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[COMBATLOG_OBJECT_TYPE_GUARDIAN]]></content>
-	<tabTrigger>COMBATLOG_OBJECT_TYPE_GUARDIAN</tabTrigger>
-	<description>8192</description>
-	<scope>source.lua</scope>
-</snippet>

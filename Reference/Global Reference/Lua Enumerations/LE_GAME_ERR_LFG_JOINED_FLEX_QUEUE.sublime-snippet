@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_LFG_JOINED_FLEX_QUEUE]]></content>
-	<tabTrigger>LE_GAME_ERR_LFG_JOINED_FLEX_QUEUE</tabTrigger>
-	<description>768</description>
-	<scope>source.lua</scope>
-</snippet>

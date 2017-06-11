@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_FISH_NOT_HOOKED]]></content>
-	<tabTrigger>LE_GAME_ERR_FISH_NOT_HOOKED</tabTrigger>
-	<description>372</description>
-	<scope>source.lua</scope>
-</snippet>

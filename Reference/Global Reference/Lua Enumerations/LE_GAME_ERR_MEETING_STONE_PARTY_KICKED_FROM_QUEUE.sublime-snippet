@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_MEETING_STONE_PARTY_KICKED_FROM_QUEUE]]></content>
-	<tabTrigger>LE_GAME_ERR_MEETING_STONE_PARTY_KICKED_FROM_QUEUE</tabTrigger>
-	<description>509</description>
-	<scope>source.lua</scope>
-</snippet>

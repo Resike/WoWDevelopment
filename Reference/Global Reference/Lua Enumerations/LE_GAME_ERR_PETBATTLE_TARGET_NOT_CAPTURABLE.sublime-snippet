@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_PETBATTLE_TARGET_NOT_CAPTURABLE]]></content>
-	<tabTrigger>LE_GAME_ERR_PETBATTLE_TARGET_NOT_CAPTURABLE</tabTrigger>
-	<description>886</description>
-	<scope>source.lua</scope>
-</snippet>

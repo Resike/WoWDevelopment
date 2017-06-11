@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_SPELL_CONFIRMATION_PROMPT_TYPE_SIMPLE_WARNING]]></content>
-	<tabTrigger>LE_SPELL_CONFIRMATION_PROMPT_TYPE_SIMPLE_WARNING</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

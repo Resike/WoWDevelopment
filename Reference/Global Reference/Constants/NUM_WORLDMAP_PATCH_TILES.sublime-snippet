@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_WORLDMAP_PATCH_TILES]]></content>
-	<tabTrigger>NUM_WORLDMAP_PATCH_TILES</tabTrigger>
-	<description>6</description>
-	<scope>source.lua</scope>
-</snippet>

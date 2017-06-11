@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_ITEM_FILTER_TYPE_NECK]]></content>
-	<tabTrigger>LE_ITEM_FILTER_TYPE_NECK</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

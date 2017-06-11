@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_FRAME_TUTORIAL_BAG_SETTINGS]]></content>
-	<tabTrigger>LE_FRAME_TUTORIAL_BAG_SETTINGS</tabTrigger>
-	<description>16</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_FOLLOWER_MISSION_COMPLETE_STATE_ALIVE]]></content>
-	<tabTrigger>LE_FOLLOWER_MISSION_COMPLETE_STATE_ALIVE</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILD_REWARDS_BUTTON_OFFSET]]></content>
-	<tabTrigger>GUILD_REWARDS_BUTTON_OFFSET</tabTrigger>
-	<description>0</description>
-	<scope>source.lua</scope>
-</snippet>

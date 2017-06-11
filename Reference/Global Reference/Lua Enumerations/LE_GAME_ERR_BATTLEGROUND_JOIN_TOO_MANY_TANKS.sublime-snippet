@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_BATTLEGROUND_JOIN_TOO_MANY_TANKS]]></content>
-	<tabTrigger>LE_GAME_ERR_BATTLEGROUND_JOIN_TOO_MANY_TANKS</tabTrigger>
-	<description>711</description>
-	<scope>source.lua</scope>
-</snippet>

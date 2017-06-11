@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_CHARACTER_UNDELETE_RESULT_ERROR_COOLDOWN]]></content>
-	<tabTrigger>LE_CHARACTER_UNDELETE_RESULT_ERROR_COOLDOWN</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

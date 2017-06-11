@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PERFORMANCEBAR_MEDIUM_LATENCY]]></content>
-	<tabTrigger>PERFORMANCEBAR_MEDIUM_LATENCY</tabTrigger>
-	<description>600</description>
-	<scope>source.lua</scope>
-</snippet>

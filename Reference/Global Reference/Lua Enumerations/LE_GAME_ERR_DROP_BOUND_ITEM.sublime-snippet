@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_DROP_BOUND_ITEM]]></content>
-	<tabTrigger>LE_GAME_ERR_DROP_BOUND_ITEM</tabTrigger>
-	<description>44</description>
-	<scope>source.lua</scope>
-</snippet>

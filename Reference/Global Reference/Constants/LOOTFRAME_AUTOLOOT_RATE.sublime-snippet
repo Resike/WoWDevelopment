@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LOOTFRAME_AUTOLOOT_RATE]]></content>
-	<tabTrigger>LOOTFRAME_AUTOLOOT_RATE</tabTrigger>
-	<description>0.35</description>
-	<scope>source.lua</scope>
-</snippet>

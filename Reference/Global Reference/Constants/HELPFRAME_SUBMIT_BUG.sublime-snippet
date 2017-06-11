@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HELPFRAME_SUBMIT_BUG]]></content>
-	<tabTrigger>HELPFRAME_SUBMIT_BUG</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_BATTLEGROUND_JOIN_NO_VALID_SPEC_FOR_ROLE]]></content>
-	<tabTrigger>LE_GAME_ERR_BATTLEGROUND_JOIN_NO_VALID_SPEC_FOR_ROLE</tabTrigger>
-	<description>725</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GARR_FOLLOWER_QUALITY_RARE]]></content>
-	<tabTrigger>LE_GARR_FOLLOWER_QUALITY_RARE</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

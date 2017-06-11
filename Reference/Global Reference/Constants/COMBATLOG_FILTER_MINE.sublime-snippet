@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[COMBATLOG_FILTER_MINE]]></content>
-	<tabTrigger>COMBATLOG_FILTER_MINE</tabTrigger>
-	<description>17681</description>
-	<scope>source.lua</scope>
-</snippet>

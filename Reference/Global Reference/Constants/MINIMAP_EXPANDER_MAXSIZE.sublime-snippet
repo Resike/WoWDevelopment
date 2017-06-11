@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MINIMAP_EXPANDER_MAXSIZE]]></content>
-	<tabTrigger>MINIMAP_EXPANDER_MAXSIZE</tabTrigger>
-	<description>28</description>
-	<scope>source.lua</scope>
-</snippet>

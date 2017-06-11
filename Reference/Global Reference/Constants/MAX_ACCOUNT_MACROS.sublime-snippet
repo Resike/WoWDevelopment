@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAX_ACCOUNT_MACROS]]></content>
-	<tabTrigger>MAX_ACCOUNT_MACROS</tabTrigger>
-	<description>120</description>
-	<scope>source.lua</scope>
-</snippet>

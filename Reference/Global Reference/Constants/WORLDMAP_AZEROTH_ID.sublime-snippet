@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WORLDMAP_AZEROTH_ID]]></content>
-	<tabTrigger>WORLDMAP_AZEROTH_ID</tabTrigger>
-	<description>0</description>
-	<scope>source.lua</scope>
-</snippet>

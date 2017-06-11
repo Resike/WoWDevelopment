@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_DISMOUNT_NOTYOURPET]]></content>
-	<tabTrigger>LE_GAME_ERR_DISMOUNT_NOTYOURPET</tabTrigger>
-	<description>244</description>
-	<scope>source.lua</scope>
-</snippet>

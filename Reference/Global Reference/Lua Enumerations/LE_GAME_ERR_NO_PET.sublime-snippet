@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_NO_PET]]></content>
-	<tabTrigger>LE_GAME_ERR_NO_PET</tabTrigger>
-	<description>279</description>
-	<scope>source.lua</scope>
-</snippet>

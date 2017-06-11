@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_GUILD_REMOVE_SELF]]></content>
-	<tabTrigger>LE_GAME_ERR_GUILD_REMOVE_SELF</tabTrigger>
-	<description>117</description>
-	<scope>source.lua</scope>
-</snippet>

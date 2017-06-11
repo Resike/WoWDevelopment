@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_SORT_BY_PETTYPE]]></content>
-	<tabTrigger>LE_SORT_BY_PETTYPE</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

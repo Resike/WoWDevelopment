@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_NAME_MIXED_LANGUAGES]]></content>
-	<tabTrigger>LE_GAME_ERR_NAME_MIXED_LANGUAGES</tabTrigger>
-	<description>627</description>
-	<scope>source.lua</scope>
-</snippet>

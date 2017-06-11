@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFG_ROLE_SHORTAGE_UNCOMMON]]></content>
-	<tabTrigger>LFG_ROLE_SHORTAGE_UNCOMMON</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

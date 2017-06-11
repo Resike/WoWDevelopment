@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UNIT_POSITION_FRAME_DEFAULT_PIN_SIZE]]></content>
-	<tabTrigger>UNIT_POSITION_FRAME_DEFAULT_PIN_SIZE</tabTrigger>
-	<description>40</description>
-	<scope>source.lua</scope>
-</snippet>

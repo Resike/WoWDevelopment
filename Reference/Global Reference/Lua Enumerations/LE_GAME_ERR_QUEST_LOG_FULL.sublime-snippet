@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_QUEST_LOG_FULL]]></content>
-	<tabTrigger>LE_GAME_ERR_QUEST_LOG_FULL</tabTrigger>
-	<description>183</description>
-	<scope>source.lua</scope>
-</snippet>

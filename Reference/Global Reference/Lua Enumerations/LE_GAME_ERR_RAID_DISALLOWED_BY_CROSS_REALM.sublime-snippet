@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_RAID_DISALLOWED_BY_CROSS_REALM]]></content>
-	<tabTrigger>LE_GAME_ERR_RAID_DISALLOWED_BY_CROSS_REALM</tabTrigger>
-	<description>691</description>
-	<scope>source.lua</scope>
-</snippet>

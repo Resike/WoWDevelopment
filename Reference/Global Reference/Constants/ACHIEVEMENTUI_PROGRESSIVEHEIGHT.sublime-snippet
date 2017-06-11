@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACHIEVEMENTUI_PROGRESSIVEHEIGHT]]></content>
-	<tabTrigger>ACHIEVEMENTUI_PROGRESSIVEHEIGHT</tabTrigger>
-	<description>50</description>
-	<scope>source.lua</scope>
-</snippet>

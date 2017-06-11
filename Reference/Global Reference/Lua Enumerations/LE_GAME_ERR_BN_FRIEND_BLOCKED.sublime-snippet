@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_BN_FRIEND_BLOCKED]]></content>
-	<tabTrigger>LE_GAME_ERR_BN_FRIEND_BLOCKED</tabTrigger>
-	<description>800</description>
-	<scope>source.lua</scope>
-</snippet>

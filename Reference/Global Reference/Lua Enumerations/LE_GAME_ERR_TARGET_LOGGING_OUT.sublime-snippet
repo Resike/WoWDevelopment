@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_TARGET_LOGGING_OUT]]></content>
-	<tabTrigger>LE_GAME_ERR_TARGET_LOGGING_OUT</tabTrigger>
-	<description>495</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_TOO_MANY_CHAT_CHANNELS]]></content>
-	<tabTrigger>LE_GAME_ERR_TOO_MANY_CHAT_CHANNELS</tabTrigger>
-	<description>490</description>
-	<scope>source.lua</scope>
-</snippet>

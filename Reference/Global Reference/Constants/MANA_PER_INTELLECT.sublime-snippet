@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MANA_PER_INTELLECT]]></content>
-	<tabTrigger>MANA_PER_INTELLECT</tabTrigger>
-	<description>15</description>
-	<scope>source.lua</scope>
-</snippet>

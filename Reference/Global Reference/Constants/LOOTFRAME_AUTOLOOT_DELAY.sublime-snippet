@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LOOTFRAME_AUTOLOOT_DELAY]]></content>
-	<tabTrigger>LOOTFRAME_AUTOLOOT_DELAY</tabTrigger>
-	<description>0.3</description>
-	<scope>source.lua</scope>
-</snippet>

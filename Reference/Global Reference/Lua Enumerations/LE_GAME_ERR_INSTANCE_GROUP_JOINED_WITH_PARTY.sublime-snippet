@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_INSTANCE_GROUP_JOINED_WITH_PARTY]]></content>
-	<tabTrigger>LE_GAME_ERR_INSTANCE_GROUP_JOINED_WITH_PARTY</tabTrigger>
-	<description>483</description>
-	<scope>source.lua</scope>
-</snippet>

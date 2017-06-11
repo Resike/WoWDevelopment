@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AM_PIN_ALPHA_STYLE_VISIBLE_WHEN_ZOOMED_IN]]></content>
-	<tabTrigger>AM_PIN_ALPHA_STYLE_VISIBLE_WHEN_ZOOMED_IN</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_ALREADY_IN_GUILD_S]]></content>
-	<tabTrigger>LE_GAME_ERR_ALREADY_IN_GUILD_S</tabTrigger>
-	<description>100</description>
-	<scope>source.lua</scope>
-</snippet>

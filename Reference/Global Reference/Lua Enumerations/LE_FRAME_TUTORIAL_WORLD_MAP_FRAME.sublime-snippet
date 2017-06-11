@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_FRAME_TUTORIAL_WORLD_MAP_FRAME]]></content>
-	<tabTrigger>LE_FRAME_TUTORIAL_WORLD_MAP_FRAME</tabTrigger>
-	<description>14</description>
-	<scope>source.lua</scope>
-</snippet>

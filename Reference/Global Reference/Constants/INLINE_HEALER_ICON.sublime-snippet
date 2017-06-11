@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[INLINE_HEALER_ICON]]></content>
-	<tabTrigger>INLINE_HEALER_ICON</tabTrigger>
-	<description>"|TInterface\\LFGFrame\\UI-LFG-ICON-PORTRAITROLES.blp:16:16:0:0:64:64:20:39:1:20|t"</description>
-	<scope>source.lua</scope>
-</snippet>

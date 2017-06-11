@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_MAIL_CANT_SEND_REALM]]></content>
-	<tabTrigger>LE_GAME_ERR_MAIL_CANT_SEND_REALM</tabTrigger>
-	<description>422</description>
-	<scope>source.lua</scope>
-</snippet>

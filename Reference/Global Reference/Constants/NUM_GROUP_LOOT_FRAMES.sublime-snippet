@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_GROUP_LOOT_FRAMES]]></content>
-	<tabTrigger>NUM_GROUP_LOOT_FRAMES</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_REFUND_RESULT_EXCEED_MAX_CURRENCY]]></content>
-	<tabTrigger>LE_GAME_ERR_REFUND_RESULT_EXCEED_MAX_CURRENCY</tabTrigger>
-	<description>818</description>
-	<scope>source.lua</scope>
-</snippet>

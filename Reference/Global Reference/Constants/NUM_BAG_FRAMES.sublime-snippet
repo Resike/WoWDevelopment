@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_BAG_FRAMES]]></content>
-	<tabTrigger>NUM_BAG_FRAMES</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[COMBATLOG_LIMIT_PER_FRAME]]></content>
-	<tabTrigger>COMBATLOG_LIMIT_PER_FRAME</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

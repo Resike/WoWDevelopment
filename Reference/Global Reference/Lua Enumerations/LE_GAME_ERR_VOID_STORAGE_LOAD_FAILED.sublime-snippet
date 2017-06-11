@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_VOID_STORAGE_LOAD_FAILED]]></content>
-	<tabTrigger>LE_GAME_ERR_VOID_STORAGE_LOAD_FAILED</tabTrigger>
-	<description>861</description>
-	<scope>source.lua</scope>
-</snippet>

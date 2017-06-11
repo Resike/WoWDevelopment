@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_BANKBAGSLOTS]]></content>
-	<tabTrigger>NUM_BANKBAGSLOTS</tabTrigger>
-	<description>7</description>
-	<scope>source.lua</scope>
-</snippet>

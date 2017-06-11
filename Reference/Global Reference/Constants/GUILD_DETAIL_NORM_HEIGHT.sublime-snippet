@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILD_DETAIL_NORM_HEIGHT]]></content>
-	<tabTrigger>GUILD_DETAIL_NORM_HEIGHT</tabTrigger>
-	<description>175</description>
-	<scope>source.lua</scope>
-</snippet>

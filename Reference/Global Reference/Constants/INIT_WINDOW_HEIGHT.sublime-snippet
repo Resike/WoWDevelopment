@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[INIT_WINDOW_HEIGHT]]></content>
-	<tabTrigger>INIT_WINDOW_HEIGHT</tabTrigger>
-	<description>480</description>
-	<scope>source.lua</scope>
-</snippet>

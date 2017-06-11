@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[COMBATLOG_OBJECT_TYPE_PET]]></content>
-	<tabTrigger>COMBATLOG_OBJECT_TYPE_PET</tabTrigger>
-	<description>4096</description>
-	<scope>source.lua</scope>
-</snippet>

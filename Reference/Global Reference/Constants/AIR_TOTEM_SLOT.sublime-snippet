@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AIR_TOTEM_SLOT]]></content>
-	<tabTrigger>AIR_TOTEM_SLOT</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

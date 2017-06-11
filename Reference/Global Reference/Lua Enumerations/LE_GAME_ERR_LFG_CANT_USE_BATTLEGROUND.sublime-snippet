@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_LFG_CANT_USE_BATTLEGROUND]]></content>
-	<tabTrigger>LE_GAME_ERR_LFG_CANT_USE_BATTLEGROUND</tabTrigger>
-	<description>777</description>
-	<scope>source.lua</scope>
-</snippet>

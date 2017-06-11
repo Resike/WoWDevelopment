@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_INTERNAL_BAG_ERROR]]></content>
-	<tabTrigger>LE_GAME_ERR_INTERNAL_BAG_ERROR</tabTrigger>
-	<description>14</description>
-	<scope>source.lua</scope>
-</snippet>

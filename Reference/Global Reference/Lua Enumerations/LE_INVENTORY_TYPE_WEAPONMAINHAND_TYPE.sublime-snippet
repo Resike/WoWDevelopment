@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_INVENTORY_TYPE_WEAPONMAINHAND_TYPE]]></content>
-	<tabTrigger>LE_INVENTORY_TYPE_WEAPONMAINHAND_TYPE</tabTrigger>
-	<description>21</description>
-	<scope>source.lua</scope>
-</snippet>

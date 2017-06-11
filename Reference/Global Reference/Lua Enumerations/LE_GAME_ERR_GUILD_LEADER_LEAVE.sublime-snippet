@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_GUILD_LEADER_LEAVE]]></content>
-	<tabTrigger>LE_GAME_ERR_GUILD_LEADER_LEAVE</tabTrigger>
-	<description>133</description>
-	<scope>source.lua</scope>
-</snippet>

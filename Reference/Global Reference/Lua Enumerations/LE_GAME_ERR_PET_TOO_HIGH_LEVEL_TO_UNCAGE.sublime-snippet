@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_PET_TOO_HIGH_LEVEL_TO_UNCAGE]]></content>
-	<tabTrigger>LE_GAME_ERR_PET_TOO_HIGH_LEVEL_TO_UNCAGE</tabTrigger>
-	<description>935</description>
-	<scope>source.lua</scope>
-</snippet>

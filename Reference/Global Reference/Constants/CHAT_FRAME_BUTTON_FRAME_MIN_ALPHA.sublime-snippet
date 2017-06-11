@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CHAT_FRAME_BUTTON_FRAME_MIN_ALPHA]]></content>
-	<tabTrigger>CHAT_FRAME_BUTTON_FRAME_MIN_ALPHA</tabTrigger>
-	<description>0.2</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PET_BATTLE_EVENT_ON_HEAL_TAKEN]]></content>
-	<tabTrigger>PET_BATTLE_EVENT_ON_HEAL_TAKEN</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

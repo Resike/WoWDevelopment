@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ENCHANT_EMPTY_SLOT_FILEDATAID]]></content>
-	<tabTrigger>ENCHANT_EMPTY_SLOT_FILEDATAID</tabTrigger>
-	<description>134941</description>
-	<scope>source.lua</scope>
-</snippet>

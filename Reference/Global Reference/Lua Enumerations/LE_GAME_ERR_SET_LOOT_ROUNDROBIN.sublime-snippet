@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_SET_LOOT_ROUNDROBIN]]></content>
-	<tabTrigger>LE_GAME_ERR_SET_LOOT_ROUNDROBIN</tabTrigger>
-	<description>268</description>
-	<scope>source.lua</scope>
-</snippet>

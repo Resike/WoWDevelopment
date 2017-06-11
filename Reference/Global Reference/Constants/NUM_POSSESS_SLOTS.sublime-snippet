@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_POSSESS_SLOTS]]></content>
-	<tabTrigger>NUM_POSSESS_SLOTS</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

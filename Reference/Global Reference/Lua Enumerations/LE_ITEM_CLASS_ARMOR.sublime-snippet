@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_ITEM_CLASS_ARMOR]]></content>
-	<tabTrigger>LE_ITEM_CLASS_ARMOR</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

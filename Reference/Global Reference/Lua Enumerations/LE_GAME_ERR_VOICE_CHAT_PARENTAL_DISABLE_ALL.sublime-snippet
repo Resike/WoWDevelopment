@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_VOICE_CHAT_PARENTAL_DISABLE_ALL]]></content>
-	<tabTrigger>LE_GAME_ERR_VOICE_CHAT_PARENTAL_DISABLE_ALL</tabTrigger>
-	<description>613</description>
-	<scope>source.lua</scope>
-</snippet>

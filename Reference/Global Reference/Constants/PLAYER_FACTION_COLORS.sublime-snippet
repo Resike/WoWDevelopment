@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PLAYER_FACTION_COLORS]]></content>
-	<tabTrigger>PLAYER_FACTION_COLORS</tabTrigger>
-	<description></description>
-	<scope>source.lua</scope>
-</snippet>

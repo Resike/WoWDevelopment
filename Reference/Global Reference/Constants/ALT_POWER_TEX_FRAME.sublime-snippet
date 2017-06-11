@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ALT_POWER_TEX_FRAME]]></content>
-	<tabTrigger>ALT_POWER_TEX_FRAME</tabTrigger>
-	<description>0</description>
-	<scope>source.lua</scope>
-</snippet>

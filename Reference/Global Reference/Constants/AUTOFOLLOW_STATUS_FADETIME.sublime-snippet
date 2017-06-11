@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AUTOFOLLOW_STATUS_FADETIME]]></content>
-	<tabTrigger>AUTOFOLLOW_STATUS_FADETIME</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

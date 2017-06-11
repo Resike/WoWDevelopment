@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HOLY_POWER_FULL]]></content>
-	<tabTrigger>HOLY_POWER_FULL</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

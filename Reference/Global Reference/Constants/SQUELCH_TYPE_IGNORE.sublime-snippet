@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SQUELCH_TYPE_IGNORE]]></content>
-	<tabTrigger>SQUELCH_TYPE_IGNORE</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

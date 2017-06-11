@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_AUCTION_BID_INCREMENT]]></content>
-	<tabTrigger>LE_GAME_ERR_AUCTION_BID_INCREMENT</tabTrigger>
-	<description>438</description>
-	<scope>source.lua</scope>
-</snippet>

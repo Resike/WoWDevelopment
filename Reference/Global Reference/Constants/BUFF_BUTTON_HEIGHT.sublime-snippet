@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BUFF_BUTTON_HEIGHT]]></content>
-	<tabTrigger>BUFF_BUTTON_HEIGHT</tabTrigger>
-	<description>30</description>
-	<scope>source.lua</scope>
-</snippet>

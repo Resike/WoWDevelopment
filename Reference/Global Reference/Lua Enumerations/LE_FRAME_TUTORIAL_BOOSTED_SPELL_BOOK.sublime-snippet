@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_FRAME_TUTORIAL_BOOSTED_SPELL_BOOK]]></content>
-	<tabTrigger>LE_FRAME_TUTORIAL_BOOSTED_SPELL_BOOK</tabTrigger>
-	<description>26</description>
-	<scope>source.lua</scope>
-</snippet>

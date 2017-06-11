@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MINIMUM_RAID_CONTAINER_HEIGHT]]></content>
-	<tabTrigger>MINIMUM_RAID_CONTAINER_HEIGHT</tabTrigger>
-	<description>72</description>
-	<scope>source.lua</scope>
-</snippet>

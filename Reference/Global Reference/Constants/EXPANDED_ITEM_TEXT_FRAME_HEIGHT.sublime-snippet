@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EXPANDED_ITEM_TEXT_FRAME_HEIGHT]]></content>
-	<tabTrigger>EXPANDED_ITEM_TEXT_FRAME_HEIGHT</tabTrigger>
-	<description>560</description>
-	<scope>source.lua</scope>
-</snippet>

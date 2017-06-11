@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_SCENARIO_TYPE_USE_DUNGEON_DISPLAY]]></content>
-	<tabTrigger>LE_SCENARIO_TYPE_USE_DUNGEON_DISPLAY</tabTrigger>
-	<description>3</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_LFG_REMOVED_LEVELUP]]></content>
-	<tabTrigger>LE_GAME_ERR_LFG_REMOVED_LEVELUP</tabTrigger>
-	<description>694</description>
-	<scope>source.lua</scope>
-</snippet>

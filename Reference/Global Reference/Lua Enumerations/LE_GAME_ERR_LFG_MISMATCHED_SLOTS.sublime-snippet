@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_LFG_MISMATCHED_SLOTS]]></content>
-	<tabTrigger>LE_GAME_ERR_LFG_MISMATCHED_SLOTS</tabTrigger>
-	<description>745</description>
-	<scope>source.lua</scope>
-</snippet>

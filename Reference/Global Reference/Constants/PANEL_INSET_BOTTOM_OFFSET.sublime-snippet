@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PANEL_INSET_BOTTOM_OFFSET]]></content>
-	<tabTrigger>PANEL_INSET_BOTTOM_OFFSET</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

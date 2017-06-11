@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_FOOD_COOLDOWN]]></content>
-	<tabTrigger>LE_GAME_ERR_FOOD_COOLDOWN</tabTrigger>
-	<description>53</description>
-	<scope>source.lua</scope>
-</snippet>

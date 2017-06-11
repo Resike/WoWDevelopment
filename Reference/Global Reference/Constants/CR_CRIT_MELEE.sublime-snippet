@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CR_CRIT_MELEE]]></content>
-	<tabTrigger>CR_CRIT_MELEE</tabTrigger>
-	<description>9</description>
-	<scope>source.lua</scope>
-</snippet>

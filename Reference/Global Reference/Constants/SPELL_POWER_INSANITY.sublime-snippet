@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SPELL_POWER_INSANITY]]></content>
-	<tabTrigger>SPELL_POWER_INSANITY</tabTrigger>
-	<description>13</description>
-	<scope>source.lua</scope>
-</snippet>

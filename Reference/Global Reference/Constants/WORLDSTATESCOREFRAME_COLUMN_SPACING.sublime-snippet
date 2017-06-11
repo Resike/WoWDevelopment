@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WORLDSTATESCOREFRAME_COLUMN_SPACING]]></content>
-	<tabTrigger>WORLDSTATESCOREFRAME_COLUMN_SPACING</tabTrigger>
-	<description>76</description>
-	<scope>source.lua</scope>
-</snippet>

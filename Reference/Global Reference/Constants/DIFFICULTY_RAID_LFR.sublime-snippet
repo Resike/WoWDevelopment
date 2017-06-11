@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DIFFICULTY_RAID_LFR]]></content>
-	<tabTrigger>DIFFICULTY_RAID_LFR</tabTrigger>
-	<description>7</description>
-	<scope>source.lua</scope>
-</snippet>

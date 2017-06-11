@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_USE_LOCKED_WITH_SPELL_S]]></content>
-	<tabTrigger>LE_GAME_ERR_USE_LOCKED_WITH_SPELL_S</tabTrigger>
-	<description>260</description>
-	<scope>source.lua</scope>
-</snippet>

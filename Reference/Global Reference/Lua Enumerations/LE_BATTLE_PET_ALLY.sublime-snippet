@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_BATTLE_PET_ALLY]]></content>
-	<tabTrigger>LE_BATTLE_PET_ALLY</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

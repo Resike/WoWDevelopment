@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_BATTLEGROUND_PLAYERS_FROM_DIFFERENT_REALMS]]></content>
-	<tabTrigger>LE_GAME_ERR_BATTLEGROUND_PLAYERS_FROM_DIFFERENT_REALMS</tabTrigger>
-	<description>782</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GMTICKET_CHECK_INTERVAL]]></content>
-	<tabTrigger>GMTICKET_CHECK_INTERVAL</tabTrigger>
-	<description>600</description>
-	<scope>source.lua</scope>
-</snippet>

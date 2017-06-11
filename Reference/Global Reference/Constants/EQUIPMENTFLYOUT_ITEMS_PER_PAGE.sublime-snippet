@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EQUIPMENTFLYOUT_ITEMS_PER_PAGE]]></content>
-	<tabTrigger>EQUIPMENTFLYOUT_ITEMS_PER_PAGE</tabTrigger>
-	<description>20</description>
-	<scope>source.lua</scope>
-</snippet>

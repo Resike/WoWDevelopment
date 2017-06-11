@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_LFG_LIST_FILTER_PVE]]></content>
-	<tabTrigger>LE_LFG_LIST_FILTER_PVE</tabTrigger>
-	<description>4</description>
-	<scope>source.lua</scope>
-</snippet>

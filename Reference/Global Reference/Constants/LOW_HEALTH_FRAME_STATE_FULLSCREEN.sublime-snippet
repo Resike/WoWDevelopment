@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LOW_HEALTH_FRAME_STATE_FULLSCREEN]]></content>
-	<tabTrigger>LOW_HEALTH_FRAME_STATE_FULLSCREEN</tabTrigger>
-	<description>1</description>
-	<scope>source.lua</scope>
-</snippet>

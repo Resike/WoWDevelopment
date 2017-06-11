@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NUM_STANCE_SLOTS]]></content>
-	<tabTrigger>NUM_STANCE_SLOTS</tabTrigger>
-	<description>10</description>
-	<scope>source.lua</scope>
-</snippet>

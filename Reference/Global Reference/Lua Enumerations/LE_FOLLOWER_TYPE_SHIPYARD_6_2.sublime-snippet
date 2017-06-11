@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_FOLLOWER_TYPE_SHIPYARD_6_2]]></content>
-	<tabTrigger>LE_FOLLOWER_TYPE_SHIPYARD_6_2</tabTrigger>
-	<description>2</description>
-	<scope>source.lua</scope>
-</snippet>

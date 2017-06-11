@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UNIT_POSITION_FRAME_DEFAULT_SUBLEVEL]]></content>
-	<tabTrigger>UNIT_POSITION_FRAME_DEFAULT_SUBLEVEL</tabTrigger>
-	<description>7</description>
-	<scope>source.lua</scope>
-</snippet>

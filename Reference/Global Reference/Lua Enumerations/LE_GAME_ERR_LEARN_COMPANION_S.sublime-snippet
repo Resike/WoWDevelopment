@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_LEARN_COMPANION_S]]></content>
-	<tabTrigger>LE_GAME_ERR_LEARN_COMPANION_S</tabTrigger>
-	<description>65</description>
-	<scope>source.lua</scope>
-</snippet>

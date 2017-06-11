@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LE_GAME_ERR_REFER_A_FRIEND_INSUF_EXPAN_LVL]]></content>
-	<tabTrigger>LE_GAME_ERR_REFER_A_FRIEND_INSUF_EXPAN_LVL</tabTrigger>
-	<description>646</description>
-	<scope>source.lua</scope>
-</snippet>

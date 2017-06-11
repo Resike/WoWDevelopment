@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAX_MERCHANT_CURRENCIES]]></content>
-	<tabTrigger>MAX_MERCHANT_CURRENCIES</tabTrigger>
-	<description>6</description>
-	<scope>source.lua</scope>
-</snippet>
