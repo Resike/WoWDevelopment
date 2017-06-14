@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SecureButton_GetEffectiveButton($1)$0]]></content>
-	<tabTrigger>SecureButton_GetEffectiveButton</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

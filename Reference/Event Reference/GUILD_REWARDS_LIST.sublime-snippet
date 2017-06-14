@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILD_REWARDS_LIST]]></content>
-	<tabTrigger>GUILD_REWARDS_LIST</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

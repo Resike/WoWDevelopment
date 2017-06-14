@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MODIFIER_STATE_CHANGED]]></content>
-	<tabTrigger>MODIFIER_STATE_CHANGED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

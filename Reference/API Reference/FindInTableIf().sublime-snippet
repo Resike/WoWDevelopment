@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FindInTableIf($1)$0]]></content>
-	<tabTrigger>FindInTableIf</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

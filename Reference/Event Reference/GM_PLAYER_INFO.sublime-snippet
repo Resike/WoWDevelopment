@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GM_PLAYER_INFO]]></content>
-	<tabTrigger>GM_PLAYER_INFO</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

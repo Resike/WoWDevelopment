@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PREVIEW_TALENT_PRIMARY_TREE_CHANGED]]></content>
-	<tabTrigger>PREVIEW_TALENT_PRIMARY_TREE_CHANGED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

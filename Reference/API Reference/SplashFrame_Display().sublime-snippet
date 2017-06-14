@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SplashFrame_Display($1)$0]]></content>
-	<tabTrigger>SplashFrame_Display</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

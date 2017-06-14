@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MacOptionsFrame_EnableCheckBox($1)$0]]></content>
-	<tabTrigger>MacOptionsFrame_EnableCheckBox</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

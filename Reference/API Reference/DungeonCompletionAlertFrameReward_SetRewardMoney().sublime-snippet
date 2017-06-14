@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DungeonCompletionAlertFrameReward_SetRewardMoney($1)$0]]></content>
-	<tabTrigger>DungeonCompletionAlertFrameReward_SetRewardMoney</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

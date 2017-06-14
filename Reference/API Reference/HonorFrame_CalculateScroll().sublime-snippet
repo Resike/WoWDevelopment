@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HonorFrame_CalculateScroll($1)$0]]></content>
-	<tabTrigger>HonorFrame_CalculateScroll</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

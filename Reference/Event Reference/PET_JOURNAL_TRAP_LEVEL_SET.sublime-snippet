@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PET_JOURNAL_TRAP_LEVEL_SET]]></content>
-	<tabTrigger>PET_JOURNAL_TRAP_LEVEL_SET</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

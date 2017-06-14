@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EquipmentManager_EquipInventoryItem($1)$0]]></content>
-	<tabTrigger>EquipmentManager_EquipInventoryItem</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

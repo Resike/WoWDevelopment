@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SplitLink($1)$0]]></content>
-	<tabTrigger>SplitLink</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

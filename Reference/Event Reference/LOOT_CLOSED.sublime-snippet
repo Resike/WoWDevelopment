@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LOOT_CLOSED]]></content>
-	<tabTrigger>LOOT_CLOSED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

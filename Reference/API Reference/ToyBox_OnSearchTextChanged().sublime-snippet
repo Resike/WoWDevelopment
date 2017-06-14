@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ToyBox_OnSearchTextChanged($1)$0]]></content>
-	<tabTrigger>ToyBox_OnSearchTextChanged</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WorldEffectPOI_OnLeave($1)$0]]></content>
-	<tabTrigger>WorldEffectPOI_OnLeave</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

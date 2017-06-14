@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TRANSMOGRIFY_OPEN]]></content>
-	<tabTrigger>TRANSMOGRIFY_OPEN</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

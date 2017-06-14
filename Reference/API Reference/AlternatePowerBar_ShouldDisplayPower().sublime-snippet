@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AlternatePowerBar_ShouldDisplayPower($1)$0]]></content>
-	<tabTrigger>AlternatePowerBar_ShouldDisplayPower</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

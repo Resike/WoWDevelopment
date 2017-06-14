@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TaxiFrame_OnLoad($1)$0]]></content>
-	<tabTrigger>TaxiFrame_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

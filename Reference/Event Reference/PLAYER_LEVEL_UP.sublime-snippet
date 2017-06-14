@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PLAYER_LEVEL_UP]]></content>
-	<tabTrigger>PLAYER_LEVEL_UP</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

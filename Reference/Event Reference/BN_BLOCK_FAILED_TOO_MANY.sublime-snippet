@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BN_BLOCK_FAILED_TOO_MANY]]></content>
-	<tabTrigger>BN_BLOCK_FAILED_TOO_MANY</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

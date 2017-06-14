@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GarrisonBuildingList_SelectBuilding($1)$0]]></content>
-	<tabTrigger>GarrisonBuildingList_SelectBuilding</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

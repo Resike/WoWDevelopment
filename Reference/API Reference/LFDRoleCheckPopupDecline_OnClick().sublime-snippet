@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFDRoleCheckPopupDecline_OnClick($1)$0]]></content>
-	<tabTrigger>LFDRoleCheckPopupDecline_OnClick</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

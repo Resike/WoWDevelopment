@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ModelPreviewFrame_OnEvent($1)$0]]></content>
-	<tabTrigger>ModelPreviewFrame_OnEvent</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

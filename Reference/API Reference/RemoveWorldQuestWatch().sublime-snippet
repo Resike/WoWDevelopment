@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RemoveWorldQuestWatch($1)$0]]></content>
-	<tabTrigger>RemoveWorldQuestWatch</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

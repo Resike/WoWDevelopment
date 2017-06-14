@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VoidStorageFrame_OnEvent($1)$0]]></content>
-	<tabTrigger>VoidStorageFrame_OnEvent</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SpellColor_OpenColorPicker($1)$0]]></content>
-	<tabTrigger>SpellColor_OpenColorPicker</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

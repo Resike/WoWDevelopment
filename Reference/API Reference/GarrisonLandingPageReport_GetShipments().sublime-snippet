@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GarrisonLandingPageReport_GetShipments($1)$0]]></content>
-	<tabTrigger>GarrisonLandingPageReport_GetShipments</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

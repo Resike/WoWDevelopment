@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetNumVoidTransferWithdrawal($1)$0]]></content>
-	<tabTrigger>GetNumVoidTransferWithdrawal</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

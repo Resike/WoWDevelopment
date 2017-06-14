@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ReputationParagonFrame_SetupParagonTooltip($1)$0]]></content>
-	<tabTrigger>ReputationParagonFrame_SetupParagonTooltip</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

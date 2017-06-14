@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFDPopupCheckRoleSelectionValid($1)$0]]></content>
-	<tabTrigger>LFDPopupCheckRoleSelectionValid</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

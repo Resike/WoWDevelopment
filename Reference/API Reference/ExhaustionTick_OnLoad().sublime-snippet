@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ExhaustionTick_OnLoad($1)$0]]></content>
-	<tabTrigger>ExhaustionTick_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

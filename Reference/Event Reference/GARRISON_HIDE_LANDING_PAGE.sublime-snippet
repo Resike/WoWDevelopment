@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GARRISON_HIDE_LANDING_PAGE]]></content>
-	<tabTrigger>GARRISON_HIDE_LANDING_PAGE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

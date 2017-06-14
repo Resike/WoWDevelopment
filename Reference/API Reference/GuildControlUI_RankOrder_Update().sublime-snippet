@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GuildControlUI_RankOrder_Update($1)$0]]></content>
-	<tabTrigger>GuildControlUI_RankOrder_Update</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

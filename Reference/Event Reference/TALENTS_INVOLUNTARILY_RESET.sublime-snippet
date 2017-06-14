@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TALENTS_INVOLUNTARILY_RESET]]></content>
-	<tabTrigger>TALENTS_INVOLUNTARILY_RESET</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

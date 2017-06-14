@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AJ_PVP_SKIRMISH_ACTION]]></content>
-	<tabTrigger>AJ_PVP_SKIRMISH_ACTION</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

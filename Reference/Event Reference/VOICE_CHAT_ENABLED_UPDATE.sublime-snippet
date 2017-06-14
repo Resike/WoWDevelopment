@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VOICE_CHAT_ENABLED_UPDATE]]></content>
-	<tabTrigger>VOICE_CHAT_ENABLED_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

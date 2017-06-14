@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAIL_INBOX_UPDATE]]></content>
-	<tabTrigger>MAIL_INBOX_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

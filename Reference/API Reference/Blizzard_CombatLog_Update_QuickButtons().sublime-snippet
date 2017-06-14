@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Blizzard_CombatLog_Update_QuickButtons($1)$0]]></content>
-	<tabTrigger>Blizzard_CombatLog_Update_QuickButtons</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

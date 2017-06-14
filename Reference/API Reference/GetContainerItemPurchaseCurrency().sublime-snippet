@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetContainerItemPurchaseCurrency($1)$0]]></content>
-	<tabTrigger>GetContainerItemPurchaseCurrency</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

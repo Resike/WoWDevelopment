@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACTIVE_TALENT_GROUP_CHANGED]]></content>
-	<tabTrigger>ACTIVE_TALENT_GROUP_CHANGED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

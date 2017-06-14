@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RequestGuildChallengeInfo($1)$0]]></content>
-	<tabTrigger>RequestGuildChallengeInfo</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

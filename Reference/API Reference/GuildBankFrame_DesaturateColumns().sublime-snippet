@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GuildBankFrame_DesaturateColumns($1)$0]]></content>
-	<tabTrigger>GuildBankFrame_DesaturateColumns</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

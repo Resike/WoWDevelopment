@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFG_HasRequiredGroupSize($1)$0]]></content>
-	<tabTrigger>LFG_HasRequiredGroupSize</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

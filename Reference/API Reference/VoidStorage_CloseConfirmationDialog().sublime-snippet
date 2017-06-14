@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VoidStorage_CloseConfirmationDialog($1)$0]]></content>
-	<tabTrigger>VoidStorage_CloseConfirmationDialog</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

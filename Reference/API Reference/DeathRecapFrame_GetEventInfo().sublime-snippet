@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DeathRecapFrame_GetEventInfo($1)$0]]></content>
-	<tabTrigger>DeathRecapFrame_GetEventInfo</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

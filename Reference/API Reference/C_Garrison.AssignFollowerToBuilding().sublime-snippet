@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_Garrison.AssignFollowerToBuilding($1)$0]]></content>
-	<tabTrigger>C_Garrison.AssignFollowerToBuilding</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditBox_HandleTabbing($1)$0]]></content>
-	<tabTrigger>EditBox_HandleTabbing</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

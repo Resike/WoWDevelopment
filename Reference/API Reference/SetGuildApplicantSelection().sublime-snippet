@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetGuildApplicantSelection($1)$0]]></content>
-	<tabTrigger>SetGuildApplicantSelection</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

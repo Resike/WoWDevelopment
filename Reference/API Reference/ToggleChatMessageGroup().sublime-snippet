@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ToggleChatMessageGroup($1)$0]]></content>
-	<tabTrigger>ToggleChatMessageGroup</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

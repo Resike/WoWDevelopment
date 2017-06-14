@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BuildListString($1)$0]]></content>
-	<tabTrigger>BuildListString</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SearchLFGGetNumResults($1)$0]]></content>
-	<tabTrigger>SearchLFGGetNumResults</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

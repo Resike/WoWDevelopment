@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChatEdit_ExtractTellTarget($1)$0]]></content>
-	<tabTrigger>ChatEdit_ExtractTellTarget</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

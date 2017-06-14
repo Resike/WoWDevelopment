@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetBankAutosortDisabled($1)$0]]></content>
-	<tabTrigger>SetBankAutosortDisabled</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

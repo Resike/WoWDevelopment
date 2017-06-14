@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TargetDirectionFriend($1)$0]]></content>
-	<tabTrigger>TargetDirectionFriend</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

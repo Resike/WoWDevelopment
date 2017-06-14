@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarViewRaidFrame_OnLoad($1)$0]]></content>
-	<tabTrigger>CalendarViewRaidFrame_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

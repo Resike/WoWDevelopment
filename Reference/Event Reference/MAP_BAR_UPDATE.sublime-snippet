@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAP_BAR_UPDATE]]></content>
-	<tabTrigger>MAP_BAR_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

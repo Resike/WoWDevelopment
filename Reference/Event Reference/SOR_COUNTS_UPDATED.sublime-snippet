@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SOR_COUNTS_UPDATED]]></content>
-	<tabTrigger>SOR_COUNTS_UPDATED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

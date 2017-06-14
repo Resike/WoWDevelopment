@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WEAR_EQUIPMENT_SET]]></content>
-	<tabTrigger>WEAR_EQUIPMENT_SET</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PaperDollFrame_SetBlock($1)$0]]></content>
-	<tabTrigger>PaperDollFrame_SetBlock</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetSpecializationNameForSpecID($1)$0]]></content>
-	<tabTrigger>GetSpecializationNameForSpecID</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

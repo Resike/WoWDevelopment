@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[COMBAT_RATING_UPDATE]]></content>
-	<tabTrigger>COMBAT_RATING_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FriendsFrameTooltip_SetLine($1)$0]]></content>
-	<tabTrigger>FriendsFrameTooltip_SetLine</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

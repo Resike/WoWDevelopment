@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QuestFrame_UpdatePortraitText($1)$0]]></content>
-	<tabTrigger>QuestFrame_UpdatePortraitText</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

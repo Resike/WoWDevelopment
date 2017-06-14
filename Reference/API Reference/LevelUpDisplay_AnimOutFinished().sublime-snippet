@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LevelUpDisplay_AnimOutFinished($1)$0]]></content>
-	<tabTrigger>LevelUpDisplay_AnimOutFinished</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

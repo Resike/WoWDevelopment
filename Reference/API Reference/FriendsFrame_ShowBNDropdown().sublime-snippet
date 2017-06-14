@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FriendsFrame_ShowBNDropdown($1)$0]]></content>
-	<tabTrigger>FriendsFrame_ShowBNDropdown</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

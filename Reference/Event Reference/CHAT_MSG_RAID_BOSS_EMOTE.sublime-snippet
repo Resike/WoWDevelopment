@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CHAT_MSG_RAID_BOSS_EMOTE]]></content>
-	<tabTrigger>CHAT_MSG_RAID_BOSS_EMOTE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

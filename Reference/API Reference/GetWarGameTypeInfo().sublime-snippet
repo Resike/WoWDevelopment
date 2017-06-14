@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetWarGameTypeInfo($1)$0]]></content>
-	<tabTrigger>GetWarGameTypeInfo</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

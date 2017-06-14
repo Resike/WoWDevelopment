@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DisableSpellAutocast($1)$0]]></content>
-	<tabTrigger>DisableSpellAutocast</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

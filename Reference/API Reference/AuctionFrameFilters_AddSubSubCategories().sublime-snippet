@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AuctionFrameFilters_AddSubSubCategories($1)$0]]></content>
-	<tabTrigger>AuctionFrameFilters_AddSubSubCategories</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ReagentBankFrameBaseButton_OnLoad($1)$0]]></content>
-	<tabTrigger>ReagentBankFrameBaseButton_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

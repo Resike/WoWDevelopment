@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[INSTANCE_BOOT_START]]></content>
-	<tabTrigger>INSTANCE_BOOT_START</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

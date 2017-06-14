@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SearchBagsForItemLink($1)$0]]></content>
-	<tabTrigger>SearchBagsForItemLink</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

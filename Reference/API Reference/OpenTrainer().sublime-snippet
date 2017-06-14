@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OpenTrainer($1)$0]]></content>
-	<tabTrigger>OpenTrainer</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

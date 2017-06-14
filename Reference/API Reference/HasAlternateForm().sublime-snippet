@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HasAlternateForm($1)$0]]></content>
-	<tabTrigger>HasAlternateForm</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

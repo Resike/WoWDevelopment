@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UsesGUID($1)$0]]></content>
-	<tabTrigger>UsesGUID</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

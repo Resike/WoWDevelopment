@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LEARNED_SPELL_IN_TAB]]></content>
-	<tabTrigger>LEARNED_SPELL_IN_TAB</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

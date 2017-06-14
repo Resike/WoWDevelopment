@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MerchantFrame_UnregisterForQualityUpdates($1)$0]]></content>
-	<tabTrigger>MerchantFrame_UnregisterForQualityUpdates</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

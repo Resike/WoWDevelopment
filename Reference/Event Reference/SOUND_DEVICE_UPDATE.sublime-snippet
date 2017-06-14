@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SOUND_DEVICE_UPDATE]]></content>
-	<tabTrigger>SOUND_DEVICE_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

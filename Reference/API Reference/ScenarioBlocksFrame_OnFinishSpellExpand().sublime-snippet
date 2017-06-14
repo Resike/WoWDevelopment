@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ScenarioBlocksFrame_OnFinishSpellExpand($1)$0]]></content>
-	<tabTrigger>ScenarioBlocksFrame_OnFinishSpellExpand</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

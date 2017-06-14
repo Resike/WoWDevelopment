@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QueryWorldCountdownTimer($1)$0]]></content>
-	<tabTrigger>QueryWorldCountdownTimer</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CompactRaidFrameManager_LockContainer($1)$0]]></content>
-	<tabTrigger>CompactRaidFrameManager_LockContainer</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

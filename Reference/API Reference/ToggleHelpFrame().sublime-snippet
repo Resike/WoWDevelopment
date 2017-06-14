@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ToggleHelpFrame($1)$0]]></content>
-	<tabTrigger>ToggleHelpFrame</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

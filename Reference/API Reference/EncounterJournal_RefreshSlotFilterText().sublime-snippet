@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EncounterJournal_RefreshSlotFilterText($1)$0]]></content>
-	<tabTrigger>EncounterJournal_RefreshSlotFilterText</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

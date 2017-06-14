@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CompactRaidFrameReservation_ReleaseUnusedReservations($1)$0]]></content>
-	<tabTrigger>CompactRaidFrameReservation_ReleaseUnusedReservations</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

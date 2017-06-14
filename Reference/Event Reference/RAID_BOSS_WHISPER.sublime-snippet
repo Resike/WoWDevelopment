@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RAID_BOSS_WHISPER]]></content>
-	<tabTrigger>RAID_BOSS_WHISPER</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

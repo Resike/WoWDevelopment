@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LookingForGuildGuild_OnClick($1)$0]]></content>
-	<tabTrigger>LookingForGuildGuild_OnClick</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

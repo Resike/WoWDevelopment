@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FCF_SetChatWindowBackGroundColor($1)$0]]></content>
-	<tabTrigger>FCF_SetChatWindowBackGroundColor</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

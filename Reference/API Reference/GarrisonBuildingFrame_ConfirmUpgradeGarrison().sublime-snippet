@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GarrisonBuildingFrame_ConfirmUpgradeGarrison($1)$0]]></content>
-	<tabTrigger>GarrisonBuildingFrame_ConfirmUpgradeGarrison</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

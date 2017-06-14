@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ReadyCheck_Start($1)$0]]></content>
-	<tabTrigger>ReadyCheck_Start</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

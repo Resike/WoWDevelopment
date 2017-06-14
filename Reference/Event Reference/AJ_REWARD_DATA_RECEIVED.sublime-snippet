@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AJ_REWARD_DATA_RECEIVED]]></content>
-	<tabTrigger>AJ_REWARD_DATA_RECEIVED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

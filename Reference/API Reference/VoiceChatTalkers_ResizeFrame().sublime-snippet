@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VoiceChatTalkers_ResizeFrame($1)$0]]></content>
-	<tabTrigger>VoiceChatTalkers_ResizeFrame</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

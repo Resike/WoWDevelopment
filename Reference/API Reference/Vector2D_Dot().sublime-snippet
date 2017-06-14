@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Vector2D_Dot($1)$0]]></content>
-	<tabTrigger>Vector2D_Dot</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

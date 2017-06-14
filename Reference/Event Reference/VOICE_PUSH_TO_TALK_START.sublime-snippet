@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VOICE_PUSH_TO_TALK_START]]></content>
-	<tabTrigger>VOICE_PUSH_TO_TALK_START</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

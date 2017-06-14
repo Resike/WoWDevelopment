@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EJ_IsValidInstanceDifficulty($1)$0]]></content>
-	<tabTrigger>EJ_IsValidInstanceDifficulty</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

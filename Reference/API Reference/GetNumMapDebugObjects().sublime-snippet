@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetNumMapDebugObjects($1)$0]]></content>
-	<tabTrigger>GetNumMapDebugObjects</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

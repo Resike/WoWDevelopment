@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_EquipmentSet.GetItemLocations($1)$0]]></content>
-	<tabTrigger>C_EquipmentSet.GetItemLocations</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

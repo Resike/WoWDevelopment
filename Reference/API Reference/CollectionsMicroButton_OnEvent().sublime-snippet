@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CollectionsMicroButton_OnEvent($1)$0]]></content>
-	<tabTrigger>CollectionsMicroButton_OnEvent</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

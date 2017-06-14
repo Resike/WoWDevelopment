@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RUNE_TYPE_UPDATE]]></content>
-	<tabTrigger>RUNE_TYPE_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

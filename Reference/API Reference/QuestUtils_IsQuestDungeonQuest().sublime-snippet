@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QuestUtils_IsQuestDungeonQuest($1)$0]]></content>
-	<tabTrigger>QuestUtils_IsQuestDungeonQuest</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

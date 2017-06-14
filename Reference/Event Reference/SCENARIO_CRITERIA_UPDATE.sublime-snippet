@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SCENARIO_CRITERIA_UPDATE]]></content>
-	<tabTrigger>SCENARIO_CRITERIA_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

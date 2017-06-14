@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UPDATE_FACTION]]></content>
-	<tabTrigger>UPDATE_FACTION</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

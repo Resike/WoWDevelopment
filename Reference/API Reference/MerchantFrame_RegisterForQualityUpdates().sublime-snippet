@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MerchantFrame_RegisterForQualityUpdates($1)$0]]></content>
-	<tabTrigger>MerchantFrame_RegisterForQualityUpdates</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

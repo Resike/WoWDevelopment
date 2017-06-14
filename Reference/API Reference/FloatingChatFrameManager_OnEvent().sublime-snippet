@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FloatingChatFrameManager_OnEvent($1)$0]]></content>
-	<tabTrigger>FloatingChatFrameManager_OnEvent</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

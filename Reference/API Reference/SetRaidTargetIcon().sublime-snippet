@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetRaidTargetIcon($1)$0]]></content>
-	<tabTrigger>SetRaidTargetIcon</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

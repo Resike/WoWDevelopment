@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BattlefieldSetPendingReportTarget($1)$0]]></content>
-	<tabTrigger>BattlefieldSetPendingReportTarget</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

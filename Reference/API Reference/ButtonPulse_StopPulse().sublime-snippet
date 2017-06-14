@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ButtonPulse_StopPulse($1)$0]]></content>
-	<tabTrigger>ButtonPulse_StopPulse</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

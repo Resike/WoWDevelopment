@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DamageColor_OpenColorPicker($1)$0]]></content>
-	<tabTrigger>DamageColor_OpenColorPicker</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

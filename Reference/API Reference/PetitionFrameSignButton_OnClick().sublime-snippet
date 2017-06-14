@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PetitionFrameSignButton_OnClick($1)$0]]></content>
-	<tabTrigger>PetitionFrameSignButton_OnClick</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

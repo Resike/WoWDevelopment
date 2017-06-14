@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OptionsList_HideScrollBar($1)$0]]></content>
-	<tabTrigger>OptionsList_HideScrollBar</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

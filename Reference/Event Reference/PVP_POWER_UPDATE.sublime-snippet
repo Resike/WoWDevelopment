@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PVP_POWER_UPDATE]]></content>
-	<tabTrigger>PVP_POWER_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

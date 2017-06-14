@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFGDebug($1)$0]]></content>
-	<tabTrigger>LFGDebug</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

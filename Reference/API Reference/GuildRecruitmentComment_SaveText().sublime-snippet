@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GuildRecruitmentComment_SaveText($1)$0]]></content>
-	<tabTrigger>GuildRecruitmentComment_SaveText</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

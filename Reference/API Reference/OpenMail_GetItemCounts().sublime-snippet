@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OpenMail_GetItemCounts($1)$0]]></content>
-	<tabTrigger>OpenMail_GetItemCounts</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

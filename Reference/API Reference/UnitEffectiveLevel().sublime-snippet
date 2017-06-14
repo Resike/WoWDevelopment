@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnitEffectiveLevel($1)$0]]></content>
-	<tabTrigger>UnitEffectiveLevel</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

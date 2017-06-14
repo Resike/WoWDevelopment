@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SitStandOrDescendStart($1)$0]]></content>
-	<tabTrigger>SitStandOrDescendStart</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

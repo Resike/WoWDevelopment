@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RaidInfoFrame_UpdateSelectedIndex($1)$0]]></content>
-	<tabTrigger>RaidInfoFrame_UpdateSelectedIndex</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

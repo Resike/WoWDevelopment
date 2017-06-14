@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CanGroupInvite($1)$0]]></content>
-	<tabTrigger>CanGroupInvite</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TalkingHeadFrame_SetupAnimations($1)$0]]></content>
-	<tabTrigger>TalkingHeadFrame_SetupAnimations</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

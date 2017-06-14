@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WarlockPowerBar_UpdatePower($1)$0]]></content>
-	<tabTrigger>WarlockPowerBar_UpdatePower</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

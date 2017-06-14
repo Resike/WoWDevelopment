@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CompactUnitFrameProfiles_UpdateCurrentPanel($1)$0]]></content>
-	<tabTrigger>CompactUnitFrameProfiles_UpdateCurrentPanel</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

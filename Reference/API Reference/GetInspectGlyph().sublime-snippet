@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetInspectGlyph($1)$0]]></content>
-	<tabTrigger>GetInspectGlyph</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

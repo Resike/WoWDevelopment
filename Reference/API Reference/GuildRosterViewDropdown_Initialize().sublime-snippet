@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GuildRosterViewDropdown_Initialize($1)$0]]></content>
-	<tabTrigger>GuildRosterViewDropdown_Initialize</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AchievementFrame_UpdateTabs($1)$0]]></content>
-	<tabTrigger>AchievementFrame_UpdateTabs</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFG_COMPLETION_REWARD]]></content>
-	<tabTrigger>LFG_COMPLETION_REWARD</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

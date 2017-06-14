@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RaidClassButton_Update($1)$0]]></content>
-	<tabTrigger>RaidClassButton_Update</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

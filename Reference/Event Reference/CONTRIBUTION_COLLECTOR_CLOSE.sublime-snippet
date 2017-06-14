@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CONTRIBUTION_COLLECTOR_CLOSE]]></content>
-	<tabTrigger>CONTRIBUTION_COLLECTOR_CLOSE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

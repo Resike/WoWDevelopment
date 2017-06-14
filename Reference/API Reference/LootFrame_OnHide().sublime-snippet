@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LootFrame_OnHide($1)$0]]></content>
-	<tabTrigger>LootFrame_OnHide</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFG_LIST_APPLICATION_STATUS_UPDATED]]></content>
-	<tabTrigger>LFG_LIST_APPLICATION_STATUS_UPDATED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

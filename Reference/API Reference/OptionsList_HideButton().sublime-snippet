@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OptionsList_HideButton($1)$0]]></content>
-	<tabTrigger>OptionsList_HideButton</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

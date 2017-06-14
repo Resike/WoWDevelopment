@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ComboFrame_OnEvent($1)$0]]></content>
-	<tabTrigger>ComboFrame_OnEvent</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

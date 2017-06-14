@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChannelPulloutTab_ReanchorLeft($1)$0]]></content>
-	<tabTrigger>ChannelPulloutTab_ReanchorLeft</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

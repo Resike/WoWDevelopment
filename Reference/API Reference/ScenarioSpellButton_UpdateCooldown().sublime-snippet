@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ScenarioSpellButton_UpdateCooldown($1)$0]]></content>
-	<tabTrigger>ScenarioSpellButton_UpdateCooldown</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetPVPRoles($1)$0]]></content>
-	<tabTrigger>SetPVPRoles</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

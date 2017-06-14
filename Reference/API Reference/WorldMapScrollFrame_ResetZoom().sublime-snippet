@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WorldMapScrollFrame_ResetZoom($1)$0]]></content>
-	<tabTrigger>WorldMapScrollFrame_ResetZoom</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

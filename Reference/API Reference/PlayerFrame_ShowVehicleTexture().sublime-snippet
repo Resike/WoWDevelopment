@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PlayerFrame_ShowVehicleTexture($1)$0]]></content>
-	<tabTrigger>PlayerFrame_ShowVehicleTexture</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

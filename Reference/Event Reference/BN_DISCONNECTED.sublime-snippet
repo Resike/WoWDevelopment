@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BN_DISCONNECTED]]></content>
-	<tabTrigger>BN_DISCONNECTED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

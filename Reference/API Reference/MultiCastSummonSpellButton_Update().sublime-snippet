@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MultiCastSummonSpellButton_Update($1)$0]]></content>
-	<tabTrigger>MultiCastSummonSpellButton_Update</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MultiCastSpellButton_OnEvent($1)$0]]></content>
-	<tabTrigger>MultiCastSpellButton_OnEvent</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

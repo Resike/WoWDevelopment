@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GuildPerksFrame_OnEvent($1)$0]]></content>
-	<tabTrigger>GuildPerksFrame_OnEvent</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

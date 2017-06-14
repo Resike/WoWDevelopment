@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FlowContainer_PauseUpdates($1)$0]]></content>
-	<tabTrigger>FlowContainer_PauseUpdates</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

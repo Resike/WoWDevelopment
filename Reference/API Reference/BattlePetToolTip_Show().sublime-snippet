@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BattlePetToolTip_Show($1)$0]]></content>
-	<tabTrigger>BattlePetToolTip_Show</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

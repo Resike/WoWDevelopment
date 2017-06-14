@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetItemUniqueness($1)$0]]></content>
-	<tabTrigger>GetItemUniqueness</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_StoreSecure.GetEligibleRacesForRaceChange($1)$0]]></content>
-	<tabTrigger>C_StoreSecure.GetEligibleRacesForRaceChange</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

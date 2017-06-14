@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PaperDollFrame_SetLevel($1)$0]]></content>
-	<tabTrigger>PaperDollFrame_SetLevel</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

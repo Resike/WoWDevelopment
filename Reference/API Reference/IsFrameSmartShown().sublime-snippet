@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsFrameSmartShown($1)$0]]></content>
-	<tabTrigger>IsFrameSmartShown</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

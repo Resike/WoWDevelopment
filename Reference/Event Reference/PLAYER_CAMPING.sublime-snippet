@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PLAYER_CAMPING]]></content>
-	<tabTrigger>PLAYER_CAMPING</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

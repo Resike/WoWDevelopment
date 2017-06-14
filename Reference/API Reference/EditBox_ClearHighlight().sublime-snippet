@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditBox_ClearHighlight($1)$0]]></content>
-	<tabTrigger>EditBox_ClearHighlight</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

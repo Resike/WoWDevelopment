@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ExecuteVoidTransfer($1)$0]]></content>
-	<tabTrigger>ExecuteVoidTransfer</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

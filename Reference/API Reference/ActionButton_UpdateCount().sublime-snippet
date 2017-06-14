@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ActionButton_UpdateCount($1)$0]]></content>
-	<tabTrigger>ActionButton_UpdateCount</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

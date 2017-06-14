@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetQuestChoiceInfo($1)$0]]></content>
-	<tabTrigger>GetQuestChoiceInfo</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

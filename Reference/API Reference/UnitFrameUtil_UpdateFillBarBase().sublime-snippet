@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnitFrameUtil_UpdateFillBarBase($1)$0]]></content>
-	<tabTrigger>UnitFrameUtil_UpdateFillBarBase</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

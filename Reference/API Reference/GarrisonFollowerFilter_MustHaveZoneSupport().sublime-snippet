@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GarrisonFollowerFilter_MustHaveZoneSupport($1)$0]]></content>
-	<tabTrigger>GarrisonFollowerFilter_MustHaveZoneSupport</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

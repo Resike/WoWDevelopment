@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GameTooltip_OnTooltipAddMoney($1)$0]]></content>
-	<tabTrigger>GameTooltip_OnTooltipAddMoney</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GarrisonFollowerPageModel_OnMouseUp($1)$0]]></content>
-	<tabTrigger>GarrisonFollowerPageModel_OnMouseUp</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

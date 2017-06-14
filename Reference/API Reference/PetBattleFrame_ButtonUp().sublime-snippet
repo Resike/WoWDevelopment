@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PetBattleFrame_ButtonUp($1)$0]]></content>
-	<tabTrigger>PetBattleFrame_ButtonUp</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

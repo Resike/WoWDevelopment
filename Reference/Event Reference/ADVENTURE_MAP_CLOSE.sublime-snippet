@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ADVENTURE_MAP_CLOSE]]></content>
-	<tabTrigger>ADVENTURE_MAP_CLOSE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsPlayerInMicroDungeon($1)$0]]></content>
-	<tabTrigger>IsPlayerInMicroDungeon</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

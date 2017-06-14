@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FCFDockScrollFrame_JumpToTab($1)$0]]></content>
-	<tabTrigger>FCFDockScrollFrame_JumpToTab</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

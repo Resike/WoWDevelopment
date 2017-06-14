@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_StoreSecure.GetWoWAccountGUIDFromName($1)$0]]></content>
-	<tabTrigger>C_StoreSecure.GetWoWAccountGUIDFromName</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

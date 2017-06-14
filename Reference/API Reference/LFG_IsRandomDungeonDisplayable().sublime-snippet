@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFG_IsRandomDungeonDisplayable($1)$0]]></content>
-	<tabTrigger>LFG_IsRandomDungeonDisplayable</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

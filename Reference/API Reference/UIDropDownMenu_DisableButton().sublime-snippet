@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UIDropDownMenu_DisableButton($1)$0]]></content>
-	<tabTrigger>UIDropDownMenu_DisableButton</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

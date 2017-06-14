@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TIME_PLAYED_MSG]]></content>
-	<tabTrigger>TIME_PLAYED_MSG</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

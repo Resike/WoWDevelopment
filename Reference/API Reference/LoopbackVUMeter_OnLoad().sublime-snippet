@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LoopbackVUMeter_OnLoad($1)$0]]></content>
-	<tabTrigger>LoopbackVUMeter_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

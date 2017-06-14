@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ReadyCheck_Confirm($1)$0]]></content>
-	<tabTrigger>ReadyCheck_Confirm</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PVP_BRAWL_INFO_UPDATED]]></content>
-	<tabTrigger>PVP_BRAWL_INFO_UPDATED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AchievementButton_ResetCriteria($1)$0]]></content>
-	<tabTrigger>AchievementButton_ResetCriteria</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AuraButton_Update($1)$0]]></content>
-	<tabTrigger>AuraButton_Update</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

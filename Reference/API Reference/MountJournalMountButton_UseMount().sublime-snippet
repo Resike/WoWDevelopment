@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MountJournalMountButton_UseMount($1)$0]]></content>
-	<tabTrigger>MountJournalMountButton_UseMount</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

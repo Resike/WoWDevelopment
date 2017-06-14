@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MultiActionBar_HideAllGrids($1)$0]]></content>
-	<tabTrigger>MultiActionBar_HideAllGrids</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

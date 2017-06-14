@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PRODUCT_ASSIGN_TO_TARGET_FAILED]]></content>
-	<tabTrigger>PRODUCT_ASSIGN_TO_TARGET_FAILED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

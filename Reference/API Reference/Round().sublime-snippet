@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Round($1)$0]]></content>
-	<tabTrigger>Round</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HasIgnoreDualWieldWeapon($1)$0]]></content>
-	<tabTrigger>HasIgnoreDualWieldWeapon</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

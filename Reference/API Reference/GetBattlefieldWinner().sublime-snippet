@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetBattlefieldWinner($1)$0]]></content>
-	<tabTrigger>GetBattlefieldWinner</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

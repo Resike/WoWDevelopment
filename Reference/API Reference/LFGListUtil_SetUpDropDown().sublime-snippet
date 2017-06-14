@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFGListUtil_SetUpDropDown($1)$0]]></content>
-	<tabTrigger>LFGListUtil_SetUpDropDown</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AuctionFrame_GetTimeLeftTooltipText($1)$0]]></content>
-	<tabTrigger>AuctionFrame_GetTimeLeftTooltipText</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

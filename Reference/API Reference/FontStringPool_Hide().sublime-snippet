@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FontStringPool_Hide($1)$0]]></content>
-	<tabTrigger>FontStringPool_Hide</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

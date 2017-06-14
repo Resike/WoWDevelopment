@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AscendStop($1)$0]]></content>
-	<tabTrigger>AscendStop</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

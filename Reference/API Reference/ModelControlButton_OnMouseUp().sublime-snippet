@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ModelControlButton_OnMouseUp($1)$0]]></content>
-	<tabTrigger>ModelControlButton_OnMouseUp</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

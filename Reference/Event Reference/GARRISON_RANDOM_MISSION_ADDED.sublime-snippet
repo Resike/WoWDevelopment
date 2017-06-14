@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GARRISON_RANDOM_MISSION_ADDED]]></content>
-	<tabTrigger>GARRISON_RANDOM_MISSION_ADDED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

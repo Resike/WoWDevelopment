@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NavBar_CheckLength($1)$0]]></content>
-	<tabTrigger>NavBar_CheckLength</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

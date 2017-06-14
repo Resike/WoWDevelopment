@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PetJournal_HideAbilityTooltip($1)$0]]></content>
-	<tabTrigger>PetJournal_HideAbilityTooltip</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

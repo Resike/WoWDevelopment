@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OptionsList_ClearSelection($1)$0]]></content>
-	<tabTrigger>OptionsList_ClearSelection</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

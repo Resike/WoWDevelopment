@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ActionButton_GetPagedID($1)$0]]></content>
-	<tabTrigger>ActionButton_GetPagedID</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

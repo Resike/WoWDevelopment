@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PLAYER_FLAGS_CHANGED]]></content>
-	<tabTrigger>PLAYER_FLAGS_CHANGED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

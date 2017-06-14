@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarDayContextMenu_AcceptInvite($1)$0]]></content>
-	<tabTrigger>CalendarDayContextMenu_AcceptInvite</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

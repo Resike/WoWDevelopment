@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VideoOptionsFrame_SetAllToDefaults($1)$0]]></content>
-	<tabTrigger>VideoOptionsFrame_SetAllToDefaults</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PartyMemberHealthCheck($1)$0]]></content>
-	<tabTrigger>PartyMemberHealthCheck</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

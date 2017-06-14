@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MovieFrame_PlayMovie($1)$0]]></content>
-	<tabTrigger>MovieFrame_PlayMovie</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

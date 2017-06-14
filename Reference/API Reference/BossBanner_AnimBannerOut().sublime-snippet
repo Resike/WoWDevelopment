@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BossBanner_AnimBannerOut($1)$0]]></content>
-	<tabTrigger>BossBanner_AnimBannerOut</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

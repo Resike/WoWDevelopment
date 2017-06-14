@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QuestFrame_HideQuestPortrait($1)$0]]></content>
-	<tabTrigger>QuestFrame_HideQuestPortrait</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

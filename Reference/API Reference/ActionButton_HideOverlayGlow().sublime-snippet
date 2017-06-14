@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ActionButton_HideOverlayGlow($1)$0]]></content>
-	<tabTrigger>ActionButton_HideOverlayGlow</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WorldMapBlobFrame_UpdateBlobs($1)$0]]></content>
-	<tabTrigger>WorldMapBlobFrame_UpdateBlobs</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ITEM_LOCKED]]></content>
-	<tabTrigger>ITEM_LOCKED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

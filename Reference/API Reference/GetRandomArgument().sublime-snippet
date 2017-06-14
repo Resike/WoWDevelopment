@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetRandomArgument($1)$0]]></content>
-	<tabTrigger>GetRandomArgument</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

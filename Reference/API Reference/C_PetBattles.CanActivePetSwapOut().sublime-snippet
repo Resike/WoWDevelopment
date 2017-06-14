@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_PetBattles.CanActivePetSwapOut($1)$0]]></content>
-	<tabTrigger>C_PetBattles.CanActivePetSwapOut</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

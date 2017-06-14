@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_ContributionCollector.IsAwaitingRewardQuestData($1)$0]]></content>
-	<tabTrigger>C_ContributionCollector.IsAwaitingRewardQuestData</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

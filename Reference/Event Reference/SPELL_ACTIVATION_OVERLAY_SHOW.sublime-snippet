@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SPELL_ACTIVATION_OVERLAY_SHOW]]></content>
-	<tabTrigger>SPELL_ACTIVATION_OVERLAY_SHOW</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

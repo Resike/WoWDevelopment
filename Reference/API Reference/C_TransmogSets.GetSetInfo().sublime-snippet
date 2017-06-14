@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_TransmogSets.GetSetInfo($1)$0]]></content>
-	<tabTrigger>C_TransmogSets.GetSetInfo</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

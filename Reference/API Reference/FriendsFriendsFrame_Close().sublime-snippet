@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FriendsFriendsFrame_Close($1)$0]]></content>
-	<tabTrigger>FriendsFriendsFrame_Close</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

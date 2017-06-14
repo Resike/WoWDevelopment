@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GarrisonMissionMechanic_OnLeave($1)$0]]></content>
-	<tabTrigger>GarrisonMissionMechanic_OnLeave</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TRANSMOG_SOURCE_COLLECTABILITY_UPDATE]]></content>
-	<tabTrigger>TRANSMOG_SOURCE_COLLECTABILITY_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

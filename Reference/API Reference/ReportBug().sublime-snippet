@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ReportBug($1)$0]]></content>
-	<tabTrigger>ReportBug</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

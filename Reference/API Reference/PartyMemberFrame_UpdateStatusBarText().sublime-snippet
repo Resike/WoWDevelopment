@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PartyMemberFrame_UpdateStatusBarText($1)$0]]></content>
-	<tabTrigger>PartyMemberFrame_UpdateStatusBarText</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

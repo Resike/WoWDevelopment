@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RedockChatWindows($1)$0]]></content>
-	<tabTrigger>RedockChatWindows</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

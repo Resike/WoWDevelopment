@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BILLING_NAG_DIALOG]]></content>
-	<tabTrigger>BILLING_NAG_DIALOG</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

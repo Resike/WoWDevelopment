@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FrameStackTooltip_OnDisplaySizeChanged($1)$0]]></content>
-	<tabTrigger>FrameStackTooltip_OnDisplaySizeChanged</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

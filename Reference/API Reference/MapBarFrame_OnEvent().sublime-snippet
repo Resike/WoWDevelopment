@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MapBarFrame_OnEvent($1)$0]]></content>
-	<tabTrigger>MapBarFrame_OnEvent</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

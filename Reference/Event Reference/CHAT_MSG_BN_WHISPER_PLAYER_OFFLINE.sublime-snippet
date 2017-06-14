@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CHAT_MSG_BN_WHISPER_PLAYER_OFFLINE]]></content>
-	<tabTrigger>CHAT_MSG_BN_WHISPER_PLAYER_OFFLINE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

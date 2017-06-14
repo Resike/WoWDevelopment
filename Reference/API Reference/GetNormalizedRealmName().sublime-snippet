@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetNormalizedRealmName($1)$0]]></content>
-	<tabTrigger>GetNormalizedRealmName</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

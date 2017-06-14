@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChatMenu_Emote($1)$0]]></content>
-	<tabTrigger>ChatMenu_Emote</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

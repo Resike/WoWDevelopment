@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GARRISON_RECRUITMENT_NPC_CLOSED]]></content>
-	<tabTrigger>GARRISON_RECRUITMENT_NPC_CLOSED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

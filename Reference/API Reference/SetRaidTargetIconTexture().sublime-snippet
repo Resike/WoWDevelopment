@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetRaidTargetIconTexture($1)$0]]></content>
-	<tabTrigger>SetRaidTargetIconTexture</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

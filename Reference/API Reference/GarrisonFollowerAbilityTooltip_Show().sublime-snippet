@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GarrisonFollowerAbilityTooltip_Show($1)$0]]></content>
-	<tabTrigger>GarrisonFollowerAbilityTooltip_Show</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Graphics_EnableApply($1)$0]]></content>
-	<tabTrigger>Graphics_EnableApply</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

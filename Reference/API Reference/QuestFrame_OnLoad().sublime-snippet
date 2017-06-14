@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QuestFrame_OnLoad($1)$0]]></content>
-	<tabTrigger>QuestFrame_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

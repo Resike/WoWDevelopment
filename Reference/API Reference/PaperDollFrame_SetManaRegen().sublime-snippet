@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PaperDollFrame_SetManaRegen($1)$0]]></content>
-	<tabTrigger>PaperDollFrame_SetManaRegen</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

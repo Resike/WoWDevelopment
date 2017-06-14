@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CanShowCenterUIPanel($1)$0]]></content>
-	<tabTrigger>CanShowCenterUIPanel</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

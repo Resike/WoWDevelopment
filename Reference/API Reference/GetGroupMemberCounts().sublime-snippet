@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetGroupMemberCounts($1)$0]]></content>
-	<tabTrigger>GetGroupMemberCounts</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

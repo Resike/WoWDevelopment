@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MacroFrame_OnLoad($1)$0]]></content>
-	<tabTrigger>MacroFrame_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

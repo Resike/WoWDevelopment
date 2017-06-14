@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CompactUnitFrame_SetUpdateAllOnUpdate($1)$0]]></content>
-	<tabTrigger>CompactUnitFrame_SetUpdateAllOnUpdate</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

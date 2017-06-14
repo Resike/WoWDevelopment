@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarTexturePickerScrollFrame_Update($1)$0]]></content>
-	<tabTrigger>CalendarTexturePickerScrollFrame_Update</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

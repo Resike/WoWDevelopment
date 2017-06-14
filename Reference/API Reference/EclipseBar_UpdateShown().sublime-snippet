@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EclipseBar_UpdateShown($1)$0]]></content>
-	<tabTrigger>EclipseBar_UpdateShown</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

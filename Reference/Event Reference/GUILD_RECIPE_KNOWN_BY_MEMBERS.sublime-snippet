@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILD_RECIPE_KNOWN_BY_MEMBERS]]></content>
-	<tabTrigger>GUILD_RECIPE_KNOWN_BY_MEMBERS</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

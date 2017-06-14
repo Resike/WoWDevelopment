@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BATTLEFIELD_MGR_ENTRY_INVITE]]></content>
-	<tabTrigger>BATTLEFIELD_MGR_ENTRY_INVITE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PLAYER_TRADE_CURRENCY]]></content>
-	<tabTrigger>PLAYER_TRADE_CURRENCY</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

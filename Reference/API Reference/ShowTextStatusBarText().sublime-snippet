@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ShowTextStatusBarText($1)$0]]></content>
-	<tabTrigger>ShowTextStatusBarText</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

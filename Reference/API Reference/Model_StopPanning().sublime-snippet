@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Model_StopPanning($1)$0]]></content>
-	<tabTrigger>Model_StopPanning</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

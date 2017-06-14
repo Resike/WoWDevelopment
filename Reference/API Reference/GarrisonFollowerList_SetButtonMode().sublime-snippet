@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GarrisonFollowerList_SetButtonMode($1)$0]]></content>
-	<tabTrigger>GarrisonFollowerList_SetButtonMode</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

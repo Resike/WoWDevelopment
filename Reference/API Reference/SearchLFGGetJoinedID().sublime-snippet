@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SearchLFGGetJoinedID($1)$0]]></content>
-	<tabTrigger>SearchLFGGetJoinedID</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NEW_WMO_CHUNK]]></content>
-	<tabTrigger>NEW_WMO_CHUNK</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

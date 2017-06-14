@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QueueStatusDropDown_AddWorldPvPButtons($1)$0]]></content>
-	<tabTrigger>QueueStatusDropDown_AddWorldPvPButtons</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

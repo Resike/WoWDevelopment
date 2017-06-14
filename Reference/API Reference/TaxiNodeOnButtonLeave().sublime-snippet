@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TaxiNodeOnButtonLeave($1)$0]]></content>
-	<tabTrigger>TaxiNodeOnButtonLeave</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

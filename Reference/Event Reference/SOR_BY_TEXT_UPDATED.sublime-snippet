@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SOR_BY_TEXT_UPDATED]]></content>
-	<tabTrigger>SOR_BY_TEXT_UPDATED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

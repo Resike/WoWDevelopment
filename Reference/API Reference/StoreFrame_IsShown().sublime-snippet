@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[StoreFrame_IsShown($1)$0]]></content>
-	<tabTrigger>StoreFrame_IsShown</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

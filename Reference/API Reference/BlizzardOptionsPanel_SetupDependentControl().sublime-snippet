@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BlizzardOptionsPanel_SetupDependentControl($1)$0]]></content>
-	<tabTrigger>BlizzardOptionsPanel_SetupDependentControl</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

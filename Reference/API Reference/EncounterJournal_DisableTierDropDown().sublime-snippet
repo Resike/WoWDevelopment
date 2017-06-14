@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EncounterJournal_DisableTierDropDown($1)$0]]></content>
-	<tabTrigger>EncounterJournal_DisableTierDropDown</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ArenaPrepFrames_GetBestAnchorUnitFrameForOppponent($1)$0]]></content>
-	<tabTrigger>ArenaPrepFrames_GetBestAnchorUnitFrameForOppponent</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

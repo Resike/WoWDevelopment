@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UIMenu_AutoSize($1)$0]]></content>
-	<tabTrigger>UIMenu_AutoSize</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

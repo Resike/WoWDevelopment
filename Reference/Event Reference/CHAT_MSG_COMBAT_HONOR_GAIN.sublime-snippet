@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CHAT_MSG_COMBAT_HONOR_GAIN]]></content>
-	<tabTrigger>CHAT_MSG_COMBAT_HONOR_GAIN</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

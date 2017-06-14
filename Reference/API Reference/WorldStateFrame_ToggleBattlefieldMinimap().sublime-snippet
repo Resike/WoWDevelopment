@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WorldStateFrame_ToggleBattlefieldMinimap($1)$0]]></content>
-	<tabTrigger>WorldStateFrame_ToggleBattlefieldMinimap</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

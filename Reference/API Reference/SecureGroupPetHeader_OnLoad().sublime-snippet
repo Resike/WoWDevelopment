@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SecureGroupPetHeader_OnLoad($1)$0]]></content>
-	<tabTrigger>SecureGroupPetHeader_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

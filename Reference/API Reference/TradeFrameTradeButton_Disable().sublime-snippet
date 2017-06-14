@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TradeFrameTradeButton_Disable($1)$0]]></content>
-	<tabTrigger>TradeFrameTradeButton_Disable</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

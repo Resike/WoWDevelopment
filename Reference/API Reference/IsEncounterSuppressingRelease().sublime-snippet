@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsEncounterSuppressingRelease($1)$0]]></content>
-	<tabTrigger>IsEncounterSuppressingRelease</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

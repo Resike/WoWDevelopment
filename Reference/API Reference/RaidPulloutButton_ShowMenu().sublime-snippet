@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RaidPulloutButton_ShowMenu($1)$0]]></content>
-	<tabTrigger>RaidPulloutButton_ShowMenu</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

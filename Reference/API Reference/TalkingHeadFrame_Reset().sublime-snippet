@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TalkingHeadFrame_Reset($1)$0]]></content>
-	<tabTrigger>TalkingHeadFrame_Reset</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

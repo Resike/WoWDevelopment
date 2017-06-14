@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PLAYER_XP_UPDATE]]></content>
-	<tabTrigger>PLAYER_XP_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

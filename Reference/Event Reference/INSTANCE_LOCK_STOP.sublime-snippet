@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[INSTANCE_LOCK_STOP]]></content>
-	<tabTrigger>INSTANCE_LOCK_STOP</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

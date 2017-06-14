@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[COMPANION_UNLEARNED]]></content>
-	<tabTrigger>COMPANION_UNLEARNED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

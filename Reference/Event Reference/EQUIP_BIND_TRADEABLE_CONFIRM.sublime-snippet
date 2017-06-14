@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EQUIP_BIND_TRADEABLE_CONFIRM]]></content>
-	<tabTrigger>EQUIP_BIND_TRADEABLE_CONFIRM</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

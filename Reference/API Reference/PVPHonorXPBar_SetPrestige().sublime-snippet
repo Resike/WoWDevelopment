@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PVPHonorXPBar_SetPrestige($1)$0]]></content>
-	<tabTrigger>PVPHonorXPBar_SetPrestige</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

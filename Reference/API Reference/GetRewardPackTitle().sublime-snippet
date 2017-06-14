@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetRewardPackTitle($1)$0]]></content>
-	<tabTrigger>GetRewardPackTitle</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

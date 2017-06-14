@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnitHasLFGDeserter($1)$0]]></content>
-	<tabTrigger>UnitHasLFGDeserter</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

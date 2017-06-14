@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TRADE_CURRENCY_CHANGED]]></content>
-	<tabTrigger>TRADE_CURRENCY_CHANGED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

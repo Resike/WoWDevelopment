@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RecalculateGearManagerDialogPopup($1)$0]]></content>
-	<tabTrigger>RecalculateGearManagerDialogPopup</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

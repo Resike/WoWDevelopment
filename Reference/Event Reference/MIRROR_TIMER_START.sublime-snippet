@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MIRROR_TIMER_START]]></content>
-	<tabTrigger>MIRROR_TIMER_START</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

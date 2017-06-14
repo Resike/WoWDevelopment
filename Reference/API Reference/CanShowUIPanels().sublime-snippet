@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CanShowUIPanels($1)$0]]></content>
-	<tabTrigger>CanShowUIPanels</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

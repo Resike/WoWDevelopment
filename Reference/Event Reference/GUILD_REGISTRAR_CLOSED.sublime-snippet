@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILD_REGISTRAR_CLOSED]]></content>
-	<tabTrigger>GUILD_REGISTRAR_CLOSED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

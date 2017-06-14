@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AreTalentsLocked($1)$0]]></content>
-	<tabTrigger>AreTalentsLocked</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

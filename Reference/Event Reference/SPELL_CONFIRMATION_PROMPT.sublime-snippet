@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SPELL_CONFIRMATION_PROMPT]]></content>
-	<tabTrigger>SPELL_CONFIRMATION_PROMPT</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

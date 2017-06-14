@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WorldMapUnitDropDown_Initialize($1)$0]]></content>
-	<tabTrigger>WorldMapUnitDropDown_Initialize</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

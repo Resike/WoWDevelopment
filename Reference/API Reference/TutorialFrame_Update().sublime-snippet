@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TutorialFrame_Update($1)$0]]></content>
-	<tabTrigger>TutorialFrame_Update</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

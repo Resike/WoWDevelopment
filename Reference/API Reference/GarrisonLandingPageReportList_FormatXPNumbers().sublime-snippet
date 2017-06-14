@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GarrisonLandingPageReportList_FormatXPNumbers($1)$0]]></content>
-	<tabTrigger>GarrisonLandingPageReportList_FormatXPNumbers</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

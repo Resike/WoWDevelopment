@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BATTLEFIELD_MGR_QUEUE_STATUS_UPDATE]]></content>
-	<tabTrigger>BATTLEFIELD_MGR_QUEUE_STATUS_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

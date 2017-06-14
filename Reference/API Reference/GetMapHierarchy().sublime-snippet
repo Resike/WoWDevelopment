@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetMapHierarchy($1)$0]]></content>
-	<tabTrigger>GetMapHierarchy</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

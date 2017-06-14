@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QuestMapQuestOptions_AbandonQuest($1)$0]]></content>
-	<tabTrigger>QuestMapQuestOptions_AbandonQuest</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

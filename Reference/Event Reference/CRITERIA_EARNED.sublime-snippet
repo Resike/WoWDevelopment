@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CRITERIA_EARNED]]></content>
-	<tabTrigger>CRITERIA_EARNED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

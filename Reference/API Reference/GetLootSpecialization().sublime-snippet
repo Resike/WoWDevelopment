@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetLootSpecialization($1)$0]]></content>
-	<tabTrigger>GetLootSpecialization</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

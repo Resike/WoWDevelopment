@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UpdateUIParentRelativeToDebugMenu($1)$0]]></content>
-	<tabTrigger>UpdateUIParentRelativeToDebugMenu</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

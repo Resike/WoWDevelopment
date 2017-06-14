@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NavBar_OpenTo($1)$0]]></content>
-	<tabTrigger>NavBar_OpenTo</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

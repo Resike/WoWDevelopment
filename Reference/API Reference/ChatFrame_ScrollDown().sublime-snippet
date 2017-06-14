@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChatFrame_ScrollDown($1)$0]]></content>
-	<tabTrigger>ChatFrame_ScrollDown</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

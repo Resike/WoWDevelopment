@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TargetNearestFriendPlayer($1)$0]]></content>
-	<tabTrigger>TargetNearestFriendPlayer</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

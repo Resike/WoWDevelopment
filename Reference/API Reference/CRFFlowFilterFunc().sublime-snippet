@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CRFFlowFilterFunc($1)$0]]></content>
-	<tabTrigger>CRFFlowFilterFunc</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

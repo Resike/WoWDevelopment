@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EventTraceFrame_HandleSlashCmd($1)$0]]></content>
-	<tabTrigger>EventTraceFrame_HandleSlashCmd</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

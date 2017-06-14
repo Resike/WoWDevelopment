@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GuildControlGetAllowedShifts($1)$0]]></content>
-	<tabTrigger>GuildControlGetAllowedShifts</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

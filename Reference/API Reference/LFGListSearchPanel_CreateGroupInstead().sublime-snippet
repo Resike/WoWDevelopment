@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFGListSearchPanel_CreateGroupInstead($1)$0]]></content>
-	<tabTrigger>LFGListSearchPanel_CreateGroupInstead</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

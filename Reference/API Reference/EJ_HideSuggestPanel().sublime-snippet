@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EJ_HideSuggestPanel($1)$0]]></content>
-	<tabTrigger>EJ_HideSuggestPanel</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UPDATE_INSTANCE_INFO]]></content>
-	<tabTrigger>UPDATE_INSTANCE_INFO</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

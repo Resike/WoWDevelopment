@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsCompetitiveModeEnabled($1)$0]]></content>
-	<tabTrigger>IsCompetitiveModeEnabled</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

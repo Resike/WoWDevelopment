@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILD_CHALLENGE_UPDATED]]></content>
-	<tabTrigger>GUILD_CHALLENGE_UPDATED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

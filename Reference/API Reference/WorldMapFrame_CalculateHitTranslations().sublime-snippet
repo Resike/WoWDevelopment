@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WorldMapFrame_CalculateHitTranslations($1)$0]]></content>
-	<tabTrigger>WorldMapFrame_CalculateHitTranslations</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

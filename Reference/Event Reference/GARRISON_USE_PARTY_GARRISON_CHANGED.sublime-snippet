@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GARRISON_USE_PARTY_GARRISON_CHANGED]]></content>
-	<tabTrigger>GARRISON_USE_PARTY_GARRISON_CHANGED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

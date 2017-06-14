@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetSpellorMacroIconInfo($1)$0]]></content>
-	<tabTrigger>GetSpellorMacroIconInfo</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

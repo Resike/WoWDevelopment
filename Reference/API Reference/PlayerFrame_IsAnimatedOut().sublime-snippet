@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PlayerFrame_IsAnimatedOut($1)$0]]></content>
-	<tabTrigger>PlayerFrame_IsAnimatedOut</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

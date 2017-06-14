@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ADDON_LOADED]]></content>
-	<tabTrigger>ADDON_LOADED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

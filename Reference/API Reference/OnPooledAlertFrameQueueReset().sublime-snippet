@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnPooledAlertFrameQueueReset($1)$0]]></content>
-	<tabTrigger>OnPooledAlertFrameQueueReset</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

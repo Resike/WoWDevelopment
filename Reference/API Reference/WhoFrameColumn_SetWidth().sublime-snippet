@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WhoFrameColumn_SetWidth($1)$0]]></content>
-	<tabTrigger>WhoFrameColumn_SetWidth</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FlowContainer_RemoveAllObjects($1)$0]]></content>
-	<tabTrigger>FlowContainer_RemoveAllObjects</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

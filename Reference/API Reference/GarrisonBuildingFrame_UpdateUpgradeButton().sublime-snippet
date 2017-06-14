@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GarrisonBuildingFrame_UpdateUpgradeButton($1)$0]]></content>
-	<tabTrigger>GarrisonBuildingFrame_UpdateUpgradeButton</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

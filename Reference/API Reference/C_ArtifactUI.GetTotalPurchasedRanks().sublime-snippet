@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_ArtifactUI.GetTotalPurchasedRanks($1)$0]]></content>
-	<tabTrigger>C_ArtifactUI.GetTotalPurchasedRanks</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

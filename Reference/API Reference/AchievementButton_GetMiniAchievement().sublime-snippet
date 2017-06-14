@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AchievementButton_GetMiniAchievement($1)$0]]></content>
-	<tabTrigger>AchievementButton_GetMiniAchievement</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

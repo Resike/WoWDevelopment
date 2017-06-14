@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VOTE_KICK_REASON_NEEDED]]></content>
-	<tabTrigger>VOTE_KICK_REASON_NEEDED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

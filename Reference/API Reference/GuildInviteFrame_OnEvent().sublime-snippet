@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GuildInviteFrame_OnEvent($1)$0]]></content>
-	<tabTrigger>GuildInviteFrame_OnEvent</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChatFrame_SystemEventHandler($1)$0]]></content>
-	<tabTrigger>ChatFrame_SystemEventHandler</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

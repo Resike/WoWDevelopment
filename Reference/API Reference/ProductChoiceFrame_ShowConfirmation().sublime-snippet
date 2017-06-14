@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ProductChoiceFrame_ShowConfirmation($1)$0]]></content>
-	<tabTrigger>ProductChoiceFrame_ShowConfirmation</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CURSOR_UPDATE]]></content>
-	<tabTrigger>CURSOR_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

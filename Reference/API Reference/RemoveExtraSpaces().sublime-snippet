@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RemoveExtraSpaces($1)$0]]></content>
-	<tabTrigger>RemoveExtraSpaces</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

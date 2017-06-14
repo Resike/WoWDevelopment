@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TriStateCheckbox_SetState($1)$0]]></content>
-	<tabTrigger>TriStateCheckbox_SetState</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

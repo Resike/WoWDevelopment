@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MacroPopupOkayButton_Update($1)$0]]></content>
-	<tabTrigger>MacroPopupOkayButton_Update</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

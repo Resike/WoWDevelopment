@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EJ_GetDifficulty($1)$0]]></content>
-	<tabTrigger>EJ_GetDifficulty</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QuestSuperTracking_OnQuestTracked($1)$0]]></content>
-	<tabTrigger>QuestSuperTracking_OnQuestTracked</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

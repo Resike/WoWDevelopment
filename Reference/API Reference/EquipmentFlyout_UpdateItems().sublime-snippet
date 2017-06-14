@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EquipmentFlyout_UpdateItems($1)$0]]></content>
-	<tabTrigger>EquipmentFlyout_UpdateItems</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

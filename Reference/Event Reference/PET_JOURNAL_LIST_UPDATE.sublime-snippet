@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PET_JOURNAL_LIST_UPDATE]]></content>
-	<tabTrigger>PET_JOURNAL_LIST_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

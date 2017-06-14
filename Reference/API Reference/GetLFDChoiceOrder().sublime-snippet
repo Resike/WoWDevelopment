@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetLFDChoiceOrder($1)$0]]></content>
-	<tabTrigger>GetLFDChoiceOrder</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

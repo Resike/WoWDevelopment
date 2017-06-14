@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChatConfig_UpdateCombatTabs($1)$0]]></content>
-	<tabTrigger>ChatConfig_UpdateCombatTabs</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

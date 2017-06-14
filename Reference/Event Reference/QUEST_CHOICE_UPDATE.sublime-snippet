@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QUEST_CHOICE_UPDATE]]></content>
-	<tabTrigger>QUEST_CHOICE_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CreateTexturePool($1)$0]]></content>
-	<tabTrigger>CreateTexturePool</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

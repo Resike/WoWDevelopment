@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[INSPECT_READY]]></content>
-	<tabTrigger>INSPECT_READY</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

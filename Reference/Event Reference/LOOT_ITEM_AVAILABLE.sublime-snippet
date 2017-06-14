@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LOOT_ITEM_AVAILABLE]]></content>
-	<tabTrigger>LOOT_ITEM_AVAILABLE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

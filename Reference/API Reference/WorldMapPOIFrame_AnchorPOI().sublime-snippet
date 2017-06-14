@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WorldMapPOIFrame_AnchorPOI($1)$0]]></content>
-	<tabTrigger>WorldMapPOIFrame_AnchorPOI</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

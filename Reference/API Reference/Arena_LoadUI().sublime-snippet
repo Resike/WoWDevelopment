@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Arena_LoadUI($1)$0]]></content>
-	<tabTrigger>Arena_LoadUI</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

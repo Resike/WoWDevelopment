@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarFrame_PushModal($1)$0]]></content>
-	<tabTrigger>CalendarFrame_PushModal</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

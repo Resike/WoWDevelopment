@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GarrisonFollowerPage_SetItem($1)$0]]></content>
-	<tabTrigger>GarrisonFollowerPage_SetItem</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

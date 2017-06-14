@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetHonorLevelRewardPack($1)$0]]></content>
-	<tabTrigger>GetHonorLevelRewardPack</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

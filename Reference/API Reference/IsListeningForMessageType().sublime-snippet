@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsListeningForMessageType($1)$0]]></content>
-	<tabTrigger>IsListeningForMessageType</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

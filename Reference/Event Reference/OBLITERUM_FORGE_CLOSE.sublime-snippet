@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OBLITERUM_FORGE_CLOSE]]></content>
-	<tabTrigger>OBLITERUM_FORGE_CLOSE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

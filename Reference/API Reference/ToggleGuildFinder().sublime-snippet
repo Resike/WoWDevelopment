@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ToggleGuildFinder($1)$0]]></content>
-	<tabTrigger>ToggleGuildFinder</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GMReportLag($1)$0]]></content>
-	<tabTrigger>GMReportLag</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

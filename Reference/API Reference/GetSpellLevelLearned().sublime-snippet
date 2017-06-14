@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetSpellLevelLearned($1)$0]]></content>
-	<tabTrigger>GetSpellLevelLearned</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

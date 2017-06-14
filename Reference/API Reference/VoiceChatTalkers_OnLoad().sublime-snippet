@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VoiceChatTalkers_OnLoad($1)$0]]></content>
-	<tabTrigger>VoiceChatTalkers_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

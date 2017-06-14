@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFGDungeonList_SetHeaderEnabled($1)$0]]></content>
-	<tabTrigger>LFGDungeonList_SetHeaderEnabled</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

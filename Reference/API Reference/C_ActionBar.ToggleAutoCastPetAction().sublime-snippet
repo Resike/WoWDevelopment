@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_ActionBar.ToggleAutoCastPetAction($1)$0]]></content>
-	<tabTrigger>C_ActionBar.ToggleAutoCastPetAction</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

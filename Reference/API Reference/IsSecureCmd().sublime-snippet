@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsSecureCmd($1)$0]]></content>
-	<tabTrigger>IsSecureCmd</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

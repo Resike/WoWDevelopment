@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GarrisonCapacitiveDisplayFrame_OnHide($1)$0]]></content>
-	<tabTrigger>GarrisonCapacitiveDisplayFrame_OnHide</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

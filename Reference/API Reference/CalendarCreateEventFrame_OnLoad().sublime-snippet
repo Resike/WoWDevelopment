@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarCreateEventFrame_OnLoad($1)$0]]></content>
-	<tabTrigger>CalendarCreateEventFrame_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

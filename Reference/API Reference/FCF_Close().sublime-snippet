@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FCF_Close($1)$0]]></content>
-	<tabTrigger>FCF_Close</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

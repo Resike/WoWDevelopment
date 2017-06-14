@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PetFrameDropDown_Initialize($1)$0]]></content>
-	<tabTrigger>PetFrameDropDown_Initialize</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

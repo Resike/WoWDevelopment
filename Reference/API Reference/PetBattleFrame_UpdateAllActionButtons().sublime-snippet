@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PetBattleFrame_UpdateAllActionButtons($1)$0]]></content>
-	<tabTrigger>PetBattleFrame_UpdateAllActionButtons</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

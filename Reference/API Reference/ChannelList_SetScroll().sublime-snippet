@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChannelList_SetScroll($1)$0]]></content>
-	<tabTrigger>ChannelList_SetScroll</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

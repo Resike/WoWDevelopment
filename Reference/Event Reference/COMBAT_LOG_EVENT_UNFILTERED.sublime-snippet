@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[COMBAT_LOG_EVENT_UNFILTERED]]></content>
-	<tabTrigger>COMBAT_LOG_EVENT_UNFILTERED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

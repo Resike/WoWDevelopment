@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CRF_SetFilterRole($1)$0]]></content>
-	<tabTrigger>CRF_SetFilterRole</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

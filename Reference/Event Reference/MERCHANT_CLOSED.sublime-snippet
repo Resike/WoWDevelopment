@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MERCHANT_CLOSED]]></content>
-	<tabTrigger>MERCHANT_CLOSED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

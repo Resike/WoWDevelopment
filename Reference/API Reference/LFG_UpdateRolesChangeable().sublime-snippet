@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFG_UpdateRolesChangeable($1)$0]]></content>
-	<tabTrigger>LFG_UpdateRolesChangeable</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

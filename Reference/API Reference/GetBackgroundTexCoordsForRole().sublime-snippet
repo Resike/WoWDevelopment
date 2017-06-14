@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetBackgroundTexCoordsForRole($1)$0]]></content>
-	<tabTrigger>GetBackgroundTexCoordsForRole</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

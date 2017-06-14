@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetOverrideBarIndex($1)$0]]></content>
-	<tabTrigger>GetOverrideBarIndex</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

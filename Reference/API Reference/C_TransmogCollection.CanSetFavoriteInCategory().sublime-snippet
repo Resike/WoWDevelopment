@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_TransmogCollection.CanSetFavoriteInCategory($1)$0]]></content>
-	<tabTrigger>C_TransmogCollection.CanSetFavoriteInCategory</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

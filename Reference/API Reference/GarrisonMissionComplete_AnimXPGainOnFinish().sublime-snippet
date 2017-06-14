@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GarrisonMissionComplete_AnimXPGainOnFinish($1)$0]]></content>
-	<tabTrigger>GarrisonMissionComplete_AnimXPGainOnFinish</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

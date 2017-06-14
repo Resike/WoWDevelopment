@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AdventureMap_IsPositionBlockedByZoneChoice($1)$0]]></content>
-	<tabTrigger>AdventureMap_IsPositionBlockedByZoneChoice</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

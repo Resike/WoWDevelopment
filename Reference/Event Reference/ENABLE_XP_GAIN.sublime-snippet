@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ENABLE_XP_GAIN]]></content>
-	<tabTrigger>ENABLE_XP_GAIN</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

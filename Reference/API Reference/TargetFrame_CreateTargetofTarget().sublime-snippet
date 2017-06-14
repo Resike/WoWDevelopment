@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TargetFrame_CreateTargetofTarget($1)$0]]></content>
-	<tabTrigger>TargetFrame_CreateTargetofTarget</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

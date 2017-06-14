@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CompactUnitFrameProfilesDropdown_InitializeWidget($1)$0]]></content>
-	<tabTrigger>CompactUnitFrameProfilesDropdown_InitializeWidget</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

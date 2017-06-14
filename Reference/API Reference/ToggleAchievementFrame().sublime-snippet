@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ToggleAchievementFrame($1)$0]]></content>
-	<tabTrigger>ToggleAchievementFrame</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

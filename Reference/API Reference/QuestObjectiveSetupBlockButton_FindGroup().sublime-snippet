@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QuestObjectiveSetupBlockButton_FindGroup($1)$0]]></content>
-	<tabTrigger>QuestObjectiveSetupBlockButton_FindGroup</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Minimap_SetPing($1)$0]]></content>
-	<tabTrigger>Minimap_SetPing</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

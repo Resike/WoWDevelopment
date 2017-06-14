@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetWeeklyPVPRewardInfo($1)$0]]></content>
-	<tabTrigger>GetWeeklyPVPRewardInfo</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

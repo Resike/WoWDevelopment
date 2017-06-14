@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetGuildNewsSort($1)$0]]></content>
-	<tabTrigger>GetGuildNewsSort</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

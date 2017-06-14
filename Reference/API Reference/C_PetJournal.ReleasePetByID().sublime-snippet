@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_PetJournal.ReleasePetByID($1)$0]]></content>
-	<tabTrigger>C_PetJournal.ReleasePetByID</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

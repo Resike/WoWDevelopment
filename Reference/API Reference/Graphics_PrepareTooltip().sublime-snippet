@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Graphics_PrepareTooltip($1)$0]]></content>
-	<tabTrigger>Graphics_PrepareTooltip</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

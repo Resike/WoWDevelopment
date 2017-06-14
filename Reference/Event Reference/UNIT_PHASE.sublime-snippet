@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UNIT_PHASE]]></content>
-	<tabTrigger>UNIT_PHASE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

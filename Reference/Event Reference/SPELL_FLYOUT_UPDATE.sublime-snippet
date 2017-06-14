@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SPELL_FLYOUT_UPDATE]]></content>
-	<tabTrigger>SPELL_FLYOUT_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PVPUIFrame_UpdateSelectedRoles($1)$0]]></content>
-	<tabTrigger>PVPUIFrame_UpdateSelectedRoles</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FCF_SetButtonSide($1)$0]]></content>
-	<tabTrigger>FCF_SetButtonSide</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

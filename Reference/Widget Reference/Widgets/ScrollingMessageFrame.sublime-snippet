@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ScrollingMessageFrame]]></content>
-	<tabTrigger>ScrollingMessageFrame</tabTrigger>
-	<description>frameType</description>
-	<scope>source.lua</scope>
-</snippet>

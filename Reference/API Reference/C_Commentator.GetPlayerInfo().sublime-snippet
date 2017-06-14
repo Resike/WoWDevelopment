@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_Commentator.GetPlayerInfo($1)$0]]></content>
-	<tabTrigger>C_Commentator.GetPlayerInfo</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

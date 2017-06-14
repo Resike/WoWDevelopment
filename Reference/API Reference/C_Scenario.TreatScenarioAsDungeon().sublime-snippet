@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_Scenario.TreatScenarioAsDungeon($1)$0]]></content>
-	<tabTrigger>C_Scenario.TreatScenarioAsDungeon</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

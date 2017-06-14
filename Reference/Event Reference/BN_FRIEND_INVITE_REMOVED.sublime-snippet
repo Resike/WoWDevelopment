@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BN_FRIEND_INVITE_REMOVED]]></content>
-	<tabTrigger>BN_FRIEND_INVITE_REMOVED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

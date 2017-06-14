@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ClampedPercentageBetween($1)$0]]></content>
-	<tabTrigger>ClampedPercentageBetween</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

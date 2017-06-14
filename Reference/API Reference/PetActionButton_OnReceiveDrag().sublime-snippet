@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PetActionButton_OnReceiveDrag($1)$0]]></content>
-	<tabTrigger>PetActionButton_OnReceiveDrag</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

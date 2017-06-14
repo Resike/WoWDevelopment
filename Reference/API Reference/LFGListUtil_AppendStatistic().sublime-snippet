@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFGListUtil_AppendStatistic($1)$0]]></content>
-	<tabTrigger>LFGListUtil_AppendStatistic</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

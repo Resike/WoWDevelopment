@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PaperDollItemSlotButton_OnHide($1)$0]]></content>
-	<tabTrigger>PaperDollItemSlotButton_OnHide</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

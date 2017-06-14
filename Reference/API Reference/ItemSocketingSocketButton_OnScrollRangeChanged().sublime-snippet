@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ItemSocketingSocketButton_OnScrollRangeChanged($1)$0]]></content>
-	<tabTrigger>ItemSocketingSocketButton_OnScrollRangeChanged</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

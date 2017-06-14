@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PARTY_CONVERTED_TO_RAID]]></content>
-	<tabTrigger>PARTY_CONVERTED_TO_RAID</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

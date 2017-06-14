@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkOptionsPanel_OnLoad($1)$0]]></content>
-	<tabTrigger>NetworkOptionsPanel_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

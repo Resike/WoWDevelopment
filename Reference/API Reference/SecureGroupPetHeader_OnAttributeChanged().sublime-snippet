@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SecureGroupPetHeader_OnAttributeChanged($1)$0]]></content>
-	<tabTrigger>SecureGroupPetHeader_OnAttributeChanged</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PetJournalLoadout_GetRequiredLevel($1)$0]]></content>
-	<tabTrigger>PetJournalLoadout_GetRequiredLevel</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

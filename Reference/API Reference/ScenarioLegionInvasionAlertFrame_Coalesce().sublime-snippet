@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ScenarioLegionInvasionAlertFrame_Coalesce($1)$0]]></content>
-	<tabTrigger>ScenarioLegionInvasionAlertFrame_Coalesce</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

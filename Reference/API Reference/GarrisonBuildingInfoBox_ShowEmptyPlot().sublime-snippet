@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GarrisonBuildingInfoBox_ShowEmptyPlot($1)$0]]></content>
-	<tabTrigger>GarrisonBuildingInfoBox_ShowEmptyPlot</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetChatWindowSavedDimensions($1)$0]]></content>
-	<tabTrigger>GetChatWindowSavedDimensions</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

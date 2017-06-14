@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PrestigeLevelUpBanner_OnEvent($1)$0]]></content>
-	<tabTrigger>PrestigeLevelUpBanner_OnEvent</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BlizzardOptionsPanel_RegisterControl($1)$0]]></content>
-	<tabTrigger>BlizzardOptionsPanel_RegisterControl</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetClassInfoByID($1)$0]]></content>
-	<tabTrigger>GetClassInfoByID</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[InspectFrame_Show($1)$0]]></content>
-	<tabTrigger>InspectFrame_Show</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

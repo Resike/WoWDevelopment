@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnitFrame_SetUnit($1)$0]]></content>
-	<tabTrigger>UnitFrame_SetUnit</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

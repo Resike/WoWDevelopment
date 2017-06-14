@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Model_OnMouseDown($1)$0]]></content>
-	<tabTrigger>Model_OnMouseDown</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

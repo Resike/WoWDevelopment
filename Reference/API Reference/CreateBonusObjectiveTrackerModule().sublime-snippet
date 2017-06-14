@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CreateBonusObjectiveTrackerModule($1)$0]]></content>
-	<tabTrigger>CreateBonusObjectiveTrackerModule</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

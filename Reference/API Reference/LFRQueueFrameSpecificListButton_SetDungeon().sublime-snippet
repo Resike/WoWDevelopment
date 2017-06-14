@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFRQueueFrameSpecificListButton_SetDungeon($1)$0]]></content>
-	<tabTrigger>LFRQueueFrameSpecificListButton_SetDungeon</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

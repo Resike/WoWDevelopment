@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TotemFrame_OnEvent($1)$0]]></content>
-	<tabTrigger>TotemFrame_OnEvent</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Dispaly_RaidSettingsEnabled_CheckButton_OnShow($1)$0]]></content>
-	<tabTrigger>Dispaly_RaidSettingsEnabled_CheckButton_OnShow</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

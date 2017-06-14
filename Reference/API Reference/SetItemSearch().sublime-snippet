@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetItemSearch($1)$0]]></content>
-	<tabTrigger>SetItemSearch</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

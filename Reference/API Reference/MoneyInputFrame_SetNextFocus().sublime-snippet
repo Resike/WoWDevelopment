@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MoneyInputFrame_SetNextFocus($1)$0]]></content>
-	<tabTrigger>MoneyInputFrame_SetNextFocus</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

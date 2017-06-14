@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PLAYER_LOGOUT]]></content>
-	<tabTrigger>PLAYER_LOGOUT</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

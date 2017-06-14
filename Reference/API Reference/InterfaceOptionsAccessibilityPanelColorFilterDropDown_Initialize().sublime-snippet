@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[InterfaceOptionsAccessibilityPanelColorFilterDropDown_Initialize($1)$0]]></content>
-	<tabTrigger>InterfaceOptionsAccessibilityPanelColorFilterDropDown_Initialize</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

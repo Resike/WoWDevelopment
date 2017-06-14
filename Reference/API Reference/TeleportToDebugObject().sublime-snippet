@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TeleportToDebugObject($1)$0]]></content>
-	<tabTrigger>TeleportToDebugObject</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

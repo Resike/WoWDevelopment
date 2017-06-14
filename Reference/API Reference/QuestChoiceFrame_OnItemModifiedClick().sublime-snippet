@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QuestChoiceFrame_OnItemModifiedClick($1)$0]]></content>
-	<tabTrigger>QuestChoiceFrame_OnItemModifiedClick</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BAG_UPDATE]]></content>
-	<tabTrigger>BAG_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

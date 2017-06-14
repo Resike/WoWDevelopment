@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GuildBar_SetProgress($1)$0]]></content>
-	<tabTrigger>GuildBar_SetProgress</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[StaticPopup_EditBoxOnEnterPressed($1)$0]]></content>
-	<tabTrigger>StaticPopup_EditBoxOnEnterPressed</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

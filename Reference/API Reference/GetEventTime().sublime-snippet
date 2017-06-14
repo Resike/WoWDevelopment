@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetEventTime($1)$0]]></content>
-	<tabTrigger>GetEventTime</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

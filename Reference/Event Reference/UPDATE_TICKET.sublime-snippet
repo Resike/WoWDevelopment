@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UPDATE_TICKET]]></content>
-	<tabTrigger>UPDATE_TICKET</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

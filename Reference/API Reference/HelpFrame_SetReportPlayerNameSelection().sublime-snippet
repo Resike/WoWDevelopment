@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HelpFrame_SetReportPlayerNameSelection($1)$0]]></content>
-	<tabTrigger>HelpFrame_SetReportPlayerNameSelection</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

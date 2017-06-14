@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[InterfaceOptionsSocialPanel_OnHide($1)$0]]></content>
-	<tabTrigger>InterfaceOptionsSocialPanel_OnHide</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

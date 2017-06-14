@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RaidFrame_OnLoad($1)$0]]></content>
-	<tabTrigger>RaidFrame_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

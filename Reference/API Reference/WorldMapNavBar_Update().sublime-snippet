@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WorldMapNavBar_Update($1)$0]]></content>
-	<tabTrigger>WorldMapNavBar_Update</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

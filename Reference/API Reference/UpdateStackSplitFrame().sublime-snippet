@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UpdateStackSplitFrame($1)$0]]></content>
-	<tabTrigger>UpdateStackSplitFrame</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

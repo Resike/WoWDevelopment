@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarEventInviteList_AnchorSortButtons($1)$0]]></content>
-	<tabTrigger>CalendarEventInviteList_AnchorSortButtons</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

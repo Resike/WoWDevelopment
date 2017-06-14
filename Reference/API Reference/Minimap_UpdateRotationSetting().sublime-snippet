@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Minimap_UpdateRotationSetting($1)$0]]></content>
-	<tabTrigger>Minimap_UpdateRotationSetting</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

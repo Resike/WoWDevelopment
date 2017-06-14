@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LEVEL_GRANT_PROPOSED]]></content>
-	<tabTrigger>LEVEL_GRANT_PROPOSED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

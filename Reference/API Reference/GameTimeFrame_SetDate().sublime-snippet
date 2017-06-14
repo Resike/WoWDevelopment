@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GameTimeFrame_SetDate($1)$0]]></content>
-	<tabTrigger>GameTimeFrame_SetDate</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

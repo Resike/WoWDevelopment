@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetTargetCorpseMapPosition($1)$0]]></content>
-	<tabTrigger>GetTargetCorpseMapPosition</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

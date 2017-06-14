@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetChatWindowSavedPosition($1)$0]]></content>
-	<tabTrigger>SetChatWindowSavedPosition</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

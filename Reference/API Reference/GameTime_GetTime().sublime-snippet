@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GameTime_GetTime($1)$0]]></content>
-	<tabTrigger>GameTime_GetTime</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

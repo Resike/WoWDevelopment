@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UPDATE_GM_STATUS]]></content>
-	<tabTrigger>UPDATE_GM_STATUS</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

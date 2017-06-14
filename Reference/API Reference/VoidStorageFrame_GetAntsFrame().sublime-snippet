@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VoidStorageFrame_GetAntsFrame($1)$0]]></content>
-	<tabTrigger>VoidStorageFrame_GetAntsFrame</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

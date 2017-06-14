@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[StrafeRightStart($1)$0]]></content>
-	<tabTrigger>StrafeRightStart</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

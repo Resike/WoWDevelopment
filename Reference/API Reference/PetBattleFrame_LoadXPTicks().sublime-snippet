@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PetBattleFrame_LoadXPTicks($1)$0]]></content>
-	<tabTrigger>PetBattleFrame_LoadXPTicks</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

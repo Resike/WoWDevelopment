@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ActionBarButtonEventsFrame_OnLoad($1)$0]]></content>
-	<tabTrigger>ActionBarButtonEventsFrame_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

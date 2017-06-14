@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SpellCancelQueuedSpell($1)$0]]></content>
-	<tabTrigger>SpellCancelQueuedSpell</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarDayContextMenu_PasteEvent($1)$0]]></content>
-	<tabTrigger>CalendarDayContextMenu_PasteEvent</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ScrollOfResurrection_Show($1)$0]]></content>
-	<tabTrigger>ScrollOfResurrection_Show</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

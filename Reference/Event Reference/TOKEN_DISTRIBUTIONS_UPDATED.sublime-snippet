@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TOKEN_DISTRIBUTIONS_UPDATED]]></content>
-	<tabTrigger>TOKEN_DISTRIBUTIONS_UPDATED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

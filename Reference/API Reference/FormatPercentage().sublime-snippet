@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FormatPercentage($1)$0]]></content>
-	<tabTrigger>FormatPercentage</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

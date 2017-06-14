@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CombatLog_String_DamageResultString($1)$0]]></content>
-	<tabTrigger>CombatLog_String_DamageResultString</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ROLE_CHANGED_INFORM]]></content>
-	<tabTrigger>ROLE_CHANGED_INFORM</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

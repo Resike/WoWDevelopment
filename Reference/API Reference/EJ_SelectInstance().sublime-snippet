@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EJ_SelectInstance($1)$0]]></content>
-	<tabTrigger>EJ_SelectInstance</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

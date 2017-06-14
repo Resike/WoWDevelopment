@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WorldMap_HandleSpecialPOI($1)$0]]></content>
-	<tabTrigger>WorldMap_HandleSpecialPOI</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GarrisonFollowerTooltipTemplate_GetValidAbilities($1)$0]]></content>
-	<tabTrigger>GarrisonFollowerTooltipTemplate_GetValidAbilities</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

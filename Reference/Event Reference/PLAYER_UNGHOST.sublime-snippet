@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PLAYER_UNGHOST]]></content>
-	<tabTrigger>PLAYER_UNGHOST</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

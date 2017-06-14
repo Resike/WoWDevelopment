@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PLAYER_CONTROL_LOST]]></content>
-	<tabTrigger>PLAYER_CONTROL_LOST</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

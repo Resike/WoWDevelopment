@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OpenCoinPickupFrame($1)$0]]></content>
-	<tabTrigger>OpenCoinPickupFrame</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FCFManager_GetNumDedicatedFrames($1)$0]]></content>
-	<tabTrigger>FCFManager_GetNumDedicatedFrames</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

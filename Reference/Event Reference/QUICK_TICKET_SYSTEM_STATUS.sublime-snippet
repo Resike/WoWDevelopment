@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QUICK_TICKET_SYSTEM_STATUS]]></content>
-	<tabTrigger>QUICK_TICKET_SYSTEM_STATUS</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

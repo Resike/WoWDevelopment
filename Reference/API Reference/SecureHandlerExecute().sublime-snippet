@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SecureHandlerExecute($1)$0]]></content>
-	<tabTrigger>SecureHandlerExecute</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

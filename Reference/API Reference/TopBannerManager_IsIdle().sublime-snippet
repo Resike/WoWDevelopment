@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TopBannerManager_IsIdle($1)$0]]></content>
-	<tabTrigger>TopBannerManager_IsIdle</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

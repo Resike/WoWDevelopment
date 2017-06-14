@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AddonList_OnLoad($1)$0]]></content>
-	<tabTrigger>AddonList_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

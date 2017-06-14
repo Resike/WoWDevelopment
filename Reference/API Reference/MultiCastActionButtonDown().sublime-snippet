@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MultiCastActionButtonDown($1)$0]]></content>
-	<tabTrigger>MultiCastActionButtonDown</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

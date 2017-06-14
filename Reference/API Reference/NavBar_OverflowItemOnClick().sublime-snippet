@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NavBar_OverflowItemOnClick($1)$0]]></content>
-	<tabTrigger>NavBar_OverflowItemOnClick</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

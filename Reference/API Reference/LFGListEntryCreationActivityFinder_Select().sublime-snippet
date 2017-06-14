@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFGListEntryCreationActivityFinder_Select($1)$0]]></content>
-	<tabTrigger>LFGListEntryCreationActivityFinder_Select</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

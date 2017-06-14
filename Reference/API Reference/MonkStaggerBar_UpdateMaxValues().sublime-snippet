@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MonkStaggerBar_UpdateMaxValues($1)$0]]></content>
-	<tabTrigger>MonkStaggerBar_UpdateMaxValues</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

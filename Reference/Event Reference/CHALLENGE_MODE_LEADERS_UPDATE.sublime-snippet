@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CHALLENGE_MODE_LEADERS_UPDATE]]></content>
-	<tabTrigger>CHALLENGE_MODE_LEADERS_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

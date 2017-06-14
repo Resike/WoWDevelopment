@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UpdateInviteConfirmationDialogs($1)$0]]></content>
-	<tabTrigger>UpdateInviteConfirmationDialogs</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

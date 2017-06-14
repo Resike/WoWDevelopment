@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChatConfig_MoveFilterDown($1)$0]]></content>
-	<tabTrigger>ChatConfig_MoveFilterDown</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

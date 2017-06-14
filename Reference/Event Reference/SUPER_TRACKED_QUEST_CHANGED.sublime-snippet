@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SUPER_TRACKED_QUEST_CHANGED]]></content>
-	<tabTrigger>SUPER_TRACKED_QUEST_CHANGED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

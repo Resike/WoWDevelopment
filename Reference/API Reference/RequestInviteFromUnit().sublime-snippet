@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RequestInviteFromUnit($1)$0]]></content>
-	<tabTrigger>RequestInviteFromUnit</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

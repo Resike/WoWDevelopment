@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GuildRecruitmentApplicant_ShowTooltip($1)$0]]></content>
-	<tabTrigger>GuildRecruitmentApplicant_ShowTooltip</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BackpackButton_OnModifiedClick($1)$0]]></content>
-	<tabTrigger>BackpackButton_OnModifiedClick</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AchievementComparisonFriendButton_Saturate($1)$0]]></content>
-	<tabTrigger>AchievementComparisonFriendButton_Saturate</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

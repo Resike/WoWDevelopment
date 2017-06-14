@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[InspectPVPFrame_OnEvent($1)$0]]></content>
-	<tabTrigger>InspectPVPFrame_OnEvent</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

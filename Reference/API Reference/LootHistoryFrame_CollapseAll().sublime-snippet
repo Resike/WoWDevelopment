@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LootHistoryFrame_CollapseAll($1)$0]]></content>
-	<tabTrigger>LootHistoryFrame_CollapseAll</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

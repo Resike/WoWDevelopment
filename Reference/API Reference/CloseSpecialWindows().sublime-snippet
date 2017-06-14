@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CloseSpecialWindows($1)$0]]></content>
-	<tabTrigger>CloseSpecialWindows</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

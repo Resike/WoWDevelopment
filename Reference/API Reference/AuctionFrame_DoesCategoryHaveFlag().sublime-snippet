@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AuctionFrame_DoesCategoryHaveFlag($1)$0]]></content>
-	<tabTrigger>AuctionFrame_DoesCategoryHaveFlag</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

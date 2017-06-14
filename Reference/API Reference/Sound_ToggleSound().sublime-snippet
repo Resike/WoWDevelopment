@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Sound_ToggleSound($1)$0]]></content>
-	<tabTrigger>Sound_ToggleSound</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

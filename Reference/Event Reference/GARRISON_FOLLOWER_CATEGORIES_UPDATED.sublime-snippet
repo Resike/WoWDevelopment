@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GARRISON_FOLLOWER_CATEGORIES_UPDATED]]></content>
-	<tabTrigger>GARRISON_FOLLOWER_CATEGORIES_UPDATED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

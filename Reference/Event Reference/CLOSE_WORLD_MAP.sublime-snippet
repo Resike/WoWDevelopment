@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CLOSE_WORLD_MAP]]></content>
-	<tabTrigger>CLOSE_WORLD_MAP</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

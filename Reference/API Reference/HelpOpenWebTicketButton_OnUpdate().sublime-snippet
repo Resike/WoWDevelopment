@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HelpOpenWebTicketButton_OnUpdate($1)$0]]></content>
-	<tabTrigger>HelpOpenWebTicketButton_OnUpdate</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChallengesFrame_Update($1)$0]]></content>
-	<tabTrigger>ChallengesFrame_Update</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GarrisonMonuntmentFrame_OnHide($1)$0]]></content>
-	<tabTrigger>GarrisonMonuntmentFrame_OnHide</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

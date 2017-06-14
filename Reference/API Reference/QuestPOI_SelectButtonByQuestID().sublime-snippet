@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QuestPOI_SelectButtonByQuestID($1)$0]]></content>
-	<tabTrigger>QuestPOI_SelectButtonByQuestID</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsPendingGlyphRemoval($1)$0]]></content>
-	<tabTrigger>IsPendingGlyphRemoval</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

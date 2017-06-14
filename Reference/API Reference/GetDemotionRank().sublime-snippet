@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetDemotionRank($1)$0]]></content>
-	<tabTrigger>GetDemotionRank</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GarrisonLandingPageMinimapButton_OnLoad($1)$0]]></content>
-	<tabTrigger>GarrisonLandingPageMinimapButton_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

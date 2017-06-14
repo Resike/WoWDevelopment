@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ScenarioSpells_SlideIn($1)$0]]></content>
-	<tabTrigger>ScenarioSpells_SlideIn</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

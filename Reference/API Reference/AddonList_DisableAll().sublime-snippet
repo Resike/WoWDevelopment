@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AddonList_DisableAll($1)$0]]></content>
-	<tabTrigger>AddonList_DisableAll</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

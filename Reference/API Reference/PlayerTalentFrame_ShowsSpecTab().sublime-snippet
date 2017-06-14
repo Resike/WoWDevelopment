@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PlayerTalentFrame_ShowsSpecTab($1)$0]]></content>
-	<tabTrigger>PlayerTalentFrame_ShowsSpecTab</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

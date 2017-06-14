@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AudioOptionsVoicePanel_DisableMicrophoneControls($1)$0]]></content>
-	<tabTrigger>AudioOptionsVoicePanel_DisableMicrophoneControls</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

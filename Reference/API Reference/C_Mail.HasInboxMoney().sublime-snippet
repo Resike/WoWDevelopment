@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_Mail.HasInboxMoney($1)$0]]></content>
-	<tabTrigger>C_Mail.HasInboxMoney</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

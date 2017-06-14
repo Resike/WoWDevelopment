@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PlayerBuffTimerManager_OnLoad($1)$0]]></content>
-	<tabTrigger>PlayerBuffTimerManager_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

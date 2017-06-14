@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BNAcceptFriendInvite($1)$0]]></content>
-	<tabTrigger>BNAcceptFriendInvite</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_Garrison.TargetSpellHasFollowerTemporaryAbility($1)$0]]></content>
-	<tabTrigger>C_Garrison.TargetSpellHasFollowerTemporaryAbility</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

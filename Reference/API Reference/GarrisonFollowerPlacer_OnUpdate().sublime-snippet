@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GarrisonFollowerPlacer_OnUpdate($1)$0]]></content>
-	<tabTrigger>GarrisonFollowerPlacer_OnUpdate</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

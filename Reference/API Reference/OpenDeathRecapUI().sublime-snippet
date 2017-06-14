@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OpenDeathRecapUI($1)$0]]></content>
-	<tabTrigger>OpenDeathRecapUI</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

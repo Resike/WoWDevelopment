@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QuestPOIGetSecondaryLocations($1)$0]]></content>
-	<tabTrigger>QuestPOIGetSecondaryLocations</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

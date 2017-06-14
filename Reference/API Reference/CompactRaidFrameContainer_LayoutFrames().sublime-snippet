@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CompactRaidFrameContainer_LayoutFrames($1)$0]]></content>
-	<tabTrigger>CompactRaidFrameContainer_LayoutFrames</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

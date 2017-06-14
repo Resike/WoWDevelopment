@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LOOT_HISTORY_FULL_UPDATE]]></content>
-	<tabTrigger>LOOT_HISTORY_FULL_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

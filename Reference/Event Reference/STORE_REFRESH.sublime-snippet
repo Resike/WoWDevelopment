@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[STORE_REFRESH]]></content>
-	<tabTrigger>STORE_REFRESH</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

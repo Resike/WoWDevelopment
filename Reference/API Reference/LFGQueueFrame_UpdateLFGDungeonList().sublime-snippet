@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFGQueueFrame_UpdateLFGDungeonList($1)$0]]></content>
-	<tabTrigger>LFGQueueFrame_UpdateLFGDungeonList</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

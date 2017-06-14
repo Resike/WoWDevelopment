@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TimeManager_Update($1)$0]]></content>
-	<tabTrigger>TimeManager_Update</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UIMenuButton_OnLeave($1)$0]]></content>
-	<tabTrigger>UIMenuButton_OnLeave</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

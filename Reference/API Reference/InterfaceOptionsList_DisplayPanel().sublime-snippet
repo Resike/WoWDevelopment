@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[InterfaceOptionsList_DisplayPanel($1)$0]]></content>
-	<tabTrigger>InterfaceOptionsList_DisplayPanel</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TRAINER_UPDATE]]></content>
-	<tabTrigger>TRAINER_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

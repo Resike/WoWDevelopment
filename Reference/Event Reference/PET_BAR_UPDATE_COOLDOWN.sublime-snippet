@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PET_BAR_UPDATE_COOLDOWN]]></content>
-	<tabTrigger>PET_BAR_UPDATE_COOLDOWN</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

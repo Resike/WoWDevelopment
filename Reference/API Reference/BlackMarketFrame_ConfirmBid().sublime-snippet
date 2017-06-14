@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BlackMarketFrame_ConfirmBid($1)$0]]></content>
-	<tabTrigger>BlackMarketFrame_ConfirmBid</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFGListInviteDialog_Decline($1)$0]]></content>
-	<tabTrigger>LFGListInviteDialog_Decline</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

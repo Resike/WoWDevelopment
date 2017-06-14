@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BN_CUSTOM_MESSAGE_CHANGED]]></content>
-	<tabTrigger>BN_CUSTOM_MESSAGE_CHANGED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

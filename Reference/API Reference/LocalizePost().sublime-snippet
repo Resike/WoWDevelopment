@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LocalizePost($1)$0]]></content>
-	<tabTrigger>LocalizePost</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

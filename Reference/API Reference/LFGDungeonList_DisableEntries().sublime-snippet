@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFGDungeonList_DisableEntries($1)$0]]></content>
-	<tabTrigger>LFGDungeonList_DisableEntries</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

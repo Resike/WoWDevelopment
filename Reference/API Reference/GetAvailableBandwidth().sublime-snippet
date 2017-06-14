@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetAvailableBandwidth($1)$0]]></content>
-	<tabTrigger>GetAvailableBandwidth</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AchievementFrameCategories_SelectButton($1)$0]]></content>
-	<tabTrigger>AchievementFrameCategories_SelectButton</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SEARCH_DB_LOADED]]></content>
-	<tabTrigger>SEARCH_DB_LOADED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

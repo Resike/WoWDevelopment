@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnitHPPerStamina($1)$0]]></content>
-	<tabTrigger>UnitHPPerStamina</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

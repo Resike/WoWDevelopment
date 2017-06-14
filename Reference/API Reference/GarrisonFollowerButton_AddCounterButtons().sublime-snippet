@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GarrisonFollowerButton_AddCounterButtons($1)$0]]></content>
-	<tabTrigger>GarrisonFollowerButton_AddCounterButtons</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

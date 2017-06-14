@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetNumSoRRemaining($1)$0]]></content>
-	<tabTrigger>GetNumSoRRemaining</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

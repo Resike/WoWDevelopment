@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnitPowerBarAlt_SetDisplayedPower($1)$0]]></content>
-	<tabTrigger>UnitPowerBarAlt_SetDisplayedPower</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

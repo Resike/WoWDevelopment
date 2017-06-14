@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFG_LOCK_INFO_RECEIVED]]></content>
-	<tabTrigger>LFG_LOCK_INFO_RECEIVED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

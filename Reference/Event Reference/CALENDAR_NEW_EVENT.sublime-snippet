@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CALENDAR_NEW_EVENT]]></content>
-	<tabTrigger>CALENDAR_NEW_EVENT</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

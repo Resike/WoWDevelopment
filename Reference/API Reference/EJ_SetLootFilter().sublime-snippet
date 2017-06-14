@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EJ_SetLootFilter($1)$0]]></content>
-	<tabTrigger>EJ_SetLootFilter</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

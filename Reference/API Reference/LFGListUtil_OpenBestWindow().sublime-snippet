@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFGListUtil_OpenBestWindow($1)$0]]></content>
-	<tabTrigger>LFGListUtil_OpenBestWindow</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

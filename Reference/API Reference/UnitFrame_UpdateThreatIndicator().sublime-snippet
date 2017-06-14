@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnitFrame_UpdateThreatIndicator($1)$0]]></content>
-	<tabTrigger>UnitFrame_UpdateThreatIndicator</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

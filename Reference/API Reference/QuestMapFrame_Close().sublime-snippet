@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QuestMapFrame_Close($1)$0]]></content>
-	<tabTrigger>QuestMapFrame_Close</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

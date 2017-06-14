@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SHOW_PVP_FACTION_LOOT_TOAST]]></content>
-	<tabTrigger>SHOW_PVP_FACTION_LOOT_TOAST</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

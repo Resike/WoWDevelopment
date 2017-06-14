@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CVAR_UPDATE]]></content>
-	<tabTrigger>CVAR_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ARENA_OPPONENT_UPDATE]]></content>
-	<tabTrigger>ARENA_OPPONENT_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

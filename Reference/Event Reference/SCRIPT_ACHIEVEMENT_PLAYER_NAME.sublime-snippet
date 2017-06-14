@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SCRIPT_ACHIEVEMENT_PLAYER_NAME]]></content>
-	<tabTrigger>SCRIPT_ACHIEVEMENT_PLAYER_NAME</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

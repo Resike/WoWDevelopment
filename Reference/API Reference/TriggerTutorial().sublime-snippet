@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TriggerTutorial($1)$0]]></content>
-	<tabTrigger>TriggerTutorial</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

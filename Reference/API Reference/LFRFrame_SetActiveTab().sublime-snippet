@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFRFrame_SetActiveTab($1)$0]]></content>
-	<tabTrigger>LFRFrame_SetActiveTab</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

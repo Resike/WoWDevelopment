@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UPDATE_WORLD_STATES]]></content>
-	<tabTrigger>UPDATE_WORLD_STATES</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

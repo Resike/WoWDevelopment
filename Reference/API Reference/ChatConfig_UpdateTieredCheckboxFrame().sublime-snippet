@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChatConfig_UpdateTieredCheckboxFrame($1)$0]]></content>
-	<tabTrigger>ChatConfig_UpdateTieredCheckboxFrame</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

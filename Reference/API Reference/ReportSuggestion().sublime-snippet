@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ReportSuggestion($1)$0]]></content>
-	<tabTrigger>ReportSuggestion</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

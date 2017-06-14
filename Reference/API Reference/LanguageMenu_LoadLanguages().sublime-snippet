@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LanguageMenu_LoadLanguages($1)$0]]></content>
-	<tabTrigger>LanguageMenu_LoadLanguages</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

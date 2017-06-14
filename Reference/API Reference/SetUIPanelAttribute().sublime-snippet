@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetUIPanelAttribute($1)$0]]></content>
-	<tabTrigger>SetUIPanelAttribute</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

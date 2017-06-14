@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetTrainerServiceStepIndex($1)$0]]></content>
-	<tabTrigger>GetTrainerServiceStepIndex</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

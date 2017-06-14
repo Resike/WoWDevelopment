@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SocialScreenshotCrop_ResetCropBox($1)$0]]></content>
-	<tabTrigger>SocialScreenshotCrop_ResetCropBox</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

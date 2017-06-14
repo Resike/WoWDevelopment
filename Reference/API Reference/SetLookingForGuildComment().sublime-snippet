@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetLookingForGuildComment($1)$0]]></content>
-	<tabTrigger>SetLookingForGuildComment</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

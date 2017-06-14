@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ScenarioQueueFrameExpandOrCollapseButton_OnClick($1)$0]]></content>
-	<tabTrigger>ScenarioQueueFrameExpandOrCollapseButton_OnClick</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

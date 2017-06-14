@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HONOR_XP_UPDATE]]></content>
-	<tabTrigger>HONOR_XP_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

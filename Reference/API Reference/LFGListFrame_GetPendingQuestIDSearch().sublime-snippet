@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFGListFrame_GetPendingQuestIDSearch($1)$0]]></content>
-	<tabTrigger>LFGListFrame_GetPendingQuestIDSearch</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarFrame_UpdateTimeFormat($1)$0]]></content>
-	<tabTrigger>CalendarFrame_UpdateTimeFormat</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

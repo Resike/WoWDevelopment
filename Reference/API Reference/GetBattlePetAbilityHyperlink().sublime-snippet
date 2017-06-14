@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetBattlePetAbilityHyperlink($1)$0]]></content>
-	<tabTrigger>GetBattlePetAbilityHyperlink</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

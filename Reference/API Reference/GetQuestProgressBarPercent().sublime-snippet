@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetQuestProgressBarPercent($1)$0]]></content>
-	<tabTrigger>GetQuestProgressBarPercent</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

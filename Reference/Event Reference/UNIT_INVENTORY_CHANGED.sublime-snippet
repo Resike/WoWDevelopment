@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UNIT_INVENTORY_CHANGED]]></content>
-	<tabTrigger>UNIT_INVENTORY_CHANGED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

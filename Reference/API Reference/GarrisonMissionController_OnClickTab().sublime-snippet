@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GarrisonMissionController_OnClickTab($1)$0]]></content>
-	<tabTrigger>GarrisonMissionController_OnClickTab</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

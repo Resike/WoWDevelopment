@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Blizzard_CombatLog_ApplyFilters($1)$0]]></content>
-	<tabTrigger>Blizzard_CombatLog_ApplyFilters</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

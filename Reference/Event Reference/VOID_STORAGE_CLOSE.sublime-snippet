@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VOID_STORAGE_CLOSE]]></content>
-	<tabTrigger>VOID_STORAGE_CLOSE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

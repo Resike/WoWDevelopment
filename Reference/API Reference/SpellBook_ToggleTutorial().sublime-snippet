@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SpellBook_ToggleTutorial($1)$0]]></content>
-	<tabTrigger>SpellBook_ToggleTutorial</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

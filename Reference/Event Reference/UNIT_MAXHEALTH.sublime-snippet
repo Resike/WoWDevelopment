@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UNIT_MAXHEALTH]]></content>
-	<tabTrigger>UNIT_MAXHEALTH</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

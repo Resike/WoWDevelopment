@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChatEdit_SetLastToldTarget($1)$0]]></content>
-	<tabTrigger>ChatEdit_SetLastToldTarget</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ENABLE_DECLINE_GUILD_INVITE]]></content>
-	<tabTrigger>ENABLE_DECLINE_GUILD_INVITE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

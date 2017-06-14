@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PrintLootSpecialization($1)$0]]></content>
-	<tabTrigger>PrintLootSpecialization</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

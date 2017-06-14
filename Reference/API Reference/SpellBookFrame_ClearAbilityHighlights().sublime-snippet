@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SpellBookFrame_ClearAbilityHighlights($1)$0]]></content>
-	<tabTrigger>SpellBookFrame_ClearAbilityHighlights</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

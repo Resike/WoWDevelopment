@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ProductChoiceFrame_StopRotating($1)$0]]></content>
-	<tabTrigger>ProductChoiceFrame_StopRotating</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

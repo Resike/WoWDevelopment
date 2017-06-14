@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetAchievementInfoFromHyperlink($1)$0]]></content>
-	<tabTrigger>GetAchievementInfoFromHyperlink</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

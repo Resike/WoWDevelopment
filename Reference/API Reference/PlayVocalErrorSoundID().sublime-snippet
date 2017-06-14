@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PlayVocalErrorSoundID($1)$0]]></content>
-	<tabTrigger>PlayVocalErrorSoundID</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

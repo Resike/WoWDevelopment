@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AuctionsCreateAuctionButton_OnClick($1)$0]]></content>
-	<tabTrigger>AuctionsCreateAuctionButton_OnClick</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

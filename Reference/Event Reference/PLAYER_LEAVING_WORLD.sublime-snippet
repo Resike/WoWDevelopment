@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PLAYER_LEAVING_WORLD]]></content>
-	<tabTrigger>PLAYER_LEAVING_WORLD</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

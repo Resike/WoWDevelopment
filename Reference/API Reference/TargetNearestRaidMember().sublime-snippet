@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TargetNearestRaidMember($1)$0]]></content>
-	<tabTrigger>TargetNearestRaidMember</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

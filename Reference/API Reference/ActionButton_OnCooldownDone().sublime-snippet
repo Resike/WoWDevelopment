@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ActionButton_OnCooldownDone($1)$0]]></content>
-	<tabTrigger>ActionButton_OnCooldownDone</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

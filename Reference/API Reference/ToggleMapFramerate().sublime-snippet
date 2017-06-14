@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ToggleMapFramerate($1)$0]]></content>
-	<tabTrigger>ToggleMapFramerate</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

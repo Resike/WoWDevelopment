@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LootHistoryFrame_UpdateItemFrame($1)$0]]></content>
-	<tabTrigger>LootHistoryFrame_UpdateItemFrame</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

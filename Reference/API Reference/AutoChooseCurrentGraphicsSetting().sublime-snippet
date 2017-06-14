@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AutoChooseCurrentGraphicsSetting($1)$0]]></content>
-	<tabTrigger>AutoChooseCurrentGraphicsSetting</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

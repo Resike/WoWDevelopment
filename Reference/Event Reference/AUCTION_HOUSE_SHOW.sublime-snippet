@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AUCTION_HOUSE_SHOW]]></content>
-	<tabTrigger>AUCTION_HOUSE_SHOW</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

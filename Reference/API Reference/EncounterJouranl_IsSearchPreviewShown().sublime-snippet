@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EncounterJouranl_IsSearchPreviewShown($1)$0]]></content>
-	<tabTrigger>EncounterJouranl_IsSearchPreviewShown</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

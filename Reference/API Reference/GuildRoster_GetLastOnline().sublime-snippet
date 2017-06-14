@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GuildRoster_GetLastOnline($1)$0]]></content>
-	<tabTrigger>GuildRoster_GetLastOnline</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

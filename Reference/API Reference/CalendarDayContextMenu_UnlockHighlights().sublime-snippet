@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarDayContextMenu_UnlockHighlights($1)$0]]></content>
-	<tabTrigger>CalendarDayContextMenu_UnlockHighlights</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

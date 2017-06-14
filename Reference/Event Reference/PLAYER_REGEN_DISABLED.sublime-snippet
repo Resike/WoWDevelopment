@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PLAYER_REGEN_DISABLED]]></content>
-	<tabTrigger>PLAYER_REGEN_DISABLED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LEFT]]></content>
-	<tabTrigger>LEFT</tabTrigger>
-	<description>anchor</description>
-	<scope>source.lua</scope>
-</snippet>

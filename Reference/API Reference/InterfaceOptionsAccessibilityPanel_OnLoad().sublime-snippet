@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[InterfaceOptionsAccessibilityPanel_OnLoad($1)$0]]></content>
-	<tabTrigger>InterfaceOptionsAccessibilityPanel_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

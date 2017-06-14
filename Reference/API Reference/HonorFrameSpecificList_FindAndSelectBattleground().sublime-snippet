@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HonorFrameSpecificList_FindAndSelectBattleground($1)$0]]></content>
-	<tabTrigger>HonorFrameSpecificList_FindAndSelectBattleground</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

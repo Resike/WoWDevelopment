@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CompactRaidFrameManager_GetSetting($1)$0]]></content>
-	<tabTrigger>CompactRaidFrameManager_GetSetting</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

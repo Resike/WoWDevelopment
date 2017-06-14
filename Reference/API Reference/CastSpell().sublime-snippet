@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CastSpell($1)$0]]></content>
-	<tabTrigger>CastSpell</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

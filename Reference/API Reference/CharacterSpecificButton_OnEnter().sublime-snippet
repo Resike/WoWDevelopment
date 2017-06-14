@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CharacterSpecificButton_OnEnter($1)$0]]></content>
-	<tabTrigger>CharacterSpecificButton_OnEnter</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

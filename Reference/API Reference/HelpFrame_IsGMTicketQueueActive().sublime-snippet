@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HelpFrame_IsGMTicketQueueActive($1)$0]]></content>
-	<tabTrigger>HelpFrame_IsGMTicketQueueActive</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

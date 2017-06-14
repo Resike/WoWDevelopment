@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CreateColor($1)$0]]></content>
-	<tabTrigger>CreateColor</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetPetTypeTexture($1)$0]]></content>
-	<tabTrigger>GetPetTypeTexture</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsCharacterFriend($1)$0]]></content>
-	<tabTrigger>IsCharacterFriend</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

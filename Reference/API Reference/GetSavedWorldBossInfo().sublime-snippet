@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetSavedWorldBossInfo($1)$0]]></content>
-	<tabTrigger>GetSavedWorldBossInfo</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

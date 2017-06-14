@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Graphics_Default($1)$0]]></content>
-	<tabTrigger>Graphics_Default</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

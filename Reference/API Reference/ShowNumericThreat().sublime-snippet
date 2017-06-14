@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ShowNumericThreat($1)$0]]></content>
-	<tabTrigger>ShowNumericThreat</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

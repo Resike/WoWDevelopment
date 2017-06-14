@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PET_RENAMEABLE]]></content>
-	<tabTrigger>PET_RENAMEABLE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

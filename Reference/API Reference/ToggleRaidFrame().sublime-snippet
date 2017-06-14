@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ToggleRaidFrame($1)$0]]></content>
-	<tabTrigger>ToggleRaidFrame</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

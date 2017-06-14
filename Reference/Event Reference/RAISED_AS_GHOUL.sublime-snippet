@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RAISED_AS_GHOUL]]></content>
-	<tabTrigger>RAISED_AS_GHOUL</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

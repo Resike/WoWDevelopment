@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ScenarioFinderFrame_OnEvent($1)$0]]></content>
-	<tabTrigger>ScenarioFinderFrame_OnEvent</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

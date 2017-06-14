@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AUTOFOLLOW_BEGIN]]></content>
-	<tabTrigger>AUTOFOLLOW_BEGIN</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFG_OPEN_FROM_GOSSIP]]></content>
-	<tabTrigger>LFG_OPEN_FROM_GOSSIP</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QuestLogQuests_GetHeaderButton($1)$0]]></content>
-	<tabTrigger>QuestLogQuests_GetHeaderButton</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

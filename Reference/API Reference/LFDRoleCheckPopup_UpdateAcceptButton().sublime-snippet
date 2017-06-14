@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFDRoleCheckPopup_UpdateAcceptButton($1)$0]]></content>
-	<tabTrigger>LFDRoleCheckPopup_UpdateAcceptButton</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

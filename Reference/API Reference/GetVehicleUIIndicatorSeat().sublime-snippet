@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetVehicleUIIndicatorSeat($1)$0]]></content>
-	<tabTrigger>GetVehicleUIIndicatorSeat</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

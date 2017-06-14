@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WorldMapQuestPOI_SetTooltip($1)$0]]></content>
-	<tabTrigger>WorldMapQuestPOI_SetTooltip</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

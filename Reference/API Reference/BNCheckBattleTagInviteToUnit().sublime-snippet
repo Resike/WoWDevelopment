@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BNCheckBattleTagInviteToUnit($1)$0]]></content>
-	<tabTrigger>BNCheckBattleTagInviteToUnit</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

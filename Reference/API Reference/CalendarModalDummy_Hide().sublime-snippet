@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarModalDummy_Hide($1)$0]]></content>
-	<tabTrigger>CalendarModalDummy_Hide</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

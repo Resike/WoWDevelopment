@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetPvpPowerDamage($1)$0]]></content>
-	<tabTrigger>GetPvpPowerDamage</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

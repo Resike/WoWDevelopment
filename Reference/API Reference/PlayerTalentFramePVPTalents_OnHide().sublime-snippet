@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PlayerTalentFramePVPTalents_OnHide($1)$0]]></content>
-	<tabTrigger>PlayerTalentFramePVPTalents_OnHide</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

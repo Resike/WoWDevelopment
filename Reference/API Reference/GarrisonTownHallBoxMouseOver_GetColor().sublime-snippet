@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GarrisonTownHallBoxMouseOver_GetColor($1)$0]]></content>
-	<tabTrigger>GarrisonTownHallBoxMouseOver_GetColor</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

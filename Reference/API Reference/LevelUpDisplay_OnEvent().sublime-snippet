@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LevelUpDisplay_OnEvent($1)$0]]></content>
-	<tabTrigger>LevelUpDisplay_OnEvent</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

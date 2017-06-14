@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MessageTypeColor_OpenColorPicker($1)$0]]></content>
-	<tabTrigger>MessageTypeColor_OpenColorPicker</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

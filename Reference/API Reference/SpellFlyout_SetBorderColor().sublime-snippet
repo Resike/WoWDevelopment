@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SpellFlyout_SetBorderColor($1)$0]]></content>
-	<tabTrigger>SpellFlyout_SetBorderColor</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

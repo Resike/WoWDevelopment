@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetReagentBankCost($1)$0]]></content>
-	<tabTrigger>GetReagentBankCost</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

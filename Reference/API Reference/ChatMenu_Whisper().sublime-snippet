@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChatMenu_Whisper($1)$0]]></content>
-	<tabTrigger>ChatMenu_Whisper</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

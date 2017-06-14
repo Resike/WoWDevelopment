@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HelpFrame_ShowReportCheatingDialog($1)$0]]></content>
-	<tabTrigger>HelpFrame_ShowReportCheatingDialog</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

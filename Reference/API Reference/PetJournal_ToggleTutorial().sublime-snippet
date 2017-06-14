@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PetJournal_ToggleTutorial($1)$0]]></content>
-	<tabTrigger>PetJournal_ToggleTutorial</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

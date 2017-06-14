@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetGMLink($1)$0]]></content>
-	<tabTrigger>GetGMLink</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

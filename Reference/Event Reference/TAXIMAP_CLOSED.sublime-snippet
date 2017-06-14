@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TAXIMAP_CLOSED]]></content>
-	<tabTrigger>TAXIMAP_CLOSED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[STORE_VAS_PURCHASE_ERROR]]></content>
-	<tabTrigger>STORE_VAS_PURCHASE_ERROR</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CANCEL_SUMMON]]></content>
-	<tabTrigger>CANCEL_SUMMON</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[InterfaceOptionsDisplayPanelChatBubblesDropDown_SetValue($1)$0]]></content>
-	<tabTrigger>InterfaceOptionsDisplayPanelChatBubblesDropDown_SetValue</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

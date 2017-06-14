@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MessageFrame]]></content>
-	<tabTrigger>MessageFrame</tabTrigger>
-	<description>frameType</description>
-	<scope>source.lua</scope>
-</snippet>

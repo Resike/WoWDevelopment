@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GuildRosterButton_SetStringText($1)$0]]></content>
-	<tabTrigger>GuildRosterButton_SetStringText</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

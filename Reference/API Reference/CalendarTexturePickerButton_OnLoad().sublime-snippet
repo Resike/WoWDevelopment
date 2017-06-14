@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarTexturePickerButton_OnLoad($1)$0]]></content>
-	<tabTrigger>CalendarTexturePickerButton_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

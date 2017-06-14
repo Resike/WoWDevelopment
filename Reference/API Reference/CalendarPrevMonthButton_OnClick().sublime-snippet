@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarPrevMonthButton_OnClick($1)$0]]></content>
-	<tabTrigger>CalendarPrevMonthButton_OnClick</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

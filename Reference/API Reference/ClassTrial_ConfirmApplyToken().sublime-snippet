@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ClassTrial_ConfirmApplyToken($1)$0]]></content>
-	<tabTrigger>ClassTrial_ConfirmApplyToken</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

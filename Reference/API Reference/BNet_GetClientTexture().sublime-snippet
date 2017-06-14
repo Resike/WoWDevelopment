@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BNet_GetClientTexture($1)$0]]></content>
-	<tabTrigger>BNet_GetClientTexture</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

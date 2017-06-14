@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NewRecipeLearnedAlertFrame_GetStarTextureFromRank($1)$0]]></content>
-	<tabTrigger>NewRecipeLearnedAlertFrame_GetStarTextureFromRank</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

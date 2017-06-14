@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RedeemFailed($1)$0]]></content>
-	<tabTrigger>RedeemFailed</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

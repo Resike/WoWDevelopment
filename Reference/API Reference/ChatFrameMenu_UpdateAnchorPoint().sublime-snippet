@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChatFrameMenu_UpdateAnchorPoint($1)$0]]></content>
-	<tabTrigger>ChatFrameMenu_UpdateAnchorPoint</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

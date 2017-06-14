@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UIParent_ManageFramePosition($1)$0]]></content>
-	<tabTrigger>UIParent_ManageFramePosition</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

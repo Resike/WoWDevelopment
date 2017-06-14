@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GarrisonShipyardMapMission_AnchorToBottomWidget($1)$0]]></content>
-	<tabTrigger>GarrisonShipyardMapMission_AnchorToBottomWidget</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

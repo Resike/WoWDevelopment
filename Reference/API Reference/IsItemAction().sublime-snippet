@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsItemAction($1)$0]]></content>
-	<tabTrigger>IsItemAction</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

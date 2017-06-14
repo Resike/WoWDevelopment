@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WowTokenRedemptionFrame_EscapePressed($1)$0]]></content>
-	<tabTrigger>WowTokenRedemptionFrame_EscapePressed</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

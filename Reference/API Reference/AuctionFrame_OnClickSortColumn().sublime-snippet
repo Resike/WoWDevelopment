@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AuctionFrame_OnClickSortColumn($1)$0]]></content>
-	<tabTrigger>AuctionFrame_OnClickSortColumn</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

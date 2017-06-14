@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FadingFrame_OnUpdate($1)$0]]></content>
-	<tabTrigger>FadingFrame_OnUpdate</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

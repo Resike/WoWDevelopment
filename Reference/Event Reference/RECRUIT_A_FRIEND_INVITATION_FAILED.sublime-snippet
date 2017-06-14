@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RECRUIT_A_FRIEND_INVITATION_FAILED]]></content>
-	<tabTrigger>RECRUIT_A_FRIEND_INVITATION_FAILED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

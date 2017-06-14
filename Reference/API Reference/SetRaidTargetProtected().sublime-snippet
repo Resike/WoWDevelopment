@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetRaidTargetProtected($1)$0]]></content>
-	<tabTrigger>SetRaidTargetProtected</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

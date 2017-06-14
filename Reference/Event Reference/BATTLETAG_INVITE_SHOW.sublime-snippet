@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BATTLETAG_INVITE_SHOW]]></content>
-	<tabTrigger>BATTLETAG_INVITE_SHOW</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

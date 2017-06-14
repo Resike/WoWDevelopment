@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GARRISON_INVASION_AVAILABLE]]></content>
-	<tabTrigger>GARRISON_INVASION_AVAILABLE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

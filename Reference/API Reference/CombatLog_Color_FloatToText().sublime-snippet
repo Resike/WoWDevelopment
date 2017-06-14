@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CombatLog_Color_FloatToText($1)$0]]></content>
-	<tabTrigger>CombatLog_Color_FloatToText</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PET_ATTACK_STOP]]></content>
-	<tabTrigger>PET_ATTACK_STOP</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

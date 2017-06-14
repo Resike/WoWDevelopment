@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetRewardHonor($1)$0]]></content>
-	<tabTrigger>GetRewardHonor</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DISPLAY_SIZE_CHANGED]]></content>
-	<tabTrigger>DISPLAY_SIZE_CHANGED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

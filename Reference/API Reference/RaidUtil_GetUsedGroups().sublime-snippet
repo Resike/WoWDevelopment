@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RaidUtil_GetUsedGroups($1)$0]]></content>
-	<tabTrigger>RaidUtil_GetUsedGroups</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

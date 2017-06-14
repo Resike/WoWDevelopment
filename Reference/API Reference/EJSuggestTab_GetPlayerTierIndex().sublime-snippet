@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EJSuggestTab_GetPlayerTierIndex($1)$0]]></content>
-	<tabTrigger>EJSuggestTab_GetPlayerTierIndex</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

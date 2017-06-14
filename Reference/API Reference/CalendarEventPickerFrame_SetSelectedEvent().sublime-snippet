@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarEventPickerFrame_SetSelectedEvent($1)$0]]></content>
-	<tabTrigger>CalendarEventPickerFrame_SetSelectedEvent</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

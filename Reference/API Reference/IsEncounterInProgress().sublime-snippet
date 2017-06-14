@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsEncounterInProgress($1)$0]]></content>
-	<tabTrigger>IsEncounterInProgress</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

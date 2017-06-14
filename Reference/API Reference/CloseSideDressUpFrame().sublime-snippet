@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CloseSideDressUpFrame($1)$0]]></content>
-	<tabTrigger>CloseSideDressUpFrame</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

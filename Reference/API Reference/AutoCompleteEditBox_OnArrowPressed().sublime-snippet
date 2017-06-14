@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AutoCompleteEditBox_OnArrowPressed($1)$0]]></content>
-	<tabTrigger>AutoCompleteEditBox_OnArrowPressed</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

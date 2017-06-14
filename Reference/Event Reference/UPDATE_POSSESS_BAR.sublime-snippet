@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UPDATE_POSSESS_BAR]]></content>
-	<tabTrigger>UPDATE_POSSESS_BAR</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

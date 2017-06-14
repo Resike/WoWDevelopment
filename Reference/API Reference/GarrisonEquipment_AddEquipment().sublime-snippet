@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GarrisonEquipment_AddEquipment($1)$0]]></content>
-	<tabTrigger>GarrisonEquipment_AddEquipment</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

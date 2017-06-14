@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CompactRaidFrameManager_ResizeFrame_OnResizeStop($1)$0]]></content>
-	<tabTrigger>CompactRaidFrameManager_ResizeFrame_OnResizeStop</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

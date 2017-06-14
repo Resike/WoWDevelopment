@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WorldMapNavBar_SelectSibling($1)$0]]></content>
-	<tabTrigger>WorldMapNavBar_SelectSibling</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

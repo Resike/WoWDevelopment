@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FriendsFrame_CheckBattlenetStatus($1)$0]]></content>
-	<tabTrigger>FriendsFrame_CheckBattlenetStatus</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

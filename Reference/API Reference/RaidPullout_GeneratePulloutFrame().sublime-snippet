@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RaidPullout_GeneratePulloutFrame($1)$0]]></content>
-	<tabTrigger>RaidPullout_GeneratePulloutFrame</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

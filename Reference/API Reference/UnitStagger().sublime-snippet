@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnitStagger($1)$0]]></content>
-	<tabTrigger>UnitStagger</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

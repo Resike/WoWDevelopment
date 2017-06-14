@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChatConfigFilter_OnClick($1)$0]]></content>
-	<tabTrigger>ChatConfigFilter_OnClick</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetFailedPVPTalentIDs($1)$0]]></content>
-	<tabTrigger>GetFailedPVPTalentIDs</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

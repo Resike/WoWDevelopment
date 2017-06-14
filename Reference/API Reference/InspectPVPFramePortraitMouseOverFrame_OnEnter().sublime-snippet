@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[InspectPVPFramePortraitMouseOverFrame_OnEnter($1)$0]]></content>
-	<tabTrigger>InspectPVPFramePortraitMouseOverFrame_OnEnter</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

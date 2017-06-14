@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ZONE_CHANGED_INDOORS]]></content>
-	<tabTrigger>ZONE_CHANGED_INDOORS</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

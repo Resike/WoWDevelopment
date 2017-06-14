@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PVPHonorXPBar_OnEnter($1)$0]]></content>
-	<tabTrigger>PVPHonorXPBar_OnEnter</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

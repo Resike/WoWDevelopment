@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AUCTION_MULTISELL_START]]></content>
-	<tabTrigger>AUCTION_MULTISELL_START</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

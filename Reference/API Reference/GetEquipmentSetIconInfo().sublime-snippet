@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetEquipmentSetIconInfo($1)$0]]></content>
-	<tabTrigger>GetEquipmentSetIconInfo</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

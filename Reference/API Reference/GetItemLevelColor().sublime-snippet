@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetItemLevelColor($1)$0]]></content>
-	<tabTrigger>GetItemLevelColor</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetAchievementGuildRep($1)$0]]></content>
-	<tabTrigger>GetAchievementGuildRep</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetRaidDifficulties($1)$0]]></content>
-	<tabTrigger>SetRaidDifficulties</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

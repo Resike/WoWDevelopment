@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PVPHonorXPBar_SetNextAvailable($1)$0]]></content>
-	<tabTrigger>PVPHonorXPBar_SetNextAvailable</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

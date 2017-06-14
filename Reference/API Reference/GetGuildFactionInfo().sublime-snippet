@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetGuildFactionInfo($1)$0]]></content>
-	<tabTrigger>GetGuildFactionInfo</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PETITION_SHOW]]></content>
-	<tabTrigger>PETITION_SHOW</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

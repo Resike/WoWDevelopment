@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetUIPanelWidth($1)$0]]></content>
-	<tabTrigger>GetUIPanelWidth</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

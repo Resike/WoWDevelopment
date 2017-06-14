@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsAttackSpell($1)$0]]></content>
-	<tabTrigger>IsAttackSpell</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

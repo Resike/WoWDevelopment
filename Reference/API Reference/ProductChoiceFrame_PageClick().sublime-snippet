@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ProductChoiceFrame_PageClick($1)$0]]></content>
-	<tabTrigger>ProductChoiceFrame_PageClick</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

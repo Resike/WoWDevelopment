@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ItemSocketingFrame_EnableSockets($1)$0]]></content>
-	<tabTrigger>ItemSocketingFrame_EnableSockets</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

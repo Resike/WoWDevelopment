@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PartyMemberFrame_OnEvent($1)$0]]></content>
-	<tabTrigger>PartyMemberFrame_OnEvent</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

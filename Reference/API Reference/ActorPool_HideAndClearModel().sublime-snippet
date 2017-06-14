@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ActorPool_HideAndClearModel($1)$0]]></content>
-	<tabTrigger>ActorPool_HideAndClearModel</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

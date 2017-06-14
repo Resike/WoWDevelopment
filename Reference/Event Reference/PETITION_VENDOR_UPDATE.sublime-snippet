@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PETITION_VENDOR_UPDATE]]></content>
-	<tabTrigger>PETITION_VENDOR_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

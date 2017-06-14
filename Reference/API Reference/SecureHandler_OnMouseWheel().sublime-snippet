@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SecureHandler_OnMouseWheel($1)$0]]></content>
-	<tabTrigger>SecureHandler_OnMouseWheel</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

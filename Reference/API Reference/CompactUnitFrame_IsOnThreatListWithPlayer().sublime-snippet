@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CompactUnitFrame_IsOnThreatListWithPlayer($1)$0]]></content>
-	<tabTrigger>CompactUnitFrame_IsOnThreatListWithPlayer</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

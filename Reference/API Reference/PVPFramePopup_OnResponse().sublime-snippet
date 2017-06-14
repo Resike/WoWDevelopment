@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PVPFramePopup_OnResponse($1)$0]]></content>
-	<tabTrigger>PVPFramePopup_OnResponse</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UNIT_SPELLCAST_INTERRUPTED]]></content>
-	<tabTrigger>UNIT_SPELLCAST_INTERRUPTED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

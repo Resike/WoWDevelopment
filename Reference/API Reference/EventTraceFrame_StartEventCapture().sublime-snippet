@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EventTraceFrame_StartEventCapture($1)$0]]></content>
-	<tabTrigger>EventTraceFrame_StartEventCapture</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

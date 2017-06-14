@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AchievementFrame_HideSearchPreview($1)$0]]></content>
-	<tabTrigger>AchievementFrame_HideSearchPreview</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetTempShapeshiftBarIndex($1)$0]]></content>
-	<tabTrigger>GetTempShapeshiftBarIndex</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

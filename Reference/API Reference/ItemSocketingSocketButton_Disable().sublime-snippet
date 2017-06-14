@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ItemSocketingSocketButton_Disable($1)$0]]></content>
-	<tabTrigger>ItemSocketingSocketButton_Disable</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

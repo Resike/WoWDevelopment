@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TWITTER_STATUS_UPDATE]]></content>
-	<tabTrigger>TWITTER_STATUS_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

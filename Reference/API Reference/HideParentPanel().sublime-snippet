@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HideParentPanel($1)$0]]></content>
-	<tabTrigger>HideParentPanel</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

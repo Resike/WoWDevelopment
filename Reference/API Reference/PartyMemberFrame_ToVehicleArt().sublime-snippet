@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PartyMemberFrame_ToVehicleArt($1)$0]]></content>
-	<tabTrigger>PartyMemberFrame_ToVehicleArt</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

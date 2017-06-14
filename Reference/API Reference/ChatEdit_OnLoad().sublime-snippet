@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChatEdit_OnLoad($1)$0]]></content>
-	<tabTrigger>ChatEdit_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

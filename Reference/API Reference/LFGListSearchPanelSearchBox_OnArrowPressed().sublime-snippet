@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFGListSearchPanelSearchBox_OnArrowPressed($1)$0]]></content>
-	<tabTrigger>LFGListSearchPanelSearchBox_OnArrowPressed</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

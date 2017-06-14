@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BlackMarketFrame_Hide($1)$0]]></content>
-	<tabTrigger>BlackMarketFrame_Hide</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

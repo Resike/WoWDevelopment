@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarCreateEvent_SetEventTime($1)$0]]></content>
-	<tabTrigger>CalendarCreateEvent_SetEventTime</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

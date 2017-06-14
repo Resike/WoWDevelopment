@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UpdatePartyMemberBackground($1)$0]]></content>
-	<tabTrigger>UpdatePartyMemberBackground</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

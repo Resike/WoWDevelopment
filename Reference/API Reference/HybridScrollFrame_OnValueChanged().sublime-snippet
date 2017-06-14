@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HybridScrollFrame_OnValueChanged($1)$0]]></content>
-	<tabTrigger>HybridScrollFrame_OnValueChanged</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

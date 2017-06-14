@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ToggleWindowed($1)$0]]></content>
-	<tabTrigger>ToggleWindowed</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SocialPrefillScreenshotText($1)$0]]></content>
-	<tabTrigger>SocialPrefillScreenshotText</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

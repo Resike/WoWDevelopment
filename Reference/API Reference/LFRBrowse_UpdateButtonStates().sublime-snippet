@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFRBrowse_UpdateButtonStates($1)$0]]></content>
-	<tabTrigger>LFRBrowse_UpdateButtonStates</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

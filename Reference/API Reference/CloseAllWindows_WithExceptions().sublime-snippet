@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CloseAllWindows_WithExceptions($1)$0]]></content>
-	<tabTrigger>CloseAllWindows_WithExceptions</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

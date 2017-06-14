@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BOTTOMRIGHT]]></content>
-	<tabTrigger>BOTTOMRIGHT</tabTrigger>
-	<description>anchor</description>
-	<scope>source.lua</scope>
-</snippet>

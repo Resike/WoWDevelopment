@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChannelPulloutRoster_OnEvent($1)$0]]></content>
-	<tabTrigger>ChannelPulloutRoster_OnEvent</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

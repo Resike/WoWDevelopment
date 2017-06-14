@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_AuthChallenge.OnTabPressed($1)$0]]></content>
-	<tabTrigger>C_AuthChallenge.OnTabPressed</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

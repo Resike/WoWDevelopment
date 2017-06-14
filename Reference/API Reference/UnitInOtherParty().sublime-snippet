@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnitInOtherParty($1)$0]]></content>
-	<tabTrigger>UnitInOtherParty</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

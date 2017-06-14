@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AreDangerousScriptsAllowed($1)$0]]></content>
-	<tabTrigger>AreDangerousScriptsAllowed</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

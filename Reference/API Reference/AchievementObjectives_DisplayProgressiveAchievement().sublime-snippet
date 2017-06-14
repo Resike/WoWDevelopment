@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AchievementObjectives_DisplayProgressiveAchievement($1)$0]]></content>
-	<tabTrigger>AchievementObjectives_DisplayProgressiveAchievement</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

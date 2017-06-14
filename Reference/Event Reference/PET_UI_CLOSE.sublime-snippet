@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PET_UI_CLOSE]]></content>
-	<tabTrigger>PET_UI_CLOSE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

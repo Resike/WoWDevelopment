@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnimateTexCoords($1)$0]]></content>
-	<tabTrigger>AnimateTexCoords</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

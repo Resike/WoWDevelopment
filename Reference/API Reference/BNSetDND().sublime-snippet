@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BNSetDND($1)$0]]></content>
-	<tabTrigger>BNSetDND</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

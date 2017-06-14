@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ClearPartyAssignment($1)$0]]></content>
-	<tabTrigger>ClearPartyAssignment</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetPowerRegenForPowerType($1)$0]]></content>
-	<tabTrigger>GetPowerRegenForPowerType</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

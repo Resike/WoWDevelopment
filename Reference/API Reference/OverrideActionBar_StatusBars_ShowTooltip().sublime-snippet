@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OverrideActionBar_StatusBars_ShowTooltip($1)$0]]></content>
-	<tabTrigger>OverrideActionBar_StatusBars_ShowTooltip</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

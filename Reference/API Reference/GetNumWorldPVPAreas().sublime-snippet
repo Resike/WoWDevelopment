@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetNumWorldPVPAreas($1)$0]]></content>
-	<tabTrigger>GetNumWorldPVPAreas</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

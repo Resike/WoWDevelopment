@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RaidGroup_ResetSlotButtons($1)$0]]></content>
-	<tabTrigger>RaidGroup_ResetSlotButtons</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

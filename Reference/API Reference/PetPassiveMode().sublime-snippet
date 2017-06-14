@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PetPassiveMode($1)$0]]></content>
-	<tabTrigger>PetPassiveMode</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

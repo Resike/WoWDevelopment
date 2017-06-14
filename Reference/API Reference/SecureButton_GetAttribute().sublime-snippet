@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SecureButton_GetAttribute($1)$0]]></content>
-	<tabTrigger>SecureButton_GetAttribute</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

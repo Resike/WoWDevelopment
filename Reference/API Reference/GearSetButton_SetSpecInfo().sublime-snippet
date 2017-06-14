@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GearSetButton_SetSpecInfo($1)$0]]></content>
-	<tabTrigger>GearSetButton_SetSpecInfo</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

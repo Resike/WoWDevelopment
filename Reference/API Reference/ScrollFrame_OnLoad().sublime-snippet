@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ScrollFrame_OnLoad($1)$0]]></content>
-	<tabTrigger>ScrollFrame_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

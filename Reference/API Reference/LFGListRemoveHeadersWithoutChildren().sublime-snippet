@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFGListRemoveHeadersWithoutChildren($1)$0]]></content>
-	<tabTrigger>LFGListRemoveHeadersWithoutChildren</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

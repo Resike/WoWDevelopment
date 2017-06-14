@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RESTRICTED_ACCOUNT_WARNING]]></content>
-	<tabTrigger>RESTRICTED_ACCOUNT_WARNING</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

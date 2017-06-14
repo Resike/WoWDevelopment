@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AuctionsWowTokenAuctionFrame_Update($1)$0]]></content>
-	<tabTrigger>AuctionsWowTokenAuctionFrame_Update</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

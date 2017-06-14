@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TABARD_SAVE_PENDING]]></content>
-	<tabTrigger>TABARD_SAVE_PENDING</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

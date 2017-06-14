@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ControlGetActiveCvarValue($1)$0]]></content>
-	<tabTrigger>ControlGetActiveCvarValue</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

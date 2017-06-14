@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QueryCastSequence($1)$0]]></content>
-	<tabTrigger>QueryCastSequence</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

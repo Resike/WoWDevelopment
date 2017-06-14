@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ToggleMiniMapRotation($1)$0]]></content>
-	<tabTrigger>ToggleMiniMapRotation</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

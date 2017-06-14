@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ActionBarButtonEventsFrame_RegisterFrame($1)$0]]></content>
-	<tabTrigger>ActionBarButtonEventsFrame_RegisterFrame</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

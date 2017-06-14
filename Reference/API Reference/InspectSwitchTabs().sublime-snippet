@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[InspectSwitchTabs($1)$0]]></content>
-	<tabTrigger>InspectSwitchTabs</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

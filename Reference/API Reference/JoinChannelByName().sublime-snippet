@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JoinChannelByName($1)$0]]></content>
-	<tabTrigger>JoinChannelByName</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

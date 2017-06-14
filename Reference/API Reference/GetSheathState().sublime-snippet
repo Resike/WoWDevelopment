@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetSheathState($1)$0]]></content>
-	<tabTrigger>GetSheathState</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

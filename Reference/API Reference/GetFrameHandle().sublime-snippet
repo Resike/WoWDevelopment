@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetFrameHandle($1)$0]]></content>
-	<tabTrigger>GetFrameHandle</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

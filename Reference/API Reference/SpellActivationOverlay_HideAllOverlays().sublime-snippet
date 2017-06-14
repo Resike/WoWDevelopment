@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SpellActivationOverlay_HideAllOverlays($1)$0]]></content>
-	<tabTrigger>SpellActivationOverlay_HideAllOverlays</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QuestMapFrame_GetDetailQuestID($1)$0]]></content>
-	<tabTrigger>QuestMapFrame_GetDetailQuestID</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

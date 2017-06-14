@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SpellButton_UpdateSelection($1)$0]]></content>
-	<tabTrigger>SpellButton_UpdateSelection</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

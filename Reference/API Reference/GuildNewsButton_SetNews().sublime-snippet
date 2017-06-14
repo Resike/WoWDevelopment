@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GuildNewsButton_SetNews($1)$0]]></content>
-	<tabTrigger>GuildNewsButton_SetNews</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

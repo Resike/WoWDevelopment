@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CastingBarFrame_SetLook($1)$0]]></content>
-	<tabTrigger>CastingBarFrame_SetLook</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

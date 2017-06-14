@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsMessageDoneTo($1)$0]]></content>
-	<tabTrigger>IsMessageDoneTo</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

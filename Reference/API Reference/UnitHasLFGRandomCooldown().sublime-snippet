@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnitHasLFGRandomCooldown($1)$0]]></content>
-	<tabTrigger>UnitHasLFGRandomCooldown</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

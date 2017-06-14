@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PetBattleWeatherFrame_Update($1)$0]]></content>
-	<tabTrigger>PetBattleWeatherFrame_Update</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

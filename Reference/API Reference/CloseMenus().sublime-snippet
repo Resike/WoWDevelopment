@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CloseMenus($1)$0]]></content>
-	<tabTrigger>CloseMenus</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

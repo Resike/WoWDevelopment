@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DeclineChannelInvite($1)$0]]></content>
-	<tabTrigger>DeclineChannelInvite</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

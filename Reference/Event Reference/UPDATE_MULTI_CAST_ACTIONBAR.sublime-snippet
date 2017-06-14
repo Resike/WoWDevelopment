@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UPDATE_MULTI_CAST_ACTIONBAR]]></content>
-	<tabTrigger>UPDATE_MULTI_CAST_ACTIONBAR</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ButtonFrameTemplate_HidePortrait($1)$0]]></content>
-	<tabTrigger>ButtonFrameTemplate_HidePortrait</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

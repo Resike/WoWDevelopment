@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PET_BATTLE_QUEUE_PROPOSAL_ACCEPTED]]></content>
-	<tabTrigger>PET_BATTLE_QUEUE_PROPOSAL_ACCEPTED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

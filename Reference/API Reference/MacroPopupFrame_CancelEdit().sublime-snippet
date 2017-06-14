@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MacroPopupFrame_CancelEdit($1)$0]]></content>
-	<tabTrigger>MacroPopupFrame_CancelEdit</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

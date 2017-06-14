@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AchievementFrameComparison_SetUnit($1)$0]]></content>
-	<tabTrigger>AchievementFrameComparison_SetUnit</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

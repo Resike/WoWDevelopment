@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFG_PermanentlyDisableRoleButton($1)$0]]></content>
-	<tabTrigger>LFG_PermanentlyDisableRoleButton</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

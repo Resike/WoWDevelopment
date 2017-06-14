@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HelpFrame_SetTicketButtonText($1)$0]]></content>
-	<tabTrigger>HelpFrame_SetTicketButtonText</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

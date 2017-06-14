@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LOW]]></content>
-	<tabTrigger>LOW</tabTrigger>
-	<description>strata</description>
-	<scope>source.lua</scope>
-</snippet>

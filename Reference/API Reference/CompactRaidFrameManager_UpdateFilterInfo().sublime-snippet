@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CompactRaidFrameManager_UpdateFilterInfo($1)$0]]></content>
-	<tabTrigger>CompactRaidFrameManager_UpdateFilterInfo</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

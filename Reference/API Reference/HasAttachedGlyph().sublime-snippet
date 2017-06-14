@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HasAttachedGlyph($1)$0]]></content>
-	<tabTrigger>HasAttachedGlyph</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

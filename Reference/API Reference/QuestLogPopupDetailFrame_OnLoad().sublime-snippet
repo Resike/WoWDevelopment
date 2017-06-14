@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QuestLogPopupDetailFrame_OnLoad($1)$0]]></content>
-	<tabTrigger>QuestLogPopupDetailFrame_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

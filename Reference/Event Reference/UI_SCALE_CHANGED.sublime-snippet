@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UI_SCALE_CHANGED]]></content>
-	<tabTrigger>UI_SCALE_CHANGED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

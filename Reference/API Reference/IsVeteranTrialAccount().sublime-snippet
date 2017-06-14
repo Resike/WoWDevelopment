@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsVeteranTrialAccount($1)$0]]></content>
-	<tabTrigger>IsVeteranTrialAccount</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_StoreSecure.IsAvailable($1)$0]]></content>
-	<tabTrigger>C_StoreSecure.IsAvailable</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

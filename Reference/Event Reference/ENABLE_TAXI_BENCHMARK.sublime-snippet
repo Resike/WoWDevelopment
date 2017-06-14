@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ENABLE_TAXI_BENCHMARK]]></content>
-	<tabTrigger>ENABLE_TAXI_BENCHMARK</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

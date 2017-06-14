@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TimeManager_IsAlarmFiring($1)$0]]></content>
-	<tabTrigger>TimeManager_IsAlarmFiring</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

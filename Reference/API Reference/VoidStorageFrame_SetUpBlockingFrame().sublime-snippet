@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VoidStorageFrame_SetUpBlockingFrame($1)$0]]></content>
-	<tabTrigger>VoidStorageFrame_SetUpBlockingFrame</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

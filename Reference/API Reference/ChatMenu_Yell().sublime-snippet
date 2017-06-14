@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChatMenu_Yell($1)$0]]></content>
-	<tabTrigger>ChatMenu_Yell</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

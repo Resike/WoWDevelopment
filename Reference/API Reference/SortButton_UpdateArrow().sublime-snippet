@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SortButton_UpdateArrow($1)$0]]></content>
-	<tabTrigger>SortButton_UpdateArrow</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

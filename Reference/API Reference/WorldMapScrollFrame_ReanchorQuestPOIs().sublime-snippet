@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WorldMapScrollFrame_ReanchorQuestPOIs($1)$0]]></content>
-	<tabTrigger>WorldMapScrollFrame_ReanchorQuestPOIs</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

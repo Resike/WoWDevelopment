@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WardrobeTransmogFrame_UpdateWeaponModel($1)$0]]></content>
-	<tabTrigger>WardrobeTransmogFrame_UpdateWeaponModel</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

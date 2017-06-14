@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CompleteLFGReadyCheck($1)$0]]></content>
-	<tabTrigger>CompleteLFGReadyCheck</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetMaxPlayerHonorLevel($1)$0]]></content>
-	<tabTrigger>GetMaxPlayerHonorLevel</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

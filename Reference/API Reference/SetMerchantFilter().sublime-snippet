@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetMerchantFilter($1)$0]]></content>
-	<tabTrigger>SetMerchantFilter</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

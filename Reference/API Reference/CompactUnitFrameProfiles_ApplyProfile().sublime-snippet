@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CompactUnitFrameProfiles_ApplyProfile($1)$0]]></content>
-	<tabTrigger>CompactUnitFrameProfiles_ApplyProfile</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

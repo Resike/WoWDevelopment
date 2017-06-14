@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TalentFrame_LoadUI($1)$0]]></content>
-	<tabTrigger>TalentFrame_LoadUI</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

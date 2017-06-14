@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PET_SPELL_POWER_UPDATE]]></content>
-	<tabTrigger>PET_SPELL_POWER_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

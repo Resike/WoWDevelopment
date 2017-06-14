@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AudioOptionsFrame_AudioRestart($1)$0]]></content>
-	<tabTrigger>AudioOptionsFrame_AudioRestart</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

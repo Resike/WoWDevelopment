@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PLAYER_STARTED_MOVING]]></content>
-	<tabTrigger>PLAYER_STARTED_MOVING</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

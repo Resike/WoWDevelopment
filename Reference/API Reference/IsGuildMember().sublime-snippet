@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsGuildMember($1)$0]]></content>
-	<tabTrigger>IsGuildMember</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

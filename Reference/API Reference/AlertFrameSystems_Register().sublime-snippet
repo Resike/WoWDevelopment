@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AlertFrameSystems_Register($1)$0]]></content>
-	<tabTrigger>AlertFrameSystems_Register</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

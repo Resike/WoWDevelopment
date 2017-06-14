@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ToggleBag($1)$0]]></content>
-	<tabTrigger>ToggleBag</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

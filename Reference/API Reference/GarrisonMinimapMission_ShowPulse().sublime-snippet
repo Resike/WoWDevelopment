@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GarrisonMinimapMission_ShowPulse($1)$0]]></content>
-	<tabTrigger>GarrisonMinimapMission_ShowPulse</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

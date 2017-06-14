@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VehicleAimDownStop($1)$0]]></content>
-	<tabTrigger>VehicleAimDownStop</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

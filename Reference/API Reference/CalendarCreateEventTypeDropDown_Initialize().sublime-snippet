@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarCreateEventTypeDropDown_Initialize($1)$0]]></content>
-	<tabTrigger>CalendarCreateEventTypeDropDown_Initialize</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

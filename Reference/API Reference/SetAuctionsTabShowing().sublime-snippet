@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetAuctionsTabShowing($1)$0]]></content>
-	<tabTrigger>SetAuctionsTabShowing</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

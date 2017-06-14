@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetLFGDungeonShortageRewardLink($1)$0]]></content>
-	<tabTrigger>GetLFGDungeonShortageRewardLink</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PaperDollFrame_UpdateSidebarTabs($1)$0]]></content>
-	<tabTrigger>PaperDollFrame_UpdateSidebarTabs</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

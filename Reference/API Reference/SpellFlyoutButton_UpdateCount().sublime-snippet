@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SpellFlyoutButton_UpdateCount($1)$0]]></content>
-	<tabTrigger>SpellFlyoutButton_UpdateCount</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

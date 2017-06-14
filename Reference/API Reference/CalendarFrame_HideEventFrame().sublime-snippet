@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarFrame_HideEventFrame($1)$0]]></content>
-	<tabTrigger>CalendarFrame_HideEventFrame</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

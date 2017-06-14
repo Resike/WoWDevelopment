@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RGBToColorCode($1)$0]]></content>
-	<tabTrigger>RGBToColorCode</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

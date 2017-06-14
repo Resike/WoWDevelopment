@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HelpPlateBox_OnLeave($1)$0]]></content>
-	<tabTrigger>HelpPlateBox_OnLeave</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

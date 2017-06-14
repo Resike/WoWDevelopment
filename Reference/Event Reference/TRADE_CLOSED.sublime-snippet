@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TRADE_CLOSED]]></content>
-	<tabTrigger>TRADE_CLOSED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

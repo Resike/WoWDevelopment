@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LookingForGuild_UpdateRoleButton($1)$0]]></content>
-	<tabTrigger>LookingForGuild_UpdateRoleButton</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

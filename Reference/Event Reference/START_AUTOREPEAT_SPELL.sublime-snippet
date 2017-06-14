@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[START_AUTOREPEAT_SPELL]]></content>
-	<tabTrigger>START_AUTOREPEAT_SPELL</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

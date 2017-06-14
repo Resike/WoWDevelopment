@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TargetFrame_UpdateDebuffAnchor($1)$0]]></content>
-	<tabTrigger>TargetFrame_UpdateDebuffAnchor</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

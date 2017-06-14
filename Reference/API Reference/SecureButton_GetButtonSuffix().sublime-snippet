@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SecureButton_GetButtonSuffix($1)$0]]></content>
-	<tabTrigger>SecureButton_GetButtonSuffix</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

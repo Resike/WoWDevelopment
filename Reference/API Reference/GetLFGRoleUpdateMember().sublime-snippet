@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetLFGRoleUpdateMember($1)$0]]></content>
-	<tabTrigger>GetLFGRoleUpdateMember</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

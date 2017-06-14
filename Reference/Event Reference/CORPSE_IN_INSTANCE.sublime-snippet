@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CORPSE_IN_INSTANCE]]></content>
-	<tabTrigger>CORPSE_IN_INSTANCE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

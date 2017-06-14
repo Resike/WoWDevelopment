@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BATTLEFIELD_MGR_DROP_TIMER_STARTED]]></content>
-	<tabTrigger>BATTLEFIELD_MGR_DROP_TIMER_STARTED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

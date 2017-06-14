@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MoneyInputFrame_SetOnValueChangedFunc($1)$0]]></content>
-	<tabTrigger>MoneyInputFrame_SetOnValueChangedFunc</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

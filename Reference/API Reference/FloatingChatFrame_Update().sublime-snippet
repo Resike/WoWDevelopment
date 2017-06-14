@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FloatingChatFrame_Update($1)$0]]></content>
-	<tabTrigger>FloatingChatFrame_Update</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

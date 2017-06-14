@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NAME_PLATE_UNIT_REMOVED]]></content>
-	<tabTrigger>NAME_PLATE_UNIT_REMOVED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

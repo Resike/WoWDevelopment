@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VOID_DEPOSIT_WARNING]]></content>
-	<tabTrigger>VOID_DEPOSIT_WARNING</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

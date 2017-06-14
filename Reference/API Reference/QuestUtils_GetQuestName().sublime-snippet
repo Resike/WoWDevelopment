@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QuestUtils_GetQuestName($1)$0]]></content>
-	<tabTrigger>QuestUtils_GetQuestName</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

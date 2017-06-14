@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SESSION_TIME_ALERT]]></content>
-	<tabTrigger>SESSION_TIME_ALERT</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

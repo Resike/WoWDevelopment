@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BATTLEFIELDS_CLOSED]]></content>
-	<tabTrigger>BATTLEFIELDS_CLOSED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

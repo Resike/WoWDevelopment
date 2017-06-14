@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FRIENDLIST_UPDATE]]></content>
-	<tabTrigger>FRIENDLIST_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PVEFrame_HideLeftInset($1)$0]]></content>
-	<tabTrigger>PVEFrame_HideLeftInset</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

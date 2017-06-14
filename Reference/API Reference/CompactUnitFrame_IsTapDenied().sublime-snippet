@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CompactUnitFrame_IsTapDenied($1)$0]]></content>
-	<tabTrigger>CompactUnitFrame_IsTapDenied</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

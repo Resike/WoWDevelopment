@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MacKeyboardOptionsFrame_SetDefaults($1)$0]]></content>
-	<tabTrigger>MacKeyboardOptionsFrame_SetDefaults</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

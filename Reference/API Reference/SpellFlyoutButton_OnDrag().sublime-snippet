@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SpellFlyoutButton_OnDrag($1)$0]]></content>
-	<tabTrigger>SpellFlyoutButton_OnDrag</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

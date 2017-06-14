@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AVOIDANCE_UPDATE]]></content>
-	<tabTrigger>AVOIDANCE_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

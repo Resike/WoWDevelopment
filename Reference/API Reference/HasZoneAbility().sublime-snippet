@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HasZoneAbility($1)$0]]></content>
-	<tabTrigger>HasZoneAbility</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

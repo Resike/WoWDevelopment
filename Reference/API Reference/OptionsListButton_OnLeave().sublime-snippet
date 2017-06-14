@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OptionsListButton_OnLeave($1)$0]]></content>
-	<tabTrigger>OptionsListButton_OnLeave</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

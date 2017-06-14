@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFG_UpdateFindGroupButtons($1)$0]]></content>
-	<tabTrigger>LFG_UpdateFindGroupButtons</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

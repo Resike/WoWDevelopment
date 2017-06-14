@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AlternatePowerBar_OnUpdate($1)$0]]></content>
-	<tabTrigger>AlternatePowerBar_OnUpdate</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

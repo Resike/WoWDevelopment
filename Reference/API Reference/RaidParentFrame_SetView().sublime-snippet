@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RaidParentFrame_SetView($1)$0]]></content>
-	<tabTrigger>RaidParentFrame_SetView</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

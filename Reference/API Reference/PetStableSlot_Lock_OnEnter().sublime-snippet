@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PetStableSlot_Lock_OnEnter($1)$0]]></content>
-	<tabTrigger>PetStableSlot_Lock_OnEnter</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

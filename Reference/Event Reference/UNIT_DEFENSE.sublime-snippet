@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UNIT_DEFENSE]]></content>
-	<tabTrigger>UNIT_DEFENSE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

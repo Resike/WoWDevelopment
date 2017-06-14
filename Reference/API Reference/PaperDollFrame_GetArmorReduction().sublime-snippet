@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PaperDollFrame_GetArmorReduction($1)$0]]></content>
-	<tabTrigger>PaperDollFrame_GetArmorReduction</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

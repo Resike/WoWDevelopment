@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UPDATE_BINDINGS]]></content>
-	<tabTrigger>UPDATE_BINDINGS</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

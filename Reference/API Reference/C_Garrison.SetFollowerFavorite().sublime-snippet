@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_Garrison.SetFollowerFavorite($1)$0]]></content>
-	<tabTrigger>C_Garrison.SetFollowerFavorite</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

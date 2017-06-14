@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FadingFrame_SetHoldTime($1)$0]]></content>
-	<tabTrigger>FadingFrame_SetHoldTime</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

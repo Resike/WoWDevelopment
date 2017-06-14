@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ShowPartyFrame($1)$0]]></content>
-	<tabTrigger>ShowPartyFrame</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

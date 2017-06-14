@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[StartTimer_SetTexNumbers($1)$0]]></content>
-	<tabTrigger>StartTimer_SetTexNumbers</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

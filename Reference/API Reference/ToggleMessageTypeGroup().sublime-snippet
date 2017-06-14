@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ToggleMessageTypeGroup($1)$0]]></content>
-	<tabTrigger>ToggleMessageTypeGroup</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFGListUtil_IsEntryEmpowered($1)$0]]></content>
-	<tabTrigger>LFGListUtil_IsEntryEmpowered</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

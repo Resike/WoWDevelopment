@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GameTooltip_InsertFrame($1)$0]]></content>
-	<tabTrigger>GameTooltip_InsertFrame</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

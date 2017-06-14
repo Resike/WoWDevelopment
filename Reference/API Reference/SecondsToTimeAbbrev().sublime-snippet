@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SecondsToTimeAbbrev($1)$0]]></content>
-	<tabTrigger>SecondsToTimeAbbrev</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

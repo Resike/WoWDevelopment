@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChannelFrameDaughterFrame_Okay($1)$0]]></content>
-	<tabTrigger>ChannelFrameDaughterFrame_Okay</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

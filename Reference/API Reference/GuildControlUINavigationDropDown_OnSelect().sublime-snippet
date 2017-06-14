@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GuildControlUINavigationDropDown_OnSelect($1)$0]]></content>
-	<tabTrigger>GuildControlUINavigationDropDown_OnSelect</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

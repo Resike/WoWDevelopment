@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TABARD_CANSAVE_CHANGED]]></content>
-	<tabTrigger>TABARD_CANSAVE_CHANGED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PetBattleUnitTooltip_OnLoad($1)$0]]></content>
-	<tabTrigger>PetBattleUnitTooltip_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

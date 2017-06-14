@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ExpBar_Update($1)$0]]></content>
-	<tabTrigger>ExpBar_Update</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

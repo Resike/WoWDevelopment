@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_Social.GetScreenshotByIndex($1)$0]]></content>
-	<tabTrigger>C_Social.GetScreenshotByIndex</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

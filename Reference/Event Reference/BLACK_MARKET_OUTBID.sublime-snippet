@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BLACK_MARKET_OUTBID]]></content>
-	<tabTrigger>BLACK_MARKET_OUTBID</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

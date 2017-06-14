@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetRaidProfileFlattenedOptions($1)$0]]></content>
-	<tabTrigger>GetRaidProfileFlattenedOptions</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

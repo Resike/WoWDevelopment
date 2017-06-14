@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[InspectTalentFrameTalent_OnClick($1)$0]]></content>
-	<tabTrigger>InspectTalentFrameTalent_OnClick</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

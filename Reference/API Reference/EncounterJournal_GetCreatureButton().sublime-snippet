@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EncounterJournal_GetCreatureButton($1)$0]]></content>
-	<tabTrigger>EncounterJournal_GetCreatureButton</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FlowContainer_EndAtomicAdd($1)$0]]></content>
-	<tabTrigger>FlowContainer_EndAtomicAdd</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

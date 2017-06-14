@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LoadURLIndex($1)$0]]></content>
-	<tabTrigger>LoadURLIndex</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

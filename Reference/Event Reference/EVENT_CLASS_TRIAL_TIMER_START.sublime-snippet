@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EVENT_CLASS_TRIAL_TIMER_START]]></content>
-	<tabTrigger>EVENT_CLASS_TRIAL_TIMER_START</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

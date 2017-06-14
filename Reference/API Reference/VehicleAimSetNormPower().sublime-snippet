@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VehicleAimSetNormPower($1)$0]]></content>
-	<tabTrigger>VehicleAimSetNormPower</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

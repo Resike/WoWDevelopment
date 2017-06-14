@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CompactUnitFrameAutoActivateSpec_OnLoad($1)$0]]></content>
-	<tabTrigger>CompactUnitFrameAutoActivateSpec_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

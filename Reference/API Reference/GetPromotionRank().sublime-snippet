@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetPromotionRank($1)$0]]></content>
-	<tabTrigger>GetPromotionRank</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetBladedArmorEffect($1)$0]]></content>
-	<tabTrigger>GetBladedArmorEffect</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

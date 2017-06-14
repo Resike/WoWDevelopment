@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PLAYER_SKINNED]]></content>
-	<tabTrigger>PLAYER_SKINNED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChatFrame_ReceiveAllPrivateMessages($1)$0]]></content>
-	<tabTrigger>ChatFrame_ReceiveAllPrivateMessages</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

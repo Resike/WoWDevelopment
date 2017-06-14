@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFRBrowseFrameRaidDropDown_Initialize($1)$0]]></content>
-	<tabTrigger>LFRBrowseFrameRaidDropDown_Initialize</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

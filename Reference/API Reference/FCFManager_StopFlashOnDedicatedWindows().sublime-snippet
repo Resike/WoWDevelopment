@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FCFManager_StopFlashOnDedicatedWindows($1)$0]]></content>
-	<tabTrigger>FCFManager_StopFlashOnDedicatedWindows</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

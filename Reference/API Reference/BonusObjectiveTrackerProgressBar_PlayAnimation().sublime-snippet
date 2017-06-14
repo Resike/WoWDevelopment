@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BonusObjectiveTrackerProgressBar_PlayAnimation($1)$0]]></content>
-	<tabTrigger>BonusObjectiveTrackerProgressBar_PlayAnimation</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

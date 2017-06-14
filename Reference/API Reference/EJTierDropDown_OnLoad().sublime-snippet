@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EJTierDropDown_OnLoad($1)$0]]></content>
-	<tabTrigger>EJTierDropDown_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

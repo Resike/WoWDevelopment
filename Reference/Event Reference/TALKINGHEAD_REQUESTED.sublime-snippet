@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TALKINGHEAD_REQUESTED]]></content>
-	<tabTrigger>TALKINGHEAD_REQUESTED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

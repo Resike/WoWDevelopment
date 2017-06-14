@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GMSURVEY_DISPLAY]]></content>
-	<tabTrigger>GMSURVEY_DISPLAY</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

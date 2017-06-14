@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ObjectiveTrackerHeader_OnAnimFinished($1)$0]]></content>
-	<tabTrigger>ObjectiveTrackerHeader_OnAnimFinished</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

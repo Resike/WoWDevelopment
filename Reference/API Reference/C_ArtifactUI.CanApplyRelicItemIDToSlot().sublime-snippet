@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_ArtifactUI.CanApplyRelicItemIDToSlot($1)$0]]></content>
-	<tabTrigger>C_ArtifactUI.CanApplyRelicItemIDToSlot</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

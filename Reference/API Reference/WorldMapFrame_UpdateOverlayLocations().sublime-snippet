@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WorldMapFrame_UpdateOverlayLocations($1)$0]]></content>
-	<tabTrigger>WorldMapFrame_UpdateOverlayLocations</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

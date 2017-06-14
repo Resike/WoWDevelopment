@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChatEdit_ResetChatTypeToSticky($1)$0]]></content>
-	<tabTrigger>ChatEdit_ResetChatTypeToSticky</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

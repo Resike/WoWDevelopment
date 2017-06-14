@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarContextInviteTentative($1)$0]]></content>
-	<tabTrigger>CalendarContextInviteTentative</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

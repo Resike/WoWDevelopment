@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DungeonAppearsInRandomLFD($1)$0]]></content>
-	<tabTrigger>DungeonAppearsInRandomLFD</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

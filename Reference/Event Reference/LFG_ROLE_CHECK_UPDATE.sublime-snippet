@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFG_ROLE_CHECK_UPDATE]]></content>
-	<tabTrigger>LFG_ROLE_CHECK_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

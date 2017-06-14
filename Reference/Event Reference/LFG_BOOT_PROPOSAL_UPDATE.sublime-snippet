@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFG_BOOT_PROPOSAL_UPDATE]]></content>
-	<tabTrigger>LFG_BOOT_PROPOSAL_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

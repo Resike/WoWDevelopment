@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FocusFrameDropDown_Initialize($1)$0]]></content>
-	<tabTrigger>FocusFrameDropDown_Initialize</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PetJournalFilterDropDown_Initialize($1)$0]]></content>
-	<tabTrigger>PetJournalFilterDropDown_Initialize</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

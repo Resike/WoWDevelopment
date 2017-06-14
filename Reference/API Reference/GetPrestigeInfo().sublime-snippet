@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetPrestigeInfo($1)$0]]></content>
-	<tabTrigger>GetPrestigeInfo</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

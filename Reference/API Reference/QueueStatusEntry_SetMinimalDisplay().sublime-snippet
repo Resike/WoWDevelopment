@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QueueStatusEntry_SetMinimalDisplay($1)$0]]></content>
-	<tabTrigger>QueueStatusEntry_SetMinimalDisplay</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

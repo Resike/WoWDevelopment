@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PaperDollFrame_SetPower($1)$0]]></content>
-	<tabTrigger>PaperDollFrame_SetPower</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

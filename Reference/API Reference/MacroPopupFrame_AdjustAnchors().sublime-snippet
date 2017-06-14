@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MacroPopupFrame_AdjustAnchors($1)$0]]></content>
-	<tabTrigger>MacroPopupFrame_AdjustAnchors</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

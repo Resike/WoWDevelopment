@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IncludedBattlegroundsDropDown_Toggle($1)$0]]></content>
-	<tabTrigger>IncludedBattlegroundsDropDown_Toggle</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

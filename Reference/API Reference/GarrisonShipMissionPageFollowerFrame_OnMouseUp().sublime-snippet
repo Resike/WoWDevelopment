@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GarrisonShipMissionPageFollowerFrame_OnMouseUp($1)$0]]></content>
-	<tabTrigger>GarrisonShipMissionPageFollowerFrame_OnMouseUp</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

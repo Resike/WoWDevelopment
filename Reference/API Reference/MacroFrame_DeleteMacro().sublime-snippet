@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MacroFrame_DeleteMacro($1)$0]]></content>
-	<tabTrigger>MacroFrame_DeleteMacro</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SearchBoxTemplate_OnTextChanged($1)$0]]></content>
-	<tabTrigger>SearchBoxTemplate_OnTextChanged</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

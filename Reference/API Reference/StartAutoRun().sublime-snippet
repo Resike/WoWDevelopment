@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[StartAutoRun($1)$0]]></content>
-	<tabTrigger>StartAutoRun</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

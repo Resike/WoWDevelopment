@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[START_TIMER]]></content>
-	<tabTrigger>START_TIMER</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RestoreRaidProfileFromCopy($1)$0]]></content>
-	<tabTrigger>RestoreRaidProfileFromCopy</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

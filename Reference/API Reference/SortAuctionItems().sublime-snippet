@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SortAuctionItems($1)$0]]></content>
-	<tabTrigger>SortAuctionItems</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

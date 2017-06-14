@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GET_ITEM_INFO_RECEIVED]]></content>
-	<tabTrigger>GET_ITEM_INFO_RECEIVED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

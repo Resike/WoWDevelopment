@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[REQUEST_CEMETERY_LIST_RESPONSE]]></content>
-	<tabTrigger>REQUEST_CEMETERY_LIST_RESPONSE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

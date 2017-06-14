@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GarrisonCinematicModelBase_OnLoad($1)$0]]></content>
-	<tabTrigger>GarrisonCinematicModelBase_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

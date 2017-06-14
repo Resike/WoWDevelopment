@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetRecruitingGuildInfo($1)$0]]></content>
-	<tabTrigger>GetRecruitingGuildInfo</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

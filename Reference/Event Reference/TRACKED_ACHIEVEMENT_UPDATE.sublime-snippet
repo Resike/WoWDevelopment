@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TRACKED_ACHIEVEMENT_UPDATE]]></content>
-	<tabTrigger>TRACKED_ACHIEVEMENT_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

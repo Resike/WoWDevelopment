@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AchievementButton_ResetTable($1)$0]]></content>
-	<tabTrigger>AchievementButton_ResetTable</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UNIT_ABSORB_AMOUNT_CHANGED]]></content>
-	<tabTrigger>UNIT_ABSORB_AMOUNT_CHANGED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

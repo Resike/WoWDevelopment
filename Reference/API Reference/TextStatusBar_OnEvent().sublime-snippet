@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TextStatusBar_OnEvent($1)$0]]></content>
-	<tabTrigger>TextStatusBar_OnEvent</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

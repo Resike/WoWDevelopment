@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EncounterJournalSearchBox_OnFocusGained($1)$0]]></content>
-	<tabTrigger>EncounterJournalSearchBox_OnFocusGained</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

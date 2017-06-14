@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChatConfigFrame_PlayCheckboxSound($1)$0]]></content>
-	<tabTrigger>ChatConfigFrame_PlayCheckboxSound</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

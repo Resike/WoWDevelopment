@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TradeFrame_UpdatePlayerItem($1)$0]]></content>
-	<tabTrigger>TradeFrame_UpdatePlayerItem</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

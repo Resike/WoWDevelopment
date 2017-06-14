@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PetBattleFrame_UpdateActionBarLayout($1)$0]]></content>
-	<tabTrigger>PetBattleFrame_UpdateActionBarLayout</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

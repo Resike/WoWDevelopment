@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PetBattleFrame_PetSelectionFrameUpdateVisible($1)$0]]></content>
-	<tabTrigger>PetBattleFrame_PetSelectionFrameUpdateVisible</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

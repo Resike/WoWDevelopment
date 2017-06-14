@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AchievementFrame_GetCategoryNumAchievements_Complete($1)$0]]></content>
-	<tabTrigger>AchievementFrame_GetCategoryNumAchievements_Complete</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

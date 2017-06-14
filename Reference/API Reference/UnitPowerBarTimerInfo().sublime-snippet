@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnitPowerBarTimerInfo($1)$0]]></content>
-	<tabTrigger>UnitPowerBarTimerInfo</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

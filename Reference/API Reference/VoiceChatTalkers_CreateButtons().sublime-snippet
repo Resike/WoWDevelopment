@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VoiceChatTalkers_CreateButtons($1)$0]]></content>
-	<tabTrigger>VoiceChatTalkers_CreateButtons</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

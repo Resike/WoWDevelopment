@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BreakUpLargeNumbers($1)$0]]></content>
-	<tabTrigger>BreakUpLargeNumbers</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

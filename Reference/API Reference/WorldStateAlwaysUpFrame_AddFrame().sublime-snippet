@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WorldStateAlwaysUpFrame_AddFrame($1)$0]]></content>
-	<tabTrigger>WorldStateAlwaysUpFrame_AddFrame</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

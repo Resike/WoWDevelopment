@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AchievementComparisonPlayerButton_OnLoad($1)$0]]></content>
-	<tabTrigger>AchievementComparisonPlayerButton_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

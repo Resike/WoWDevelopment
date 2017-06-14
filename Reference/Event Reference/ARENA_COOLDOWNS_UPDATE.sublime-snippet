@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ARENA_COOLDOWNS_UPDATE]]></content>
-	<tabTrigger>ARENA_COOLDOWNS_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

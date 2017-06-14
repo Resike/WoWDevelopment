@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFG_UpdateAvailableRoleButton($1)$0]]></content>
-	<tabTrigger>LFG_UpdateAvailableRoleButton</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

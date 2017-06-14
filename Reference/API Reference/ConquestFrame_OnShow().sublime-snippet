@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ConquestFrame_OnShow($1)$0]]></content>
-	<tabTrigger>ConquestFrame_OnShow</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

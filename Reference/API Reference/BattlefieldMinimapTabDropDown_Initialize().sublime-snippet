@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BattlefieldMinimapTabDropDown_Initialize($1)$0]]></content>
-	<tabTrigger>BattlefieldMinimapTabDropDown_Initialize</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

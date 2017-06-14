@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarDayEventButton_OnLeave($1)$0]]></content>
-	<tabTrigger>CalendarDayEventButton_OnLeave</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

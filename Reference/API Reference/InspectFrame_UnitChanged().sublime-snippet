@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[InspectFrame_UnitChanged($1)$0]]></content>
-	<tabTrigger>InspectFrame_UnitChanged</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

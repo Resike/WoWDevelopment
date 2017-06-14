@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChatConfig_UpdateSwatches($1)$0]]></content>
-	<tabTrigger>ChatConfig_UpdateSwatches</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

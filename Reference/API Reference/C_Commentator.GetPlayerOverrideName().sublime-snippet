@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_Commentator.GetPlayerOverrideName($1)$0]]></content>
-	<tabTrigger>C_Commentator.GetPlayerOverrideName</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

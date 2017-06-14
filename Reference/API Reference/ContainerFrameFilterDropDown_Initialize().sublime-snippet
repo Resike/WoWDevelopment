@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ContainerFrameFilterDropDown_Initialize($1)$0]]></content>
-	<tabTrigger>ContainerFrameFilterDropDown_Initialize</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

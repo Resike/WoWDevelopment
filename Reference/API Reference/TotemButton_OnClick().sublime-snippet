@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TotemButton_OnClick($1)$0]]></content>
-	<tabTrigger>TotemButton_OnClick</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

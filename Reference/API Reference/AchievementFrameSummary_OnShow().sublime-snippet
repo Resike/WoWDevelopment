@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AchievementFrameSummary_OnShow($1)$0]]></content>
-	<tabTrigger>AchievementFrameSummary_OnShow</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

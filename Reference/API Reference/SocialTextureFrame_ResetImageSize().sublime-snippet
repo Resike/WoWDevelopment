@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SocialTextureFrame_ResetImageSize($1)$0]]></content>
-	<tabTrigger>SocialTextureFrame_ResetImageSize</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CHANNEL_COUNT_UPDATE]]></content>
-	<tabTrigger>CHANNEL_COUNT_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

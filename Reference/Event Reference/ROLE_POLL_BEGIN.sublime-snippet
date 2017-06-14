@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ROLE_POLL_BEGIN]]></content>
-	<tabTrigger>ROLE_POLL_BEGIN</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

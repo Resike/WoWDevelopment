@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QuestInfo_ShowAnchor($1)$0]]></content>
-	<tabTrigger>QuestInfo_ShowAnchor</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

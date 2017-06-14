@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QueueStatusDropDown_AddLFGButtons($1)$0]]></content>
-	<tabTrigger>QueueStatusDropDown_AddLFGButtons</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

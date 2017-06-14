@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GuildNewsDropDown_SetSticky($1)$0]]></content>
-	<tabTrigger>GuildNewsDropDown_SetSticky</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

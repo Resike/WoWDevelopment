@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ClearAllTracking($1)$0]]></content>
-	<tabTrigger>ClearAllTracking</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

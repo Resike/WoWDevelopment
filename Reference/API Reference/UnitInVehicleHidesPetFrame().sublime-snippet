@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnitInVehicleHidesPetFrame($1)$0]]></content>
-	<tabTrigger>UnitInVehicleHidesPetFrame</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

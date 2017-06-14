@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsInActiveWorldPVP($1)$0]]></content>
-	<tabTrigger>IsInActiveWorldPVP</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AchievementFrameCategory_StatusBarTooltip($1)$0]]></content>
-	<tabTrigger>AchievementFrameCategory_StatusBarTooltip</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

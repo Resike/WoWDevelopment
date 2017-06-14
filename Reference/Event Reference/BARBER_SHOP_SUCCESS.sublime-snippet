@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BARBER_SHOP_SUCCESS]]></content>
-	<tabTrigger>BARBER_SHOP_SUCCESS</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

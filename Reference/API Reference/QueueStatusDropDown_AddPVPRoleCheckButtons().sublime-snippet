@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QueueStatusDropDown_AddPVPRoleCheckButtons($1)$0]]></content>
-	<tabTrigger>QueueStatusDropDown_AddPVPRoleCheckButtons</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

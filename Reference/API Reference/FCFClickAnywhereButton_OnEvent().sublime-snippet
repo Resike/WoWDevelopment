@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FCFClickAnywhereButton_OnEvent($1)$0]]></content>
-	<tabTrigger>FCFClickAnywhereButton_OnEvent</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

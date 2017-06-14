@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PetActionBar_UpdatePositionValues($1)$0]]></content>
-	<tabTrigger>PetActionBar_UpdatePositionValues</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

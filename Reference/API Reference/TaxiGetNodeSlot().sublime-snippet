@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TaxiGetNodeSlot($1)$0]]></content>
-	<tabTrigger>TaxiGetNodeSlot</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

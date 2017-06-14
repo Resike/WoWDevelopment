@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TabardFrame_UpdateButtons($1)$0]]></content>
-	<tabTrigger>TabardFrame_UpdateButtons</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

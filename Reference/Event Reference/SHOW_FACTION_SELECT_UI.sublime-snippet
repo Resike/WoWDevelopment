@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SHOW_FACTION_SELECT_UI]]></content>
-	<tabTrigger>SHOW_FACTION_SELECT_UI</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

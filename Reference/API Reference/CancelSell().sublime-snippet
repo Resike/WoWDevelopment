@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CancelSell($1)$0]]></content>
-	<tabTrigger>CancelSell</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

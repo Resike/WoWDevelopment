@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetMultiCastTotemSpells($1)$0]]></content>
-	<tabTrigger>GetMultiCastTotemSpells</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

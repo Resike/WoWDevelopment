@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ToggleGarrisonBuildingUI($1)$0]]></content>
-	<tabTrigger>ToggleGarrisonBuildingUI</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

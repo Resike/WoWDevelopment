@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFGListSearchPanelUtil_CanSelectResult($1)$0]]></content>
-	<tabTrigger>LFGListSearchPanelUtil_CanSelectResult</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

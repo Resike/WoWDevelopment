@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RegisterUnitWatch($1)$0]]></content>
-	<tabTrigger>RegisterUnitWatch</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GROUP_INVITE_CONFIRMATION]]></content>
-	<tabTrigger>GROUP_INVITE_CONFIRMATION</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

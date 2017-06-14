@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILDBANKFRAME_CLOSED]]></content>
-	<tabTrigger>GUILDBANKFRAME_CLOSED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

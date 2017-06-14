@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EJMicroButton_ClearNewAdventureNotice($1)$0]]></content>
-	<tabTrigger>EJMicroButton_ClearNewAdventureNotice</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

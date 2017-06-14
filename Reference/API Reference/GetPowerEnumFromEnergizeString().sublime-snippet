@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetPowerEnumFromEnergizeString($1)$0]]></content>
-	<tabTrigger>GetPowerEnumFromEnergizeString</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

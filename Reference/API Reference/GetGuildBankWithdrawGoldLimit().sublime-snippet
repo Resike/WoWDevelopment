@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetGuildBankWithdrawGoldLimit($1)$0]]></content>
-	<tabTrigger>GetGuildBankWithdrawGoldLimit</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

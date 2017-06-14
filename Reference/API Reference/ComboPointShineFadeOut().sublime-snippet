@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ComboPointShineFadeOut($1)$0]]></content>
-	<tabTrigger>ComboPointShineFadeOut</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

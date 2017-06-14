@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LOADING_SCREEN_ENABLED]]></content>
-	<tabTrigger>LOADING_SCREEN_ENABLED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

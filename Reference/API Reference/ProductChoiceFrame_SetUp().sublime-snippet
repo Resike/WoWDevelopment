@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ProductChoiceFrame_SetUp($1)$0]]></content>
-	<tabTrigger>ProductChoiceFrame_SetUp</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ScrollFrameTemplate_OnMouseWheel($1)$0]]></content>
-	<tabTrigger>ScrollFrameTemplate_OnMouseWheel</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

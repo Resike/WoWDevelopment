@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AchievementFrameCategory_FeatOfStrengthTooltip($1)$0]]></content>
-	<tabTrigger>AchievementFrameCategory_FeatOfStrengthTooltip</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

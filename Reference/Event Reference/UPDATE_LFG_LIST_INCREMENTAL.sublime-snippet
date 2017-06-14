@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UPDATE_LFG_LIST_INCREMENTAL]]></content>
-	<tabTrigger>UPDATE_LFG_LIST_INCREMENTAL</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

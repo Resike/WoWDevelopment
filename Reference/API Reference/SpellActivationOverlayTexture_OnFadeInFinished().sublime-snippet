@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SpellActivationOverlayTexture_OnFadeInFinished($1)$0]]></content>
-	<tabTrigger>SpellActivationOverlayTexture_OnFadeInFinished</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

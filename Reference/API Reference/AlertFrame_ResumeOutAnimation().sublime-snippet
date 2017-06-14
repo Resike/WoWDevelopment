@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AlertFrame_ResumeOutAnimation($1)$0]]></content>
-	<tabTrigger>AlertFrame_ResumeOutAnimation</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

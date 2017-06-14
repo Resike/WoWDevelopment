@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EncounterJournal_MoveSectionUpdate($1)$0]]></content>
-	<tabTrigger>EncounterJournal_MoveSectionUpdate</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

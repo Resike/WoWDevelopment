@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_AdventureMap.StartQuest($1)$0]]></content>
-	<tabTrigger>C_AdventureMap.StartQuest</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

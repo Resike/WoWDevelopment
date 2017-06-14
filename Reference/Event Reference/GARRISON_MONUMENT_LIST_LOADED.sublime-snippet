@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GARRISON_MONUMENT_LIST_LOADED]]></content>
-	<tabTrigger>GARRISON_MONUMENT_LIST_LOADED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

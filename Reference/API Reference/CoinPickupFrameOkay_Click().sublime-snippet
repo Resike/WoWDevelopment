@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CoinPickupFrameOkay_Click($1)$0]]></content>
-	<tabTrigger>CoinPickupFrameOkay_Click</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

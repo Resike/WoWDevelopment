@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BossBanner_OnLootItemLeave($1)$0]]></content>
-	<tabTrigger>BossBanner_OnLootItemLeave</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

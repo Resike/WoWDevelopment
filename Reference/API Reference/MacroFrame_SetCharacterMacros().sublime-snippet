@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MacroFrame_SetCharacterMacros($1)$0]]></content>
-	<tabTrigger>MacroFrame_SetCharacterMacros</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

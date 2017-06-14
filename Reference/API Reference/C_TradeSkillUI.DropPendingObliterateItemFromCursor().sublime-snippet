@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_TradeSkillUI.DropPendingObliterateItemFromCursor($1)$0]]></content>
-	<tabTrigger>C_TradeSkillUI.DropPendingObliterateItemFromCursor</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

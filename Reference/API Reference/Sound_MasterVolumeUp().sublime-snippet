@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Sound_MasterVolumeUp($1)$0]]></content>
-	<tabTrigger>Sound_MasterVolumeUp</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

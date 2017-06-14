@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SpellBookFrame_GetTutorialEnum($1)$0]]></content>
-	<tabTrigger>SpellBookFrame_GetTutorialEnum</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

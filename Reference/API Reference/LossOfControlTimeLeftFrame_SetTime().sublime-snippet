@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LossOfControlTimeLeftFrame_SetTime($1)$0]]></content>
-	<tabTrigger>LossOfControlTimeLeftFrame_SetTime</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

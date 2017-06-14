@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MountJournalSummonRandomFavoriteButton_OnEnter($1)$0]]></content>
-	<tabTrigger>MountJournalSummonRandomFavoriteButton_OnEnter</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

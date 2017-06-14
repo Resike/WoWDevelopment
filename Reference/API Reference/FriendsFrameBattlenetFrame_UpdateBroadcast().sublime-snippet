@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FriendsFrameBattlenetFrame_UpdateBroadcast($1)$0]]></content>
-	<tabTrigger>FriendsFrameBattlenetFrame_UpdateBroadcast</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

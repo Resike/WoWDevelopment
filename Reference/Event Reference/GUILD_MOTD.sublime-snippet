@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILD_MOTD]]></content>
-	<tabTrigger>GUILD_MOTD</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

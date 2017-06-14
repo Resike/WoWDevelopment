@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QuestObjectiveFindGroup_OnDisable($1)$0]]></content>
-	<tabTrigger>QuestObjectiveFindGroup_OnDisable</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

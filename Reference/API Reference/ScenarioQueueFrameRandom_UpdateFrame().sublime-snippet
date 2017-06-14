@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ScenarioQueueFrameRandom_UpdateFrame($1)$0]]></content>
-	<tabTrigger>ScenarioQueueFrameRandom_UpdateFrame</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

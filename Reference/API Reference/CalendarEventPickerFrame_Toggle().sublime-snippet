@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarEventPickerFrame_Toggle($1)$0]]></content>
-	<tabTrigger>CalendarEventPickerFrame_Toggle</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

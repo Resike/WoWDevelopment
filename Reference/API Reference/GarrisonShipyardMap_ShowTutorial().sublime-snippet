@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GarrisonShipyardMap_ShowTutorial($1)$0]]></content>
-	<tabTrigger>GarrisonShipyardMap_ShowTutorial</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

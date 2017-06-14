@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CANCEL_LOOT_ROLL]]></content>
-	<tabTrigger>CANCEL_LOOT_ROLL</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

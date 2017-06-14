@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CombatLog_Color_ColorStringByEventType($1)$0]]></content>
-	<tabTrigger>CombatLog_Color_ColorStringByEventType</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[InterfaceOptionsFrame_LoadUVars($1)$0]]></content>
-	<tabTrigger>InterfaceOptionsFrame_LoadUVars</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

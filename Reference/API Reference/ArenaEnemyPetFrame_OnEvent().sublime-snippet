@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ArenaEnemyPetFrame_OnEvent($1)$0]]></content>
-	<tabTrigger>ArenaEnemyPetFrame_OnEvent</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

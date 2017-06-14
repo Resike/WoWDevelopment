@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsTutorialFlagged($1)$0]]></content>
-	<tabTrigger>IsTutorialFlagged</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

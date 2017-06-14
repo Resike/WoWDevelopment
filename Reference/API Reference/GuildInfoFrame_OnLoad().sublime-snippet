@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GuildInfoFrame_OnLoad($1)$0]]></content>
-	<tabTrigger>GuildInfoFrame_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

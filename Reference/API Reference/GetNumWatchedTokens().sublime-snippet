@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetNumWatchedTokens($1)$0]]></content>
-	<tabTrigger>GetNumWatchedTokens</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BATTLEGROUND_OBJECTIVES_UPDATE]]></content>
-	<tabTrigger>BATTLEGROUND_OBJECTIVES_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

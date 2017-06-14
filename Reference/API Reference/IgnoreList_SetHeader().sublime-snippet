@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IgnoreList_SetHeader($1)$0]]></content>
-	<tabTrigger>IgnoreList_SetHeader</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

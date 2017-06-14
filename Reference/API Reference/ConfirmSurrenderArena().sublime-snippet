@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ConfirmSurrenderArena($1)$0]]></content>
-	<tabTrigger>ConfirmSurrenderArena</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

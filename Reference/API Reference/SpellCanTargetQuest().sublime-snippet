@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SpellCanTargetQuest($1)$0]]></content>
-	<tabTrigger>SpellCanTargetQuest</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

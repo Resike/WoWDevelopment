@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VOID_STORAGE_DEPOSIT_UPDATE]]></content>
-	<tabTrigger>VOID_STORAGE_DEPOSIT_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

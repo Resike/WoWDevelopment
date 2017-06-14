@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CompactRaidGroup_StopAllMoving($1)$0]]></content>
-	<tabTrigger>CompactRaidGroup_StopAllMoving</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

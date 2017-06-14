@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FCF_DockUpdate($1)$0]]></content>
-	<tabTrigger>FCF_DockUpdate</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

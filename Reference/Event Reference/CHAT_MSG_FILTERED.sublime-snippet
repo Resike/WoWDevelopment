@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CHAT_MSG_FILTERED]]></content>
-	<tabTrigger>CHAT_MSG_FILTERED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

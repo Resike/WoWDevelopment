@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LUA_WARNING]]></content>
-	<tabTrigger>LUA_WARNING</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

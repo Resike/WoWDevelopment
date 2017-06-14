@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ArenaPrepFrames_OnLoad($1)$0]]></content>
-	<tabTrigger>ArenaPrepFrames_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

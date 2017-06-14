@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CONFIRM_BINDER]]></content>
-	<tabTrigger>CONFIRM_BINDER</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

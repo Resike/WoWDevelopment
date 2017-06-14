@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PVPHonorSystem_GetMaxPVPLevelReward($1)$0]]></content>
-	<tabTrigger>PVPHonorSystem_GetMaxPVPLevelReward</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

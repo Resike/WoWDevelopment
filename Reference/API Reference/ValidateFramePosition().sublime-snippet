@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ValidateFramePosition($1)$0]]></content>
-	<tabTrigger>ValidateFramePosition</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

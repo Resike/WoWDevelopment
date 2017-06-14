@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AdventureMap_IsQuestValid($1)$0]]></content>
-	<tabTrigger>AdventureMap_IsQuestValid</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

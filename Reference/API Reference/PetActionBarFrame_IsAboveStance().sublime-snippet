@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PetActionBarFrame_IsAboveStance($1)$0]]></content>
-	<tabTrigger>PetActionBarFrame_IsAboveStance</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EncounterJournal_SetUpOverview($1)$0]]></content>
-	<tabTrigger>EncounterJournal_SetUpOverview</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

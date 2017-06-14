@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ToggleQuickJoinPanel($1)$0]]></content>
-	<tabTrigger>ToggleQuickJoinPanel</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GarrisonLandingPageMinimapButton_UpdateIcon($1)$0]]></content>
-	<tabTrigger>GarrisonLandingPageMinimapButton_UpdateIcon</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

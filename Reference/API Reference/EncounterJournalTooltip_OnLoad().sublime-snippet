@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EncounterJournalTooltip_OnLoad($1)$0]]></content>
-	<tabTrigger>EncounterJournalTooltip_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

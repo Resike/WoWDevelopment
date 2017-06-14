@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VideoOptionsFrameOkay_OnClick($1)$0]]></content>
-	<tabTrigger>VideoOptionsFrameOkay_OnClick</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

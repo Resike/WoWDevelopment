@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetLFGInviteRoleRestrictions($1)$0]]></content>
-	<tabTrigger>GetLFGInviteRoleRestrictions</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PetBattleUnitFrame_SetUnit($1)$0]]></content>
-	<tabTrigger>PetBattleUnitFrame_SetUnit</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

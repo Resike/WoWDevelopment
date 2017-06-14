@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UpdateDefaultButtons($1)$0]]></content>
-	<tabTrigger>UpdateDefaultButtons</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetBindingText($1)$0]]></content>
-	<tabTrigger>GetBindingText</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

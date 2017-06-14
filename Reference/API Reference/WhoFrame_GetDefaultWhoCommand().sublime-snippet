@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WhoFrame_GetDefaultWhoCommand($1)$0]]></content>
-	<tabTrigger>WhoFrame_GetDefaultWhoCommand</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

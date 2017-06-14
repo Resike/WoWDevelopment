@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VOICE_SELF_MUTE]]></content>
-	<tabTrigger>VOICE_SELF_MUTE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

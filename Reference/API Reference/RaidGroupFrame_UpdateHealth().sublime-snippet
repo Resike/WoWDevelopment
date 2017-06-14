@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RaidGroupFrame_UpdateHealth($1)$0]]></content>
-	<tabTrigger>RaidGroupFrame_UpdateHealth</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

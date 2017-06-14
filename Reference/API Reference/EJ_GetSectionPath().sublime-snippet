@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EJ_GetSectionPath($1)$0]]></content>
-	<tabTrigger>EJ_GetSectionPath</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

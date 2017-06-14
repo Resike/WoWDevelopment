@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TimeManagerLocalTimeCheck_OnClick($1)$0]]></content>
-	<tabTrigger>TimeManagerLocalTimeCheck_OnClick</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Lerp($1)$0]]></content>
-	<tabTrigger>Lerp</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GARRISON_BUILDING_REMOVED]]></content>
-	<tabTrigger>GARRISON_BUILDING_REMOVED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

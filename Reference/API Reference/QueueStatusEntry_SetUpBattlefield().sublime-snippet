@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QueueStatusEntry_SetUpBattlefield($1)$0]]></content>
-	<tabTrigger>QueueStatusEntry_SetUpBattlefield</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

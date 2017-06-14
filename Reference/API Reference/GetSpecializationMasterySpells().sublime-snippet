@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetSpecializationMasterySpells($1)$0]]></content>
-	<tabTrigger>GetSpecializationMasterySpells</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

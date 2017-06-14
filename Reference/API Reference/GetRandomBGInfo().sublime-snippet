@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetRandomBGInfo($1)$0]]></content>
-	<tabTrigger>GetRandomBGInfo</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

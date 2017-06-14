@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_Heirloom.IsHeirloomSourceValid($1)$0]]></content>
-	<tabTrigger>C_Heirloom.IsHeirloomSourceValid</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

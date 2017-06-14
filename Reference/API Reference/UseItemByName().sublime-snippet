@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UseItemByName($1)$0]]></content>
-	<tabTrigger>UseItemByName</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

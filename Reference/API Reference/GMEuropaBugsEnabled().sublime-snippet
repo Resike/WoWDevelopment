@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GMEuropaBugsEnabled($1)$0]]></content>
-	<tabTrigger>GMEuropaBugsEnabled</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

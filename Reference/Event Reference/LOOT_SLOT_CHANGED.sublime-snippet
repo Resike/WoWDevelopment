@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LOOT_SLOT_CHANGED]]></content>
-	<tabTrigger>LOOT_SLOT_CHANGED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

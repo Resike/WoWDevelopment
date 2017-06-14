@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_WowTokenPublic.GetNumListedAuctionableTokens($1)$0]]></content>
-	<tabTrigger>C_WowTokenPublic.GetNumListedAuctionableTokens</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

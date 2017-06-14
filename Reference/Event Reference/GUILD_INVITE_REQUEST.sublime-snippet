@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILD_INVITE_REQUEST]]></content>
-	<tabTrigger>GUILD_INVITE_REQUEST</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CharacterMicroButton_OnLoad($1)$0]]></content>
-	<tabTrigger>CharacterMicroButton_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SCENARIO_COMPLETED]]></content>
-	<tabTrigger>SCENARIO_COMPLETED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

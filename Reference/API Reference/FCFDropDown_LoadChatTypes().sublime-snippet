@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FCFDropDown_LoadChatTypes($1)$0]]></content>
-	<tabTrigger>FCFDropDown_LoadChatTypes</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

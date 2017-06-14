@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MerchantFrame_ShowCurrencyTooltip($1)$0]]></content>
-	<tabTrigger>MerchantFrame_ShowCurrencyTooltip</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

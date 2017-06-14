@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SpellActivationOverlay_CreateOverlay($1)$0]]></content>
-	<tabTrigger>SpellActivationOverlay_CreateOverlay</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

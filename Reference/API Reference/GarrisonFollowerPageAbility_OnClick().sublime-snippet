@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GarrisonFollowerPageAbility_OnClick($1)$0]]></content>
-	<tabTrigger>GarrisonFollowerPageAbility_OnClick</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

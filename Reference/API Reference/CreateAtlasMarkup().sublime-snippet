@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CreateAtlasMarkup($1)$0]]></content>
-	<tabTrigger>CreateAtlasMarkup</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

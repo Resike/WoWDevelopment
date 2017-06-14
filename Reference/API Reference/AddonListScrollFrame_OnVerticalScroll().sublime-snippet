@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AddonListScrollFrame_OnVerticalScroll($1)$0]]></content>
-	<tabTrigger>AddonListScrollFrame_OnVerticalScroll</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

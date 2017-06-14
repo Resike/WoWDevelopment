@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GearManagerDialogPopupCancel_OnClick($1)$0]]></content>
-	<tabTrigger>GearManagerDialogPopupCancel_OnClick</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

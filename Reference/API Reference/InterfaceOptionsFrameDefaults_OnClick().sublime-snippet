@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[InterfaceOptionsFrameDefaults_OnClick($1)$0]]></content>
-	<tabTrigger>InterfaceOptionsFrameDefaults_OnClick</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

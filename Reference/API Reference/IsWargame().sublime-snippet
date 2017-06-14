@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsWargame($1)$0]]></content>
-	<tabTrigger>IsWargame</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

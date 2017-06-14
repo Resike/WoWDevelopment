@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BN_BLOCK_LIST_UPDATED]]></content>
-	<tabTrigger>BN_BLOCK_LIST_UPDATED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FocusFrame_IsLocked($1)$0]]></content>
-	<tabTrigger>FocusFrame_IsLocked</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

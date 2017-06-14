@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SPELL_POWER_CHANGED]]></content>
-	<tabTrigger>SPELL_POWER_CHANGED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

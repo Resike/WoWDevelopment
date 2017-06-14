@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GuildControlUI_BankFrame_OnLoad($1)$0]]></content>
-	<tabTrigger>GuildControlUI_BankFrame_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ScenarioQueueFrameChoiceEnableButton_OnClick($1)$0]]></content>
-	<tabTrigger>ScenarioQueueFrameChoiceEnableButton_OnClick</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

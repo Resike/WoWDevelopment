@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ContainerFrame_UpdateLocked($1)$0]]></content>
-	<tabTrigger>ContainerFrame_UpdateLocked</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

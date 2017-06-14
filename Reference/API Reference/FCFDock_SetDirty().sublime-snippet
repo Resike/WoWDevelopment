@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FCFDock_SetDirty($1)$0]]></content>
-	<tabTrigger>FCFDock_SetDirty</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

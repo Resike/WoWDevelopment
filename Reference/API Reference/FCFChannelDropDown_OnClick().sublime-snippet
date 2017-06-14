@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FCFChannelDropDown_OnClick($1)$0]]></content>
-	<tabTrigger>FCFChannelDropDown_OnClick</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

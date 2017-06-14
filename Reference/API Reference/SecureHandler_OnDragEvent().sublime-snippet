@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SecureHandler_OnDragEvent($1)$0]]></content>
-	<tabTrigger>SecureHandler_OnDragEvent</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

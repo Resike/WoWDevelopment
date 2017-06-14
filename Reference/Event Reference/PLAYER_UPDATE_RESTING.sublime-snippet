@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PLAYER_UPDATE_RESTING]]></content>
-	<tabTrigger>PLAYER_UPDATE_RESTING</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

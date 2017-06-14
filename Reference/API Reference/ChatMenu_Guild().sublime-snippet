@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChatMenu_Guild($1)$0]]></content>
-	<tabTrigger>ChatMenu_Guild</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

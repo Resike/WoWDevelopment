@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QuestUtils_CanUseAutoGroupFinder($1)$0]]></content>
-	<tabTrigger>QuestUtils_CanUseAutoGroupFinder</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PLAYER_GAINS_VEHICLE_DATA]]></content>
-	<tabTrigger>PLAYER_GAINS_VEHICLE_DATA</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

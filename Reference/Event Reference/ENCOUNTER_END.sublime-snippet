@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ENCOUNTER_END]]></content>
-	<tabTrigger>ENCOUNTER_END</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

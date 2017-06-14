@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GMRequestPlayerInfo($1)$0]]></content>
-	<tabTrigger>GMRequestPlayerInfo</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

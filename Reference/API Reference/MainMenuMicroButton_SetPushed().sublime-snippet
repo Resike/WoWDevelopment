@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MainMenuMicroButton_SetPushed($1)$0]]></content>
-	<tabTrigger>MainMenuMicroButton_SetPushed</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

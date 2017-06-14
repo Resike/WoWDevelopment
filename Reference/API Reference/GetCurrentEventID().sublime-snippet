@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetCurrentEventID($1)$0]]></content>
-	<tabTrigger>GetCurrentEventID</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PLAYTIME_CHANGED]]></content>
-	<tabTrigger>PLAYTIME_CHANGED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

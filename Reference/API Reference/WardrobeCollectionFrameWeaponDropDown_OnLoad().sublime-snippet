@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WardrobeCollectionFrameWeaponDropDown_OnLoad($1)$0]]></content>
-	<tabTrigger>WardrobeCollectionFrameWeaponDropDown_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

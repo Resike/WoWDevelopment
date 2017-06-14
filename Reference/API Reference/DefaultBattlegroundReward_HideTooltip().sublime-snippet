@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DefaultBattlegroundReward_HideTooltip($1)$0]]></content>
-	<tabTrigger>DefaultBattlegroundReward_HideTooltip</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

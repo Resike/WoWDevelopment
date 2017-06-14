@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FriendsFrame_GetInviteRestriction($1)$0]]></content>
-	<tabTrigger>FriendsFrame_GetInviteRestriction</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

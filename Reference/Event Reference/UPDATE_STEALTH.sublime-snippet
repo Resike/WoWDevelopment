@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UPDATE_STEALTH]]></content>
-	<tabTrigger>UPDATE_STEALTH</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PVPQUEUE_ANYWHERE_SHOW]]></content>
-	<tabTrigger>PVPQUEUE_ANYWHERE_SHOW</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

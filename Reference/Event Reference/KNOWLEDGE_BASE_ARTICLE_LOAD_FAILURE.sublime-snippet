@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[KNOWLEDGE_BASE_ARTICLE_LOAD_FAILURE]]></content>
-	<tabTrigger>KNOWLEDGE_BASE_ARTICLE_LOAD_FAILURE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

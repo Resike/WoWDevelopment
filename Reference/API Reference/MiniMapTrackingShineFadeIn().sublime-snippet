@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MiniMapTrackingShineFadeIn($1)$0]]></content>
-	<tabTrigger>MiniMapTrackingShineFadeIn</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

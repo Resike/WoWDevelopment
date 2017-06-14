@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetAlternativeDefaultLanguage($1)$0]]></content>
-	<tabTrigger>GetAlternativeDefaultLanguage</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

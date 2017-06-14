@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[KNOWLEDGE_BASE_QUERY_LOAD_SUCCESS]]></content>
-	<tabTrigger>KNOWLEDGE_BASE_QUERY_LOAD_SUCCESS</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

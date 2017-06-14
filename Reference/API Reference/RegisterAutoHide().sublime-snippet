@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RegisterAutoHide($1)$0]]></content>
-	<tabTrigger>RegisterAutoHide</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

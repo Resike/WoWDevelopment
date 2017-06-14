@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFGListSearchPanel_SelectResult($1)$0]]></content>
-	<tabTrigger>LFGListSearchPanel_SelectResult</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

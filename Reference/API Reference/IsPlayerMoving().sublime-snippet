@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsPlayerMoving($1)$0]]></content>
-	<tabTrigger>IsPlayerMoving</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

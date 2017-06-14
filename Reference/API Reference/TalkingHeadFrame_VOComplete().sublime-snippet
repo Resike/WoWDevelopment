@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TalkingHeadFrame_VOComplete($1)$0]]></content>
-	<tabTrigger>TalkingHeadFrame_VOComplete</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

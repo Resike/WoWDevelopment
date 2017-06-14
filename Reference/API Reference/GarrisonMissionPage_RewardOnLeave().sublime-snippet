@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GarrisonMissionPage_RewardOnLeave($1)$0]]></content>
-	<tabTrigger>GarrisonMissionPage_RewardOnLeave</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

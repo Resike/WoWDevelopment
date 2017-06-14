@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnitPrestige($1)$0]]></content>
-	<tabTrigger>UnitPrestige</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

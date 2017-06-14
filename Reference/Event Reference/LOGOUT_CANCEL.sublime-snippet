@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LOGOUT_CANCEL]]></content>
-	<tabTrigger>LOGOUT_CANCEL</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SPELL_UPDATE_ICON]]></content>
-	<tabTrigger>SPELL_UPDATE_ICON</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

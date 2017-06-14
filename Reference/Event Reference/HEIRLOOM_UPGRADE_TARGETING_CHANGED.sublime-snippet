@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HEIRLOOM_UPGRADE_TARGETING_CHANGED]]></content>
-	<tabTrigger>HEIRLOOM_UPGRADE_TARGETING_CHANGED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

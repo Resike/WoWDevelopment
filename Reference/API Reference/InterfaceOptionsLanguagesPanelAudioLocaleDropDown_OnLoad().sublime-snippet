@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[InterfaceOptionsLanguagesPanelAudioLocaleDropDown_OnLoad($1)$0]]></content>
-	<tabTrigger>InterfaceOptionsLanguagesPanelAudioLocaleDropDown_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

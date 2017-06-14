@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[END_BOUND_TRADEABLE]]></content>
-	<tabTrigger>END_BOUND_TRADEABLE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetZoneText($1)$0]]></content>
-	<tabTrigger>SetZoneText</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

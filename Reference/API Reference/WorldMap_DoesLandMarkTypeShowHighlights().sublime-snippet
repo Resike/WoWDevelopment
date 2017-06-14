@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WorldMap_DoesLandMarkTypeShowHighlights($1)$0]]></content>
-	<tabTrigger>WorldMap_DoesLandMarkTypeShowHighlights</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

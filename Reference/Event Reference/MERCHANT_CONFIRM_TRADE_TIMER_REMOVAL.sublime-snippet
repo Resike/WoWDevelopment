@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MERCHANT_CONFIRM_TRADE_TIMER_REMOVAL]]></content>
-	<tabTrigger>MERCHANT_CONFIRM_TRADE_TIMER_REMOVAL</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

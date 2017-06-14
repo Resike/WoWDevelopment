@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PitchDownStop($1)$0]]></content>
-	<tabTrigger>PitchDownStop</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WardrobeCollectionFrameModelDropDown_SetSource($1)$0]]></content>
-	<tabTrigger>WardrobeCollectionFrameModelDropDown_SetSource</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

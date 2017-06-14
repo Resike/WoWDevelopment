@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetPvpTalentInfoByID($1)$0]]></content>
-	<tabTrigger>GetPvpTalentInfoByID</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UNIT_OTHER_PARTY_CHANGED]]></content>
-	<tabTrigger>UNIT_OTHER_PARTY_CHANGED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

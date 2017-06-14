@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetFontInfo($1)$0]]></content>
-	<tabTrigger>GetFontInfo</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

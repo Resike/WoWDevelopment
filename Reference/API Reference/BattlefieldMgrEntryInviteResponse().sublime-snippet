@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BattlefieldMgrEntryInviteResponse($1)$0]]></content>
-	<tabTrigger>BattlefieldMgrEntryInviteResponse</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetRaidProfileName($1)$0]]></content>
-	<tabTrigger>GetRaidProfileName</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

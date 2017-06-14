@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_Commentator.SetMoveSpeed($1)$0]]></content>
-	<tabTrigger>C_Commentator.SetMoveSpeed</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

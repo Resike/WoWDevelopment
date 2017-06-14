@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChatEdit_TryInsertChatLink($1)$0]]></content>
-	<tabTrigger>ChatEdit_TryInsertChatLink</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

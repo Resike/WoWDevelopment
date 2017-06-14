@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CancelItemTempEnchantment($1)$0]]></content>
-	<tabTrigger>CancelItemTempEnchantment</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

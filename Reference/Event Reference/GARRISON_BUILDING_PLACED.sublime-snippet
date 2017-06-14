@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GARRISON_BUILDING_PLACED]]></content>
-	<tabTrigger>GARRISON_BUILDING_PLACED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

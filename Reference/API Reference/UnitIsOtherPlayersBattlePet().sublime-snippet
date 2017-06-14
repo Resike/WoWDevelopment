@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnitIsOtherPlayersBattlePet($1)$0]]></content>
-	<tabTrigger>UnitIsOtherPlayersBattlePet</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

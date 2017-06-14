@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PlayerTalentFrame_GetTutorial($1)$0]]></content>
-	<tabTrigger>PlayerTalentFrame_GetTutorial</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

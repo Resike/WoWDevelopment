@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OBLITERUM_FORGE_SHOW]]></content>
-	<tabTrigger>OBLITERUM_FORGE_SHOW</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EXPERIMENTAL_CVAR_CONFIRMATION_NEEDED]]></content>
-	<tabTrigger>EXPERIMENTAL_CVAR_CONFIRMATION_NEEDED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

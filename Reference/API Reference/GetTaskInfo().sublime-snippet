@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetTaskInfo($1)$0]]></content>
-	<tabTrigger>GetTaskInfo</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

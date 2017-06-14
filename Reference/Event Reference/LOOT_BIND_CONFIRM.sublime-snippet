@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LOOT_BIND_CONFIRM]]></content>
-	<tabTrigger>LOOT_BIND_CONFIRM</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PaperDollFrame_OnEvent($1)$0]]></content>
-	<tabTrigger>PaperDollFrame_OnEvent</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

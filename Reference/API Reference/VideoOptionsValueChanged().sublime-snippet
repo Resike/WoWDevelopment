@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VideoOptionsValueChanged($1)$0]]></content>
-	<tabTrigger>VideoOptionsValueChanged</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

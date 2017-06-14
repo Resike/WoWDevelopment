@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetQuestLogRewardCurrencyInfo($1)$0]]></content>
-	<tabTrigger>GetQuestLogRewardCurrencyInfo</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

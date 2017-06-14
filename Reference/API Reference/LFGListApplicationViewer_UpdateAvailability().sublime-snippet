@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFGListApplicationViewer_UpdateAvailability($1)$0]]></content>
-	<tabTrigger>LFGListApplicationViewer_UpdateAvailability</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

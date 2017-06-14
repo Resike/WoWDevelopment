@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[STREAMING_ICON]]></content>
-	<tabTrigger>STREAMING_ICON</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

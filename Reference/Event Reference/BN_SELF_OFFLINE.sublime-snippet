@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BN_SELF_OFFLINE]]></content>
-	<tabTrigger>BN_SELF_OFFLINE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

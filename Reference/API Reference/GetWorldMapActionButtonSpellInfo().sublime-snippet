@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetWorldMapActionButtonSpellInfo($1)$0]]></content>
-	<tabTrigger>GetWorldMapActionButtonSpellInfo</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LootHistoryFrame_RecycleAllPlayers($1)$0]]></content>
-	<tabTrigger>LootHistoryFrame_RecycleAllPlayers</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

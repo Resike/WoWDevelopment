@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EncounterJournal_InitLootFilter($1)$0]]></content>
-	<tabTrigger>EncounterJournal_InitLootFilter</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

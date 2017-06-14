@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChannelPullout_ToggleDisplay($1)$0]]></content>
-	<tabTrigger>ChannelPullout_ToggleDisplay</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

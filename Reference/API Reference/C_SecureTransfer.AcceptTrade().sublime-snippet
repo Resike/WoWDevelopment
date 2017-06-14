@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_SecureTransfer.AcceptTrade($1)$0]]></content>
-	<tabTrigger>C_SecureTransfer.AcceptTrade</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

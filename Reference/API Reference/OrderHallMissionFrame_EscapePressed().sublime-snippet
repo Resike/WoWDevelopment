@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OrderHallMissionFrame_EscapePressed($1)$0]]></content>
-	<tabTrigger>OrderHallMissionFrame_EscapePressed</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

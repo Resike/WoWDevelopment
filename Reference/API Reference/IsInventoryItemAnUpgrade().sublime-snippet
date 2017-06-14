@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsInventoryItemAnUpgrade($1)$0]]></content>
-	<tabTrigger>IsInventoryItemAnUpgrade</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

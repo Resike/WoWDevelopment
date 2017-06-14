@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LeftButtonUp]]></content>
-	<tabTrigger>LeftButtonUp</tabTrigger>
-	<description>button</description>
-	<scope>source.lua</scope>
-</snippet>

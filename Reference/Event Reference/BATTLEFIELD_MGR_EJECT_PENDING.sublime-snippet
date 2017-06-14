@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BATTLEFIELD_MGR_EJECT_PENDING]]></content>
-	<tabTrigger>BATTLEFIELD_MGR_EJECT_PENDING</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

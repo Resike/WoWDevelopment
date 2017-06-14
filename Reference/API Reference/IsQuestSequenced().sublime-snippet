@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsQuestSequenced($1)$0]]></content>
-	<tabTrigger>IsQuestSequenced</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

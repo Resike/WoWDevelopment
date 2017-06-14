@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UNIT_SPELL_HASTE]]></content>
-	<tabTrigger>UNIT_SPELL_HASTE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

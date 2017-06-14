@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetTotemCannotDismiss($1)$0]]></content>
-	<tabTrigger>GetTotemCannotDismiss</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

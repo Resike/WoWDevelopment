@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GarrisonMissionFrameTab_OnLeave($1)$0]]></content>
-	<tabTrigger>GarrisonMissionFrameTab_OnLeave</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

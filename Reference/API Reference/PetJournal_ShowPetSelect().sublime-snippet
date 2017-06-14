@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PetJournal_ShowPetSelect($1)$0]]></content>
-	<tabTrigger>PetJournal_ShowPetSelect</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

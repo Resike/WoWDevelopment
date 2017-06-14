@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HelpFrameViewResponseButton_OnLoad($1)$0]]></content>
-	<tabTrigger>HelpFrameViewResponseButton_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

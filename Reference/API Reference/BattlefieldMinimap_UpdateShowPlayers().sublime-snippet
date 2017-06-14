@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BattlefieldMinimap_UpdateShowPlayers($1)$0]]></content>
-	<tabTrigger>BattlefieldMinimap_UpdateShowPlayers</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

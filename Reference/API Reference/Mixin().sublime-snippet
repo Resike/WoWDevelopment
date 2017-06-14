@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Mixin($1)$0]]></content>
-	<tabTrigger>Mixin</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

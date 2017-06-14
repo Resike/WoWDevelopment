@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WorldMapButton_OnMouseUp($1)$0]]></content>
-	<tabTrigger>WorldMapButton_OnMouseUp</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

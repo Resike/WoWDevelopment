@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QUEST_ACCEPT_CONFIRM]]></content>
-	<tabTrigger>QUEST_ACCEPT_CONFIRM</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

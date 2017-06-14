@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ArtifactsModelTemplate_OnModelLoaded($1)$0]]></content>
-	<tabTrigger>ArtifactsModelTemplate_OnModelLoaded</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

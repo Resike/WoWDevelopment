@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AddonTooltip_BuildDeps($1)$0]]></content>
-	<tabTrigger>AddonTooltip_BuildDeps</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

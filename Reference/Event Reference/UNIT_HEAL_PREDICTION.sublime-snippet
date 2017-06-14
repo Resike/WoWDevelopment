@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UNIT_HEAL_PREDICTION]]></content>
-	<tabTrigger>UNIT_HEAL_PREDICTION</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

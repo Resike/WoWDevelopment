@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WOW_MOUSE_NOT_FOUND]]></content>
-	<tabTrigger>WOW_MOUSE_NOT_FOUND</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MultiActionBar_UpdateGridVisibility($1)$0]]></content>
-	<tabTrigger>MultiActionBar_UpdateGridVisibility</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

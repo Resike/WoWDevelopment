@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ActionButton_StopFlash($1)$0]]></content>
-	<tabTrigger>ActionButton_StopFlash</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Model]]></content>
-	<tabTrigger>Model</tabTrigger>
-	<description>frameType</description>
-	<scope>source.lua</scope>
-</snippet>

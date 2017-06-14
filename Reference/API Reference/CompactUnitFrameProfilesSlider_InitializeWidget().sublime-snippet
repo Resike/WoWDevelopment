@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CompactUnitFrameProfilesSlider_InitializeWidget($1)$0]]></content>
-	<tabTrigger>CompactUnitFrameProfilesSlider_InitializeWidget</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

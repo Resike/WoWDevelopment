@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[KeyBindingFrame_SetSelected($1)$0]]></content>
-	<tabTrigger>KeyBindingFrame_SetSelected</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

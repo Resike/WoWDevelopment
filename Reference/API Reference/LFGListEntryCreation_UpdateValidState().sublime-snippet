@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFGListEntryCreation_UpdateValidState($1)$0]]></content>
-	<tabTrigger>LFGListEntryCreation_UpdateValidState</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

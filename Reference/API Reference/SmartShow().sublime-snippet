@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SmartShow($1)$0]]></content>
-	<tabTrigger>SmartShow</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

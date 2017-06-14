@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_LFGList.DeclineApplicant($1)$0]]></content>
-	<tabTrigger>C_LFGList.DeclineApplicant</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

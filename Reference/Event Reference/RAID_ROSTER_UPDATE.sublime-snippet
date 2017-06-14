@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RAID_ROSTER_UPDATE]]></content>
-	<tabTrigger>RAID_ROSTER_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

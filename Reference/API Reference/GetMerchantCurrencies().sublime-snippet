@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetMerchantCurrencies($1)$0]]></content>
-	<tabTrigger>GetMerchantCurrencies</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WorldMapFrame_OnKeyDown($1)$0]]></content>
-	<tabTrigger>WorldMapFrame_OnKeyDown</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

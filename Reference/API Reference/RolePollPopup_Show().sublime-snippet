@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RolePollPopup_Show($1)$0]]></content>
-	<tabTrigger>RolePollPopup_Show</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

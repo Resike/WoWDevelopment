@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SocialPostFrame_OnHide($1)$0]]></content>
-	<tabTrigger>SocialPostFrame_OnHide</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ScriptErrorsFrame_OnError($1)$0]]></content>
-	<tabTrigger>ScriptErrorsFrame_OnError</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

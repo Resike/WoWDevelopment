@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BarberShop_UpdateCustomDisplays($1)$0]]></content>
-	<tabTrigger>BarberShop_UpdateCustomDisplays</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

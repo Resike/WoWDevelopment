@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ARENA_SEASON_WORLD_STATE]]></content>
-	<tabTrigger>ARENA_SEASON_WORLD_STATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

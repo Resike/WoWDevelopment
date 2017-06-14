@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FCFManager_UnregisterDedicatedFrame($1)$0]]></content>
-	<tabTrigger>FCFManager_UnregisterDedicatedFrame</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

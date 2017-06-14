@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetContinentName($1)$0]]></content>
-	<tabTrigger>GetContinentName</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

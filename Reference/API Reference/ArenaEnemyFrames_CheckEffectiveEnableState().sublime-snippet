@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ArenaEnemyFrames_CheckEffectiveEnableState($1)$0]]></content>
-	<tabTrigger>ArenaEnemyFrames_CheckEffectiveEnableState</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

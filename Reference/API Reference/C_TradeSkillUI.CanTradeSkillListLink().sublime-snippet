@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_TradeSkillUI.CanTradeSkillListLink($1)$0]]></content>
-	<tabTrigger>C_TradeSkillUI.CanTradeSkillListLink</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BNToastFrame_UpdateAnchor($1)$0]]></content>
-	<tabTrigger>BNToastFrame_UpdateAnchor</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

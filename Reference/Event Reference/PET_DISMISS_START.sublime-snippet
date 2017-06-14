@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PET_DISMISS_START]]></content>
-	<tabTrigger>PET_DISMISS_START</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

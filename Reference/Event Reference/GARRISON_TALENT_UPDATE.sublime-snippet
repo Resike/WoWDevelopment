@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GARRISON_TALENT_UPDATE]]></content>
-	<tabTrigger>GARRISON_TALENT_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

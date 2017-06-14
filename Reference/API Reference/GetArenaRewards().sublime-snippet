@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetArenaRewards($1)$0]]></content>
-	<tabTrigger>GetArenaRewards</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UpdateMicroButtons($1)$0]]></content>
-	<tabTrigger>UpdateMicroButtons</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HelpFrame_HaveGMTicket($1)$0]]></content>
-	<tabTrigger>HelpFrame_HaveGMTicket</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

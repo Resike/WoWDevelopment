@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EJNAV_RefreshEncounter($1)$0]]></content>
-	<tabTrigger>EJNAV_RefreshEncounter</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

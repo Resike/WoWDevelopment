@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Target_Spellbar_AdjustPosition($1)$0]]></content>
-	<tabTrigger>Target_Spellbar_AdjustPosition</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

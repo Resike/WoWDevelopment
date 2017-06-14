@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SecureAuraHeader_OnEvent($1)$0]]></content>
-	<tabTrigger>SecureAuraHeader_OnEvent</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

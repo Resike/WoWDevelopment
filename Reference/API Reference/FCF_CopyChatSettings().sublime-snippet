@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FCF_CopyChatSettings($1)$0]]></content>
-	<tabTrigger>FCF_CopyChatSettings</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

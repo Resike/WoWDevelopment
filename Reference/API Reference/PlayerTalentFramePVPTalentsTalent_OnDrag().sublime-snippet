@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PlayerTalentFramePVPTalentsTalent_OnDrag($1)$0]]></content>
-	<tabTrigger>PlayerTalentFramePVPTalentsTalent_OnDrag</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

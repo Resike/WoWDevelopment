@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HybridScrollFrame_OnMouseWheel($1)$0]]></content>
-	<tabTrigger>HybridScrollFrame_OnMouseWheel</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

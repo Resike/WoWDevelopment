@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HideUIPanel($1)$0]]></content>
-	<tabTrigger>HideUIPanel</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

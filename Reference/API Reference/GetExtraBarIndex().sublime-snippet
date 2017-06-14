@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetExtraBarIndex($1)$0]]></content>
-	<tabTrigger>GetExtraBarIndex</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

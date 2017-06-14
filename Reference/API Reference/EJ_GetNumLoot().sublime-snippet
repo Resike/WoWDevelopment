@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EJ_GetNumLoot($1)$0]]></content>
-	<tabTrigger>EJ_GetNumLoot</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetRelativeDifficultyColor($1)$0]]></content>
-	<tabTrigger>GetRelativeDifficultyColor</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

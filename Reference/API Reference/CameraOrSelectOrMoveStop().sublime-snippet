@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CameraOrSelectOrMoveStop($1)$0]]></content>
-	<tabTrigger>CameraOrSelectOrMoveStop</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

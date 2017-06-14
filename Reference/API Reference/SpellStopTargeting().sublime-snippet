@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SpellStopTargeting($1)$0]]></content>
-	<tabTrigger>SpellStopTargeting</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

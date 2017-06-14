@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QUEST_BOSS_EMOTE]]></content>
-	<tabTrigger>QUEST_BOSS_EMOTE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

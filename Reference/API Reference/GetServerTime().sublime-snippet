@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetServerTime($1)$0]]></content>
-	<tabTrigger>GetServerTime</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

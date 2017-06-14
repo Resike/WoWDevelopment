@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetTalentTierInfo($1)$0]]></content>
-	<tabTrigger>GetTalentTierInfo</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

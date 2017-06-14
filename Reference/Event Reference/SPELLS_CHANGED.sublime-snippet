@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SPELLS_CHANGED]]></content>
-	<tabTrigger>SPELLS_CHANGED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

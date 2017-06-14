@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GuildRoster_RecipeQueryCheck($1)$0]]></content>
-	<tabTrigger>GuildRoster_RecipeQueryCheck</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

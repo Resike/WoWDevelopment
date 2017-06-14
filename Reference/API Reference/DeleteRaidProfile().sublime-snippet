@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DeleteRaidProfile($1)$0]]></content>
-	<tabTrigger>DeleteRaidProfile</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

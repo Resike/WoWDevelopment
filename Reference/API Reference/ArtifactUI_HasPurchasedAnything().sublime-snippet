@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ArtifactUI_HasPurchasedAnything($1)$0]]></content>
-	<tabTrigger>ArtifactUI_HasPurchasedAnything</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ArchaeologyFrame_Hide($1)$0]]></content>
-	<tabTrigger>ArchaeologyFrame_Hide</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

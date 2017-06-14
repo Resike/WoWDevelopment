@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ArcheologyGetVisibleBlobID($1)$0]]></content>
-	<tabTrigger>ArcheologyGetVisibleBlobID</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

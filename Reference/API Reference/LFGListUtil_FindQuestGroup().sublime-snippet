@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFGListUtil_FindQuestGroup($1)$0]]></content>
-	<tabTrigger>LFGListUtil_FindQuestGroup</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

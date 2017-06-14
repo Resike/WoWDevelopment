@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PetFrame_OnLoad($1)$0]]></content>
-	<tabTrigger>PetFrame_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

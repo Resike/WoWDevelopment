@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PVEFrame_ShowFrame($1)$0]]></content>
-	<tabTrigger>PVEFrame_ShowFrame</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

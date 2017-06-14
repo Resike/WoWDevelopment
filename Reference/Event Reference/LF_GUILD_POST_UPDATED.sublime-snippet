@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LF_GUILD_POST_UPDATED]]></content>
-	<tabTrigger>LF_GUILD_POST_UPDATED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

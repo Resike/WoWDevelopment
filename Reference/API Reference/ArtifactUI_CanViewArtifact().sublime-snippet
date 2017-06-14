@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ArtifactUI_CanViewArtifact($1)$0]]></content>
-	<tabTrigger>ArtifactUI_CanViewArtifact</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

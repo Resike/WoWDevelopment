@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UNIT_POWER]]></content>
-	<tabTrigger>UNIT_POWER</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

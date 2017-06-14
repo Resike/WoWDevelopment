@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GARRISON_LANDINGPAGE_SHIPMENTS]]></content>
-	<tabTrigger>GARRISON_LANDINGPAGE_SHIPMENTS</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

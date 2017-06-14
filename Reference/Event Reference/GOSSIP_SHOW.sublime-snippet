@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GOSSIP_SHOW]]></content>
-	<tabTrigger>GOSSIP_SHOW</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

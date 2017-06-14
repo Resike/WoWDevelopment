@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetLevelUpInstances($1)$0]]></content>
-	<tabTrigger>GetLevelUpInstances</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

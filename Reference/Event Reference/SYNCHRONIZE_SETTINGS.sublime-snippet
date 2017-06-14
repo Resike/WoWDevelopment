@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SYNCHRONIZE_SETTINGS]]></content>
-	<tabTrigger>SYNCHRONIZE_SETTINGS</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

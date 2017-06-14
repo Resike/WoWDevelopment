@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QUEST_TURNED_IN]]></content>
-	<tabTrigger>QUEST_TURNED_IN</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

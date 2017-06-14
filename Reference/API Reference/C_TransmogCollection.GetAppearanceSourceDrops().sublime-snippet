@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_TransmogCollection.GetAppearanceSourceDrops($1)$0]]></content>
-	<tabTrigger>C_TransmogCollection.GetAppearanceSourceDrops</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

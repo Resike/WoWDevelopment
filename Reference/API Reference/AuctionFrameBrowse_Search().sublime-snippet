@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AuctionFrameBrowse_Search($1)$0]]></content>
-	<tabTrigger>AuctionFrameBrowse_Search</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

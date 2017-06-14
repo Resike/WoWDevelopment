@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ValueToBoolean($1)$0]]></content>
-	<tabTrigger>ValueToBoolean</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

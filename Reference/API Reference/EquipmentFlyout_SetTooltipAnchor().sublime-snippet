@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EquipmentFlyout_SetTooltipAnchor($1)$0]]></content>
-	<tabTrigger>EquipmentFlyout_SetTooltipAnchor</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

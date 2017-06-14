@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MINIMAP_UPDATE_TRACKING]]></content>
-	<tabTrigger>MINIMAP_UPDATE_TRACKING</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

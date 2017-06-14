@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnlockPetActionBar($1)$0]]></content>
-	<tabTrigger>UnlockPetActionBar</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SPELL_UPDATE_USABLE]]></content>
-	<tabTrigger>SPELL_UPDATE_USABLE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

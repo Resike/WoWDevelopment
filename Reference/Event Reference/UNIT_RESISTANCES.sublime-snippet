@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UNIT_RESISTANCES]]></content>
-	<tabTrigger>UNIT_RESISTANCES</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

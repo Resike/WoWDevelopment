@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SYSMSG]]></content>
-	<tabTrigger>SYSMSG</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

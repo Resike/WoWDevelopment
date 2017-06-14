@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HealthBar_OnValueChanged($1)$0]]></content>
-	<tabTrigger>HealthBar_OnValueChanged</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

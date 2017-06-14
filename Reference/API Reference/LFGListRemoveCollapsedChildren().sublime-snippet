@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFGListRemoveCollapsedChildren($1)$0]]></content>
-	<tabTrigger>LFGListRemoveCollapsedChildren</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

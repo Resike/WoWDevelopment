@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[StartTimer_BigNumberOnUpdate($1)$0]]></content>
-	<tabTrigger>StartTimer_BigNumberOnUpdate</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

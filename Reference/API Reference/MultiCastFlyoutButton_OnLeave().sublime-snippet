@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MultiCastFlyoutButton_OnLeave($1)$0]]></content>
-	<tabTrigger>MultiCastFlyoutButton_OnLeave</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

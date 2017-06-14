@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AchievementObjectiveTracker_OpenAchievement($1)$0]]></content>
-	<tabTrigger>AchievementObjectiveTracker_OpenAchievement</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

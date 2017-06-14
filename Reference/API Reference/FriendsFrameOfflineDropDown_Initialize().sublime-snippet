@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FriendsFrameOfflineDropDown_Initialize($1)$0]]></content>
-	<tabTrigger>FriendsFrameOfflineDropDown_Initialize</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetBagSlotFlag($1)$0]]></content>
-	<tabTrigger>SetBagSlotFlag</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

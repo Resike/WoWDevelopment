@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WardrobeCollectionFrame_SwitchSearchCategory($1)$0]]></content>
-	<tabTrigger>WardrobeCollectionFrame_SwitchSearchCategory</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

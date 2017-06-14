@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PetJournalUtil_GetDisplayName($1)$0]]></content>
-	<tabTrigger>PetJournalUtil_GetDisplayName</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

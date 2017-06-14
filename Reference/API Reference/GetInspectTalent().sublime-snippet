@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetInspectTalent($1)$0]]></content>
-	<tabTrigger>GetInspectTalent</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

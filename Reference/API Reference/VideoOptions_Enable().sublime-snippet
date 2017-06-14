@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VideoOptions_Enable($1)$0]]></content>
-	<tabTrigger>VideoOptions_Enable</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

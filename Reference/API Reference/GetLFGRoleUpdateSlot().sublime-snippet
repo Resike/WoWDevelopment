@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetLFGRoleUpdateSlot($1)$0]]></content>
-	<tabTrigger>GetLFGRoleUpdateSlot</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

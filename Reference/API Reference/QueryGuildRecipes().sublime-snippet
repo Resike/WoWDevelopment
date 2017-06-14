@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QueryGuildRecipes($1)$0]]></content>
-	<tabTrigger>QueryGuildRecipes</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

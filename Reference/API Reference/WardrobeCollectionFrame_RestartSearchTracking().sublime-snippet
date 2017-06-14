@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WardrobeCollectionFrame_RestartSearchTracking($1)$0]]></content>
-	<tabTrigger>WardrobeCollectionFrame_RestartSearchTracking</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

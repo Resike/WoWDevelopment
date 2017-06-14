@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ENTERED_DIFFERENT_INSTANCE_FROM_PARTY]]></content>
-	<tabTrigger>ENTERED_DIFFERENT_INSTANCE_FROM_PARTY</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

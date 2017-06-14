@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ADDON_ACTION_FORBIDDEN]]></content>
-	<tabTrigger>ADDON_ACTION_FORBIDDEN</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

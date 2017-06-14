@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFGRewardsFrameEncounterList_OnEnter($1)$0]]></content>
-	<tabTrigger>LFGRewardsFrameEncounterList_OnEnter</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

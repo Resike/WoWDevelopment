@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GroupLootFrame_OpenNewFrame($1)$0]]></content>
-	<tabTrigger>GroupLootFrame_OpenNewFrame</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

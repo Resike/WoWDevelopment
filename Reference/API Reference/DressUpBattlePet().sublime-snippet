@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DressUpBattlePet($1)$0]]></content>
-	<tabTrigger>DressUpBattlePet</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

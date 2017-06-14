@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LOCALPLAYER_PET_RENAMED]]></content>
-	<tabTrigger>LOCALPLAYER_PET_RENAMED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_ArtifactUI.GetAppearanceInfo($1)$0]]></content>
-	<tabTrigger>C_ArtifactUI.GetAppearanceInfo</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

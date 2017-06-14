@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetWorldQuestWatchInfo($1)$0]]></content>
-	<tabTrigger>GetWorldQuestWatchInfo</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

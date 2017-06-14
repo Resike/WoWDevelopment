@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PET_BATTLE_AURA_CANCELED]]></content>
-	<tabTrigger>PET_BATTLE_AURA_CANCELED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ActionBarController_ResetToDefault($1)$0]]></content>
-	<tabTrigger>ActionBarController_ResetToDefault</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

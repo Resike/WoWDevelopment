@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FCF_CancelFontColorSettings($1)$0]]></content>
-	<tabTrigger>FCF_CancelFontColorSettings</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

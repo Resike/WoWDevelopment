@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MACRO_ACTION_FORBIDDEN]]></content>
-	<tabTrigger>MACRO_ACTION_FORBIDDEN</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

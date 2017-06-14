@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LootHistoryDropDown_GiveMasterLoot($1)$0]]></content>
-	<tabTrigger>LootHistoryDropDown_GiveMasterLoot</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

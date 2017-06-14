@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MOUNT_JOURNAL_USABILITY_CHANGED]]></content>
-	<tabTrigger>MOUNT_JOURNAL_USABILITY_CHANGED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

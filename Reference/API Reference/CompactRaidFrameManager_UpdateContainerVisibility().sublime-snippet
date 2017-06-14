@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CompactRaidFrameManager_UpdateContainerVisibility($1)$0]]></content>
-	<tabTrigger>CompactRaidFrameManager_UpdateContainerVisibility</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

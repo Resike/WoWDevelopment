@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FrameStackTooltip_Toggle($1)$0]]></content>
-	<tabTrigger>FrameStackTooltip_Toggle</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

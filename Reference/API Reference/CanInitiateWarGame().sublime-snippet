@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CanInitiateWarGame($1)$0]]></content>
-	<tabTrigger>CanInitiateWarGame</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

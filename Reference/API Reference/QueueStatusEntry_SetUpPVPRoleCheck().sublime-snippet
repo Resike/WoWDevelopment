@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QueueStatusEntry_SetUpPVPRoleCheck($1)$0]]></content>
-	<tabTrigger>QueueStatusEntry_SetUpPVPRoleCheck</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

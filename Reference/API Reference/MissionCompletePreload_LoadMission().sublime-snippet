@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MissionCompletePreload_LoadMission($1)$0]]></content>
-	<tabTrigger>MissionCompletePreload_LoadMission</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

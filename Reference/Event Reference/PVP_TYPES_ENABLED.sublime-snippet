@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PVP_TYPES_ENABLED]]></content>
-	<tabTrigger>PVP_TYPES_ENABLED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

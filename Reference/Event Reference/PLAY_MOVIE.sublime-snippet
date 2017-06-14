@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PLAY_MOVIE]]></content>
-	<tabTrigger>PLAY_MOVIE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

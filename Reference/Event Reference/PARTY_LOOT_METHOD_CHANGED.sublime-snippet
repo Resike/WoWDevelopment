@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PARTY_LOOT_METHOD_CHANGED]]></content>
-	<tabTrigger>PARTY_LOOT_METHOD_CHANGED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

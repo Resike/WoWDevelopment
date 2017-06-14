@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GARRISON_MISSION_LIST_UPDATE]]></content>
-	<tabTrigger>GARRISON_MISSION_LIST_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

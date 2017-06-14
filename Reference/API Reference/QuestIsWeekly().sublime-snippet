@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QuestIsWeekly($1)$0]]></content>
-	<tabTrigger>QuestIsWeekly</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

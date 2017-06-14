@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DevTools_Dump($1)$0]]></content>
-	<tabTrigger>DevTools_Dump</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

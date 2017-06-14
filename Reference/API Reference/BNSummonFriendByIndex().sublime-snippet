@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BNSummonFriendByIndex($1)$0]]></content>
-	<tabTrigger>BNSummonFriendByIndex</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

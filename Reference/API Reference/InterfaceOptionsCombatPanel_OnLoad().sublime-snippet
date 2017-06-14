@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[InterfaceOptionsCombatPanel_OnLoad($1)$0]]></content>
-	<tabTrigger>InterfaceOptionsCombatPanel_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

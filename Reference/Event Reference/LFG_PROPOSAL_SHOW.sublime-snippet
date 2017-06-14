@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFG_PROPOSAL_SHOW]]></content>
-	<tabTrigger>LFG_PROPOSAL_SHOW</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

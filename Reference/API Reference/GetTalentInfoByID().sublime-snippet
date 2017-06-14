@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetTalentInfoByID($1)$0]]></content>
-	<tabTrigger>GetTalentInfoByID</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

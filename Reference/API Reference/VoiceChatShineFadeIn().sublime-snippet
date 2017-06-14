@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VoiceChatShineFadeIn($1)$0]]></content>
-	<tabTrigger>VoiceChatShineFadeIn</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

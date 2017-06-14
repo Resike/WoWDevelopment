@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AchievementButton_LocalizeMetaAchievement($1)$0]]></content>
-	<tabTrigger>AchievementButton_LocalizeMetaAchievement</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

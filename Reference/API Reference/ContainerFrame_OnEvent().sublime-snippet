@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ContainerFrame_OnEvent($1)$0]]></content>
-	<tabTrigger>ContainerFrame_OnEvent</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

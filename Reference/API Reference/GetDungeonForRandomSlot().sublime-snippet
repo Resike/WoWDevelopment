@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetDungeonForRandomSlot($1)$0]]></content>
-	<tabTrigger>GetDungeonForRandomSlot</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

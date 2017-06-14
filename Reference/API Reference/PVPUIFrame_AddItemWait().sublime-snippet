@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PVPUIFrame_AddItemWait($1)$0]]></content>
-	<tabTrigger>PVPUIFrame_AddItemWait</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

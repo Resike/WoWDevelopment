@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WorldMap_UpdateLandmarks($1)$0]]></content>
-	<tabTrigger>WorldMap_UpdateLandmarks</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

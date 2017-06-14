@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FlowContainer_SetOrientation($1)$0]]></content>
-	<tabTrigger>FlowContainer_SetOrientation</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

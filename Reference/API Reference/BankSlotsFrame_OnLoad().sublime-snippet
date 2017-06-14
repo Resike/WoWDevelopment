@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BankSlotsFrame_OnLoad($1)$0]]></content>
-	<tabTrigger>BankSlotsFrame_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

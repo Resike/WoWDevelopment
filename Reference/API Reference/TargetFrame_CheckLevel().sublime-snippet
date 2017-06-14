@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TargetFrame_CheckLevel($1)$0]]></content>
-	<tabTrigger>TargetFrame_CheckLevel</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

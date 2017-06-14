@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarFrame_OffsetMonth($1)$0]]></content>
-	<tabTrigger>CalendarFrame_OffsetMonth</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

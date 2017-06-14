@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetLatestUpdatedStats($1)$0]]></content>
-	<tabTrigger>GetLatestUpdatedStats</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

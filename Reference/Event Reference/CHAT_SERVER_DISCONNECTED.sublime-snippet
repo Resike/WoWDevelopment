@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CHAT_SERVER_DISCONNECTED]]></content>
-	<tabTrigger>CHAT_SERVER_DISCONNECTED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

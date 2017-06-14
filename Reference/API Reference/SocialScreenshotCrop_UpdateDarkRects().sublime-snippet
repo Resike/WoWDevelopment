@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SocialScreenshotCrop_UpdateDarkRects($1)$0]]></content>
-	<tabTrigger>SocialScreenshotCrop_UpdateDarkRects</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

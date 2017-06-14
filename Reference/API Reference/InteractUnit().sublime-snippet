@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[InteractUnit($1)$0]]></content>
-	<tabTrigger>InteractUnit</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

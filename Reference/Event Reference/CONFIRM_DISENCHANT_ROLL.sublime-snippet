@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CONFIRM_DISENCHANT_ROLL]]></content>
-	<tabTrigger>CONFIRM_DISENCHANT_ROLL</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

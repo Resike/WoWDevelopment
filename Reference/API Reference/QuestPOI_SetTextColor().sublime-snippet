@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QuestPOI_SetTextColor($1)$0]]></content>
-	<tabTrigger>QuestPOI_SetTextColor</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

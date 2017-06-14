@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WorldMapPing_UpdatePing($1)$0]]></content>
-	<tabTrigger>WorldMapPing_UpdatePing</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GuildRewardsFrame_OnHide($1)$0]]></content>
-	<tabTrigger>GuildRewardsFrame_OnHide</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BlackMarketBid_OnClick($1)$0]]></content>
-	<tabTrigger>BlackMarketBid_OnClick</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

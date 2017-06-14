@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ScenarioTrackerProgressBar_OnEvent($1)$0]]></content>
-	<tabTrigger>ScenarioTrackerProgressBar_OnEvent</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FCF_FadeInChatFrame($1)$0]]></content>
-	<tabTrigger>FCF_FadeInChatFrame</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

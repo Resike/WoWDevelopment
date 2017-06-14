@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WardrobeCollectionFrameSearchProgressBar_OnLoad($1)$0]]></content>
-	<tabTrigger>WardrobeCollectionFrameSearchProgressBar_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

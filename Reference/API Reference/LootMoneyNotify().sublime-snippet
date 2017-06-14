@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LootMoneyNotify($1)$0]]></content>
-	<tabTrigger>LootMoneyNotify</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

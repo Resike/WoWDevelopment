@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SecureActionButton_OnClick($1)$0]]></content>
-	<tabTrigger>SecureActionButton_OnClick</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ALTERNATIVE_DEFAULT_LANGUAGE_CHANGED]]></content>
-	<tabTrigger>ALTERNATIVE_DEFAULT_LANGUAGE_CHANGED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

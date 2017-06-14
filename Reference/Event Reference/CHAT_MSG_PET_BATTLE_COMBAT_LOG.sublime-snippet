@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CHAT_MSG_PET_BATTLE_COMBAT_LOG]]></content>
-	<tabTrigger>CHAT_MSG_PET_BATTLE_COMBAT_LOG</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

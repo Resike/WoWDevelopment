@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetBindingFromClick($1)$0]]></content>
-	<tabTrigger>GetBindingFromClick</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

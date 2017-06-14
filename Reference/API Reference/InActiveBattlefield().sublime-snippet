@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[InActiveBattlefield($1)$0]]></content>
-	<tabTrigger>InActiveBattlefield</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

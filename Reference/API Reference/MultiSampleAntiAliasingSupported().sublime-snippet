@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MultiSampleAntiAliasingSupported($1)$0]]></content>
-	<tabTrigger>MultiSampleAntiAliasingSupported</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

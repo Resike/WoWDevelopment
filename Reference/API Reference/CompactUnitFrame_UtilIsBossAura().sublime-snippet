@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CompactUnitFrame_UtilIsBossAura($1)$0]]></content>
-	<tabTrigger>CompactUnitFrame_UtilIsBossAura</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

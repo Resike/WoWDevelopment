@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SharedPetAbilityTooltip_ParseText($1)$0]]></content>
-	<tabTrigger>SharedPetAbilityTooltip_ParseText</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

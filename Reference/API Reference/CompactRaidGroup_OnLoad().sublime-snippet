@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CompactRaidGroup_OnLoad($1)$0]]></content>
-	<tabTrigger>CompactRaidGroup_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

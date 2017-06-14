@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[REAGENTBANK_UPDATE]]></content>
-	<tabTrigger>REAGENTBANK_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

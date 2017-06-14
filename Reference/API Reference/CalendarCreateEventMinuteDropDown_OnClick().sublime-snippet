@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarCreateEventMinuteDropDown_OnClick($1)$0]]></content>
-	<tabTrigger>CalendarCreateEventMinuteDropDown_OnClick</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

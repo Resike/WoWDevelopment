@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MoveBackwardStop($1)$0]]></content>
-	<tabTrigger>MoveBackwardStop</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

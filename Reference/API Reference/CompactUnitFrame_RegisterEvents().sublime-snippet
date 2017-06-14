@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CompactUnitFrame_RegisterEvents($1)$0]]></content>
-	<tabTrigger>CompactUnitFrame_RegisterEvents</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

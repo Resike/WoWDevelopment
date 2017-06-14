@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FauxScrollFrame_Update($1)$0]]></content>
-	<tabTrigger>FauxScrollFrame_Update</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

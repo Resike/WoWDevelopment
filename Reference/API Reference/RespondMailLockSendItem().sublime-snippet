@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RespondMailLockSendItem($1)$0]]></content>
-	<tabTrigger>RespondMailLockSendItem</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

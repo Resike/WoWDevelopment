@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TurnRightStop($1)$0]]></content>
-	<tabTrigger>TurnRightStop</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

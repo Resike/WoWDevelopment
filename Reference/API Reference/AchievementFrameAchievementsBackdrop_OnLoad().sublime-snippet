@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AchievementFrameAchievementsBackdrop_OnLoad($1)$0]]></content>
-	<tabTrigger>AchievementFrameAchievementsBackdrop_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

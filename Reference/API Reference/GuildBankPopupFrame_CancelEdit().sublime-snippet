@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GuildBankPopupFrame_CancelEdit($1)$0]]></content>
-	<tabTrigger>GuildBankPopupFrame_CancelEdit</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

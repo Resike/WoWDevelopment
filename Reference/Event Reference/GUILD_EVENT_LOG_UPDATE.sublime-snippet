@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILD_EVENT_LOG_UPDATE]]></content>
-	<tabTrigger>GUILD_EVENT_LOG_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

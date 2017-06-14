@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AddonList_HasAnyChanged($1)$0]]></content>
-	<tabTrigger>AddonList_HasAnyChanged</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

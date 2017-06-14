@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GarrisonMissionController_CloseMission($1)$0]]></content>
-	<tabTrigger>GarrisonMissionController_CloseMission</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RequestGuildPartyState($1)$0]]></content>
-	<tabTrigger>RequestGuildPartyState</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

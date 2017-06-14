@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EventTraceFrameEvent_DisplayTooltip($1)$0]]></content>
-	<tabTrigger>EventTraceFrameEvent_DisplayTooltip</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

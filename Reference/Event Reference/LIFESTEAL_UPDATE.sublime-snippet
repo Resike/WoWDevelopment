@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LIFESTEAL_UPDATE]]></content>
-	<tabTrigger>LIFESTEAL_UPDATE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

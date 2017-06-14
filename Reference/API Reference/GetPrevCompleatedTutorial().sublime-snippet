@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetPrevCompleatedTutorial($1)$0]]></content>
-	<tabTrigger>GetPrevCompleatedTutorial</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

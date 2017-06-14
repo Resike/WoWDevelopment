@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AuctionFrameBrowse_UpdateArrows($1)$0]]></content>
-	<tabTrigger>AuctionFrameBrowse_UpdateArrows</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

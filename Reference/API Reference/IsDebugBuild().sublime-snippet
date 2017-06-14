@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsDebugBuild($1)$0]]></content>
-	<tabTrigger>IsDebugBuild</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

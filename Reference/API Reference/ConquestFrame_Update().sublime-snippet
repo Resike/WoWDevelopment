@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ConquestFrame_Update($1)$0]]></content>
-	<tabTrigger>ConquestFrame_Update</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

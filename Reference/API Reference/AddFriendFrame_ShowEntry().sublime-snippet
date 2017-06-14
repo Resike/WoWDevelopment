@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AddFriendFrame_ShowEntry($1)$0]]></content>
-	<tabTrigger>AddFriendFrame_ShowEntry</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

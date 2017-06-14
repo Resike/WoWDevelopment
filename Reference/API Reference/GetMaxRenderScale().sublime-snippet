@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetMaxRenderScale($1)$0]]></content>
-	<tabTrigger>GetMaxRenderScale</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

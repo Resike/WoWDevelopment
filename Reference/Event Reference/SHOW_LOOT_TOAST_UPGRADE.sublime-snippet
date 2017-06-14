@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SHOW_LOOT_TOAST_UPGRADE]]></content>
-	<tabTrigger>SHOW_LOOT_TOAST_UPGRADE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RaidNotice_FadeInit($1)$0]]></content>
-	<tabTrigger>RaidNotice_FadeInit</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

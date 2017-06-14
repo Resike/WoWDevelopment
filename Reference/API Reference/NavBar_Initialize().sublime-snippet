@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NavBar_Initialize($1)$0]]></content>
-	<tabTrigger>NavBar_Initialize</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

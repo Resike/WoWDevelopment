@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Scenario_ProvingGrounds_CountdownAnim_OnFinished($1)$0]]></content>
-	<tabTrigger>Scenario_ProvingGrounds_CountdownAnim_OnFinished</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

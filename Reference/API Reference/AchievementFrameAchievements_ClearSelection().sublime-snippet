@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AchievementFrameAchievements_ClearSelection($1)$0]]></content>
-	<tabTrigger>AchievementFrameAchievements_ClearSelection</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

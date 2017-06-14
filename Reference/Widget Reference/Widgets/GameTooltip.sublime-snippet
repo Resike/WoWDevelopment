@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GameTooltip]]></content>
-	<tabTrigger>GameTooltip</tabTrigger>
-	<description>frameType</description>
-	<scope>source.lua</scope>
-</snippet>

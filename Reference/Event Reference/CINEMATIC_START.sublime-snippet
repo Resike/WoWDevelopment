@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CINEMATIC_START]]></content>
-	<tabTrigger>CINEMATIC_START</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

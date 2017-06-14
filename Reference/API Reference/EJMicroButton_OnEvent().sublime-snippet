@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EJMicroButton_OnEvent($1)$0]]></content>
-	<tabTrigger>EJMicroButton_OnEvent</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

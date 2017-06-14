@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MountJournal_CollectAvailableFilters($1)$0]]></content>
-	<tabTrigger>MountJournal_CollectAvailableFilters</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

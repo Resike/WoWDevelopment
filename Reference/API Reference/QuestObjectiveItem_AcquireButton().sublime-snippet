@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QuestObjectiveItem_AcquireButton($1)$0]]></content>
-	<tabTrigger>QuestObjectiveItem_AcquireButton</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

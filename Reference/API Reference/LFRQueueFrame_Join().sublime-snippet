@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFRQueueFrame_Join($1)$0]]></content>
-	<tabTrigger>LFRQueueFrame_Join</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

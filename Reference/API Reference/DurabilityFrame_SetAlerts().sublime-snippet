@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DurabilityFrame_SetAlerts($1)$0]]></content>
-	<tabTrigger>DurabilityFrame_SetAlerts</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

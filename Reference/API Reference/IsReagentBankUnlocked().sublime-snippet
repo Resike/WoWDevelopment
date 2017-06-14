@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsReagentBankUnlocked($1)$0]]></content>
-	<tabTrigger>IsReagentBankUnlocked</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

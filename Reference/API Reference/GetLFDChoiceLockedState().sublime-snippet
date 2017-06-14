@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetLFDChoiceLockedState($1)$0]]></content>
-	<tabTrigger>GetLFDChoiceLockedState</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

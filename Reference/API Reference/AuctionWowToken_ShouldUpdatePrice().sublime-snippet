@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AuctionWowToken_ShouldUpdatePrice($1)$0]]></content>
-	<tabTrigger>AuctionWowToken_ShouldUpdatePrice</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

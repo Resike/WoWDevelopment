@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[STORE_ORDER_INITIATION_FAILED]]></content>
-	<tabTrigger>STORE_ORDER_INITIATION_FAILED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

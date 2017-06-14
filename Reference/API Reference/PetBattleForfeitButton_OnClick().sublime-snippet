@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PetBattleForfeitButton_OnClick($1)$0]]></content>
-	<tabTrigger>PetBattleForfeitButton_OnClick</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

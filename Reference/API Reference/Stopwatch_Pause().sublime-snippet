@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Stopwatch_Pause($1)$0]]></content>
-	<tabTrigger>Stopwatch_Pause</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

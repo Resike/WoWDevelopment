@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TOKEN_REDEEM_BALANCE_UPDATED]]></content>
-	<tabTrigger>TOKEN_REDEEM_BALANCE_UPDATED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

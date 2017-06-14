@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RuneFrame_UpdateNumberOfShownRunes($1)$0]]></content>
-	<tabTrigger>RuneFrame_UpdateNumberOfShownRunes</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

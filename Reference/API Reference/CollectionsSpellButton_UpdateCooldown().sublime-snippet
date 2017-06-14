@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CollectionsSpellButton_UpdateCooldown($1)$0]]></content>
-	<tabTrigger>CollectionsSpellButton_UpdateCooldown</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

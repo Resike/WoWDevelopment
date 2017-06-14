@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MainMenuBarVehicleLeaveButton_OnLoad($1)$0]]></content>
-	<tabTrigger>MainMenuBarVehicleLeaveButton_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

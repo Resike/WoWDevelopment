@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VideoOptionsPanel_OnLoad($1)$0]]></content>
-	<tabTrigger>VideoOptionsPanel_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

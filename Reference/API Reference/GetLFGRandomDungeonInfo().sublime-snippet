@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetLFGRandomDungeonInfo($1)$0]]></content>
-	<tabTrigger>GetLFGRandomDungeonInfo</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CHAT_MSG_BG_SYSTEM_HORDE]]></content>
-	<tabTrigger>CHAT_MSG_BG_SYSTEM_HORDE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

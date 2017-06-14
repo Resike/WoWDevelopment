@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UPDATE_BONUS_ACTIONBAR]]></content>
-	<tabTrigger>UPDATE_BONUS_ACTIONBAR</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

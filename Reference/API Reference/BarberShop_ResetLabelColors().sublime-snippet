@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BarberShop_ResetLabelColors($1)$0]]></content>
-	<tabTrigger>BarberShop_ResetLabelColors</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

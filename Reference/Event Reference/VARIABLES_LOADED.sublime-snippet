@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VARIABLES_LOADED]]></content>
-	<tabTrigger>VARIABLES_LOADED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

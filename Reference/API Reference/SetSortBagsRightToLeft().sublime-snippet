@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetSortBagsRightToLeft($1)$0]]></content>
-	<tabTrigger>SetSortBagsRightToLeft</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PLAYER_DAMAGE_DONE_MODS]]></content>
-	<tabTrigger>PLAYER_DAMAGE_DONE_MODS</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

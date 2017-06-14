@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChannelPulloutRoster_GetActiveSession($1)$0]]></content>
-	<tabTrigger>ChannelPulloutRoster_GetActiveSession</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

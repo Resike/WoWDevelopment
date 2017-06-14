@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PortraitFrameCloseButton_OnClick($1)$0]]></content>
-	<tabTrigger>PortraitFrameCloseButton_OnClick</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

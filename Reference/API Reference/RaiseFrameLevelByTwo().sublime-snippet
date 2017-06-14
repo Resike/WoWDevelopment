@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RaiseFrameLevelByTwo($1)$0]]></content>
-	<tabTrigger>RaiseFrameLevelByTwo</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

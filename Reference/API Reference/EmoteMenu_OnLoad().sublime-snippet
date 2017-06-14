@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EmoteMenu_OnLoad($1)$0]]></content>
-	<tabTrigger>EmoteMenu_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

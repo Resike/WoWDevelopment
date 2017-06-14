@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QuestObjectiveSetupBlockButton_AddRightButton($1)$0]]></content>
-	<tabTrigger>QuestObjectiveSetupBlockButton_AddRightButton</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

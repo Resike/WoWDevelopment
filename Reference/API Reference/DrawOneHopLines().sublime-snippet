@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DrawOneHopLines($1)$0]]></content>
-	<tabTrigger>DrawOneHopLines</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

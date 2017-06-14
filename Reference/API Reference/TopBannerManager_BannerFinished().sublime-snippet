@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TopBannerManager_BannerFinished($1)$0]]></content>
-	<tabTrigger>TopBannerManager_BannerFinished</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

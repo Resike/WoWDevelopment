@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ContainerFrame_UpdateCooldowns($1)$0]]></content>
-	<tabTrigger>ContainerFrame_UpdateCooldowns</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

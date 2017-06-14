@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WorldStateButtonDropDown_Initialize($1)$0]]></content>
-	<tabTrigger>WorldStateButtonDropDown_Initialize</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

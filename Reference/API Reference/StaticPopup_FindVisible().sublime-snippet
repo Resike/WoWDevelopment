@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[StaticPopup_FindVisible($1)$0]]></content>
-	<tabTrigger>StaticPopup_FindVisible</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

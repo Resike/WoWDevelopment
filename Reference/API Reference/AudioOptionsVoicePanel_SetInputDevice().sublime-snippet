@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AudioOptionsVoicePanel_SetInputDevice($1)$0]]></content>
-	<tabTrigger>AudioOptionsVoicePanel_SetInputDevice</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

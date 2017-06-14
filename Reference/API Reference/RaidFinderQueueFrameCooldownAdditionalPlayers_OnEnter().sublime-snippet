@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RaidFinderQueueFrameCooldownAdditionalPlayers_OnEnter($1)$0]]></content>
-	<tabTrigger>RaidFinderQueueFrameCooldownAdditionalPlayers_OnEnter</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AuctionFrame_CreateCategory($1)$0]]></content>
-	<tabTrigger>AuctionFrame_CreateCategory</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

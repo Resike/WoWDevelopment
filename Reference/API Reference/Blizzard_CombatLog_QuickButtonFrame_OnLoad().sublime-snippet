@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Blizzard_CombatLog_QuickButtonFrame_OnLoad($1)$0]]></content>
-	<tabTrigger>Blizzard_CombatLog_QuickButtonFrame_OnLoad</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

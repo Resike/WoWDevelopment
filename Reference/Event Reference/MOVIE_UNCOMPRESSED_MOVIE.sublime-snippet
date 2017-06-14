@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MOVIE_UNCOMPRESSED_MOVIE]]></content>
-	<tabTrigger>MOVIE_UNCOMPRESSED_MOVIE</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ADVENTURE_MAP_UPDATE_INSETS]]></content>
-	<tabTrigger>ADVENTURE_MAP_UPDATE_INSETS</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

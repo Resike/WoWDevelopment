@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UPDATE_MACROS]]></content>
-	<tabTrigger>UPDATE_MACROS</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

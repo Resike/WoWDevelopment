@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetPOIIconOverlapPushDistance($1)$0]]></content>
-	<tabTrigger>SetPOIIconOverlapPushDistance</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

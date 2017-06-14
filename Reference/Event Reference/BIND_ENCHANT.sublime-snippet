@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BIND_ENCHANT]]></content>
-	<tabTrigger>BIND_ENCHANT</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

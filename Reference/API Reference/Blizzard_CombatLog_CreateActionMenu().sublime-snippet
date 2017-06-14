@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Blizzard_CombatLog_CreateActionMenu($1)$0]]></content>
-	<tabTrigger>Blizzard_CombatLog_CreateActionMenu</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

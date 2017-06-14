@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CompactRaidFrameReservation_GetFrame($1)$0]]></content>
-	<tabTrigger>CompactRaidFrameReservation_GetFrame</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

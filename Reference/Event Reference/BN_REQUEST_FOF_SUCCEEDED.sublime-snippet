@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BN_REQUEST_FOF_SUCCEEDED]]></content>
-	<tabTrigger>BN_REQUEST_FOF_SUCCEEDED</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

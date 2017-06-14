@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GossipFrameOptionsUpdate($1)$0]]></content>
-	<tabTrigger>GossipFrameOptionsUpdate</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

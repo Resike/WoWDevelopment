@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WorldMapFrame_ClearAreaLabel($1)$0]]></content>
-	<tabTrigger>WorldMapFrame_ClearAreaLabel</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

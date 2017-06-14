@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_Garrison.GetAvailableRecruits($1)$0]]></content>
-	<tabTrigger>C_Garrison.GetAvailableRecruits</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

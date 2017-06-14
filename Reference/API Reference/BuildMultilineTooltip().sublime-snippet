@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BuildMultilineTooltip($1)$0]]></content>
-	<tabTrigger>BuildMultilineTooltip</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

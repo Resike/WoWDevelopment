@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ObjectiveTracker_SlideBlock($1)$0]]></content>
-	<tabTrigger>ObjectiveTracker_SlideBlock</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

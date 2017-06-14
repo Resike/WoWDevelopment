@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[INSTANCE_ENCOUNTER_ENGAGE_UNIT]]></content>
-	<tabTrigger>INSTANCE_ENCOUNTER_ENGAGE_UNIT</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

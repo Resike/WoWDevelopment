@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DELETE_ITEM_CONFIRM]]></content>
-	<tabTrigger>DELETE_ITEM_CONFIRM</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

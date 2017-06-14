@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GuildTextEditFrame_Show($1)$0]]></content>
-	<tabTrigger>GuildTextEditFrame_Show</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TutorialFrame_ClearTextures($1)$0]]></content>
-	<tabTrigger>TutorialFrame_ClearTextures</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

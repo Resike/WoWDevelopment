@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EJ_GetSlotFilter($1)$0]]></content>
-	<tabTrigger>EJ_GetSlotFilter</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

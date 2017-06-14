@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnitFrameManaBar_RegisterDefaultEvents($1)$0]]></content>
-	<tabTrigger>UnitFrameManaBar_RegisterDefaultEvents</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

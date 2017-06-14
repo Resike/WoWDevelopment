@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetCritChanceProvidesParryEffect($1)$0]]></content>
-	<tabTrigger>GetCritChanceProvidesParryEffect</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

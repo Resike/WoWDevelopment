@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VideoOptionsDropDownMenu_CreateInfo($1)$0]]></content>
-	<tabTrigger>VideoOptionsDropDownMenu_CreateInfo</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

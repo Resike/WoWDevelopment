@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CHALLENGE_MODE_RESET]]></content>
-	<tabTrigger>CHALLENGE_MODE_RESET</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

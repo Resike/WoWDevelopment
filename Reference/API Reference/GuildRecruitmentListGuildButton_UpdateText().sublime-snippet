@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GuildRecruitmentListGuildButton_UpdateText($1)$0]]></content>
-	<tabTrigger>GuildRecruitmentListGuildButton_UpdateText</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

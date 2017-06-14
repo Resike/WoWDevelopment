@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BossBanner_ConfigureLootFrame($1)$0]]></content>
-	<tabTrigger>BossBanner_ConfigureLootFrame</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

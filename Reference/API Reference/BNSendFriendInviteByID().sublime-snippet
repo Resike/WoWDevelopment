@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BNSendFriendInviteByID($1)$0]]></content>
-	<tabTrigger>BNSendFriendInviteByID</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

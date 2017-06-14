@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PickupCurrency($1)$0]]></content>
-	<tabTrigger>PickupCurrency</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

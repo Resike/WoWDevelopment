@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CollectionsJournal_LoadUI($1)$0]]></content>
-	<tabTrigger>CollectionsJournal_LoadUI</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

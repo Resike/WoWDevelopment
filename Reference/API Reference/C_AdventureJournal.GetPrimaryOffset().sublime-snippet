@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_AdventureJournal.GetPrimaryOffset($1)$0]]></content>
-	<tabTrigger>C_AdventureJournal.GetPrimaryOffset</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

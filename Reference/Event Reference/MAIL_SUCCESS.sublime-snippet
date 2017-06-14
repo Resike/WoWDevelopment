@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAIL_SUCCESS]]></content>
-	<tabTrigger>MAIL_SUCCESS</tabTrigger>
-	<description>event</description>
-	<scope>source.lua</scope>
-</snippet>

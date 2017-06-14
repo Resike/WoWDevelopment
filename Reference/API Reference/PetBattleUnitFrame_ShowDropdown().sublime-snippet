@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PetBattleUnitFrame_ShowDropdown($1)$0]]></content>
-	<tabTrigger>PetBattleUnitFrame_ShowDropdown</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

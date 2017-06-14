@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AutoComplete_GetSelectedIndex($1)$0]]></content>
-	<tabTrigger>AutoComplete_GetSelectedIndex</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FCF_SavePositionAndDimensions($1)$0]]></content>
-	<tabTrigger>FCF_SavePositionAndDimensions</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

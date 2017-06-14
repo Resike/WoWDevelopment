@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BNToastFrame_RemoveToast($1)$0]]></content>
-	<tabTrigger>BNToastFrame_RemoveToast</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TalkingHead_LoadUI($1)$0]]></content>
-	<tabTrigger>TalkingHead_LoadUI</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

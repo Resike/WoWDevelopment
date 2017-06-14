@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QuestPOIGetQuestIDByIndex($1)$0]]></content>
-	<tabTrigger>QuestPOIGetQuestIDByIndex</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

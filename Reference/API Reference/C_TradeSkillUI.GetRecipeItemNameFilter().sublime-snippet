@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_TradeSkillUI.GetRecipeItemNameFilter($1)$0]]></content>
-	<tabTrigger>C_TradeSkillUI.GetRecipeItemNameFilter</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

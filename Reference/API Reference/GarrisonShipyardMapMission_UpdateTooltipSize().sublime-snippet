@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GarrisonShipyardMapMission_UpdateTooltipSize($1)$0]]></content>
-	<tabTrigger>GarrisonShipyardMapMission_UpdateTooltipSize</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

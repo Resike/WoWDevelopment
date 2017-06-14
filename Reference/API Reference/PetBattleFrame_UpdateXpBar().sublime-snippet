@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PetBattleFrame_UpdateXpBar($1)$0]]></content>
-	<tabTrigger>PetBattleFrame_UpdateXpBar</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

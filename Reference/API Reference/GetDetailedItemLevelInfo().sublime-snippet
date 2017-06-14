@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetDetailedItemLevelInfo($1)$0]]></content>
-	<tabTrigger>GetDetailedItemLevelInfo</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

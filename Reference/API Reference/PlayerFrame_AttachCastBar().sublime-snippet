@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PlayerFrame_AttachCastBar($1)$0]]></content>
-	<tabTrigger>PlayerFrame_AttachCastBar</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>
