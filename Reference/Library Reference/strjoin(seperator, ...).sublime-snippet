@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[strjoin("${1:seperator}", ${2:...})$0]]></content>
-	<tabTrigger>strjoin</tabTrigger>
-	<description>("seperator", ...)</description>
-	<scope>source.lua</scope>
-</snippet>

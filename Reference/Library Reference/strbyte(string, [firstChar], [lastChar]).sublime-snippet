@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[strbyte("${1:string}", ${2:[firstChar]}, ${3:[lastChar]})$0]]></content>
-	<tabTrigger>strbyte</tabTrigger>
-	<description>("string", [firstChar], →)</description>
-	<scope>source.lua</scope>
-</snippet>

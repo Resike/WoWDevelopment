@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[wipe(${1:aTable})$0]]></content>
-	<tabTrigger>wipe</tabTrigger>
-	<description>(aTable)</description>
-	<scope>source.lua</scope>
-</snippet>

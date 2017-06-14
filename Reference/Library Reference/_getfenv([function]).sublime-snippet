@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:env} = getfenv(${2:[function]})$0]]></content>
-	<tabTrigger>_getfenv</tabTrigger>
-	<description>([function])</description>
-	<scope>source.lua</scope>
-</snippet>

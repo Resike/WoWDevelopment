@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[atan()$0]]></content>
-	<tabTrigger>atan</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

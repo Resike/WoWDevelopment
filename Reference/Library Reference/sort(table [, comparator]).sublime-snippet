@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[sort(${1:table}, ${2:[comparator]})$0]]></content>
-	<tabTrigger>sort</tabTrigger>
-	<description>(table, [comparator])</description>
-	<scope>source.lua</scope>
-</snippet>

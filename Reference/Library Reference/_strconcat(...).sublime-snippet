@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:result} = strconcat("${2:...}")$0]]></content>
-	<tabTrigger>_strconcat</tabTrigger>
-	<description>("...")</description>
-	<scope>source.lua</scope>
-</snippet>

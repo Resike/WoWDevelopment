@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[securecall(${1:function}, ${2:...})$0]]></content>
-	<tabTrigger>securecall</tabTrigger>
-	<description>(function, ...)</description>
-	<scope>source.lua</scope>
-</snippet>

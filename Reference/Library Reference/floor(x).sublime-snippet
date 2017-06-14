@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[floor(${1:x})$0]]></content>
-	<tabTrigger>floor</tabTrigger>
-	<description>(x)</description>
-	<scope>source.lua</scope>
-</snippet>

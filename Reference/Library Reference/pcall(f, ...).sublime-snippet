@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[pcall(${1:function}, ${2:...})$0]]></content>
-	<tabTrigger>pcall</tabTrigger>
-	<description>(function, ...)</description>
-	<scope>source.lua</scope>
-</snippet>

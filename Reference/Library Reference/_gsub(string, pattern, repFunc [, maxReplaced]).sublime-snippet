@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:newString}, ${2:numMatched} = gsub("${3:string}", "${4:pattern}", ${5:repFunc}, ${6:[maxReplaced]})$0]]></content>
-	<tabTrigger>_gsub</tabTrigger>
-	<description>("string", "pattern", repFunc, →)</description>
-	<scope>source.lua</scope>
-</snippet>

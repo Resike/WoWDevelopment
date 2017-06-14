@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[acos()$0]]></content>
-	<tabTrigger>acos</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

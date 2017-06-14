@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:...} = unpack(${2:t}, ${3:[i]}, ${4:[j]})$0]]></content>
-	<tabTrigger>_unpack</tabTrigger>
-	<description>(t, [i], [j])</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:string} = strsub("${2:string}", ${3:firstChar}, ${4:[lastChar]})$0]]></content>
-	<tabTrigger>_strsub</tabTrigger>
-	<description>("string", firstChar, [lastChar])</description>
-	<scope>source.lua</scope>
-</snippet>

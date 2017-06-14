@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[debugstack(${1:start}, ${2:countTop}, ${3:countBot})$0]]></content>
-	<tabTrigger>debugstack</tabTrigger>
-	<description>(start, countTop, countBot)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ipairs(${1:table})$0]]></content>
-	<tabTrigger>ipairs</tabTrigger>
-	<description>(t)</description>
-	<scope>source.lua</scope>
-</snippet>

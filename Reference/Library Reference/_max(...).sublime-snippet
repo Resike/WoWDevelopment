@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:maximum} = max(${2:...})$0]]></content>
-	<tabTrigger>_max</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

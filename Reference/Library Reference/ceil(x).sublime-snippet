@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ceil(${1:x})$0]]></content>
-	<tabTrigger>ceil</tabTrigger>
-	<description>(x)</description>
-	<scope>source.lua</scope>
-</snippet>

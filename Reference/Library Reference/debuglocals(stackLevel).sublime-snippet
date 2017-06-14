@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[debuglocals(${1:stackLevel})$0]]></content>
-	<tabTrigger>debuglocals</tabTrigger>
-	<description>(stackLevel)</description>
-	<scope>source.lua</scope>
-</snippet>

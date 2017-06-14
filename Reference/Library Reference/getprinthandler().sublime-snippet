@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[getprinthandler()$0]]></content>
-	<tabTrigger>getprinthandler</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

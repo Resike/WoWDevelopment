@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[asin()$0]]></content>
-	<tabTrigger>asin</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

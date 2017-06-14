@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:iterator}, ${2:table}, ${3:index} = pairs(${4:table})$0]]></content>
-	<tabTrigger>_pairs</tabTrigger>
-	<description>(table)</description>
-	<scope>source.lua</scope>
-</snippet>

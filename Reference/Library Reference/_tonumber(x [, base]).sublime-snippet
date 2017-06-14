@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:numValue} = tonumber(${2:x}, ${3:[base]})$0]]></content>
-	<tabTrigger>_tonumber</tabTrigger>
-	<description>(x, [base])</description>
-	<scope>source.lua</scope>
-</snippet>
