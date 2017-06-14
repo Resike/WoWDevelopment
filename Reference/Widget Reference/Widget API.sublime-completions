@@ -2871,7 +2871,7 @@
 		},
 		{
 			"trigger": "RegisterUnitEvent\t(\"event\", \"unit1\", \"unit2\")",
-			"contents": "RegisterEvent(\"${1:event}\", \"${2:unit1}\", \"${3:unit2}\")$0",
+			"contents": "RegisterUnitEvent(\"${1:event}\", \"${2:unit1}\", \"${3:unit2}\")$0",
 		},
 		{
 			"trigger": "ReplaceIconTexture\t(\"filename\")",
