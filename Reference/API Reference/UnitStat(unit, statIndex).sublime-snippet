@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnitStat("${1:unit}", ${2:statIndex})$0]]></content>
-	<tabTrigger>UnitStat</tabTrigger>
-	<description>("unit", statIndex)</description>
-	<scope>source.lua</scope>
-</snippet>

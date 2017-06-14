@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetMinResize(${2:minWidth}, ${3:minHeight})$0]]></content>
-	<tabTrigger>SetMinResize</tabTrigger>
-	<description>(minW, minH)</description>
-	<scope>source.lua</scope>
-</snippet>

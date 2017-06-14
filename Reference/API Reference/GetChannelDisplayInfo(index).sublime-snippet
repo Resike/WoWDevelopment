@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetChannelDisplayInfo(${1:index})$0]]></content>
-	<tabTrigger>GetChannelDisplayInfo</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

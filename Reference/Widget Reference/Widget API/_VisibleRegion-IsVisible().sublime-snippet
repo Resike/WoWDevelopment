@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:visible} = ${2:VisibleRegion}:IsVisible()$0]]></content>
-	<tabTrigger>_VisibleRegion:IsVisible</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

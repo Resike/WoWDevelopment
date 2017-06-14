@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetSpell()$0]]></content>
-	<tabTrigger>GetSpell</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

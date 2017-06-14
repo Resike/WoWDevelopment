@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[StartMovie("${3:fileName}", ${4:volume})$0]]></content>
-	<tabTrigger>StartMovie</tabTrigger>
-	<description>("fileName", volume)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UpdateMapHighlight(${1:cursorX}, ${2:cursorY})$0]]></content>
-	<tabTrigger>UpdateMapHighlight</tabTrigger>
-	<description>(X, Y)</description>
-	<scope>source.lua</scope>
-</snippet>

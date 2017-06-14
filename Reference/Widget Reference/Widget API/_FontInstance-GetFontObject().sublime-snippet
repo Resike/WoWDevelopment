@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:font} = ${2:FontInstance}:GetFontObject()$0]]></content>
-	<tabTrigger>_FontInstance:GetFontObject</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

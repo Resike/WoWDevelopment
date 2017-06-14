@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Dress()$0]]></content>
-	<tabTrigger>Dress</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

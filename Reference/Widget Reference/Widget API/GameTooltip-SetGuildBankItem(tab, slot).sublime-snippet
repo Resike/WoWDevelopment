@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:GameTooltip}:SetGuildBankItem(${2:tab}, ${3:slot})$0]]></content>
-	<tabTrigger>GameTooltip:SetGuildBankItem</tabTrigger>
-	<description>(tab, slot)</description>
-	<scope>source.lua</scope>
-</snippet>

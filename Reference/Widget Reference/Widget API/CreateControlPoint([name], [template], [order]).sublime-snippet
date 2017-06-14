@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CreateControlPoint(${2:["name"]}, ${3:["template"]}, ${4:[order]})$0]]></content>
-	<tabTrigger>CreateControlPoint</tabTrigger>
-	<description>(["name"], →)</description>
-	<scope>source.lua</scope>
-</snippet>

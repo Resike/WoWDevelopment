@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarEventSetDescription("${1:description}")$0]]></content>
-	<tabTrigger>CalendarEventSetDescription</tabTrigger>
-	<description>("desc")</description>
-	<scope>source.lua</scope>
-</snippet>

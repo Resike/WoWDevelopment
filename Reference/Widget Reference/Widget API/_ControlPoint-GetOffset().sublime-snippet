@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:x}, ${2:y} = ${3:ControlPoint}:GetOffset()$0]]></content>
-	<tabTrigger>_ControlPoint:GetOffset</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

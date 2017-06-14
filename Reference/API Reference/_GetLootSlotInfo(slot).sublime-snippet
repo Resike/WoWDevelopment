@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:texture}, ${2:item}, ${3:quantity}, ${4:quality}, ${5:locked} = GetLootSlotInfo(${6:slot})$0]]></content>
-	<tabTrigger>_GetLootSlotInfo</tabTrigger>
-	<description>(slot)</description>
-	<scope>source.lua</scope>
-</snippet>

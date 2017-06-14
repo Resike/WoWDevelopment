@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetBlendMode()$0]]></content>
-	<tabTrigger>GetBlendMode</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

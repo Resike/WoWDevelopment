@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetMuteStatus("${1:name}", ${2:["channel"]})$0]]></content>
-	<tabTrigger>GetMuteStatus</tabTrigger>
-	<description>("name", ["channel"])</description>
-	<scope>source.lua</scope>
-</snippet>

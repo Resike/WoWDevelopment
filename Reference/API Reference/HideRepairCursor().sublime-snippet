@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HideRepairCursor()$0]]></content>
-	<tabTrigger>HideRepairCursor</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetManaRegen()$0]]></content>
-	<tabTrigger>GetManaRegen</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

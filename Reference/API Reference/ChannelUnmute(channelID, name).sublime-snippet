@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChannelUnmute(${1:channelID}, "${2:name}")$0]]></content>
-	<tabTrigger>ChannelUnmute</tabTrigger>
-	<description>(channelID, "name")</description>
-	<scope>source.lua</scope>
-</snippet>

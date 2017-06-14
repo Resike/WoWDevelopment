@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ClickSendMailItemButton(${1:index}, ${2:autoReturn})$0]]></content>
-	<tabTrigger>ClickSendMailItemButton</tabTrigger>
-	<description>(idx, autoReturn)</description>
-	<scope>source.lua</scope>
-</snippet>

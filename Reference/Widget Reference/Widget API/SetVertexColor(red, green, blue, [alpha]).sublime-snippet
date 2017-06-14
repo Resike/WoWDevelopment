@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetVertexColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0]]></content>
-	<tabTrigger>SetVertexColor</tabTrigger>
-	<description>(r, g, b, [a])</description>
-	<scope>source.lua</scope>
-</snippet>

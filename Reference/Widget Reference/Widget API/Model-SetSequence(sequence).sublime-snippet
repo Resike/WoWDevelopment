@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:Model}:SetSequence(${2:sequence})$0]]></content>
-	<tabTrigger>Model:SetSequence</tabTrigger>
-	<description>(sequence)</description>
-	<scope>source.lua</scope>
-</snippet>

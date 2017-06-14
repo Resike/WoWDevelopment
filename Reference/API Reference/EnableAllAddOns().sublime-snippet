@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EnableAllAddOns()$0]]></content>
-	<tabTrigger>EnableAllAddOns</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LearnTalent(${1:tabIndex}, ${2:talentIndex}, ${3:isPet}, ${4:talentGroup})$0]]></content>
-	<tabTrigger>LearnTalent</tabTrigger>
-	<description>(tabIndex, talentIndex, →)</description>
-	<scope>source.lua</scope>
-</snippet>

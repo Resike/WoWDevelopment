@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Sound_GameSystem_GetOutputDriverNameByIndex(${1:index})$0]]></content>
-	<tabTrigger>Sound_GameSystem_GetOutputDriverNameByIndex</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsAttackAction(${1:slot})$0]]></content>
-	<tabTrigger>IsAttackAction</tabTrigger>
-	<description>(slot)</description>
-	<scope>source.lua</scope>
-</snippet>

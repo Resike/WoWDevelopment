@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:resistancePercent} = ResistancePercent(${2:ResistanceValue}, ${3:CasterLevel})$0]]></content>
-	<tabTrigger>_ResistancePercent</tabTrigger>
-	<description>(ResVal, CasterLevel)</description>
-	<scope>source.lua</scope>
-</snippet>

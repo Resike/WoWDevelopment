@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetWidth(${2:width})$0]]></content>
-	<tabTrigger>SetWidth</tabTrigger>
-	<description>(width)</description>
-	<scope>source.lua</scope>
-</snippet>

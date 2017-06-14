@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DetectWowMouse()$0]]></content>
-	<tabTrigger>DetectWowMouse</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

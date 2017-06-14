@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Screenshot()$0]]></content>
-	<tabTrigger>Screenshot</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

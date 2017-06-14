@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IgnoreDepth(${2:enable})$0]]></content>
-	<tabTrigger>IgnoreDepth</tabTrigger>
-	<description>(enable)</description>
-	<scope>source.lua</scope>
-</snippet>

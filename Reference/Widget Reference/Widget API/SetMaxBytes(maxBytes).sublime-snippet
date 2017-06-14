@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetMaxBytes(${2:maxBytes})$0]]></content>
-	<tabTrigger>SetMaxBytes</tabTrigger>
-	<description>(maxBytes)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:start}, ${2:duration}, ${3:enable} = GetItemCooldown("${4:itemLink}")$0]]></content>
-	<tabTrigger>_GetItemCooldown</tabTrigger>
-	<description>("itemLink")</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetChatWindowAlpha(${1:index}, ${2:alpha})$0]]></content>
-	<tabTrigger>SetChatWindowAlpha</tabTrigger>
-	<description>(index, alpha)</description>
-	<scope>source.lua</scope>
-</snippet>

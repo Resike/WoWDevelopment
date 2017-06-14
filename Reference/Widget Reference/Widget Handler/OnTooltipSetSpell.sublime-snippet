@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-OnTooltipSetSpell
-]]></content>
-	<tabTrigger>OnTooltipSetSpell</tabTrigger>
-	<description> </description>
-	<scope>source.lua</scope>
-</snippet>

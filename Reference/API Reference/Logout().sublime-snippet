@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Logout()$0]]></content>
-	<tabTrigger>Logout</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

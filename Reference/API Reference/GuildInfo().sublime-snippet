@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GuildInfo()$0]]></content>
-	<tabTrigger>GuildInfo</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

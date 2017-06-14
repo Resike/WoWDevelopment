@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CloseQuest()$0]]></content>
-	<tabTrigger>CloseQuest</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

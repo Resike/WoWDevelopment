@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NoPlayTime()$0]]></content>
-	<tabTrigger>NoPlayTime</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

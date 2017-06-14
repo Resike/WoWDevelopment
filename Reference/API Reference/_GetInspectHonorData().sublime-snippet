@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:todayHK}, ${2:todayHonor}, ${3:yesterdayHK}, ${4:yesterdayHonor}, ${5:lifetimeHK}, ${6:lifetimeRank} = GetInspectHonorData()$0]]></content>
-	<tabTrigger>_GetInspectHonorData</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Raise()$0]]></content>
-	<tabTrigger>Raise</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

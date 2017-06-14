@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsOutOfBounds()$0]]></content>
-	<tabTrigger>IsOutOfBounds</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

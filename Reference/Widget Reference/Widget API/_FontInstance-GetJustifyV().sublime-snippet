@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:justify} = ${2:FontInstance}:GetJustifyV()$0]]></content>
-	<tabTrigger>_FontInstance:GetJustifyV</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

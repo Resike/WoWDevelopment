@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MouselookStart()$0]]></content>
-	<tabTrigger>MouselookStart</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

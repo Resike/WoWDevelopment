@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:Model}:ClearModel()$0]]></content>
-	<tabTrigger>Model:ClearModel</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

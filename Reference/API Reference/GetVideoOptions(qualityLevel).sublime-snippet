@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetVideoOptions(${1:qualityLevel})$0]]></content>
-	<tabTrigger>GetVideoOptions</tabTrigger>
-	<description>(qualityLevel)</description>
-	<scope>source.lua</scope>
-</snippet>

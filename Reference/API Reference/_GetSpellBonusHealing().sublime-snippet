@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:bonusHealing} = GetSpellBonusHealing()$0]]></content>
-	<tabTrigger>_GetSpellBonusHealing</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

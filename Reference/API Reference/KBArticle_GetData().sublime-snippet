@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[KBArticle_GetData()$0]]></content>
-	<tabTrigger>KBArticle_GetData</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

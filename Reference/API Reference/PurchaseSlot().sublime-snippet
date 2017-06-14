@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PurchaseSlot()$0]]></content>
-	<tabTrigger>PurchaseSlot</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

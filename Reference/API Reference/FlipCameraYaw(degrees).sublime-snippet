@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FlipCameraYaw(${1:degrees})$0]]></content>
-	<tabTrigger>FlipCameraYaw</tabTrigger>
-	<description>(degrees)</description>
-	<scope>source.lua</scope>
-</snippet>

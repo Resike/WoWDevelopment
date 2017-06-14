@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetActiveSpecGroup()$0]]></content>
-	<tabTrigger>GetActiveSpecGroup</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

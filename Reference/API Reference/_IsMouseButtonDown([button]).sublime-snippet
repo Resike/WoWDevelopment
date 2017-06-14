@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:isDown} = IsMouseButtonDown(${2:[button]})$0]]></content>
-	<tabTrigger>_IsMouseButtonDown</tabTrigger>
-	<description>([button])</description>
-	<scope>source.lua</scope>
-</snippet>

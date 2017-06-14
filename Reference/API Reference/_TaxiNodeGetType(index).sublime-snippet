@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:type} = TaxiNodeGetType(${2:index})$0]]></content>
-	<tabTrigger>_TaxiNodeGetType</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:texture}, ${2:value}, ${3:link}, ${4:name} = GetMerchantItemCostItem(${5:index}, ${6:currency})$0]]></content>
-	<tabTrigger>_GetMerchantItemCostItem</tabTrigger>
-	<description>(index, currency)</description>
-	<scope>source.lua</scope>
-</snippet>

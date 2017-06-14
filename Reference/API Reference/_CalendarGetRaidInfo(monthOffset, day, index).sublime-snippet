@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:title}, ${2:calendarType}, ${3:raidID}, ${4:hour}, ${5:minute}, ${6:difficulty} = CalendarGetRaidInfo(${7:monthOffset}, ${8:day}, ${9:index})$0]]></content>
-	<tabTrigger>_CalendarGetRaidInfo</tabTrigger>
-	<description>(→, day, index)</description>
-	<scope>source.lua</scope>
-</snippet>

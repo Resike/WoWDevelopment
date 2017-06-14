@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetPlayerTradeMoney()$0]]></content>
-	<tabTrigger>GetPlayerTradeMoney</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

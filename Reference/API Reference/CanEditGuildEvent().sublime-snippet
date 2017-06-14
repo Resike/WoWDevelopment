@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CanEditGuildEvent()$0]]></content>
-	<tabTrigger>CanEditGuildEvent</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:GameTooltip}:SetMerchantItem(${2:merchantIndex})$0]]></content>
-	<tabTrigger>GameTooltip:SetMerchantItem</tabTrigger>
-	<description>(merchantIdx)</description>
-	<scope>source.lua</scope>
-</snippet>

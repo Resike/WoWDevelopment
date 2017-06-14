@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetInboxItem(${2:mailID}, ${3:attachmentIndex})$0]]></content>
-	<tabTrigger>SetInboxItem</tabTrigger>
-	<description>(mailID, attachmentIndex)</description>
-	<scope>source.lua</scope>
-</snippet>

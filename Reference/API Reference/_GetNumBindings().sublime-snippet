@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:numBindings} = GetNumBindings()$0]]></content>
-	<tabTrigger>_GetNumBindings</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

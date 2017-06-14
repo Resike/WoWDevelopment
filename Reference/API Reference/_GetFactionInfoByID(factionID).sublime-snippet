@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:name}, ${2:description}, ${3:standingID}, ${4:barMin}, ${5:barMax}, ${6:barValue}, ${7:atWarWith}, ${8:canToggleAtWar}, ${9:isHeader}, ${10:isCollapsed}, ${11:hasRep}, ${12:isWatched}, ${13:isChild} = GetFactionInfoByID(${14:factionID})$0]]></content>
-	<tabTrigger>_GetFactionInfoByID</tabTrigger>
-	<description>(factionID)</description>
-	<scope>source.lua</scope>
-</snippet>

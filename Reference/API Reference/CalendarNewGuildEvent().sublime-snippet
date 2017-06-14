@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarNewGuildEvent()$0]]></content>
-	<tabTrigger>CalendarNewGuildEvent</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetEquipmentSet("${2:name}")$0]]></content>
-	<tabTrigger>SetEquipmentSet</tabTrigger>
-	<description>("name")</description>
-	<scope>source.lua</scope>
-</snippet>

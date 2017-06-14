@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetParent("${2:animGroupName}")$0]]></content>
-	<tabTrigger>SetParent</tabTrigger>
-	<description>("animGroupName")</description>
-	<scope>source.lua</scope>
-</snippet>

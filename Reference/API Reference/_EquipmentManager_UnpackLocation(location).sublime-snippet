@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:player}, ${2:bank}, ${3:bags}, ${4:location or slot}, ${5:bag} = EquipmentManager_UnpackLocation(${6:location})$0]]></content>
-	<tabTrigger>_EquipmentManager_UnpackLocation</tabTrigger>
-	<description>(location)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:GameTooltip}:SetTradeTargetItem(${2:index})$0]]></content>
-	<tabTrigger>GameTooltip:SetTradeTargetItem</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

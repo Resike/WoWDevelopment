@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetAddOnCPUUsage("${1:name}")$0]]></content>
-	<tabTrigger>GetAddOnCPUUsage</tabTrigger>
-	<description>("name")</description>
-	<scope>source.lua</scope>
-</snippet>

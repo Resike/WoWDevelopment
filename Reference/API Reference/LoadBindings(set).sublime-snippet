@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LoadBindings(${1:set})$0]]></content>
-	<tabTrigger>LoadBindings</tabTrigger>
-	<description>(set)</description>
-	<scope>source.lua</scope>
-</snippet>

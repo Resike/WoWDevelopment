@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${2:Alpha}:GetChange()$0]]></content>
-	<tabTrigger>Alpha:GetChange</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

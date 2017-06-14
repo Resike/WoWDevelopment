@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CollapseAllFactionHeaders()$0]]></content>
-	<tabTrigger>CollapseAllFactionHeaders</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

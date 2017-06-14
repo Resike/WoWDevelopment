@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CloseTaxiMap()$0]]></content>
-	<tabTrigger>CloseTaxiMap</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CloseGuildRegistrar()$0]]></content>
-	<tabTrigger>CloseGuildRegistrar</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

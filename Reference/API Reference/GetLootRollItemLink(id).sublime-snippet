@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetLootRollItemLink(${1:id})$0]]></content>
-	<tabTrigger>GetLootRollItemLink</tabTrigger>
-	<description>(id)</description>
-	<scope>source.lua</scope>
-</snippet>

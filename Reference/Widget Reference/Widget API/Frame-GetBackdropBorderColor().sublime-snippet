@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${5:Frame}:GetBackdropBorderColor()$0]]></content>
-	<tabTrigger>Frame:GetBackdropBorderColor</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

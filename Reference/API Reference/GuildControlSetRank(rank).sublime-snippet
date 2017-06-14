@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GuildControlSetRank(${1:rank})$0]]></content>
-	<tabTrigger>GuildControlSetRank</tabTrigger>
-	<description>(rank)</description>
-	<scope>source.lua</scope>
-</snippet>

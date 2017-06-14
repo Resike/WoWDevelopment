@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetFont("${3:filename}", ${4:fontHeight}, "${5:flags}")$0]]></content>
-	<tabTrigger>SetFont</tabTrigger>
-	<description>("filename", fontHeight, "flags")</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,0 +1,5261 @@
+{
+	"scope": "source.lua - keyword.control.lua - constant.language.lua - string",
+	"completions": [
+		{
+			"trigger": "AddDoubleLine\t(\"textLeft\", \"textRight\", [rL], [gL], [bL], [rR], [gR], [bR])",
+			"contents": "AddDoubleLine(\"${2:textLeft}\", \"${3:textRight}\", ${4:[rL]}, ${5:[gL]}, ${6:[bL]}, ${7:[rR]}, ${8:[gR]}, ${9:[bR]})$0",
+		},
+		{
+			"trigger": "AddFontStrings\t(left, right)",
+			"contents": "AddFontStrings(${2:left}, ${3:right})$0",
+		},
+		{
+			"trigger": "AddHistoryLine\t(\"text\")",
+			"contents": "AddHistoryLine(\"${2:text}\")$0",
+		},
+		{
+			"trigger": "AddLine\t(\"text\", [red], [green], [blue], [wrap])",
+			"contents": "AddLine(\"${2:text}\", ${3:[red]}, ${4:[green]}, ${5:[blue]}, ${6:[wrap]})$0",
+		},
+		{
+			"trigger": "AddMessage\t(\"text\", [red], [green], [blue], [alpha])",
+			"contents": "AddMessage(\"${2:text}\", ${3:[red]}, ${4:[green]}, ${5:[blue]}, ${6:[alpha]})$0",
+		},
+		{
+			"trigger": "AddMessage\t(\"text\", [red], [green], [blue], [lineID], [addToTop], [accessID], [extraData])",
+			"contents": "AddMessage(\"${2:text}\", ${3:[red]}, ${4:[green]}, ${5:[blue]}, ${6:[lineID]}, ${7:[addToTop]}, ${8:[accessID]}, ${9:[extraData]})$0",
+		},
+		{
+			"trigger": "AddTexture\t(\"texture\")",
+			"contents": "AddTexture(\"${2:texture}\")$0",
+		},
+		{
+			"trigger": "AdvanceTime\t()",
+			"contents": "AdvanceTime()$0",
+		},
+		{
+			"trigger": "AllowAttributeChanges\t()",
+			"contents": "AllowAttributeChanges()$0",
+		},
+		{
+			"trigger": "Alpha:GetChange\t()",
+			"contents": "${2:Alpha}:GetChange()$0",
+		},
+		{
+			"trigger": "Alpha:SetChange\t(change)",
+			"contents": "${1:Alpha}:SetChange(${2:change})$0",
+		},
+		{
+			"trigger": "Animation:GetDuration\t()",
+			"contents": "${2:Animation}:GetDuration()$0",
+		},
+		{
+			"trigger": "Animation:GetElapsed\t()",
+			"contents": "${2:Animation}:GetElapsed()$0",
+		},
+		{
+			"trigger": "Animation:GetEndDelay\t()",
+			"contents": "${2:Animation}:GetEndDelay()$0",
+		},
+		{
+			"trigger": "Animation:GetOrder\t()",
+			"contents": "${2:Animation}:GetOrder()$0",
+		},
+		{
+			"trigger": "Animation:GetProgress\t()",
+			"contents": "${2:Animation}:GetProgress()$0",
+		},
+		{
+			"trigger": "Animation:GetProgressWithDelay\t()",
+			"contents": "${2:Animation}:GetProgressWithDelay()$0",
+		},
+		{
+			"trigger": "Animation:GetRegionParent\t()",
+			"contents": "${2:Animation}:GetRegionParent()$0",
+		},
+		{
+			"trigger": "Animation:GetSmoothing\t()",
+			"contents": "${2:Animation}:GetSmoothing()$0",
+		},
+		{
+			"trigger": "Animation:GetSmoothProgress\t()",
+			"contents": "${2:Animation}:GetSmoothProgress()$0",
+		},
+		{
+			"trigger": "Animation:GetStartDelay\t()",
+			"contents": "${2:Animation}:GetStartDelay()$0",
+		},
+		{
+			"trigger": "Animation:IsDelaying\t()",
+			"contents": "${2:Animation}:IsDelaying()$0",
+		},
+		{
+			"trigger": "Animation:IsDone\t()",
+			"contents": "${2:Animation}:IsDone()$0",
+		},
+		{
+			"trigger": "Animation:IsPaused\t()",
+			"contents": "${2:Animation}:IsPaused()$0",
+		},
+		{
+			"trigger": "Animation:IsPlaying\t()",
+			"contents": "${2:Animation}:IsPlaying()$0",
+		},
+		{
+			"trigger": "Animation:IsStopped\t()",
+			"contents": "${2:Animation}:IsStopped()$0",
+		},
+		{
+			"trigger": "Animation:Pause\t()",
+			"contents": "${1:Animation}:Pause()$0",
+		},
+		{
+			"trigger": "Animation:Play\t()",
+			"contents": "${1:Animation}:Play()$0",
+		},
+		{
+			"trigger": "Animation:SetDuration\t(duration)",
+			"contents": "${1:Animation}:SetDuration(${2:duration})$0",
+		},
+		{
+			"trigger": "Animation:SetEndDelay\t(delay)",
+			"contents": "${1:Animation}:SetEndDelay(${2:delay})$0",
+		},
+		{
+			"trigger": "Animation:SetOrder\t(order)",
+			"contents": "${1:Animation}:SetOrder(${2:order})$0",
+		},
+		{
+			"trigger": "Animation:SetParent\t(animGroup)",
+			"contents": "${1:Animation}:SetParent(${2:animGroup})$0",
+		},
+		{
+			"trigger": "Animation:SetParent\t(\"animGroupName\")",
+			"contents": "${1:Animation}:SetParent(\"${2:animGroupName}\")$0",
+		},
+		{
+			"trigger": "Animation:SetSmoothing\t(\"smoothType\")",
+			"contents": "${1:Animation}:SetSmoothing(\"${2:smoothType}\")$0",
+		},
+		{
+			"trigger": "Animation:SetSmoothProgress\t()",
+			"contents": "${1:Animation}:SetSmoothProgress()$0",
+		},
+		{
+			"trigger": "Animation:SetStartDelay\t(delay)",
+			"contents": "${1:Animation}:SetStartDelay(${2:delay})$0",
+		},
+		{
+			"trigger": "Animation:Stop\t()",
+			"contents": "${1:Animation}:Stop()$0",
+		},
+		{
+			"trigger": "AnimationGroup:CreateAnimation\t(\"animationType\", [\"name\"], [\"inheritsFrom\"])",
+			"contents": "${2:AnimationGroup}:CreateAnimation(\"${3:animationType}\", ${4:[\"name\"]}, ${5:[\"inheritsFrom\"]})$0",
+		},
+		{
+			"trigger": "AnimationGroup:Finish\t()",
+			"contents": "${1:AnimationGroup}:Finish()$0",
+		},
+		{
+			"trigger": "AnimationGroup:GetAnimations\t()",
+			"contents": "${2:AnimationGroup}:GetAnimations()$0",
+		},
+		{
+			"trigger": "AnimationGroup:GetDuration\t()",
+			"contents": "${2:AnimationGroup}:GetDuration()$0",
+		},
+		{
+			"trigger": "AnimationGroup:GetIgnoreFramerateThrottle\t()",
+			"contents": "${1:AnimationGroup}:GetIgnoreFramerateThrottle()$0",
+		},
+		{
+			"trigger": "AnimationGroup:GetInitialOffset\t()",
+			"contents": "${3:AnimationGroup}:GetInitialOffset()$0",
+		},
+		{
+			"trigger": "AnimationGroup:GetLooping\t()",
+			"contents": "${2:AnimationGroup}:GetLooping()$0",
+		},
+		{
+			"trigger": "AnimationGroup:GetLoopState\t()",
+			"contents": "${2:AnimationGroup}:GetLoopState()$0",
+		},
+		{
+			"trigger": "AnimationGroup:GetMaxOrder\t()",
+			"contents": "${2:AnimationGroup}:GetMaxOrder()$0",
+		},
+		{
+			"trigger": "AnimationGroup:GetProgress\t()",
+			"contents": "${2:AnimationGroup}:GetProgress()$0",
+		},
+		{
+			"trigger": "AnimationGroup:IsDone\t()",
+			"contents": "${2:AnimationGroup}:IsDone()$0",
+		},
+		{
+			"trigger": "AnimationGroup:IsPaused\t()",
+			"contents": "${2:AnimationGroup}:IsPaused()$0",
+		},
+		{
+			"trigger": "AnimationGroup:IsPendingFinish\t()",
+			"contents": "${2:AnimationGroup}:IsPendingFinish()$0",
+		},
+		{
+			"trigger": "AnimationGroup:IsPlaying\t()",
+			"contents": "${2:AnimationGroup}:IsPlaying()$0",
+		},
+		{
+			"trigger": "AnimationGroup:Pause\t()",
+			"contents": "${1:AnimationGroup}:Pause()$0",
+		},
+		{
+			"trigger": "AnimationGroup:Play\t()",
+			"contents": "${1:AnimationGroup}:Play()$0",
+		},
+		{
+			"trigger": "AnimationGroup:SetIgnoreFramerateThrottle\t()",
+			"contents": "${1:AnimationGroup}:SetIgnoreFramerateThrottle()$0",
+		},
+		{
+			"trigger": "AnimationGroup:SetInitialOffset\t(x, y)",
+			"contents": "${1:AnimationGroup}:SetInitialOffset(${2:x}, ${3:y})$0",
+		},
+		{
+			"trigger": "AnimationGroup:SetLooping\t(\"loopType\")",
+			"contents": "${1:AnimationGroup}:SetLooping(\"${2:loopType}\")$0",
+		},
+		{
+			"trigger": "AnimationGroup:Stop\t()",
+			"contents": "${1:AnimationGroup}:Stop()$0",
+		},
+		{
+			"trigger": "AppendText\t(\"text\")",
+			"contents": "AppendText(\"${2:text}\")$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:DrawBlob\t(blobId, draw)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:DrawBlob(${2:blobId}, ${3:draw})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:DrawNone\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:DrawNone()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetNumSplinePoints\t(points)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetNumSplinePoints(${2:points})$0",
+		},
+		{
+			"trigger": "AtBottom\t()",
+			"contents": "AtBottom()$0",
+		},
+		{
+			"trigger": "AtTop\t()",
+			"contents": "AtTop()$0",
+		},
+		{
+			"trigger": "Button:Click\t(\"button\", down)",
+			"contents": "${1:Button}:Click(\"${2:button}\", ${3:down})$0",
+		},
+		{
+			"trigger": "Button:Disable\t()",
+			"contents": "${1:Button}:Disable()$0",
+		},
+		{
+			"trigger": "Button:Enable\t()",
+			"contents": "${1:Button}:Enable()$0",
+		},
+		{
+			"trigger": "Button:GetButtonState\t()",
+			"contents": "${2:Button}:GetButtonState()$0",
+		},
+		{
+			"trigger": "Button:GetDisabledFontObject\t()",
+			"contents": "${2:Button}:GetDisabledFontObject()$0",
+		},
+		{
+			"trigger": "Button:GetDisabledTexture\t()",
+			"contents": "${2:Button}:GetDisabledTexture()$0",
+		},
+		{
+			"trigger": "Button:GetFontString\t()",
+			"contents": "${2:Button}:GetFontString()$0",
+		},
+		{
+			"trigger": "Button:GetHighlightFontObject\t()",
+			"contents": "${2:Button}:GetHighlightFontObject()$0",
+		},
+		{
+			"trigger": "Button:GetHighlightTexture\t()",
+			"contents": "${2:Button}:GetHighlightTexture()$0",
+		},
+		{
+			"trigger": "Button:GetMotionScriptsWhileDisabled\t()",
+			"contents": "${2:Button}:GetMotionScriptsWhileDisabled()$0",
+		},
+		{
+			"trigger": "Button:GetNormalFontObject\t()",
+			"contents": "${2:Button}:GetNormalFontObject()$0",
+		},
+		{
+			"trigger": "Button:GetNormalTexture\t()",
+			"contents": "${2:Button}:GetNormalTexture()$0",
+		},
+		{
+			"trigger": "Button:GetPushedTextOffset\t()",
+			"contents": "${3:Button}:GetPushedTextOffset()$0",
+		},
+		{
+			"trigger": "Button:GetPushedTexture\t()",
+			"contents": "${2:Button}:GetPushedTexture()$0",
+		},
+		{
+			"trigger": "Button:GetText\t()",
+			"contents": "${2:Button}:GetText()$0",
+		},
+		{
+			"trigger": "Button:GetTextHeight\t()",
+			"contents": "${2:Button}:GetTextHeight()$0",
+		},
+		{
+			"trigger": "Button:GetTextWidth\t()",
+			"contents": "${2:Button}:GetTextWidth()$0",
+		},
+		{
+			"trigger": "Button:IsEnabled\t()",
+			"contents": "${2:Button}:IsEnabled()$0",
+		},
+		{
+			"trigger": "Button:LockHighlight\t()",
+			"contents": "${1:Button}:LockHighlight()$0",
+		},
+		{
+			"trigger": "Button:RegisterForClicks\t(...)",
+			"contents": "${1:Button}:RegisterForClicks(${2:...})$0",
+		},
+		{
+			"trigger": "Button:SetButtonState\t(\"state\", lock)",
+			"contents": "${1:Button}:SetButtonState(\"${2:state}\", ${3:lock})$0",
+		},
+		{
+			"trigger": "Button:SetDisabledFontObject\t(font)",
+			"contents": "${1:Button}:SetDisabledFontObject(${2:font})$0",
+		},
+		{
+			"trigger": "Button:SetDisabledTexture\t(\"fileName\")",
+			"contents": "${1:Button}:SetDisabledTexture(\"${2:fileName}\")$0",
+		},
+		{
+			"trigger": "Button:SetDisabledTexture\t(texture)",
+			"contents": "${1:Button}:SetDisabledTexture(${2:texture})$0",
+		},
+		{
+			"trigger": "Button:SetFontString\t(fontstring)",
+			"contents": "${1:Button}:SetFontString(${2:fontstring})$0",
+		},
+		{
+			"trigger": "Button:SetFormattedText\t(\"formatString\", ...)",
+			"contents": "${1:Button}:SetFormattedText(\"${2:formatString}\", ${3:...})$0",
+		},
+		{
+			"trigger": "Button:SetHighlightFontObject\t(font)",
+			"contents": "${1:Button}:SetHighlightFontObject(${2:font})$0",
+		},
+		{
+			"trigger": "Button:SetHighlightTexture\t(\"fileName\", [\"mode\"])",
+			"contents": "${1:Button}:SetHighlightTexture(\"${2:fileName}\", ${3:[\"mode\"]})$0",
+		},
+		{
+			"trigger": "Button:SetHighlightTexture\t(texture, [\"mode\"])",
+			"contents": "${1:Button}:SetHighlightTexture(${2:texture}, ${3:[\"mode\"]})$0",
+		},
+		{
+			"trigger": "Button:SetMotionScriptsWhileDisabled\t(enabled)",
+			"contents": "${1:Button}:SetMotionScriptsWhileDisabled(${2:enabled})$0",
+		},
+		{
+			"trigger": "Button:SetNormalFontObject\t(font)",
+			"contents": "${1:Button}:SetNormalFontObject(${2:font})$0",
+		},
+		{
+			"trigger": "Button:SetNormalTexture\t(\"fileName\")",
+			"contents": "${1:Button}:SetNormalTexture(\"${2:fileName}\")$0",
+		},
+		{
+			"trigger": "Button:SetNormalTexture\t(texture)",
+			"contents": "${1:Button}:SetNormalTexture(${2:texture})$0",
+		},
+		{
+			"trigger": "Button:SetPushedTextOffset\t(x, y)",
+			"contents": "${1:Button}:SetPushedTextOffset(${2:x}, ${3:y})$0",
+		},
+		{
+			"trigger": "Button:SetPushedTexture\t(\"fileName\")",
+			"contents": "${1:Button}:SetPushedTexture(\"${2:fileName}\")$0",
+		},
+		{
+			"trigger": "Button:SetPushedTexture\t(texture)",
+			"contents": "${1:Button}:SetPushedTexture(${2:texture})$0",
+		},
+		{
+			"trigger": "Button:SetText\t(\"text\")",
+			"contents": "${1:Button}:SetText(\"${2:text}\")$0",
+		},
+		{
+			"trigger": "Button:UnlockHighlight\t()",
+			"contents": "${1:Button}:UnlockHighlight()$0",
+		},
+		{
+			"trigger": "CanChangeAttribute\t()",
+			"contents": "CanChangeAttribute()$0",
+		},
+		{
+			"trigger": "CanChangeProtectedState\t()",
+			"contents": "CanChangeProtectedState()$0",
+		},
+		{
+			"trigger": "CanNonSpaceWrap\t()",
+			"contents": "CanNonSpaceWrap()$0",
+		},
+		{
+			"trigger": "CanSaveTabardNow\t()",
+			"contents": "CanSaveTabardNow()$0",
+		},
+		{
+			"trigger": "CanWordWrap\t()",
+			"contents": "CanWordWrap()$0",
+		},
+		{
+			"trigger": "CheckButton:GetChecked\t()",
+			"contents": "${2:CheckButton}:GetChecked()$0",
+		},
+		{
+			"trigger": "CheckButton:GetCheckedTexture\t()",
+			"contents": "${2:CheckButton}:GetCheckedTexture()$0",
+		},
+		{
+			"trigger": "CheckButton:GetDisabledCheckedTexture\t()",
+			"contents": "${2:CheckButton}:GetDisabledCheckedTexture()$0",
+		},
+		{
+			"trigger": "CheckButton:SetChecked\t(enable)",
+			"contents": "${1:CheckButton}:SetChecked(${2:enable})$0",
+		},
+		{
+			"trigger": "CheckButton:SetCheckedTexture\t(\"fileName\")",
+			"contents": "${1:CheckButton}:SetCheckedTexture(\"${2:fileName}\")$0",
+		},
+		{
+			"trigger": "CheckButton:SetCheckedTexture\t(texture)",
+			"contents": "${1:CheckButton}:SetCheckedTexture(${2:texture})$0",
+		},
+		{
+			"trigger": "CheckButton:SetDisabledCheckedTexture\t(\"fileName\")",
+			"contents": "${1:CheckButton}:SetDisabledCheckedTexture(\"${2:fileName}\")$0",
+		},
+		{
+			"trigger": "CheckButton:SetDisabledCheckedTexture\t(texture)",
+			"contents": "${1:CheckButton}:SetDisabledCheckedTexture(${2:texture})$0",
+		},
+		{
+			"trigger": "Clear\t()",
+			"contents": "Clear()$0",
+		},
+		{
+			"trigger": "ClearAllPoints\t()",
+			"contents": "ClearAllPoints()$0",
+		},
+		{
+			"trigger": "ClearFocus\t()",
+			"contents": "ClearFocus()$0",
+		},
+		{
+			"trigger": "ClearFog\t()",
+			"contents": "ClearFog()$0",
+		},
+		{
+			"trigger": "ClearHistory\t()",
+			"contents": "ClearHistory()$0",
+		},
+		{
+			"trigger": "ClearLines\t()",
+			"contents": "ClearLines()$0",
+		},
+		{
+			"trigger": "ClearModel\t()",
+			"contents": "ClearModel()$0",
+		},
+		{
+			"trigger": "Click\t(\"button\", down)",
+			"contents": "Click(\"${2:button}\", ${3:down})$0",
+		},
+		{
+			"trigger": "ColorSelect:GetColorHSV\t()",
+			"contents": "${4:ColorSelect}:GetColorHSV()$0",
+		},
+		{
+			"trigger": "ColorSelect:GetColorRGB\t()",
+			"contents": "${4:ColorSelect}:GetColorRGB()$0",
+		},
+		{
+			"trigger": "ColorSelect:GetColorValueTexture\t()",
+			"contents": "${2:ColorSelect}:GetColorValueTexture()$0",
+		},
+		{
+			"trigger": "ColorSelect:GetColorValueThumbTexture\t()",
+			"contents": "${2:ColorSelect}:GetColorValueThumbTexture()$0",
+		},
+		{
+			"trigger": "ColorSelect:GetColorWheelTexture\t()",
+			"contents": "${2:ColorSelect}:GetColorWheelTexture()$0",
+		},
+		{
+			"trigger": "ColorSelect:GetColorWheelThumbTexture\t()",
+			"contents": "${2:ColorSelect}:GetColorWheelThumbTexture()$0",
+		},
+		{
+			"trigger": "ColorSelect:SetColorHSV\t(hue, saturation, value)",
+			"contents": "${1:ColorSelect}:SetColorHSV(${2:hue}, ${3:saturation}, ${4:value})$0",
+		},
+		{
+			"trigger": "ColorSelect:SetColorRGB\t(red, blue, green)",
+			"contents": "${1:ColorSelect}:SetColorRGB(${2:red}, ${3:blue}, ${4:green})$0",
+		},
+		{
+			"trigger": "ColorSelect:SetColorValueTexture\t(texture)",
+			"contents": "${1:ColorSelect}:SetColorValueTexture(${2:texture})$0",
+		},
+		{
+			"trigger": "ColorSelect:SetColorValueThumbTexture\t(\"fileName\")",
+			"contents": "${1:ColorSelect}:SetColorValueThumbTexture(\"${2:fileName}\")$0",
+		},
+		{
+			"trigger": "ColorSelect:SetColorValueThumbTexture\t(texture)",
+			"contents": "${1:ColorSelect}:SetColorValueThumbTexture(${2:texture})$0",
+		},
+		{
+			"trigger": "ColorSelect:SetColorWheelTexture\t(texture)",
+			"contents": "${1:ColorSelect}:SetColorWheelTexture(${2:texture})$0",
+		},
+		{
+			"trigger": "ColorSelect:SetColorWheelThumbTexture\t(\"fileName\")",
+			"contents": "${1:ColorSelect}:SetColorWheelThumbTexture(\"${2:fileName}\")$0",
+		},
+		{
+			"trigger": "ColorSelect:SetColorWheelThumbTexture\t(texture)",
+			"contents": "${1:ColorSelect}:SetColorWheelThumbTexture(${2:texture})$0",
+		},
+		{
+			"trigger": "ControlPoint:GetOffset\t()",
+			"contents": "${3:ControlPoint}:GetOffset()$0",
+		},
+		{
+			"trigger": "ControlPoint:GetOrder\t()",
+			"contents": "${2:ControlPoint}:GetOrder()$0",
+		},
+		{
+			"trigger": "ControlPoint:SetOffset\t(x, y)",
+			"contents": "${1:ControlPoint}:SetOffset(${2:x}, ${3:y})$0",
+		},
+		{
+			"trigger": "ControlPoint:SetOrder\t(order)",
+			"contents": "${1:ControlPoint}:SetOrder(${2:order})$0",
+		},
+		{
+			"trigger": "ControlPoint:SetParent\t([\"path\"], [order])",
+			"contents": "${1:ControlPoint}:SetParent(${2:[\"path\"]}, ${3:[order]})$0",
+		},
+		{
+			"trigger": "ControlPoint:SetParent\t([path], [order])",
+			"contents": "${1:ControlPoint}:SetParent(${2:[path]}, ${3:[order]})$0",
+		},
+		{
+			"trigger": "Cooldown:GetReverse\t()",
+			"contents": "${2:Cooldown}:GetReverse()$0",
+		},
+		{
+			"trigger": "Cooldown:SetCooldown\t(start, duration)",
+			"contents": "${1:Cooldown}:SetCooldown(${2:start}, ${3:duration})$0",
+		},
+		{
+			"trigger": "Cooldown:SetReverse\t(reverse)",
+			"contents": "${1:Cooldown}:SetReverse(${2:reverse})$0",
+		},
+		{
+			"trigger": "CopyFontObject\t(\"name\")",
+			"contents": "CopyFontObject(\"${2:name}\")$0",
+		},
+		{
+			"trigger": "CopyFontObject\t(object)",
+			"contents": "CopyFontObject(${2:object})$0",
+		},
+		{
+			"trigger": "CreateAnimation\t(\"animationType\", [\"name\"], [\"inheritsFrom\"])",
+			"contents": "CreateAnimation(\"${3:animationType}\", ${4:[\"name\"]}, ${5:[\"inheritsFrom\"]})$0",
+		},
+		{
+			"trigger": "CreateAnimationGroup\t([\"name\"], [\"inheritsFrom\"])",
+			"contents": "CreateAnimationGroup(${3:[\"name\"]}, ${4:[\"inheritsFrom\"]})$0",
+		},
+		{
+			"trigger": "CreateControlPoint\t([\"name\"], [\"template\"], [order])",
+			"contents": "CreateControlPoint(${2:[\"name\"]}, ${3:[\"template\"]}, ${4:[order]})$0",
+		},
+		{
+			"trigger": "CreateFontString\t([\"name\"], [\"layer\"], [\"inherits\"])",
+			"contents": "CreateFontString(${3:[\"name\"]}, ${4:[\"layer\"]}, ${5:[\"inherits\"]})$0",
+		},
+		{
+			"trigger": "CreateTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "CreateTexture(${3:[\"name\"]}, ${4:[\"layer\"]}, ${5:[\"inherits\"]}, ${6:[sublevel]})$0",
+		},
+		{
+			"trigger": "CreateTitleRegion\t()",
+			"contents": "CreateTitleRegion()$0",
+		},
+		{
+			"trigger": "CycleVariation\t(variable, delta)",
+			"contents": "CycleVariation(${2:variable}, ${3:delta})$0",
+		},
+		{
+			"trigger": "Disable\t()",
+			"contents": "Disable()$0",
+		},
+		{
+			"trigger": "DisableDrawLayer\t(\"layer\")",
+			"contents": "DisableDrawLayer(\"${2:layer}\")$0",
+		},
+		{
+			"trigger": "DrawBlob\t(blobId, draw)",
+			"contents": "DrawBlob(${2:blobId}, ${3:draw})$0",
+		},
+		{
+			"trigger": "DrawBlob\t(questID, Draw)",
+			"contents": "DrawBlob(${2:questID}, ${3:Draw})$0",
+		},
+		{
+			"trigger": "DrawNone\t()",
+			"contents": "DrawNone()$0",
+		},
+		{
+			"trigger": "Dress\t()",
+			"contents": "Dress()$0",
+		},
+		{
+			"trigger": "DressUpModel:Dress\t()",
+			"contents": "${1:DressUpModel}:Dress()$0",
+		},
+		{
+			"trigger": "DressUpModel:TryOn\t(itemID)",
+			"contents": "${1:DressUpModel}:TryOn(${2:itemID})$0",
+		},
+		{
+			"trigger": "DressUpModel:TryOn\t(\"itemLink\")",
+			"contents": "${1:DressUpModel}:TryOn(\"${2:itemLink}\")$0",
+		},
+		{
+			"trigger": "DressUpModel:TryOn\t(\"itemName\")",
+			"contents": "${1:DressUpModel}:TryOn(\"${2:itemName}\")$0",
+		},
+		{
+			"trigger": "DressUpModel:Undress\t()",
+			"contents": "${1:DressUpModel}:Undress()$0",
+		},
+		{
+			"trigger": "EditBox:AddHistoryLine\t(\"text\")",
+			"contents": "${1:EditBox}:AddHistoryLine(\"${2:text}\")$0",
+		},
+		{
+			"trigger": "EditBox:ClearFocus\t()",
+			"contents": "${1:EditBox}:ClearFocus()$0",
+		},
+		{
+			"trigger": "EditBox:ClearHistory\t()",
+			"contents": "${1:EditBox}:ClearHistory()$0",
+		},
+		{
+			"trigger": "EditBox:Disable\t()",
+			"contents": "${1:EditBox}:Disable()$0",
+		},
+		{
+			"trigger": "EditBox:Enable\t()",
+			"contents": "${1:EditBox}:Enable()$0",
+		},
+		{
+			"trigger": "EditBox:GetAltArrowKeyMode\t()",
+			"contents": "${2:EditBox}:GetAltArrowKeyMode()$0",
+		},
+		{
+			"trigger": "EditBox:GetBlinkSpeed\t()",
+			"contents": "${2:EditBox}:GetBlinkSpeed()$0",
+		},
+		{
+			"trigger": "EditBox:GetCursorPosition\t()",
+			"contents": "${2:EditBox}:GetCursorPosition()$0",
+		},
+		{
+			"trigger": "EditBox:GetHistoryLines\t()",
+			"contents": "${2:EditBox}:GetHistoryLines()$0",
+		},
+		{
+			"trigger": "EditBox:GetHyperlinksEnabled\t()",
+			"contents": "${1:EditBox}:GetHyperlinksEnabled()$0",
+		},
+		{
+			"trigger": "EditBox:GetIndentedWordWrap\t()",
+			"contents": "${2:EditBox}:GetIndentedWordWrap()$0",
+		},
+		{
+			"trigger": "EditBox:GetInputLanguage\t()",
+			"contents": "${2:EditBox}:GetInputLanguage()$0",
+		},
+		{
+			"trigger": "EditBox:GetMaxBytes\t()",
+			"contents": "${2:EditBox}:GetMaxBytes()$0",
+		},
+		{
+			"trigger": "EditBox:GetMaxLetters\t()",
+			"contents": "${2:EditBox}:GetMaxLetters()$0",
+		},
+		{
+			"trigger": "EditBox:GetNumber\t()",
+			"contents": "${2:EditBox}:GetNumber()$0",
+		},
+		{
+			"trigger": "EditBox:GetNumLetters\t()",
+			"contents": "${2:EditBox}:GetNumLetters()$0",
+		},
+		{
+			"trigger": "EditBox:GetText\t()",
+			"contents": "${2:EditBox}:GetText()$0",
+		},
+		{
+			"trigger": "EditBox:GetTextInsets\t()",
+			"contents": "${5:EditBox}:GetTextInsets()$0",
+		},
+		{
+			"trigger": "EditBox:GetUTF8CursorPosition\t()",
+			"contents": "${2:EditBox}:GetUTF8CursorPosition()$0",
+		},
+		{
+			"trigger": "EditBox:HasFocus\t()",
+			"contents": "${2:EditBox}:HasFocus()$0",
+		},
+		{
+			"trigger": "EditBox:HighlightText\t([start], [end])",
+			"contents": "${1:EditBox}:HighlightText(${2:[start]}, ${3:[end]})$0",
+		},
+		{
+			"trigger": "EditBox:Insert\t(\"text\")",
+			"contents": "${1:EditBox}:Insert(\"${2:text}\")$0",
+		},
+		{
+			"trigger": "EditBox:IsAutoFocus\t()",
+			"contents": "${2:EditBox}:IsAutoFocus()$0",
+		},
+		{
+			"trigger": "EditBox:IsCountInvisibleLetters\t()",
+			"contents": "${1:EditBox}:IsCountInvisibleLetters()$0",
+		},
+		{
+			"trigger": "EditBox:IsEnabled\t()",
+			"contents": "${1:EditBox}:IsEnabled()$0",
+		},
+		{
+			"trigger": "EditBox:IsInIMECompositionMode\t()",
+			"contents": "${2:EditBox}:IsInIMECompositionMode()$0",
+		},
+		{
+			"trigger": "EditBox:IsMultiLine\t()",
+			"contents": "${2:EditBox}:IsMultiLine()$0",
+		},
+		{
+			"trigger": "EditBox:IsNumeric\t()",
+			"contents": "${2:EditBox}:IsNumeric()$0",
+		},
+		{
+			"trigger": "EditBox:IsPassword\t()",
+			"contents": "${2:EditBox}:IsPassword()$0",
+		},
+		{
+			"trigger": "EditBox:SetAltArrowKeyMode\t(enable)",
+			"contents": "${1:EditBox}:SetAltArrowKeyMode(${2:enable})$0",
+		},
+		{
+			"trigger": "EditBox:SetAutoFocus\t(enable)",
+			"contents": "${1:EditBox}:SetAutoFocus(${2:enable})$0",
+		},
+		{
+			"trigger": "EditBox:SetBlinkSpeed\t(duration)",
+			"contents": "${1:EditBox}:SetBlinkSpeed(${2:duration})$0",
+		},
+		{
+			"trigger": "EditBox:SetCursorPosition\t(position)",
+			"contents": "${1:EditBox}:SetCursorPosition(${2:position})$0",
+		},
+		{
+			"trigger": "EditBox:SetFocus\t()",
+			"contents": "${1:EditBox}:SetFocus()$0",
+		},
+		{
+			"trigger": "EditBox:SetHistoryLines\t(count)",
+			"contents": "${1:EditBox}:SetHistoryLines(${2:count})$0",
+		},
+		{
+			"trigger": "EditBox:SetIndentedWordWrap\t(indent)",
+			"contents": "${1:EditBox}:SetIndentedWordWrap(${2:indent})$0",
+		},
+		{
+			"trigger": "EditBox:SetMaxBytes\t(maxBytes)",
+			"contents": "${1:EditBox}:SetMaxBytes(${2:maxBytes})$0",
+		},
+		{
+			"trigger": "EditBox:SetMaxLetters\t(maxLetters)",
+			"contents": "${1:EditBox}:SetMaxLetters(${2:maxLetters})$0",
+		},
+		{
+			"trigger": "EditBox:SetMultiLine\t(multiLine)",
+			"contents": "${1:EditBox}:SetMultiLine(${2:multiLine})$0",
+		},
+		{
+			"trigger": "EditBox:SetNumber\t(num)",
+			"contents": "${1:EditBox}:SetNumber(${2:num})$0",
+		},
+		{
+			"trigger": "EditBox:SetNumeric\t(enable)",
+			"contents": "${1:EditBox}:SetNumeric(${2:enable})$0",
+		},
+		{
+			"trigger": "EditBox:SetPassword\t(enable)",
+			"contents": "${1:EditBox}:SetPassword(${2:enable})$0",
+		},
+		{
+			"trigger": "EditBox:SetText\t(\"text\")",
+			"contents": "${1:EditBox}:SetText(\"${2:text}\")$0",
+		},
+		{
+			"trigger": "EditBox:SetTextInsets\t(left, right, top, bottom)",
+			"contents": "${1:EditBox}:SetTextInsets(${2:left}, ${3:right}, ${4:top}, ${5:bottom})$0",
+		},
+		{
+			"trigger": "EditBox:ToggleInputLanguage\t()",
+			"contents": "${1:EditBox}:ToggleInputLanguage()$0",
+		},
+		{
+			"trigger": "Enable\t()",
+			"contents": "Enable()$0",
+		},
+		{
+			"trigger": "EnableDrawLayer\t(\"layer\")",
+			"contents": "EnableDrawLayer(\"${2:layer}\")$0",
+		},
+		{
+			"trigger": "EnableJoystick\t(enable)",
+			"contents": "EnableJoystick(${2:enable})$0",
+		},
+		{
+			"trigger": "EnableKeyboard\t(enable)",
+			"contents": "EnableKeyboard(${2:enable})$0",
+		},
+		{
+			"trigger": "EnableMouse\t(enable)",
+			"contents": "EnableMouse(${2:enable})$0",
+		},
+		{
+			"trigger": "EnableMouseWheel\t(enable)",
+			"contents": "EnableMouseWheel(${2:enable})$0",
+		},
+		{
+			"trigger": "EnableSmoothing\t(enable)",
+			"contents": "EnableSmoothing(${2:enable})$0",
+		},
+		{
+			"trigger": "EnableSubtitles\t(enable)",
+			"contents": "EnableSubtitles(${2:enable})$0",
+		},
+		{
+			"trigger": "FadeOut\t()",
+			"contents": "FadeOut()$0",
+		},
+		{
+			"trigger": "Finish\t()",
+			"contents": "Finish()$0",
+		},
+		{
+			"trigger": "Font:CopyFontObject\t(object)",
+			"contents": "${1:Font}:CopyFontObject(${2:object})$0",
+		},
+		{
+			"trigger": "Font:GetAlpha\t()",
+			"contents": "${2:Font}:GetAlpha()$0",
+		},
+		{
+			"trigger": "Font:SetAlpha\t(alpha)",
+			"contents": "${1:Font}:SetAlpha(${2:alpha})$0",
+		},
+		{
+			"trigger": "Font:CopyFontObject\t(\"name\")",
+			"contents": "${1:Font}:CopyFontObject(\"${2:name}\")$0",
+		},
+		{
+			"trigger": "FontInstance:GetFont\t()",
+			"contents": "${4:FontInstance}:GetFont()$0",
+		},
+		{
+			"trigger": "FontInstance:GetFontObject\t()",
+			"contents": "${2:FontInstance}:GetFontObject()$0",
+		},
+		{
+			"trigger": "FontInstance:GetJustifyH\t()",
+			"contents": "${2:FontInstance}:GetJustifyH()$0",
+		},
+		{
+			"trigger": "FontInstance:GetJustifyV\t()",
+			"contents": "${2:FontInstance}:GetJustifyV()$0",
+		},
+		{
+			"trigger": "FontInstance:GetShadowColor\t()",
+			"contents": "${5:FontInstance}:GetShadowColor()$0",
+		},
+		{
+			"trigger": "FontInstance:GetShadowOffset\t()",
+			"contents": "${3:FontInstance}:GetShadowOffset()$0",
+		},
+		{
+			"trigger": "FontInstance:GetSpacing\t()",
+			"contents": "${2:FontInstance}:GetSpacing()$0",
+		},
+		{
+			"trigger": "FontInstance:GetTextColor\t()",
+			"contents": "${5:FontInstance}:GetTextColor()$0",
+		},
+		{
+			"trigger": "FontInstance:SetFont\t(\"filename\", fontHeight, \"flags\")",
+			"contents": "${2:FontInstance}:SetFont(\"${3:filename}\", ${4:fontHeight}, \"${5:flags}\")$0",
+		},
+		{
+			"trigger": "FontInstance:SetFontObject\t(\"name\")",
+			"contents": "${1:FontInstance}:SetFontObject(\"${2:name}\")$0",
+		},
+		{
+			"trigger": "FontInstance:SetFontObject\t(object)",
+			"contents": "${1:FontInstance}:SetFontObject(${2:object})$0",
+		},
+		{
+			"trigger": "FontInstance:SetJustifyH\t(\"justify\")",
+			"contents": "${1:FontInstance}:SetJustifyH(\"${2:justify}\")$0",
+		},
+		{
+			"trigger": "FontInstance:SetJustifyV\t(\"justify\")",
+			"contents": "${1:FontInstance}:SetJustifyV(\"justify\")$0",
+		},
+		{
+			"trigger": "FontInstance:SetShadowColor\t(shadowRed, shadowGreen, shadowBlue, shadowAlpha)",
+			"contents": "${1:FontInstance}:SetShadowColor(${2:shadowRed}, ${3:shadowGreen}, ${4:shadowBlue}, ${5:shadowAlpha})$0",
+		},
+		{
+			"trigger": "FontInstance:SetShadowOffset\t(xOffset, yOffset)",
+			"contents": "${1:FontInstance}:SetShadowOffset(${2:xOffset}, ${3:yOffset})$0",
+		},
+		{
+			"trigger": "FontInstance:SetSpacing\t(spacing)",
+			"contents": "${1:FontInstance}:SetSpacing(${2:spacing})$0",
+		},
+		{
+			"trigger": "FontInstance:SetTextColor\t(textRed, textGreen, textBlue, textAlpha)",
+			"contents": "${1:FontInstance}:SetTextColor(${2:textRed}, ${3:textGreen}, ${4:textBlue}, ${5:textAlpha})$0",
+		},
+		{
+			"trigger": "FontString:CanNonSpaceWrap\t()",
+			"contents": "${2:FontString}:CanNonSpaceWrap()$0",
+		},
+		{
+			"trigger": "FontString:CanWordWrap\t()",
+			"contents": "${2:FontString}:CanWordWrap()$0",
+		},
+		{
+			"trigger": "FontString:GetStringHeight\t()",
+			"contents": "${2:FontString}:GetStringHeight()$0",
+		},
+		{
+			"trigger": "FontString:GetStringWidth\t()",
+			"contents": "${2:FontString}:GetStringWidth()$0",
+		},
+		{
+			"trigger": "FontString:GetText\t()",
+			"contents": "${2:FontString}:GetText()$0",
+		},
+		{
+			"trigger": "FontString:IsTruncated\t()",
+			"contents": "${1:FontString}:IsTruncated()$0",
+		},
+		{
+			"trigger": "FontString:SetAlphaGradient\t(start, length)",
+			"contents": "${1:FontString}:SetAlphaGradient(${2:start}, ${3:length})$0",
+		},
+		{
+			"trigger": "FontString:SetFormattedText\t(\"formatString\", ...)",
+			"contents": "${1:FontString}:SetFormattedText(\"${2:formatString}\", ${3:...})$0",
+		},
+		{
+			"trigger": "FontString:SetNonSpaceWrap\t(enable)",
+			"contents": "${1:FontString}:SetNonSpaceWrap(${2:enable})$0",
+		},
+		{
+			"trigger": "FontString:SetText\t(\"text\")",
+			"contents": "${1:FontString}:SetText(\"${2:text}\")$0",
+		},
+		{
+			"trigger": "FontString:SetTextHeight\t(height)",
+			"contents": "${1:FontString}:SetTextHeight(${2:height})$0",
+		},
+		{
+			"trigger": "FontString:SetWordWrap\t(enable)",
+			"contents": "${1:FontString}:SetWordWrap(${2:enable})$0",
+		},
+		{
+			"trigger": "Frame:AllowAttributeChanges\t()",
+			"contents": "${1:Frame}:AllowAttributeChanges()$0",
+		},
+		{
+			"trigger": "Frame:CanChangeAttribute\t()",
+			"contents": "${2:Frame}:CanChangeAttribute()$0",
+		},
+		{
+			"trigger": "Frame:CreateFontString\t([\"name\"], [\"layer\"], [\"inherits\"])",
+			"contents": "${2:Frame}:CreateFontString(${3:[\"name\"]}, ${4:[\"layer\"]}, ${5:[\"inherits\"]})$0",
+		},
+		{
+			"trigger": "Frame:CreateTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${2:Frame}:CreateTexture(${3:[\"name\"]}, ${4:[\"layer\"]}, ${5:[\"inherits\"]}, ${6:[sublevel]})$0",
+		},
+		{
+			"trigger": "Frame:CreateTitleRegion\t()",
+			"contents": "${2:Frame}:CreateTitleRegion()$0",
+		},
+		{
+			"trigger": "Frame:DisableDrawLayer\t(\"layer\")",
+			"contents": "${1:Frame}:DisableDrawLayer(\"${2:layer}\")$0",
+		},
+		{
+			"trigger": "Frame:EnableDrawLayer\t(\"layer\")",
+			"contents": "${1:Frame}:EnableDrawLayer(\"${2:layer}\")$0",
+		},
+		{
+			"trigger": "Frame:EnableJoystick\t(enable)",
+			"contents": "${1:Frame}:EnableJoystick(${2:enable})$0",
+		},
+		{
+			"trigger": "Frame:EnableKeyboard\t(enable)",
+			"contents": "${1:Frame}:EnableKeyboard(${2:enable})$0",
+		},
+		{
+			"trigger": "Frame:EnableMouse\t(enable)",
+			"contents": "${1:Frame}:EnableMouse(${2:enable})$0",
+		},
+		{
+			"trigger": "Frame:EnableMouseWheel\t(enable)",
+			"contents": "${1:Frame}:EnableMouseWheel(${2:enable})$0",
+		},
+		{
+			"trigger": "Frame:GetAttribute\t(\"name\")",
+			"contents": "${2:Frame}:GetAttribute(\"${3:name}\")$0",
+		},
+		{
+			"trigger": "Frame:GetBackdrop\t()",
+			"contents": "${2:Frame}:GetBackdrop()$0",
+		},
+		{
+			"trigger": "Frame:GetBackdropBorderColor\t()",
+			"contents": "${5:Frame}:GetBackdropBorderColor()$0",
+		},
+		{
+			"trigger": "Frame:GetBackdropColor\t()",
+			"contents": "${5:Frame}:GetBackdropColor()$0",
+		},
+		{
+			"trigger": "Frame:GetBoundsRect\t()",
+			"contents": "${5:Frame}:GetBoundsRect()$0",
+		},
+		{
+			"trigger": "Frame:GetChildren\t()",
+			"contents": "${2:Frame}:GetChildren()$0",
+		},
+		{
+			"trigger": "Frame:GetClampRectInsets\t()",
+			"contents": "${5:Frame}:GetClampRectInsets()$0",
+		},
+		{
+			"trigger": "Frame:GetDepth\t()",
+			"contents": "${2:Frame}:GetDepth()$0",
+		},
+		{
+			"trigger": "Frame:GetDontSavePosition\t()",
+			"contents": "${1:Frame}:GetDontSavePosition()$0",
+		},
+		{
+			"trigger": "Frame:GetEffectiveAlpha\t()",
+			"contents": "${2:Frame}:GetEffectiveAlpha()$0",
+		},
+		{
+			"trigger": "Frame:GetEffectiveDepth\t()",
+			"contents": "${2:Frame}:GetEffectiveDepth()$0",
+		},
+		{
+			"trigger": "Frame:GetEffectiveScale\t()",
+			"contents": "${2:Frame}:GetEffectiveScale()$0",
+		},
+		{
+			"trigger": "Frame:GetFrameLevel\t()",
+			"contents": "${2:Frame}:GetFrameLevel()$0",
+		},
+		{
+			"trigger": "Frame:GetFrameStrata\t()",
+			"contents": "${2:Frame}:GetFrameStrata()$0",
+		},
+		{
+			"trigger": "Frame:GetHitRectInsets\t()",
+			"contents": "${5:Frame}:GetHitRectInsets()$0",
+		},
+		{
+			"trigger": "Frame:GetID\t()",
+			"contents": "${2:Frame}:GetID()$0",
+		},
+		{
+			"trigger": "Frame:GetMaxResize\t()",
+			"contents": "${3:Frame}:GetMaxResize()$0",
+		},
+		{
+			"trigger": "Frame:GetMinResize\t()",
+			"contents": "${3:Frame}:GetMinResize()$0",
+		},
+		{
+			"trigger": "Frame:GetNumChildren\t()",
+			"contents": "${2:Frame}:GetNumChildren()$0",
+		},
+		{
+			"trigger": "Frame:GetNumRegions\t()",
+			"contents": "${2:Frame}:GetNumRegions()$0",
+		},
+		{
+			"trigger": "Frame:GetPropagateKeyboardInput\t()",
+			"contents": "${1:Frame}:GetPropagateKeyboardInput()$0",
+		},
+		{
+			"trigger": "Frame:GetRegions\t()",
+			"contents": "${2:Frame}:GetRegions()$0",
+		},
+		{
+			"trigger": "Frame:GetScale\t()",
+			"contents": "${2:Frame}:GetScale()$0",
+		},
+		{
+			"trigger": "Frame:GetTitleRegion\t()",
+			"contents": "${2:Frame}:GetTitleRegion()$0",
+		},
+		{
+			"trigger": "Frame:IgnoreDepth\t(enable)",
+			"contents": "${1:Frame}:IgnoreDepth(${2:enable})$0",
+		},
+		{
+			"trigger": "Frame:IsClampedToScreen\t()",
+			"contents": "${2:Frame}:IsClampedToScreen()$0",
+		},
+		{
+			"trigger": "Frame:IsEventRegistered\t(\"event\")",
+			"contents": "${2:Frame}:IsEventRegistered(\"${3:event}\")$0",
+		},
+		{
+			"trigger": "Frame:IsIgnoringDepth\t()",
+			"contents": "${2:Frame}:IsIgnoringDepth()$0",
+		},
+		{
+			"trigger": "Frame:IsJoystickEnabled\t()",
+			"contents": "${2:Frame}:IsJoystickEnabled()$0",
+		},
+		{
+			"trigger": "Frame:IsKeyboardEnabled\t()",
+			"contents": "${2:Frame}:IsKeyboardEnabled()$0",
+		},
+		{
+			"trigger": "Frame:IsMouseEnabled\t()",
+			"contents": "${2:Frame}:IsMouseEnabled()$0",
+		},
+		{
+			"trigger": "Frame:IsMouseWheelEnabled\t()",
+			"contents": "${2:Frame}:IsMouseWheelEnabled()$0",
+		},
+		{
+			"trigger": "Frame:IsMovable\t()",
+			"contents": "${2:Frame}:IsMovable()$0",
+		},
+		{
+			"trigger": "Frame:IsResizable\t()",
+			"contents": "${2:Frame}:IsResizable()$0",
+		},
+		{
+			"trigger": "Frame:IsToplevel\t()",
+			"contents": "${2:Frame}:IsToplevel()$0",
+		},
+		{
+			"trigger": "Frame:IsUserPlaced\t()",
+			"contents": "${2:Frame}:IsUserPlaced()$0",
+		},
+		{
+			"trigger": "Frame:Lower\t()",
+			"contents": "${1:Frame}:Lower()$0",
+		},
+		{
+			"trigger": "Frame:Raise\t()",
+			"contents": "${1:Frame}:Raise()$0",
+		},
+		{
+			"trigger": "Frame:RegisterAllEvents\t()",
+			"contents": "${1:Frame}:RegisterAllEvents()$0",
+		},
+		{
+			"trigger": "Frame:RegisterEvent\t(\"event\")",
+			"contents": "${1:Frame}:RegisterEvent(\"${2:event}\")$0",
+		},
+		{
+			"trigger": "Frame:RegisterForDrag\t(...)",
+			"contents": "${1:Frame}:RegisterForDrag(${2:...})$0",
+		},
+		{
+			"trigger": "Frame:SetAttribute\t(\"name\", value)",
+			"contents": "${1:Frame}:SetAttribute(\"${2:name}\", ${3:value})$0",
+		},
+		{
+			"trigger": "Frame:SetBackdrop\t(backdrop)",
+			"contents": "${1:Frame}:SetBackdrop(${2:backdrop})$0",
+		},
+		{
+			"trigger": "Frame:SetBackdropBorderColor\t(red, green, blue, [alpha])",
+			"contents": "${1:Frame}:SetBackdropBorderColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+		},
+		{
+			"trigger": "Frame:SetBackdropColor\t(red, green, blue, [alpha])",
+			"contents": "${1:Frame}:SetBackdropColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+		},
+		{
+			"trigger": "Frame:SetClampedToScreen\t(enable)",
+			"contents": "${1:Frame}:SetClampedToScreen(${2:enable})$0",
+		},
+		{
+			"trigger": "Frame:SetClampRectInsets\t(left, right, top, bottom)",
+			"contents": "${1:Frame}:SetClampRectInsets(${2:left}, ${3:right}, ${4:top}, ${5:bottom})$0",
+		},
+		{
+			"trigger": "Frame:SetDepth\t(depth)",
+			"contents": "${1:Frame}:SetDepth(${2:depth})$0",
+		},
+		{
+			"trigger": "Frame:SetFrameLevel\t(level)",
+			"contents": "${1:Frame}:SetFrameLevel(${2:level})$0",
+		},
+		{
+			"trigger": "Frame:SetFrameStrata\t(\"strata\")",
+			"contents": "${1:Frame}:SetFrameStrata(\"${2:strata}\")$0",
+		},
+		{
+			"trigger": "Frame:SetHitRectInsets\t(left, right, top, bottom)",
+			"contents": "${1:Frame}:SetHitRectInsets(${2:left}, ${3:right}, ${4:top}, ${5:bottom})$0",
+		},
+		{
+			"trigger": "Frame:SetID\t(id)",
+			"contents": "${1:Frame}:SetID(${2:id})$0",
+		},
+		{
+			"trigger": "Frame:SetMaxResize\t(maxWidth, maxHeight)",
+			"contents": "${1:Frame}:SetMaxResize(${2:maxWidth}, ${3:maxHeight})$0",
+		},
+		{
+			"trigger": "Frame:SetMinResize\t(minWidth, minHeight)",
+			"contents": "${1:Frame}:SetMinResize(${2:minWidth}, ${3:minHeight})$0",
+		},
+		{
+			"trigger": "Frame:SetMovable\t(enable)",
+			"contents": "${1:Frame}:SetMovable(${2:enable})$0",
+		},
+		{
+			"trigger": "Frame:SetResizable\t(enable)",
+			"contents": "${1:Frame}:SetResizable(${2:enable})$0",
+		},
+		{
+			"trigger": "Frame:SetScale\t(scale)",
+			"contents": "${1:Frame}:SetScale(${2:scale})$0",
+		},
+		{
+			"trigger": "Frame:SetToplevel\t(enable)",
+			"contents": "${1:Frame}:SetToplevel(${2:enable})$0",
+		},
+		{
+			"trigger": "Frame:SetUserPlaced\t(enable)",
+			"contents": "${1:Frame}:SetUserPlaced(${2:enable})$0",
+		},
+		{
+			"trigger": "Frame:StartMoving\t()",
+			"contents": "${1:Frame}:StartMoving()$0",
+		},
+		{
+			"trigger": "Frame:StartSizing\t()",
+			"contents": "${1:Frame}:StartSizing()$0",
+		},
+		{
+			"trigger": "Frame:StopMovingOrSizing\t()",
+			"contents": "${1:Frame}:StopMovingOrSizing()$0",
+		},
+		{
+			"trigger": "Frame:UnregisterAllEvents\t()",
+			"contents": "${1:Frame}:UnregisterAllEvents()$0",
+		},
+		{
+			"trigger": "Frame:UnregisterEvent\t(\"event\")",
+			"contents": "${1:Frame}:UnregisterEvent(\"${2:event}\")$0",
+		},
+		{
+			"trigger": "GameTooltip:AddDoubleLine\t(\"textLeft\", \"textRight\", [rL], [gL], [bL], [rR], [gR], [bR])",
+			"contents": "${1:GameTooltip}:AddDoubleLine(\"${2:textLeft}\", \"${3:textRight}\", ${4:[rL]}, ${5:[gL]}, ${6:[bL]}, ${7:[rR]}, ${8:[gR]}, ${9:[bR]})$0",
+		},
+		{
+			"trigger": "GameTooltip:AddFontStrings\t(left, right)",
+			"contents": "${1:GameTooltip}:AddFontStrings(${2:left}, ${3:right})$0",
+		},
+		{
+			"trigger": "GameTooltip:AddLine\t(\"text\", [red], [green], [blue], [wrap])",
+			"contents": "${1:GameTooltip}:AddLine(\"${2:text}\", ${3:[red]}, ${4:[green]}, ${5:[blue]}, ${6:[wrap]})$0",
+		},
+		{
+			"trigger": "GameTooltip:AddTexture\t(\"texture\")",
+			"contents": "${1:GameTooltip}:AddTexture(\"${2:texture}\")$0",
+		},
+		{
+			"trigger": "GameTooltip:AppendText\t(\"text\")",
+			"contents": "${1:GameTooltip}:AppendText(\"${2:text}\")$0",
+		},
+		{
+			"trigger": "GameTooltip:ClearLines\t()",
+			"contents": "${1:GameTooltip}:ClearLines()$0",
+		},
+		{
+			"trigger": "GameTooltip:FadeOut\t()",
+			"contents": "${1:GameTooltip}:FadeOut()$0",
+		},
+		{
+			"trigger": "GameTooltip:GetAnchorType\t()",
+			"contents": "${2:GameTooltip}:GetAnchorType()$0",
+		},
+		{
+			"trigger": "GameTooltip:GetItem\t()",
+			"contents": "${3:GameTooltip}:GetItem()$0",
+		},
+		{
+			"trigger": "GameTooltip:GetMinimumWidth\t()",
+			"contents": "${2:GameTooltip}:GetMinimumWidth()$0",
+		},
+		{
+			"trigger": "GameTooltip:GetOwner\t()",
+			"contents": "${2:GameTooltip}:GetOwner()$0",
+		},
+		{
+			"trigger": "GameTooltip:GetPadding\t()",
+			"contents": "${2:GameTooltip}:GetPadding()$0",
+		},
+		{
+			"trigger": "GameTooltip:GetSpell\t()",
+			"contents": "${4:GameTooltip}:GetSpell()$0",
+		},
+		{
+			"trigger": "GameTooltip:GetUnit\t()",
+			"contents": "${3:GameTooltip}:GetUnit()$0",
+		},
+		{
+			"trigger": "GameTooltip:IsEquippedItem\t()",
+			"contents": "${2:GameTooltip}:IsEquippedItem()$0",
+		},
+		{
+			"trigger": "GameTooltip:IsOwned\t()",
+			"contents": "${2:GameTooltip}:IsOwned()$0",
+		},
+		{
+			"trigger": "GameTooltip:IsUnit\t(\"unit\")",
+			"contents": "${2:GameTooltip}:IsUnit(\"${3:unit}\")$0",
+		},
+		{
+			"trigger": "GameTooltip:NumLines\t()",
+			"contents": "${2:GameTooltip}:NumLines()$0",
+		},
+		{
+			"trigger": "GameTooltip:SetAction\t(slot)",
+			"contents": "${1:GameTooltip}:SetAction(${2:slot})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetAnchorType\t(\"anchor\", [xOffset], [yOffset])",
+			"contents": "${1:GameTooltip}:SetAnchorType(\"${2:anchor}\", ${3:[xOffset]}, ${4:[yOffset]})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetAuctionItem\t(\"list\", index)",
+			"contents": "${1:GameTooltip}:SetAuctionItem(\"${2:list}\", ${3:index})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetAuctionSellItem\t()",
+			"contents": "${9:GameTooltip}:SetAuctionSellItem()$0",
+		},
+		{
+			"trigger": "GameTooltip:SetBackpackToken\t(index)",
+			"contents": "${1:GameTooltip}:SetBackpackToken(${2:index})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetBagItem\t(container, slot)",
+			"contents": "${3:GameTooltip}:SetBagItem(${4:container}, ${5:slot})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetBuybackItem\t(index)",
+			"contents": "${1:GameTooltip}:SetBuybackItem(${2:index})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetCurrencyByID\t(currencyID)",
+			"contents": "${1:GameTooltip}:SetCurrencyByID(${2:currencyID})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetCurrencyToken\t(index)",
+			"contents": "${1:GameTooltip}:SetCurrencyToken(${2:index})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetEquipmentSet\t(\"name\")",
+			"contents": "${1:GameTooltip}:SetEquipmentSet(\"${2:name}\")$0",
+		},
+		{
+			"trigger": "GameTooltip:SetExistingSocketGem\t(index, toDestroy)",
+			"contents": "${1:GameTooltip}:SetExistingSocketGem(${2:index}, ${3:toDestroy})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetFrameStack\t(includeHidden)",
+			"contents": "${1:GameTooltip}:SetFrameStack(${2:includeHidden})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetGlyph\t(socket, talentGroup)",
+			"contents": "${1:GameTooltip}:SetGlyph(${2:socket}, ${3:talentGroup})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetGuildBankItem\t(tab, slot)",
+			"contents": "${1:GameTooltip}:SetGuildBankItem(${2:tab}, ${3:slot})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetHyperlink\t(\"hyperlink\")",
+			"contents": "${1:GameTooltip}:SetHyperlink(\"${2:hyperlink}\")$0",
+		},
+		{
+			"trigger": "GameTooltip:SetHyperlink\t(hyperlink)",
+			"contents": "${1:GameTooltip}:SetHyperlink(${2:hyperlink})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetHyperlinkCompareItem\t(\"hyperlink\", [index])",
+			"contents": "${2:GameTooltip}:SetHyperlinkCompareItem(\"${3:hyperlink}\", ${4:[index]})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetInboxItem\t(mailID, attachmentIndex)",
+			"contents": "${1:GameTooltip}:SetInboxItem(${2:mailID}, ${3:attachmentIndex})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetInventoryItem\t(\"unit\", slot, [nameOnly])",
+			"contents": "${4:GameTooltip}:SetInventoryItem(\"${5:unit}\", ${6:slot}, ${7:[nameOnly]})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetLootItem\t(slot)",
+			"contents": "${1:GameTooltip}:SetLootItem(${2:slot})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetLootRollItem\t(id)",
+			"contents": "${1:GameTooltip}:SetLootRollItem(${2:id})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetMerchantCostItem\t(index, currency)",
+			"contents": "${1:GameTooltip}:SetMerchantCostItem(${2:index}, ${3:currency})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetMerchantItem\t(merchantIndex)",
+			"contents": "${1:GameTooltip}:SetMerchantItem(${2:merchantIndex})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetMinimumWidth\t(width)",
+			"contents": "${1:GameTooltip}:SetMinimumWidth(${2:width})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetOwner\t(frame, [\"anchorType\"], [xOffset], [yOffset])",
+			"contents": "${1:GameTooltip}:SetOwner(${2:frame}, ${3:[\"anchorType\"]}, ${4:[xOffset]}, ${5:[yOffset]})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetPadding\t(padding)",
+			"contents": "${1:GameTooltip}:SetPadding(${2:padding})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetPetAction\t(index)",
+			"contents": "${1:GameTooltip}:SetPetAction(${2:index})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetPossession\t(index)",
+			"contents": "${1:GameTooltip}:SetPossession(${2:index})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetQuestItem\t(\"itemType\", index)",
+			"contents": "${1:GameTooltip}:SetQuestItem(\"${2:itemType}\", ${3:index})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetQuestLogItem\t(\"itemType\", index)",
+			"contents": "${1:GameTooltip}:SetQuestLogItem(\"${2:itemType}\", ${3:index})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetQuestLogRewardSpell\t()",
+			"contents": "${1:GameTooltip}:SetQuestLogRewardSpell()$0",
+		},
+		{
+			"trigger": "GameTooltip:SetQuestLogSpecialItem\t(questIndex)",
+			"contents": "${1:GameTooltip}:SetQuestLogSpecialItem(${2:questIndex})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetQuestRewardSpell\t()",
+			"contents": "${1:GameTooltip}:SetQuestRewardSpell()$0",
+		},
+		{
+			"trigger": "GameTooltip:SetSendMailItem\t(slot)",
+			"contents": "${1:GameTooltip}:SetSendMailItem(${2:slot})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetShapeshift\t(index)",
+			"contents": "${1:GameTooltip}:SetShapeshift(${2:index})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetSocketedItem\t()",
+			"contents": "${1:GameTooltip}:SetSocketedItem()$0",
+		},
+		{
+			"trigger": "GameTooltip:SetSocketGem\t(index)",
+			"contents": "${1:GameTooltip}:SetSocketGem(${2:index})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetSpellByID\t(id)",
+			"contents": "${1:GameTooltip}:SetSpellByID(${2:id})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetTalent\t(tabIndex, talentIndex, inspect, pet, talentGroup)",
+			"contents": "${1:GameTooltip}:SetTalent(${2:tabIndex}, ${3:talentIndex}, ${4:inspect}, ${5:pet}, ${6:talentGroup})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetText\t(\"text\", [red], [green], [blue], [alpha])",
+			"contents": "${1:GameTooltip}:SetText(\"${2:text}\", ${3:[red]}, ${4:[green]}, ${5:[blue]}, ${6:[alpha]})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetTotem\t(slot)",
+			"contents": "${1:GameTooltip}:SetTotem(${2:slot})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetTradePlayerItem\t(index)",
+			"contents": "${1:GameTooltip}:SetTradePlayerItem(${2:index})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetTradeSkillItem\t(skillIndex, [reagentIndex])",
+			"contents": "${1:GameTooltip}:SetTradeSkillItem(${2:skillIndex}, ${3:[reagentIndex]})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetTradeTargetItem\t(index)",
+			"contents": "${1:GameTooltip}:SetTradeTargetItem(${2:index})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetTrainerService\t(index)",
+			"contents": "${1:GameTooltip}:SetTrainerService(${2:index})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetUnit\t(\"unit\")",
+			"contents": "${1:GameTooltip}:SetUnit(\"${2:unit}\")$0",
+		},
+		{
+			"trigger": "GameTooltip:SetUnitAura\t(\"unit\", index, [\"filter\"])",
+			"contents": "${1:GameTooltip}:SetUnitAura(\"${2:unit}\", ${3:index}, ${4:[\"filter\"]})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetUnitBuff\t(\"unit\", index, [\"filter\"])",
+			"contents": "${1:GameTooltip}:SetUnitBuff(\"${2:unit}\", ${3:index}, ${4:[\"filter\"]})$0",
+		},
+		{
+			"trigger": "GameTooltip:SetUnitDebuff\t(\"unit\", index, [\"filter\"])",
+			"contents": "${1:GameTooltip}:SetUnitDebuff(\"${2:unit}\", ${3:index}, ${4:[\"filter\"]})$0",
+		},
+		{
+			"trigger": "GetAlpha\t()",
+			"contents": "GetAlpha()$0",
+		},
+		{
+			"trigger": "GetAltArrowKeyMode\t()",
+			"contents": "GetAltArrowKeyMode()$0",
+		},
+		{
+			"trigger": "GetAnchorType\t()",
+			"contents": "GetAnchorType()$0",
+		},
+		{
+			"trigger": "GetAnimationGroups\t()",
+			"contents": "GetAnimationGroups()$0",
+		},
+		{
+			"trigger": "GetAnimations\t()",
+			"contents": "GetAnimations()$0",
+		},
+		{
+			"trigger": "GetAttribute\t(\"name\")",
+			"contents": "GetAttribute(\"${3:name}\")$0",
+		},
+		{
+			"trigger": "GetBackdrop\t()",
+			"contents": "GetBackdrop()$0",
+		},
+		{
+			"trigger": "GetBackdropBorderColor\t()",
+			"contents": "GetBackdropBorderColor()$0",
+		},
+		{
+			"trigger": "GetBackdropColor\t()",
+			"contents": "GetBackdropColor()$0",
+		},
+		{
+			"trigger": "GetBlendMode\t()",
+			"contents": "GetBlendMode()$0",
+		},
+		{
+			"trigger": "GetBlinkSpeed\t()",
+			"contents": "GetBlinkSpeed()$0",
+		},
+		{
+			"trigger": "GetBottom\t()",
+			"contents": "GetBottom()$0",
+		},
+		{
+			"trigger": "GetBoundsRect\t()",
+			"contents": "GetBoundsRect()$0",
+		},
+		{
+			"trigger": "GetButtonState\t()",
+			"contents": "GetButtonState()$0",
+		},
+		{
+			"trigger": "GetCenter\t()",
+			"contents": "GetCenter()$0",
+		},
+		{
+			"trigger": "GetChange\t()",
+			"contents": "GetChange()$0",
+		},
+		{
+			"trigger": "GetChecked\t()",
+			"contents": "GetChecked()$0",
+		},
+		{
+			"trigger": "GetCheckedTexture\t()",
+			"contents": "GetCheckedTexture()$0",
+		},
+		{
+			"trigger": "GetChildren\t()",
+			"contents": "GetChildren()$0",
+		},
+		{
+			"trigger": "GetClampRectInsets\t()",
+			"contents": "GetClampRectInsets()$0",
+		},
+		{
+			"trigger": "GetColorHSV\t()",
+			"contents": "GetColorHSV()$0",
+		},
+		{
+			"trigger": "GetColorRGB\t()",
+			"contents": "GetColorRGB()$0",
+		},
+		{
+			"trigger": "GetColorValueTexture\t()",
+			"contents": "GetColorValueTexture()$0",
+		},
+		{
+			"trigger": "GetColorValueThumbTexture\t()",
+			"contents": "GetColorValueThumbTexture()$0",
+		},
+		{
+			"trigger": "GetColorWheelTexture\t()",
+			"contents": "GetColorWheelTexture()$0",
+		},
+		{
+			"trigger": "GetColorWheelThumbTexture\t()",
+			"contents": "GetColorWheelThumbTexture()$0",
+		},
+		{
+			"trigger": "GetControlPoints\t()",
+			"contents": "GetControlPoints()$0",
+		},
+		{
+			"trigger": "GetCurrentLine\t()",
+			"contents": "GetCurrentLine()$0",
+		},
+		{
+			"trigger": "GetCurrentScroll\t()",
+			"contents": "GetCurrentScroll()$0",
+		},
+		{
+			"trigger": "GetCursorPosition\t()",
+			"contents": "GetCursorPosition()$0",
+		},
+		{
+			"trigger": "GetCurve\t()",
+			"contents": "GetCurve()$0",
+		},
+		{
+			"trigger": "GetDegrees\t()",
+			"contents": "GetDegrees()$0",
+		},
+		{
+			"trigger": "GetDepth\t()",
+			"contents": "GetDepth()$0",
+		},
+		{
+			"trigger": "GetDisabledCheckedTexture\t()",
+			"contents": "GetDisabledCheckedTexture()$0",
+		},
+		{
+			"trigger": "GetDisabledFontObject\t()",
+			"contents": "GetDisabledFontObject()$0",
+		},
+		{
+			"trigger": "GetDisabledTexture\t()",
+			"contents": "GetDisabledTexture()$0",
+		},
+		{
+			"trigger": "GetDontSavePosition\t()",
+			"contents": "GetDontSavePosition()$0",
+		},
+		{
+			"trigger": "GetDrawLayer\t()",
+			"contents": "GetDrawLayer()$0",
+		},
+		{
+			"trigger": "GetDuration\t()",
+			"contents": "GetDuration()$0",
+		},
+		{
+			"trigger": "GetEffectiveAlpha\t()",
+			"contents": "GetEffectiveAlpha()$0",
+		},
+		{
+			"trigger": "GetEffectiveDepth\t()",
+			"contents": "GetEffectiveDepth()$0",
+		},
+		{
+			"trigger": "GetEffectiveScale\t()",
+			"contents": "GetEffectiveScale()$0",
+		},
+		{
+			"trigger": "GetElapsed\t()",
+			"contents": "GetElapsed()$0",
+		},
+		{
+			"trigger": "GetEndDelay\t()",
+			"contents": "GetEndDelay()$0",
+		},
+		{
+			"trigger": "GetFacing\t()",
+			"contents": "GetFacing()$0",
+		},
+		{
+			"trigger": "GetFadeDuration\t()",
+			"contents": "GetFadeDuration()$0",
+		},
+		{
+			"trigger": "GetFading\t()",
+			"contents": "GetFading()$0",
+		},
+		{
+			"trigger": "GetFogColor\t()",
+			"contents": "GetFogColor()$0",
+		},
+		{
+			"trigger": "GetFogFar\t()",
+			"contents": "GetFogFar()$0",
+		},
+		{
+			"trigger": "GetFogNear\t()",
+			"contents": "GetFogNear()$0",
+		},
+		{
+			"trigger": "GetFont\t()",
+			"contents": "GetFont()$0",
+		},
+		{
+			"trigger": "GetFontObject\t()",
+			"contents": "GetFontObject()$0",
+		},
+		{
+			"trigger": "GetFontString\t()",
+			"contents": "GetFontString()$0",
+		},
+		{
+			"trigger": "GetFrameLevel\t()",
+			"contents": "GetFrameLevel()$0",
+		},
+		{
+			"trigger": "GetFrameStrata\t()",
+			"contents": "GetFrameStrata()$0",
+		},
+		{
+			"trigger": "GetHeight\t()",
+			"contents": "GetHeight()$0",
+		},
+		{
+			"trigger": "GetHighlightFontObject\t()",
+			"contents": "GetHighlightFontObject()$0",
+		},
+		{
+			"trigger": "GetHighlightTexture\t()",
+			"contents": "GetHighlightTexture()$0",
+		},
+		{
+			"trigger": "GetHistoryLines\t()",
+			"contents": "GetHistoryLines()$0",
+		},
+		{
+			"trigger": "GetHitRectInsets\t()",
+			"contents": "GetHitRectInsets()$0",
+		},
+		{
+			"trigger": "GetHorizontalScroll\t()",
+			"contents": "GetHorizontalScroll()$0",
+		},
+		{
+			"trigger": "GetHorizontalScrollRange\t()",
+			"contents": "GetHorizontalScrollRange()$0",
+		},
+		{
+			"trigger": "GetHyperlinksEnabled\t()",
+			"contents": "GetHyperlinksEnabled()$0",
+		},
+		{
+			"trigger": "GetID\t()",
+			"contents": "GetID()$0",
+		},
+		{
+			"trigger": "GetIgnoreFramerateThrottle\t()",
+			"contents": "GetIgnoreFramerateThrottle()$0",
+		},
+		{
+			"trigger": "GetIndentedWordWrap\t()",
+			"contents": "GetIndentedWordWrap()$0",
+		},
+		{
+			"trigger": "GetInitialOffset\t()",
+			"contents": "GetInitialOffset()$0",
+		},
+		{
+			"trigger": "GetInputLanguage\t()",
+			"contents": "GetInputLanguage()$0",
+		},
+		{
+			"trigger": "GetInsertMode\t()",
+			"contents": "GetInsertMode()$0",
+		},
+		{
+			"trigger": "GetItem\t()",
+			"contents": "GetItem()$0",
+		},
+		{
+			"trigger": "GetJustifyH\t()",
+			"contents": "GetJustifyH()$0",
+		},
+		{
+			"trigger": "GetJustifyV\t()",
+			"contents": "GetJustifyV()$0",
+		},
+		{
+			"trigger": "GetLeft\t()",
+			"contents": "GetLeft()$0",
+		},
+		{
+			"trigger": "GetLight\t()",
+			"contents": "GetLight()$0",
+		},
+		{
+			"trigger": "GetLooping\t()",
+			"contents": "GetLooping()$0",
+		},
+		{
+			"trigger": "GetLoopState\t()",
+			"contents": "GetLoopState()$0",
+		},
+		{
+			"trigger": "GetLowerBackgroundFileName\t(\"fileName\")",
+			"contents": "GetLowerBackgroundFileName(\"${2:fileName}\")$0",
+		},
+		{
+			"trigger": "GetLowerEmblemFileName\t(\"fileName\")",
+			"contents": "GetLowerEmblemFileName(\"${2:fileName}\")$0",
+		},
+		{
+			"trigger": "GetLowerEmblemTexture\t(texture)",
+			"contents": "GetLowerEmblemTexture(${2:texture})$0",
+		},
+		{
+			"trigger": "GetMaxBytes\t()",
+			"contents": "GetMaxBytes()$0",
+		},
+		{
+			"trigger": "GetMaxLetters\t()",
+			"contents": "GetMaxLetters()$0",
+		},
+		{
+			"trigger": "GetMaxLines\t(maxLines)",
+			"contents": "GetMaxLines(${2:maxLines})$0",
+		},
+		{
+			"trigger": "GetMaxOrder\t()",
+			"contents": "GetMaxOrder()$0",
+		},
+		{
+			"trigger": "GetMaxResize\t()",
+			"contents": "GetMaxResize()$0",
+		},
+		{
+			"trigger": "GetMessageInfo\t(index, [accessID])",
+			"contents": "GetMessageInfo(${6:index}, ${7:[accessID]})$0",
+		},
+		{
+			"trigger": "GetMinimumWidth\t()",
+			"contents": "GetMinimumWidth()$0",
+		},
+		{
+			"trigger": "GetMinMaxValues\t()",
+			"contents": "GetMinMaxValues()$0",
+		},
+		{
+			"trigger": "GetMinResize\t()",
+			"contents": "GetMinResize()$0",
+		},
+		{
+			"trigger": "GetModel\t()",
+			"contents": "GetModel()$0",
+		},
+		{
+			"trigger": "GetModelScale\t()",
+			"contents": "GetModelScale()$0",
+		},
+		{
+			"trigger": "GetMotionScriptsWhileDisabled\t()",
+			"contents": "GetMotionScriptsWhileDisabled()$0",
+		},
+		{
+			"trigger": "GetName\t()",
+			"contents": "GetName()$0",
+		},
+		{
+			"trigger": "GetNonBlocking\t()",
+			"contents": "GetNonBlocking()$0",
+		},
+		{
+			"trigger": "GetNormalFontObject\t()",
+			"contents": "GetNormalFontObject()$0",
+		},
+		{
+			"trigger": "GetNormalTexture\t()",
+			"contents": "GetNormalTexture()$0",
+		},
+		{
+			"trigger": "GetNumber\t()",
+			"contents": "GetNumber()$0",
+		},
+		{
+			"trigger": "GetNumChildren\t()",
+			"contents": "GetNumChildren()$0",
+		},
+		{
+			"trigger": "GetNumLetters\t()",
+			"contents": "GetNumLetters()$0",
+		},
+		{
+			"trigger": "GetNumLinesDisplayed\t()",
+			"contents": "GetNumLinesDisplayed()$0",
+		},
+		{
+			"trigger": "GetNumMessages\t([accessID])",
+			"contents": "GetNumMessages(${3:[accessID]})$0",
+		},
+		{
+			"trigger": "GetNumPoints\t()",
+			"contents": "GetNumPoints()$0",
+		},
+		{
+			"trigger": "GetNumRegions\t()",
+			"contents": "GetNumRegions()$0",
+		},
+		{
+			"trigger": "GetObjectType\t()",
+			"contents": "GetObjectType()$0",
+		},
+		{
+			"trigger": "GetOffset\t()",
+			"contents": "GetOffset()$0",
+		},
+		{
+			"trigger": "GetOrder\t()",
+			"contents": "GetOrder()$0",
+		},
+		{
+			"trigger": "GetOrientation\t()",
+			"contents": "GetOrientation()$0",
+		},
+		{
+			"trigger": "GetOrigin\t()",
+			"contents": "GetOrigin()$0",
+		},
+		{
+			"trigger": "GetOwner\t()",
+			"contents": "GetOwner()$0",
+		},
+		{
+			"trigger": "GetPadding\t()",
+			"contents": "GetPadding()$0",
+		},
+		{
+			"trigger": "GetParent\t()",
+			"contents": "GetParent()$0",
+		},
+		{
+			"trigger": "GetPingPosition\t()",
+			"contents": "GetPingPosition()$0",
+		},
+		{
+			"trigger": "GetPoint\t(index)",
+			"contents": "GetPoint(${7:index})$0",
+		},
+		{
+			"trigger": "GetPosition\t()",
+			"contents": "GetPosition()$0",
+		},
+		{
+			"trigger": "GetProgress\t()",
+			"contents": "GetProgress()$0",
+		},
+		{
+			"trigger": "GetProgressWithDelay\t()",
+			"contents": "GetProgressWithDelay()$0",
+		},
+		{
+			"trigger": "GetPropagateKeyboardInput\t()",
+			"contents": "GetPropagateKeyboardInput()$0",
+		},
+		{
+			"trigger": "GetPushedTextOffset\t()",
+			"contents": "GetPushedTextOffset()$0",
+		},
+		{
+			"trigger": "GetPushedTexture\t()",
+			"contents": "GetPushedTexture()$0",
+		},
+		{
+			"trigger": "GetRadians\t()",
+			"contents": "GetRadians()$0",
+		},
+		{
+			"trigger": "GetRect\t()",
+			"contents": "GetRect()$0",
+		},
+		{
+			"trigger": "GetRegionParent\t()",
+			"contents": "GetRegionParent()$0",
+		},
+		{
+			"trigger": "GetRegions\t()",
+			"contents": "GetRegions()$0",
+		},
+		{
+			"trigger": "GetReverse\t()",
+			"contents": "GetReverse()$0",
+		},
+		{
+			"trigger": "GetRight\t()",
+			"contents": "GetRight()$0",
+		},
+		{
+			"trigger": "GetRotatesTexture\t()",
+			"contents": "GetRotatesTexture()$0",
+		},
+		{
+			"trigger": "GetScale\t()",
+			"contents": "GetScale()$0",
+		},
+		{
+			"trigger": "GetScript\t(\"scriptType\")",
+			"contents": "GetScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "GetScrollChild\t()",
+			"contents": "GetScrollChild()$0",
+		},
+		{
+			"trigger": "GetShadowColor\t()",
+			"contents": "GetShadowColor()$0",
+		},
+		{
+			"trigger": "GetShadowOffset\t()",
+			"contents": "GetShadowOffset()$0",
+		},
+		{
+			"trigger": "GetSize\t()",
+			"contents": "GetSize()$0",
+		},
+		{
+			"trigger": "GetSmoothing\t()",
+			"contents": "GetSmoothing()$0",
+		},
+		{
+			"trigger": "GetSmoothProgress\t()",
+			"contents": "GetSmoothProgress()$0",
+		},
+		{
+			"trigger": "GetSpacing\t()",
+			"contents": "GetSpacing()$0",
+		},
+		{
+			"trigger": "GetSpell\t()",
+			"contents": "GetSpell()$0",
+		},
+		{
+			"trigger": "GetStartDelay\t()",
+			"contents": "GetStartDelay()$0",
+		},
+		{
+			"trigger": "GetStatusBarColor\t()",
+			"contents": "GetStatusBarColor()$0",
+		},
+		{
+			"trigger": "GetStatusBarTexture\t()",
+			"contents": "GetStatusBarTexture()$0",
+		},
+		{
+			"trigger": "GetStringHeight\t()",
+			"contents": "GetStringHeight()$0",
+		},
+		{
+			"trigger": "GetStringWidth\t()",
+			"contents": "GetStringWidth()$0",
+		},
+		{
+			"trigger": "GetTexCoord\t()",
+			"contents": "GetTexCoord()$0",
+		},
+		{
+			"trigger": "GetText\t()",
+			"contents": "GetText()$0",
+		},
+		{
+			"trigger": "GetTextColor\t()",
+			"contents": "GetTextColor()$0",
+		},
+		{
+			"trigger": "GetTextHeight\t()",
+			"contents": "GetTextHeight()$0",
+		},
+		{
+			"trigger": "GetTextInsets\t()",
+			"contents": "GetTextInsets()$0",
+		},
+		{
+			"trigger": "GetTexture\t()",
+			"contents": "GetTexture()$0",
+		},
+		{
+			"trigger": "GetTextWidth\t()",
+			"contents": "GetTextWidth()$0",
+		},
+		{
+			"trigger": "GetThumbTexture\t()",
+			"contents": "GetThumbTexture()$0",
+		},
+		{
+			"trigger": "GetTimeVisible\t()",
+			"contents": "GetTimeVisible()$0",
+		},
+		{
+			"trigger": "GetTitleRegion\t()",
+			"contents": "GetTitleRegion()$0",
+		},
+		{
+			"trigger": "GetTop\t()",
+			"contents": "GetTop()$0",
+		},
+		{
+			"trigger": "GetUnit\t()",
+			"contents": "GetUnit()$0",
+		},
+		{
+			"trigger": "GetUpperBackgroundFileName\t(\"fileName\")",
+			"contents": "GetUpperBackgroundFileName(\"${2:fileName}\")$0",
+		},
+		{
+			"trigger": "GetUpperEmblemFileName\t(\"fileName\")",
+			"contents": "GetUpperEmblemFileName(\"${2:fileName}\")$0",
+		},
+		{
+			"trigger": "GetUpperEmblemTexture\t(texture)",
+			"contents": "GetUpperEmblemTexture(${2:texture})$0",
+		},
+		{
+			"trigger": "GetUTF8CursorPosition\t()",
+			"contents": "GetUTF8CursorPosition()$0",
+		},
+		{
+			"trigger": "GetValue\t()",
+			"contents": "GetValue()$0",
+		},
+		{
+			"trigger": "GetValueStep\t()",
+			"contents": "GetValueStep()$0",
+		},
+		{
+			"trigger": "GetVertexColor\t()",
+			"contents": "GetVertexColor()$0",
+		},
+		{
+			"trigger": "GetVerticalScroll\t()",
+			"contents": "GetVerticalScroll()$0",
+		},
+		{
+			"trigger": "GetVerticalScrollRange\t()",
+			"contents": "GetVerticalScrollRange()$0",
+		},
+		{
+			"trigger": "GetWidth\t()",
+			"contents": "GetWidth()$0",
+		},
+		{
+			"trigger": "GetZoom\t()",
+			"contents": "GetZoom()$0",
+		},
+		{
+			"trigger": "GetZoomLevels\t()",
+			"contents": "GetZoomLevels()$0",
+		},
+		{
+			"trigger": "HasFocus\t()",
+			"contents": "HasFocus()$0",
+		},
+		{
+			"trigger": "HasScript\t(\"scriptType\")",
+			"contents": "HasScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "Hide\t()",
+			"contents": "Hide()$0",
+		},
+		{
+			"trigger": "HighlightText\t([start], [end])",
+			"contents": "HighlightText(${2:[start]}, ${3:[end]})$0",
+		},
+		{
+			"trigger": "HookScript\t(\"scriptType\", handler)",
+			"contents": "HookScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "IgnoreDepth\t(enable)",
+			"contents": "IgnoreDepth(${2:enable})$0",
+		},
+		{
+			"trigger": "InitializeTabardColors\t()",
+			"contents": "InitializeTabardColors()$0",
+		},
+		{
+			"trigger": "Insert\t(\"text\")",
+			"contents": "Insert(\"${2:text}\")$0",
+		},
+		{
+			"trigger": "IsAutoFocus\t()",
+			"contents": "IsAutoFocus()$0",
+		},
+		{
+			"trigger": "IsClampedToScreen\t()",
+			"contents": "IsClampedToScreen()$0",
+		},
+		{
+			"trigger": "IsCountInvisibleLetters\t()",
+			"contents": "IsCountInvisibleLetters()$0",
+		},
+		{
+			"trigger": "IsDelaying\t()",
+			"contents": "IsDelaying()$0",
+		},
+		{
+			"trigger": "IsDesaturated\t()",
+			"contents": "IsDesaturated()$0",
+		},
+		{
+			"trigger": "IsDone\t()",
+			"contents": "IsDone()$0",
+		},
+		{
+			"trigger": "IsDragging\t()",
+			"contents": "IsDragging()$0",
+		},
+		{
+			"trigger": "IsEnabled\t()",
+			"contents": "IsEnabled()$0",
+		},
+		{
+			"trigger": "IsEquippedItem\t()",
+			"contents": "IsEquippedItem()$0",
+		},
+		{
+			"trigger": "IsEventRegistered\t(\"event\")",
+			"contents": "IsEventRegistered(\"${3:event}\")$0",
+		},
+		{
+			"trigger": "IsIgnoringDepth\t()",
+			"contents": "IsIgnoringDepth()$0",
+		},
+		{
+			"trigger": "IsInIMECompositionMode\t()",
+			"contents": "IsInIMECompositionMode()$0",
+		},
+		{
+			"trigger": "IsJoystickEnabled\t()",
+			"contents": "IsJoystickEnabled()$0",
+		},
+		{
+			"trigger": "IsKeyboardEnabled\t()",
+			"contents": "IsKeyboardEnabled()$0",
+		},
+		{
+			"trigger": "IsMouseEnabled\t()",
+			"contents": "IsMouseEnabled()$0",
+		},
+		{
+			"trigger": "IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
+			"contents": "IsMouseOver(${3:[topOffset]}, ${4:[leftOffset]}, ${5:[bottomOffset]}, ${6:[rightOffset]})$0",
+		},
+		{
+			"trigger": "IsMouseWheelEnabled\t()",
+			"contents": "IsMouseWheelEnabled()$0",
+		},
+		{
+			"trigger": "IsMovable\t()",
+			"contents": "IsMovable()$0",
+		},
+		{
+			"trigger": "IsMultiLine\t()",
+			"contents": "IsMultiLine()$0",
+		},
+		{
+			"trigger": "IsNumeric\t()",
+			"contents": "IsNumeric()$0",
+		},
+		{
+			"trigger": "IsObjectType\t(\"type\")",
+			"contents": "IsObjectType(\"${3:type}\")$0",
+		},
+		{
+			"trigger": "IsOwned\t()",
+			"contents": "IsOwned()$0",
+		},
+		{
+			"trigger": "IsPassword\t()",
+			"contents": "IsPassword()$0",
+		},
+		{
+			"trigger": "IsPaused\t()",
+			"contents": "IsPaused()$0",
+		},
+		{
+			"trigger": "IsPendingFinish\t()",
+			"contents": "IsPendingFinish()$0",
+		},
+		{
+			"trigger": "IsPlaying\t()",
+			"contents": "IsPlaying()$0",
+		},
+		{
+			"trigger": "IsProtected\t()",
+			"contents": "IsProtected()$0",
+		},
+		{
+			"trigger": "IsResizable\t()",
+			"contents": "IsResizable()$0",
+		},
+		{
+			"trigger": "IsShown\t()",
+			"contents": "IsShown()$0",
+		},
+		{
+			"trigger": "IsStopped\t()",
+			"contents": "IsStopped()$0",
+		},
+		{
+			"trigger": "IsToplevel\t()",
+			"contents": "IsToplevel()$0",
+		},
+		{
+			"trigger": "IsTruncated\t()",
+			"contents": "IsTruncated()$0",
+		},
+		{
+			"trigger": "IsUnit\t(\"unit\")",
+			"contents": "IsUnit(\"${3:unit}\")$0",
+		},
+		{
+			"trigger": "IsUserPlaced\t()",
+			"contents": "IsUserPlaced()$0",
+		},
+		{
+			"trigger": "IsVisible\t()",
+			"contents": "IsVisible()$0",
+		},
+		{
+			"trigger": "LayeredRegion:GetDrawLayer\t()",
+			"contents": "${3:LayeredRegion}:GetDrawLayer()$0",
+		},
+		{
+			"trigger": "LayeredRegion:SetDrawLayer\t(\"layer\", sublayer)",
+			"contents": "${1:LayeredRegion}:SetDrawLayer(\"${2:layer}\", ${3:sublayer})$0",
+		},
+		{
+			"trigger": "LayeredRegion:SetVertexColor\t(red, green, blue, [alpha])",
+			"contents": "${1:LayeredRegion}:SetVertexColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+		},
+		{
+			"trigger": "LockHighlight\t()",
+			"contents": "LockHighlight()$0",
+		},
+		{
+			"trigger": "Lower\t()",
+			"contents": "Lower()$0",
+		},
+		{
+			"trigger": "MessageFrame:AddMessage\t(\"text\", [red], [green], [blue], [alpha])",
+			"contents": "${1:MessageFrame}:AddMessage(\"${2:text}\", ${3:[red]}, ${4:[green]}, ${5:[blue]}, ${6:[alpha]})$0",
+		},
+		{
+			"trigger": "MessageFrame:Clear\t()",
+			"contents": "${1:MessageFrame}:Clear()$0",
+		},
+		{
+			"trigger": "MessageFrame:GetFadeDuration\t()",
+			"contents": "${2:MessageFrame}:GetFadeDuration()$0",
+		},
+		{
+			"trigger": "MessageFrame:GetFading\t()",
+			"contents": "${2:MessageFrame}:GetFading()$0",
+		},
+		{
+			"trigger": "MessageFrame:GetIndentedWordWrap\t()",
+			"contents": "${2:MessageFrame}:GetIndentedWordWrap()$0",
+		},
+		{
+			"trigger": "MessageFrame:GetInsertMode\t()",
+			"contents": "${2:MessageFrame}:GetInsertMode()$0",
+		},
+		{
+			"trigger": "MessageFrame:GetTimeVisible\t()",
+			"contents": "${2:MessageFrame}:GetTimeVisible()$0",
+		},
+		{
+			"trigger": "MessageFrame:SetFadeDuration\t(duration)",
+			"contents": "${1:MessageFrame}:SetFadeDuration(${2:duration})$0",
+		},
+		{
+			"trigger": "MessageFrame:SetFading\t(fading)",
+			"contents": "${1:MessageFrame}:SetFading(${2:fading})$0",
+		},
+		{
+			"trigger": "MessageFrame:SetIndentedWordWrap\t(indent)",
+			"contents": "${1:MessageFrame}:SetIndentedWordWrap(${2:indent})$0",
+		},
+		{
+			"trigger": "MessageFrame:SetInsertMode\t(\"position\")",
+			"contents": "${1:MessageFrame}:SetInsertMode(\"${2:position}\")$0",
+		},
+		{
+			"trigger": "MessageFrame:SetTimeVisible\t(time)",
+			"contents": "${1:MessageFrame}:SetTimeVisible(${2:time})$0",
+		},
+		{
+			"trigger": "Minimap:GetPingPosition\t()",
+			"contents": "${3:Minimap}:GetPingPosition()$0",
+		},
+		{
+			"trigger": "Minimap:GetZoom\t()",
+			"contents": "${2:Minimap}:GetZoom()$0",
+		},
+		{
+			"trigger": "Minimap:GetZoomLevels\t()",
+			"contents": "${2:Minimap}:GetZoomLevels()$0",
+		},
+		{
+			"trigger": "Minimap:PingLocation\t(x, y)",
+			"contents": "${1:Minimap}:PingLocation(${2:x}, ${3:y})$0",
+		},
+		{
+			"trigger": "Minimap:SetBlipTexture\t(\"filename\")",
+			"contents": "${1:Minimap}:SetBlipTexture(\"${2:filename}\")$0",
+		},
+		{
+			"trigger": "Minimap:SetClassBlipTexture\t(\"filename\")",
+			"contents": "${1:Minimap}:SetClassBlipTexture(\"${2:filename}\")$0",
+		},
+		{
+			"trigger": "Minimap:SetCorpsePOIArrowTexture\t(\"filename\")",
+			"contents": "${1:Minimap}:SetCorpsePOIArrowTexture(\"${2:filename}\")$0",
+		},
+		{
+			"trigger": "Minimap:SetIconTexture\t(\"filename\")",
+			"contents": "${1:Minimap}:SetIconTexture(\"${2:filename}\")$0",
+		},
+		{
+			"trigger": "Minimap:SetMaskTexture\t(\"filename\")",
+			"contents": "${1:Minimap}:SetMaskTexture(\"${2:filename}\")$0",
+		},
+		{
+			"trigger": "Minimap:SetPlayerTexture\t(\"filename\")",
+			"contents": "${1:Minimap}:SetPlayerTexture(\"${2:filename}\")$0",
+		},
+		{
+			"trigger": "Minimap:SetPlayerTextureHeight\t(height)",
+			"contents": "${1:Minimap}:SetPlayerTextureHeight(${2:height})$0",
+		},
+		{
+			"trigger": "Minimap:SetPlayerTextureWidth\t(width)",
+			"contents": "${1:Minimap}:SetPlayerTextureWidth(${2:width})$0",
+		},
+		{
+			"trigger": "Minimap:SetPOIArrowTexture\t(\"filename\")",
+			"contents": "${1:Minimap}:SetPOIArrowTexture(\"${2:filename}\")$0",
+		},
+		{
+			"trigger": "Minimap:SetStaticPOIArrowTexture\t(\"filename\")",
+			"contents": "${1:Minimap}:SetStaticPOIArrowTexture(\"${2:filename}\")$0",
+		},
+		{
+			"trigger": "Minimap:SetZoom\t(zoomLevel)",
+			"contents": "${1:Minimap}:SetZoom(${2:zoomLevel})$0",
+		},
+		{
+			"trigger": "Model:AdvanceTime\t()",
+			"contents": "${1:Model}:AdvanceTime()$0",
+		},
+		{
+			"trigger": "Model:ClearFog\t()",
+			"contents": "${1:Model}:ClearFog()$0",
+		},
+		{
+			"trigger": "Model:ClearModel\t()",
+			"contents": "${1:Model}:ClearModel()$0",
+		},
+		{
+			"trigger": "Model:GetFacing\t()",
+			"contents": "${2:Model}:GetFacing()$0",
+		},
+		{
+			"trigger": "Model:GetFogColor\t()",
+			"contents": "${4:Model}:GetFogColor()$0",
+		},
+		{
+			"trigger": "Model:GetFogFar\t()",
+			"contents": "${2:Model}:GetFogFar()$0",
+		},
+		{
+			"trigger": "Model:GetFogNear\t()",
+			"contents": "${2:Model}:GetFogNear()$0",
+		},
+		{
+			"trigger": "Model:GetLight\t()",
+			"contents": "${14:Model}:GetLight()$0",
+		},
+		{
+			"trigger": "Model:GetModel\t()",
+			"contents": "${2:Model}:GetModel()$0",
+		},
+		{
+			"trigger": "Model:GetModelScale\t()",
+			"contents": "${2:Model}:GetModelScale()$0",
+		},
+		{
+			"trigger": "Model:GetPosition\t()",
+			"contents": "${4:Model}:GetPosition()$0",
+		},
+		{
+			"trigger": "Model:ReplaceIconTexture\t(\"filename\")",
+			"contents": "${1:Model}:ReplaceIconTexture(\"${2:filename}\")$0",
+		},
+		{
+			"trigger": "Model:SetCamera\t(index)",
+			"contents": "${1:Model}:SetCamera(${2:index})$0",
+		},
+		{
+			"trigger": "Model:SetFacing\t(facing)",
+			"contents": "${1:Model}:SetFacing(${2:facing})$0",
+		},
+		{
+			"trigger": "Model:SetFogColor\t(red, green, blue)",
+			"contents": "${1:Model}:SetFogColor(${2:red}, ${3:green}, ${4:blue})$0",
+		},
+		{
+			"trigger": "Model:SetFogFar\t(distance)",
+			"contents": "${1:Model}:SetFogFar(${2:distance})$0",
+		},
+		{
+			"trigger": "Model:SetFogNear\t(distance)",
+			"contents": "${1:Model}:SetFogNear(${2:distance})$0",
+		},
+		{
+			"trigger": "Model:SetGlow\t(amount)",
+			"contents": "${1:Model}:SetGlow(${2:amount})$0",
+		},
+		{
+			"trigger": "Model:SetLight\t(enabled, omni, dirX, dirY, dirZ, ambIntensity, [ambR], [ambG], [ambB], [dirIntensity], [dirR], [dirG], [dirB])",
+			"contents": "${1:Model}:SetLight(${2:enabled}, ${3:omni}, ${4:dirX}, ${5:dirY}, ${6:dirZ}, ${7:ambIntensity}, ${8:[ambR]}, ${9:[ambG]}, ${10:[ambB]}, ${11:[dirIntensity]}, ${12:[dirR]}, ${13:[dirG]}, ${14:[dirB]})$0",
+		},
+		{
+			"trigger": "Model:SetModel\t(\"filename\")",
+			"contents": "${1:Model}:SetModel(\"${2:filename}\")$0",
+		},
+		{
+			"trigger": "Model:SetModelScale\t(scale)",
+			"contents": "${1:Model}:SetModelScale(${2:scale})$0",
+		},
+		{
+			"trigger": "Model:SetPosition\t(x, y, z)",
+			"contents": "${1:Model}:SetPosition(${2:x}, ${3:y}, ${4:z})$0",
+		},
+		{
+			"trigger": "Model:SetSequence\t(sequence)",
+			"contents": "${1:Model}:SetSequence(${2:sequence})$0",
+		},
+		{
+			"trigger": "Model:SetSequenceTime\t(sequence, time)",
+			"contents": "${1:Model}:SetSequenceTime(${2:sequence}, ${3:time})$0",
+		},
+		{
+			"trigger": "MovieFrame:EnableSubtitles\t(enable)",
+			"contents": "${1:MovieFrame}:EnableSubtitles(${2:enable})$0",
+		},
+		{
+			"trigger": "MovieFrame:StartMovie\t(\"fileName\", volume)",
+			"contents": "${2:MovieFrame}:StartMovie(\"${3:fileName}\", ${4:volume})$0",
+		},
+		{
+			"trigger": "MovieFrame:StopMovie\t()",
+			"contents": "${1:MovieFrame}:StopMovie()$0",
+		},
+		{
+			"trigger": "NumLines\t()",
+			"contents": "NumLines()$0",
+		},
+		{
+			"trigger": "PageDown\t()",
+			"contents": "PageDown()$0",
+		},
+		{
+			"trigger": "PageUp\t()",
+			"contents": "PageUp()$0",
+		},
+		{
+			"trigger": "ParentedObject:GetParent\t()",
+			"contents": "${2:ParentedObject}:GetParent()$0",
+		},
+		{
+			"trigger": "Path:CreateControlPoint\t([\"name\"], [\"template\"], [order])",
+			"contents": "${1:Path}:CreateControlPoint(${2:[\"name\"]}, ${3:[\"template\"]}, ${4:[order]})$0",
+		},
+		{
+			"trigger": "Path:GetControlPoints\t()",
+			"contents": "${2:Path}:GetControlPoints()$0",
+		},
+		{
+			"trigger": "Path:GetCurve\t()",
+			"contents": "${2:Path}:GetCurve()$0",
+		},
+		{
+			"trigger": "Path:GetMaxOrder\t()",
+			"contents": "${2:Path}:GetMaxOrder()$0",
+		},
+		{
+			"trigger": "Path:SetCurve\t(\"curveType\")",
+			"contents": "${1:Path}:SetCurve(\"${2:curveType}\")$0",
+		},
+		{
+			"trigger": "Pause\t()",
+			"contents": "Pause()$0",
+		},
+		{
+			"trigger": "PingLocation\t(x, y)",
+			"contents": "PingLocation(${2:x}, ${3:y})$0",
+		},
+		{
+			"trigger": "Play\t()",
+			"contents": "Play()$0",
+		},
+		{
+			"trigger": "PlayerModel:RefreshUnit\t()",
+			"contents": "${1:PlayerModel}:RefreshUnit()$0",
+		},
+		{
+			"trigger": "PlayerModel:SetCreature\t(creature)",
+			"contents": "${1:PlayerModel}:SetCreature(${2:creature})$0",
+		},
+		{
+			"trigger": "PlayerModel:SetRotation\t(facing)",
+			"contents": "${1:PlayerModel}:SetRotation(${2:facing})$0",
+		},
+		{
+			"trigger": "PlayerModel:SetUnit\t(\"unit\")",
+			"contents": "${1:PlayerModel}:SetUnit(\"${2:unit}\")$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:DrawBlob\t(questID, Draw)",
+			"contents": "${1:QuestPOIFrame}:DrawBlob(${2:questID}, ${3:Draw})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:EnableSmoothing\t(enable)",
+			"contents": "${1:QuestPOIFrame}:EnableSmoothing(${2:enable})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetBorderAlpha\t(Alpha)",
+			"contents": "${1:QuestPOIFrame}:SetBorderAlpha(${2:Alpha})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetBorderScalar\t(Scalar)",
+			"contents": "${1:QuestPOIFrame}:SetBorderScalar(${2:Scalar})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetBorderTexture\t(\"Texture\")",
+			"contents": "${1:QuestPOIFrame}:SetBorderTexture(\"${2:Texture}\")$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetFillAlpha\t(Alpha)",
+			"contents": "${1:QuestPOIFrame}:SetFillAlpha(${2:Alpha})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetFillTexture\t(\"Texture\")",
+			"contents": "${1:QuestPOIFrame}:SetFillTexture(\"${2:Texture}\")$0",
+		},
+		{
+			"trigger": "Raise\t()",
+			"contents": "Raise()$0",
+		},
+		{
+			"trigger": "RefreshUnit\t()",
+			"contents": "RefreshUnit()$0",
+		},
+		{
+			"trigger": "Region:CanChangeProtectedState\t()",
+			"contents": "${2:Region}:CanChangeProtectedState()$0",
+		},
+		{
+			"trigger": "Region:ClearAllPoints\t()",
+			"contents": "${1:Region}:ClearAllPoints()$0",
+		},
+		{
+			"trigger": "Region:CreateAnimationGroup\t([\"name\"], [\"inheritsFrom\"])",
+			"contents": "${2:Region}:CreateAnimationGroup(${3:[\"name\"]}, ${4:[\"inheritsFrom\"]})$0",
+		},
+		{
+			"trigger": "Region:GetAnimationGroups\t()",
+			"contents": "${2:Region}:GetAnimationGroups()$0",
+		},
+		{
+			"trigger": "Region:GetBottom\t()",
+			"contents": "${2:Region}:GetBottom()$0",
+		},
+		{
+			"trigger": "Region:GetCenter\t()",
+			"contents": "${3:Region}:GetCenter()$0",
+		},
+		{
+			"trigger": "Region:GetHeight\t()",
+			"contents": "${2:Region}:GetHeight()$0",
+		},
+		{
+			"trigger": "Region:GetLeft\t()",
+			"contents": "${2:Region}:GetLeft()$0",
+		},
+		{
+			"trigger": "Region:GetNumPoints\t()",
+			"contents": "${2:Region}:GetNumPoints()$0",
+		},
+		{
+			"trigger": "Region:GetPoint\t(index)",
+			"contents": "${6:Region}:GetPoint(${7:index})$0",
+		},
+		{
+			"trigger": "Region:GetRect\t()",
+			"contents": "${5:Region}:GetRect()$0",
+		},
+		{
+			"trigger": "Region:GetRight\t()",
+			"contents": "${2:Region}:GetRight()$0",
+		},
+		{
+			"trigger": "Region:GetSize\t()",
+			"contents": "${3:Region}:GetSize()$0",
+		},
+		{
+			"trigger": "Region:GetTop\t()",
+			"contents": "${2:Region}:GetTop()$0",
+		},
+		{
+			"trigger": "Region:GetWidth\t()",
+			"contents": "${2:Region}:GetWidth()$0",
+		},
+		{
+			"trigger": "Region:IsDragging\t()",
+			"contents": "${2:Region}:IsDragging()$0",
+		},
+		{
+			"trigger": "Region:IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
+			"contents": "${2:Region}:IsMouseOver(${3:[topOffset]}, ${4:[leftOffset]}, ${5:[bottomOffset]}, ${6:[rightOffset]})$0",
+		},
+		{
+			"trigger": "Region:IsProtected\t()",
+			"contents": "${3:Region}:IsProtected()$0",
+		},
+		{
+			"trigger": "Region:SetAllPoints\t([\"name\"])",
+			"contents": "${1:Region}:SetAllPoints(${2:[\"name\"]})$0",
+		},
+		{
+			"trigger": "Region:SetAllPoints\t([region])",
+			"contents": "${1:Region}:SetAllPoints(${2:[region]})$0",
+		},
+		{
+			"trigger": "Region:SetHeight\t(height)",
+			"contents": "${1:Region}:SetHeight(${2:height})$0",
+		},
+		{
+			"trigger": "Region:SetParent\t(frame)",
+			"contents": "${1:Region}:SetParent(${2:frame})$0",
+		},
+		{
+			"trigger": "Region:SetParent\t(\"name\")",
+			"contents": "${1:Region}:SetParent(\"${2:name}\")$0",
+		},
+		{
+			"trigger": "Region:SetPoint\t(\"point\", [relativeTo], [\"relativePoint\"], [xOffset], [yOffset])",
+			"contents": "${1:Region}:SetPoint(\"${2:point}\", ${3:[relativeTo]}, ${4:[\"relativePoint\"]}, ${5:[xOffset]}, ${6:[yOffset]})$0",
+		},
+		{
+			"trigger": "Region:SetSize\t(width, height)",
+			"contents": "${1:Region}:SetSize(${2:width}, ${3:height})$0",
+		},
+		{
+			"trigger": "Region:SetWidth\t(width)",
+			"contents": "${1:Region}:SetWidth(${2:width})$0",
+		},
+		{
+			"trigger": "Region:StopAnimating\t()",
+			"contents": "${1:Region}:StopAnimating()$0",
+		},
+		{
+			"trigger": "RegisterAllEvents\t()",
+			"contents": "RegisterAllEvents()$0",
+		},
+		{
+			"trigger": "RegisterEvent\t(\"event\")",
+			"contents": "RegisterEvent(\"${1:event}\")$0",
+		},
+		{
+			"trigger": "RegisterForClicks\t(...)",
+			"contents": "RegisterForClicks(${2:...})$0",
+		},
+		{
+			"trigger": "RegisterForDrag\t(...)",
+			"contents": "RegisterForDrag(${2:...})$0",
+		},
+		{
+			"trigger": "RegisterUnitEvent\t(\"event\", \"unit1\", \"unit2\")",
+			"contents": "RegisterEvent(\"${1:event}\", \"${2:unit1}\", \"${3:unit2}\")$0",
+		},
+		{
+			"trigger": "ReplaceIconTexture\t(\"filename\")",
+			"contents": "ReplaceIconTexture(\"${2:filename}\")$0",
+		},
+		{
+			"trigger": "Rotation:GetDegrees\t()",
+			"contents": "${2:Rotation}:GetDegrees()$0",
+		},
+		{
+			"trigger": "Rotation:GetOrigin\t()",
+			"contents": "${4:Rotation}:GetOrigin()$0",
+		},
+		{
+			"trigger": "Rotation:GetRadians\t()",
+			"contents": "${2:Rotation}:GetRadians()$0",
+		},
+		{
+			"trigger": "Rotation:SetDegrees\t(degrees)",
+			"contents": "${1:Rotation}:SetDegrees(${2:degrees})$0",
+		},
+		{
+			"trigger": "Rotation:SetOrigin\t(\"point\", xOffset, yOffset)",
+			"contents": "${1:Rotation}:SetOrigin(\"${2:point}\", ${3:xOffset}, ${4:yOffset})$0",
+		},
+		{
+			"trigger": "Rotation:SetRadians\t(radians)",
+			"contents": "${1:Rotation}:SetRadians(${2:radians})$0",
+		},
+		{
+			"trigger": "Save\t()",
+			"contents": "Save()$0",
+		},
+		{
+			"trigger": "Scale:GetOrigin\t()",
+			"contents": "${4:Scale}:GetOrigin()$0",
+		},
+		{
+			"trigger": "Scale:GetScale\t()",
+			"contents": "${3:Scale}:GetScale()$0",
+		},
+		{
+			"trigger": "Scale:SetOrigin\t(\"point\", xOffset, yOffset)",
+			"contents": "${1:Scale}:SetOrigin(\"${2:point}\", ${3:xOffset}, ${4:yOffset})$0",
+		},
+		{
+			"trigger": "Scale:SetScale\t(xFactor, yFactor)",
+			"contents": "${1:Scale}:SetScale(${2:xFactor}, ${3:yFactor})$0",
+		},
+		{
+			"trigger": "ScriptObject:GetScript\t(\"scriptType\")",
+			"contents": "${2:ScriptObject}:GetScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "ScriptObject:HasScript\t(\"scriptType\")",
+			"contents": "${2:ScriptObject}:HasScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "ScriptObject:HookScript\t(\"scriptType\", handler)",
+			"contents": "${1:ScriptObject}:HookScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "ScriptObject:SetScript\t(\"scriptType\", handler)",
+			"contents": "${1:ScriptObject}:SetScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "ScrollDown\t()",
+			"contents": "ScrollDown()$0",
+		},
+		{
+			"trigger": "ScrollFrame:GetHorizontalScroll\t()",
+			"contents": "${2:ScrollFrame}:GetHorizontalScroll()$0",
+		},
+		{
+			"trigger": "ScrollFrame:GetHorizontalScrollRange\t()",
+			"contents": "${2:ScrollFrame}:GetHorizontalScrollRange()$0",
+		},
+		{
+			"trigger": "ScrollFrame:GetScrollChild\t()",
+			"contents": "${2:ScrollFrame}:GetScrollChild()$0",
+		},
+		{
+			"trigger": "ScrollFrame:GetVerticalScroll\t()",
+			"contents": "${2:ScrollFrame}:GetVerticalScroll()$0",
+		},
+		{
+			"trigger": "ScrollFrame:GetVerticalScrollRange\t()",
+			"contents": "${2:ScrollFrame}:GetVerticalScrollRange()$0",
+		},
+		{
+			"trigger": "ScrollFrame:SetHorizontalScroll\t(scroll)",
+			"contents": "${1:ScrollFrame}:SetHorizontalScroll(${2:scroll})$0",
+		},
+		{
+			"trigger": "ScrollFrame:SetScrollChild\t(frame)",
+			"contents": "${1:ScrollFrame}:SetScrollChild(${2:frame})$0",
+		},
+		{
+			"trigger": "ScrollFrame:SetVerticalScroll\t(scroll)",
+			"contents": "${1:ScrollFrame}:SetVerticalScroll(${2:scroll})$0",
+		},
+		{
+			"trigger": "ScrollFrame:UpdateScrollChildRect\t()",
+			"contents": "${1:ScrollFrame}:UpdateScrollChildRect()$0",
+		},
+		{
+			"trigger": "ScrollingMessageFrame:AddMessage\t(\"text\", [red], [green], [blue], [lineID], [addToTop], [accessID], [extraData])",
+			"contents": "${1:ScrollingMessageFrame}:AddMessage(\"${2:text}\", ${3:[red]}, ${4:[green]}, ${5:[blue]}, ${6:[lineID]}, ${7:[addToTop]}, ${8:[accessID]}, ${9:[extraData]})$0",
+		},
+		{
+			"trigger": "ScrollingMessageFrame:AtBottom\t()",
+			"contents": "${2:ScrollingMessageFrame}:AtBottom()$0",
+		},
+		{
+			"trigger": "ScrollingMessageFrame:AtTop\t()",
+			"contents": "${2:ScrollingMessageFrame}:AtTop()$0",
+		},
+		{
+			"trigger": "ScrollingMessageFrame:Clear\t()",
+			"contents": "${1:ScrollingMessageFrame}:Clear()$0",
+		},
+		{
+			"trigger": "ScrollingMessageFrame:GetCurrentLine\t()",
+			"contents": "${2:ScrollingMessageFrame}:GetCurrentLine()$0",
+		},
+		{
+			"trigger": "ScrollingMessageFrame:GetCurrentScroll\t()",
+			"contents": "${2:ScrollingMessageFrame}:GetCurrentScroll()$0",
+		},
+		{
+			"trigger": "ScrollingMessageFrame:GetFadeDuration\t()",
+			"contents": "${2:ScrollingMessageFrame}:GetFadeDuration()$0",
+		},
+		{
+			"trigger": "ScrollingMessageFrame:GetFading\t()",
+			"contents": "${2:ScrollingMessageFrame}:GetFading()$0",
+		},
+		{
+			"trigger": "ScrollingMessageFrame:GetHyperlinksEnabled\t()",
+			"contents": "${2:ScrollingMessageFrame}:GetHyperlinksEnabled()$0",
+		},
+		{
+			"trigger": "ScrollingMessageFrame:GetIndentedWordWrap\t()",
+			"contents": "${2:ScrollingMessageFrame}:GetIndentedWordWrap()$0",
+		},
+		{
+			"trigger": "ScrollingMessageFrame:GetInsertMode\t()",
+			"contents": "${2:ScrollingMessageFrame}:GetInsertMode()$0",
+		},
+		{
+			"trigger": "ScrollingMessageFrame:GetMaxLines\t(maxLines)",
+			"contents": "${1:ScrollingMessageFrame}:GetMaxLines(${2:maxLines})$0",
+		},
+		{
+			"trigger": "ScrollingMessageFrame:GetMessageInfo\t(index, [accessID])",
+			"contents": "${5:ScrollingMessageFrame}:GetMessageInfo(${6:index}, ${7:[accessID]})$0",
+		},
+		{
+			"trigger": "ScrollingMessageFrame:GetNumLinesDisplayed\t()",
+			"contents": "${2:ScrollingMessageFrame}:GetNumLinesDisplayed()$0",
+		},
+		{
+			"trigger": "ScrollingMessageFrame:GetNumMessages\t([accessID])",
+			"contents": "${2:ScrollingMessageFrame}:GetNumMessages(${3:[accessID]})$0",
+		},
+		{
+			"trigger": "ScrollingMessageFrame:GetTimeVisible\t()",
+			"contents": "${2:ScrollingMessageFrame}:GetTimeVisible()$0",
+		},
+		{
+			"trigger": "ScrollingMessageFrame:PageDown\t()",
+			"contents": "${1:ScrollingMessageFrame}:PageDown()$0",
+		},
+		{
+			"trigger": "ScrollingMessageFrame:PageUp\t()",
+			"contents": "${1:ScrollingMessageFrame}:PageUp()$0",
+		},
+		{
+			"trigger": "ScrollingMessageFrame:ScrollDown\t()",
+			"contents": "${1:ScrollingMessageFrame}:ScrollDown()$0",
+		},
+		{
+			"trigger": "ScrollingMessageFrame:ScrollToBottom\t()",
+			"contents": "${1:ScrollingMessageFrame}:ScrollToBottom()$0",
+		},
+		{
+			"trigger": "ScrollingMessageFrame:ScrollToTop\t()",
+			"contents": "${1:ScrollingMessageFrame}:ScrollToTop()$0",
+		},
+		{
+			"trigger": "ScrollingMessageFrame:ScrollUp\t()",
+			"contents": "${1:ScrollingMessageFrame}:ScrollUp()$0",
+		},
+		{
+			"trigger": "ScrollingMessageFrame:SetFadeDuration\t(duration)",
+			"contents": "${1:ScrollingMessageFrame}:SetFadeDuration(${2:duration})$0",
+		},
+		{
+			"trigger": "ScrollingMessageFrame:SetFading\t(fading)",
+			"contents": "${1:ScrollingMessageFrame}:SetFading(${2:fading})$0",
+		},
+		{
+			"trigger": "ScrollingMessageFrame:SetHyperlinksEnabled\t(enable)",
+			"contents": "${1:ScrollingMessageFrame}:SetHyperlinksEnabled(${2:enable})$0",
+		},
+		{
+			"trigger": "ScrollingMessageFrame:SetIndentedWordWrap\t(indent)",
+			"contents": "${1:ScrollingMessageFrame}:SetIndentedWordWrap(${2:indent})$0",
+		},
+		{
+			"trigger": "ScrollingMessageFrame:SetInsertMode\t(\"position\")",
+			"contents": "${1:ScrollingMessageFrame}:SetInsertMode(\"${2:position}\")$0",
+		},
+		{
+			"trigger": "ScrollingMessageFrame:SetMaxLines\t(maxLines)",
+			"contents": "${1:ScrollingMessageFrame}:SetMaxLines(${2:maxLines})$0",
+		},
+		{
+			"trigger": "ScrollingMessageFrame:SetScrollOffset\t(offset)",
+			"contents": "${1:ScrollingMessageFrame}:SetScrollOffset(${2:offset})$0",
+		},
+		{
+			"trigger": "ScrollingMessageFrame:SetTimeVisible\t(time)",
+			"contents": "${1:ScrollingMessageFrame}:SetTimeVisible(${2:time})$0",
+		},
+		{
+			"trigger": "ScrollingMessageFrame:UpdateColorByID\t(id, red, green, blue)",
+			"contents": "${1:ScrollingMessageFrame}:UpdateColorByID(${2:id}, ${3:red}, ${4:green}, ${5:blue})$0",
+		},
+		{
+			"trigger": "ScrollToBottom\t()",
+			"contents": "ScrollToBottom()$0",
+		},
+		{
+			"trigger": "ScrollToTop\t()",
+			"contents": "ScrollToTop()$0",
+		},
+		{
+			"trigger": "ScrollUp\t()",
+			"contents": "ScrollUp()$0",
+		},
+		{
+			"trigger": "SetAction\t(slot)",
+			"contents": "SetAction(${2:slot})$0",
+		},
+		{
+			"trigger": "SetAllPoints\t([\"name\"])",
+			"contents": "SetAllPoints(${2:[\"name\"]})$0",
+		},
+		{
+			"trigger": "SetAllPoints\t([region])",
+			"contents": "SetAllPoints(${2:[region]})$0",
+		},
+		{
+			"trigger": "SetAlpha\t(alpha)",
+			"contents": "SetAlpha(${2:alpha})$0",
+		},
+		{
+			"trigger": "SetAlphaGradient\t(start, length)",
+			"contents": "SetAlphaGradient(${2:start}, ${3:length})$0",
+		},
+		{
+			"trigger": "SetAltArrowKeyMode\t(enable)",
+			"contents": "SetAltArrowKeyMode(${2:enable})$0",
+		},
+		{
+			"trigger": "SetAnchorType\t(\"anchor\", [xOffset], [yOffset])",
+			"contents": "SetAnchorType(\"${2:anchor}\", ${3:[xOffset]}, ${4:[yOffset]})$0",
+		},
+		{
+			"trigger": "SetAttribute\t(\"name\", value)",
+			"contents": "SetAttribute(\"${2:name}\", ${3:value})$0",
+		},
+		{
+			"trigger": "SetAuctionItem\t(\"list\", index)",
+			"contents": "SetAuctionItem(\"${2:list}\", ${3:index})$0",
+		},
+		{
+			"trigger": "SetAuctionSellItem\t()",
+			"contents": "SetAuctionSellItem()$0",
+		},
+		{
+			"trigger": "SetAutoFocus\t(enable)",
+			"contents": "SetAutoFocus(${2:enable})$0",
+		},
+		{
+			"trigger": "SetBackdrop\t(backdrop)",
+			"contents": "SetBackdrop(${2:backdrop})$0",
+		},
+		{
+			"trigger": "SetBackdropBorderColor\t(red, green, blue, [alpha])",
+			"contents": "SetBackdropBorderColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+		},
+		{
+			"trigger": "SetBackdropColor\t(red, green, blue, [alpha])",
+			"contents": "SetBackdropColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+		},
+		{
+			"trigger": "SetBackpackToken\t(index)",
+			"contents": "SetBackpackToken(${2:index})$0",
+		},
+		{
+			"trigger": "SetBagItem\t(container, slot)",
+			"contents": "SetBagItem(${4:container}, ${5:slot})$0",
+		},
+		{
+			"trigger": "SetBlendMode\t(\"mode\")",
+			"contents": "SetBlendMode(\"${2:mode}\")$0",
+		},
+		{
+			"trigger": "SetBlinkSpeed\t(duration)",
+			"contents": "SetBlinkSpeed(${2:duration})$0",
+		},
+		{
+			"trigger": "SetBlipTexture\t(\"filename\")",
+			"contents": "SetBlipTexture(\"${2:filename}\")$0",
+		},
+		{
+			"trigger": "SetBorderAlpha\t(Alpha)",
+			"contents": "SetBorderAlpha(${2:Alpha})$0",
+		},
+		{
+			"trigger": "SetBorderScalar\t(Scalar)",
+			"contents": "SetBorderScalar(${2:Scalar})$0",
+		},
+		{
+			"trigger": "SetBorderTexture\t(\"Texture\")",
+			"contents": "SetBorderTexture(\"${2:Texture}\")$0",
+		},
+		{
+			"trigger": "SetButtonState\t(\"state\", lock)",
+			"contents": "SetButtonState(\"${2:state}\", ${3:lock})$0",
+		},
+		{
+			"trigger": "SetBuybackItem\t(index)",
+			"contents": "SetBuybackItem(${2:index})$0",
+		},
+		{
+			"trigger": "SetCamera\t(index)",
+			"contents": "SetCamera(${2:index})$0",
+		},
+		{
+			"trigger": "SetChange\t(change)",
+			"contents": "SetChange(${2:change})$0",
+		},
+		{
+			"trigger": "SetChecked\t(enable)",
+			"contents": "SetChecked(${2:enable})$0",
+		},
+		{
+			"trigger": "SetCheckedTexture\t(\"fileName\")",
+			"contents": "SetCheckedTexture(\"${2:fileName}\")$0",
+		},
+		{
+			"trigger": "SetCheckedTexture\t(texture)",
+			"contents": "SetCheckedTexture(${2:texture})$0",
+		},
+		{
+			"trigger": "SetClampedToScreen\t(enable)",
+			"contents": "SetClampedToScreen(${2:enable})$0",
+		},
+		{
+			"trigger": "SetClampRectInsets\t(left, right, top, bottom)",
+			"contents": "SetClampRectInsets(${2:left}, ${3:right}, ${4:top}, ${5:bottom})$0",
+		},
+		{
+			"trigger": "SetClassBlipTexture\t(\"filename\")",
+			"contents": "SetClassBlipTexture(\"${2:filename}\")$0",
+		},
+		{
+			"trigger": "SetColorHSV\t(hue, saturation, value)",
+			"contents": "SetColorHSV(${2:hue}, ${3:saturation}, ${4:value})$0",
+		},
+		{
+			"trigger": "SetColorRGB\t(red, blue, green)",
+			"contents": "SetColorRGB(${2:red}, ${3:blue}, ${4:green})$0",
+		},
+		{
+			"trigger": "SetColorValueTexture\t(texture)",
+			"contents": "SetColorValueTexture(${2:texture})$0",
+		},
+		{
+			"trigger": "SetColorValueThumbTexture\t(\"fileName\")",
+			"contents": "SetColorValueThumbTexture(\"${2:fileName}\")$0",
+		},
+		{
+			"trigger": "SetColorValueThumbTexture\t(texture)",
+			"contents": "SetColorValueThumbTexture(${2:texture})$0",
+		},
+		{
+			"trigger": "SetColorWheelTexture\t(texture)",
+			"contents": "SetColorWheelTexture(${2:texture})$0",
+		},
+		{
+			"trigger": "SetColorWheelThumbTexture\t(\"fileName\")",
+			"contents": "SetColorWheelThumbTexture(\"${2:fileName}\")$0",
+		},
+		{
+			"trigger": "SetColorWheelThumbTexture\t(texture)",
+			"contents": "SetColorWheelThumbTexture(${2:texture})$0",
+		},
+		{
+			"trigger": "SetCooldown\t(start, duration)",
+			"contents": "SetCooldown(${2:start}, ${3:duration})$0",
+		},
+		{
+			"trigger": "SetCorpsePOIArrowTexture\t(\"filename\")",
+			"contents": "SetCorpsePOIArrowTexture(\"${2:filename}\")$0",
+		},
+		{
+			"trigger": "SetCreature\t(creature)",
+			"contents": "SetCreature(${2:creature})$0",
+		},
+		{
+			"trigger": "SetCurrencyByID\t(currencyID)",
+			"contents": "SetCurrencyByID(${2:currencyID})$0",
+		},
+		{
+			"trigger": "SetCurrencyToken\t(index)",
+			"contents": "SetCurrencyToken(${2:index})$0",
+		},
+		{
+			"trigger": "SetCursorPosition\t(position)",
+			"contents": "SetCursorPosition(${2:position})$0",
+		},
+		{
+			"trigger": "SetCurve\t(\"curveType\")",
+			"contents": "SetCurve(\"${2:curveType}\")$0",
+		},
+		{
+			"trigger": "SetDegrees\t(degrees)",
+			"contents": "SetDegrees(${2:degrees})$0",
+		},
+		{
+			"trigger": "SetDepth\t(depth)",
+			"contents": "SetDepth(${2:depth})$0",
+		},
+		{
+			"trigger": "SetDesaturated\t(desaturate)",
+			"contents": "SetDesaturated(${3:desaturate})$0",
+		},
+		{
+			"trigger": "SetDisabledCheckedTexture\t(\"fileName\")",
+			"contents": "SetDisabledCheckedTexture(\"${2:fileName}\")$0",
+		},
+		{
+			"trigger": "SetDisabledCheckedTexture\t(texture)",
+			"contents": "SetDisabledCheckedTexture(${2:texture})$0",
+		},
+		{
+			"trigger": "SetDisabledFontObject\t(font)",
+			"contents": "SetDisabledFontObject(${2:font})$0",
+		},
+		{
+			"trigger": "SetDisabledTexture\t(\"fileName\")",
+			"contents": "SetDisabledTexture(\"${2:fileName}\")$0",
+		},
+		{
+			"trigger": "SetDisabledTexture\t(texture)",
+			"contents": "SetDisabledTexture(${2:texture})$0",
+		},
+		{
+			"trigger": "SetDrawLayer\t(\"layer\", sublayer)",
+			"contents": "SetDrawLayer(\"${2:layer}\", ${3:sublayer})$0",
+		},
+		{
+			"trigger": "SetDuration\t(duration)",
+			"contents": "SetDuration(${2:duration})$0",
+		},
+		{
+			"trigger": "SetEndDelay\t(delay)",
+			"contents": "SetEndDelay(${2:delay})$0",
+		},
+		{
+			"trigger": "SetEquipmentSet\t(\"name\")",
+			"contents": "SetEquipmentSet(\"${2:name}\")$0",
+		},
+		{
+			"trigger": "SetExistingSocketGem\t(index, toDestroy)",
+			"contents": "SetExistingSocketGem(${2:index}, ${3:toDestroy})$0",
+		},
+		{
+			"trigger": "SetFacing\t(facing)",
+			"contents": "SetFacing(${2:facing})$0",
+		},
+		{
+			"trigger": "SetFadeDuration\t(duration)",
+			"contents": "SetFadeDuration(${2:duration})$0",
+		},
+		{
+			"trigger": "SetFading\t(fading)",
+			"contents": "SetFading(${2:fading})$0",
+		},
+		{
+			"trigger": "SetFillAlpha\t(Alpha)",
+			"contents": "SetFillAlpha(${2:Alpha})$0",
+		},
+		{
+			"trigger": "SetFillTexture\t(\"Texture\")",
+			"contents": "SetFillTexture(\"${2:Texture}\")$0",
+		},
+		{
+			"trigger": "SetFocus\t()",
+			"contents": "SetFocus()$0",
+		},
+		{
+			"trigger": "SetFogColor\t(red, green, blue)",
+			"contents": "SetFogColor(${2:red}, ${3:green}, ${4:blue})$0",
+		},
+		{
+			"trigger": "SetFogFar\t(distance)",
+			"contents": "SetFogFar(${2:distance})$0",
+		},
+		{
+			"trigger": "SetFogNear\t(distance)",
+			"contents": "SetFogNear(${2:distance})$0",
+		},
+		{
+			"trigger": "SetFont\t(\"filename\", fontHeight, \"flags\")",
+			"contents": "SetFont(\"${3:filename}\", ${4:fontHeight}, \"${5:flags}\")$0",
+		},
+		{
+			"trigger": "SetFontObject\t(\"name\")",
+			"contents": "SetFontObject(\"${2:name}\")$0",
+		},
+		{
+			"trigger": "SetFontObject\t(object)",
+			"contents": "SetFontObject(${2:object})$0",
+		},
+		{
+			"trigger": "SetFontString\t(fontstring)",
+			"contents": "SetFontString(${2:fontstring})$0",
+		},
+		{
+			"trigger": "SetFormattedText\t(\"formatString\", ...)",
+			"contents": "SetFormattedText(\"${2:formatString}\", ${3:...})$0",
+		},
+		{
+			"trigger": "SetFrameLevel\t(level)",
+			"contents": "SetFrameLevel(${2:level})$0",
+		},
+		{
+			"trigger": "SetFrameStack\t(includeHidden)",
+			"contents": "SetFrameStack(${2:includeHidden})$0",
+		},
+		{
+			"trigger": "SetFrameStrata\t(\"strata\")",
+			"contents": "SetFrameStrata(\"${2:strata}\")$0",
+		},
+		{
+			"trigger": "SetGlow\t(amount)",
+			"contents": "SetGlow(${2:amount})$0",
+		},
+		{
+			"trigger": "SetGlyph\t(socket, talentGroup)",
+			"contents": "SetGlyph(${2:socket}, ${3:talentGroup})$0",
+		},
+		{
+			"trigger": "SetGradient\t(\"orientation\", startR, startG, startB, endR, endG, endB)",
+			"contents": "SetGradient(\"${2:orientation}\", ${3:startR}, ${4:startG}, ${5:startB}, ${6:endR}, ${7:endG}, ${8:endB})$0",
+		},
+		{
+			"trigger": "SetGradientAlpha\t(\"orientation\", startR, startG, startB, startAlpha, endR, endG, endB, endAlpha)",
+			"contents": "SetGradientAlpha(\"${2:orientation}\", ${3:startR}, ${4:startG}, ${5:startB}, ${6:startAlpha}, ${7:endR}, ${8:endG}, ${9:endB}, ${10:endAlpha})$0",
+		},
+		{
+			"trigger": "SetGuildBankItem\t(tab, slot)",
+			"contents": "SetGuildBankItem(${2:tab}, ${3:slot})$0",
+		},
+		{
+			"trigger": "SetHeight\t(height)",
+			"contents": "SetHeight(${2:height})$0",
+		},
+		{
+			"trigger": "SetHighlightFontObject\t(font)",
+			"contents": "SetHighlightFontObject(${2:font})$0",
+		},
+		{
+			"trigger": "SetHighlightTexture\t(\"fileName\", [\"mode\"])",
+			"contents": "SetHighlightTexture(\"${2:fileName}\", ${3:[\"mode\"]})$0",
+		},
+		{
+			"trigger": "SetHighlightTexture\t(texture, [\"mode\"])",
+			"contents": "SetHighlightTexture(${2:texture}, ${3:[\"mode\"]})$0",
+		},
+		{
+			"trigger": "SetHistoryLines\t(count)",
+			"contents": "SetHistoryLines(${2:count})$0",
+		},
+		{
+			"trigger": "SetHitRectInsets\t(left, right, top, bottom)",
+			"contents": "SetHitRectInsets(${2:left}, ${3:right}, ${4:top}, ${5:bottom})$0",
+		},
+		{
+			"trigger": "SetHorizontalScroll\t(scroll)",
+			"contents": "SetHorizontalScroll(${2:scroll})$0",
+		},
+		{
+			"trigger": "SetHyperlink\t(\"hyperlink\")",
+			"contents": "SetHyperlink(\"${2:hyperlink}\")$0",
+		},
+		{
+			"trigger": "SetHyperlink\t(hyperlink)",
+			"contents": "SetHyperlink(${2:hyperlink})$0",
+		},
+		{
+			"trigger": "SetHyperlinkCompareItem\t(\"hyperlink\", [index])",
+			"contents": "SetHyperlinkCompareItem(\"${3:hyperlink}\", ${4:[index]})$0",
+		},
+		{
+			"trigger": "SetHyperlinksEnabled\t(enable)",
+			"contents": "SetHyperlinksEnabled(${2:enable})$0",
+		},
+		{
+			"trigger": "SetIconTexture\t(\"filename\")",
+			"contents": "SetIconTexture(\"${2:filename}\")$0",
+		},
+		{
+			"trigger": "SetID\t(id)",
+			"contents": "SetID(${2:id})$0",
+		},
+		{
+			"trigger": "SetIgnoreFramerateThrottle\t()",
+			"contents": "SetIgnoreFramerateThrottle()$0",
+		},
+		{
+			"trigger": "SetInboxItem\t(mailID, attachmentIndex)",
+			"contents": "SetInboxItem(${2:mailID}, ${3:attachmentIndex})$0",
+		},
+		{
+			"trigger": "SetIndentedWordWrap\t(indent)",
+			"contents": "SetIndentedWordWrap(${2:indent})$0",
+		},
+		{
+			"trigger": "SetInitialOffset\t(x, y)",
+			"contents": "SetInitialOffset(${2:x}, ${3:y})$0",
+		},
+		{
+			"trigger": "SetInsertMode\t(\"position\")",
+			"contents": "SetInsertMode(\"${2:position}\")$0",
+		},
+		{
+			"trigger": "SetInventoryItem\t(\"unit\", slot, [nameOnly])",
+			"contents": "SetInventoryItem(\"${5:unit}\", ${6:slot}, ${7:[nameOnly]})$0",
+		},
+		{
+			"trigger": "SetJustifyH\t(\"justify\")",
+			"contents": "SetJustifyH(\"${2:justify}\")$0",
+		},
+		{
+			"trigger": "SetJustifyV\t(\"justify\")",
+			"contents": "SetJustifyV(\"justify\")$0",
+		},
+		{
+			"trigger": "SetLight\t(enabled, omni, dirX, dirY, dirZ, ambIntensity, [ambR], [ambG], [ambB], [dirIntensity], [dirR], [dirG], [dirB])",
+			"contents": "SetLight(${2:enabled}, ${3:omni}, ${4:dirX}, ${5:dirY}, ${6:dirZ}, ${7:ambIntensity}, ${8:[ambR]}, ${9:[ambG]}, ${10:[ambB]}, ${11:[dirIntensity]}, ${12:[dirR]}, ${13:[dirG]}, ${14:[dirB]})$0",
+		},
+		{
+			"trigger": "SetLooping\t(\"loopType\")",
+			"contents": "SetLooping(\"${2:loopType}\")$0",
+		},
+		{
+			"trigger": "SetLootItem\t(slot)",
+			"contents": "SetLootItem(${2:slot})$0",
+		},
+		{
+			"trigger": "SetLootRollItem\t(id)",
+			"contents": "SetLootRollItem(${2:id})$0",
+		},
+		{
+			"trigger": "SetMaskTexture\t(\"filename\")",
+			"contents": "SetMaskTexture(\"${2:filename}\")$0",
+		},
+		{
+			"trigger": "SetMaxBytes\t(maxBytes)",
+			"contents": "SetMaxBytes(${2:maxBytes})$0",
+		},
+		{
+			"trigger": "SetMaxLetters\t(maxLetters)",
+			"contents": "SetMaxLetters(${2:maxLetters})$0",
+		},
+		{
+			"trigger": "SetMaxLines\t(maxLines)",
+			"contents": "SetMaxLines(${2:maxLines})$0",
+		},
+		{
+			"trigger": "SetMaxResize\t(maxWidth, maxHeight)",
+			"contents": "SetMaxResize(${2:maxWidth}, ${3:maxHeight})$0",
+		},
+		{
+			"trigger": "SetMerchantCostItem\t(index, currency)",
+			"contents": "SetMerchantCostItem(${2:index}, ${3:currency})$0",
+		},
+		{
+			"trigger": "SetMerchantItem\t(merchantIndex)",
+			"contents": "SetMerchantItem(${2:merchantIndex})$0",
+		},
+		{
+			"trigger": "SetMinimumWidth\t(width)",
+			"contents": "SetMinimumWidth(${2:width})$0",
+		},
+		{
+			"trigger": "SetMinMaxValues\t(minValue, maxValue)",
+			"contents": "SetMinMaxValues(${2:minValue}, ${3:maxValue})$0",
+		},
+		{
+			"trigger": "SetMinResize\t(minWidth, minHeight)",
+			"contents": "SetMinResize(${2:minWidth}, ${3:minHeight})$0",
+		},
+		{
+			"trigger": "SetModel\t(\"filename\")",
+			"contents": "SetModel(\"${2:filename}\")$0",
+		},
+		{
+			"trigger": "SetModelScale\t(scale)",
+			"contents": "SetModelScale(${2:scale})$0",
+		},
+		{
+			"trigger": "SetMotionScriptsWhileDisabled\t(enabled)",
+			"contents": "SetMotionScriptsWhileDisabled(${2:enabled})$0",
+		},
+		{
+			"trigger": "SetMovable\t(enable)",
+			"contents": "SetMovable(${2:enable})$0",
+		},
+		{
+			"trigger": "SetMultiLine\t(multiLine)",
+			"contents": "SetMultiLine(${2:multiLine})$0",
+		},
+		{
+			"trigger": "SetNonBlocking\t(nonBlocking)",
+			"contents": "SetNonBlocking(${2:nonBlocking})$0",
+		},
+		{
+			"trigger": "SetNonSpaceWrap\t(enable)",
+			"contents": "SetNonSpaceWrap(${2:enable})$0",
+		},
+		{
+			"trigger": "SetNormalFontObject\t(font)",
+			"contents": "SetNormalFontObject(${2:font})$0",
+		},
+		{
+			"trigger": "SetNormalTexture\t(\"fileName\")",
+			"contents": "SetNormalTexture(\"${2:fileName}\")$0",
+		},
+		{
+			"trigger": "SetNormalTexture\t(texture)",
+			"contents": "SetNormalTexture(${2:texture})$0",
+		},
+		{
+			"trigger": "SetNumber\t(num)",
+			"contents": "SetNumber(${2:num})$0",
+		},
+		{
+			"trigger": "SetNumeric\t(enable)",
+			"contents": "SetNumeric(${2:enable})$0",
+		},
+		{
+			"trigger": "SetNumSplinePoints\t(points)",
+			"contents": "SetNumSplinePoints(${2:points})$0",
+		},
+		{
+			"trigger": "SetOffset\t(x, y)",
+			"contents": "SetOffset(${2:x}, ${3:y})$0",
+		},
+		{
+			"trigger": "SetOffset\t(xOffset, yOffset)",
+			"contents": "SetOffset(${2:xOffset}, ${3:yOffset})$0",
+		},
+		{
+			"trigger": "SetOrder\t(order)",
+			"contents": "SetOrder(${2:order})$0",
+		},
+		{
+			"trigger": "SetOrientation\t(\"orientation\")",
+			"contents": "SetOrientation(\"${2:orientation}\")$0",
+		},
+		{
+			"trigger": "SetOrigin\t(\"point\", xOffset, yOffset)",
+			"contents": "SetOrigin(\"${2:point}\", ${3:xOffset}, ${4:yOffset})$0",
+		},
+		{
+			"trigger": "SetOwner\t(frame, [\"anchorType\"], [xOffset], [yOffset])",
+			"contents": "SetOwner(${2:frame}, ${3:[\"anchorType\"]}, ${4:[xOffset]}, ${5:[yOffset]})$0",
+		},
+		{
+			"trigger": "SetPadding\t(padding)",
+			"contents": "SetPadding(${2:padding})$0",
+		},
+		{
+			"trigger": "SetParent\t(animGroup)",
+			"contents": "SetParent(${2:animGroup})$0",
+		},
+		{
+			"trigger": "SetParent\t(\"animGroupName\")",
+			"contents": "SetParent(\"${2:animGroupName}\")$0",
+		},
+		{
+			"trigger": "SetParent\t(frame)",
+			"contents": "SetParent(${2:frame})$0",
+		},
+		{
+			"trigger": "SetParent\t(\"name\")",
+			"contents": "SetParent(\"${2:name}\")$0",
+		},
+		{
+			"trigger": "SetParent\t([\"path\"], [order])",
+			"contents": "SetParent(${2:[\"path\"]}, ${3:[order]})$0",
+		},
+		{
+			"trigger": "SetParent\t([path], [order])",
+			"contents": "SetParent(${2:[path]}, ${3:[order]})$0",
+		},
+		{
+			"trigger": "SetPassword\t(enable)",
+			"contents": "SetPassword(${2:enable})$0",
+		},
+		{
+			"trigger": "SetPetAction\t(index)",
+			"contents": "SetPetAction(${2:index})$0",
+		},
+		{
+			"trigger": "SetPlayerTexture\t(\"filename\")",
+			"contents": "SetPlayerTexture(\"${2:filename}\")$0",
+		},
+		{
+			"trigger": "SetPlayerTextureHeight\t(height)",
+			"contents": "SetPlayerTextureHeight(${2:height})$0",
+		},
+		{
+			"trigger": "SetPlayerTextureWidth\t(width)",
+			"contents": "SetPlayerTextureWidth(${2:width})$0",
+		},
+		{
+			"trigger": "SetPOIArrowTexture\t(\"filename\")",
+			"contents": "SetPOIArrowTexture(\"${2:filename}\")$0",
+		},
+		{
+			"trigger": "SetPoint\t(\"point\", [relativeTo], [\"relativePoint\"], [xOffset], [yOffset])",
+			"contents": "SetPoint(\"${2:point}\", ${3:[relativeTo]}, ${4:[\"relativePoint\"]}, ${5:[xOffset]}, ${6:[yOffset]})$0",
+		},
+		{
+			"trigger": "SetPosition\t(x, y, z)",
+			"contents": "SetPosition(${2:x}, ${3:y}, ${4:z})$0",
+		},
+		{
+			"trigger": "SetPossession\t(index)",
+			"contents": "SetPossession(${2:index})$0",
+		},
+		{
+			"trigger": "SetPushedTextOffset\t(x, y)",
+			"contents": "SetPushedTextOffset(${2:x}, ${3:y})$0",
+		},
+		{
+			"trigger": "SetPushedTexture\t(\"fileName\")",
+			"contents": "SetPushedTexture(\"${2:fileName}\")$0",
+		},
+		{
+			"trigger": "SetPushedTexture\t(texture)",
+			"contents": "SetPushedTexture(${2:texture})$0",
+		},
+		{
+			"trigger": "SetQuestItem\t(\"itemType\", index)",
+			"contents": "SetQuestItem(\"${2:itemType}\", ${3:index})$0",
+		},
+		{
+			"trigger": "SetQuestLogItem\t(\"itemType\", index)",
+			"contents": "SetQuestLogItem(\"${2:itemType}\", ${3:index})$0",
+		},
+		{
+			"trigger": "SetQuestLogRewardSpell\t()",
+			"contents": "SetQuestLogRewardSpell()$0",
+		},
+		{
+			"trigger": "SetQuestLogSpecialItem\t(questIndex)",
+			"contents": "SetQuestLogSpecialItem(${2:questIndex})$0",
+		},
+		{
+			"trigger": "SetQuestRewardSpell\t()",
+			"contents": "SetQuestRewardSpell()$0",
+		},
+		{
+			"trigger": "SetRadians\t(radians)",
+			"contents": "SetRadians(${2:radians})$0",
+		},
+		{
+			"trigger": "SetResizable\t(enable)",
+			"contents": "SetResizable(${2:enable})$0",
+		},
+		{
+			"trigger": "SetReverse\t(reverse)",
+			"contents": "SetReverse(${2:reverse})$0",
+		},
+		{
+			"trigger": "SetRotatesTexture\t(rotate)",
+			"contents": "SetRotatesTexture(${2:rotate})$0",
+		},
+		{
+			"trigger": "SetRotation\t(facing)",
+			"contents": "SetRotation(${2:facing})$0",
+		},
+		{
+			"trigger": "SetRotation\t(radians)",
+			"contents": "SetRotation(${2:radians})$0",
+		},
+		{
+			"trigger": "SetScale\t(scale)",
+			"contents": "SetScale(${2:scale})$0",
+		},
+		{
+			"trigger": "SetScale\t(xFactor, yFactor)",
+			"contents": "SetScale(${2:xFactor}, ${3:yFactor})$0",
+		},
+		{
+			"trigger": "SetScript\t(\"scriptType\", handler)",
+			"contents": "SetScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "SetScrollChild\t(frame)",
+			"contents": "SetScrollChild(${2:frame})$0",
+		},
+		{
+			"trigger": "SetScrollOffset\t(offset)",
+			"contents": "SetScrollOffset(${2:offset})$0",
+		},
+		{
+			"trigger": "SetSendMailItem\t(slot)",
+			"contents": "SetSendMailItem(${2:slot})$0",
+		},
+		{
+			"trigger": "SetSequence\t(sequence)",
+			"contents": "SetSequence(${2:sequence})$0",
+		},
+		{
+			"trigger": "SetSequenceTime\t(sequence, time)",
+			"contents": "SetSequenceTime(${2:sequence}, ${3:time})$0",
+		},
+		{
+			"trigger": "SetShadowColor\t(shadowRed, shadowGreen, shadowBlue, shadowAlpha)",
+			"contents": "SetShadowColor(${2:shadowRed}, ${3:shadowGreen}, ${4:shadowBlue}, ${5:shadowAlpha})$0",
+		},
+		{
+			"trigger": "SetShadowOffset\t(xOffset, yOffset)",
+			"contents": "SetShadowOffset(${2:xOffset}, ${3:yOffset})$0",
+		},
+		{
+			"trigger": "SetShapeshift\t(index)",
+			"contents": "SetShapeshift(${2:index})$0",
+		},
+		{
+			"trigger": "SetSize\t(width, height)",
+			"contents": "SetSize(${2:width}, ${3:height})$0",
+		},
+		{
+			"trigger": "SetSmoothing\t(\"smoothType\")",
+			"contents": "SetSmoothing(\"${2:smoothType}\")$0",
+		},
+		{
+			"trigger": "SetSmoothProgress\t()",
+			"contents": "SetSmoothProgress()$0",
+		},
+		{
+			"trigger": "SetSocketedItem\t()",
+			"contents": "SetSocketedItem()$0",
+		},
+		{
+			"trigger": "SetSocketGem\t(index)",
+			"contents": "SetSocketGem(${2:index})$0",
+		},
+		{
+			"trigger": "SetSpacing\t(spacing)",
+			"contents": "SetSpacing(${2:spacing})$0",
+		},
+		{
+			"trigger": "SetSpellByID\t(id)",
+			"contents": "SetSpellByID(${2:id})$0",
+		},
+		{
+			"trigger": "SetStartDelay\t(delay)",
+			"contents": "SetStartDelay(${2:delay})$0",
+		},
+		{
+			"trigger": "SetStaticPOIArrowTexture\t(\"filename\")",
+			"contents": "SetStaticPOIArrowTexture(\"${2:filename}\")$0",
+		},
+		{
+			"trigger": "SetStatusBarColor\t(red, green, blue, [alpha])",
+			"contents": "SetStatusBarColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+		},
+		{
+			"trigger": "SetStatusBarTexture\t(\"fileName\", [\"layer\"])",
+			"contents": "SetStatusBarTexture(\"${2:fileName}\", ${3:[\"layer\"]})$0",
+		},
+		{
+			"trigger": "SetStatusBarTexture\t(texture, [\"layer\"])",
+			"contents": "SetStatusBarTexture(${2:texture}, ${3:[\"layer\"]})$0",
+		},
+		{
+			"trigger": "SetTalent\t(tabIndex, talentIndex, inspect, pet, talentGroup)",
+			"contents": "SetTalent(${2:tabIndex}, ${3:talentIndex}, ${4:inspect}, ${5:pet}, ${6:talentGroup})$0",
+		},
+		{
+			"trigger": "SetTexCoord\t(left, right, top, bottom)",
+			"contents": "SetTexCoord(${2:left}, ${3:right}, ${4:top}, ${5:bottom})$0",
+		},
+		{
+			"trigger": "SetTexCoord\t(ULx, ULy, LLx, LLy, URx, URy, LRx, LRy)",
+			"contents": "SetTexCoord(${2:ULx}, ${3:ULy}, ${4:LLx}, ${5:LLy}, ${6:URx}, ${7:URy}, ${8:LRx}, ${9:LRy})$0",
+		},
+		{
+			"trigger": "SetText\t(\"text\")",
+			"contents": "SetText(\"${2:text}\")$0",
+		},
+		{
+			"trigger": "SetText\t(\"text\", [red], [green], [blue], [alpha])",
+			"contents": "SetText(\"${2:text}\", ${3:[red]}, ${4:[green]}, ${5:[blue]}, ${6:[alpha]})$0",
+		},
+		{
+			"trigger": "SetTextColor\t(textRed, textGreen, textBlue, textAlpha)",
+			"contents": "SetTextColor(${2:textRed}, ${3:textGreen}, ${4:textBlue}, ${5:textAlpha})$0",
+		},
+		{
+			"trigger": "SetTextHeight\t(height)",
+			"contents": "SetTextHeight(${2:height})$0",
+		},
+		{
+			"trigger": "SetTextInsets\t(left, right, top, bottom)",
+			"contents": "SetTextInsets(${2:left}, ${3:right}, ${4:top}, ${5:bottom})$0",
+		},
+		{
+			"trigger": "SetTexture\t(red, green, blue, [alpha])",
+			"contents": "SetTexture(${3:red}, ${4:green}, ${5:blue}, ${6:[alpha]})$0",
+		},
+		{
+			"trigger": "SetTexture\t(\"texture\")",
+			"contents": "SetTexture(\"${3:texture}\")$0",
+		},
+		{
+			"trigger": "SetThumbTexture\t(\"fileName\", [\"layer\"])",
+			"contents": "SetThumbTexture(\"${2:fileName}\", ${3:[\"layer\"]})$0",
+		},
+		{
+			"trigger": "SetThumbTexture\t(texture, [\"layer\"])",
+			"contents": "SetThumbTexture(${2:texture}, ${3:[\"layer\"]})$0",
+		},
+		{
+			"trigger": "SetTimeVisible\t(time)",
+			"contents": "SetTimeVisible(${2:time})$0",
+		},
+		{
+			"trigger": "SetToplevel\t(enable)",
+			"contents": "SetToplevel(${2:enable})$0",
+		},
+		{
+			"trigger": "SetTotem\t(slot)",
+			"contents": "SetTotem(${2:slot})$0",
+		},
+		{
+			"trigger": "SetTradePlayerItem\t(index)",
+			"contents": "SetTradePlayerItem(${2:index})$0",
+		},
+		{
+			"trigger": "SetTradeSkillItem\t(skillIndex, [reagentIndex])",
+			"contents": "SetTradeSkillItem(${2:skillIndex}, ${3:[reagentIndex]})$0",
+		},
+		{
+			"trigger": "SetTradeTargetItem\t(index)",
+			"contents": "SetTradeTargetItem(${2:index})$0",
+		},
+		{
+			"trigger": "SetTrainerService\t(index)",
+			"contents": "SetTrainerService(${2:index})$0",
+		},
+		{
+			"trigger": "SetUnit\t(\"unit\")",
+			"contents": "SetUnit(\"${2:unit}\")$0",
+		},
+		{
+			"trigger": "SetUnitAura\t(\"unit\", index, [\"filter\"])",
+			"contents": "SetUnitAura(\"${2:unit}\", ${3:index}, ${4:[\"filter\"]})$0",
+		},
+		{
+			"trigger": "SetUnitBuff\t(\"unit\", index, [\"filter\"])",
+			"contents": "SetUnitBuff(\"${2:unit}\", ${3:index}, ${4:[\"filter\"]})$0",
+		},
+		{
+			"trigger": "SetUnitDebuff\t(\"unit\", index, [\"filter\"])",
+			"contents": "SetUnitDebuff(\"${2:unit}\", ${3:index}, ${4:[\"filter\"]})$0",
+		},
+		{
+			"trigger": "SetUserPlaced\t(enable)",
+			"contents": "SetUserPlaced(${2:enable})$0",
+		},
+		{
+			"trigger": "SetValue\t(value)",
+			"contents": "SetValue(${2:value})$0",
+		},
+		{
+			"trigger": "SetValueStep\t(step)",
+			"contents": "SetValueStep(${2:step})$0",
+		},
+		{
+			"trigger": "SetVertexColor\t(red, green, blue, [alpha])",
+			"contents": "SetVertexColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+		},
+		{
+			"trigger": "SetVerticalScroll\t(scroll)",
+			"contents": "SetVerticalScroll(${2:scroll})$0",
+		},
+		{
+			"trigger": "SetWidth\t(width)",
+			"contents": "SetWidth(${2:width})$0",
+		},
+		{
+			"trigger": "SetWordWrap\t(enable)",
+			"contents": "SetWordWrap(${2:enable})$0",
+		},
+		{
+			"trigger": "SetZoom\t(zoomLevel)",
+			"contents": "SetZoom(${2:zoomLevel})$0",
+		},
+		{
+			"trigger": "Show\t()",
+			"contents": "Show()$0",
+		},
+		{
+			"trigger": "Slider:Disable\t()",
+			"contents": "${1:Slider}:Disable()$0",
+		},
+		{
+			"trigger": "Slider:Enable\t()",
+			"contents": "${1:Slider}:Enable()$0",
+		},
+		{
+			"trigger": "Slider:GetMinMaxValues\t()",
+			"contents": "${3:Slider}:GetMinMaxValues()$0",
+		},
+		{
+			"trigger": "Slider:GetOrientation\t()",
+			"contents": "${2:Slider}:GetOrientation()$0",
+		},
+		{
+			"trigger": "Slider:GetThumbTexture\t()",
+			"contents": "${2:Slider}:GetThumbTexture()$0",
+		},
+		{
+			"trigger": "Slider:GetValue\t()",
+			"contents": "${2:Slider}:GetValue()$0",
+		},
+		{
+			"trigger": "Slider:GetValueStep\t()",
+			"contents": "${2:Slider}:GetValueStep()$0",
+		},
+		{
+			"trigger": "Slider:IsEnabled\t()",
+			"contents": "${2:Slider}:IsEnabled()$0",
+		},
+		{
+			"trigger": "Slider:SetMinMaxValues\t(minValue, maxValue)",
+			"contents": "${1:Slider}:SetMinMaxValues(${2:minValue}, ${3:maxValue})$0",
+		},
+		{
+			"trigger": "Slider:SetOrientation\t(\"orientation\")",
+			"contents": "${1:Slider}:SetOrientation(\"${2:orientation}\")$0",
+		},
+		{
+			"trigger": "Slider:SetThumbTexture\t(\"fileName\", [\"layer\"])",
+			"contents": "${1:Slider}:SetThumbTexture(\"${2:fileName}\", ${3:[\"layer\"]})$0",
+		},
+		{
+			"trigger": "Slider:SetThumbTexture\t(texture, [\"layer\"])",
+			"contents": "${1:Slider}:SetThumbTexture(${2:texture}, ${3:[\"layer\"]})$0",
+		},
+		{
+			"trigger": "Slider:SetValue\t(value)",
+			"contents": "${1:Slider}:SetValue(${2:value})$0",
+		},
+		{
+			"trigger": "Slider:SetValueStep\t(step)",
+			"contents": "${1:Slider}:SetValueStep(${2:step})$0",
+		},
+		{
+			"trigger": "StartMovie\t(\"fileName\", volume)",
+			"contents": "StartMovie(\"${3:fileName}\", ${4:volume})$0",
+		},
+		{
+			"trigger": "StartMoving\t()",
+			"contents": "StartMoving()$0",
+		},
+		{
+			"trigger": "StartSizing\t()",
+			"contents": "StartSizing()$0",
+		},
+		{
+			"trigger": "StatusBar:GetMinMaxValues\t()",
+			"contents": "${3:StatusBar}:GetMinMaxValues()$0",
+		},
+		{
+			"trigger": "StatusBar:GetOrientation\t()",
+			"contents": "${2:StatusBar}:GetOrientation()$0",
+		},
+		{
+			"trigger": "StatusBar:GetRotatesTexture\t()",
+			"contents": "${2:StatusBar}:GetRotatesTexture()$0",
+		},
+		{
+			"trigger": "StatusBar:GetStatusBarColor\t()",
+			"contents": "${5:StatusBar}:GetStatusBarColor()$0",
+		},
+		{
+			"trigger": "StatusBar:GetStatusBarTexture\t()",
+			"contents": "${2:StatusBar}:GetStatusBarTexture()$0",
+		},
+		{
+			"trigger": "StatusBar:GetValue\t()",
+			"contents": "${2:StatusBar}:GetValue()$0",
+		},
+		{
+			"trigger": "StatusBar:SetMinMaxValues\t(minValue, maxValue)",
+			"contents": "${1:StatusBar}:SetMinMaxValues(${2:minValue}, ${3:maxValue})$0",
+		},
+		{
+			"trigger": "StatusBar:SetOrientation\t(\"orientation\")",
+			"contents": "${1:StatusBar}:SetOrientation(\"${2:orientation}\")$0",
+		},
+		{
+			"trigger": "StatusBar:SetRotatesTexture\t(rotate)",
+			"contents": "${1:StatusBar}:SetRotatesTexture(${2:rotate})$0",
+		},
+		{
+			"trigger": "StatusBar:SetStatusBarColor\t(red, green, blue, [alpha])",
+			"contents": "${1:StatusBar}:SetStatusBarColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+		},
+		{
+			"trigger": "StatusBar:SetStatusBarTexture\t(\"fileName\", [\"layer\"])",
+			"contents": "${1:StatusBar}:SetStatusBarTexture(\"${2:fileName}\", ${3:[\"layer\"]})$0",
+		},
+		{
+			"trigger": "StatusBar:SetStatusBarTexture\t(texture, [\"layer\"])",
+			"contents": "${1:StatusBar}:SetStatusBarTexture(${2:texture}, ${3:[\"layer\"]})$0",
+		},
+		{
+			"trigger": "StatusBar:SetValue\t(value)",
+			"contents": "${1:StatusBar}:SetValue(${2:value})$0",
+		},
+		{
+			"trigger": "Stop\t()",
+			"contents": "Stop()$0",
+		},
+		{
+			"trigger": "StopAnimating\t()",
+			"contents": "StopAnimating()$0",
+		},
+		{
+			"trigger": "StopMovie\t()",
+			"contents": "StopMovie()$0",
+		},
+		{
+			"trigger": "StopMovingOrSizing\t()",
+			"contents": "StopMovingOrSizing()$0",
+		},
+		{
+			"trigger": "TabardModel:CanSaveTabardNow\t()",
+			"contents": "${2:TabardModel}:CanSaveTabardNow()$0",
+		},
+		{
+			"trigger": "TabardModel:CycleVariation\t(variable, delta)",
+			"contents": "${1:TabardModel}:CycleVariation(${2:variable}, ${3:delta})$0",
+		},
+		{
+			"trigger": "TabardModel:GetLowerBackgroundFileName\t(\"fileName\")",
+			"contents": "${1:TabardModel}:GetLowerBackgroundFileName(\"${2:fileName}\")$0",
+		},
+		{
+			"trigger": "TabardModel:GetLowerEmblemFileName\t(\"fileName\")",
+			"contents": "${1:TabardModel}:GetLowerEmblemFileName(\"${2:fileName}\")$0",
+		},
+		{
+			"trigger": "TabardModel:GetLowerEmblemTexture\t(texture)",
+			"contents": "${1:TabardModel}:GetLowerEmblemTexture(${2:texture})$0",
+		},
+		{
+			"trigger": "TabardModel:GetUpperBackgroundFileName\t(\"fileName\")",
+			"contents": "${1:TabardModel}:GetUpperBackgroundFileName(\"${2:fileName}\")$0",
+		},
+		{
+			"trigger": "TabardModel:GetUpperEmblemFileName\t(\"fileName\")",
+			"contents": "${1:TabardModel}:GetUpperEmblemFileName(\"${2:fileName}\")$0",
+		},
+		{
+			"trigger": "TabardModel:GetUpperEmblemTexture\t(texture)",
+			"contents": "${1:TabardModel}:GetUpperEmblemTexture(${2:texture})$0",
+		},
+		{
+			"trigger": "TabardModel:InitializeTabardColors\t()",
+			"contents": "${1:TabardModel}:InitializeTabardColors()$0",
+		},
+		{
+			"trigger": "TabardModel:Save\t()",
+			"contents": "${1:TabardModel}:Save()$0",
+		},
+		{
+			"trigger": "Texture:GetBlendMode\t()",
+			"contents": "${2:Texture}:GetBlendMode()$0",
+		},
+		{
+			"trigger": "Texture:GetNonBlocking\t()",
+			"contents": "${2:Texture}:GetNonBlocking()$0",
+		},
+		{
+			"trigger": "Texture:GetTexCoord\t()",
+			"contents": "${9:Texture}:GetTexCoord()$0",
+		},
+		{
+			"trigger": "Texture:GetTexture\t()",
+			"contents": "${2:Texture}:GetTexture()$0",
+		},
+		{
+			"trigger": "Texture:GetVertexColor\t()",
+			"contents": "${5:Texture}:GetVertexColor()$0",
+		},
+		{
+			"trigger": "Texture:IsDesaturated\t()",
+			"contents": "${2:Texture}:IsDesaturated()$0",
+		},
+		{
+			"trigger": "Texture:SetBlendMode\t(\"mode\")",
+			"contents": "${1:Texture}:SetBlendMode(\"${2:mode}\")$0",
+		},
+		{
+			"trigger": "Texture:SetDesaturated\t(desaturate)",
+			"contents": "${2:Texture}:SetDesaturated(${3:desaturate})$0",
+		},
+		{
+			"trigger": "Texture:SetGradient\t(\"orientation\", startR, startG, startB, endR, endG, endB)",
+			"contents": "${1:Texture}:SetGradient(\"${2:orientation}\", ${3:startR}, ${4:startG}, ${5:startB}, ${6:endR}, ${7:endG}, ${8:endB})$0",
+		},
+		{
+			"trigger": "Texture:SetGradientAlpha\t(\"orientation\", startR, startG, startB, startAlpha, endR, endG, endB, endAlpha)",
+			"contents": "${1:Texture}:SetGradientAlpha(\"${2:orientation}\", ${3:startR}, ${4:startG}, ${5:startB}, ${6:startAlpha}, ${7:endR}, ${8:endG}, ${9:endB}, ${10:endAlpha})$0",
+		},
+		{
+			"trigger": "Texture:SetNonBlocking\t(nonBlocking)",
+			"contents": "${1:Texture}:SetNonBlocking(${2:nonBlocking})$0",
+		},
+		{
+			"trigger": "Texture:SetRotation\t(radians)",
+			"contents": "${1:Texture}:SetRotation(${2:radians})$0",
+		},
+		{
+			"trigger": "Texture:SetTexCoord\t(left, right, top, bottom)",
+			"contents": "${1:Texture}:SetTexCoord(${2:left}, ${3:right}, ${4:top}, ${5:bottom})$0",
+		},
+		{
+			"trigger": "Texture:SetTexCoord\t(ULx, ULy, LLx, LLy, URx, URy, LRx, LRy)",
+			"contents": "${1:Texture}:SetTexCoord(${2:ULx}, ${3:ULy}, ${4:LLx}, ${5:LLy}, ${6:URx}, ${7:URy}, ${8:LRx}, ${9:LRy})$0",
+		},
+		{
+			"trigger": "Texture:SetTexture\t(red, green, blue, [alpha])",
+			"contents": "${2:Texture}:SetTexture(${3:red}, ${4:green}, ${5:blue}, ${6:[alpha]})$0",
+		},
+		{
+			"trigger": "Texture:SetTexture\t(\"texture\")",
+			"contents": "${2:Texture}:SetTexture(\"${3:texture}\")$0",
+		},
+		{
+			"trigger": "ToggleInputLanguage\t()",
+			"contents": "ToggleInputLanguage()$0",
+		},
+		{
+			"trigger": "Translation:GetOffset\t()",
+			"contents": "${3:Translation}:GetOffset()$0",
+		},
+		{
+			"trigger": "Translation:SetOffset\t(xOffset, yOffset)",
+			"contents": "${1:Translation}:SetOffset(${2:xOffset}, ${3:yOffset})$0",
+		},
+		{
+			"trigger": "TryOn\t(itemID)",
+			"contents": "TryOn(${2:itemID})$0",
+		},
+		{
+			"trigger": "TryOn\t(\"itemLink\")",
+			"contents": "TryOn(\"${2:itemLink}\")$0",
+		},
+		{
+			"trigger": "TryOn\t(\"itemName\")",
+			"contents": "TryOn(\"${2:itemName}\")$0",
+		},
+		{
+			"trigger": "UIObject:GetName\t()",
+			"contents": "${2:UIObject}:GetName()$0",
+		},
+		{
+			"trigger": "UIObject:GetObjectType\t()",
+			"contents": "${2:UIObject}:GetObjectType()$0",
+		},
+		{
+			"trigger": "UIObject:IsObjectType\t(\"type\")",
+			"contents": "${2:UIObject}:IsObjectType(\"${3:type}\")$0",
+		},
+		{
+			"trigger": "Undress\t()",
+			"contents": "Undress()$0",
+		},
+		{
+			"trigger": "UnlockHighlight\t()",
+			"contents": "UnlockHighlight()$0",
+		},
+		{
+			"trigger": "UnregisterAllEvents\t()",
+			"contents": "UnregisterAllEvents()$0",
+		},
+		{
+			"trigger": "UnregisterEvent\t(\"event\")",
+			"contents": "UnregisterEvent(\"${2:event}\")$0",
+		},
+		{
+			"trigger": "UpdateColorByID\t(id, red, green, blue)",
+			"contents": "UpdateColorByID(${2:id}, ${3:red}, ${4:green}, ${5:blue})$0",
+		},
+		{
+			"trigger": "UpdateScrollChildRect\t()",
+			"contents": "UpdateScrollChildRect()$0",
+		},
+		{
+			"trigger": "VisibleRegion:GetAlpha\t()",
+			"contents": "${2:VisibleRegion}:GetAlpha()$0",
+		},
+		{
+			"trigger": "VisibleRegion:Hide\t()",
+			"contents": "${1:VisibleRegion}:Hide()$0",
+		},
+		{
+			"trigger": "VisibleRegion:IsShown\t()",
+			"contents": "${2:VisibleRegion}:IsShown()$0",
+		},
+		{
+			"trigger": "VisibleRegion:IsVisible\t()",
+			"contents": "${2:VisibleRegion}:IsVisible()$0",
+		},
+		{
+			"trigger": "VisibleRegion:SetAlpha\t(alpha)",
+			"contents": "${1:VisibleRegion}:SetAlpha(${2:alpha})$0",
+		},
+		{
+			"trigger": "VisibleRegion:Show\t()",
+			"contents": "${1:VisibleRegion}:Show()$0",
+		},
+		{
+			"trigger": "_Alpha:GetChange\t()",
+			"contents": "${1:change} = ${2:Alpha}:GetChange()$0",
+		},
+		{
+			"trigger": "_Animation:GetDuration\t()",
+			"contents": "${1:duration} = ${2:Animation}:GetDuration()$0",
+		},
+		{
+			"trigger": "_Animation:GetElapsed\t()",
+			"contents": "${1:elapsed} = ${2:Animation}:GetElapsed()$0",
+		},
+		{
+			"trigger": "_Animation:GetEndDelay\t()",
+			"contents": "${1:delay} = ${2:Animation}:GetEndDelay()$0",
+		},
+		{
+			"trigger": "_Animation:GetOrder\t()",
+			"contents": "${1:order} = ${2:Animation}:GetOrder()$0",
+		},
+		{
+			"trigger": "_Animation:GetProgress\t()",
+			"contents": "${1:progress} = ${2:Animation}:GetProgress()$0",
+		},
+		{
+			"trigger": "_Animation:GetProgressWithDelay\t()",
+			"contents": "${1:progress} = ${2:Animation}:GetProgressWithDelay()$0",
+		},
+		{
+			"trigger": "_Animation:GetRegionParent\t()",
+			"contents": "${1:region} = ${2:Animation}:GetRegionParent()$0",
+		},
+		{
+			"trigger": "_Animation:GetSmoothing\t()",
+			"contents": "${1:smoothType} = ${2:Animation}:GetSmoothing()$0",
+		},
+		{
+			"trigger": "_Animation:GetSmoothProgress\t()",
+			"contents": "${1:progress} = ${2:Animation}:GetSmoothProgress()$0",
+		},
+		{
+			"trigger": "_Animation:GetStartDelay\t()",
+			"contents": "${1:delay} = ${2:Animation}:GetStartDelay()$0",
+		},
+		{
+			"trigger": "_Animation:IsDelaying\t()",
+			"contents": "${1:delaying} = ${2:Animation}:IsDelaying()$0",
+		},
+		{
+			"trigger": "_Animation:IsDone\t()",
+			"contents": "${1:done} = ${2:Animation}:IsDone()$0",
+		},
+		{
+			"trigger": "_Animation:IsPaused\t()",
+			"contents": "${1:paused} = ${2:Animation}:IsPaused()$0",
+		},
+		{
+			"trigger": "_Animation:IsPlaying\t()",
+			"contents": "${1:playing} = ${2:Animation}:IsPlaying()$0",
+		},
+		{
+			"trigger": "_Animation:IsStopped\t()",
+			"contents": "${1:stopped} = ${2:Animation}:IsStopped()$0",
+		},
+		{
+			"trigger": "_AnimationGroup:CreateAnimation\t(\"animationType\", [\"name\"], [\"inheritsFrom\"])",
+			"contents": "${1:animation} = ${2:AnimationGroup}:CreateAnimation(\"${3:animationType}\", ${4:[\"name\"]}, ${5:[\"inheritsFrom\"]})$0",
+		},
+		{
+			"trigger": "_AnimationGroup:GetAnimations\t()",
+			"contents": "${1:...} = ${2:AnimationGroup}:GetAnimations()$0",
+		},
+		{
+			"trigger": "_AnimationGroup:GetDuration\t()",
+			"contents": "${1:duration} = ${2:AnimationGroup}:GetDuration()$0",
+		},
+		{
+			"trigger": "_AnimationGroup:GetInitialOffset\t()",
+			"contents": "${1:x}, ${2:y} = ${3:AnimationGroup}:GetInitialOffset()$0",
+		},
+		{
+			"trigger": "_AnimationGroup:GetLooping\t()",
+			"contents": "${1:loopType} = ${2:AnimationGroup}:GetLooping()$0",
+		},
+		{
+			"trigger": "_AnimationGroup:GetLoopState\t()",
+			"contents": "${1:loopState} = ${2:AnimationGroup}:GetLoopState()$0",
+		},
+		{
+			"trigger": "_AnimationGroup:GetMaxOrder\t()",
+			"contents": "${1:maxOrder} = ${2:AnimationGroup}:GetMaxOrder()$0",
+		},
+		{
+			"trigger": "_AnimationGroup:GetProgress\t()",
+			"contents": "${1:progress} = ${2:AnimationGroup}:GetProgress()$0",
+		},
+		{
+			"trigger": "_AnimationGroup:IsDone\t()",
+			"contents": "${1:done} = ${2:AnimationGroup}:IsDone()$0",
+		},
+		{
+			"trigger": "_AnimationGroup:IsPaused\t()",
+			"contents": "${1:paused} = ${2:AnimationGroup}:IsPaused()$0",
+		},
+		{
+			"trigger": "_AnimationGroup:IsPendingFinish\t()",
+			"contents": "${1:isPending} = ${2:AnimationGroup}:IsPendingFinish()$0",
+		},
+		{
+			"trigger": "_AnimationGroup:IsPlaying\t()",
+			"contents": "${1:playing} = ${2:AnimationGroup}:IsPlaying()$0",
+		},
+		{
+			"trigger": "_Button:GetButtonState\t()",
+			"contents": "${1:state} = ${2:Button}:GetButtonState()$0",
+		},
+		{
+			"trigger": "_Button:GetDisabledFontObject\t()",
+			"contents": "${1:font} = ${2:Button}:GetDisabledFontObject()$0",
+		},
+		{
+			"trigger": "_Button:GetDisabledTexture\t()",
+			"contents": "${1:texture} = ${2:Button}:GetDisabledTexture()$0",
+		},
+		{
+			"trigger": "_Button:GetFontString\t()",
+			"contents": "${1:fontstring} = ${2:Button}:GetFontString()$0",
+		},
+		{
+			"trigger": "_Button:GetHighlightFontObject\t()",
+			"contents": "${1:font} = ${2:Button}:GetHighlightFontObject()$0",
+		},
+		{
+			"trigger": "_Button:GetHighlightTexture\t()",
+			"contents": "${1:texture} = ${2:Button}:GetHighlightTexture()$0",
+		},
+		{
+			"trigger": "_Button:GetMotionScriptsWhileDisabled\t()",
+			"contents": "${1:isEnabled} = ${2:Button}:GetMotionScriptsWhileDisabled()$0",
+		},
+		{
+			"trigger": "_Button:GetNormalFontObject\t()",
+			"contents": "${1:font} = ${2:Button}:GetNormalFontObject()$0",
+		},
+		{
+			"trigger": "_Button:GetNormalTexture\t()",
+			"contents": "${1:texture} = ${2:Button}:GetNormalTexture()$0",
+		},
+		{
+			"trigger": "_Button:GetPushedTextOffset\t()",
+			"contents": "${1:x}, ${2:y} = ${3:Button}:GetPushedTextOffset()$0",
+		},
+		{
+			"trigger": "_Button:GetPushedTexture\t()",
+			"contents": "${1:texture} = ${2:Button}:GetPushedTexture()$0",
+		},
+		{
+			"trigger": "_Button:GetText\t()",
+			"contents": "${1:text} = ${2:Button}:GetText()$0",
+		},
+		{
+			"trigger": "_Button:GetTextHeight\t()",
+			"contents": "${1:height} = ${2:Button}:GetTextHeight()$0",
+		},
+		{
+			"trigger": "_Button:GetTextWidth\t()",
+			"contents": "${1:width} = ${2:Button}:GetTextWidth()$0",
+		},
+		{
+			"trigger": "_Button:IsEnabled\t()",
+			"contents": "${1:enabled} = ${2:Button}:IsEnabled()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetChecked\t()",
+			"contents": "${1:enabled} = ${2:CheckButton}:GetChecked()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetCheckedTexture\t()",
+			"contents": "${1:texture} = ${2:CheckButton}:GetCheckedTexture()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetDisabledCheckedTexture\t()",
+			"contents": "${1:texture} = ${2:CheckButton}:GetDisabledCheckedTexture()$0",
+		},
+		{
+			"trigger": "_ColorSelect:GetColorHSV\t()",
+			"contents": "${1:hue}, ${2:saturation}, ${3:value} = ${4:ColorSelect}:GetColorHSV()$0",
+		},
+		{
+			"trigger": "_ColorSelect:GetColorRGB\t()",
+			"contents": "${1:red}, ${2:blue}, ${3:green} = ${4:ColorSelect}:GetColorRGB()$0",
+		},
+		{
+			"trigger": "_ColorSelect:GetColorValueTexture\t()",
+			"contents": "${1:texture} = ${2:ColorSelect}:GetColorValueTexture()$0",
+		},
+		{
+			"trigger": "_ColorSelect:GetColorValueThumbTexture\t()",
+			"contents": "${1:texture} = ${2:ColorSelect}:GetColorValueThumbTexture()$0",
+		},
+		{
+			"trigger": "_ColorSelect:GetColorWheelTexture\t()",
+			"contents": "${1:texture} = ${2:ColorSelect}:GetColorWheelTexture()$0",
+		},
+		{
+			"trigger": "_ColorSelect:GetColorWheelThumbTexture\t()",
+			"contents": "${1:texture} = ${2:ColorSelect}:GetColorWheelThumbTexture()$0",
+		},
+		{
+			"trigger": "_ControlPoint:GetOffset\t()",
+			"contents": "${1:x}, ${2:y} = ${3:ControlPoint}:GetOffset()$0",
+		},
+		{
+			"trigger": "_ControlPoint:GetOrder\t()",
+			"contents": "${1:order} = ${2:ControlPoint}:GetOrder()$0",
+		},
+		{
+			"trigger": "_Cooldown:GetReverse\t()",
+			"contents": "${1:enabled} = ${2:Cooldown}:GetReverse()$0",
+		},
+		{
+			"trigger": "_EditBox:GetAltArrowKeyMode\t()",
+			"contents": "${1:enabled} = ${2:EditBox}:GetAltArrowKeyMode()$0",
+		},
+		{
+			"trigger": "_EditBox:GetBlinkSpeed\t()",
+			"contents": "${1:duration} = ${2:EditBox}:GetBlinkSpeed()$0",
+		},
+		{
+			"trigger": "_EditBox:GetCursorPosition\t()",
+			"contents": "${1:position} = ${2:EditBox}:GetCursorPosition()$0",
+		},
+		{
+			"trigger": "_EditBox:GetHistoryLines\t()",
+			"contents": "${1:count} = ${2:EditBox}:GetHistoryLines()$0",
+		},
+		{
+			"trigger": "_EditBox:GetIndentedWordWrap\t()",
+			"contents": "${1:indent} = ${2:EditBox}:GetIndentedWordWrap()$0",
+		},
+		{
+			"trigger": "_EditBox:GetInputLanguage\t()",
+			"contents": "${1:language} = ${2:EditBox}:GetInputLanguage()$0",
+		},
+		{
+			"trigger": "_EditBox:GetMaxBytes\t()",
+			"contents": "${1:maxBytes} = ${2:EditBox}:GetMaxBytes()$0",
+		},
+		{
+			"trigger": "_EditBox:GetMaxLetters\t()",
+			"contents": "${1:maxLetters} = ${2:EditBox}:GetMaxLetters()$0",
+		},
+		{
+			"trigger": "_EditBox:GetNumber\t()",
+			"contents": "${1:num} = ${2:EditBox}:GetNumber()$0",
+		},
+		{
+			"trigger": "_EditBox:GetNumLetters\t()",
+			"contents": "${1:numLetters} = ${2:EditBox}:GetNumLetters()$0",
+		},
+		{
+			"trigger": "_EditBox:GetText\t()",
+			"contents": "${1:text} = ${2:EditBox}:GetText()$0",
+		},
+		{
+			"trigger": "_EditBox:GetTextInsets\t()",
+			"contents": "${1:left}, ${2:right}, ${3:top}, ${4:bottom} = ${5:EditBox}:GetTextInsets()$0",
+		},
+		{
+			"trigger": "_EditBox:GetUTF8CursorPosition\t()",
+			"contents": "${1:position} = ${2:EditBox}:GetUTF8CursorPosition()$0",
+		},
+		{
+			"trigger": "_EditBox:HasFocus\t()",
+			"contents": "${1:enabled} = ${2:EditBox}:HasFocus()$0",
+		},
+		{
+			"trigger": "_EditBox:IsAutoFocus\t()",
+			"contents": "${1:enabled} = ${2:EditBox}:IsAutoFocus()$0",
+		},
+		{
+			"trigger": "_EditBox:IsInIMECompositionMode\t()",
+			"contents": "${1:enabled} = ${2:EditBox}:IsInIMECompositionMode()$0",
+		},
+		{
+			"trigger": "_EditBox:IsMultiLine\t()",
+			"contents": "${1:multiLine} = ${2:EditBox}:IsMultiLine()$0",
+		},
+		{
+			"trigger": "_EditBox:IsNumeric\t()",
+			"contents": "${1:enabled} = ${2:EditBox}:IsNumeric()$0",
+		},
+		{
+			"trigger": "_EditBox:IsPassword\t()",
+			"contents": "${1:enabled} = ${2:EditBox}:IsPassword()$0",
+		},
+		{
+			"trigger": "_Font:GetAlpha\t()",
+			"contents": "${1:alpha} = ${2:Font}:GetAlpha()$0",
+		},
+		{
+			"trigger": "_FontInstance:GetFont\t()",
+			"contents": "${1:filename}, ${2:fontHeight}, ${3:flags} = ${4:FontInstance}:GetFont()$0",
+		},
+		{
+			"trigger": "_FontInstance:GetFontObject\t()",
+			"contents": "${1:font} = ${2:FontInstance}:GetFontObject()$0",
+		},
+		{
+			"trigger": "_FontInstance:GetJustifyH\t()",
+			"contents": "${1:justify} = ${2:FontInstance}:GetJustifyH()$0",
+		},
+		{
+			"trigger": "_FontInstance:GetJustifyV\t()",
+			"contents": "${1:justify} = ${2:FontInstance}:GetJustifyV()$0",
+		},
+		{
+			"trigger": "_FontInstance:GetShadowColor\t()",
+			"contents": "${1:shadowR}, ${2:shadowG}, ${3:shadowB}, ${4:shadowAlpha} = ${5:FontInstance}:GetShadowColor()$0",
+		},
+		{
+			"trigger": "_FontInstance:GetShadowOffset\t()",
+			"contents": "${1:xOffset}, ${2:yOffset} = ${3:FontInstance}:GetShadowOffset()$0",
+		},
+		{
+			"trigger": "_FontInstance:GetSpacing\t()",
+			"contents": "${1:spacing} = ${2:FontInstance}:GetSpacing()$0",
+		},
+		{
+			"trigger": "_FontInstance:GetTextColor\t()",
+			"contents": "${1:textR}, ${2:textG}, ${3:textB}, ${4:textAlpha} = ${5:FontInstance}:GetTextColor()$0",
+		},
+		{
+			"trigger": "_FontInstance:SetFont\t(\"filename\", fontHeight, \"flags\")",
+			"contents": "${1:isValid} = ${2:FontInstance}:SetFont(\"${3:filename}\", ${4:fontHeight}, \"${5:flags}\")$0",
+		},
+		{
+			"trigger": "_FontString:CanNonSpaceWrap\t()",
+			"contents": "${1:enabled} = ${2:FontString}:CanNonSpaceWrap()$0",
+		},
+		{
+			"trigger": "_FontString:CanWordWrap\t()",
+			"contents": "${1:enabled} = ${2:FontString}:CanWordWrap()$0",
+		},
+		{
+			"trigger": "_FontString:GetStringHeight\t()",
+			"contents": "${1:height} = ${2:FontString}:GetStringHeight()$0",
+		},
+		{
+			"trigger": "_FontString:GetStringWidth\t()",
+			"contents": "${1:width} = ${2:FontString}:GetStringWidth()$0",
+		},
+		{
+			"trigger": "_FontString:GetText\t()",
+			"contents": "${1:text} = ${2:FontString}:GetText()$0",
+		},
+		{
+			"trigger": "_Frame:CanChangeAttribute\t()",
+			"contents": "${1:enabled} = ${2:Frame}:CanChangeAttribute()$0",
+		},
+		{
+			"trigger": "_Frame:CreateFontString\t([\"name\"], [\"layer\"], [\"inherits\"])",
+			"contents": "${1:fontstring} = ${2:Frame}:CreateFontString(${3:[\"name\"]}, ${4:[\"layer\"]}, ${5:[\"inherits\"]})$0",
+		},
+		{
+			"trigger": "_Frame:CreateTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:texture} = ${2:Frame}:CreateTexture(${3:[\"name\"]}, ${4:[\"layer\"]}, ${5:[\"inherits\"]}, ${6:[sublevel]})$0",
+		},
+		{
+			"trigger": "_Frame:CreateTitleRegion\t()",
+			"contents": "${1:region} = ${2:Frame}:CreateTitleRegion()$0",
+		},
+		{
+			"trigger": "_Frame:GetAttribute\t(\"name\")",
+			"contents": "${1:value} = ${2:Frame}:GetAttribute(\"${3:name}\")$0",
+		},
+		{
+			"trigger": "_Frame:GetBackdrop\t()",
+			"contents": "${1:backdrop} = ${2:Frame}:GetBackdrop()$0",
+		},
+		{
+			"trigger": "_Frame:GetBackdropBorderColor\t()",
+			"contents": "${1:red}, ${2:green}, ${3:blue}, ${4:alpha} = ${5:Frame}:GetBackdropBorderColor()$0",
+		},
+		{
+			"trigger": "_Frame:GetBackdropColor\t()",
+			"contents": "${1:red}, ${2:green}, ${3:blue}, ${4:alpha} = ${5:Frame}:GetBackdropColor()$0",
+		},
+		{
+			"trigger": "_Frame:GetBoundsRect\t()",
+			"contents": "${1:left}, ${2:bottom}, ${3:width}, ${4:height} = ${5:Frame}:GetBoundsRect()$0",
+		},
+		{
+			"trigger": "_Frame:GetChildren\t()",
+			"contents": "${1:...} = ${2:Frame}:GetChildren()$0",
+		},
+		{
+			"trigger": "_Frame:GetClampRectInsets\t()",
+			"contents": "${1:left}, ${2:right}, ${3:top}, ${4:bottom} = ${5:Frame}:GetClampRectInsets()$0",
+		},
+		{
+			"trigger": "_Frame:GetDepth\t()",
+			"contents": "${1:depth} = ${2:Frame}:GetDepth()$0",
+		},
+		{
+			"trigger": "_Frame:GetEffectiveAlpha\t()",
+			"contents": "${1:alpha} = ${2:Frame}:GetEffectiveAlpha()$0",
+		},
+		{
+			"trigger": "_Frame:GetEffectiveDepth\t()",
+			"contents": "${1:depth} = ${2:Frame}:GetEffectiveDepth()$0",
+		},
+		{
+			"trigger": "_Frame:GetEffectiveScale\t()",
+			"contents": "${1:scale} = ${2:Frame}:GetEffectiveScale()$0",
+		},
+		{
+			"trigger": "_Frame:GetFrameLevel\t()",
+			"contents": "${1:level} = ${2:Frame}:GetFrameLevel()$0",
+		},
+		{
+			"trigger": "_Frame:GetFrameStrata\t()",
+			"contents": "${1:strata} = ${2:Frame}:GetFrameStrata()$0",
+		},
+		{
+			"trigger": "_Frame:GetHitRectInsets\t()",
+			"contents": "${1:left}, ${2:right}, ${3:top}, ${4:bottom} = ${5:Frame}:GetHitRectInsets()$0",
+		},
+		{
+			"trigger": "_Frame:GetID\t()",
+			"contents": "${1:id} = ${2:Frame}:GetID()$0",
+		},
+		{
+			"trigger": "_Frame:GetMaxResize\t()",
+			"contents": "${1:maxWidth}, ${2:maxHeight} = ${3:Frame}:GetMaxResize()$0",
+		},
+		{
+			"trigger": "_Frame:GetMinResize\t()",
+			"contents": "${1:minWidth}, ${2:minHeight} = ${3:Frame}:GetMinResize()$0",
+		},
+		{
+			"trigger": "_Frame:GetNumChildren\t()",
+			"contents": "${1:numChildren} = ${2:Frame}:GetNumChildren()$0",
+		},
+		{
+			"trigger": "_Frame:GetNumRegions\t()",
+			"contents": "${1:numRegions} = ${2:Frame}:GetNumRegions()$0",
+		},
+		{
+			"trigger": "_Frame:GetRegions\t()",
+			"contents": "${1:...} = ${2:Frame}:GetRegions()$0",
+		},
+		{
+			"trigger": "_Frame:GetScale\t()",
+			"contents": "${1:scale} = ${2:Frame}:GetScale()$0",
+		},
+		{
+			"trigger": "_Frame:GetTitleRegion\t()",
+			"contents": "${1:region} = ${2:Frame}:GetTitleRegion()$0",
+		},
+		{
+			"trigger": "_Frame:IsClampedToScreen\t()",
+			"contents": "${1:enabled} = ${2:Frame}:IsClampedToScreen()$0",
+		},
+		{
+			"trigger": "_Frame:IsEventRegistered\t(\"event\")",
+			"contents": "${1:registered} = ${2:Frame}:IsEventRegistered(\"${3:event}\")$0",
+		},
+		{
+			"trigger": "_Frame:IsIgnoringDepth\t()",
+			"contents": "${1:enabled} = ${2:Frame}:IsIgnoringDepth()$0",
+		},
+		{
+			"trigger": "_Frame:IsJoystickEnabled\t()",
+			"contents": "${1:enabled} = ${2:Frame}:IsJoystickEnabled()$0",
+		},
+		{
+			"trigger": "_Frame:IsKeyboardEnabled\t()",
+			"contents": "${1:enabled} = ${2:Frame}:IsKeyboardEnabled()$0",
+		},
+		{
+			"trigger": "_Frame:IsMouseEnabled\t()",
+			"contents": "${1:enabled} = ${2:Frame}:IsMouseEnabled()$0",
+		},
+		{
+			"trigger": "_Frame:IsMouseWheelEnabled\t()",
+			"contents": "${1:enabled} = ${2:Frame}:IsMouseWheelEnabled()$0",
+		},
+		{
+			"trigger": "_Frame:IsMovable\t()",
+			"contents": "${1:movable} = ${2:Frame}:IsMovable()$0",
+		},
+		{
+			"trigger": "_Frame:IsResizable\t()",
+			"contents": "${1:enabled} = ${2:Frame}:IsResizable()$0",
+		},
+		{
+			"trigger": "_Frame:IsToplevel\t()",
+			"contents": "${1:enabled} = ${2:Frame}:IsToplevel()$0",
+		},
+		{
+			"trigger": "_Frame:IsUserPlaced\t()",
+			"contents": "${1:enabled} = ${2:Frame}:IsUserPlaced()$0",
+		},
+		{
+			"trigger": "_GameTooltip:GetAnchorType\t()",
+			"contents": "${1:anchor} = ${2:GameTooltip}:GetAnchorType()$0",
+		},
+		{
+			"trigger": "_GameTooltip:GetItem\t()",
+			"contents": "${1:name}, ${2:link} = ${3:GameTooltip}:GetItem()$0",
+		},
+		{
+			"trigger": "_GameTooltip:GetMinimumWidth\t()",
+			"contents": "${1:width} = ${2:GameTooltip}:GetMinimumWidth()$0",
+		},
+		{
+			"trigger": "_GameTooltip:GetOwner\t()",
+			"contents": "${1:owner} = ${2:GameTooltip}:GetOwner()$0",
+		},
+		{
+			"trigger": "_GameTooltip:GetPadding\t()",
+			"contents": "${1:padding} = ${2:GameTooltip}:GetPadding()$0",
+		},
+		{
+			"trigger": "_GameTooltip:GetSpell\t()",
+			"contents": "${1:spellName}, ${2:spellRank}, ${3:spellID} = ${4:GameTooltip}:GetSpell()$0",
+		},
+		{
+			"trigger": "_GameTooltip:GetUnit\t()",
+			"contents": "${1:name}, ${2:unit} = ${3:GameTooltip}:GetUnit()$0",
+		},
+		{
+			"trigger": "_GameTooltip:IsEquippedItem\t()",
+			"contents": "${1:enabled} = ${2:GameTooltip}:IsEquippedItem()$0",
+		},
+		{
+			"trigger": "_GameTooltip:IsOwned\t()",
+			"contents": "${1:hasOwner} = ${2:GameTooltip}:IsOwned()$0",
+		},
+		{
+			"trigger": "_GameTooltip:IsUnit\t(\"unit\")",
+			"contents": "${1:isUnit} = ${2:GameTooltip}:IsUnit(\"${3:unit}\")$0",
+		},
+		{
+			"trigger": "_GameTooltip:NumLines\t()",
+			"contents": "${1:numLines} = ${2:GameTooltip}:NumLines()$0",
+		},
+		{
+			"trigger": "_GameTooltip:SetAuctionSellItem\t()",
+			"contents": "${1:hasCooldown}, ${2:speciesID}, ${3:level}, ${4:breedQuality}, ${5:health}, ${6:power}, ${7:speed}, ${8:petName} = ${9:GameTooltip}:SetAuctionSellItem()$0",
+		},
+		{
+			"trigger": "_GameTooltip:SetBagItem\t(container, slot)",
+			"contents": "${1:hasCooldown}, ${2:repairCost} = ${3:GameTooltip}:SetBagItem(${4:container}, ${5:slot})$0",
+		},
+		{
+			"trigger": "_GameTooltip:SetHyperlinkCompareItem\t(\"hyperlink\", [index])",
+			"contents": "${1:success} = ${2:GameTooltip}:SetHyperlinkCompareItem(\"${3:hyperlink}\", ${4:[index]})$0",
+		},
+		{
+			"trigger": "_GameTooltip:SetInventoryItem\t(\"unit\", slot, [nameOnly])",
+			"contents": "${1:hasItem}, ${2:hasCooldown}, ${3:repairCost} = ${4:GameTooltip}:SetInventoryItem(\"${5:unit}\", ${6:slot}, ${7:[nameOnly]})$0",
+		},
+		{
+			"trigger": "_LayeredRegion:GetDrawLayer\t()",
+			"contents": "${1:layer}, ${2:sublayer} = ${3:LayeredRegion}:GetDrawLayer()$0",
+		},
+		{
+			"trigger": "_MessageFrame:GetFadeDuration\t()",
+			"contents": "${1:duration} = ${2:MessageFrame}:GetFadeDuration()$0",
+		},
+		{
+			"trigger": "_MessageFrame:GetFading\t()",
+			"contents": "${1:fading} = ${2:MessageFrame}:GetFading()$0",
+		},
+		{
+			"trigger": "_MessageFrame:GetIndentedWordWrap\t()",
+			"contents": "${1:indent} = ${2:MessageFrame}:GetIndentedWordWrap()$0",
+		},
+		{
+			"trigger": "_MessageFrame:GetInsertMode\t()",
+			"contents": "${1:position} = ${2:MessageFrame}:GetInsertMode()$0",
+		},
+		{
+			"trigger": "_MessageFrame:GetTimeVisible\t()",
+			"contents": "${1:time} = ${2:MessageFrame}:GetTimeVisible()$0",
+		},
+		{
+			"trigger": "_Minimap:GetPingPosition\t()",
+			"contents": "${1:x}, ${2:y} = ${3:Minimap}:GetPingPosition()$0",
+		},
+		{
+			"trigger": "_Minimap:GetZoom\t()",
+			"contents": "${1:zoomLevel} = ${2:Minimap}:GetZoom()$0",
+		},
+		{
+			"trigger": "_Minimap:GetZoomLevels\t()",
+			"contents": "${1:zoomLevels} = ${2:Minimap}:GetZoomLevels()$0",
+		},
+		{
+			"trigger": "_Model:GetFacing\t()",
+			"contents": "${1:facing} = ${2:Model}:GetFacing()$0",
+		},
+		{
+			"trigger": "_Model:GetFogColor\t()",
+			"contents": "${1:red}, ${2:green}, ${3:blue} = ${4:Model}:GetFogColor()$0",
+		},
+		{
+			"trigger": "_Model:GetFogFar\t()",
+			"contents": "${1:distance} = ${2:Model}:GetFogFar()$0",
+		},
+		{
+			"trigger": "_Model:GetFogNear\t()",
+			"contents": "${1:distance} = ${2:Model}:GetFogNear()$0",
+		},
+		{
+			"trigger": "_Model:GetLight\t()",
+			"contents": "${1:enabled}, ${2:omni}, ${3:dirX}, ${4:dirY}, ${5:dirZ}, ${6:ambIntensity}, ${7:ambR}, ${8:ambG}, ${9:ambB}, ${10:dirIntensity}, ${11:dirR}, ${12:dirG}, ${13:dirB} = ${14:Model}:GetLight()$0",
+		},
+		{
+			"trigger": "_Model:GetModel\t()",
+			"contents": "${1:filename} = ${2:Model}:GetModel()$0",
+		},
+		{
+			"trigger": "_Model:GetModelScale\t()",
+			"contents": "${1:scale} = ${2:Model}:GetModelScale()$0",
+		},
+		{
+			"trigger": "_Model:GetPosition\t()",
+			"contents": "${1:x}, ${2:y}, ${3:z} = ${4:Model}:GetPosition()$0",
+		},
+		{
+			"trigger": "_MovieFrame:StartMovie\t(\"fileName\", volume)",
+			"contents": "${1:enabled} = ${2:MovieFrame}:StartMovie(\"${3:fileName}\", ${4:volume})$0",
+		},
+		{
+			"trigger": "_ParentedObject:GetParent\t()",
+			"contents": "${1:parent} = ${2:ParentedObject}:GetParent()$0",
+		},
+		{
+			"trigger": "_Path:GetControlPoints\t()",
+			"contents": "${1:...} = ${2:Path}:GetControlPoints()$0",
+		},
+		{
+			"trigger": "_Path:GetCurve\t()",
+			"contents": "${1:curveType} = ${2:Path}:GetCurve()$0",
+		},
+		{
+			"trigger": "_Path:GetMaxOrder\t()",
+			"contents": "${1:max} = ${2:Path}:GetMaxOrder()$0",
+		},
+		{
+			"trigger": "_Region:CanChangeProtectedState\t()",
+			"contents": "${1:canChange} = ${2:Region}:CanChangeProtectedState()$0",
+		},
+		{
+			"trigger": "_Region:CreateAnimationGroup\t([\"name\"], [\"inheritsFrom\"])",
+			"contents": "${1:animationGroup} = ${2:Region}:CreateAnimationGroup(${3:[\"name\"]}, ${4:[\"inheritsFrom\"]})$0",
+		},
+		{
+			"trigger": "_Region:GetAnimationGroups\t()",
+			"contents": "${1:...} = ${2:Region}:GetAnimationGroups()$0",
+		},
+		{
+			"trigger": "_Region:GetBottom\t()",
+			"contents": "${1:bottom} = ${2:Region}:GetBottom()$0",
+		},
+		{
+			"trigger": "_Region:GetCenter\t()",
+			"contents": "${1:x}, ${2:y} = ${3:Region}:GetCenter()$0",
+		},
+		{
+			"trigger": "_Region:GetHeight\t()",
+			"contents": "${1:height} = ${2:Region}:GetHeight()$0",
+		},
+		{
+			"trigger": "_Region:GetLeft\t()",
+			"contents": "${1:left} = ${2:Region}:GetLeft()$0",
+		},
+		{
+			"trigger": "_Region:GetNumPoints\t()",
+			"contents": "${1:numPoints} = ${2:Region}:GetNumPoints()$0",
+		},
+		{
+			"trigger": "_Region:GetPoint\t(index)",
+			"contents": "${1:point}, ${2:relativeTo}, ${3:relativePoint}, ${4:xOffset}, ${5:yOffset} = ${6:Region}:GetPoint(${7:index})$0",
+		},
+		{
+			"trigger": "_Region:GetRect\t()",
+			"contents": "${1:left}, ${2:bottom}, ${3:width}, ${4:height} = ${5:Region}:GetRect()$0",
+		},
+		{
+			"trigger": "_Region:GetRight\t()",
+			"contents": "${1:right} = ${2:Region}:GetRight()$0",
+		},
+		{
+			"trigger": "_Region:GetSize\t()",
+			"contents": "${1:width}, ${2:height} = ${3:Region}:GetSize()$0",
+		},
+		{
+			"trigger": "_Region:GetTop\t()",
+			"contents": "${1:top} = ${2:Region}:GetTop()$0",
+		},
+		{
+			"trigger": "_Region:GetWidth\t()",
+			"contents": "${1:width} = ${2:Region}:GetWidth()$0",
+		},
+		{
+			"trigger": "_Region:IsDragging\t()",
+			"contents": "${1:isDragging} = ${2:Region}:IsDragging()$0",
+		},
+		{
+			"trigger": "_Region:IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
+			"contents": "${1:isOver} = ${2:Region}:IsMouseOver(${3:[topOffset]}, ${4:[leftOffset]}, ${5:[bottomOffset]}, ${6:[rightOffset]})$0",
+		},
+		{
+			"trigger": "_Region:IsProtected\t()",
+			"contents": "${1:isProtected}, ${2:explicit} = ${3:Region}:IsProtected()$0",
+		},
+		{
+			"trigger": "_Rotation:GetDegrees\t()",
+			"contents": "${1:degrees} = ${2:Rotation}:GetDegrees()$0",
+		},
+		{
+			"trigger": "_Rotation:GetOrigin\t()",
+			"contents": "${1:point}, ${2:xOffset}, ${3:yOffset} = ${4:Rotation}:GetOrigin()$0",
+		},
+		{
+			"trigger": "_Rotation:GetRadians\t()",
+			"contents": "${1:radians} = ${2:Rotation}:GetRadians()$0",
+		},
+		{
+			"trigger": "_Scale:GetOrigin\t()",
+			"contents": "${1:point}, ${2:xOffset}, ${3:yOffset} = ${4:Scale}:GetOrigin()$0",
+		},
+		{
+			"trigger": "_Scale:GetScale\t()",
+			"contents": "${1:xFactor}, ${2:yFactor} = ${3:Scale}:GetScale()$0",
+		},
+		{
+			"trigger": "_ScriptObject:GetScript\t(\"scriptType\")",
+			"contents": "${1:handler} = ${2:ScriptObject}:GetScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "_ScriptObject:HasScript\t(\"scriptType\")",
+			"contents": "${1:hasScript} = ${2:ScriptObject}:HasScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "_ScrollFrame:GetHorizontalScroll\t()",
+			"contents": "${1:scroll} = ${2:ScrollFrame}:GetHorizontalScroll()$0",
+		},
+		{
+			"trigger": "_ScrollFrame:GetHorizontalScrollRange\t()",
+			"contents": "${1:maxScroll} = ${2:ScrollFrame}:GetHorizontalScrollRange()$0",
+		},
+		{
+			"trigger": "_ScrollFrame:GetScrollChild\t()",
+			"contents": "${1:scrollChild} = ${2:ScrollFrame}:GetScrollChild()$0",
+		},
+		{
+			"trigger": "_ScrollFrame:GetVerticalScroll\t()",
+			"contents": "${1:scroll} = ${2:ScrollFrame}:GetVerticalScroll()$0",
+		},
+		{
+			"trigger": "_ScrollFrame:GetVerticalScrollRange\t()",
+			"contents": "${1:maxScroll} = ${2:ScrollFrame}:GetVerticalScrollRange()$0",
+		},
+		{
+			"trigger": "_ScrollingMessageFrame:AtBottom\t()",
+			"contents": "${1:atBottom} = ${2:ScrollingMessageFrame}:AtBottom()$0",
+		},
+		{
+			"trigger": "_ScrollingMessageFrame:AtTop\t()",
+			"contents": "${1:atTop} = ${2:ScrollingMessageFrame}:AtTop()$0",
+		},
+		{
+			"trigger": "_ScrollingMessageFrame:GetCurrentLine\t()",
+			"contents": "${1:lineNum} = ${2:ScrollingMessageFrame}:GetCurrentLine()$0",
+		},
+		{
+			"trigger": "_ScrollingMessageFrame:GetCurrentScroll\t()",
+			"contents": "${1:offset} = ${2:ScrollingMessageFrame}:GetCurrentScroll()$0",
+		},
+		{
+			"trigger": "_ScrollingMessageFrame:GetFadeDuration\t()",
+			"contents": "${1:duration} = ${2:ScrollingMessageFrame}:GetFadeDuration()$0",
+		},
+		{
+			"trigger": "_ScrollingMessageFrame:GetFading\t()",
+			"contents": "${1:fading} = ${2:ScrollingMessageFrame}:GetFading()$0",
+		},
+		{
+			"trigger": "_ScrollingMessageFrame:GetHyperlinksEnabled\t()",
+			"contents": "${1:enabled} = ${2:ScrollingMessageFrame}:GetHyperlinksEnabled()$0",
+		},
+		{
+			"trigger": "_ScrollingMessageFrame:GetIndentedWordWrap\t()",
+			"contents": "${1:indent} = ${2:ScrollingMessageFrame}:GetIndentedWordWrap()$0",
+		},
+		{
+			"trigger": "_ScrollingMessageFrame:GetInsertMode\t()",
+			"contents": "${1:position} = ${2:ScrollingMessageFrame}:GetInsertMode()$0",
+		},
+		{
+			"trigger": "_ScrollingMessageFrame:GetMessageInfo\t(index, [accessID])",
+			"contents": "${1:text}, ${2:accessID}, ${3:lineID}, ${4:extraData} = ${5:ScrollingMessageFrame}:GetMessageInfo(${6:index}, ${7:[accessID]})$0",
+		},
+		{
+			"trigger": "_ScrollingMessageFrame:GetNumLinesDisplayed\t()",
+			"contents": "${1:count} = ${2:ScrollingMessageFrame}:GetNumLinesDisplayed()$0",
+		},
+		{
+			"trigger": "_ScrollingMessageFrame:GetNumMessages\t([accessID])",
+			"contents": "${1:count} = ${2:ScrollingMessageFrame}:GetNumMessages(${3:[accessID]})$0",
+		},
+		{
+			"trigger": "_ScrollingMessageFrame:GetTimeVisible\t()",
+			"contents": "${1:time} = ${2:ScrollingMessageFrame}:GetTimeVisible()$0",
+		},
+		{
+			"trigger": "_Slider:GetMinMaxValues\t()",
+			"contents": "${1:minValue}, ${2:maxValue} = ${3:Slider}:GetMinMaxValues()$0",
+		},
+		{
+			"trigger": "_Slider:GetOrientation\t()",
+			"contents": "${1:orientation} = ${2:Slider}:GetOrientation()$0",
+		},
+		{
+			"trigger": "_Slider:GetThumbTexture\t()",
+			"contents": "${1:texture} = ${2:Slider}:GetThumbTexture()$0",
+		},
+		{
+			"trigger": "_Slider:GetValue\t()",
+			"contents": "${1:value} = ${2:Slider}:GetValue()$0",
+		},
+		{
+			"trigger": "_Slider:GetValueStep\t()",
+			"contents": "${1:step} = ${2:Slider}:GetValueStep()$0",
+		},
+		{
+			"trigger": "_Slider:IsEnabled\t()",
+			"contents": "${1:enabled} = ${2:Slider}:IsEnabled()$0",
+		},
+		{
+			"trigger": "_StatusBar:GetMinMaxValues\t()",
+			"contents": "${1:minValue}, ${2:maxValue} = ${3:StatusBar}:GetMinMaxValues()$0",
+		},
+		{
+			"trigger": "_StatusBar:GetOrientation\t()",
+			"contents": "${1:orientation} = ${2:StatusBar}:GetOrientation()$0",
+		},
+		{
+			"trigger": "_StatusBar:GetRotatesTexture\t()",
+			"contents": "${1:rotate} = ${2:StatusBar}:GetRotatesTexture()$0",
+		},
+		{
+			"trigger": "_StatusBar:GetStatusBarColor\t()",
+			"contents": "${1:red}, ${2:green}, ${3:blue}, ${4:alpha} = ${5:StatusBar}:GetStatusBarColor()$0",
+		},
+		{
+			"trigger": "_StatusBar:GetStatusBarTexture\t()",
+			"contents": "${1:texture} = ${2:StatusBar}:GetStatusBarTexture()$0",
+		},
+		{
+			"trigger": "_StatusBar:GetValue\t()",
+			"contents": "${1:value} = ${2:StatusBar}:GetValue()$0",
+		},
+		{
+			"trigger": "_TabardModel:CanSaveTabardNow\t()",
+			"contents": "${1:enabled} = ${2:TabardModel}:CanSaveTabardNow()$0",
+		},
+		{
+			"trigger": "_Texture:GetBlendMode\t()",
+			"contents": "${1:mode} = ${2:Texture}:GetBlendMode()$0",
+		},
+		{
+			"trigger": "_Texture:GetNonBlocking\t()",
+			"contents": "${1:nonBlocking} = ${2:Texture}:GetNonBlocking()$0",
+		},
+		{
+			"trigger": "_Texture:GetTexCoord\t()",
+			"contents": "${1:ULx}, ${2:ULy}, ${3:LLx}, ${4:LLy}, ${5:URx}, ${6:URy}, ${7:LRx}, ${8:LRy} = ${9:Texture}:GetTexCoord()$0",
+		},
+		{
+			"trigger": "_Texture:GetTexture\t()",
+			"contents": "${1:texture} = ${2:Texture}:GetTexture()$0",
+		},
+		{
+			"trigger": "_Texture:GetVertexColor\t()",
+			"contents": "${1:red}, ${2:green}, ${3:blue}, ${4:alpha} = ${5:Texture}:GetVertexColor()$0",
+		},
+		{
+			"trigger": "_Texture:IsDesaturated\t()",
+			"contents": "${1:desaturated} = ${2:Texture}:IsDesaturated()$0",
+		},
+		{
+			"trigger": "_Texture:SetDesaturated\t(desaturate)",
+			"contents": "${1:supported} = ${2:Texture}:SetDesaturated(${3:desaturate})$0",
+		},
+		{
+			"trigger": "_Texture:SetTexture\t(red, green, blue, [alpha])",
+			"contents": "${1:visible} = ${2:Texture}:SetTexture(${3:red}, ${4:green}, ${5:blue}, ${6:[alpha]})$0",
+		},
+		{
+			"trigger": "_Texture:SetTexture\t(\"texture\")",
+			"contents": "${1:visible} = ${2:Texture}:SetTexture(\"${3:texture}\")$0",
+		},
+		{
+			"trigger": "_Translation:GetOffset\t()",
+			"contents": "${1:xOffset}, ${2:yOffset} = ${3:Translation}:GetOffset()$0",
+		},
+		{
+			"trigger": "_UIObject:GetName\t()",
+			"contents": "${1:name} = ${2:UIObject}:GetName()$0",
+		},
+		{
+			"trigger": "_UIObject:GetObjectType\t()",
+			"contents": "${1:type} = ${2:UIObject}:GetObjectType()$0",
+		},
+		{
+			"trigger": "_UIObject:IsObjectType\t(\"type\")",
+			"contents": "${1:isType} = ${2:UIObject}:IsObjectType(\"${3:type}\")$0",
+		},
+		{
+			"trigger": "_VisibleRegion:GetAlpha\t()",
+			"contents": "${1:alpha} = ${2:VisibleRegion}:GetAlpha()$0",
+		},
+		{
+			"trigger": "_VisibleRegion:IsShown\t()",
+			"contents": "${1:shown} = ${2:VisibleRegion}:IsShown()$0",
+		},
+		{
+			"trigger": "_VisibleRegion:IsVisible\t()",
+			"contents": "${1:visible} = ${2:VisibleRegion}:IsVisible()$0",
+		},
+	]
+}

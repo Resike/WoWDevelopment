@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetMaxLetters(${2:maxLetters})$0]]></content>
-	<tabTrigger>SetMaxLetters</tabTrigger>
-	<description>(maxLetters)</description>
-	<scope>source.lua</scope>
-</snippet>

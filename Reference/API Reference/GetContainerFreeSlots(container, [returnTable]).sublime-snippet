@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetContainerFreeSlots(${1:container}, ${2:[returnTable]})$0]]></content>
-	<tabTrigger>GetContainerFreeSlots</tabTrigger>
-	<description>(container, →)</description>
-	<scope>source.lua</scope>
-</snippet>

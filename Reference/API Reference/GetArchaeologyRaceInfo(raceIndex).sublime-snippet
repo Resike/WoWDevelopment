@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetArchaeologyRaceInfo(${1:raceIndex})$0]]></content>
-	<tabTrigger>GetArchaeologyRaceInfo</tabTrigger>
-	<description>(raceIndex)</description>
-	<scope>source.lua</scope>
-</snippet>

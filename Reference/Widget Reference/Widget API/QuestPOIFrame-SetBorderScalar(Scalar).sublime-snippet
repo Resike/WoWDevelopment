@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:QuestPOIFrame}:SetBorderScalar(${2:Scalar})$0]]></content>
-	<tabTrigger>QuestPOIFrame:SetBorderScalar</tabTrigger>
-	<description>(Scalar)</description>
-	<scope>source.lua</scope>
-</snippet>

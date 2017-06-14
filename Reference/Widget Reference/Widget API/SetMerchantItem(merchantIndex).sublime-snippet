@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetMerchantItem(${2:merchantIndex})$0]]></content>
-	<tabTrigger>SetMerchantItem</tabTrigger>
-	<description>(merchantIndex)</description>
-	<scope>source.lua</scope>
-</snippet>

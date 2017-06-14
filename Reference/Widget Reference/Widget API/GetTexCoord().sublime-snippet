@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetTexCoord()$0]]></content>
-	<tabTrigger>GetTexCoord</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

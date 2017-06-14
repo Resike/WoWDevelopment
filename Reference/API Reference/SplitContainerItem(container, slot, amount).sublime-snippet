@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SplitContainerItem(${1:container}, ${2:slot}, ${3:amount})$0]]></content>
-	<tabTrigger>SplitContainerItem</tabTrigger>
-	<description>(container, slot, →)</description>
-	<scope>source.lua</scope>
-</snippet>

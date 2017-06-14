@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QueryGuildBankLog(${1:tab})$0]]></content>
-	<tabTrigger>QueryGuildBankLog</tabTrigger>
-	<description>(tab)</description>
-	<scope>source.lua</scope>
-</snippet>

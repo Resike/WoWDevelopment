@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-OnMouseWheel
-]]></content>
-	<tabTrigger>OnMouseWheel</tabTrigger>
-	<description> </description>
-	<scope>source.lua</scope>
-</snippet>

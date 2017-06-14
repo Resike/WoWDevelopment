@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:FontInstance}:SetFontObject(${2:object})$0]]></content>
-	<tabTrigger>FontInstance:SetFontObject</tabTrigger>
-	<description>(object)</description>
-	<scope>source.lua</scope>
-</snippet>

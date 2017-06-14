@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:numMuted} = GetNumMutes()$0]]></content>
-	<tabTrigger>_GetNumMutes</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

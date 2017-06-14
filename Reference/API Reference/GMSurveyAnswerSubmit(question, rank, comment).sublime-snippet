@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GMSurveyAnswerSubmit(${1:question}, ${2:rank}, "${3:comment}")$0]]></content>
-	<tabTrigger>GMSurveyAnswerSubmit</tabTrigger>
-	<description>(question, rank, →)</description>
-	<scope>source.lua</scope>
-</snippet>

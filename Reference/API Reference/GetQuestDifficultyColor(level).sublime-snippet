@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetQuestDifficultyColor(${1:level})$0]]></content>
-	<tabTrigger>GetQuestDifficultyColor</tabTrigger>
-	<description>(level)</description>
-	<scope>source.lua</scope>
-</snippet>

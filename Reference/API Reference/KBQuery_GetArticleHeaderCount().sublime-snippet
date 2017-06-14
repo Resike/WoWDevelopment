@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[KBQuery_GetArticleHeaderCount()$0]]></content>
-	<tabTrigger>KBQuery_GetArticleHeaderCount</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

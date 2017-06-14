@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:supported} = ${2:Texture}:SetDesaturated(${3:desaturate})$0]]></content>
-	<tabTrigger>_Texture:SetDesaturated</tabTrigger>
-	<description>(desaturate)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:subzoneText} = GetSubZoneText()$0]]></content>
-	<tabTrigger>_GetSubZoneText</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

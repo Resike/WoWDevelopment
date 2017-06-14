@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:ColorSelect}:SetColorHSV(${2:hue}, ${3:saturation}, ${4:value})$0]]></content>
-	<tabTrigger>ColorSelect:SetColorHSV</tabTrigger>
-	<description>(hue, →)</description>
-	<scope>source.lua</scope>
-</snippet>

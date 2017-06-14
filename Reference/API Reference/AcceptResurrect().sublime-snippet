@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AcceptResurrect()$0]]></content>
-	<tabTrigger>AcceptResurrect</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${2:Region}:GetBottom()$0]]></content>
-	<tabTrigger>Region:GetBottom</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:usage}, ${2:calls} = GetFunctionCPUUsage(${3:function}, ${4:includeSubroutines})$0]]></content>
-	<tabTrigger>_GetFunctionCPUUsage</tabTrigger>
-	<description>(function, →)</description>
-	<scope>source.lua</scope>
-</snippet>

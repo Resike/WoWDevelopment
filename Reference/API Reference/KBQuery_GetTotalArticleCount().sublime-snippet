@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[KBQuery_GetTotalArticleCount()$0]]></content>
-	<tabTrigger>KBQuery_GetTotalArticleCount</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

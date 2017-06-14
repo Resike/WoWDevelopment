@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsItemInRange("${1:itemLink}", "${2:unit}")$0]]></content>
-	<tabTrigger>IsItemInRange</tabTrigger>
-	<description>("itemLink", "unit")</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetQuestReward(${1:choice})$0]]></content>
-	<tabTrigger>GetQuestReward</tabTrigger>
-	<description>(choice)</description>
-	<scope>source.lua</scope>
-</snippet>

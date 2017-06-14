@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:name}, ${2:iconTexture}, ${3:tier}, ${4:column}, ${5:rank}, ${6:maxRank}, ${7:isExceptional}, ${8:meetsPrereq}, ${9:previewRank}, ${10:meetsPreviewPrereq} = GetTalentInfo(${11:tabIndex}, ${12:talentIndex}, ${13:inspect}, ${4:pet}, ${15:talentGroup})$0]]></content>
-	<tabTrigger>_GetTalentInfo</tabTrigger>
-	<description>(tabIndex, talentIndex, →)</description>
-	<scope>source.lua</scope>
-</snippet>

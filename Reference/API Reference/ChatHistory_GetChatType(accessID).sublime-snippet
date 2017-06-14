@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChatHistory_GetChatType(${1:accessID})$0]]></content>
-	<tabTrigger>ChatHistory_GetChatType</tabTrigger>
-	<description>(accessID)</description>
-	<scope>source.lua</scope>
-</snippet>

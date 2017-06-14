@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:prof1}, ${2:prof2}, ${3:archaeology}, ${4:fishing}, ${5:cooking}, ${6:firstAid} = GetProfessions()$0]]></content>
-	<tabTrigger>_GetProfessions</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

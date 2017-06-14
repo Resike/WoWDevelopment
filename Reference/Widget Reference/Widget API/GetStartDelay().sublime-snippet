@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetStartDelay()$0]]></content>
-	<tabTrigger>GetStartDelay</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

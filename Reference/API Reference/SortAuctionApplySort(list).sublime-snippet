@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SortAuctionApplySort("${1:list}")$0]]></content>
-	<tabTrigger>SortAuctionApplySort</tabTrigger>
-	<description>("list")</description>
-	<scope>source.lua</scope>
-</snippet>

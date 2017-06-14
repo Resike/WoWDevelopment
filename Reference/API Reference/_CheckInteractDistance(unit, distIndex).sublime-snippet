@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:canInteract} = CheckInteractDistance("${2:unit}", ${3:distIndex})$0]]></content>
-	<tabTrigger>_CheckInteractDistance</tabTrigger>
-	<description>("unit", distIdx)</description>
-	<scope>source.lua</scope>
-</snippet>

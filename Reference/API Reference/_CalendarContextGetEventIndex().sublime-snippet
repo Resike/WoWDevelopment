@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:monthOffset}, ${2:day}, ${3:index} = CalendarContextGetEventIndex()$0]]></content>
-	<tabTrigger>_CalendarContextGetEventIndex</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

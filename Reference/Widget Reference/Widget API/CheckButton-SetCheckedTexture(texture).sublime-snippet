@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:CheckButton}:SetCheckedTexture(${2:texture})$0]]></content>
-	<tabTrigger>CheckButton:SetCheckedTexture</tabTrigger>
-	<description>(texture)</description>
-	<scope>source.lua</scope>
-</snippet>

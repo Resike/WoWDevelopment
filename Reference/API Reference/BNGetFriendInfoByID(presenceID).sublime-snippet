@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BNGetFriendInfoByID(${1:presenceID})$0]]></content>
-	<tabTrigger>BNGetFriendInfoByID</tabTrigger>
-	<description>(presenceID)</description>
-	<scope>source.lua</scope>
-</snippet>

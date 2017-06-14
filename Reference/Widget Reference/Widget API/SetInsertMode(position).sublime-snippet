@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetInsertMode("${2:position}")$0]]></content>
-	<tabTrigger>SetInsertMode</tabTrigger>
-	<description>("position")</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetProgress()$0]]></content>
-	<tabTrigger>GetProgress</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

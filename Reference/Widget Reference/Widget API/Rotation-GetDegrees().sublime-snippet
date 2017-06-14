@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${2:Rotation}:GetDegrees()$0]]></content>
-	<tabTrigger>Rotation:GetDegrees</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

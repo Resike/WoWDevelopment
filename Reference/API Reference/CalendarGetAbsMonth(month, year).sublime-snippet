@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarGetAbsMonth(${1:month}, ${2:year})$0]]></content>
-	<tabTrigger>CalendarGetAbsMonth</tabTrigger>
-	<description>(month, year)</description>
-	<scope>source.lua</scope>
-</snippet>

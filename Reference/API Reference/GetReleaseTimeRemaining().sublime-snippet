@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetReleaseTimeRemaining()$0]]></content>
-	<tabTrigger>GetReleaseTimeRemaining</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

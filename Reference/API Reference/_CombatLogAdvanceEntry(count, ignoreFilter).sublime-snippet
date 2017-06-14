@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:hasEntry} = CombatLogAdvanceEntry(${2:count}, ${3:ignoreFilter})$0]]></content>
-	<tabTrigger>_CombatLogAdvanceEntry</tabTrigger>
-	<description>(count, →)</description>
-	<scope>source.lua</scope>
-</snippet>

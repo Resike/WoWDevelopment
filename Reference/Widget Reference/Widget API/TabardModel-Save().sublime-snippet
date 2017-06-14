@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:TabardModel}:Save()$0]]></content>
-	<tabTrigger>TabardModel:Save</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CloseSocketInfo()$0]]></content>
-	<tabTrigger>CloseSocketInfo</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

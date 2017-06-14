@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:Frame}:EnableDrawLayer("${2:layer}")$0]]></content>
-	<tabTrigger>Frame:EnableDrawLayer</tabTrigger>
-	<description>("layer")</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetSpellAutocast(${1:id}, "${2:bookType}")$0]]></content>
-	<tabTrigger>GetSpellAutocast</tabTrigger>
-	<description>(id, "bookType")</description>
-	<scope>source.lua</scope>
-</snippet>

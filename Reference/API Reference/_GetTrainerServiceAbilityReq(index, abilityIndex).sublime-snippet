@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:ability}, ${2:hasReq} = GetTrainerServiceAbilityReq(${3:index}, ${4:abilityIndex})$0]]></content>
-	<tabTrigger>_GetTrainerServiceAbilityReq</tabTrigger>
-	<description>(index, →)</description>
-	<scope>source.lua</scope>
-</snippet>

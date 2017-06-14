@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetSpellBookItemInfo("${1:spellName}")$0]]></content>
-	<tabTrigger>GetSpellBookItemInfo</tabTrigger>
-	<description>("spellName")</description>
-	<scope>source.lua</scope>
-</snippet>

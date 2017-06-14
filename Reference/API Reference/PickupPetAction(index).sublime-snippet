@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PickupPetAction(${1:index})$0]]></content>
-	<tabTrigger>PickupPetAction</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

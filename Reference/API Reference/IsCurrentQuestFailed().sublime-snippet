@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsCurrentQuestFailed()$0]]></content>
-	<tabTrigger>IsCurrentQuestFailed</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetNumQuestLogRewards()$0]]></content>
-	<tabTrigger>GetNumQuestLogRewards</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

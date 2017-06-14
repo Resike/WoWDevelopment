@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetHyperlink("${2:hyperlink}")$0]]></content>
-	<tabTrigger>SetHyperlink</tabTrigger>
-	<description>("hyperlink")</description>
-	<scope>source.lua</scope>
-</snippet>

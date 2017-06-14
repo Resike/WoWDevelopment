@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetBarberShopTotalCost()$0]]></content>
-	<tabTrigger>GetBarberShopTotalCost</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

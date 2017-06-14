@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RemoveQuestWatch(${1:questIndex})$0]]></content>
-	<tabTrigger>RemoveQuestWatch</tabTrigger>
-	<description>(questIndex)</description>
-	<scope>source.lua</scope>
-</snippet>

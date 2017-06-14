@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetMaxResize()$0]]></content>
-	<tabTrigger>GetMaxResize</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:Model}:SetFogNear(${2:distance})$0]]></content>
-	<tabTrigger>Model:SetFogNear</tabTrigger>
-	<description>(distance)</description>
-	<scope>source.lua</scope>
-</snippet>

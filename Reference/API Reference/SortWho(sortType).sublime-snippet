@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SortWho("${1:sortType}")$0]]></content>
-	<tabTrigger>SortWho</tabTrigger>
-	<description>("sortType")</description>
-	<scope>source.lua</scope>
-</snippet>

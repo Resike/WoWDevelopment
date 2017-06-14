@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnitInPhase(${1:unitID})$0]]></content>
-	<tabTrigger>UnitInPhase</tabTrigger>
-	<description>(unitID)</description>
-	<scope>source.lua</scope>
-</snippet>

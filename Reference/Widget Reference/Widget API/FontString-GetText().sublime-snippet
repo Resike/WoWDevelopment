@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${2:FontString}:GetText()$0]]></content>
-	<tabTrigger>FontString:GetText</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

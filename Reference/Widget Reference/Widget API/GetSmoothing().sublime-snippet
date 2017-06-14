@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetSmoothing()$0]]></content>
-	<tabTrigger>GetSmoothing</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

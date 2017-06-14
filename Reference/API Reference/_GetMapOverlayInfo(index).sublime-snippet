@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:textureName}, ${2:textureWidth}, ${3:textureHeight}, ${4:offsetX}, ${5:offsetY}, ${6:mapPointX}, ${7:mapPointY} = GetMapOverlayInfo(${8:index})$0]]></content>
-	<tabTrigger>_GetMapOverlayInfo</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

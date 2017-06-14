@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:EditBox}:ClearHistory()$0]]></content>
-	<tabTrigger>EditBox:ClearHistory</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

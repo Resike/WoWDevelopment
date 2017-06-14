@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PickupSpell(${1:spellID})$0]]></content>
-	<tabTrigger>PickupSpell</tabTrigger>
-	<description>(spellID)</description>
-	<scope>source.lua</scope>
-</snippet>

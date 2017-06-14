@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsDragging()$0]]></content>
-	<tabTrigger>IsDragging</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${3:Region}:IsProtected()$0]]></content>
-	<tabTrigger>Region:IsProtected</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

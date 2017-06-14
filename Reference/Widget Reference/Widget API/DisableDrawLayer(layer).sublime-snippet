@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DisableDrawLayer("${2:layer}")$0]]></content>
-	<tabTrigger>DisableDrawLayer</tabTrigger>
-	<description>("layer")</description>
-	<scope>source.lua</scope>
-</snippet>

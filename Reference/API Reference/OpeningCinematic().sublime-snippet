@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OpeningCinematic()$0]]></content>
-	<tabTrigger>OpeningCinematic</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

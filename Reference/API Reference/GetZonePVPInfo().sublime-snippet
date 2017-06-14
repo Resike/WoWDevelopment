@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetZonePVPInfo()$0]]></content>
-	<tabTrigger>GetZonePVPInfo</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

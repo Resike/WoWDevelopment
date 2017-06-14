@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:serviceName}, ${2:serviceSubText}, ${3:serviceType}, ${4:iconTexture}, ${5:reqLevel}, ${6:isExpanded} = GetTrainerServiceInfo(${7:index})$0]]></content>
-	<tabTrigger>_GetTrainerServiceInfo</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

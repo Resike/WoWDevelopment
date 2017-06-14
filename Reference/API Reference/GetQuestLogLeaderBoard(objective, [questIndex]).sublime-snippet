@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetQuestLogLeaderBoard(${1:objective}, ${2:[questIndex]})$0]]></content>
-	<tabTrigger>GetQuestLogLeaderBoard</tabTrigger>
-	<description>(objective, →)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetBattlefieldVehicleInfo(${1:index})$0]]></content>
-	<tabTrigger>GetBattlefieldVehicleInfo</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

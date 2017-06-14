@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-OnUpdateModel
-]]></content>
-	<tabTrigger>OnUpdateModel</tabTrigger>
-	<description> </description>
-	<scope>source.lua</scope>
-</snippet>

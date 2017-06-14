@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:isDragging} = ${2:Region}:IsDragging()$0]]></content>
-	<tabTrigger>_Region:IsDragging</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

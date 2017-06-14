@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NextView()$0]]></content>
-	<tabTrigger>NextView</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

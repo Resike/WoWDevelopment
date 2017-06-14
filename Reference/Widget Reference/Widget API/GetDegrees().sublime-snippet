@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetDegrees()$0]]></content>
-	<tabTrigger>GetDegrees</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

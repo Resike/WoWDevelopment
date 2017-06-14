@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:ScrollingMessageFrame}:SetMaxLines(${2:maxLines})$0]]></content>
-	<tabTrigger>ScrollingMessageFrame:SetMaxLines</tabTrigger>
-	<description>(maxLines)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetCurrentBindingSet()$0]]></content>
-	<tabTrigger>GetCurrentBindingSet</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

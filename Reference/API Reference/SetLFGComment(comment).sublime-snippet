@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetLFGComment("${1:comment}")$0]]></content>
-	<tabTrigger>SetLFGComment</tabTrigger>
-	<description>("comment")</description>
-	<scope>source.lua</scope>
-</snippet>

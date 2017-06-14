@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:Rotation}:SetOrigin("${2:point}", ${3:xOffset}, ${4:yOffset})$0]]></content>
-	<tabTrigger>Rotation:SetOrigin</tabTrigger>
-	<description>("point", x, y)</description>
-	<scope>source.lua</scope>
-</snippet>

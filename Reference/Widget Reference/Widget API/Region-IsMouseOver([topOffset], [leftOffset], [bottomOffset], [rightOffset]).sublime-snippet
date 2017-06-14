@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${2:Region}:IsMouseOver(${3:[topOffset]}, ${4:[leftOffset]}, ${5:[bottomOffset]}, ${6:[rightOffset]})$0]]></content>
-	<tabTrigger>Region:IsMouseOver</tabTrigger>
-	<description>([top], [left], →)</description>
-	<scope>source.lua</scope>
-</snippet>

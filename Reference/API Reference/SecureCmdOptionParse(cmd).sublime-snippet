@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SecureCmdOptionParse("${1:cmd}")$0]]></content>
-	<tabTrigger>SecureCmdOptionParse</tabTrigger>
-	<description>("cmd")</description>
-	<scope>source.lua</scope>
-</snippet>

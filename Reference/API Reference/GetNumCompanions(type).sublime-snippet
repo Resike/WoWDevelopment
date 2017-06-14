@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetNumCompanions("${1:type}")$0]]></content>
-	<tabTrigger>GetNumCompanions</tabTrigger>
-	<description>("type")</description>
-	<scope>source.lua</scope>
-</snippet>

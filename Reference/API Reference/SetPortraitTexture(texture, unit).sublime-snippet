@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetPortraitTexture(${1:texture}, "${2:unit}")$0]]></content>
-	<tabTrigger>SetPortraitTexture</tabTrigger>
-	<description>(texture, "unit")</description>
-	<scope>source.lua</scope>
-</snippet>

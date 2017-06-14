@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetContainerItemQuestInfo(${1:container}, ${2:slot})$0]]></content>
-	<tabTrigger>GetContainerItemQuestInfo</tabTrigger>
-	<description>(container, →)</description>
-	<scope>source.lua</scope>
-</snippet>

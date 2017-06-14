@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetLatestCompletedAchievements(${1:isGuild})$0]]></content>
-	<tabTrigger>GetLatestCompletedAchievements</tabTrigger>
-	<description>(isGuild)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetGuildBankMoney()$0]]></content>
-	<tabTrigger>GetGuildBankMoney</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

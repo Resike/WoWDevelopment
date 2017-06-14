@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-OnPlay
-]]></content>
-	<tabTrigger>OnPlay</tabTrigger>
-	<description> </description>
-	<scope>source.lua</scope>
-</snippet>

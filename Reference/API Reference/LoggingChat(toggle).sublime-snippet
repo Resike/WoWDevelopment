@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LoggingChat(${1:toggle})$0]]></content>
-	<tabTrigger>LoggingChat</tabTrigger>
-	<description>(toggle)</description>
-	<scope>source.lua</scope>
-</snippet>

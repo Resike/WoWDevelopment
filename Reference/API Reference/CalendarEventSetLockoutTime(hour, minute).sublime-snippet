@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarEventSetLockoutTime(${1:hour}, ${2:minute})$0]]></content>
-	<tabTrigger>CalendarEventSetLockoutTime</tabTrigger>
-	<description>(hour, min)</description>
-	<scope>source.lua</scope>
-</snippet>

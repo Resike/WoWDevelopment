@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:link} = GetQuestItemLink("${2:itemType}", ${3:index})$0]]></content>
-	<tabTrigger>_GetQuestItemLink</tabTrigger>
-	<description>("itemType", index)</description>
-	<scope>source.lua</scope>
-</snippet>

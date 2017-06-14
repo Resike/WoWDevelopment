@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:value} = ${2:Slider}:GetValue()$0]]></content>
-	<tabTrigger>_Slider:GetValue</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

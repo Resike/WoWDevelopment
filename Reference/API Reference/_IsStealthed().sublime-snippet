@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:stealthed} = IsStealthed()$0]]></content>
-	<tabTrigger>_IsStealthed</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

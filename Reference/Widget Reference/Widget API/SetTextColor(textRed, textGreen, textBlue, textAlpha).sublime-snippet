@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetTextColor(${2:textRed}, ${3:textGreen}, ${4:textBlue}, ${5:textAlpha})$0]]></content>
-	<tabTrigger>SetTextColor</tabTrigger>
-	<description>(tR, tG, tB, tA)</description>
-	<scope>source.lua</scope>
-</snippet>

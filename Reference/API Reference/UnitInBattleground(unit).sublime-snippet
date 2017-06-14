@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnitInBattleground("${1:unit}")$0]]></content>
-	<tabTrigger>UnitInBattleground</tabTrigger>
-	<description>("unit")</description>
-	<scope>source.lua</scope>
-</snippet>

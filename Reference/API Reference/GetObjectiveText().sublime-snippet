@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetObjectiveText()$0]]></content>
-	<tabTrigger>GetObjectiveText</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

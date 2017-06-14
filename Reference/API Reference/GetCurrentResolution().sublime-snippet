@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetCurrentResolution()$0]]></content>
-	<tabTrigger>GetCurrentResolution</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

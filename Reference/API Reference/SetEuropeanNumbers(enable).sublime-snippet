@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetEuropeanNumbers(${1:enable})$0]]></content>
-	<tabTrigger>SetEuropeanNumbers</tabTrigger>
-	<description>(enable)</description>
-	<scope>source.lua</scope>
-</snippet>

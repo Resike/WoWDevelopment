@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LockHighlight()$0]]></content>
-	<tabTrigger>LockHighlight</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

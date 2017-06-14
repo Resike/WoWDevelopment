@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UpdateColorByID(${2:id}, ${3:red}, ${4:green}, ${5:blue})$0]]></content>
-	<tabTrigger>UpdateColorByID</tabTrigger>
-	<description>(id, r, g, b)</description>
-	<scope>source.lua</scope>
-</snippet>

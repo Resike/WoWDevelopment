@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:page} = GetActionBarPage()$0]]></content>
-	<tabTrigger>_GetActionBarPage</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

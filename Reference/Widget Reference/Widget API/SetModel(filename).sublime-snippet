@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetModel("${2:filename}")$0]]></content>
-	<tabTrigger>SetModel</tabTrigger>
-	<description>("filename")</description>
-	<scope>source.lua</scope>
-</snippet>

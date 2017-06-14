@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetAchievementComparisonInfo(${1:id})$0]]></content>
-	<tabTrigger>GetAchievementComparisonInfo</tabTrigger>
-	<description>(id)</description>
-	<scope>source.lua</scope>
-</snippet>

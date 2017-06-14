@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:GameTooltip}:SetFrameStack(${2:includeHidden})$0]]></content>
-	<tabTrigger>GameTooltip:SetFrameStack</tabTrigger>
-	<description>(includeHidden)</description>
-	<scope>source.lua</scope>
-</snippet>

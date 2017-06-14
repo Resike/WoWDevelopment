@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetTexture(${3:red}, ${4:green}, ${5:blue}, ${6:[alpha]})$0]]></content>
-	<tabTrigger>SetTexture</tabTrigger>
-	<description>(r, g, b, [a])</description>
-	<scope>source.lua</scope>
-</snippet>

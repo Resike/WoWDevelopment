@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetHistoryLines()$0]]></content>
-	<tabTrigger>GetHistoryLines</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

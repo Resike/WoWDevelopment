@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetTaxiMap(${1:texture})$0]]></content>
-	<tabTrigger>SetTaxiMap</tabTrigger>
-	<description>(texture)</description>
-	<scope>source.lua</scope>
-</snippet>

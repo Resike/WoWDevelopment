@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:categoryId}, ${2:name} = KBSetup_GetCategoryData(${3:index})$0]]></content>
-	<tabTrigger>_KBSetup_GetCategoryData</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

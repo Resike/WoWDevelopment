@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UpdateAddOnCPUUsage()$0]]></content>
-	<tabTrigger>UpdateAddOnCPUUsage</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

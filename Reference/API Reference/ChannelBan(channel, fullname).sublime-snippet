@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChannelBan("${1:channel}", "${2:fullname}")$0]]></content>
-	<tabTrigger>ChannelBan</tabTrigger>
-	<description>("channel", "fullname")</description>
-	<scope>source.lua</scope>
-</snippet>

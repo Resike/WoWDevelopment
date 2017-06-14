@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:curveType} = ${2:Path}:GetCurve()$0]]></content>
-	<tabTrigger>_Path:GetCurve</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

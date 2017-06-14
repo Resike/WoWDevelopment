@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:realm} = GetRealmName()$0]]></content>
-	<tabTrigger>_GetRealmName</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

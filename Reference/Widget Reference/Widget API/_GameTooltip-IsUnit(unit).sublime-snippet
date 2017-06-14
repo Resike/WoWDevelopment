@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:isUnit} = ${2:GameTooltip}:IsUnit("${3:unit}")$0]]></content>
-	<tabTrigger>_GameTooltip:IsUnit</tabTrigger>
-	<description>("unit")</description>
-	<scope>source.lua</scope>
-</snippet>

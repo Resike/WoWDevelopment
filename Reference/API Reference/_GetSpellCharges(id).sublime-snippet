@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:charges}, ${2:maxCharges}, ${3:start}, ${4:duration} = GetSpellCharges(${5:id})$0]]></content>
-	<tabTrigger>_GetSpellCharges</tabTrigger>
-	<description>(id)</description>
-	<scope>source.lua</scope>
-</snippet>

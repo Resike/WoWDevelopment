@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:totalEncounters}, ${2:encountersCompleted} = GetLFGDungeonNumEncounters(${3:dungeonId})$0]]></content>
-	<tabTrigger>_GetLFGDungeonNumEncounters</tabTrigger>
-	<description>(dungeonId)</description>
-	<scope>source.lua</scope>
-</snippet>

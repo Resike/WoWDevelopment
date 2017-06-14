@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:ScrollingMessageFrame}:UpdateColorByID(${2:id}, ${3:red}, ${4:green}, ${5:blue})$0]]></content>
-	<tabTrigger>ScrollingMessageFrame:UpdateColorByID</tabTrigger>
-	<description>(→)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetHeight()$0]]></content>
-	<tabTrigger>GetHeight</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

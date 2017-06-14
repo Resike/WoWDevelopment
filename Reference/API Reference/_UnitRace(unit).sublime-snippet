@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:race}, ${2:fileName} = UnitRace("${3:unit}")$0]]></content>
-	<tabTrigger>_UnitRace</tabTrigger>
-	<description>("unit")</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetAuctionItemLink("${1:list}", ${2:index})$0]]></content>
-	<tabTrigger>GetAuctionItemLink</tabTrigger>
-	<description>("list", index)</description>
-	<scope>source.lua</scope>
-</snippet>

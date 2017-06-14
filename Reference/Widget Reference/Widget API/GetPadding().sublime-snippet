@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetPadding()$0]]></content>
-	<tabTrigger>GetPadding</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

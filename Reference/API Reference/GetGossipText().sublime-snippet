@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetGossipText()$0]]></content>
-	<tabTrigger>GetGossipText</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

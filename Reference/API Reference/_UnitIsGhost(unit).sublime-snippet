@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:isGhost} = UnitIsGhost("${2:unit}")$0]]></content>
-	<tabTrigger>_UnitIsGhost</tabTrigger>
-	<description>("unit")</description>
-	<scope>source.lua</scope>
-</snippet>

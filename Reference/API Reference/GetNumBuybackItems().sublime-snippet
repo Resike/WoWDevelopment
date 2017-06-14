@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetNumBuybackItems()$0]]></content>
-	<tabTrigger>GetNumBuybackItems</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

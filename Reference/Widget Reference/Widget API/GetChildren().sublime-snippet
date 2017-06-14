@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetChildren()$0]]></content>
-	<tabTrigger>GetChildren</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

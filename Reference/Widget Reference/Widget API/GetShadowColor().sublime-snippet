@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetShadowColor()$0]]></content>
-	<tabTrigger>GetShadowColor</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

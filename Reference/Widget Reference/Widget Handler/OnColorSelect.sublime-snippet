@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-OnColorSelect
-]]></content>
-	<tabTrigger>OnColorSelect</tabTrigger>
-	<description> </description>
-	<scope>source.lua</scope>
-</snippet>

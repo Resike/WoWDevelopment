@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetContainerItemEquipmentSetInfo(${1:index}, ${2:slot})$0]]></content>
-	<tabTrigger>GetContainerItemEquipmentSetInfo</tabTrigger>
-	<description>(idx, →)</description>
-	<scope>source.lua</scope>
-</snippet>

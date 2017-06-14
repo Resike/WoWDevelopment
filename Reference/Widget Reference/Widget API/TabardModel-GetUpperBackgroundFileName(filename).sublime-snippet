@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:TabardModel}:GetUpperBackgroundFileName("${2:fileName}")$0]]></content>
-	<tabTrigger>TabardModel:GetUpperBackgroundFileName</tabTrigger>
-	<description>(→)</description>
-	<scope>source.lua</scope>
-</snippet>

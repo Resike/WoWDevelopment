@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetGlyph(${2:socket}, ${3:talentGroup})$0]]></content>
-	<tabTrigger>SetGlyph</tabTrigger>
-	<description>(socket, talentGroup)</description>
-	<scope>source.lua</scope>
-</snippet>

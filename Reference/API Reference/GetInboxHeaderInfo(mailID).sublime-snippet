@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetInboxHeaderInfo(${1:mailID})$0]]></content>
-	<tabTrigger>GetInboxHeaderInfo</tabTrigger>
-	<description>(mailID)</description>
-	<scope>source.lua</scope>
-</snippet>

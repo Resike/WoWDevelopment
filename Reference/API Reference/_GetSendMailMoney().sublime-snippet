@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:amount} = GetSendMailMoney()$0]]></content>
-	<tabTrigger>_GetSendMailMoney</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

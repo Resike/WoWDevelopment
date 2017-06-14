@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SaveBindings(${1:set})$0]]></content>
-	<tabTrigger>SaveBindings</tabTrigger>
-	<description>(set)</description>
-	<scope>source.lua</scope>
-</snippet>

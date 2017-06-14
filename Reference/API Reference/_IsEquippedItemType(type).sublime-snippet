@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:isEquipped} = IsEquippedItemType("${2:type}")$0]]></content>
-	<tabTrigger>_IsEquippedItemType</tabTrigger>
-	<description>("type")</description>
-	<scope>source.lua</scope>
-</snippet>

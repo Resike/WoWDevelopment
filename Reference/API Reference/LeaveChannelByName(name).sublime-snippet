@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LeaveChannelByName("${1:name}")$0]]></content>
-	<tabTrigger>LeaveChannelByName</tabTrigger>
-	<description>("name")</description>
-	<scope>source.lua</scope>
-</snippet>

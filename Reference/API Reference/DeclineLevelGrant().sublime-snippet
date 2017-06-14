@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DeclineLevelGrant()$0]]></content>
-	<tabTrigger>DeclineLevelGrant</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

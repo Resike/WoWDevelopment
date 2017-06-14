@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetCurrentScroll()$0]]></content>
-	<tabTrigger>GetCurrentScroll</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

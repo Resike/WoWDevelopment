@@ -1,0 +1,525 @@
+{
+	"scope": "source.lua - keyword.control.lua - constant.language.lua - string",
+	"completions": [
+		{
+			"trigger": "OnAnimFinished\t()",
+			"contents": "\nOnAnimFinished\n",
+		},
+		{
+			"trigger": "OnAnimFinished\t(self)",
+			"contents": "\nfunction(${1:self})\n\t${2:}\nend$0\n",
+		},
+		{
+			"trigger": "OnAttributeChanged\t()",
+			"contents": "\nOnAttributeChanged\n",
+		},
+		{
+			"trigger": "OnAttributeChanged\t(self, name, value)",
+			"contents": "\nfunction(${1:self}, ${2:name}, ${3:value})\n\t${4:}\nend$0\n",
+		},
+		{
+			"trigger": "OnChar\t()",
+			"contents": "\nOnChar\n",
+		},
+		{
+			"trigger": "OnCharComposition\t()",
+			"contents": "\nOnCharComposition\n",
+		},
+		{
+			"trigger": "OnCharComposition\t(self, text)",
+			"contents": "\nfunction(${1:self}, ${2:text})\n\t${3:}\nend$0\n",
+		},
+		{
+			"trigger": "OnChar\t(self, text)",
+			"contents": "\nfunction(${1:self}, ${2:text})\n\t${3:}\nend$0\n",
+		},
+		{
+			"trigger": "OnClick\t()",
+			"contents": "\nOnClick\n",
+		},
+		{
+			"trigger": "OnClick\t(self, button, down)",
+			"contents": "\nfunction(${1:self}, ${2:button}, ${3:down})\n\t${4:}\nend$0\n",
+		},
+		{
+			"trigger": "OnColorSelect\t()",
+			"contents": "\nOnColorSelect\n",
+		},
+		{
+			"trigger": "OnColorSelect\t(self, r, g, b)",
+			"contents": "\nfunction(${1:self}, ${2:r}, ${3:g}, ${4:b})\n\t${5:}\nend$0\n",
+		},
+		{
+			"trigger": "OnCursorChanged\t()",
+			"contents": "\nOnCursorChanged\n",
+		},
+		{
+			"trigger": "OnCursorChanged\t(self, x, y, width, height)",
+			"contents": "\nfunction(${1:self}, ${2:x}, ${3:y}, ${4:width}, ${5:height})\n\t${6:}\nend$0\n",
+		},
+		{
+			"trigger": "OnDisable\t()",
+			"contents": "\nOnDisable\n",
+		},
+		{
+			"trigger": "OnDisable\t(self)",
+			"contents": "\nfunction(${1:self})\n\t${2:}\nend$0\n",
+		},
+		{
+			"trigger": "OnDoubleClick\t()",
+			"contents": "\nOnDoubleClick\n",
+		},
+		{
+			"trigger": "OnDoubleClick\t(self, button)",
+			"contents": "\nfunction(${1:self}, ${2:button})\n\t${3:}\nend$0\n",
+		},
+		{
+			"trigger": "OnDragStart\t()",
+			"contents": "\nOnDragStart\n",
+		},
+		{
+			"trigger": "OnDragStart\t(self, button)",
+			"contents": "\nfunction(${1:self}, ${2:button})\n\t${3:}\nend$0\n",
+		},
+		{
+			"trigger": "OnDragStop\t()",
+			"contents": "\nOnDragStop\n",
+		},
+		{
+			"trigger": "OnDragStop\t(self)",
+			"contents": "\nfunction(${1:self})\n\t${2:}\nend$0\n",
+		},
+		{
+			"trigger": "OnEditFocusGained\t()",
+			"contents": "\nOnEditFocusGained\n",
+		},
+		{
+			"trigger": "OnEditFocusGained\t(self)",
+			"contents": "\nfunction(${1:self})\n\t${2:}\nend$0\n",
+		},
+		{
+			"trigger": "OnEditFocusLost\t()",
+			"contents": "\nOnEditFocusLost\n",
+		},
+		{
+			"trigger": "OnEditFocusLost\t(self)",
+			"contents": "\nfunction(${1:self})\n\t${2:}\nend$0\n",
+		},
+		{
+			"trigger": "OnEnable\t()",
+			"contents": "\nOnEnable\n",
+		},
+		{
+			"trigger": "OnEnable\t(self)",
+			"contents": "\nfunction(${1:self})\n\t${2:}\nend$0\n",
+		},
+		{
+			"trigger": "OnEnter\t()",
+			"contents": "\nOnEnter\n",
+		},
+		{
+			"trigger": "OnEnterPressed\t()",
+			"contents": "\nOnEnterPressed\n",
+		},
+		{
+			"trigger": "OnEnterPressed\t(self)",
+			"contents": "\nfunction(${1:self})\n\t${2:}\nend$0\n",
+		},
+		{
+			"trigger": "OnEnter\t(self, motion)",
+			"contents": "\nfunction(${1:self}, ${2:motion})\n\t${3:}\nend$0\n",
+		},
+		{
+			"trigger": "OnEscapePressed\t()",
+			"contents": "\nOnEscapePressed\n",
+		},
+		{
+			"trigger": "OnEscapePressed\t(self)",
+			"contents": "\nfunction(${1:self})\n\t${2:}\nend$0\n",
+		},
+		{
+			"trigger": "OnEvent\t()",
+			"contents": "\nOnEvent\n",
+		},
+		{
+			"trigger": "OnEvent\t(self, event, ...)",
+			"contents": "\nfunction(${1:self}, ${2:event}, ${3:...})\n\t${4:}\nend$0\n",
+		},
+		{
+			"trigger": "OnFinished\t()",
+			"contents": "\nOnFinished\n",
+		},
+		{
+			"trigger": "OnFinished\t(self, requested)",
+			"contents": "\nfunction(${1:self}, ${2:requested})\n\t${3:}\nend$0\n",
+		},
+		{
+			"trigger": "OnHide\t()",
+			"contents": "\nOnHide\n",
+		},
+		{
+			"trigger": "OnHide\t(self)",
+			"contents": "\nfunction(${1:self})\n\t${2:}\nend$0\n",
+		},
+		{
+			"trigger": "OnHorizontalScroll\t()",
+			"contents": "\nOnHorizontalScroll\n",
+		},
+		{
+			"trigger": "OnHorizontalScroll\t(self, offset)",
+			"contents": "\nfunction(${1:self}, ${2:offset})\n\t${3:}\nend$0\n",
+		},
+		{
+			"trigger": "OnHyperlinkClick\t()",
+			"contents": "\nOnHyperlinkClick\n",
+		},
+		{
+			"trigger": "OnHyperlinkClick\t(self, linkData, link, button)",
+			"contents": "\nfunction(${1:self}, ${2:linkData}, ${3:link}, ${4:button})\n\t${5:}\nend$0\n",
+		},
+		{
+			"trigger": "OnHyperlinkEnter\t()",
+			"contents": "\nOnHyperlinkEnter\n",
+		},
+		{
+			"trigger": "OnHyperlinkEnter\t(self, linkData, link)",
+			"contents": "\nfunction(${1:self}, ${2:linkData}, ${3:link})\n\t${4:}\nend$0\n",
+		},
+		{
+			"trigger": "OnHyperlinkLeave\t()",
+			"contents": "\nOnHyperlinkLeave\n",
+		},
+		{
+			"trigger": "OnHyperlinkLeave\t(self, linkData, link)",
+			"contents": "\nfunction(${1:self}, ${2:linkData}, ${3:link})\n\t${4:}\nend$0\n",
+		},
+		{
+			"trigger": "OnInputLanguageChanged\t()",
+			"contents": "\nOnInputLanguageChanged\n",
+		},
+		{
+			"trigger": "OnInputLanguageChanged\t(self, language)",
+			"contents": "\nfunction(${1:self}, ${2:language})\n\t${3:}\nend$0\n",
+		},
+		{
+			"trigger": "OnKeyDown\t()",
+			"contents": "\nOnKeyDown\n",
+		},
+		{
+			"trigger": "OnKeyDown\t(self, key)",
+			"contents": "\nfunction(${1:self}, ${2:key})\n\t${3:}\nend$0\n",
+		},
+		{
+			"trigger": "OnKeyUp\t()",
+			"contents": "\nOnKeyUp\n",
+		},
+		{
+			"trigger": "OnKeyUp\t(self, key)",
+			"contents": "\nfunction(${1:self}, ${2:key})\n\t${3:}\nend$0\n",
+		},
+		{
+			"trigger": "OnLeave\t()",
+			"contents": "\nOnLeave\n",
+		},
+		{
+			"trigger": "OnLeave\t(self, motion)",
+			"contents": "\nfunction(${1:self}, ${2:motion})\n\t${3:}\nend$0\n",
+		},
+		{
+			"trigger": "OnLoad\t()",
+			"contents": "\nOnLoad\n",
+		},
+		{
+			"trigger": "OnLoad\t(self)",
+			"contents": "\nfunction(${1:self})\n\t${2:}\nend$0\n",
+		},
+		{
+			"trigger": "OnLoop\t()",
+			"contents": "\nOnLoop\n",
+		},
+		{
+			"trigger": "OnLoop\t(self, loopState)",
+			"contents": "\nfunction(${1:self}, ${2:loopState})\n\t${3:}\nend$0\n",
+		},
+		{
+			"trigger": "OnMessageScrollChanged\t()",
+			"contents": "\nOnMessageScrollChanged\n",
+		},
+		{
+			"trigger": "OnMessageScrollChanged\t(self)",
+			"contents": "\nfunction(${1:self})\n\t${2:}\nend$0\n",
+		},
+		{
+			"trigger": "OnMinMaxChanged\t()",
+			"contents": "\nOnMinMaxChanged\n",
+		},
+		{
+			"trigger": "OnMinMaxChanged\t(self, min, max)",
+			"contents": "\nfunction(${1:self}, ${2:min}, ${3:max})\n\t${4:}\nend$0\n",
+		},
+		{
+			"trigger": "OnMouseDown\t()",
+			"contents": "\nOnMouseDown\n",
+		},
+		{
+			"trigger": "OnMouseDown\t(self, button)",
+			"contents": "\nfunction(${1:self}, ${2:button})\n\t${3:}\nend$0\n",
+		},
+		{
+			"trigger": "OnMouseUp\t()",
+			"contents": "\nOnMouseUp\n",
+		},
+		{
+			"trigger": "OnMouseUp\t(self, button)",
+			"contents": "\nfunction(${1:self}, ${2:button})\n\t${3:}\nend$0\n",
+		},
+		{
+			"trigger": "OnMouseWheel\t()",
+			"contents": "\nOnMouseWheel\n",
+		},
+		{
+			"trigger": "OnMouseWheel\t(self, delta)",
+			"contents": "\nfunction(${1:self}, ${2:delta})\n\t${3:}\nend$0\n",
+		},
+		{
+			"trigger": "OnMovieFinished\t()",
+			"contents": "\nOnMovieFinished\n",
+		},
+		{
+			"trigger": "OnMovieFinished\t(self)",
+			"contents": "\nfunction(${1:self})\n\t${2:}\nend$0\n",
+		},
+		{
+			"trigger": "OnMovieHideSubtitle\t()",
+			"contents": "\nOnMovieHideSubtitle\n",
+		},
+		{
+			"trigger": "OnMovieHideSubtitle\t(self)",
+			"contents": "\nfunction(${1:self})\n\t${2:}\nend$0\n",
+		},
+		{
+			"trigger": "OnMovieShowSubtitle\t()",
+			"contents": "\nOnMovieShowSubtitle\n",
+		},
+		{
+			"trigger": "OnMovieShowSubtitle\t(self, text)",
+			"contents": "\nfunction(${1:self}, ${2:text})\n\t${3:}\nend$0\n",
+		},
+		{
+			"trigger": "OnPause\t()",
+			"contents": "\nOnPause\n",
+		},
+		{
+			"trigger": "OnPause\t(self)",
+			"contents": "\nfunction(${1:self})\n\t${2:}\nend$0\n",
+		},
+		{
+			"trigger": "OnPlay\t()",
+			"contents": "\nOnPlay\n",
+		},
+		{
+			"trigger": "OnPlay\t(self)",
+			"contents": "\nfunction(${1:self})\n\t${2:}\nend$0\n",
+		},
+		{
+			"trigger": "OnReceiveDrag\t()",
+			"contents": "\nOnReceiveDrag\n",
+		},
+		{
+			"trigger": "OnReceiveDrag\t(self)",
+			"contents": "\nfunction(${1:self})\n\t${2:}\nend$0\n",
+		},
+		{
+			"trigger": "OnScrollRangeChanged\t()",
+			"contents": "\nOnScrollRangeChanged\n",
+		},
+		{
+			"trigger": "OnScrollRangeChanged\t(self, x, y)",
+			"contents": "\nfunction(${1:self}, ${2:x}, ${3:y})\n\t${4:}\nend$0\n",
+		},
+		{
+			"trigger": "OnShow\t()",
+			"contents": "\nOnShow\n",
+		},
+		{
+			"trigger": "OnShow\t(self)",
+			"contents": "\nfunction(${1:self})\n\t${2:}\nend$0\n",
+		},
+		{
+			"trigger": "OnSizeChanged\t()",
+			"contents": "\nOnSizeChanged\n",
+		},
+		{
+			"trigger": "OnSizeChanged\t(self, width, height)",
+			"contents": "\nfunction(${1:self}, ${2:width}, ${3:height})\n\t${4:}\nend$0\n",
+		},
+		{
+			"trigger": "OnSpacePressed\t()",
+			"contents": "\nOnSpacePressed\n",
+		},
+		{
+			"trigger": "OnSpacePressed\t(self)",
+			"contents": "\nfunction(${1:self})\n\t${2:}\nend$0\n",
+		},
+		{
+			"trigger": "OnStop\t()",
+			"contents": "\nOnStop\n",
+		},
+		{
+			"trigger": "OnStop\t(self, requested)",
+			"contents": "\nfunction(${1:self}, ${2:requested})\n\t${3:}\nend$0\n",
+		},
+		{
+			"trigger": "OnTabPressed\t()",
+			"contents": "\nOnTabPressed\n",
+		},
+		{
+			"trigger": "OnTabPressed\t(self)",
+			"contents": "\nfunction(${1:self})\n\t${2:}\nend$0\n",
+		},
+		{
+			"trigger": "OnTextChanged\t()",
+			"contents": "\nOnTextChanged\n",
+		},
+		{
+			"trigger": "OnTextChanged\t(self, userInput)",
+			"contents": "\nfunction(${1:self}, ${2:userInput})\n\t${3:}\nend$0\n",
+		},
+		{
+			"trigger": "OnTextSet\t()",
+			"contents": "\nOnTextSet\n",
+		},
+		{
+			"trigger": "OnTextSet\t(self)",
+			"contents": "\nfunction(${1:self})\n\t${2:}\nend$0\n",
+		},
+		{
+			"trigger": "OnTooltipAddMoney\t()",
+			"contents": "\nOnTooltipAddMoney\n",
+		},
+		{
+			"trigger": "OnTooltipAddMoney\t(self, amount, maxAmount)",
+			"contents": "\nfunction(${1:self}, ${2:amount}, ${3:maxAmount})\n\t${4:}\nend$0\n",
+		},
+		{
+			"trigger": "OnTooltipCleared\t()",
+			"contents": "\nOnTooltipCleared\n",
+		},
+		{
+			"trigger": "OnTooltipCleared\t(self)",
+			"contents": "\nfunction(${1:self})\n\t${2:}\nend$0\n",
+		},
+		{
+			"trigger": "OnTooltipSetAchievement\t()",
+			"contents": "\nOnTooltipSetAchievement\n",
+		},
+		{
+			"trigger": "OnTooltipSetAchievement\t(self)",
+			"contents": "\nfunction(${1:self})\n\t${2:}\nend$0\n",
+		},
+		{
+			"trigger": "OnTooltipSetDefaultAnchor\t()",
+			"contents": "\nOnTooltipSetDefaultAnchor\n",
+		},
+		{
+			"trigger": "OnTooltipSetDefaultAnchor\t(self)",
+			"contents": "\nfunction(${1:self})\n\t${2:}\nend$0\n",
+		},
+		{
+			"trigger": "OnTooltipSetEquipmentSet\t()",
+			"contents": "\nOnTooltipSetEquipmentSet\n",
+		},
+		{
+			"trigger": "OnTooltipSetEquipmentSet\t(self)",
+			"contents": "\nfunction(${1:self})\n\t${2:}\nend$0\n",
+		},
+		{
+			"trigger": "OnTooltipSetFrameStack\t()",
+			"contents": "\nOnTooltipSetFrameStack\n",
+		},
+		{
+			"trigger": "OnTooltipSetFrameStack\t(self)",
+			"contents": "\nfunction(${1:self})\n\t${2:}\nend$0\n",
+		},
+		{
+			"trigger": "OnTooltipSetItem\t()",
+			"contents": "\nOnTooltipSetItem\n",
+		},
+		{
+			"trigger": "OnTooltipSetItem\t(self)",
+			"contents": "\nfunction(${1:self})\n\t${2:}\nend$0\n",
+		},
+		{
+			"trigger": "OnTooltipSetQuest\t()",
+			"contents": "\nOnTooltipSetQuest\n",
+		},
+		{
+			"trigger": "OnTooltipSetQuest\t(self)",
+			"contents": "\nfunction(${1:self})\n\t${2:}\nend$0\n",
+		},
+		{
+			"trigger": "OnTooltipSetSpell\t()",
+			"contents": "\nOnTooltipSetSpell\n",
+		},
+		{
+			"trigger": "OnTooltipSetSpell\t(self)",
+			"contents": "\nfunction(${1:self})\n\t${2:}\nend$0\n",
+		},
+		{
+			"trigger": "OnTooltipSetUnit\t()",
+			"contents": "\nOnTooltipSetUnit\n",
+		},
+		{
+			"trigger": "OnTooltipSetUnit\t(self)",
+			"contents": "\nfunction(${1:self})\n\t${2:}\nend$0\n",
+		},
+		{
+			"trigger": "OnUpdate\t()",
+			"contents": "\nOnUpdate\n",
+		},
+		{
+			"trigger": "OnUpdateModel\t()",
+			"contents": "\nOnUpdateModel\n",
+		},
+		{
+			"trigger": "OnUpdateModel\t(self)",
+			"contents": "\nfunction(${1:self})\n\t${2:}\nend$0\n",
+		},
+		{
+			"trigger": "OnUpdate\t(self, elapsed)",
+			"contents": "\nfunction(${1:self}, ${2:elapsed})\n\t${3:}\nend$0\n",
+		},
+		{
+			"trigger": "OnValueChanged\t()",
+			"contents": "\nOnValueChanged\n",
+		},
+		{
+			"trigger": "OnValueChanged\t(self, value)",
+			"contents": "\nfunction(${1:self}, ${2:value})\n\t${3:}\nend$0\n",
+		},
+		{
+			"trigger": "OnVerticalScroll\t()",
+			"contents": "\nOnVerticalScroll\n",
+		},
+		{
+			"trigger": "OnVerticalScroll\t(self, offset)",
+			"contents": "\nfunction(${1:self}, ${2:offset})\n\t${3:}\nend$0\n",
+		},
+		{
+			"trigger": "PostClick\t()",
+			"contents": "\nPostClick\n",
+		},
+		{
+			"trigger": "PostClick\t(self, button, down)",
+			"contents": "\nfunction(${1:self}, ${2:button}, ${3:down})\n\t${4:}\nend$0\n",
+		},
+		{
+			"trigger": "PreClick\t()",
+			"contents": "\nPreClick\n",
+		},
+		{
+			"trigger": "PreClick\t(self, button, down)",
+			"contents": "\nfunction(${1:self}, ${2:button}, ${3:down})\n\t${4:}\nend$0\n",
+		},
+	]
+}

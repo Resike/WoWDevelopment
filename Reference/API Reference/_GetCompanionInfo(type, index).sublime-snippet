@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:creatureID}, ${2:creatureName}, ${3:spellID}, ${4:icon}, ${5:active}, ${6:mountFlags} = GetCompanionInfo("${7:type}", ${8:index})$0]]></content>
-	<tabTrigger>_GetCompanionInfo</tabTrigger>
-	<description>("type", index)</description>
-	<scope>source.lua</scope>
-</snippet>

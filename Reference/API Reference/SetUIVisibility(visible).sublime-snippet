@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetUIVisibility(${1:visible})$0]]></content>
-	<tabTrigger>SetUIVisibility</tabTrigger>
-	<description>(visible)</description>
-	<scope>source.lua</scope>
-</snippet>

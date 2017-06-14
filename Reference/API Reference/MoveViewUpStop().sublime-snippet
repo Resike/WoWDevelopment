@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MoveViewUpStop()$0]]></content>
-	<tabTrigger>MoveViewUpStop</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

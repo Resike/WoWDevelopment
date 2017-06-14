@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetSpellCooldown(${1:index}, "${2:bookType}")$0]]></content>
-	<tabTrigger>GetSpellCooldown</tabTrigger>
-	<description>(index, "bookType")</description>
-	<scope>source.lua</scope>
-</snippet>

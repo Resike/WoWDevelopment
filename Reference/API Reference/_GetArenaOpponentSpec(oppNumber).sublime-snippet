@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:specialisationID} = GetArenaOpponentSpec(${2:oppNumber})$0]]></content>
-	<tabTrigger>_GetArenaOpponentSpec</tabTrigger>
-	<description>(oppNumber)</description>
-	<scope>source.lua</scope>
-</snippet>

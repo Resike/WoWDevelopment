@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HasPetSpells()$0]]></content>
-	<tabTrigger>HasPetSpells</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

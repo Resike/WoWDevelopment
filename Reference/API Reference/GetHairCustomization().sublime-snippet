@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetHairCustomization()$0]]></content>
-	<tabTrigger>GetHairCustomization</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

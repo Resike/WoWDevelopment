@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:left}, ${2:right}, ${3:top}, ${4:bottom} = ${5:Frame}:GetHitRectInsets()$0]]></content>
-	<tabTrigger>_Frame:GetHitRectInsets</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

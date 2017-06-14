@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetSelectedFaction()$0]]></content>
-	<tabTrigger>GetSelectedFaction</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

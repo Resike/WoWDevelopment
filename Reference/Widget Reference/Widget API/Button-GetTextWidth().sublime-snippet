@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${2:Button}:GetTextWidth()$0]]></content>
-	<tabTrigger>Button:GetTextWidth</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

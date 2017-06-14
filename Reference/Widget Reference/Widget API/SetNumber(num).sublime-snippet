@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetNumber(${2:num})$0]]></content>
-	<tabTrigger>SetNumber</tabTrigger>
-	<description>(num)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${2:FontInstance}:GetJustifyH()$0]]></content>
-	<tabTrigger>FontInstance:GetJustifyH</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

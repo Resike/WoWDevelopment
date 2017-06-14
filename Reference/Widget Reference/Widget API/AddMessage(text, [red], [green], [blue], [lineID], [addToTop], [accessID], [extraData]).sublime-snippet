@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AddMessage("${2:text}", ${3:[red]}, ${4:[green]}, ${5:[blue]}, ${6:[lineID]}, ${7:[addToTop]}, ${8:[accessID]}, ${9:[extraData]})$0]]></content>
-	<tabTrigger>AddMessage</tabTrigger>
-	<description>("text", [r], [g], [b], [id], →)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[JoinLFG()$0]]></content>
-	<tabTrigger>JoinLFG</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

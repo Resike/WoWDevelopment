@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsMultiLine()$0]]></content>
-	<tabTrigger>IsMultiLine</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

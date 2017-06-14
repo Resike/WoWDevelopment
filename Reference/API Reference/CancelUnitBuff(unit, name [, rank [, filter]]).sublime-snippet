@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CancelUnitBuff("${1:unit}", "${2:name}", ${3:["rank"]}, ${4:["filter"]})$0]]></content>
-	<tabTrigger>CancelUnitBuff</tabTrigger>
-	<description>("unit", "name", →)</description>
-	<scope>source.lua</scope>
-</snippet>

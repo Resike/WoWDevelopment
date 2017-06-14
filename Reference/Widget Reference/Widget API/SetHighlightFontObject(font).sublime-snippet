@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetHighlightFontObject(${2:font})$0]]></content>
-	<tabTrigger>SetHighlightFontObject</tabTrigger>
-	<description>(font)</description>
-	<scope>source.lua</scope>
-</snippet>

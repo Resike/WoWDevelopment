@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetNumGossipAvailableQuests()$0]]></content>
-	<tabTrigger>GetNumGossipAvailableQuests</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

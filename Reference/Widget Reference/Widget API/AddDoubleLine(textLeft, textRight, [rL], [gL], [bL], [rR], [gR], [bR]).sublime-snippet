@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AddDoubleLine("${2:textLeft}", "${3:textRight}", ${4:[rL]}, ${5:[gL]}, ${6:[bL]}, ${7:[rR]}, ${8:[gR]}, ${9:[bR]})$0]]></content>
-	<tabTrigger>AddDoubleLine</tabTrigger>
-	<description>("textLeft", "textRight", →)</description>
-	<scope>source.lua</scope>
-</snippet>

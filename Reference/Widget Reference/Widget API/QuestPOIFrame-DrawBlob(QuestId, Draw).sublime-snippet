@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:QuestPOIFrame}:DrawBlob(${2:questID}, ${3:Draw})$0]]></content>
-	<tabTrigger>QuestPOIFrame:DrawBlob</tabTrigger>
-	<description>(questID, Draw)</description>
-	<scope>source.lua</scope>
-</snippet>

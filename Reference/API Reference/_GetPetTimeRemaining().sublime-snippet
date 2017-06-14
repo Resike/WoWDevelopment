@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:petTimeRemaining} = GetPetTimeRemaining()$0]]></content>
-	<tabTrigger>_GetPetTimeRemaining</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

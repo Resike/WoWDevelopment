@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DrawBlob(${2:questID}, ${3:Draw})$0]]></content>
-	<tabTrigger>DrawBlob</tabTrigger>
-	<description>(questID, Draw)</description>
-	<scope>source.lua</scope>
-</snippet>

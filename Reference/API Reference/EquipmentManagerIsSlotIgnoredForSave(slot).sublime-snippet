@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EquipmentManagerIsSlotIgnoredForSave(${1:slot})$0]]></content>
-	<tabTrigger>EquipmentManagerIsSlotIgnoredForSave</tabTrigger>
-	<description>(→)</description>
-	<scope>source.lua</scope>
-</snippet>

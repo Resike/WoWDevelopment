@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:action} = GetBindingAction("${2:key}", ${3:[checkOverride]})$0]]></content>
-	<tabTrigger>_GetBindingAction</tabTrigger>
-	<description>("key", [checkOverride])</description>
-	<scope>source.lua</scope>
-</snippet>

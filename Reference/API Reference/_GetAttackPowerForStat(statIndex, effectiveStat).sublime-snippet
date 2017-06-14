@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:attackPower} = GetAttackPowerForStat(${2:statIndex}, ${3:effectiveStat})$0]]></content>
-	<tabTrigger>_GetAttackPowerForStat</tabTrigger>
-	<description>(statIndex, →)</description>
-	<scope>source.lua</scope>
-</snippet>

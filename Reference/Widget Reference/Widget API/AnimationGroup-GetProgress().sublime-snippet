@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${2:AnimationGroup}:GetProgress()$0]]></content>
-	<tabTrigger>AnimationGroup:GetProgress</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

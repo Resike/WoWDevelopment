@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:EditBox}:SetMultiLine(${2:multiLine})$0]]></content>
-	<tabTrigger>EditBox:SetMultiLine</tabTrigger>
-	<description>(multiLine)</description>
-	<scope>source.lua</scope>
-</snippet>

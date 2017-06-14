@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:completedQuests} = GetQuestsCompleted(${2:questTbl})$0]]></content>
-	<tabTrigger>_GetQuestsCompleted</tabTrigger>
-	<description>(questTbl)</description>
-	<scope>source.lua</scope>
-</snippet>

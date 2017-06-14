@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:filename} = ${2:Model}:GetModel()$0]]></content>
-	<tabTrigger>_Model:GetModel</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

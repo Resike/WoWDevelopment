@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[StartAuction(${1:minBid}, ${2:buyoutPrice}, ${3:runTime}, ${4:stackSize}, ${5:numStacks})$0]]></content>
-	<tabTrigger>StartAuction</tabTrigger>
-	<description>(minBid, buyoutPrice, →)</description>
-	<scope>source.lua</scope>
-</snippet>

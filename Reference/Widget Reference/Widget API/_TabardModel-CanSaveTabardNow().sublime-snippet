@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:enabled} = ${2:TabardModel}:CanSaveTabardNow()$0]]></content>
-	<tabTrigger>_TabardModel:CanSaveTabardNow</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:Model}:SetSequenceTime(${2:sequence}, ${3:time})$0]]></content>
-	<tabTrigger>Model:SetSequenceTime</tabTrigger>
-	<description>(sequence, time)</description>
-	<scope>source.lua</scope>
-</snippet>

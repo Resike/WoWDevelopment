@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ClearHistory()$0]]></content>
-	<tabTrigger>ClearHistory</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:canSummon} = CanSummonFriend("${2:unit}")$0]]></content>
-	<tabTrigger>_CanSummonFriend</tabTrigger>
-	<description>("unit")</description>
-	<scope>source.lua</scope>
-</snippet>

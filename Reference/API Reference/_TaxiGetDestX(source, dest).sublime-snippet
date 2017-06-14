@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:dX} = TaxiGetDestX(${2:source}, ${3:dest})$0]]></content>
-	<tabTrigger>_TaxiGetDestX</tabTrigger>
-	<description>(source, dest)</description>
-	<scope>source.lua</scope>
-</snippet>

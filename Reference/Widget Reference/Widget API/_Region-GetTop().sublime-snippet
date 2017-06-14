@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:top} = ${2:Region}:GetTop()$0]]></content>
-	<tabTrigger>_Region:GetTop</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

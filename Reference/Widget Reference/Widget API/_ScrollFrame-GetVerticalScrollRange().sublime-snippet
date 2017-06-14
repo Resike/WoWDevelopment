@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:maxScroll} = ${2:ScrollFrame}:GetVerticalScrollRange()$0]]></content>
-	<tabTrigger>_ScrollFrame:GetVerticalScrollRange</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

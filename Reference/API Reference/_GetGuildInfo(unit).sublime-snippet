@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:guildName}, ${2:guildRankName}, ${3:guildRankIndex} = GetGuildInfo("${4:unit}")$0]]></content>
-	<tabTrigger>_GetGuildInfo</tabTrigger>
-	<description>("unit")</description>
-	<scope>source.lua</scope>
-</snippet>

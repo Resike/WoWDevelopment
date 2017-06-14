@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:Button}:SetNormalFontObject(${2:font})$0]]></content>
-	<tabTrigger>Button:SetNormalFontObject</tabTrigger>
-	<description>(font)</description>
-	<scope>source.lua</scope>
-</snippet>

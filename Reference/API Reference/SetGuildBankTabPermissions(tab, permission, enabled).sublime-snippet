@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetGuildBankTabPermissions(${1:tab}, ${2:permission}, ${3:enabled})$0]]></content>
-	<tabTrigger>SetGuildBankTabPermissions</tabTrigger>
-	<description>(tab, →)</description>
-	<scope>source.lua</scope>
-</snippet>

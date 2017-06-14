@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:statTable} = GetItemStats("${2:itemLink}", ${3:[returnTable]})$0]]></content>
-	<tabTrigger>_GetItemStats</tabTrigger>
-	<description>("itemLink", [returnTable])</description>
-	<scope>source.lua</scope>
-</snippet>

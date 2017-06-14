@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-OnTooltipSetAchievement
-]]></content>
-	<tabTrigger>OnTooltipSetAchievement</tabTrigger>
-	<description> </description>
-	<scope>source.lua</scope>
-</snippet>

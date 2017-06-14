@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CombatLogSetCurrentEntry(${1:index}, ${2:[ignoreFilter]})$0]]></content>
-	<tabTrigger>CombatLogSetCurrentEntry</tabTrigger>
-	<description>(index, →)</description>
-	<scope>source.lua</scope>
-</snippet>

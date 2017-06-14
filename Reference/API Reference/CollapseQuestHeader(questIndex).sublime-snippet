@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CollapseQuestHeader(${1:questIndex})$0]]></content>
-	<tabTrigger>CollapseQuestHeader</tabTrigger>
-	<description>(questIndex)</description>
-	<scope>source.lua</scope>
-</snippet>

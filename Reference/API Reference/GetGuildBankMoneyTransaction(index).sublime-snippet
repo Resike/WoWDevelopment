@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetGuildBankMoneyTransaction(${1:index})$0]]></content>
-	<tabTrigger>GetGuildBankMoneyTransaction</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

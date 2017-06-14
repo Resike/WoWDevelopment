@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:mode} = ${2:Texture}:GetBlendMode()$0]]></content>
-	<tabTrigger>_Texture:GetBlendMode</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

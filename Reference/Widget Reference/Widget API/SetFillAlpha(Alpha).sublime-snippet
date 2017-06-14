@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetFillAlpha(${2:Alpha})$0]]></content>
-	<tabTrigger>SetFillAlpha</tabTrigger>
-	<description>(Alpha)</description>
-	<scope>source.lua</scope>
-</snippet>

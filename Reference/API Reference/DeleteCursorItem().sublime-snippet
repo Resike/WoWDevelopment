@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DeleteCursorItem()$0]]></content>
-	<tabTrigger>DeleteCursorItem</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

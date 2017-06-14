@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetFontObject(${2:object})$0]]></content>
-	<tabTrigger>SetFontObject</tabTrigger>
-	<description>(object)</description>
-	<scope>source.lua</scope>
-</snippet>

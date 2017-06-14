@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:id} = GetContainerItemID(${2:container}, ${3:slot})$0]]></content>
-	<tabTrigger>_GetContainerItemID</tabTrigger>
-	<description>(container, slot)</description>
-	<scope>source.lua</scope>
-</snippet>

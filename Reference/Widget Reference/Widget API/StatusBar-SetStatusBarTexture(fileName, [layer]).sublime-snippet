@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:StatusBar}:SetStatusBarTexture("${2:fileName}", ${3:["layer"]})$0]]></content>
-	<tabTrigger>StatusBar:SetStatusBarTexture</tabTrigger>
-	<description>("fileName", →)</description>
-	<scope>source.lua</scope>
-</snippet>

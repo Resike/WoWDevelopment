@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${2:Frame}:GetAttribute("${3:name}")$0]]></content>
-	<tabTrigger>Frame:GetAttribute</tabTrigger>
-	<description>("name")</description>
-	<scope>source.lua</scope>
-</snippet>

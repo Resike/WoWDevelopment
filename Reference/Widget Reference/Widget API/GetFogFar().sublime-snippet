@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetFogFar()$0]]></content>
-	<tabTrigger>GetFogFar</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

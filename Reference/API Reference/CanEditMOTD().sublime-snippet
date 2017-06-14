@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CanEditMOTD()$0]]></content>
-	<tabTrigger>CanEditMOTD</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

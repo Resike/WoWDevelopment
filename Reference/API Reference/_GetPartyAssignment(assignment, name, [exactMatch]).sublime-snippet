@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:isAssigned} = GetPartyAssignment("${2:assignment}", "${3:name}", ${4:[exactMatch]})$0]]></content>
-	<tabTrigger>_GetPartyAssignment</tabTrigger>
-	<description>(→, "name", →)</description>
-	<scope>source.lua</scope>
-</snippet>

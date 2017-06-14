@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Play()$0]]></content>
-	<tabTrigger>Play</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

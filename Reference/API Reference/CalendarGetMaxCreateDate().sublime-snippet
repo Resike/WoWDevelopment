@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarGetMaxCreateDate()$0]]></content>
-	<tabTrigger>CalendarGetMaxCreateDate</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

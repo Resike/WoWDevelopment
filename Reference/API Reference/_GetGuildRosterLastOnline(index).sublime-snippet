@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:years}, ${2:months}, ${3:days}, ${4:hours} = GetGuildRosterLastOnline(${5:index})$0]]></content>
-	<tabTrigger>_GetGuildRosterLastOnline</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

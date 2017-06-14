@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetBorderTexture("${2:Texture}")$0]]></content>
-	<tabTrigger>SetBorderTexture</tabTrigger>
-	<description>("Texture")</description>
-	<scope>source.lua</scope>
-</snippet>

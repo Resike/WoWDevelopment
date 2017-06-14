@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:power} = UnitPower("${2:unitID}", ${3:[powerType]})$0]]></content>
-	<tabTrigger>_UnitPower</tabTrigger>
-	<description>("unitID", [powerType])</description>
-	<scope>source.lua</scope>
-</snippet>

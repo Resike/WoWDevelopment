@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetTrainerServiceTypeFilter("${1:type}", ${2:[enable]}, ${3:[exclusive]})$0]]></content>
-	<tabTrigger>SetTrainerServiceTypeFilter</tabTrigger>
-	<description>("type", →)</description>
-	<scope>source.lua</scope>
-</snippet>

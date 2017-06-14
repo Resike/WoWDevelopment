@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetRegionParent()$0]]></content>
-	<tabTrigger>GetRegionParent</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

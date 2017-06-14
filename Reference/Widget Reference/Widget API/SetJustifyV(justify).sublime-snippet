@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetJustifyV("justify")$0]]></content>
-	<tabTrigger>SetJustifyV</tabTrigger>
-	<description>("justify")</description>
-	<scope>source.lua</scope>
-</snippet>

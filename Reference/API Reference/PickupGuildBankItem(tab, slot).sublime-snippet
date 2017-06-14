@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PickupGuildBankItem(${1:tab}, ${2:slot})$0]]></content>
-	<tabTrigger>PickupGuildBankItem</tabTrigger>
-	<description>(tab, slot)</description>
-	<scope>source.lua</scope>
-</snippet>

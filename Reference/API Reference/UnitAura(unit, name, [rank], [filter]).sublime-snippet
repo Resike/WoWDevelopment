@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnitAura("${1:unit}", "${2:name}", ${3:["rank"]}, ${4:["filter"]})$0]]></content>
-	<tabTrigger>UnitAura</tabTrigger>
-	<description>("unit", "name", ["rank"], →)</description>
-	<scope>source.lua</scope>
-</snippet>

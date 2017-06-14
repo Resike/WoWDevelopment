@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-OnEscapePressed
-]]></content>
-	<tabTrigger>OnEscapePressed</tabTrigger>
-	<description> </description>
-	<scope>source.lua</scope>
-</snippet>

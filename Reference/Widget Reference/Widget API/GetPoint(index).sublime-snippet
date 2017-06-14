@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetPoint(${7:index})$0]]></content>
-	<tabTrigger>GetPoint</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

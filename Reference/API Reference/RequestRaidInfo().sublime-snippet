@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RequestRaidInfo()$0]]></content>
-	<tabTrigger>RequestRaidInfo</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

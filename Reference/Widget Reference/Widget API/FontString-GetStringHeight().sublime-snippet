@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${2:FontString}:GetStringHeight()$0]]></content>
-	<tabTrigger>FontString:GetStringHeight</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

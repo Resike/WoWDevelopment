@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ItemTextNextPage()$0]]></content>
-	<tabTrigger>ItemTextNextPage</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

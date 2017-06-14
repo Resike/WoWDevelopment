@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetModelScale(${2:scale})$0]]></content>
-	<tabTrigger>SetModelScale</tabTrigger>
-	<description>(scale)</description>
-	<scope>source.lua</scope>
-</snippet>

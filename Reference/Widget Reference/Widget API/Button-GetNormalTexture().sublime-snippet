@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${2:Button}:GetNormalTexture()$0]]></content>
-	<tabTrigger>Button:GetNormalTexture</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

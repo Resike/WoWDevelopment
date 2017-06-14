@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:isEnabled} = ${2:Button}:GetMotionScriptsWhileDisabled()$0]]></content>
-	<tabTrigger>_Button:GetMotionScriptsWhileDisabled</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

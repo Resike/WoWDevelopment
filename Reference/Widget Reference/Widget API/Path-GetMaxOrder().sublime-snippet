@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${2:Path}:GetMaxOrder()$0]]></content>
-	<tabTrigger>Path:GetMaxOrder</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

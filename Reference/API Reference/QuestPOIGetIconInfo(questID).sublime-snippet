@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QuestPOIGetIconInfo(${1:questID})$0]]></content>
-	<tabTrigger>QuestPOIGetIconInfo</tabTrigger>
-	<description>(questID)</description>
-	<scope>source.lua</scope>
-</snippet>

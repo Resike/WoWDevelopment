@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QuestChooseRewardError()$0]]></content>
-	<tabTrigger>QuestChooseRewardError</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

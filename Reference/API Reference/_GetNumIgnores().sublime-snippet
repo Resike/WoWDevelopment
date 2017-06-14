@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:numIgnores} = GetNumIgnores()$0]]></content>
-	<tabTrigger>_GetNumIgnores</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

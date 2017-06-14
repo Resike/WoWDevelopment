@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:Frame}:StartMoving()$0]]></content>
-	<tabTrigger>Frame:StartMoving</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EnableSubtitles(${2:enable})$0]]></content>
-	<tabTrigger>EnableSubtitles</tabTrigger>
-	<description>(enable)</description>
-	<scope>source.lua</scope>
-</snippet>

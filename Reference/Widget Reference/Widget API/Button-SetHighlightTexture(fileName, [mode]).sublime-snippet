@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:Button}:SetHighlightTexture("${2:fileName}", ${3:["mode"]})$0]]></content>
-	<tabTrigger>Button:SetHighlightTexture</tabTrigger>
-	<description>("fileName", →)</description>
-	<scope>source.lua</scope>
-</snippet>

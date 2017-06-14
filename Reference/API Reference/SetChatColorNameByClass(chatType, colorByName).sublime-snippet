@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetChatColorNameByClass("${1:chatType}", ${2:colorByName})$0]]></content>
-	<tabTrigger>SetChatColorNameByClass</tabTrigger>
-	<description>("chatType", →)</description>
-	<scope>source.lua</scope>
-</snippet>

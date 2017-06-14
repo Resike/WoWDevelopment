@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${2:Animation}:GetDuration()$0]]></content>
-	<tabTrigger>Animation:GetDuration</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

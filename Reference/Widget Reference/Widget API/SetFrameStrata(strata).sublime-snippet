@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetFrameStrata("${2:strata}")$0]]></content>
-	<tabTrigger>SetFrameStrata</tabTrigger>
-	<description>("strata")</description>
-	<scope>source.lua</scope>
-</snippet>

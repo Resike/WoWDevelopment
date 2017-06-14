@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetupFullscreenScale(${1:frame})$0]]></content>
-	<tabTrigger>SetupFullscreenScale</tabTrigger>
-	<description>(frame)</description>
-	<scope>source.lua</scope>
-</snippet>

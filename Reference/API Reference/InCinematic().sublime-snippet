@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[InCinematic()$0]]></content>
-	<tabTrigger>InCinematic</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

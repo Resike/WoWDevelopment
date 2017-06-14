@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CheckInbox()$0]]></content>
-	<tabTrigger>CheckInbox</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

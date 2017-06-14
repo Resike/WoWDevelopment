@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-OnEditFocusLost
-]]></content>
-	<tabTrigger>OnEditFocusLost</tabTrigger>
-	<description> </description>
-	<scope>source.lua</scope>
-</snippet>

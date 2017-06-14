@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:mapFileName}, ${2:textureHeight}, ${3:textureWidth}, ${4:isMicroDungeon}, ${5:microDungeonMapName} = GetMapInfo()$0]]></content>
-	<tabTrigger>_GetMapInfo</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

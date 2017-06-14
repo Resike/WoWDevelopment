@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarContextEventComplain([monthOffset], day, index)$0]]></content>
-	<tabTrigger>CalendarContextEventComplain</tabTrigger>
-	<description>(→)</description>
-	<scope>source.lua</scope>
-</snippet>

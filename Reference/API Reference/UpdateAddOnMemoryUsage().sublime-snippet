@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UpdateAddOnMemoryUsage()$0]]></content>
-	<tabTrigger>UpdateAddOnMemoryUsage</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetScale(${2:xFactor}, ${3:yFactor})$0]]></content>
-	<tabTrigger>SetScale</tabTrigger>
-	<description>(xFactor, yFactor)</description>
-	<scope>source.lua</scope>
-</snippet>

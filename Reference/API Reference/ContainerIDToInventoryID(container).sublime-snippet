@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ContainerIDToInventoryID(${1:container})$0]]></content>
-	<tabTrigger>ContainerIDToInventoryID</tabTrigger>
-	<description>(container)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsMovable()$0]]></content>
-	<tabTrigger>IsMovable</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

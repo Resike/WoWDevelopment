@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-OnTextSet
-]]></content>
-	<tabTrigger>OnTextSet</tabTrigger>
-	<description> </description>
-	<scope>source.lua</scope>
-</snippet>

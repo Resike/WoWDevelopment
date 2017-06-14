@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetResSicknessDuration()$0]]></content>
-	<tabTrigger>GetResSicknessDuration</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

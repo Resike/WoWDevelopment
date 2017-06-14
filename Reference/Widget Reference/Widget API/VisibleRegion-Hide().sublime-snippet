@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:VisibleRegion}:Hide()$0]]></content>
-	<tabTrigger>VisibleRegion:Hide</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

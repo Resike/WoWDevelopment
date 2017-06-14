@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${4:ColorSelect}:GetColorHSV()$0]]></content>
-	<tabTrigger>ColorSelect:GetColorHSV</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

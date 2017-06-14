@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:hyperlink} = GetSavedInstanceChatLink(${2:index})$0]]></content>
-	<tabTrigger>_GetSavedInstanceChatLink</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

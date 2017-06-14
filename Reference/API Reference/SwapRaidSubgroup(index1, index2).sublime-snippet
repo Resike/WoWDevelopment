@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SwapRaidSubgroup(${1:index1}, ${2:index2})$0]]></content>
-	<tabTrigger>SwapRaidSubgroup</tabTrigger>
-	<description>(index1, index2)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-OnDoubleClick
-]]></content>
-	<tabTrigger>OnDoubleClick</tabTrigger>
-	<description> </description>
-	<scope>source.lua</scope>
-</snippet>

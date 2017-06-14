@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CanEditPublicNote()$0]]></content>
-	<tabTrigger>CanEditPublicNote</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

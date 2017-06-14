@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetActionBarToggles()$0]]></content>
-	<tabTrigger>GetActionBarToggles</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

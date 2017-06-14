@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${2:Region}:CreateAnimationGroup(${3:["name"]}, ${4:["inheritsFrom"]})$0]]></content>
-	<tabTrigger>Region:CreateAnimationGroup</tabTrigger>
-	<description>(["name"], →)</description>
-	<scope>source.lua</scope>
-</snippet>

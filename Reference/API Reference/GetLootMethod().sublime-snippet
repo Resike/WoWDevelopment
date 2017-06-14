@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetLootMethod()$0]]></content>
-	<tabTrigger>GetLootMethod</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

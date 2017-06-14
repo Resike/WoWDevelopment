@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:Region}:SetAllPoints(${2:["name"]})$0]]></content>
-	<tabTrigger>Region:SetAllPoints</tabTrigger>
-	<description>(["name"])</description>
-	<scope>source.lua</scope>
-</snippet>

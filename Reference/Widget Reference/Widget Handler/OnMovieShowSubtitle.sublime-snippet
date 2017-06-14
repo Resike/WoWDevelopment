@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-OnMovieShowSubtitle
-]]></content>
-	<tabTrigger>OnMovieShowSubtitle</tabTrigger>
-	<description> </description>
-	<scope>source.lua</scope>
-</snippet>

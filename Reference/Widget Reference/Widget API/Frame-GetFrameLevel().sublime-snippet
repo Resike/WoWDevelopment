@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${2:Frame}:GetFrameLevel()$0]]></content>
-	<tabTrigger>Frame:GetFrameLevel</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

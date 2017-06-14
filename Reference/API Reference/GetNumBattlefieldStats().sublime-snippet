@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetNumBattlefieldStats()$0]]></content>
-	<tabTrigger>GetNumBattlefieldStats</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

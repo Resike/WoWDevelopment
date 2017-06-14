@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:GameTooltip}:SetSocketedItem()$0]]></content>
-	<tabTrigger>GameTooltip:SetSocketedItem</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

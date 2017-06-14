@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AtTop()$0]]></content>
-	<tabTrigger>AtTop</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

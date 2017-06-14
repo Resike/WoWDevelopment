@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CanShowAchievementUI()$0]]></content>
-	<tabTrigger>CanShowAchievementUI</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

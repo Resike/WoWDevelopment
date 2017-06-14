@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:canResetInstances} = CanShowResetInstances()$0]]></content>
-	<tabTrigger>_CanShowResetInstances</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsLeftAltKeyDown()$0]]></content>
-	<tabTrigger>IsLeftAltKeyDown</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

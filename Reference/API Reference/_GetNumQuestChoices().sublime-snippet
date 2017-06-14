@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:numQuestChoices} = GetNumQuestChoices()$0]]></content>
-	<tabTrigger>_GetNumQuestChoices</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

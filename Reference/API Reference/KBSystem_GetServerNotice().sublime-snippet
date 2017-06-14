@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[KBSystem_GetServerNotice()$0]]></content>
-	<tabTrigger>KBSystem_GetServerNotice</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

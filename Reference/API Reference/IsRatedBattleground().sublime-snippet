@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsRatedBattleground()$0]]></content>
-	<tabTrigger>IsRatedBattleground</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

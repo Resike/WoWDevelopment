@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetSendMailCOD(${1:amount})$0]]></content>
-	<tabTrigger>SetSendMailCOD</tabTrigger>
-	<description>(amount)</description>
-	<scope>source.lua</scope>
-</snippet>

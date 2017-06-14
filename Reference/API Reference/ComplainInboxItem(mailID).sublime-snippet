@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ComplainInboxItem(${1:mailID})$0]]></content>
-	<tabTrigger>ComplainInboxItem</tabTrigger>
-	<description>(mailID)</description>
-	<scope>source.lua</scope>
-</snippet>

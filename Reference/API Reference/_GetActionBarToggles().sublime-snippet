@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:showBar1}, ${2:showBar2}, ${3:showBar3}, ${4:showBar4} = GetActionBarToggles()$0]]></content>
-	<tabTrigger>_GetActionBarToggles</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

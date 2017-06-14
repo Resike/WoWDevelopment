@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetAlpha()$0]]></content>
-	<tabTrigger>GetAlpha</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

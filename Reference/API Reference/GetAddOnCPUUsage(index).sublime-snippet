@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetAddOnCPUUsage(${1:index})$0]]></content>
-	<tabTrigger>GetAddOnCPUUsage</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

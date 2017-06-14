@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetLight()$0]]></content>
-	<tabTrigger>GetLight</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

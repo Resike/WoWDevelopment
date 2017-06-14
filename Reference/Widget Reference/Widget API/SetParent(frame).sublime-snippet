@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetParent(${2:frame})$0]]></content>
-	<tabTrigger>SetParent</tabTrigger>
-	<description>(frame)</description>
-	<scope>source.lua</scope>
-</snippet>

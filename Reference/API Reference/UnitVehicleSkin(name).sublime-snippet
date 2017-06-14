@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnitVehicleSkin("${1:name}")$0]]></content>
-	<tabTrigger>UnitVehicleSkin</tabTrigger>
-	<description>("name")</description>
-	<scope>source.lua</scope>
-</snippet>

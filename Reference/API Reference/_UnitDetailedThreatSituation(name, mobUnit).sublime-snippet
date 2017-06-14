@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:isTanking}, ${2:status}, ${3:scaledPercent}, ${4:rawPercent}, ${5:threatValue} = UnitDetailedThreatSituation("${6:name}", ${7:mobUnit})$0]]></content>
-	<tabTrigger>_UnitDetailedThreatSituation</tabTrigger>
-	<description>("name", →)</description>
-	<scope>source.lua</scope>
-</snippet>

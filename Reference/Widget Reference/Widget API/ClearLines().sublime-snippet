@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ClearLines()$0]]></content>
-	<tabTrigger>ClearLines</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

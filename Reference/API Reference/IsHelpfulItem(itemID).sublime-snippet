@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsHelpfulItem(${1:itemID})$0]]></content>
-	<tabTrigger>IsHelpfulItem</tabTrigger>
-	<description>(itemID)</description>
-	<scope>source.lua</scope>
-</snippet>

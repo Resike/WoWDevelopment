@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ListChannelByName(${1:channelIndex})$0]]></content>
-	<tabTrigger>ListChannelByName</tabTrigger>
-	<description>(channelIndex)</description>
-	<scope>source.lua</scope>
-</snippet>

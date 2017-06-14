@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnitInVehicle("${1:unit}")$0]]></content>
-	<tabTrigger>UnitInVehicle</tabTrigger>
-	<description>("unit")</description>
-	<scope>source.lua</scope>
-</snippet>

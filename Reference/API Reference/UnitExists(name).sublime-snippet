@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnitExists("${1:name}")$0]]></content>
-	<tabTrigger>UnitExists</tabTrigger>
-	<description>("name")</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:...} = GetScreenResolutions()$0]]></content>
-	<tabTrigger>_GetScreenResolutions</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

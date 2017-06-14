@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ContainerRefundItemPurchase(${1:container}, ${2:slot})$0]]></content>
-	<tabTrigger>ContainerRefundItemPurchase</tabTrigger>
-	<description>(container, →)</description>
-	<scope>source.lua</scope>
-</snippet>

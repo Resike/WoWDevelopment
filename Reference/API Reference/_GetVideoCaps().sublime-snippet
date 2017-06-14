@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:hasAnisotropic}, ${2:hasPixelShaders}, ${3:hasVertexShaders}, ${4:hasTrilinear}, ${5:hasTripleBufering}, ${6:maxAnisotropy}, ${7:hasHardwareCursor} = GetVideoCaps()$0]]></content>
-	<tabTrigger>_GetVideoCaps</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

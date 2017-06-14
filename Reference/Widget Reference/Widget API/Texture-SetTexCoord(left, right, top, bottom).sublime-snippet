@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:Texture}:SetTexCoord(${2:left}, ${3:right}, ${4:top}, ${5:bottom})$0]]></content>
-	<tabTrigger>Texture:SetTexCoord</tabTrigger>
-	<description>(left, right, top, →)</description>
-	<scope>source.lua</scope>
-</snippet>

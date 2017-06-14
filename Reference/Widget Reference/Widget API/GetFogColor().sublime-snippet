@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetFogColor()$0]]></content>
-	<tabTrigger>GetFogColor</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

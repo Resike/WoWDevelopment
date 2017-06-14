@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:shadowR}, ${2:shadowG}, ${3:shadowB}, ${4:shadowAlpha} = ${5:FontInstance}:GetShadowColor()$0]]></content>
-	<tabTrigger>_FontInstance:GetShadowColor</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

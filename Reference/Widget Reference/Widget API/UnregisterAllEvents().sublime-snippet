@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnregisterAllEvents()$0]]></content>
-	<tabTrigger>UnregisterAllEvents</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

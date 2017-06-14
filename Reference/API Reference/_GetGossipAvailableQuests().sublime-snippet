@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:name}, ${2:level}, ${3:isTrivial}, ${4:isDaily}, ${5:isRepeatable}, ${6:isLegendary}, ${7:...} = GetGossipAvailableQuests()$0]]></content>
-	<tabTrigger>_GetGossipAvailableQuests</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CloseTrainer()$0]]></content>
-	<tabTrigger>CloseTrainer</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

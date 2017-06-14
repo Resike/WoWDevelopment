@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetBorderAlpha(${2:Alpha})$0]]></content>
-	<tabTrigger>SetBorderAlpha</tabTrigger>
-	<description>(Alpha)</description>
-	<scope>source.lua</scope>
-</snippet>

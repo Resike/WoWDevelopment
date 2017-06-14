@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[KBSetup_BeginLoading(${1:numArticles}, ${2:currentPage})$0]]></content>
-	<tabTrigger>KBSetup_BeginLoading</tabTrigger>
-	<description>(numArticles, →)</description>
-	<scope>source.lua</scope>
-</snippet>

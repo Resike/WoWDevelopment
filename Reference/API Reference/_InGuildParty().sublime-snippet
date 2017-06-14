@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:inGroup}, ${2:numGuildPresent}, ${3:numGuildRequired}, ${4:xpMultiplier} = InGuildParty()$0]]></content>
-	<tabTrigger>_InGuildParty</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

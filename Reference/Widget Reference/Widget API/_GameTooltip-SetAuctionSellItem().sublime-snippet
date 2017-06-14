@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:hasCooldown}, ${2:speciesID}, ${3:level}, ${4:breedQuality}, ${5:health}, ${6:power}, ${7:speed}, ${8:petName} = ${9:GameTooltip}:SetAuctionSellItem()$0]]></content>
-	<tabTrigger>_GameTooltip:SetAuctionSellItem</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

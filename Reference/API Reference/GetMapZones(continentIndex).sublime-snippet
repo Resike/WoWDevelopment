@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetMapZones(${1:continentIndex})$0]]></content>
-	<tabTrigger>GetMapZones</tabTrigger>
-	<description>(continentIndex)</description>
-	<scope>source.lua</scope>
-</snippet>

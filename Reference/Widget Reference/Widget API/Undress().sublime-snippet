@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Undress()$0]]></content>
-	<tabTrigger>Undress</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:base}, ${2:adjusted}, ${3:total_cost} = GetArtifactProgress()$0]]></content>
-	<tabTrigger>_GetArtifactProgress</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:itemlink} = GetSendMailItemLink(${2:slot})$0]]></content>
-	<tabTrigger>_GetSendMailItemLink</tabTrigger>
-	<description>(slot)</description>
-	<scope>source.lua</scope>
-</snippet>

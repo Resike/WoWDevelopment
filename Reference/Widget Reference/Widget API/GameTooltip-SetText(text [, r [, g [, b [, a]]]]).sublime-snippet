@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:GameTooltip}:SetText("${2:text}", ${3:[red]}, ${4:[green]}, ${5:[blue]}, ${6:[alpha]})$0]]></content>
-	<tabTrigger>GameTooltip:SetText</tabTrigger>
-	<description>("text", [r], [g], →)</description>
-	<scope>source.lua</scope>
-</snippet>

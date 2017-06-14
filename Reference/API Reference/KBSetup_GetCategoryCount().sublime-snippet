@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[KBSetup_GetCategoryCount()$0]]></content>
-	<tabTrigger>KBSetup_GetCategoryCount</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

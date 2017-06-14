@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[InGuildParty()$0]]></content>
-	<tabTrigger>InGuildParty</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

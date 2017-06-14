@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:...} = GetAddOnOptionalDependencies(${2:index})$0]]></content>
-	<tabTrigger>_GetAddOnOptionalDependencies</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

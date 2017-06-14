@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RepairAllItems(${1:[useGuildMoney]})$0]]></content>
-	<tabTrigger>RepairAllItems</tabTrigger>
-	<description>([useGuildMoney])</description>
-	<scope>source.lua</scope>
-</snippet>

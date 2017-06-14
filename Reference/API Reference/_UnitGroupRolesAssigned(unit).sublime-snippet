@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:role} = UnitGroupRolesAssigned("${2:unit}")$0]]></content>
-	<tabTrigger>_UnitGroupRolesAssigned</tabTrigger>
-	<description>("unit")</description>
-	<scope>source.lua</scope>
-</snippet>

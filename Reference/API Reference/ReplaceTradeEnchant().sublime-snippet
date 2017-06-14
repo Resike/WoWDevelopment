@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ReplaceTradeEnchant()$0]]></content>
-	<tabTrigger>ReplaceTradeEnchant</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

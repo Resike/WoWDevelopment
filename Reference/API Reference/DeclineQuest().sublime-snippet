@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DeclineQuest()$0]]></content>
-	<tabTrigger>DeclineQuest</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

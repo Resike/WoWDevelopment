@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:success} = SetBindingClick("${2:key}", "${3:buttonName}", ${4:["mouseButton"]})$0]]></content>
-	<tabTrigger>_SetBindingClick</tabTrigger>
-	<description>("key", "buttonName", →)</description>
-	<scope>source.lua</scope>
-</snippet>

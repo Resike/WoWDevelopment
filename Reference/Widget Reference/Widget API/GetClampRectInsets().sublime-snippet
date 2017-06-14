@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetClampRectInsets()$0]]></content>
-	<tabTrigger>GetClampRectInsets</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

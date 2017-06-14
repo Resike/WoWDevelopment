@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetButtonState("${2:state}", ${3:lock})$0]]></content>
-	<tabTrigger>SetButtonState</tabTrigger>
-	<description>("state", lock)</description>
-	<scope>source.lua</scope>
-</snippet>

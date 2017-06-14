@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:layer}, ${2:sublayer} = ${3:LayeredRegion}:GetDrawLayer()$0]]></content>
-	<tabTrigger>_LayeredRegion:GetDrawLayer</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

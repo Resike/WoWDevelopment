@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChatFrame_AddMessageEventFilter("${1:event}", ${2:filter})$0]]></content>
-	<tabTrigger>ChatFrame_AddMessageEventFilter</tabTrigger>
-	<description>(event, →)</description>
-	<scope>source.lua</scope>
-</snippet>

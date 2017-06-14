@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetPetitionNameInfo(${1:index})$0]]></content>
-	<tabTrigger>GetPetitionNameInfo</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

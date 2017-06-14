@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:index} = CreateMacro("${2:name}", "${3:iconTexture}", "${4:body}", ${5:perCharacter})$0]]></content>
-	<tabTrigger>_CreateMacro</tabTrigger>
-	<description>("name", "iconTexture", →)</description>
-	<scope>source.lua</scope>
-</snippet>

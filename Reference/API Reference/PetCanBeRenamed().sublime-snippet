@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PetCanBeRenamed()$0]]></content>
-	<tabTrigger>PetCanBeRenamed</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

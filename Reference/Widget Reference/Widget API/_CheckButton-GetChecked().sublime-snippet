@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:enabled} = ${2:CheckButton}:GetChecked()$0]]></content>
-	<tabTrigger>_CheckButton:GetChecked</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

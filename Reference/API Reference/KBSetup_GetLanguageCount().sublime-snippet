@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[KBSetup_GetLanguageCount()$0]]></content>
-	<tabTrigger>KBSetup_GetLanguageCount</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

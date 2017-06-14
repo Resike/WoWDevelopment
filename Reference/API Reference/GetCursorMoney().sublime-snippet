@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetCursorMoney()$0]]></content>
-	<tabTrigger>GetCursorMoney</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

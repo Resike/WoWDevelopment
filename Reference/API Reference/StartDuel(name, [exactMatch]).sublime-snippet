@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[StartDuel("${1:name}", ${2:[exactMatch]})$0]]></content>
-	<tabTrigger>StartDuel</tabTrigger>
-	<description>("name", [exactMatch])</description>
-	<scope>source.lua</scope>
-</snippet>

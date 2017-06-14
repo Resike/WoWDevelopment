@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QuestFlagsPVP()$0]]></content>
-	<tabTrigger>QuestFlagsPVP</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

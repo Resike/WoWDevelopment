@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:textR}, ${2:textG}, ${3:textB}, ${4:textAlpha} = ${5:FontInstance}:GetTextColor()$0]]></content>
-	<tabTrigger>_FontInstance:GetTextColor</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:stat}, ${2:amount}, ${3:...} = GetItemUpgradeStats(${4:getNew})$0]]></content>
-	<tabTrigger>_GetItemUpgradeStats</tabTrigger>
-	<description>(getNew)</description>
-	<scope>source.lua</scope>
-</snippet>

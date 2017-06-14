@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:text}, ${2:icon}, ${3:tooltip} = GetBattlefieldStatInfo(${4:statIndex})$0]]></content>
-	<tabTrigger>_GetBattlefieldStatInfo</tabTrigger>
-	<description>(statIndex)</description>
-	<scope>source.lua</scope>
-</snippet>

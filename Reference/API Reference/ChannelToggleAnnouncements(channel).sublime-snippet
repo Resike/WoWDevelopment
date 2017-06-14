@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChannelToggleAnnouncements("${1:channel}")$0]]></content>
-	<tabTrigger>ChannelToggleAnnouncements</tabTrigger>
-	<description>("channel")</description>
-	<scope>source.lua</scope>
-</snippet>

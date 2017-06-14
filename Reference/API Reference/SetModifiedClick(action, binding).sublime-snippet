@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetModifiedClick("${1:action}", "${2:binding}")$0]]></content>
-	<tabTrigger>SetModifiedClick</tabTrigger>
-	<description>("action", "binding")</description>
-	<scope>source.lua</scope>
-</snippet>

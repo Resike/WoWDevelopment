@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetOwner(${2:frame}, ${3:["anchorType"]}, ${4:[xOffset]}, ${5:[yOffset]})$0]]></content>
-	<tabTrigger>SetOwner</tabTrigger>
-	<description>(frame, ["anchorType"], [x], [y])</description>
-	<scope>source.lua</scope>
-</snippet>

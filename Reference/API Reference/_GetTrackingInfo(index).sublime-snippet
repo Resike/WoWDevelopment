@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:name}, ${2:texture}, ${3:active}, ${4:category} = GetTrackingInfo(${5:index})$0]]></content>
-	<tabTrigger>_GetTrackingInfo</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

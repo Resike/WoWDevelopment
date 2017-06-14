@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetQuestLogPushable()$0]]></content>
-	<tabTrigger>GetQuestLogPushable</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

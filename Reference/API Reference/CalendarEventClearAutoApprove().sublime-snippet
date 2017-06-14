@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarEventClearAutoApprove()$0]]></content>
-	<tabTrigger>CalendarEventClearAutoApprove</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetMotionScriptsWhileDisabled(${2:enabled})$0]]></content>
-	<tabTrigger>SetMotionScriptsWhileDisabled</tabTrigger>
-	<description>(enabled)</description>
-	<scope>source.lua</scope>
-</snippet>

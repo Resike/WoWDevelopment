@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CloseLoot()$0]]></content>
-	<tabTrigger>CloseLoot</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

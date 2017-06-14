@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:ControlPoint}:SetParent(${2:["path"]}, ${3:[order]})$0]]></content>
-	<tabTrigger>ControlPoint:SetParent</tabTrigger>
-	<description>(["path"], [order])</description>
-	<scope>source.lua</scope>
-</snippet>

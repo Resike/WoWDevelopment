@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:Texture}:SetGradientAlpha("${2:orientation}", ${3:startR}, ${4:startG}, ${5:startB}, ${6:startAlpha}, ${7:endR}, ${8:endG}, ${9:endB}, ${10:endAlpha})$0]]></content>
-	<tabTrigger>Texture:SetGradientAlpha</tabTrigger>
-	<description>("orientation", →)</description>
-	<scope>source.lua</scope>
-</snippet>

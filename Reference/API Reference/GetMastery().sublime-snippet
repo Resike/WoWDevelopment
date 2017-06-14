@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetMastery()$0]]></content>
-	<tabTrigger>GetMastery</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

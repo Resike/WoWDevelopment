@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:name} = GetArchaeologyInfo()$0]]></content>
-	<tabTrigger>_GetArchaeologyInfo</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

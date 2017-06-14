@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:distance} = ${2:Model}:GetFogFar()$0]]></content>
-	<tabTrigger>_Model:GetFogFar</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

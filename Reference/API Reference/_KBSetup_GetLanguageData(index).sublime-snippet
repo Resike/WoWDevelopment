@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:languageId}, ${2:name} = KBSetup_GetLanguageData(${3:index})$0]]></content>
-	<tabTrigger>_KBSetup_GetLanguageData</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

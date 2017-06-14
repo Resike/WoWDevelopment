@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:ScrollingMessageFrame}:PageUp()$0]]></content>
-	<tabTrigger>ScrollingMessageFrame:PageUp</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

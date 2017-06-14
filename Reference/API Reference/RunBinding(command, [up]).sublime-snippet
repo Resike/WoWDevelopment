@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RunBinding("${1:command}", ${2:"up"})$0]]></content>
-	<tabTrigger>RunBinding</tabTrigger>
-	<description>("command", ["up"])</description>
-	<scope>source.lua</scope>
-</snippet>

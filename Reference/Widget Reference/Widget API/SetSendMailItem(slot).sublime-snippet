@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetSendMailItem(${2:slot})$0]]></content>
-	<tabTrigger>SetSendMailItem</tabTrigger>
-	<description>(slot)</description>
-	<scope>source.lua</scope>
-</snippet>

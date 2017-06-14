@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:canModerate} = CalendarEventCanModerate(${2:index})$0]]></content>
-	<tabTrigger>_CalendarEventCanModerate</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

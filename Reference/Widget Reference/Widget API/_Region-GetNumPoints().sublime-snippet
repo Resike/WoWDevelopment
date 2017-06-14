@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:numPoints} = ${2:Region}:GetNumPoints()$0]]></content>
-	<tabTrigger>_Region:GetNumPoints</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

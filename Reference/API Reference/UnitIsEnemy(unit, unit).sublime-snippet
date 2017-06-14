@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnitIsEnemy("${1:unit}", "${2:unit}")$0]]></content>
-	<tabTrigger>UnitIsEnemy</tabTrigger>
-	<description>("unit", "unit")</description>
-	<scope>source.lua</scope>
-</snippet>

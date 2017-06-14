@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GuildDisband()$0]]></content>
-	<tabTrigger>GuildDisband</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

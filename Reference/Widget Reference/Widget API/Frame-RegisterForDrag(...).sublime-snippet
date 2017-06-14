@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:Frame}:RegisterForDrag(${2:...})$0]]></content>
-	<tabTrigger>Frame:RegisterForDrag</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua</scope>
-</snippet>

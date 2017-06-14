@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:zoneChannel} = AddChatWindowChannel(${2:index}, ${3:channel})$0]]></content>
-	<tabTrigger>_AddChatWindowChannel</tabTrigger>
-	<description>(index, channel)</description>
-	<scope>source.lua</scope>
-</snippet>

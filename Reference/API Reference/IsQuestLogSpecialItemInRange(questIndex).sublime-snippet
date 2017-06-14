@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsQuestLogSpecialItemInRange(${1:questIndex})$0]]></content>
-	<tabTrigger>IsQuestLogSpecialItemInRange</tabTrigger>
-	<description>(questIndex)</description>
-	<scope>source.lua</scope>
-</snippet>

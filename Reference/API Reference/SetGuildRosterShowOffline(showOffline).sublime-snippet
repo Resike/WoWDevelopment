@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetGuildRosterShowOffline(${1:showOffline})$0]]></content>
-	<tabTrigger>SetGuildRosterShowOffline</tabTrigger>
-	<description>(showOffline)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AddFriend("${1:name}")$0]]></content>
-	<tabTrigger>AddFriend</tabTrigger>
-	<description>("name")</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:width} = ${2:FontString}:GetStringWidth()$0]]></content>
-	<tabTrigger>_FontString:GetStringWidth</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

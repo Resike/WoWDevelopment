@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:pvpType}, ${2:isSubZonePVP}, ${3:factionName} = GetZonePVPInfo()$0]]></content>
-	<tabTrigger>_GetZonePVPInfo</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

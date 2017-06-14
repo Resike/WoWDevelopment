@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsFactionInactive(${1:index})$0]]></content>
-	<tabTrigger>IsFactionInactive</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

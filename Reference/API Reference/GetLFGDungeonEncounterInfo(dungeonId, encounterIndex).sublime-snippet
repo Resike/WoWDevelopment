@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetLFGDungeonEncounterInfo(${1:dungeonId}, ${2:encounterIndex})$0]]></content>
-	<tabTrigger>GetLFGDungeonEncounterInfo</tabTrigger>
-	<description>(dungeonId, →)</description>
-	<scope>source.lua</scope>
-</snippet>

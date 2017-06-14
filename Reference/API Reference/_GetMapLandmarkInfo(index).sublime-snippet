@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:name}, ${2:description}, ${3:textureIndex}, ${4:x}, ${5:y}, ${6:mapLinkID}, ${7:showInBattleMap} = GetMapLandmarkInfo(${8:index})$0]]></content>
-	<tabTrigger>_GetMapLandmarkInfo</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

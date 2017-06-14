@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetOverrideBindingMacro(${1:owner}, ${2:isPriority}, "${3:key}", ${4:index})$0]]></content>
-	<tabTrigger>SetOverrideBindingMacro</tabTrigger>
-	<description>(→, "key", index)</description>
-	<scope>source.lua</scope>
-</snippet>

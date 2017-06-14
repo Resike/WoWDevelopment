@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:scale} = GetBattlefieldMapIconScale()$0]]></content>
-	<tabTrigger>_GetBattlefieldMapIconScale</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

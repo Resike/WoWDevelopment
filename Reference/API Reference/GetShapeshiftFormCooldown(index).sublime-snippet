@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetShapeshiftFormCooldown(${1:index})$0]]></content>
-	<tabTrigger>GetShapeshiftFormCooldown</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

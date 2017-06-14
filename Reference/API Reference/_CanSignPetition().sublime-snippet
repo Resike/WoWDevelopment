@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:canSign} = CanSignPetition()$0]]></content>
-	<tabTrigger>_CanSignPetition</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

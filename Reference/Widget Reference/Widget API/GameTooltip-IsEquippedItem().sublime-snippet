@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${2:GameTooltip}:IsEquippedItem()$0]]></content>
-	<tabTrigger>GameTooltip:IsEquippedItem</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

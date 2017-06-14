@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${2:Region}:GetHeight()$0]]></content>
-	<tabTrigger>Region:GetHeight</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

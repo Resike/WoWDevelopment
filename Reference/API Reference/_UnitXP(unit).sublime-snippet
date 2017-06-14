@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:currXP} = UnitXP("${2:unit}")$0]]></content>
-	<tabTrigger>_UnitXP</tabTrigger>
-	<description>("unit")</description>
-	<scope>source.lua</scope>
-</snippet>

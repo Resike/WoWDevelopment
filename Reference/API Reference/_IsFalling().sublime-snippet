@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:falling} = IsFalling()$0]]></content>
-	<tabTrigger>_IsFalling</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

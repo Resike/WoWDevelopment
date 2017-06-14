@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetPVPLifetimeStats()$0]]></content>
-	<tabTrigger>GetPVPLifetimeStats</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

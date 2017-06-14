@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetTradeSkillItem(${2:skillIndex}, ${3:[reagentIndex]})$0]]></content>
-	<tabTrigger>SetTradeSkillItem</tabTrigger>
-	<description>(skillIndex, →)</description>
-	<scope>source.lua</scope>
-</snippet>

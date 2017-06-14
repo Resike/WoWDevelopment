@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetChannelList()$0]]></content>
-	<tabTrigger>GetChannelList</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

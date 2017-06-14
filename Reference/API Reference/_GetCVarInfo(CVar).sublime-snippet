@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:value}, ${2:defaultValue}, ${3:serverStoredAccountWide}, ${4:serverStoredPerCharacter} = GetCVarInfo("${5:CVar}")$0]]></content>
-	<tabTrigger>_GetCVarInfo</tabTrigger>
-	<description>("CVar")</description>
-	<scope>source.lua</scope>
-</snippet>

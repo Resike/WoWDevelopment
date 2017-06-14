@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetShapeshiftFormInfo(${1:index})$0]]></content>
-	<tabTrigger>GetShapeshiftFormInfo</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

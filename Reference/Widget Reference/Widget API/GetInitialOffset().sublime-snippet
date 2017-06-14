@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetInitialOffset()$0]]></content>
-	<tabTrigger>GetInitialOffset</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

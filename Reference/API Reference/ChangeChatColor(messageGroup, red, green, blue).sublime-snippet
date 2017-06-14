@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChangeChatColor("${1:messageGroup}", ${2:red}, ${3:green}, ${4:blue})$0]]></content>
-	<tabTrigger>ChangeChatColor</tabTrigger>
-	<description>("msgGroup", r, g, b)</description>
-	<scope>source.lua</scope>
-</snippet>

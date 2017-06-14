@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:name}, ${2:killingBlows}, ${3:honorableKills}, ${4:deaths}, ${5:honorGained}, ${6:faction}, ${7:race}, ${8:class}, ${9:classToken}, ${10:damageDone}, ${11:healingDone}, ${12:bgRating}, ${13:ratingChange}, ${14:preMatchMMR}, ${15:mmrChange}, ${16:talentSpec} = GetBattlefieldScore(${17:index})$0]]></content>
-	<tabTrigger>_GetBattlefieldScore</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

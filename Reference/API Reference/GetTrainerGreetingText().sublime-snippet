@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetTrainerGreetingText()$0]]></content>
-	<tabTrigger>GetTrainerGreetingText</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

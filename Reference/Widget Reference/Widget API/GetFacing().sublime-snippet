@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetFacing()$0]]></content>
-	<tabTrigger>GetFacing</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

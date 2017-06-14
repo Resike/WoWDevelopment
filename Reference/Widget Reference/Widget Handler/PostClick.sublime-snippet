@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-PostClick
-]]></content>
-	<tabTrigger>PostClick</tabTrigger>
-	<description> </description>
-	<scope>source.lua</scope>
-</snippet>

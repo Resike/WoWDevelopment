@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DoReadyCheck()$0]]></content>
-	<tabTrigger>DoReadyCheck</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

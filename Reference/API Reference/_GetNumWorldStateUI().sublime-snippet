@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:numUI} = GetNumWorldStateUI()$0]]></content>
-	<tabTrigger>_GetNumWorldStateUI</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

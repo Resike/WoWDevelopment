@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EndBoundTradeable(${1:id})$0]]></content>
-	<tabTrigger>EndBoundTradeable</tabTrigger>
-	<description>(id)</description>
-	<scope>source.lua</scope>
-</snippet>

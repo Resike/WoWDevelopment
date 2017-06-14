@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetAnimationGroups()$0]]></content>
-	<tabTrigger>GetAnimationGroups</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

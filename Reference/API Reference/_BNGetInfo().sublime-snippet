@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:unknownPresenceID1}, ${2:battleTag}, ${3:unknownPresenceID2}, ${4:broadcastText}, ${5:bnetAFK}, ${6:bnetDND}, ${7:unknown} = BNGetInfo()$0]]></content>
-	<tabTrigger>_BNGetInfo</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

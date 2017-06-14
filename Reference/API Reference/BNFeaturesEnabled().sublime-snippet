@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BNFeaturesEnabled()$0]]></content>
-	<tabTrigger>BNFeaturesEnabled</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

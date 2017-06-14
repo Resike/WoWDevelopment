@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetEffectiveDepth()$0]]></content>
-	<tabTrigger>GetEffectiveDepth</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

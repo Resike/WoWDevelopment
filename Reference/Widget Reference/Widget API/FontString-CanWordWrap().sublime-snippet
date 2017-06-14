@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${2:FontString}:CanWordWrap()$0]]></content>
-	<tabTrigger>FontString:CanWordWrap</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

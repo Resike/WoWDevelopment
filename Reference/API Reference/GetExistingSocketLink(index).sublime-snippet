@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetExistingSocketLink(${1:index})$0]]></content>
-	<tabTrigger>GetExistingSocketLink</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

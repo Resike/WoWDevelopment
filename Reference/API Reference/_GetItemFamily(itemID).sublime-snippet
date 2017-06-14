@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:bagType} = GetItemFamily(${2:itemID})$0]]></content>
-	<tabTrigger>_GetItemFamily</tabTrigger>
-	<description>(itemID)</description>
-	<scope>source.lua</scope>
-</snippet>

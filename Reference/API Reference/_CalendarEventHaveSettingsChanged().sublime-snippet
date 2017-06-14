@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:settingsChanged} = CalendarEventHaveSettingsChanged()$0]]></content>
-	<tabTrigger>_CalendarEventHaveSettingsChanged</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

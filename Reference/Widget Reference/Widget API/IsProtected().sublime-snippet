@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsProtected()$0]]></content>
-	<tabTrigger>IsProtected</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

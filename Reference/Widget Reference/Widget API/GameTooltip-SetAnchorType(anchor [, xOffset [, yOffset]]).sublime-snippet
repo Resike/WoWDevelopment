@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:GameTooltip}:SetAnchorType("${2:anchor}", ${3:[xOffset]}, ${4:[yOffset]})$0]]></content>
-	<tabTrigger>GameTooltip:SetAnchorType</tabTrigger>
-	<description>("anchor", [x], [y])</description>
-	<scope>source.lua</scope>
-</snippet>

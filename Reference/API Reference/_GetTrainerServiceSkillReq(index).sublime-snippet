@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:skill}, ${2:rank}, ${3:hasReq} = GetTrainerServiceSkillReq(${4:index})$0]]></content>
-	<tabTrigger>_GetTrainerServiceSkillReq</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:GameTooltip}:SetTalent(${2:tabIndex}, ${3:talentIndex}, ${4:inspect}, ${5:pet}, ${6:talentGroup})$0]]></content>
-	<tabTrigger>GameTooltip:SetTalent</tabTrigger>
-	<description>(tabIdx, talIdx, →)</description>
-	<scope>source.lua</scope>
-</snippet>

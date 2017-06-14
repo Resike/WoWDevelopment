@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsTradeskillTrainer()$0]]></content>
-	<tabTrigger>IsTradeskillTrainer</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

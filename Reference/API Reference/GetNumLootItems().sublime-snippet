@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetNumLootItems()$0]]></content>
-	<tabTrigger>GetNumLootItems</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

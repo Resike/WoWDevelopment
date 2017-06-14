@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetChatTypeIndex("${1:messageGroup}")$0]]></content>
-	<tabTrigger>GetChatTypeIndex</tabTrigger>
-	<description>("msgGroup")</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetQuestLogPortraitGiver()$0]]></content>
-	<tabTrigger>GetQuestLogPortraitGiver</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

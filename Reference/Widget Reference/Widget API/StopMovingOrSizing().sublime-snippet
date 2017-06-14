@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[StopMovingOrSizing()$0]]></content>
-	<tabTrigger>StopMovingOrSizing</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:left} = ${2:Region}:GetLeft()$0]]></content>
-	<tabTrigger>_Region:GetLeft</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

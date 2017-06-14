@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:isLogging} = LoggingCombat(${2:toggle})$0]]></content>
-	<tabTrigger>_LoggingCombat</tabTrigger>
-	<description>(toggle)</description>
-	<scope>source.lua</scope>
-</snippet>

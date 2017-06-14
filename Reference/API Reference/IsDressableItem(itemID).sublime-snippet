@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsDressableItem(${1:itemID})$0]]></content>
-	<tabTrigger>IsDressableItem</tabTrigger>
-	<description>(itemID)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:name}, ${2:type}, ${3:difficulty}, ${4:difficultyName}, ${5:maxPlayers}, ${6:playerDifficulty}, ${7:isDynamicInstance} = GetInstanceInfo()$0]]></content>
-	<tabTrigger>_GetInstanceInfo</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

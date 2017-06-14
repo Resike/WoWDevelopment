@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${2:EditBox}:GetIndentedWordWrap()$0]]></content>
-	<tabTrigger>EditBox:GetIndentedWordWrap</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

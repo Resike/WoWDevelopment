@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetExpansionLevel()$0]]></content>
-	<tabTrigger>GetExpansionLevel</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

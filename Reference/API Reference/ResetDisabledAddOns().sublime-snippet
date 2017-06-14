@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ResetDisabledAddOns()$0]]></content>
-	<tabTrigger>ResetDisabledAddOns</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

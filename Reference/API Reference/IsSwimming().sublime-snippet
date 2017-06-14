@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsSwimming()$0]]></content>
-	<tabTrigger>IsSwimming</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

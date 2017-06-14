@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Insert("${2:text}")$0]]></content>
-	<tabTrigger>Insert</tabTrigger>
-	<description>("text")</description>
-	<scope>source.lua</scope>
-</snippet>

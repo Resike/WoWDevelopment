@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:name}, ${2:icon}, ${3:expansion} = CalendarEventGetTextures(${4:eventType})$0]]></content>
-	<tabTrigger>_CalendarEventGetTextures</tabTrigger>
-	<description>(eventType)</description>
-	<scope>source.lua</scope>
-</snippet>

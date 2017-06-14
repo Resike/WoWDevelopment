@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:articleId}, ${2:title}, ${3:isHotIssue}, ${4:isRecentlyUpdated} = KBQuery_GetArticleHeaderData(${5:index})$0]]></content>
-	<tabTrigger>_KBQuery_GetArticleHeaderData</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

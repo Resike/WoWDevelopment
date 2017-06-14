@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:EditBox}:Disable()$0]]></content>
-	<tabTrigger>EditBox:Disable</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

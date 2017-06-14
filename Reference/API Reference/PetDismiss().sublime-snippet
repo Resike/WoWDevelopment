@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PetDismiss()$0]]></content>
-	<tabTrigger>PetDismiss</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

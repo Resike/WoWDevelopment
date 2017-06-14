@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:success} = SetBindingMacro("${2:key}", ${3:index})$0]]></content>
-	<tabTrigger>_SetBindingMacro</tabTrigger>
-	<description>("key", index)</description>
-	<scope>source.lua</scope>
-</snippet>

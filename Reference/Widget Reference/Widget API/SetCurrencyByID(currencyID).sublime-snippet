@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetCurrencyByID(${2:currencyID})$0]]></content>
-	<tabTrigger>SetCurrencyByID</tabTrigger>
-	<description>(currencyID)</description>
-	<scope>source.lua</scope>
-</snippet>

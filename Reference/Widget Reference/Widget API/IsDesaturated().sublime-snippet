@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsDesaturated()$0]]></content>
-	<tabTrigger>IsDesaturated</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

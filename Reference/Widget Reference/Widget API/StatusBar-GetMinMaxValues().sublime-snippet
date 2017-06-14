@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${3:StatusBar}:GetMinMaxValues()$0]]></content>
-	<tabTrigger>StatusBar:GetMinMaxValues</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:newIndex} = EditMacro(${2:index}, "${3:name}", "${4:iconTexture}", "${5:body}")$0]]></content>
-	<tabTrigger>_EditMacro</tabTrigger>
-	<description>(index, "name", →)</description>
-	<scope>source.lua</scope>
-</snippet>

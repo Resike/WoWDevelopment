@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:x}, ${2:y} = TaxiNodePosition(${3:index})$0]]></content>
-	<tabTrigger>_TaxiNodePosition</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

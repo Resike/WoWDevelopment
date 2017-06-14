@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetLFGProposal()$0]]></content>
-	<tabTrigger>GetLFGProposal</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

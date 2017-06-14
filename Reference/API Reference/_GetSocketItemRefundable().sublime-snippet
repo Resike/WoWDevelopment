@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:refundable} = GetSocketItemRefundable()$0]]></content>
-	<tabTrigger>_GetSocketItemRefundable</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

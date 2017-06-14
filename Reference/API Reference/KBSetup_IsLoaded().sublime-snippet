@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[KBSetup_IsLoaded()$0]]></content>
-	<tabTrigger>KBSetup_IsLoaded</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

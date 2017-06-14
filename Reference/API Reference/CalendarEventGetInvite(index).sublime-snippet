@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarEventGetInvite(${1:index})$0]]></content>
-	<tabTrigger>CalendarEventGetInvite</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

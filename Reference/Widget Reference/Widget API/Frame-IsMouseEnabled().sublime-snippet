@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${2:Frame}:IsMouseEnabled()$0]]></content>
-	<tabTrigger>Frame:IsMouseEnabled</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

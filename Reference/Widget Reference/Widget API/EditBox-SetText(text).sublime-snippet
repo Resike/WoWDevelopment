@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:EditBox}:SetText("${2:text}")$0]]></content>
-	<tabTrigger>EditBox:SetText</tabTrigger>
-	<description>("text")</description>
-	<scope>source.lua</scope>
-</snippet>

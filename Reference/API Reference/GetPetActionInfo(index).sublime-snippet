@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetPetActionInfo(${1:index})$0]]></content>
-	<tabTrigger>GetPetActionInfo</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

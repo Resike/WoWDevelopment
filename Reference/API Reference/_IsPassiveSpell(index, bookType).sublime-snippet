@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:isPassive} = IsPassiveSpell(${2:index}, "${3:bookType}")$0]]></content>
-	<tabTrigger>_IsPassiveSpell</tabTrigger>
-	<description>(index, "bookType")</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UpdateScrollChildRect()$0]]></content>
-	<tabTrigger>UpdateScrollChildRect</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

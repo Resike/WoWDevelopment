@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsQuestCompletable()$0]]></content>
-	<tabTrigger>IsQuestCompletable</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

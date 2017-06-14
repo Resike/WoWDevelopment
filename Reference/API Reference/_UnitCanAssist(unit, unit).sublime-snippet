@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:canAssist} = UnitCanAssist("${2:unit}", "${3:unit}")$0]]></content>
-	<tabTrigger>_UnitCanAssist</tabTrigger>
-	<description>("unit", "unit")</description>
-	<scope>source.lua</scope>
-</snippet>

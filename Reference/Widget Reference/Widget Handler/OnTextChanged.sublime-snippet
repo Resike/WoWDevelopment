@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-OnTextChanged
-]]></content>
-	<tabTrigger>OnTextChanged</tabTrigger>
-	<description> </description>
-	<scope>source.lua</scope>
-</snippet>

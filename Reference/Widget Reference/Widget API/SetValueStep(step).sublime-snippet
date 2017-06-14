@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetValueStep(${2:step})$0]]></content>
-	<tabTrigger>SetValueStep</tabTrigger>
-	<description>(step)</description>
-	<scope>source.lua</scope>
-</snippet>

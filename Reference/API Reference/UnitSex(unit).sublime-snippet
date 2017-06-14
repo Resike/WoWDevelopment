@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnitSex("${1:unit}")$0]]></content>
-	<tabTrigger>UnitSex</tabTrigger>
-	<description>("unit")</description>
-	<scope>source.lua</scope>
-</snippet>

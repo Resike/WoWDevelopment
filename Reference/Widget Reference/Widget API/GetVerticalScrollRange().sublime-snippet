@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetVerticalScrollRange()$0]]></content>
-	<tabTrigger>GetVerticalScrollRange</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

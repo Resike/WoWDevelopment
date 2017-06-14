@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetRegisteredAddonMessagePrefixes(${1:[prefixTable]})$0]]></content>
-	<tabTrigger>GetRegisteredAddonMessagePrefixes</tabTrigger>
-	<description>(→)</description>
-	<scope>source.lua</scope>
-</snippet>

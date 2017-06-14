@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-OnEnterPressed
-]]></content>
-	<tabTrigger>OnEnterPressed</tabTrigger>
-	<description> </description>
-	<scope>source.lua</scope>
-</snippet>

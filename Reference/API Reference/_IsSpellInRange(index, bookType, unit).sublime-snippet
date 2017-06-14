@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:inRange} = IsSpellInRange(${2:index}, "${3:bookType}", "${4:unit}")$0]]></content>
-	<tabTrigger>_IsSpellInRange</tabTrigger>
-	<description>(idx, "bookType", "unit")</description>
-	<scope>source.lua</scope>
-</snippet>

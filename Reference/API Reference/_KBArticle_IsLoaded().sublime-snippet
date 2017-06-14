@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:isLoaded} = KBArticle_IsLoaded()$0]]></content>
-	<tabTrigger>_KBArticle_IsLoaded</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

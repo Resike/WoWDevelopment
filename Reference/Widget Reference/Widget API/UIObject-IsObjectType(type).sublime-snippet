@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${2:UIObject}:IsObjectType("${3:type}")$0]]></content>
-	<tabTrigger>UIObject:IsObjectType</tabTrigger>
-	<description>("type")</description>
-	<scope>source.lua</scope>
-</snippet>

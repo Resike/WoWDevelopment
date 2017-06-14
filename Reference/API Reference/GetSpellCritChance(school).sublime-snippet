@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetSpellCritChance(${1:school})$0]]></content>
-	<tabTrigger>GetSpellCritChance</tabTrigger>
-	<description>(school)</description>
-	<scope>source.lua</scope>
-</snippet>

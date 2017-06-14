@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CanSaveTabardNow()$0]]></content>
-	<tabTrigger>CanSaveTabardNow</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

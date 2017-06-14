@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:isConsumable} = IsConsumableSpell("${2:name}")$0]]></content>
-	<tabTrigger>_IsConsumableSpell</tabTrigger>
-	<description>("name")</description>
-	<scope>source.lua</scope>
-</snippet>

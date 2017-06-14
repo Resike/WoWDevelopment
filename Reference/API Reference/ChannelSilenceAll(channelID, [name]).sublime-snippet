@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ChannelSilenceAll(${1:channelID}, ${2:["name"]})$0]]></content>
-	<tabTrigger>ChannelSilenceAll</tabTrigger>
-	<description>(chanID, ["name"])</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetInboxInvoiceInfo(${1:index})$0]]></content>
-	<tabTrigger>GetInboxInvoiceInfo</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua</scope>
-</snippet>

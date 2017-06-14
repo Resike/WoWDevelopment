@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ClickLandmark(${1:mapLinkID})$0]]></content>
-	<tabTrigger>ClickLandmark</tabTrigger>
-	<description>(mapLinkID)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetSpellCount("${1:name}")$0]]></content>
-	<tabTrigger>GetSpellCount</tabTrigger>
-	<description>("name")</description>
-	<scope>source.lua</scope>
-</snippet>

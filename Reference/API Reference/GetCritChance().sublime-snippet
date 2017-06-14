@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetCritChance()$0]]></content>
-	<tabTrigger>GetCritChance</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

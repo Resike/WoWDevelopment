@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarEventSetDate(${1:month}, ${2:day}, ${3:year})$0]]></content>
-	<tabTrigger>CalendarEventSetDate</tabTrigger>
-	<description>(month, day, year)</description>
-	<scope>source.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:isFeign} = UnitIsFeignDeath("${2:unit}")$0]]></content>
-	<tabTrigger>_UnitIsFeignDeath</tabTrigger>
-	<description>("unit")</description>
-	<scope>source.lua</scope>
-</snippet>

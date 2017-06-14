@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EquipItemByName(${1:itemID})$0]]></content>
-	<tabTrigger>EquipItemByName</tabTrigger>
-	<description>(itemID)</description>
-	<scope>source.lua</scope>
-</snippet>

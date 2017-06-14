@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DropCursorMoney()$0]]></content>
-	<tabTrigger>DropCursorMoney</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

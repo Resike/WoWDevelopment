@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:seconds} = GetTotemTimeLeft(${2:slot})$0]]></content>
-	<tabTrigger>_GetTotemTimeLeft</tabTrigger>
-	<description>(slot)</description>
-	<scope>source.lua</scope>
-</snippet>

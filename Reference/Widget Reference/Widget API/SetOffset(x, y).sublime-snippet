@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetOffset(${2:x}, ${3:y})$0]]></content>
-	<tabTrigger>SetOffset</tabTrigger>
-	<description>(x, y)</description>
-	<scope>source.lua</scope>
-</snippet>

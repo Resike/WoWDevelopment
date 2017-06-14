@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:petActionsUsable} = GetPetActionsUsable()$0]]></content>
-	<tabTrigger>_GetPetActionsUsable</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

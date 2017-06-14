@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetAbandonQuestItems()$0]]></content>
-	<tabTrigger>GetAbandonQuestItems</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

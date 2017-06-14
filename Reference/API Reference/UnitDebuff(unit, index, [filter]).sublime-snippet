@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnitDebuff("${1:unit}", ${2:index}, ${3:["filter"]})$0]]></content>
-	<tabTrigger>UnitDebuff</tabTrigger>
-	<description>("unit", index, ["filter"])</description>
-	<scope>source.lua</scope>
-</snippet>

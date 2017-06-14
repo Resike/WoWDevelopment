@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetNextBarberShopStyle(${1:styleIndex}, ${2:[reverse]})$0]]></content>
-	<tabTrigger>SetNextBarberShopStyle</tabTrigger>
-	<description>(styleIndex, →)</description>
-	<scope>source.lua</scope>
-</snippet>

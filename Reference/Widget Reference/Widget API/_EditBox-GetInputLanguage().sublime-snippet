@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:language} = ${2:EditBox}:GetInputLanguage()$0]]></content>
-	<tabTrigger>_EditBox:GetInputLanguage</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>

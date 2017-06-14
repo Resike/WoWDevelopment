@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:ArchaeologyDigSiteFrame}:DrawBlob(${2:blobId}, ${3:draw})$0]]></content>
-	<tabTrigger>ArchaeologyDigSiteFrame:DrawBlob</tabTrigger>
-	<description>(→)</description>
-	<scope>source.lua</scope>
-</snippet>

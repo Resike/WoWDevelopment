@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:mode}, ${2:submode} = GetLFGMode()$0]]></content>
-	<tabTrigger>_GetLFGMode</tabTrigger>
-	<description>()</description>
-	<scope>source.lua</scope>
-</snippet>
