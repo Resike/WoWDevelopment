@@ -29,31 +29,31 @@ Directives in the file:
 
 --]]
 
-local strmatch=string.match
-local strgmatch=string.gmatch
-local print=print
+local strmatch = string.match
+local strgmatch = string.gmatch
+local print = print
 local gsub = string.gsub
-local tonumber=tonumber
-local stdin=io.input()
+local tonumber = tonumber
+local stdin = io.input()
 
-local source=assert(io.open(arg[1]))
+local source = assert(io.open(arg[1]))
 
 
 -- First we parse the source file
 
-local funcNames={}
-local GLOBALS={}
+local funcNames = {}
+local GLOBALS = {}
 local SETGLOBALfile = true
 local SETGLOBALfunc = true
 local GETGLOBALfile = false
 local GETGLOBALfunc = true
 
-local n=0
+local n = 0
 
 while true do
 	local lin = source:read()
 	if not lin then break end
-	n=n+1
+	n = n + 1
 
 	-- Lamely try to find all function headers and remember the line they were on. Yes, you can fool this. You can also shoot yourself in the foot. Either way it doesn't matter hugely, it's just to prettify the output.
 
@@ -62,44 +62,44 @@ while true do
 		strmatch(lin, "%f[%a_]function%s+[%a0-9_.:]+%s*%([^)]*")  -- function blah(...)
 
 	if func then
-		func=func..")"
-		funcNames[n]=func
+		func = func .. ")"
+		funcNames[n] = func
 	end
 
 	if strmatch(lin, "^%s*%-%-") then
 		local args = strmatch(lin, "^%s*%-%-%s*GLOBALS:%s*(.*)")
 		if args then
 			for name in strgmatch(args, "[%a0-9_]+") do
-				GLOBALS[name]=true
+				GLOBALS[name] = true
 			end
 		end
 
 		local args = strmatch(lin, "^%s*%-%-%s*SETGLOBALFILE%s+(%u+)")
-		if args=="ON" then
-			SETGLOBALfile=true
-		elseif args=="OFF" then
-			SETGLOBALfile=false
+		if args == "ON" then
+			SETGLOBALfile = true
+		elseif args == "OFF" then
+			SETGLOBALfile = false
 		end
 
 		local args = strmatch(lin, "^%s*%-%-%s*GETGLOBALFILE%s+(%u+)")
-		if args=="ON" then
-			GETGLOBALfile=true
-		elseif args=="OFF" then
-			GETGLOBALfile=false
+		if args == "ON" then
+			GETGLOBALfile = true
+		elseif args == "OFF" then
+			GETGLOBALfile = false
 		end
 
 		local args = strmatch(lin, "^%s*%-%-%s*SETGLOBALFUNC%s+(%u+)")
-		if args=="ON" then
-			SETGLOBALfunc=true
-		elseif args=="OFF" then
-			SETGLOBALfunc=false
+		if args == "ON" then
+			SETGLOBALfunc = true
+		elseif args == "OFF" then
+			SETGLOBALfunc = false
 		end
 
 		local args = strmatch(lin, "^%s*%-%-%s*GETGLOBALFUNC%s+(%u+)")
-		if args=="ON" then
-			GETGLOBALfunc=true
-		elseif args=="OFF" then
-			GETGLOBALfunc=false
+		if args == "ON" then
+			GETGLOBALfunc = true
+		elseif args == "OFF" then
+			GETGLOBALfunc = false
 		end
 	end
 end
@@ -115,9 +115,9 @@ local function printone(lin)
 		return
 	end
 
-	if curfunc~=lastfuncprinted then
+	if curfunc ~= lastfuncprinted then
 		local from,to = strmatch(curfunc, "function <[^:]*:(%d+),(%d+)")
-		from=tonumber(from)
+		from = tonumber(from)
 		if from and funcNames[from] then
 			print(funcNames[from],strmatch(curfunc, "<.*"))
 		else
@@ -125,14 +125,14 @@ local function printone(lin)
 		end
 		lastfuncprinted = curfunc
 	end
-	lin=gsub(lin, "%d+\t(%[%d+%])", "%1")	-- "23 [234]"  -> "[234]"   (strip the byte offset, we're not interested in it)
+	lin = gsub(lin, "%d+\t(%[%d+%])", "%1")	-- "23 [234]"  -> "[234]"   (strip the byte offset, we're not interested in it)
 	print(lin)
 end
 
 
 -- Loop the compiled output, looking for GETGLOBAL, SETGLOBAL, etc..
 
-local nSource=0
+local nSource = 0
 local funcScope = false
 
 while true do
@@ -140,10 +140,10 @@ while true do
 	if not lin then break end
 
 	if strmatch(lin,"^main <") then
-		curfunc=lin
+		curfunc = lin
 		funcScope = false
 	elseif strmatch(lin,"^function <") then
-		curfunc=lin
+		curfunc = lin
 		funcScope = true
 	elseif strmatch(lin,"SETGLOBAL\t") then
 		if funcScope and SETGLOBALfunc then

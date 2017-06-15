@@ -2307,7 +2307,11 @@
 		},
 		{
 			"trigger": "IsEventRegistered\t(\"event\")",
-			"contents": "IsEventRegistered(\"${3:event}\")$0",
+			"contents": "IsEventRegistered(\"${1:event}\")$0",
+		},
+		{
+			"trigger": "IsForbidden\t()",
+			"contents": "IsForbidden()$0",
 		},
 		{
 			"trigger": "IsIgnoringDepth\t()",
@@ -3974,6 +3978,10 @@
 			"contents": "SetValueStep(${2:step})$0",
 		},
 		{
+			"trigger": "SetObeyStepOnDrag\t(enable)",
+			"contents": "SetObeyStepOnDrag(${2:enable})$0",
+		},
+		{
 			"trigger": "SetVertexColor\t(red, green, blue, [alpha])",
 			"contents": "SetVertexColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
 		},
@@ -4052,6 +4060,10 @@
 		{
 			"trigger": "Slider:SetValueStep\t(step)",
 			"contents": "${1:Slider}:SetValueStep(${2:step})$0",
+		},
+		{
+			"trigger": "Slider:SetObeyStepOnDrag\t(enable)",
+			"contents": "${1:Slider}:SetObeyStepOnDrag(${2:enable})$0",
 		},
 		{
 			"trigger": "StartMovie\t(\"fileName\", volume)",
