@@ -11,6 +11,9 @@
 		"true",
 		"while",
 
+		"GameTooltip",
+		"UIParent",
+
 		"Button",
 		"ColorSelect",
 		"Cooldown",
