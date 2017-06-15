@@ -2,10 +2,6 @@
 	"scope": "source.lua - keyword.control.lua - constant.language.lua - string",
 	"completions": [
 		{
-			"trigger": "AbbreviateLargeNumbers\t(...)",
-			"contents": "AbbreviateLargeNumbers($1)$0",
-		},
-		{
 			"trigger": "AbbreviateNumbers\t(...)",
 			"contents": "AbbreviateNumbers($1)$0",
 		},

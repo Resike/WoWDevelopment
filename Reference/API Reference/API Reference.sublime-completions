@@ -10,6 +10,10 @@
 			"contents": "AbandonSkill(${1:index})$0",
 		},
 		{
+			"trigger": "AbbreviateLargeNumbers\t(\"value\")",
+			"contents": "AbbreviateLargeNumbers(\"${1:value}\")$0",
+		},
+		{
 			"trigger": "AcceptAreaSpiritHeal\t()",
 			"contents": "AcceptAreaSpiritHeal()$0",
 		},
@@ -6624,6 +6628,10 @@
 		{
 			"trigger": "ZoomOut\t()",
 			"contents": "ZoomOut()$0",
+		},
+		{
+			"trigger": "_AbbreviateLargeNumbers\t(\"value\")",
+			"contents": "${1:formattedValue} = AbbreviateLargeNumbers(\"${2:value}\")$0",
 		},
 		{
 			"trigger": "_ActionHasRange\t(slot)",
