@@ -11,6 +11,3 @@ World of Warcraft Syntax Highlight and Auto-Completion for Sublime Text 2/3.
 * Open any of the supported file and set the syntax for the selected file: WoWDevelopment -> WoW Lua, WoW TOC, WoW XML.
 
 The autocomplete is based on scopes, so no settings are neccessary.
-
-Current issues:
-1. If you have the [All Autocomplete](https://github.com/alienhard/SublimeAllAutocomplete) package installed and enabled, it won't include the autocompletes from this package. 
