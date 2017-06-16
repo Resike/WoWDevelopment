@@ -71,5 +71,10 @@
 		"LOW",
 		"MEDIUM",
 		"TOOLTIP",
+
+		"RAID_CLASS_COLORS",
+		"CLASS_ICON_TCOORDS",
+
+		"CUSTOM_CLASS_COLORS",
 	]
 }

@@ -346,7 +346,7 @@
 		<!-- Important constants -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;![^.]\.|:)\b(NULL|false|nil|true|_G|_R|_VERSION|self|math\.(pi|huge))\b|(?&lt;![.])\.{3}(?!\.)</string>
+			<string>(?&lt;![^.]\.|:)\b(NULL|false|nil|true|_G|_R|_VERSION|self)\b|(?&lt;![.])\.{3}(?!\.)</string>
 			<key>name</key>
 			<string>constant.language.lua</string>
 		</dict>
@@ -421,7 +421,7 @@
 		<!-- Lua library functions -->
 		<dict>
 			<key>match</key>
-			<string>\s*((?&lt;=[\b(and|or|not|return|if)\b|,|\|-|%|#|\*|\/|\^|==?|~=])|(?&lt;!...))\s*\b((string\.(byte|char|dump|find|format|gmatch|gsub|len|lower|match|rep|reverse|sub|upper)|(table\.(concat|insert|maxn|remove|sort))|(math\.(abs|acos|asin|atan2?|ceil|cosh?|deg|exp|floor|fmod|frexp|ldexp|log|log10|max|min|modf|pow|rad|random|randomseed|sinh?|sqrt|tanh?))|(io\.(close|flush|input|lines|open|output|popen|read|tmpfile|type|write))|(os\.(clock|date|difftime|execute|exit|getenv|remove|rename|setlocale|time|tmpname))|(package\.(cpath|loaded|loadlib|path|preload|seeall))|debug\.(debug|[gs]etfenv|[gs]ethook|getinfo|[gs]etlocal|[gs]etmetatable|getregistry|[gs]etupvalue|traceback)))\b</string>
+			<string>\s*((?&lt;=[\b(and|or|not|return|if)\b|,|\|-|%|#|\*|\/|\^|==?|~=])|(?&lt;!...))\s*\b((string\.(byte|char|dump|find|format|gmatch|gsub|len|lower|match|rep|reverse|sub|upper)|(table\.(concat|insert|maxn|remove|sort))|(math\.(abs|acos|asin|atan2?|ceil|cosh?|deg|exp|floor|fmod|frexp|huge|ldexp|log|log10|max|min|modf|pi|pow|rad|random|randomseed|sinh?|sqrt|tanh?))|(io\.(close|flush|input|lines|open|output|popen|read|tmpfile|type|write))|(os\.(clock|date|difftime|execute|exit|getenv|remove|rename|setlocale|time|tmpname))|(package\.(cpath|loaded|loadlib|path|preload|seeall))|debug\.(debug|[gs]etfenv|[gs]ethook|getinfo|[gs]etlocal|[gs]etmetatable|getregistry|[gs]etupvalue|traceback)))\b</string>
 			<key>name</key>
 			<string>support.function.lua-library.lua</string>
 		</dict>
@@ -463,7 +463,14 @@
 		<!-- WoW global tables -->
 		<dict>
 			<key>match</key>
-			<string>\b(ACHIEVEMENTUI_CATEGORIES|FACTION_BAR_COLORS)\b</string>
+			<string>\b(ACHIEVEMENTUI_CATEGORIES|FACTION_BAR_COLORS|RAID_CLASS_COLORS|CLASS_ICON_TCOORDS)\b</string>
+			<key>name</key>
+			<string>support.function.global-tables.lua</string>
+		</dict>
+		<!-- Custom global tables -->
+		<dict>
+			<key>match</key>
+			<string>\b(CUSTOM_CLASS_COLORS)\b</string>
 			<key>name</key>
 			<string>support.function.global-tables.lua</string>
 		</dict>
