@@ -6626,6 +6626,10 @@
 			"contents": "WithdrawGuildBankMoney(${1:amount})$0",
 		},
 		{
+			"trigger": "WrapTextInColorCode\t(text, colorHexString)",
+			"contents": "WrapTextInColorCode(\"${1:text}\", \"${2:colorHexString}\")$0",
+		},
+		{
 			"trigger": "ZoomOut\t()",
 			"contents": "ZoomOut()$0",
 		},
@@ -10984,6 +10988,10 @@
 		{
 			"trigger": "_VehicleAimGetNormAngle\t()",
 			"contents": "${1:angle} = VehicleAimGetNormAngle()$0",
+		},
+		{
+			"trigger": "_WrapTextInColorCode\t(text, colorHexString)",
+			"contents": "${1:formattedText} = WrapTextInColorCode(\"${2:text}\", \"${3:colorHexString}\")$0",
 		},
 	]
 }
