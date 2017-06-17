@@ -14,6 +14,10 @@
 			"contents": "AbbreviateLargeNumbers(\"${1:value}\")$0",
 		},
 		{
+			"trigger": "AbbreviateNumbers\t(\"value\")",
+			"contents": "AbbreviateNumbers(\"${1:value}\")$0",
+		},
+		{
 			"trigger": "AcceptAreaSpiritHeal\t()",
 			"contents": "AcceptAreaSpiritHeal()$0",
 		},
@@ -54,6 +58,10 @@
 			"contents": "AcceptSockets()$0",
 		},
 		{
+			"trigger": "AcceptSpellConfirmationPrompt\t(spellID)",
+			"contents": "AcceptSpellConfirmationPrompt(${1:spellID})$0",
+		},
+		{
 			"trigger": "AcceptTrade\t()",
 			"contents": "AcceptTrade()$0",
 		},
@@ -62,8 +70,36 @@
 			"contents": "AcceptXPLoss()$0",
 		},
 		{
+			"trigger": "AcknowledgeAutoAcceptQuest\t()",
+			"contents": "AcknowledgeAutoAcceptQuest()$0",
+		},
+		{
+			"trigger": "AcknowledgeSurvey\t(caseIndex)",
+			"contents": "AcknowledgeSurvey(${1:caseIndex})$0",
+		},
+		{
+			"trigger": "ActionBarBusy\t()",
+			"contents": "ActionBarBusy()$0",
+		},
+		{
+			"trigger": "ActionBindsItem\t()",
+			"contents": "ActionBindsItem()$0",
+		},
+		{
+			"trigger": "ActionButtonDown\t(id)",
+			"contents": "ActionButtonDown(${1:id})$0",
+		},
+		{
+			"trigger": "ActionButtonUp\t(id)",
+			"contents": "ActionButtonUp(${1:id})$0",
+		},
+		{
 			"trigger": "ActionHasRange\t(slot)",
 			"contents": "ActionHasRange(${1:slot})$0",
+		},
+		{
+			"trigger": "ActionStatus_DisplayMessage\t(\"text\", ignoreNewbieTooltipSetting)",
+			"contents": "ActionStatus_DisplayMessage(\"${1:text}\", ${1:ignoreNewbieTooltipSetting})$0",
 		},
 		{
 			"trigger": "AddAutoQuestPopUp\t(questID, \"type\")",
@@ -76,6 +112,10 @@
 		{
 			"trigger": "AddChatWindowMessages\t(index, \"messageGroup\")",
 			"contents": "AddChatWindowMessages(${1:index}, \"${2:messageGroup}\")$0",
+		},
+		{
+			"trigger": "AddFrameLock\t(\"name\")",
+			"contents": "AddFrameLock(\"${1:name}\")$0",
 		},
 		{
 			"trigger": "AddFriend\t(\"name\")",
@@ -98,12 +138,32 @@
 			"contents": "AddQuestWatch(${1:questIndex})$0",
 		},
 		{
+			"trigger": "AddToAutoHide\t(frame, child)",
+			"contents": "AddToAutoHide(${1:frame}, ${2:child})$0",
+		},
+		{
 			"trigger": "AddTrackedAchievement\t(id)",
 			"contents": "AddTrackedAchievement(${1:id})$0",
 		},
 		{
 			"trigger": "AddTradeMoney\t()",
 			"contents": "AddTradeMoney()$0",
+		},
+		{
+			"trigger": "AddWorldQuestWatch\t(questID, hardWatch)",
+			"contents": "AddWorldQuestWatch(${1:questID}, ${2:hardWatch})$0",
+		},
+		{
+			"trigger": "Ambiguate\t(\"fullName\", \"context\")",
+			"contents": "Ambiguate(\"${1:fullName}\", \"${2:context}\")$0",
+		},
+		{
+			"trigger": "AnimateTexCoords\t(texture, textureWidth, textureHeight, frameWidth, frameHeight, numFrames, elapsed, throttle)",
+			"contents": "AnimateTexCoords(${1:texture}, ${2:textureWidth}, ${3:textureHeight}, ${4:frameWidth}, ${5:frameHeight}, ${6:numFrames}, ${7:elapsed}, ${8:throttle})$0",
+		},
+		{
+			"trigger": "AntiAliasingSupported\t()",
+			"contents": "AntiAliasingSupported()$0",
 		},
 		{
 			"trigger": "ApplyBarberShopStyle\t()",
@@ -124,6 +184,30 @@
 		{
 			"trigger": "AutoStoreGuildBankItem\t(tab, slot)",
 			"contents": "AutoStoreGuildBankItem(${1:tab}, ${2:slot})$0",
+		},
+		{
+			"trigger": "ArchaeologyGetIconInfo\t(index)",
+			"contents": "ArchaeologyGetIconInfo(${1:index})$0",
+		},
+		{
+			"trigger": "ArcheologyGetVisibleBlobID\t(index)",
+			"contents": "ArcheologyGetVisibleBlobID(${1:index})$0",
+		},
+		{
+			"trigger": "AreAccountAchievementsHidden\t()",
+			"contents": "AreAccountAchievementsHidden()$0",
+		},
+		{
+			"trigger": "AreColorsEqual\t(left, right)",
+			"contents": "AreColorsEqual(${1:left}, ${2:right})$0",
+		},
+		{
+			"trigger": "AreDangerousScriptsAllowed\t()",
+			"contents": "AreDangerousScriptsAllowed()$0",
+		},
+		{
+			"trigger": "AreInvasionsAvailable\t()",
+			"contents": "AreInvasionsAvailable()$0",
 		},
 		{
 			"trigger": "BankButtonIDToInvSlotID\t(buttonID, [isBag])",
@@ -5335,7 +5419,7 @@
 		},
 		{
 			"trigger": "RunBinding\t(\"command\", \"up\")",
-			"contents": "RunBinding(\"${1:command}\", ${2:\"up\"})$0",
+			"contents": "RunBinding(\"${1:command}\", \"${2:up}\")$0",
 		},
 		{
 			"trigger": "RunScript\t(\"script\")",
@@ -6638,12 +6722,44 @@
 			"contents": "${1:formattedValue} = AbbreviateLargeNumbers(\"${2:value}\")$0",
 		},
 		{
+			"trigger": "_AbbreviateNumbers\t(\"value\")",
+			"contents": "${1:formattedValue} = AbbreviateNumbers(\"${2:value}\")$0",
+		},
+		{
 			"trigger": "_ActionHasRange\t(slot)",
 			"contents": "${1:hasRange} = ActionHasRange(${2:slot})$0",
 		},
 		{
 			"trigger": "_AddChatWindowChannel\t(index, channel)",
 			"contents": "${1:zoneChannel} = AddChatWindowChannel(${2:index}, ${3:channel})$0",
+		},
+		{
+			"trigger": "_Ambiguate\t(\"fullName\", \"context\")",
+			"contents": "${1:name} = Ambiguate(\"${2:fullName}\", \"${3:context}\")$0",
+		},
+		{
+			"trigger": "_AntiAliasingSupported\t()",
+			"contents": "${1:fxaa}, ${1:cmaa} = AntiAliasingSupported()$0",
+		},
+		{
+			"trigger": "_ArcheologyGetVisibleBlobID\t(index)",
+			"contents": "${1:blobID} = ArcheologyGetVisibleBlobID(${2:index})$0",
+		},
+		{
+			"trigger": "_AreAccountAchievementsHidden\t()",
+			"contents": "${1:isHidden} = AreAccountAchievementsHidden()$0",
+		},
+		{
+			"trigger": "_AreColorsEqual\t(left, right)",
+			"contents": "${1:isEqual} = AreColorsEqual(${1:left}, ${2:right})$0",
+		},
+		{
+			"trigger": "_AreDangerousScriptsAllowed\t()",
+			"contents": "${1:isAllowed} = AreDangerousScriptsAllowed()$0",
+		},
+		{
+			"trigger": "_AreInvasionsAvailable\t()",
+			"contents": "${1:isAvailable} = AreInvasionsAvailable()$0",
 		},
 		{
 			"trigger": "_ArchaeologyMapUpdateAll\t()",
