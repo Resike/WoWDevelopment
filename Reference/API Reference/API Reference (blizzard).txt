@@ -1,0 +1,3425 @@
+{
+	"scope": "source.lua - keyword.control.lua - constant.language.lua - string",
+	"completions": [
+		{
+			"trigger": "AccountSecurityOpenTicket_OnClick\t(...)",
+			"contents": "AccountSecurityOpenTicket_OnClick($1)$0",
+		},
+		{
+			"trigger": "AcheivementFullSearchResultsButton_OnClick\t(...)",
+			"contents": "AcheivementFullSearchResultsButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "AchievementAlertFrame_OnClick\t(...)",
+			"contents": "AchievementAlertFrame_OnClick($1)$0",
+		},
+		{
+			"trigger": "AchievementAlertFrame_SetUp\t(...)",
+			"contents": "AchievementAlertFrame_SetUp($1)$0",
+		},
+		{
+			"trigger": "AchievementButton_Collapse\t(...)",
+			"contents": "AchievementButton_Collapse($1)$0",
+		},
+		{
+			"trigger": "AchievementButton_Desaturate\t(...)",
+			"contents": "AchievementButton_Desaturate($1)$0",
+		},
+		{
+			"trigger": "AchievementButton_DisplayAchievement\t(...)",
+			"contents": "AchievementButton_DisplayAchievement($1)$0",
+		},
+		{
+			"trigger": "AchievementButton_DisplayObjectives\t(...)",
+			"contents": "AchievementButton_DisplayObjectives($1)$0",
+		},
+		{
+			"trigger": "AchievementButton_Expand\t(...)",
+			"contents": "AchievementButton_Expand($1)$0",
+		},
+		{
+			"trigger": "AchievementButton_GetCriteria\t(...)",
+			"contents": "AchievementButton_GetCriteria($1)$0",
+		},
+		{
+			"trigger": "AchievementButton_GetMeta\t(...)",
+			"contents": "AchievementButton_GetMeta($1)$0",
+		},
+		{
+			"trigger": "AchievementButton_GetMiniAchievement\t(...)",
+			"contents": "AchievementButton_GetMiniAchievement($1)$0",
+		},
+		{
+			"trigger": "AchievementButton_GetProgressBar\t(...)",
+			"contents": "AchievementButton_GetProgressBar($1)$0",
+		},
+		{
+			"trigger": "AchievementButton_GetProgressivePoints\t(...)",
+			"contents": "AchievementButton_GetProgressivePoints($1)$0",
+		},
+		{
+			"trigger": "AchievementButton_LocalizeMetaAchievement\t(...)",
+			"contents": "AchievementButton_LocalizeMetaAchievement($1)$0",
+		},
+		{
+			"trigger": "AchievementButton_LocalizeMiniAchievement\t(...)",
+			"contents": "AchievementButton_LocalizeMiniAchievement($1)$0",
+		},
+		{
+			"trigger": "AchievementButton_LocalizeProgressBar\t(...)",
+			"contents": "AchievementButton_LocalizeProgressBar($1)$0",
+		},
+		{
+			"trigger": "AchievementButton_OnClick\t(...)",
+			"contents": "AchievementButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "AchievementButton_OnLoad\t(...)",
+			"contents": "AchievementButton_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AchievementButton_ResetCriteria\t(...)",
+			"contents": "AchievementButton_ResetCriteria($1)$0",
+		},
+		{
+			"trigger": "AchievementButton_ResetMetas\t(...)",
+			"contents": "AchievementButton_ResetMetas($1)$0",
+		},
+		{
+			"trigger": "AchievementButton_ResetMiniAchievements\t(...)",
+			"contents": "AchievementButton_ResetMiniAchievements($1)$0",
+		},
+		{
+			"trigger": "AchievementButton_ResetObjectives\t(...)",
+			"contents": "AchievementButton_ResetObjectives($1)$0",
+		},
+		{
+			"trigger": "AchievementButton_ResetProgressBars\t(...)",
+			"contents": "AchievementButton_ResetProgressBars($1)$0",
+		},
+		{
+			"trigger": "AchievementButton_ResetTable\t(...)",
+			"contents": "AchievementButton_ResetTable($1)$0",
+		},
+		{
+			"trigger": "AchievementButton_Saturate\t(...)",
+			"contents": "AchievementButton_Saturate($1)$0",
+		},
+		{
+			"trigger": "AchievementButton_ToggleMetaView\t(...)",
+			"contents": "AchievementButton_ToggleMetaView($1)$0",
+		},
+		{
+			"trigger": "AchievementButton_ToggleTracking\t(...)",
+			"contents": "AchievementButton_ToggleTracking($1)$0",
+		},
+		{
+			"trigger": "AchievementButton_UpdatePlusMinusTexture\t(...)",
+			"contents": "AchievementButton_UpdatePlusMinusTexture($1)$0",
+		},
+		{
+			"trigger": "AchievementCategoryButton_Localize\t(...)",
+			"contents": "AchievementCategoryButton_Localize($1)$0",
+		},
+		{
+			"trigger": "AchievementCategoryButton_OnClick\t(...)",
+			"contents": "AchievementCategoryButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "AchievementCategoryButton_OnLoad\t(...)",
+			"contents": "AchievementCategoryButton_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AchievementComparisonFriendButton_Desaturate\t(...)",
+			"contents": "AchievementComparisonFriendButton_Desaturate($1)$0",
+		},
+		{
+			"trigger": "AchievementComparisonFriendButton_OnLoad\t(...)",
+			"contents": "AchievementComparisonFriendButton_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AchievementComparisonFriendButton_Saturate\t(...)",
+			"contents": "AchievementComparisonFriendButton_Saturate($1)$0",
+		},
+		{
+			"trigger": "AchievementComparisonPlayerButton_Desaturate\t(...)",
+			"contents": "AchievementComparisonPlayerButton_Desaturate($1)$0",
+		},
+		{
+			"trigger": "AchievementComparisonPlayerButton_OnLoad\t(...)",
+			"contents": "AchievementComparisonPlayerButton_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AchievementComparisonPlayerButton_Saturate\t(...)",
+			"contents": "AchievementComparisonPlayerButton_Saturate($1)$0",
+		},
+		{
+			"trigger": "AchievementFrame_ClearTextures\t(...)",
+			"contents": "AchievementFrame_ClearTextures($1)$0",
+		},
+		{
+			"trigger": "AchievementFrame_DisplayComparison\t(...)",
+			"contents": "AchievementFrame_DisplayComparison($1)$0",
+		},
+		{
+			"trigger": "AchievementFrame_FindDisplayedAchievement\t(...)",
+			"contents": "AchievementFrame_FindDisplayedAchievement($1)$0",
+		},
+		{
+			"trigger": "AchievementFrame_ForceUpdate\t(...)",
+			"contents": "AchievementFrame_ForceUpdate($1)$0",
+		},
+		{
+			"trigger": "AchievementFrame_GetCategoryNumAchievements_All\t(...)",
+			"contents": "AchievementFrame_GetCategoryNumAchievements_All($1)$0",
+		},
+		{
+			"trigger": "AchievementFrame_GetCategoryNumAchievements_Complete\t(...)",
+			"contents": "AchievementFrame_GetCategoryNumAchievements_Complete($1)$0",
+		},
+		{
+			"trigger": "AchievementFrame_GetCategoryNumAchievements_Incomplete\t(...)",
+			"contents": "AchievementFrame_GetCategoryNumAchievements_Incomplete($1)$0",
+		},
+		{
+			"trigger": "AchievementFrame_GetCategoryTotalNumAchievements\t(...)",
+			"contents": "AchievementFrame_GetCategoryTotalNumAchievements($1)$0",
+		},
+		{
+			"trigger": "AchievementFrame_HideSearchPreview\t(...)",
+			"contents": "AchievementFrame_HideSearchPreview($1)$0",
+		},
+		{
+			"trigger": "AchievementFrame_IsComparison\t(...)",
+			"contents": "AchievementFrame_IsComparison($1)$0",
+		},
+		{
+			"trigger": "AchievementFrame_IsFeatOfStrength\t(...)",
+			"contents": "AchievementFrame_IsFeatOfStrength($1)$0",
+		},
+		{
+			"trigger": "AchievementFrame_LoadTextures\t(...)",
+			"contents": "AchievementFrame_LoadTextures($1)$0",
+		},
+		{
+			"trigger": "AchievementFrame_LoadUI\t(...)",
+			"contents": "AchievementFrame_LoadUI($1)$0",
+		},
+		{
+			"trigger": "AchievementFrame_LocalizeCriteria\t(...)",
+			"contents": "AchievementFrame_LocalizeCriteria($1)$0",
+		},
+		{
+			"trigger": "AchievementFrame_OnHide\t(...)",
+			"contents": "AchievementFrame_OnHide($1)$0",
+		},
+		{
+			"trigger": "AchievementFrame_OnLoad\t(...)",
+			"contents": "AchievementFrame_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AchievementFrame_OnShow\t(...)",
+			"contents": "AchievementFrame_OnShow($1)$0",
+		},
+		{
+			"trigger": "AchievementFrame_SelectAchievement\t(...)",
+			"contents": "AchievementFrame_SelectAchievement($1)$0",
+		},
+		{
+			"trigger": "AchievementFrame_SelectSearchItem\t(...)",
+			"contents": "AchievementFrame_SelectSearchItem($1)$0",
+		},
+		{
+			"trigger": "AchievementFrame_SelectStatisticByAchievementID\t(...)",
+			"contents": "AchievementFrame_SelectStatisticByAchievementID($1)$0",
+		},
+		{
+			"trigger": "AchievementFrame_SelectSummaryStatistic\t(...)",
+			"contents": "AchievementFrame_SelectSummaryStatistic($1)$0",
+		},
+		{
+			"trigger": "AchievementFrame_SetFilter\t(...)",
+			"contents": "AchievementFrame_SetFilter($1)$0",
+		},
+		{
+			"trigger": "AchievementFrame_SetSearchPreviewSelection\t(...)",
+			"contents": "AchievementFrame_SetSearchPreviewSelection($1)$0",
+		},
+		{
+			"trigger": "AchievementFrame_SetTabs\t(...)",
+			"contents": "AchievementFrame_SetTabs($1)$0",
+		},
+		{
+			"trigger": "AchievementFrame_ShowFullSearch\t(...)",
+			"contents": "AchievementFrame_ShowFullSearch($1)$0",
+		},
+		{
+			"trigger": "AchievementFrame_ShowSearchPreviewResults\t(...)",
+			"contents": "AchievementFrame_ShowSearchPreviewResults($1)$0",
+		},
+		{
+			"trigger": "AchievementFrame_ShowSubFrame\t(...)",
+			"contents": "AchievementFrame_ShowSubFrame($1)$0",
+		},
+		{
+			"trigger": "AchievementFrame_ToggleAchievementFrame\t(...)",
+			"contents": "AchievementFrame_ToggleAchievementFrame($1)$0",
+		},
+		{
+			"trigger": "AchievementFrame_ToggleView\t(...)",
+			"contents": "AchievementFrame_ToggleView($1)$0",
+		},
+		{
+			"trigger": "AchievementFrame_UpdateFullSearchResults\t(...)",
+			"contents": "AchievementFrame_UpdateFullSearchResults($1)$0",
+		},
+		{
+			"trigger": "AchievementFrame_UpdateSearch\t(...)",
+			"contents": "AchievementFrame_UpdateSearch($1)$0",
+		},
+		{
+			"trigger": "AchievementFrame_UpdateSearchPreview\t(...)",
+			"contents": "AchievementFrame_UpdateSearchPreview($1)$0",
+		},
+		{
+			"trigger": "AchievementFrame_UpdateTabs\t(...)",
+			"contents": "AchievementFrame_UpdateTabs($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameAchievements_AdjustSelection\t(...)",
+			"contents": "AchievementFrameAchievements_AdjustSelection($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameAchievements_CheckGuildMembersTooltip\t(...)",
+			"contents": "AchievementFrameAchievements_CheckGuildMembersTooltip($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameAchievements_ClearSelection\t(...)",
+			"contents": "AchievementFrameAchievements_ClearSelection($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameAchievements_FindSelection\t(...)",
+			"contents": "AchievementFrameAchievements_FindSelection($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameAchievements_ForceUpdate\t(...)",
+			"contents": "AchievementFrameAchievements_ForceUpdate($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameAchievements_OnEvent\t(...)",
+			"contents": "AchievementFrameAchievements_OnEvent($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameAchievements_OnLoad\t(...)",
+			"contents": "AchievementFrameAchievements_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameAchievements_OnShow\t(...)",
+			"contents": "AchievementFrameAchievements_OnShow($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameAchievements_SelectButton\t(...)",
+			"contents": "AchievementFrameAchievements_SelectButton($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameAchievements_SetupButton\t(...)",
+			"contents": "AchievementFrameAchievements_SetupButton($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameAchievements_ToggleView\t(...)",
+			"contents": "AchievementFrameAchievements_ToggleView($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameAchievements_Update\t(...)",
+			"contents": "AchievementFrameAchievements_Update($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameAchievementsBackdrop_OnLoad\t(...)",
+			"contents": "AchievementFrameAchievementsBackdrop_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameBaseTab_OnClick\t(...)",
+			"contents": "AchievementFrameBaseTab_OnClick($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameCategories_ClearSelection\t(...)",
+			"contents": "AchievementFrameCategories_ClearSelection($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameCategories_DisplayButton\t(...)",
+			"contents": "AchievementFrameCategories_DisplayButton($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameCategories_GetCategoryList\t(...)",
+			"contents": "AchievementFrameCategories_GetCategoryList($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameCategories_OnEvent\t(...)",
+			"contents": "AchievementFrameCategories_OnEvent($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameCategories_OnLoad\t(...)",
+			"contents": "AchievementFrameCategories_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameCategories_OnShow\t(...)",
+			"contents": "AchievementFrameCategories_OnShow($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameCategories_SelectButton\t(...)",
+			"contents": "AchievementFrameCategories_SelectButton($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameCategories_Update\t(...)",
+			"contents": "AchievementFrameCategories_Update($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameCategories_UpdateTooltip\t(...)",
+			"contents": "AchievementFrameCategories_UpdateTooltip($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameCategory_FeatOfStrengthTooltip\t(...)",
+			"contents": "AchievementFrameCategory_FeatOfStrengthTooltip($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameCategory_StatusBarTooltip\t(...)",
+			"contents": "AchievementFrameCategory_StatusBarTooltip($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameComparison_ClearSelection\t(...)",
+			"contents": "AchievementFrameComparison_ClearSelection($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameComparison_DisplayAchievement\t(...)",
+			"contents": "AchievementFrameComparison_DisplayAchievement($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameComparison_ForceUpdate\t(...)",
+			"contents": "AchievementFrameComparison_ForceUpdate($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameComparison_OnEvent\t(...)",
+			"contents": "AchievementFrameComparison_OnEvent($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameComparison_OnHide\t(...)",
+			"contents": "AchievementFrameComparison_OnHide($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameComparison_OnLoad\t(...)",
+			"contents": "AchievementFrameComparison_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameComparison_OnShow\t(...)",
+			"contents": "AchievementFrameComparison_OnShow($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameComparison_SetUnit\t(...)",
+			"contents": "AchievementFrameComparison_SetUnit($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameComparison_Update\t(...)",
+			"contents": "AchievementFrameComparison_Update($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameComparison_UpdateStats\t(...)",
+			"contents": "AchievementFrameComparison_UpdateStats($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameComparison_UpdateStatusBars\t(...)",
+			"contents": "AchievementFrameComparison_UpdateStatusBars($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameComparisonContainer_OnLoad\t(...)",
+			"contents": "AchievementFrameComparisonContainer_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameComparisonStat_OnLoad\t(...)",
+			"contents": "AchievementFrameComparisonStat_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameComparisonStats_SetHeader\t(...)",
+			"contents": "AchievementFrameComparisonStats_SetHeader($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameComparisonStats_SetStat\t(...)",
+			"contents": "AchievementFrameComparisonStats_SetStat($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameComparisonStatsContainer_OnLoad\t(...)",
+			"contents": "AchievementFrameComparisonStatsContainer_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameComparisonTab_OnClick\t(...)",
+			"contents": "AchievementFrameComparisonTab_OnClick($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameFilterDropDown_Initialize\t(...)",
+			"contents": "AchievementFrameFilterDropDown_Initialize($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameFilterDropDown_OnEnter\t(...)",
+			"contents": "AchievementFrameFilterDropDown_OnEnter($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameFilterDropDown_OnLoad\t(...)",
+			"contents": "AchievementFrameFilterDropDown_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameFilterDropDownButton_OnClick\t(...)",
+			"contents": "AchievementFrameFilterDropDownButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameSearchBox_OnEnterPressed\t(...)",
+			"contents": "AchievementFrameSearchBox_OnEnterPressed($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameSearchBox_OnFocusGained\t(...)",
+			"contents": "AchievementFrameSearchBox_OnFocusGained($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameSearchBox_OnFocusLost\t(...)",
+			"contents": "AchievementFrameSearchBox_OnFocusLost($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameSearchBox_OnKeyDown\t(...)",
+			"contents": "AchievementFrameSearchBox_OnKeyDown($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameSearchBox_OnShow\t(...)",
+			"contents": "AchievementFrameSearchBox_OnShow($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameSearchBox_OnTextChanged\t(...)",
+			"contents": "AchievementFrameSearchBox_OnTextChanged($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameSearchBox_OnUpdate\t(...)",
+			"contents": "AchievementFrameSearchBox_OnUpdate($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameSearchProgressBar_OnUpdate\t(...)",
+			"contents": "AchievementFrameSearchProgressBar_OnUpdate($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameShowAllSearchResults_OnEnter\t(...)",
+			"contents": "AchievementFrameShowAllSearchResults_OnEnter($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameStats_OnEvent\t(...)",
+			"contents": "AchievementFrameStats_OnEvent($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameStats_OnLoad\t(...)",
+			"contents": "AchievementFrameStats_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameStats_SetHeader\t(...)",
+			"contents": "AchievementFrameStats_SetHeader($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameStats_SetStat\t(...)",
+			"contents": "AchievementFrameStats_SetStat($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameStats_Update\t(...)",
+			"contents": "AchievementFrameStats_Update($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameSummary_LocalizeButton\t(...)",
+			"contents": "AchievementFrameSummary_LocalizeButton($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameSummary_OnShow\t(...)",
+			"contents": "AchievementFrameSummary_OnShow($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameSummary_ToggleView\t(...)",
+			"contents": "AchievementFrameSummary_ToggleView($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameSummary_Update\t(...)",
+			"contents": "AchievementFrameSummary_Update($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameSummary_UpdateAchievements\t(...)",
+			"contents": "AchievementFrameSummary_UpdateAchievements($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameSummaryAchievement_OnClick\t(...)",
+			"contents": "AchievementFrameSummaryAchievement_OnClick($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameSummaryAchievement_OnEnter\t(...)",
+			"contents": "AchievementFrameSummaryAchievement_OnEnter($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameSummaryAchievement_OnLoad\t(...)",
+			"contents": "AchievementFrameSummaryAchievement_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameSummaryAchievement_SetGuildTextures\t(...)",
+			"contents": "AchievementFrameSummaryAchievement_SetGuildTextures($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameSummaryCategoriesStatusBar_Update\t(...)",
+			"contents": "AchievementFrameSummaryCategoriesStatusBar_Update($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameSummaryCategory_OnEvent\t(...)",
+			"contents": "AchievementFrameSummaryCategory_OnEvent($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameSummaryCategory_OnHide\t(...)",
+			"contents": "AchievementFrameSummaryCategory_OnHide($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameSummaryCategory_OnLoad\t(...)",
+			"contents": "AchievementFrameSummaryCategory_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameSummaryCategory_OnShow\t(...)",
+			"contents": "AchievementFrameSummaryCategory_OnShow($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameSummaryCategoryButton_OnClick\t(...)",
+			"contents": "AchievementFrameSummaryCategoryButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "AchievementFrameTab_OnClick\t(...)",
+			"contents": "AchievementFrameTab_OnClick($1)$0",
+		},
+		{
+			"trigger": "AchievementIcon_Desaturate\t(...)",
+			"contents": "AchievementIcon_Desaturate($1)$0",
+		},
+		{
+			"trigger": "AchievementIcon_OnLoad\t(...)",
+			"contents": "AchievementIcon_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AchievementIcon_Saturate\t(...)",
+			"contents": "AchievementIcon_Saturate($1)$0",
+		},
+		{
+			"trigger": "AchievementMeta_OnEnter\t(...)",
+			"contents": "AchievementMeta_OnEnter($1)$0",
+		},
+		{
+			"trigger": "AchievementMeta_OnLeave\t(...)",
+			"contents": "AchievementMeta_OnLeave($1)$0",
+		},
+		{
+			"trigger": "AchievementMicroButton_OnEvent\t(...)",
+			"contents": "AchievementMicroButton_OnEvent($1)$0",
+		},
+		{
+			"trigger": "AchievementObjectives_DisplayCriteria\t(...)",
+			"contents": "AchievementObjectives_DisplayCriteria($1)$0",
+		},
+		{
+			"trigger": "AchievementObjectives_DisplayProgressiveAchievement\t(...)",
+			"contents": "AchievementObjectives_DisplayProgressiveAchievement($1)$0",
+		},
+		{
+			"trigger": "AchievementObjectiveTracker_OnAchievementUpdate\t(...)",
+			"contents": "AchievementObjectiveTracker_OnAchievementUpdate($1)$0",
+		},
+		{
+			"trigger": "AchievementObjectiveTracker_OnOpenDropDown\t(...)",
+			"contents": "AchievementObjectiveTracker_OnOpenDropDown($1)$0",
+		},
+		{
+			"trigger": "AchievementObjectiveTracker_OpenAchievement\t(...)",
+			"contents": "AchievementObjectiveTracker_OpenAchievement($1)$0",
+		},
+		{
+			"trigger": "AchievementObjectiveTracker_UntrackAchievement\t(...)",
+			"contents": "AchievementObjectiveTracker_UntrackAchievement($1)$0",
+		},
+		{
+			"trigger": "AchievementSearchPreviewButton_OnClick\t(...)",
+			"contents": "AchievementSearchPreviewButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "AchievementSearchPreviewButton_OnEnter\t(...)",
+			"contents": "AchievementSearchPreviewButton_OnEnter($1)$0",
+		},
+		{
+			"trigger": "AchievementSearchPreviewButton_OnLoad\t(...)",
+			"contents": "AchievementSearchPreviewButton_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AchievementSearchPreviewButton_OnShow\t(...)",
+			"contents": "AchievementSearchPreviewButton_OnShow($1)$0",
+		},
+		{
+			"trigger": "AchievementShield_Desaturate\t(...)",
+			"contents": "AchievementShield_Desaturate($1)$0",
+		},
+		{
+			"trigger": "AchievementShield_OnEnter\t(...)",
+			"contents": "AchievementShield_OnEnter($1)$0",
+		},
+		{
+			"trigger": "AchievementShield_OnLeave\t(...)",
+			"contents": "AchievementShield_OnLeave($1)$0",
+		},
+		{
+			"trigger": "AchievementShield_OnLoad\t(...)",
+			"contents": "AchievementShield_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AchievementShield_Saturate\t(...)",
+			"contents": "AchievementShield_Saturate($1)$0",
+		},
+		{
+			"trigger": "AchievementShield_SetPoints\t(...)",
+			"contents": "AchievementShield_SetPoints($1)$0",
+		},
+		{
+			"trigger": "AchievementStatButton_OnClick\t(...)",
+			"contents": "AchievementStatButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "AchievementStatButton_OnEnter\t(...)",
+			"contents": "AchievementStatButton_OnEnter($1)$0",
+		},
+		{
+			"trigger": "AchievementStatButton_OnLoad\t(...)",
+			"contents": "AchievementStatButton_OnLoad($1)$0",
+		},
+		{
+			"trigger": "ACHIEVEMENTUI_SELECTEDFILTER\t(...)",
+			"contents": "ACHIEVEMENTUI_SELECTEDFILTER($1)$0",
+		},
+		{
+			"trigger": "ActionBar_PageDown\t(...)",
+			"contents": "ActionBar_PageDown($1)$0",
+		},
+		{
+			"trigger": "ActionBar_PageUp\t(...)",
+			"contents": "ActionBar_PageUp($1)$0",
+		},
+		{
+			"trigger": "ActionBarActionEventsFrame_OnEvent\t(...)",
+			"contents": "ActionBarActionEventsFrame_OnEvent($1)$0",
+		},
+		{
+			"trigger": "ActionBarActionEventsFrame_OnLoad\t(...)",
+			"contents": "ActionBarActionEventsFrame_OnLoad($1)$0",
+		},
+		{
+			"trigger": "ActionBarActionEventsFrame_RegisterFrame\t(...)",
+			"contents": "ActionBarActionEventsFrame_RegisterFrame($1)$0",
+		},
+		{
+			"trigger": "ActionBarActionEventsFrame_UnregisterFrame\t(...)",
+			"contents": "ActionBarActionEventsFrame_UnregisterFrame($1)$0",
+		},
+		{
+			"trigger": "ActionBarButtonEventsFrame_OnEvent\t(...)",
+			"contents": "ActionBarButtonEventsFrame_OnEvent($1)$0",
+		},
+		{
+			"trigger": "ActionBarButtonEventsFrame_OnLoad\t(...)",
+			"contents": "ActionBarButtonEventsFrame_OnLoad($1)$0",
+		},
+		{
+			"trigger": "ActionBarButtonEventsFrame_RegisterFrame\t(...)",
+			"contents": "ActionBarButtonEventsFrame_RegisterFrame($1)$0",
+		},
+		{
+			"trigger": "ActionBarController_GetCurrentActionBarState\t(...)",
+			"contents": "ActionBarController_GetCurrentActionBarState($1)$0",
+		},
+		{
+			"trigger": "ActionBarController_OnEvent\t(...)",
+			"contents": "ActionBarController_OnEvent($1)$0",
+		},
+		{
+			"trigger": "ActionBarController_OnLoad\t(...)",
+			"contents": "ActionBarController_OnLoad($1)$0",
+		},
+		{
+			"trigger": "ActionBarController_ResetToDefault\t(...)",
+			"contents": "ActionBarController_ResetToDefault($1)$0",
+		},
+		{
+			"trigger": "ActionBarController_UpdateAll\t(...)",
+			"contents": "ActionBarController_UpdateAll($1)$0",
+		},
+		{
+			"trigger": "ActionButton_CalculateAction\t(...)",
+			"contents": "ActionButton_CalculateAction($1)$0",
+		},
+		{
+			"trigger": "ActionButton_ClearFlash\t(...)",
+			"contents": "ActionButton_ClearFlash($1)$0",
+		},
+		{
+			"trigger": "ActionButton_GetOverlayGlow\t(...)",
+			"contents": "ActionButton_GetOverlayGlow($1)$0",
+		},
+		{
+			"trigger": "ActionButton_GetPagedID\t(...)",
+			"contents": "ActionButton_GetPagedID($1)$0",
+		},
+		{
+			"trigger": "ActionButton_HideGrid\t(...)",
+			"contents": "ActionButton_HideGrid($1)$0",
+		},
+		{
+			"trigger": "ActionButton_HideOverlayGlow\t(...)",
+			"contents": "ActionButton_HideOverlayGlow($1)$0",
+		},
+		{
+			"trigger": "ActionButton_IsFlashing\t(...)",
+			"contents": "ActionButton_IsFlashing($1)$0",
+		},
+		{
+			"trigger": "ActionButton_OnCooldownDone\t(...)",
+			"contents": "ActionButton_OnCooldownDone($1)$0",
+		},
+		{
+			"trigger": "ActionButton_OnEvent\t(...)",
+			"contents": "ActionButton_OnEvent($1)$0",
+		},
+		{
+			"trigger": "ActionButton_OnLoad\t(...)",
+			"contents": "ActionButton_OnLoad($1)$0",
+		},
+		{
+			"trigger": "ActionButton_OnUpdate\t(...)",
+			"contents": "ActionButton_OnUpdate($1)$0",
+		},
+		{
+			"trigger": "ActionButton_OverlayGlowAnimOutFinished\t(...)",
+			"contents": "ActionButton_OverlayGlowAnimOutFinished($1)$0",
+		},
+		{
+			"trigger": "ActionButton_OverlayGlowOnUpdate\t(...)",
+			"contents": "ActionButton_OverlayGlowOnUpdate($1)$0",
+		},
+		{
+			"trigger": "ActionButton_SetTooltip\t(...)",
+			"contents": "ActionButton_SetTooltip($1)$0",
+		},
+		{
+			"trigger": "ActionButton_ShowGrid\t(...)",
+			"contents": "ActionButton_ShowGrid($1)$0",
+		},
+		{
+			"trigger": "ActionButton_ShowOverlayGlow\t(...)",
+			"contents": "ActionButton_ShowOverlayGlow($1)$0",
+		},
+		{
+			"trigger": "ActionButton_StartFlash\t(...)",
+			"contents": "ActionButton_StartFlash($1)$0",
+		},
+		{
+			"trigger": "ActionButton_StopFlash\t(...)",
+			"contents": "ActionButton_StopFlash($1)$0",
+		},
+		{
+			"trigger": "ActionButton_Update\t(...)",
+			"contents": "ActionButton_Update($1)$0",
+		},
+		{
+			"trigger": "ActionButton_UpdateAction\t(...)",
+			"contents": "ActionButton_UpdateAction($1)$0",
+		},
+		{
+			"trigger": "ActionButton_UpdateCooldown\t(...)",
+			"contents": "ActionButton_UpdateCooldown($1)$0",
+		},
+		{
+			"trigger": "ActionButton_UpdateCount\t(...)",
+			"contents": "ActionButton_UpdateCount($1)$0",
+		},
+		{
+			"trigger": "ActionButton_UpdateFlash\t(...)",
+			"contents": "ActionButton_UpdateFlash($1)$0",
+		},
+		{
+			"trigger": "ActionButton_UpdateFlyout\t(...)",
+			"contents": "ActionButton_UpdateFlyout($1)$0",
+		},
+		{
+			"trigger": "ActionButton_UpdateHighlightMark\t(...)",
+			"contents": "ActionButton_UpdateHighlightMark($1)$0",
+		},
+		{
+			"trigger": "ActionButton_UpdateHotkeys\t(...)",
+			"contents": "ActionButton_UpdateHotkeys($1)$0",
+		},
+		{
+			"trigger": "ActionButton_UpdateOverlayGlow\t(...)",
+			"contents": "ActionButton_UpdateOverlayGlow($1)$0",
+		},
+		{
+			"trigger": "ActionButton_UpdateRangeIndicator\t(...)",
+			"contents": "ActionButton_UpdateRangeIndicator($1)$0",
+		},
+		{
+			"trigger": "ActionButton_UpdateSpellHighlightMark\t(...)",
+			"contents": "ActionButton_UpdateSpellHighlightMark($1)$0",
+		},
+		{
+			"trigger": "ActionButton_UpdateState\t(...)",
+			"contents": "ActionButton_UpdateState($1)$0",
+		},
+		{
+			"trigger": "ActionButton_UpdateUsable\t(...)",
+			"contents": "ActionButton_UpdateUsable($1)$0",
+		},
+		{
+			"trigger": "ActionStatus_OnEvent\t(...)",
+			"contents": "ActionStatus_OnEvent($1)$0",
+		},
+		{
+			"trigger": "ActionStatus_OnLoad\t(...)",
+			"contents": "ActionStatus_OnLoad($1)$0",
+		},
+		{
+			"trigger": "ActionStatus_OnUpdate\t(...)",
+			"contents": "ActionStatus_OnUpdate($1)$0",
+		},
+		{
+			"trigger": "ActorPool_Hide\t(...)",
+			"contents": "ActorPool_Hide($1)$0",
+		},
+		{
+			"trigger": "ActorPool_HideAndClearModel\t(...)",
+			"contents": "ActorPool_HideAndClearModel($1)$0",
+		},
+		{
+			"trigger": "AddFriendEntryFrame_Collapse\t(...)",
+			"contents": "AddFriendEntryFrame_Collapse($1)$0",
+		},
+		{
+			"trigger": "AddFriendEntryFrame_Expand\t(...)",
+			"contents": "AddFriendEntryFrame_Expand($1)$0",
+		},
+		{
+			"trigger": "AddFriendFrame_Accept\t(...)",
+			"contents": "AddFriendFrame_Accept($1)$0",
+		},
+		{
+			"trigger": "AddFriendFrame_IsValidBattlenetName\t(...)",
+			"contents": "AddFriendFrame_IsValidBattlenetName($1)$0",
+		},
+		{
+			"trigger": "AddFriendFrame_OnShow\t(...)",
+			"contents": "AddFriendFrame_OnShow($1)$0",
+		},
+		{
+			"trigger": "AddFriendFrame_ShowEntry\t(...)",
+			"contents": "AddFriendFrame_ShowEntry($1)$0",
+		},
+		{
+			"trigger": "AddFriendFrame_ShowInfo\t(...)",
+			"contents": "AddFriendFrame_ShowInfo($1)$0",
+		},
+		{
+			"trigger": "AddFriendNameEditBox_OnTextChanged\t(...)",
+			"contents": "AddFriendNameEditBox_OnTextChanged($1)$0",
+		},
+		{
+			"trigger": "AddonList_DisableAll\t(...)",
+			"contents": "AddonList_DisableAll($1)$0",
+		},
+		{
+			"trigger": "AddonList_DisableOutOfDate\t(...)",
+			"contents": "AddonList_DisableOutOfDate($1)$0",
+		},
+		{
+			"trigger": "AddonList_Enable\t(...)",
+			"contents": "AddonList_Enable($1)$0",
+		},
+		{
+			"trigger": "AddonList_EnableAll\t(...)",
+			"contents": "AddonList_EnableAll($1)$0",
+		},
+		{
+			"trigger": "AddonList_HasAnyChanged\t(...)",
+			"contents": "AddonList_HasAnyChanged($1)$0",
+		},
+		{
+			"trigger": "AddonList_HasNewVersion\t(...)",
+			"contents": "AddonList_HasNewVersion($1)$0",
+		},
+		{
+			"trigger": "AddonList_HasOutOfDate\t(...)",
+			"contents": "AddonList_HasOutOfDate($1)$0",
+		},
+		{
+			"trigger": "AddonList_Hide\t(...)",
+			"contents": "AddonList_Hide($1)$0",
+		},
+		{
+			"trigger": "AddonList_IsAddOnLoadOnDemand\t(...)",
+			"contents": "AddonList_IsAddOnLoadOnDemand($1)$0",
+		},
+		{
+			"trigger": "AddonList_LoadAddOn\t(...)",
+			"contents": "AddonList_LoadAddOn($1)$0",
+		},
+		{
+			"trigger": "AddonList_OnCancel\t(...)",
+			"contents": "AddonList_OnCancel($1)$0",
+		},
+		{
+			"trigger": "AddonList_OnHide\t(...)",
+			"contents": "AddonList_OnHide($1)$0",
+		},
+		{
+			"trigger": "AddonList_OnKeyDown\t(...)",
+			"contents": "AddonList_OnKeyDown($1)$0",
+		},
+		{
+			"trigger": "AddonList_OnLoad\t(...)",
+			"contents": "AddonList_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AddonList_OnOkay\t(...)",
+			"contents": "AddonList_OnOkay($1)$0",
+		},
+		{
+			"trigger": "AddonList_OnShow\t(...)",
+			"contents": "AddonList_OnShow($1)$0",
+		},
+		{
+			"trigger": "AddonList_SetSecurityIcon\t(...)",
+			"contents": "AddonList_SetSecurityIcon($1)$0",
+		},
+		{
+			"trigger": "AddonList_SetStatus\t(...)",
+			"contents": "AddonList_SetStatus($1)$0",
+		},
+		{
+			"trigger": "AddonList_Show\t(...)",
+			"contents": "AddonList_Show($1)$0",
+		},
+		{
+			"trigger": "AddonList_Update\t(...)",
+			"contents": "AddonList_Update($1)$0",
+		},
+		{
+			"trigger": "AddonListCharacterDropDown_Initialize\t(...)",
+			"contents": "AddonListCharacterDropDown_Initialize($1)$0",
+		},
+		{
+			"trigger": "AddonListCharacterDropDown_OnClick\t(...)",
+			"contents": "AddonListCharacterDropDown_OnClick($1)$0",
+		},
+		{
+			"trigger": "AddonListScrollFrame_OnVerticalScroll\t(...)",
+			"contents": "AddonListScrollFrame_OnVerticalScroll($1)$0",
+		},
+		{
+			"trigger": "AddonTooltip_BuildDeps\t(...)",
+			"contents": "AddonTooltip_BuildDeps($1)$0",
+		},
+		{
+			"trigger": "AddonTooltip_Update\t(...)",
+			"contents": "AddonTooltip_Update($1)$0",
+		},
+		{
+			"trigger": "Advanced_Default\t(...)",
+			"contents": "Advanced_Default($1)$0",
+		},
+		{
+			"trigger": "Advanced_OnLoad\t(...)",
+			"contents": "Advanced_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AdventureJournal_Reward_OnEnter\t(...)",
+			"contents": "AdventureJournal_Reward_OnEnter($1)$0",
+		},
+		{
+			"trigger": "AdventureJournal_Reward_OnLeave\t(...)",
+			"contents": "AdventureJournal_Reward_OnLeave($1)$0",
+		},
+		{
+			"trigger": "AdventureJournal_Reward_OnMouseDown\t(...)",
+			"contents": "AdventureJournal_Reward_OnMouseDown($1)$0",
+		},
+		{
+			"trigger": "AdventureMap_IsPositionBlockedByZoneChoice\t(...)",
+			"contents": "AdventureMap_IsPositionBlockedByZoneChoice($1)$0",
+		},
+		{
+			"trigger": "AdventureMap_IsQuestValid\t(...)",
+			"contents": "AdventureMap_IsQuestValid($1)$0",
+		},
+		{
+			"trigger": "AdventureMap_IsZoneIDBlockedByZoneChoice\t(...)",
+			"contents": "AdventureMap_IsZoneIDBlockedByZoneChoice($1)$0",
+		},
+		{
+			"trigger": "AdventureMapFrame_LoadUI\t(...)",
+			"contents": "AdventureMapFrame_LoadUI($1)$0",
+		},
+		{
+			"trigger": "AlertFrame_OnClick\t(...)",
+			"contents": "AlertFrame_OnClick($1)$0",
+		},
+		{
+			"trigger": "AlertFrame_ResumeOutAnimation\t(...)",
+			"contents": "AlertFrame_ResumeOutAnimation($1)$0",
+		},
+		{
+			"trigger": "AlertFrame_StopOutAnimation\t(...)",
+			"contents": "AlertFrame_StopOutAnimation($1)$0",
+		},
+		{
+			"trigger": "AlertFrameSystems_Register\t(...)",
+			"contents": "AlertFrameSystems_Register($1)$0",
+		},
+		{
+			"trigger": "AlertFrameTemplate_OnHide\t(...)",
+			"contents": "AlertFrameTemplate_OnHide($1)$0",
+		},
+		{
+			"trigger": "AlertFrameTemplate_OnLoad\t(...)",
+			"contents": "AlertFrameTemplate_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AltCurrencyFrame_Update\t(...)",
+			"contents": "AltCurrencyFrame_Update($1)$0",
+		},
+		{
+			"trigger": "AlternatePowerBar_Initialize\t(...)",
+			"contents": "AlternatePowerBar_Initialize($1)$0",
+		},
+		{
+			"trigger": "AlternatePowerBar_OnEvent\t(...)",
+			"contents": "AlternatePowerBar_OnEvent($1)$0",
+		},
+		{
+			"trigger": "AlternatePowerBar_OnLoad\t(...)",
+			"contents": "AlternatePowerBar_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AlternatePowerBar_OnUpdate\t(...)",
+			"contents": "AlternatePowerBar_OnUpdate($1)$0",
+		},
+		{
+			"trigger": "AlternatePowerBar_ShouldDisplayPower\t(...)",
+			"contents": "AlternatePowerBar_ShouldDisplayPower($1)$0",
+		},
+		{
+			"trigger": "AlternatePowerBar_UpdateMaxValues\t(...)",
+			"contents": "AlternatePowerBar_UpdateMaxValues($1)$0",
+		},
+		{
+			"trigger": "AlternatePowerBar_UpdatePowerType\t(...)",
+			"contents": "AlternatePowerBar_UpdatePowerType($1)$0",
+		},
+		{
+			"trigger": "AlternatePowerBar_UpdateValue\t(...)",
+			"contents": "AlternatePowerBar_UpdateValue($1)$0",
+		},
+		{
+			"trigger": "AnimatedShine_OnUpdate\t(...)",
+			"contents": "AnimatedShine_OnUpdate($1)$0",
+		},
+		{
+			"trigger": "AnimatedShine_Start\t(...)",
+			"contents": "AnimatedShine_Start($1)$0",
+		},
+		{
+			"trigger": "AnimatedShine_Stop\t(...)",
+			"contents": "AnimatedShine_Stop($1)$0",
+		},
+		{
+			"trigger": "APIDocumentation_LoadUI\t(...)",
+			"contents": "APIDocumentation_LoadUI($1)$0",
+		},
+		{
+			"trigger": "ArchaeologyFrame_CurrentArtifactUpdate\t(...)",
+			"contents": "ArchaeologyFrame_CurrentArtifactUpdate($1)$0",
+		},
+		{
+			"trigger": "ArchaeologyFrame_Hide\t(...)",
+			"contents": "ArchaeologyFrame_Hide($1)$0",
+		},
+		{
+			"trigger": "ArchaeologyFrame_InitRaceFilter\t(...)",
+			"contents": "ArchaeologyFrame_InitRaceFilter($1)$0",
+		},
+		{
+			"trigger": "ArchaeologyFrame_KeyStoneClick\t(...)",
+			"contents": "ArchaeologyFrame_KeyStoneClick($1)$0",
+		},
+		{
+			"trigger": "ArchaeologyFrame_LoadUI\t(...)",
+			"contents": "ArchaeologyFrame_LoadUI($1)$0",
+		},
+		{
+			"trigger": "ArchaeologyFrame_OnEvent\t(...)",
+			"contents": "ArchaeologyFrame_OnEvent($1)$0",
+		},
+		{
+			"trigger": "ArchaeologyFrame_OnHide\t(...)",
+			"contents": "ArchaeologyFrame_OnHide($1)$0",
+		},
+		{
+			"trigger": "ArchaeologyFrame_OnLoad\t(...)",
+			"contents": "ArchaeologyFrame_OnLoad($1)$0",
+		},
+		{
+			"trigger": "ArchaeologyFrame_OnMouseWheel\t(...)",
+			"contents": "ArchaeologyFrame_OnMouseWheel($1)$0",
+		},
+		{
+			"trigger": "ArchaeologyFrame_OnShow\t(...)",
+			"contents": "ArchaeologyFrame_OnShow($1)$0",
+		},
+		{
+			"trigger": "ArchaeologyFrame_OnTabClick\t(...)",
+			"contents": "ArchaeologyFrame_OnTabClick($1)$0",
+		},
+		{
+			"trigger": "ArchaeologyFrame_PageClick\t(...)",
+			"contents": "ArchaeologyFrame_PageClick($1)$0",
+		},
+		{
+			"trigger": "ArchaeologyFrame_RaceFilterSet\t(...)",
+			"contents": "ArchaeologyFrame_RaceFilterSet($1)$0",
+		},
+		{
+			"trigger": "ArchaeologyFrame_Show\t(...)",
+			"contents": "ArchaeologyFrame_Show($1)$0",
+		},
+		{
+			"trigger": "ArchaeologyFrame_ShowArtifact\t(...)",
+			"contents": "ArchaeologyFrame_ShowArtifact($1)$0",
+		},
+		{
+			"trigger": "ArchaeologyFrame_ShowFailed\t(...)",
+			"contents": "ArchaeologyFrame_ShowFailed($1)$0",
+		},
+		{
+			"trigger": "ArchaeologyFrame_UpdateComplete\t(...)",
+			"contents": "ArchaeologyFrame_UpdateComplete($1)$0",
+		},
+		{
+			"trigger": "ArchaeologyFrame_UpdateSummary\t(...)",
+			"contents": "ArchaeologyFrame_UpdateSummary($1)$0",
+		},
+		{
+			"trigger": "ArchaeologyFrameSummary_PageClick\t(...)",
+			"contents": "ArchaeologyFrameSummary_PageClick($1)$0",
+		},
+		{
+			"trigger": "ArcheologyDigsiteProgressBar_OnEvent\t(...)",
+			"contents": "ArcheologyDigsiteProgressBar_OnEvent($1)$0",
+		},
+		{
+			"trigger": "ArcheologyDigsiteProgressBar_OnHide\t(...)",
+			"contents": "ArcheologyDigsiteProgressBar_OnHide($1)$0",
+		},
+		{
+			"trigger": "ArcheologyDigsiteProgressBar_OnLoad\t(...)",
+			"contents": "ArcheologyDigsiteProgressBar_OnLoad($1)$0",
+		},
+		{
+			"trigger": "ArcheologyDigsiteProgressBar_OnShow\t(...)",
+			"contents": "ArcheologyDigsiteProgressBar_OnShow($1)$0",
+		},
+		{
+			"trigger": "ArcheologyDigsiteProgressBar_OnUpdate\t(...)",
+			"contents": "ArcheologyDigsiteProgressBar_OnUpdate($1)$0",
+		},
+		{
+			"trigger": "ArcheologyDigsiteProgressBarFillBar_OnUpdate\t(...)",
+			"contents": "ArcheologyDigsiteProgressBarFillBar_OnUpdate($1)$0",
+		},
+		{
+			"trigger": "Arena_LoadUI\t(...)",
+			"contents": "Arena_LoadUI($1)$0",
+		},
+		{
+			"trigger": "ArenaEnemyBackground_SetOpacity\t(...)",
+			"contents": "ArenaEnemyBackground_SetOpacity($1)$0",
+		},
+		{
+			"trigger": "ArenaEnemyDropDown_Initialize\t(...)",
+			"contents": "ArenaEnemyDropDown_Initialize($1)$0",
+		},
+		{
+			"trigger": "ArenaEnemyFrame_Lock\t(...)",
+			"contents": "ArenaEnemyFrame_Lock($1)$0",
+		},
+		{
+			"trigger": "ArenaEnemyFrame_OnEvent\t(...)",
+			"contents": "ArenaEnemyFrame_OnEvent($1)$0",
+		},
+		{
+			"trigger": "ArenaEnemyFrame_OnLoad\t(...)",
+			"contents": "ArenaEnemyFrame_OnLoad($1)$0",
+		},
+		{
+			"trigger": "ArenaEnemyFrame_OnShow\t(...)",
+			"contents": "ArenaEnemyFrame_OnShow($1)$0",
+		},
+		{
+			"trigger": "ArenaEnemyFrame_SetMysteryPlayer\t(...)",
+			"contents": "ArenaEnemyFrame_SetMysteryPlayer($1)$0",
+		},
+		{
+			"trigger": "ArenaEnemyFrame_Unlock\t(...)",
+			"contents": "ArenaEnemyFrame_Unlock($1)$0",
+		},
+		{
+			"trigger": "ArenaEnemyFrame_UpdateCrowdControl\t(...)",
+			"contents": "ArenaEnemyFrame_UpdateCrowdControl($1)$0",
+		},
+		{
+			"trigger": "ArenaEnemyFrame_UpdatePet\t(...)",
+			"contents": "ArenaEnemyFrame_UpdatePet($1)$0",
+		},
+		{
+			"trigger": "ArenaEnemyFrame_UpdatePlayer\t(...)",
+			"contents": "ArenaEnemyFrame_UpdatePlayer($1)$0",
+		},
+		{
+			"trigger": "ArenaEnemyFrames_CheckEffectiveEnableState\t(...)",
+			"contents": "ArenaEnemyFrames_CheckEffectiveEnableState($1)$0",
+		},
+		{
+			"trigger": "ArenaEnemyFrames_Disable\t(...)",
+			"contents": "ArenaEnemyFrames_Disable($1)$0",
+		},
+		{
+			"trigger": "ArenaEnemyFrames_Enable\t(...)",
+			"contents": "ArenaEnemyFrames_Enable($1)$0",
+		},
+		{
+			"trigger": "ArenaEnemyFrames_GetBestAnchorUnitFrameForOppponent\t(...)",
+			"contents": "ArenaEnemyFrames_GetBestAnchorUnitFrameForOppponent($1)$0",
+		},
+		{
+			"trigger": "ArenaEnemyFrames_OnEvent\t(...)",
+			"contents": "ArenaEnemyFrames_OnEvent($1)$0",
+		},
+		{
+			"trigger": "ArenaEnemyFrames_OnHide\t(...)",
+			"contents": "ArenaEnemyFrames_OnHide($1)$0",
+		},
+		{
+			"trigger": "ArenaEnemyFrames_OnLoad\t(...)",
+			"contents": "ArenaEnemyFrames_OnLoad($1)$0",
+		},
+		{
+			"trigger": "ArenaEnemyFrames_OnShow\t(...)",
+			"contents": "ArenaEnemyFrames_OnShow($1)$0",
+		},
+		{
+			"trigger": "ArenaEnemyFrames_ResetCrowdControlCooldownData\t(...)",
+			"contents": "ArenaEnemyFrames_ResetCrowdControlCooldownData($1)$0",
+		},
+		{
+			"trigger": "ArenaEnemyFrames_UpdateVisible\t(...)",
+			"contents": "ArenaEnemyFrames_UpdateVisible($1)$0",
+		},
+		{
+			"trigger": "ArenaEnemyPetDropDown_Initialize\t(...)",
+			"contents": "ArenaEnemyPetDropDown_Initialize($1)$0",
+		},
+		{
+			"trigger": "ArenaEnemyPetFrame_OnEvent\t(...)",
+			"contents": "ArenaEnemyPetFrame_OnEvent($1)$0",
+		},
+		{
+			"trigger": "ArenaEnemyPetFrame_OnLoad\t(...)",
+			"contents": "ArenaEnemyPetFrame_OnLoad($1)$0",
+		},
+		{
+			"trigger": "ArenaPrepBackground_SetOpacity\t(...)",
+			"contents": "ArenaPrepBackground_SetOpacity($1)$0",
+		},
+		{
+			"trigger": "ArenaPrepFrames_GetBestAnchorUnitFrameForOppponent\t(...)",
+			"contents": "ArenaPrepFrames_GetBestAnchorUnitFrameForOppponent($1)$0",
+		},
+		{
+			"trigger": "ArenaPrepFrames_OnEvent\t(...)",
+			"contents": "ArenaPrepFrames_OnEvent($1)$0",
+		},
+		{
+			"trigger": "ArenaPrepFrames_OnHide\t(...)",
+			"contents": "ArenaPrepFrames_OnHide($1)$0",
+		},
+		{
+			"trigger": "ArenaPrepFrames_OnLoad\t(...)",
+			"contents": "ArenaPrepFrames_OnLoad($1)$0",
+		},
+		{
+			"trigger": "ArenaPrepFrames_OnShow\t(...)",
+			"contents": "ArenaPrepFrames_OnShow($1)$0",
+		},
+		{
+			"trigger": "ArenaPrepFrames_UpdateBackground\t(...)",
+			"contents": "ArenaPrepFrames_UpdateBackground($1)$0",
+		},
+		{
+			"trigger": "ArenaPrepFrames_UpdateFrames\t(...)",
+			"contents": "ArenaPrepFrames_UpdateFrames($1)$0",
+		},
+		{
+			"trigger": "ArtifactFrame_LoadUI\t(...)",
+			"contents": "ArtifactFrame_LoadUI($1)$0",
+		},
+		{
+			"trigger": "ArtifactsModelTemplate_OnModelLoaded\t(...)",
+			"contents": "ArtifactsModelTemplate_OnModelLoaded($1)$0",
+		},
+		{
+			"trigger": "ArtifactUI_CanViewArtifact\t(...)",
+			"contents": "ArtifactUI_CanViewArtifact($1)$0",
+		},
+		{
+			"trigger": "ArtifactUI_HasPurchasedAnything\t(...)",
+			"contents": "ArtifactUI_HasPurchasedAnything($1)$0",
+		},
+		{
+			"trigger": "AuctionBrowseFrame_CheckUnlockHighlight\t(...)",
+			"contents": "AuctionBrowseFrame_CheckUnlockHighlight($1)$0",
+		},
+		{
+			"trigger": "AuctionFrame_CreateCategory\t(...)",
+			"contents": "AuctionFrame_CreateCategory($1)$0",
+		},
+		{
+			"trigger": "AuctionFrame_DoesCategoryHaveFlag\t(...)",
+			"contents": "AuctionFrame_DoesCategoryHaveFlag($1)$0",
+		},
+		{
+			"trigger": "AuctionFrame_GetDetailColumnString\t(...)",
+			"contents": "AuctionFrame_GetDetailColumnString($1)$0",
+		},
+		{
+			"trigger": "AuctionFrame_GetTimeLeftText\t(...)",
+			"contents": "AuctionFrame_GetTimeLeftText($1)$0",
+		},
+		{
+			"trigger": "AuctionFrame_GetTimeLeftTooltipText\t(...)",
+			"contents": "AuctionFrame_GetTimeLeftTooltipText($1)$0",
+		},
+		{
+			"trigger": "AuctionFrame_Hide\t(...)",
+			"contents": "AuctionFrame_Hide($1)$0",
+		},
+		{
+			"trigger": "AuctionFrame_LoadUI\t(...)",
+			"contents": "AuctionFrame_LoadUI($1)$0",
+		},
+		{
+			"trigger": "AuctionFrame_OnClickSortColumn\t(...)",
+			"contents": "AuctionFrame_OnClickSortColumn($1)$0",
+		},
+		{
+			"trigger": "AuctionFrame_OnLoad\t(...)",
+			"contents": "AuctionFrame_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AuctionFrame_OnShow\t(...)",
+			"contents": "AuctionFrame_OnShow($1)$0",
+		},
+		{
+			"trigger": "AuctionFrame_SetSort\t(...)",
+			"contents": "AuctionFrame_SetSort($1)$0",
+		},
+		{
+			"trigger": "AuctionFrame_Show\t(...)",
+			"contents": "AuctionFrame_Show($1)$0",
+		},
+		{
+			"trigger": "AuctionFrameAuctions_OnEvent\t(...)",
+			"contents": "AuctionFrameAuctions_OnEvent($1)$0",
+		},
+		{
+			"trigger": "AuctionFrameAuctions_OnLoad\t(...)",
+			"contents": "AuctionFrameAuctions_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AuctionFrameAuctions_OnShow\t(...)",
+			"contents": "AuctionFrameAuctions_OnShow($1)$0",
+		},
+		{
+			"trigger": "AuctionFrameAuctions_OnUpdate\t(...)",
+			"contents": "AuctionFrameAuctions_OnUpdate($1)$0",
+		},
+		{
+			"trigger": "AuctionFrameAuctions_Update\t(...)",
+			"contents": "AuctionFrameAuctions_Update($1)$0",
+		},
+		{
+			"trigger": "AuctionFrameBid_OnEvent\t(...)",
+			"contents": "AuctionFrameBid_OnEvent($1)$0",
+		},
+		{
+			"trigger": "AuctionFrameBid_OnLoad\t(...)",
+			"contents": "AuctionFrameBid_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AuctionFrameBid_OnShow\t(...)",
+			"contents": "AuctionFrameBid_OnShow($1)$0",
+		},
+		{
+			"trigger": "AuctionFrameBid_Update\t(...)",
+			"contents": "AuctionFrameBid_Update($1)$0",
+		},
+		{
+			"trigger": "AuctionFrameBrowse_OnEvent\t(...)",
+			"contents": "AuctionFrameBrowse_OnEvent($1)$0",
+		},
+		{
+			"trigger": "AuctionFrameBrowse_OnLoad\t(...)",
+			"contents": "AuctionFrameBrowse_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AuctionFrameBrowse_OnShow\t(...)",
+			"contents": "AuctionFrameBrowse_OnShow($1)$0",
+		},
+		{
+			"trigger": "AuctionFrameBrowse_Reset\t(...)",
+			"contents": "AuctionFrameBrowse_Reset($1)$0",
+		},
+		{
+			"trigger": "AuctionFrameBrowse_Search\t(...)",
+			"contents": "AuctionFrameBrowse_Search($1)$0",
+		},
+		{
+			"trigger": "AuctionFrameBrowse_Update\t(...)",
+			"contents": "AuctionFrameBrowse_Update($1)$0",
+		},
+		{
+			"trigger": "AuctionFrameBrowse_UpdateArrows\t(...)",
+			"contents": "AuctionFrameBrowse_UpdateArrows($1)$0",
+		},
+		{
+			"trigger": "AuctionFrameFilter_OnClick\t(...)",
+			"contents": "AuctionFrameFilter_OnClick($1)$0",
+		},
+		{
+			"trigger": "AuctionFrameFilters_AddSubCategories\t(...)",
+			"contents": "AuctionFrameFilters_AddSubCategories($1)$0",
+		},
+		{
+			"trigger": "AuctionFrameFilters_AddSubSubCategories\t(...)",
+			"contents": "AuctionFrameFilters_AddSubSubCategories($1)$0",
+		},
+		{
+			"trigger": "AuctionFrameFilters_Update\t(...)",
+			"contents": "AuctionFrameFilters_Update($1)$0",
+		},
+		{
+			"trigger": "AuctionFrameFilters_UpdateCategories\t(...)",
+			"contents": "AuctionFrameFilters_UpdateCategories($1)$0",
+		},
+		{
+			"trigger": "AuctionFrameItem_OnEnter\t(...)",
+			"contents": "AuctionFrameItem_OnEnter($1)$0",
+		},
+		{
+			"trigger": "AuctionFrameTab_OnClick\t(...)",
+			"contents": "AuctionFrameTab_OnClick($1)$0",
+		},
+		{
+			"trigger": "AuctionPriceTooltipFrame_OnEnter\t(...)",
+			"contents": "AuctionPriceTooltipFrame_OnEnter($1)$0",
+		},
+		{
+			"trigger": "AuctionPriceTooltipFrame_OnLeave\t(...)",
+			"contents": "AuctionPriceTooltipFrame_OnLeave($1)$0",
+		},
+		{
+			"trigger": "AuctionPriceTooltipFrame_OnLoad\t(...)",
+			"contents": "AuctionPriceTooltipFrame_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AuctionProgressFrame_OnUpdate\t(...)",
+			"contents": "AuctionProgressFrame_OnUpdate($1)$0",
+		},
+		{
+			"trigger": "AuctionsButton_OnClick\t(...)",
+			"contents": "AuctionsButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "AuctionsCreateAuctionButton_OnClick\t(...)",
+			"contents": "AuctionsCreateAuctionButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "AuctionSellItemButton_OnClick\t(...)",
+			"contents": "AuctionSellItemButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "AuctionSellItemButton_OnEvent\t(...)",
+			"contents": "AuctionSellItemButton_OnEvent($1)$0",
+		},
+		{
+			"trigger": "AuctionsFrameAuctions_ValidateAuction\t(...)",
+			"contents": "AuctionsFrameAuctions_ValidateAuction($1)$0",
+		},
+		{
+			"trigger": "AuctionsWowTokenAuctionFrame_OnEvent\t(...)",
+			"contents": "AuctionsWowTokenAuctionFrame_OnEvent($1)$0",
+		},
+		{
+			"trigger": "AuctionsWowTokenAuctionFrame_OnLoad\t(...)",
+			"contents": "AuctionsWowTokenAuctionFrame_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AuctionsWowTokenAuctionFrame_Update\t(...)",
+			"contents": "AuctionsWowTokenAuctionFrame_Update($1)$0",
+		},
+		{
+			"trigger": "AuctionWowToken_CancelUpdateTicker\t(...)",
+			"contents": "AuctionWowToken_CancelUpdateTicker($1)$0",
+		},
+		{
+			"trigger": "AuctionWowToken_ShouldUpdatePrice\t(...)",
+			"contents": "AuctionWowToken_ShouldUpdatePrice($1)$0",
+		},
+		{
+			"trigger": "AuctionWowToken_UpdateMarketPrice\t(...)",
+			"contents": "AuctionWowToken_UpdateMarketPrice($1)$0",
+		},
+		{
+			"trigger": "AuctionWowToken_UpdateMarketPriceCallback\t(...)",
+			"contents": "AuctionWowToken_UpdateMarketPriceCallback($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsFrame_AudioRestart\t(...)",
+			"contents": "AudioOptionsFrame_AudioRestart($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsFrame_OnEvent\t(...)",
+			"contents": "AudioOptionsFrame_OnEvent($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsFrame_OnHide\t(...)",
+			"contents": "AudioOptionsFrame_OnHide($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsFrame_OnLoad\t(...)",
+			"contents": "AudioOptionsFrame_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsFrame_SetAllToDefaults\t(...)",
+			"contents": "AudioOptionsFrame_SetAllToDefaults($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsFrame_SetCurrentToDefaults\t(...)",
+			"contents": "AudioOptionsFrame_SetCurrentToDefaults($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsFrame_Toggle\t(...)",
+			"contents": "AudioOptionsFrame_Toggle($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsFrameCancel_OnClick\t(...)",
+			"contents": "AudioOptionsFrameCancel_OnClick($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsFrameDefault_OnClick\t(...)",
+			"contents": "AudioOptionsFrameDefault_OnClick($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsFrameOkay_OnClick\t(...)",
+			"contents": "AudioOptionsFrameOkay_OnClick($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsPanel_CheckButton_OnClick\t(...)",
+			"contents": "AudioOptionsPanel_CheckButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsSoundPanel_OnLoad\t(...)",
+			"contents": "AudioOptionsSoundPanel_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsSoundPanelHardwareDropDown_Initialize\t(...)",
+			"contents": "AudioOptionsSoundPanelHardwareDropDown_Initialize($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsSoundPanelHardwareDropDown_OnClick\t(...)",
+			"contents": "AudioOptionsSoundPanelHardwareDropDown_OnClick($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsSoundPanelHardwareDropDown_OnLoad\t(...)",
+			"contents": "AudioOptionsSoundPanelHardwareDropDown_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsSoundPanelSoundCacheSizeDropDown_Initialize\t(...)",
+			"contents": "AudioOptionsSoundPanelSoundCacheSizeDropDown_Initialize($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsSoundPanelSoundCacheSizeDropDown_OnClick\t(...)",
+			"contents": "AudioOptionsSoundPanelSoundCacheSizeDropDown_OnClick($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsSoundPanelSoundCacheSizeDropDown_OnLoad\t(...)",
+			"contents": "AudioOptionsSoundPanelSoundCacheSizeDropDown_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsSoundPanelSoundChannelsDropDown_Initialize\t(...)",
+			"contents": "AudioOptionsSoundPanelSoundChannelsDropDown_Initialize($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsSoundPanelSoundChannelsDropDown_OnClick\t(...)",
+			"contents": "AudioOptionsSoundPanelSoundChannelsDropDown_OnClick($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsSoundPanelSoundChannelsDropDown_OnLoad\t(...)",
+			"contents": "AudioOptionsSoundPanelSoundChannelsDropDown_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsVoicePanel_DisableMicrophoneControls\t(...)",
+			"contents": "AudioOptionsVoicePanel_DisableMicrophoneControls($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsVoicePanel_EnableMicrophoneControls\t(...)",
+			"contents": "AudioOptionsVoicePanel_EnableMicrophoneControls($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsVoicePanel_OnEvent\t(...)",
+			"contents": "AudioOptionsVoicePanel_OnEvent($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsVoicePanel_OnHide\t(...)",
+			"contents": "AudioOptionsVoicePanel_OnHide($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsVoicePanel_OnLoad\t(...)",
+			"contents": "AudioOptionsVoicePanel_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsVoicePanel_OnShow\t(...)",
+			"contents": "AudioOptionsVoicePanel_OnShow($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsVoicePanel_Refresh\t(...)",
+			"contents": "AudioOptionsVoicePanel_Refresh($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsVoicePanel_SetInputDevice\t(...)",
+			"contents": "AudioOptionsVoicePanel_SetInputDevice($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsVoicePanel_SetOutputDevice\t(...)",
+			"contents": "AudioOptionsVoicePanel_SetOutputDevice($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsVoicePanelBindingOutput_OnUpdate\t(...)",
+			"contents": "AudioOptionsVoicePanelBindingOutput_OnUpdate($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsVoicePanelBindingType_Update\t(...)",
+			"contents": "AudioOptionsVoicePanelBindingType_Update($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsVoicePanelChatModeDropDown_Initialize\t(...)",
+			"contents": "AudioOptionsVoicePanelChatModeDropDown_Initialize($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsVoicePanelChatModeDropDown_OnClick\t(...)",
+			"contents": "AudioOptionsVoicePanelChatModeDropDown_OnClick($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsVoicePanelChatModeDropDown_OnLoad\t(...)",
+			"contents": "AudioOptionsVoicePanelChatModeDropDown_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsVoicePanelEnableMicrophone_UpdateControls\t(...)",
+			"contents": "AudioOptionsVoicePanelEnableMicrophone_UpdateControls($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsVoicePanelEnableVoice_UpdateControls\t(...)",
+			"contents": "AudioOptionsVoicePanelEnableVoice_UpdateControls($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsVoicePanelInputDeviceDropDown_Initialize\t(...)",
+			"contents": "AudioOptionsVoicePanelInputDeviceDropDown_Initialize($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsVoicePanelInputDeviceDropDown_OnClick\t(...)",
+			"contents": "AudioOptionsVoicePanelInputDeviceDropDown_OnClick($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsVoicePanelInputDeviceDropDown_OnLoad\t(...)",
+			"contents": "AudioOptionsVoicePanelInputDeviceDropDown_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsVoicePanelKeyBindingButton_BindButton\t(...)",
+			"contents": "AudioOptionsVoicePanelKeyBindingButton_BindButton($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsVoicePanelKeyBindingButton_CancelBinding\t(...)",
+			"contents": "AudioOptionsVoicePanelKeyBindingButton_CancelBinding($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsVoicePanelKeyBindingButton_OnClick\t(...)",
+			"contents": "AudioOptionsVoicePanelKeyBindingButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsVoicePanelKeyBindingButton_OnEnter\t(...)",
+			"contents": "AudioOptionsVoicePanelKeyBindingButton_OnEnter($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsVoicePanelKeyBindingButton_OnKeyDown\t(...)",
+			"contents": "AudioOptionsVoicePanelKeyBindingButton_OnKeyDown($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsVoicePanelKeyBindingButton_OnKeyUp\t(...)",
+			"contents": "AudioOptionsVoicePanelKeyBindingButton_OnKeyUp($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsVoicePanelKeyBindingButton_Refresh\t(...)",
+			"contents": "AudioOptionsVoicePanelKeyBindingButton_Refresh($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsVoicePanelKeyBindingButton_SetTooltip\t(...)",
+			"contents": "AudioOptionsVoicePanelKeyBindingButton_SetTooltip($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsVoicePanelOutputDeviceDropDown_Initialize\t(...)",
+			"contents": "AudioOptionsVoicePanelOutputDeviceDropDown_Initialize($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsVoicePanelOutputDeviceDropDown_OnClick\t(...)",
+			"contents": "AudioOptionsVoicePanelOutputDeviceDropDown_OnClick($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsVoicePanelOutputDeviceDropDown_OnEvent\t(...)",
+			"contents": "AudioOptionsVoicePanelOutputDeviceDropDown_OnEvent($1)$0",
+		},
+		{
+			"trigger": "AudioOptionsVoicePanelOutputDeviceDropDown_OnLoad\t(...)",
+			"contents": "AudioOptionsVoicePanelOutputDeviceDropDown_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AuraButton_OnUpdate\t(...)",
+			"contents": "AuraButton_OnUpdate($1)$0",
+		},
+		{
+			"trigger": "AuraButton_Update\t(...)",
+			"contents": "AuraButton_Update($1)$0",
+		},
+		{
+			"trigger": "AuraButton_UpdateDuration\t(...)",
+			"contents": "AuraButton_UpdateDuration($1)$0",
+		},
+		{
+			"trigger": "AutoCastShine_AutoCastStart\t(...)",
+			"contents": "AutoCastShine_AutoCastStart($1)$0",
+		},
+		{
+			"trigger": "AutoCastShine_AutoCastStop\t(...)",
+			"contents": "AutoCastShine_AutoCastStop($1)$0",
+		},
+		{
+			"trigger": "AutoCastShine_OnLoad\t(...)",
+			"contents": "AutoCastShine_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AutoCastShine_OnUpdate\t(...)",
+			"contents": "AutoCastShine_OnUpdate($1)$0",
+		},
+		{
+			"trigger": "AutoChooseCurrentGraphicsSetting\t(...)",
+			"contents": "AutoChooseCurrentGraphicsSetting($1)$0",
+		},
+		{
+			"trigger": "AutoComplete_GetNumResults\t(...)",
+			"contents": "AutoComplete_GetNumResults($1)$0",
+		},
+		{
+			"trigger": "AutoComplete_GetSelectedIndex\t(...)",
+			"contents": "AutoComplete_GetSelectedIndex($1)$0",
+		},
+		{
+			"trigger": "AutoComplete_HideIfAttachedTo\t(...)",
+			"contents": "AutoComplete_HideIfAttachedTo($1)$0",
+		},
+		{
+			"trigger": "AutoComplete_IncrementSelection\t(...)",
+			"contents": "AutoComplete_IncrementSelection($1)$0",
+		},
+		{
+			"trigger": "AutoComplete_OnLoad\t(...)",
+			"contents": "AutoComplete_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AutoComplete_SetSelectedIndex\t(...)",
+			"contents": "AutoComplete_SetSelectedIndex($1)$0",
+		},
+		{
+			"trigger": "AutoComplete_Update\t(...)",
+			"contents": "AutoComplete_Update($1)$0",
+		},
+		{
+			"trigger": "AutoComplete_UpdateResults\t(...)",
+			"contents": "AutoComplete_UpdateResults($1)$0",
+		},
+		{
+			"trigger": "AutoCompleteButton_OnClick\t(...)",
+			"contents": "AutoCompleteButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "AutoCompleteEditBox_AddHighlightedText\t(...)",
+			"contents": "AutoCompleteEditBox_AddHighlightedText($1)$0",
+		},
+		{
+			"trigger": "AutoCompleteEditBox_OnArrowPressed\t(...)",
+			"contents": "AutoCompleteEditBox_OnArrowPressed($1)$0",
+		},
+		{
+			"trigger": "AutoCompleteEditBox_OnChar\t(...)",
+			"contents": "AutoCompleteEditBox_OnChar($1)$0",
+		},
+		{
+			"trigger": "AutoCompleteEditBox_OnEditFocusLost\t(...)",
+			"contents": "AutoCompleteEditBox_OnEditFocusLost($1)$0",
+		},
+		{
+			"trigger": "AutoCompleteEditBox_OnEnterPressed\t(...)",
+			"contents": "AutoCompleteEditBox_OnEnterPressed($1)$0",
+		},
+		{
+			"trigger": "AutoCompleteEditBox_OnEscapePressed\t(...)",
+			"contents": "AutoCompleteEditBox_OnEscapePressed($1)$0",
+		},
+		{
+			"trigger": "AutoCompleteEditBox_OnTabPressed\t(...)",
+			"contents": "AutoCompleteEditBox_OnTabPressed($1)$0",
+		},
+		{
+			"trigger": "AutoCompleteEditBox_OnTextChanged\t(...)",
+			"contents": "AutoCompleteEditBox_OnTextChanged($1)$0",
+		},
+		{
+			"trigger": "AutoFollowStatus_OnEvent\t(...)",
+			"contents": "AutoFollowStatus_OnEvent($1)$0",
+		},
+		{
+			"trigger": "AutoFollowStatus_OnLoad\t(...)",
+			"contents": "AutoFollowStatus_OnLoad($1)$0",
+		},
+		{
+			"trigger": "AutoFollowStatus_OnUpdate\t(...)",
+			"contents": "AutoFollowStatus_OnUpdate($1)$0",
+		},
+		{
+			"trigger": "AutoQuestPopupTracker_AddPopUp\t(...)",
+			"contents": "AutoQuestPopupTracker_AddPopUp($1)$0",
+		},
+		{
+			"trigger": "AutoQuestPopupTracker_OnFinishSlide\t(...)",
+			"contents": "AutoQuestPopupTracker_OnFinishSlide($1)$0",
+		},
+		{
+			"trigger": "AutoQuestPopUpTracker_OnMouseDown\t(...)",
+			"contents": "AutoQuestPopUpTracker_OnMouseDown($1)$0",
+		},
+		{
+			"trigger": "AutoQuestPopupTracker_RemovePopUp\t(...)",
+			"contents": "AutoQuestPopupTracker_RemovePopUp($1)$0",
+		},
+		{
+			"trigger": "EasyMenu_Initialize\t(...)",
+			"contents": "EasyMenu_Initialize($1)$0",
+		},
+		{
+			"trigger": "EditBox_ClearFocus\t(...)",
+			"contents": "EditBox_ClearFocus($1)$0",
+		},
+		{
+			"trigger": "EditBox_ClearHighlight\t(...)",
+			"contents": "EditBox_ClearHighlight($1)$0",
+		},
+		{
+			"trigger": "EditBox_HandleTabbing\t(...)",
+			"contents": "EditBox_HandleTabbing($1)$0",
+		},
+		{
+			"trigger": "EditBox_HighlightText\t(...)",
+			"contents": "EditBox_HighlightText($1)$0",
+		},
+		{
+			"trigger": "EditBox_SetFocus\t(...)",
+			"contents": "EditBox_SetFocus($1)$0",
+		},
+		{
+			"trigger": "EJ_ContentTab_OnClick\t(...)",
+			"contents": "EJ_ContentTab_OnClick($1)$0",
+		},
+		{
+			"trigger": "EJ_ContentTab_Select\t(...)",
+			"contents": "EJ_ContentTab_Select($1)$0",
+		},
+		{
+			"trigger": "EJ_HideInstances\t(...)",
+			"contents": "EJ_HideInstances($1)$0",
+		},
+		{
+			"trigger": "EJ_HideLootJournalPanel\t(...)",
+			"contents": "EJ_HideLootJournalPanel($1)$0",
+		},
+		{
+			"trigger": "EJ_HideNonInstancePanels\t(...)",
+			"contents": "EJ_HideNonInstancePanels($1)$0",
+		},
+		{
+			"trigger": "EJ_HideSuggestPanel\t(...)",
+			"contents": "EJ_HideSuggestPanel($1)$0",
+		},
+		{
+			"trigger": "EJMicroButton_ClearNewAdventureNotice\t(...)",
+			"contents": "EJMicroButton_ClearNewAdventureNotice($1)$0",
+		},
+		{
+			"trigger": "EJMicroButton_OnEvent\t(...)",
+			"contents": "EJMicroButton_OnEvent($1)$0",
+		},
+		{
+			"trigger": "EJMicroButton_OnLoad\t(...)",
+			"contents": "EJMicroButton_OnLoad($1)$0",
+		},
+		{
+			"trigger": "EJMicroButton_UpdateAlerts\t(...)",
+			"contents": "EJMicroButton_UpdateAlerts($1)$0",
+		},
+		{
+			"trigger": "EJMicroButton_UpdateDisplay\t(...)",
+			"contents": "EJMicroButton_UpdateDisplay($1)$0",
+		},
+		{
+			"trigger": "EJMicroButton_UpdateNewAdventureNotice\t(...)",
+			"contents": "EJMicroButton_UpdateNewAdventureNotice($1)$0",
+		},
+		{
+			"trigger": "EJNAV_ListEncounter\t(...)",
+			"contents": "EJNAV_ListEncounter($1)$0",
+		},
+		{
+			"trigger": "EJNAV_ListInstance\t(...)",
+			"contents": "EJNAV_ListInstance($1)$0",
+		},
+		{
+			"trigger": "EJNAV_RefreshEncounter\t(...)",
+			"contents": "EJNAV_RefreshEncounter($1)$0",
+		},
+		{
+			"trigger": "EJNAV_RefreshInstance\t(...)",
+			"contents": "EJNAV_RefreshInstance($1)$0",
+		},
+		{
+			"trigger": "EJNAV_SelectEncounter\t(...)",
+			"contents": "EJNAV_SelectEncounter($1)$0",
+		},
+		{
+			"trigger": "EJNAV_SelectInstance\t(...)",
+			"contents": "EJNAV_SelectInstance($1)$0",
+		},
+		{
+			"trigger": "EJSuggestFrame_NextSuggestion\t(...)",
+			"contents": "EJSuggestFrame_NextSuggestion($1)$0",
+		},
+		{
+			"trigger": "EJSuggestFrame_OnClick\t(...)",
+			"contents": "EJSuggestFrame_OnClick($1)$0",
+		},
+		{
+			"trigger": "EJSuggestFrame_OnEvent\t(...)",
+			"contents": "EJSuggestFrame_OnEvent($1)$0",
+		},
+		{
+			"trigger": "EJSuggestFrame_OnLoad\t(...)",
+			"contents": "EJSuggestFrame_OnLoad($1)$0",
+		},
+		{
+			"trigger": "EJSuggestFrame_OnMouseWheel\t(...)",
+			"contents": "EJSuggestFrame_OnMouseWheel($1)$0",
+		},
+		{
+			"trigger": "EJSuggestFrame_OnShow\t(...)",
+			"contents": "EJSuggestFrame_OnShow($1)$0",
+		},
+		{
+			"trigger": "EJSuggestFrame_OpenFrame\t(...)",
+			"contents": "EJSuggestFrame_OpenFrame($1)$0",
+		},
+		{
+			"trigger": "EJSuggestFrame_PrevSuggestion\t(...)",
+			"contents": "EJSuggestFrame_PrevSuggestion($1)$0",
+		},
+		{
+			"trigger": "EJSuggestFrame_RefreshDisplay\t(...)",
+			"contents": "EJSuggestFrame_RefreshDisplay($1)$0",
+		},
+		{
+			"trigger": "EJSuggestFrame_RefreshRewards\t(...)",
+			"contents": "EJSuggestFrame_RefreshRewards($1)$0",
+		},
+		{
+			"trigger": "EJSuggestFrame_SuggestionTextOnEnter\t(...)",
+			"contents": "EJSuggestFrame_SuggestionTextOnEnter($1)$0",
+		},
+		{
+			"trigger": "EJSuggestFrame_UpdateRewards\t(...)",
+			"contents": "EJSuggestFrame_UpdateRewards($1)$0",
+		},
+		{
+			"trigger": "EJSuggestTab_GetPlayerTierIndex\t(...)",
+			"contents": "EJSuggestTab_GetPlayerTierIndex($1)$0",
+		},
+		{
+			"trigger": "EJTierDropDown_Initialize\t(...)",
+			"contents": "EJTierDropDown_Initialize($1)$0",
+		},
+		{
+			"trigger": "EJTierDropDown_OnLoad\t(...)",
+			"contents": "EJTierDropDown_OnLoad($1)$0",
+		},
+		{
+			"trigger": "EmbeddedItemTooltip_OnTooltipSetItem\t(...)",
+			"contents": "EmbeddedItemTooltip_OnTooltipSetItem($1)$0",
+		},
+		{
+			"trigger": "EmbeddedItemTooltip_SetItemByID\t(...)",
+			"contents": "EmbeddedItemTooltip_SetItemByID($1)$0",
+		},
+		{
+			"trigger": "EmbeddedItemTooltip_SetItemByQuestReward\t(...)",
+			"contents": "EmbeddedItemTooltip_SetItemByQuestReward($1)$0",
+		},
+		{
+			"trigger": "EmoteMenu_Click\t(...)",
+			"contents": "EmoteMenu_Click($1)$0",
+		},
+		{
+			"trigger": "EmoteMenu_OnLoad\t(...)",
+			"contents": "EmoteMenu_OnLoad($1)$0",
+		},
+		{
+			"trigger": "Enable_BagButtons\t()",
+			"contents": "Enable_BagButtons()$0",
+		},
+		{
+			"trigger": "EncounterJouranl_IsSearchPreviewShown\t(...)",
+			"contents": "EncounterJouranl_IsSearchPreviewShown($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_AddMapButtons\t(...)",
+			"contents": "EncounterJournal_AddMapButtons($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_AJ_OnUpdate\t(...)",
+			"contents": "EncounterJournal_AJ_OnUpdate($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_CheckQuestButtons\t(...)",
+			"contents": "EncounterJournal_CheckQuestButtons($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_CleanBullets\t(...)",
+			"contents": "EncounterJournal_CleanBullets($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_ClearChildHeaders\t(...)",
+			"contents": "EncounterJournal_ClearChildHeaders($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_ClearDetails\t(...)",
+			"contents": "EncounterJournal_ClearDetails($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_ClearSearch\t(...)",
+			"contents": "EncounterJournal_ClearSearch($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_DifficultyInit\t(...)",
+			"contents": "EncounterJournal_DifficultyInit($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_DisableTierDropDown\t(...)",
+			"contents": "EncounterJournal_DisableTierDropDown($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_DisplayCreature\t(...)",
+			"contents": "EncounterJournal_DisplayCreature($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_DisplayEncounter\t(...)",
+			"contents": "EncounterJournal_DisplayEncounter($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_DisplayInstance\t(...)",
+			"contents": "EncounterJournal_DisplayInstance($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_EnableTierDropDown\t(...)",
+			"contents": "EncounterJournal_EnableTierDropDown($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_FixSearchPreviewBottomBorder\t(...)",
+			"contents": "EncounterJournal_FixSearchPreviewBottomBorder($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_FocusSection\t(...)",
+			"contents": "EncounterJournal_FocusSection($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_FocusSectionCallback\t(...)",
+			"contents": "EncounterJournal_FocusSectionCallback($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_GetCreatureButton\t(...)",
+			"contents": "EncounterJournal_GetCreatureButton($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_GetSearchDisplay\t(...)",
+			"contents": "EncounterJournal_GetSearchDisplay($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_HasChangedContext\t(...)",
+			"contents": "EncounterJournal_HasChangedContext($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_HideCreatures\t(...)",
+			"contents": "EncounterJournal_HideCreatures($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_HideSearchPreview\t(...)",
+			"contents": "EncounterJournal_HideSearchPreview($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_InitLootFilter\t(...)",
+			"contents": "EncounterJournal_InitLootFilter($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_InitLootSlotFilter\t(...)",
+			"contents": "EncounterJournal_InitLootSlotFilter($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_ListInstances\t(...)",
+			"contents": "EncounterJournal_ListInstances($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_LoadUI\t(...)",
+			"contents": "EncounterJournal_LoadUI($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_Loot_OnClick\t(...)",
+			"contents": "EncounterJournal_Loot_OnClick($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_Loot_OnUpdate\t(...)",
+			"contents": "EncounterJournal_Loot_OnUpdate($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_LootCalcScroll\t(...)",
+			"contents": "EncounterJournal_LootCalcScroll($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_LootCallback\t(...)",
+			"contents": "EncounterJournal_LootCallback($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_LootUpdate\t(...)",
+			"contents": "EncounterJournal_LootUpdate($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_MoveSectionUpdate\t(...)",
+			"contents": "EncounterJournal_MoveSectionUpdate($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_OnEvent\t(...)",
+			"contents": "EncounterJournal_OnEvent($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_OnFilterChanged\t(...)",
+			"contents": "EncounterJournal_OnFilterChanged($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_OnHide\t(...)",
+			"contents": "EncounterJournal_OnHide($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_OnLoad\t(...)",
+			"contents": "EncounterJournal_OnLoad($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_OnShow\t(...)",
+			"contents": "EncounterJournal_OnShow($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_OpenJournal\t(...)",
+			"contents": "EncounterJournal_OpenJournal($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_OpenJournalLink\t(...)",
+			"contents": "EncounterJournal_OpenJournalLink($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_Refresh\t(...)",
+			"contents": "EncounterJournal_Refresh($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_RefreshSlotFilterText\t(...)",
+			"contents": "EncounterJournal_RefreshSlotFilterText($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_ResetDisplay\t(...)",
+			"contents": "EncounterJournal_ResetDisplay($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_ResetHeaders\t(...)",
+			"contents": "EncounterJournal_ResetHeaders($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_RestartSearchTracking\t(...)",
+			"contents": "EncounterJournal_RestartSearchTracking($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_SearchUpdate\t(...)",
+			"contents": "EncounterJournal_SearchUpdate($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_SelectDifficulty\t(...)",
+			"contents": "EncounterJournal_SelectDifficulty($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_SelectSearch\t(...)",
+			"contents": "EncounterJournal_SelectSearch($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_SetBullets\t(...)",
+			"contents": "EncounterJournal_SetBullets($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_SetClassAndSpecFilter\t(...)",
+			"contents": "EncounterJournal_SetClassAndSpecFilter($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_SetDescriptionWithBullets\t(...)",
+			"contents": "EncounterJournal_SetDescriptionWithBullets($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_SetFlagIcon\t(...)",
+			"contents": "EncounterJournal_SetFlagIcon($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_SetLootButton\t(...)",
+			"contents": "EncounterJournal_SetLootButton($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_SetSearchPreviewSelection\t(...)",
+			"contents": "EncounterJournal_SetSearchPreviewSelection($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_SetSlotFilter\t(...)",
+			"contents": "EncounterJournal_SetSlotFilter($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_SetTab\t(...)",
+			"contents": "EncounterJournal_SetTab($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_SetTabEnabled\t(...)",
+			"contents": "EncounterJournal_SetTabEnabled($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_SetTooltip\t(...)",
+			"contents": "EncounterJournal_SetTooltip($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_SetUpOverview\t(...)",
+			"contents": "EncounterJournal_SetUpOverview($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_ShiftHeaders\t(...)",
+			"contents": "EncounterJournal_ShiftHeaders($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_ShowCreatures\t(...)",
+			"contents": "EncounterJournal_ShowCreatures($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_ShowFullSearch\t(...)",
+			"contents": "EncounterJournal_ShowFullSearch($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_ShowSearch\t(...)",
+			"contents": "EncounterJournal_ShowSearch($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_TabClicked\t(...)",
+			"contents": "EncounterJournal_TabClicked($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_TierDropDown_Select\t(...)",
+			"contents": "EncounterJournal_TierDropDown_Select($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_ToggleHeaders\t(...)",
+			"contents": "EncounterJournal_ToggleHeaders($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_UpdateButtonState\t(...)",
+			"contents": "EncounterJournal_UpdateButtonState($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_UpdateDifficulty\t(...)",
+			"contents": "EncounterJournal_UpdateDifficulty($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_UpdateFilterString\t(...)",
+			"contents": "EncounterJournal_UpdateFilterString($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_UpdateMapButtonPortraits\t(...)",
+			"contents": "EncounterJournal_UpdateMapButtonPortraits($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_UpdatePortraits\t(...)",
+			"contents": "EncounterJournal_UpdatePortraits($1)$0",
+		},
+		{
+			"trigger": "EncounterJournal_UpdateSearchPreview\t(...)",
+			"contents": "EncounterJournal_UpdateSearchPreview($1)$0",
+		},
+		{
+			"trigger": "EncounterJournalInstanceButton_OnClick\t(...)",
+			"contents": "EncounterJournalInstanceButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "EncounterJournalLinkButton_IsLinkDataAvailable\t(...)",
+			"contents": "EncounterJournalLinkButton_IsLinkDataAvailable($1)$0",
+		},
+		{
+			"trigger": "EncounterJournalLinkButton_OnEnter\t(...)",
+			"contents": "EncounterJournalLinkButton_OnEnter($1)$0",
+		},
+		{
+			"trigger": "EncounterJournalLinkButton_OnShow\t(...)",
+			"contents": "EncounterJournalLinkButton_OnShow($1)$0",
+		},
+		{
+			"trigger": "EncounterJournalSearchBox_OnEnterPressed\t(...)",
+			"contents": "EncounterJournalSearchBox_OnEnterPressed($1)$0",
+		},
+		{
+			"trigger": "EncounterJournalSearchBox_OnFocusGained\t(...)",
+			"contents": "EncounterJournalSearchBox_OnFocusGained($1)$0",
+		},
+		{
+			"trigger": "EncounterJournalSearchBox_OnFocusLost\t(...)",
+			"contents": "EncounterJournalSearchBox_OnFocusLost($1)$0",
+		},
+		{
+			"trigger": "EncounterJournalSearchBox_OnHide\t(...)",
+			"contents": "EncounterJournalSearchBox_OnHide($1)$0",
+		},
+		{
+			"trigger": "EncounterJournalSearchBox_OnKeyDown\t(...)",
+			"contents": "EncounterJournalSearchBox_OnKeyDown($1)$0",
+		},
+		{
+			"trigger": "EncounterJournalSearchBox_OnLoad\t(...)",
+			"contents": "EncounterJournalSearchBox_OnLoad($1)$0",
+		},
+		{
+			"trigger": "EncounterJournalSearchBox_OnShow\t(...)",
+			"contents": "EncounterJournalSearchBox_OnShow($1)$0",
+		},
+		{
+			"trigger": "EncounterJournalSearchBox_OnTextChanged\t(...)",
+			"contents": "EncounterJournalSearchBox_OnTextChanged($1)$0",
+		},
+		{
+			"trigger": "EncounterJournalSearchBox_OnUpdate\t(...)",
+			"contents": "EncounterJournalSearchBox_OnUpdate($1)$0",
+		},
+		{
+			"trigger": "EncounterJournalSearchBoxSearchProgressBar_OnHide\t(...)",
+			"contents": "EncounterJournalSearchBoxSearchProgressBar_OnHide($1)$0",
+		},
+		{
+			"trigger": "EncounterJournalSearchBoxSearchProgressBar_OnLoad\t(...)",
+			"contents": "EncounterJournalSearchBoxSearchProgressBar_OnLoad($1)$0",
+		},
+		{
+			"trigger": "EncounterJournalSearchBoxSearchProgressBar_OnShow\t(...)",
+			"contents": "EncounterJournalSearchBoxSearchProgressBar_OnShow($1)$0",
+		},
+		{
+			"trigger": "EncounterJournalSearchBoxSearchProgressBar_OnUpdate\t(...)",
+			"contents": "EncounterJournalSearchBoxSearchProgressBar_OnUpdate($1)$0",
+		},
+		{
+			"trigger": "EncounterJournalSearchBoxShowAllResults_OnEnter\t(...)",
+			"contents": "EncounterJournalSearchBoxShowAllResults_OnEnter($1)$0",
+		},
+		{
+			"trigger": "EncounterJournalTooltip_OnLoad\t(...)",
+			"contents": "EncounterJournalTooltip_OnLoad($1)$0",
+		},
+		{
+			"trigger": "EquipmentFlyout_ChangePage\t(...)",
+			"contents": "EquipmentFlyout_ChangePage($1)$0",
+		},
+		{
+			"trigger": "EquipmentFlyout_CreateButton\t(...)",
+			"contents": "EquipmentFlyout_CreateButton($1)$0",
+		},
+		{
+			"trigger": "EquipmentFlyout_DisplayButton\t(...)",
+			"contents": "EquipmentFlyout_DisplayButton($1)$0",
+		},
+		{
+			"trigger": "EquipmentFlyout_DisplaySpecialButton\t(...)",
+			"contents": "EquipmentFlyout_DisplaySpecialButton($1)$0",
+		},
+		{
+			"trigger": "EquipmentFlyout_OnEvent\t(...)",
+			"contents": "EquipmentFlyout_OnEvent($1)$0",
+		},
+		{
+			"trigger": "EquipmentFlyout_OnHide\t(...)",
+			"contents": "EquipmentFlyout_OnHide($1)$0",
+		},
+		{
+			"trigger": "EquipmentFlyout_OnLoad\t(...)",
+			"contents": "EquipmentFlyout_OnLoad($1)$0",
+		},
+		{
+			"trigger": "EquipmentFlyout_OnShow\t(...)",
+			"contents": "EquipmentFlyout_OnShow($1)$0",
+		},
+		{
+			"trigger": "EquipmentFlyout_OnUpdate\t(...)",
+			"contents": "EquipmentFlyout_OnUpdate($1)$0",
+		},
+		{
+			"trigger": "EquipmentFlyout_SetTooltipAnchor\t(...)",
+			"contents": "EquipmentFlyout_SetTooltipAnchor($1)$0",
+		},
+		{
+			"trigger": "EquipmentFlyout_Show\t(...)",
+			"contents": "EquipmentFlyout_Show($1)$0",
+		},
+		{
+			"trigger": "EquipmentFlyout_UpdateFlyout\t(...)",
+			"contents": "EquipmentFlyout_UpdateFlyout($1)$0",
+		},
+		{
+			"trigger": "EquipmentFlyout_UpdateItems\t(...)",
+			"contents": "EquipmentFlyout_UpdateItems($1)$0",
+		},
+		{
+			"trigger": "EquipmentFlyoutButton_OnClick\t(...)",
+			"contents": "EquipmentFlyoutButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "EquipmentFlyoutButton_OnEnter\t(...)",
+			"contents": "EquipmentFlyoutButton_OnEnter($1)$0",
+		},
+		{
+			"trigger": "EquipmentFlyoutButton_UpdateTooltip\t(...)",
+			"contents": "EquipmentFlyoutButton_UpdateTooltip($1)$0",
+		},
+		{
+			"trigger": "EquipmentFlyoutButton_UpdateTooltipAnchors\t(...)",
+			"contents": "EquipmentFlyoutButton_UpdateTooltipAnchors($1)$0",
+		},
+		{
+			"trigger": "EquipmentFlyoutPopoutButton_HideAll\t(...)",
+			"contents": "EquipmentFlyoutPopoutButton_HideAll($1)$0",
+		},
+		{
+			"trigger": "EquipmentFlyoutPopoutButton_OnClick\t(...)",
+			"contents": "EquipmentFlyoutPopoutButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "EquipmentFlyoutPopoutButton_OnLoad\t(...)",
+			"contents": "EquipmentFlyoutPopoutButton_OnLoad($1)$0",
+		},
+		{
+			"trigger": "EquipmentFlyoutPopoutButton_SetReversed\t(...)",
+			"contents": "EquipmentFlyoutPopoutButton_SetReversed($1)$0",
+		},
+		{
+			"trigger": "EquipmentFlyoutPopoutButton_ShowAll\t(...)",
+			"contents": "EquipmentFlyoutPopoutButton_ShowAll($1)$0",
+		},
+		{
+			"trigger": "EquipmentManager_EquipContainerItem\t(...)",
+			"contents": "EquipmentManager_EquipContainerItem($1)$0",
+		},
+		{
+			"trigger": "EquipmentManager_EquipInventoryItem\t(...)",
+			"contents": "EquipmentManager_EquipInventoryItem($1)$0",
+		},
+		{
+			"trigger": "EquipmentManager_EquipItemByLocation\t(...)",
+			"contents": "EquipmentManager_EquipItemByLocation($1)$0",
+		},
+		{
+			"trigger": "EquipmentManager_EquipSet\t(...)",
+			"contents": "EquipmentManager_EquipSet($1)$0",
+		},
+		{
+			"trigger": "EquipmentManager_GetItemInfoByLocation\t(...)",
+			"contents": "EquipmentManager_GetItemInfoByLocation($1)$0",
+		},
+		{
+			"trigger": "EquipmentManager_OnEvent\t(...)",
+			"contents": "EquipmentManager_OnEvent($1)$0",
+		},
+		{
+			"trigger": "EquipmentManager_PutItemInInventory\t(...)",
+			"contents": "EquipmentManager_PutItemInInventory($1)$0",
+		},
+		{
+			"trigger": "EquipmentManager_RunAction\t(...)",
+			"contents": "EquipmentManager_RunAction($1)$0",
+		},
+		{
+			"trigger": "EquipmentManager_UnequipItemInSlot\t(...)",
+			"contents": "EquipmentManager_UnequipItemInSlot($1)$0",
+		},
+		{
+			"trigger": "EquipmentManager_UpdateFreeBagSpace\t(...)",
+			"contents": "EquipmentManager_UpdateFreeBagSpace($1)$0",
+		},
+		{
+			"trigger": "EventTraceFrame_HandleSlashCmd\t(...)",
+			"contents": "EventTraceFrame_HandleSlashCmd($1)$0",
+		},
+		{
+			"trigger": "EventTraceFrame_OnEvent\t(...)",
+			"contents": "EventTraceFrame_OnEvent($1)$0",
+		},
+		{
+			"trigger": "EventTraceFrame_OnKeyUp\t(...)",
+			"contents": "EventTraceFrame_OnKeyUp($1)$0",
+		},
+		{
+			"trigger": "EventTraceFrame_OnLoad\t(...)",
+			"contents": "EventTraceFrame_OnLoad($1)$0",
+		},
+		{
+			"trigger": "EventTraceFrame_OnMouseWheel\t(...)",
+			"contents": "EventTraceFrame_OnMouseWheel($1)$0",
+		},
+		{
+			"trigger": "EventTraceFrame_OnShow\t(...)",
+			"contents": "EventTraceFrame_OnShow($1)$0",
+		},
+		{
+			"trigger": "EventTraceFrame_OnSizeChanged\t(...)",
+			"contents": "EventTraceFrame_OnSizeChanged($1)$0",
+		},
+		{
+			"trigger": "EventTraceFrame_OnUpdate\t(...)",
+			"contents": "EventTraceFrame_OnUpdate($1)$0",
+		},
+		{
+			"trigger": "EventTraceFrame_RemoveEvent\t(...)",
+			"contents": "EventTraceFrame_RemoveEvent($1)$0",
+		},
+		{
+			"trigger": "EventTraceFrame_StartEventCapture\t(...)",
+			"contents": "EventTraceFrame_StartEventCapture($1)$0",
+		},
+		{
+			"trigger": "EventTraceFrame_StopEventCapture\t(...)",
+			"contents": "EventTraceFrame_StopEventCapture($1)$0",
+		},
+		{
+			"trigger": "EventTraceFrame_Update\t(...)",
+			"contents": "EventTraceFrame_Update($1)$0",
+		},
+		{
+			"trigger": "EventTraceFrame_UpdateKeyboardStatus\t(...)",
+			"contents": "EventTraceFrame_UpdateKeyboardStatus($1)$0",
+		},
+		{
+			"trigger": "EventTraceFrameEvent_DisplayTooltip\t(...)",
+			"contents": "EventTraceFrameEvent_DisplayTooltip($1)$0",
+		},
+		{
+			"trigger": "EventTraceFrameEvent_OnClick\t(...)",
+			"contents": "EventTraceFrameEvent_OnClick($1)$0",
+		},
+		{
+			"trigger": "EventTraceFrameEvent_OnEnter\t(...)",
+			"contents": "EventTraceFrameEvent_OnEnter($1)$0",
+		},
+		{
+			"trigger": "EventTraceFrameEvent_OnLeave\t(...)",
+			"contents": "EventTraceFrameEvent_OnLeave($1)$0",
+		},
+		{
+			"trigger": "EventTraceFrameEventHideButton_OnClick\t(...)",
+			"contents": "EventTraceFrameEventHideButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "ExecuteVoidTransfer\t(...)",
+			"contents": "ExecuteVoidTransfer($1)$0",
+		},
+		{
+			"trigger": "ExhaustionTick_OnEvent\t(...)",
+			"contents": "ExhaustionTick_OnEvent($1)$0",
+		},
+		{
+			"trigger": "ExhaustionTick_OnLoad\t(...)",
+			"contents": "ExhaustionTick_OnLoad($1)$0",
+		},
+		{
+			"trigger": "ExhaustionTick_OnUpdate\t(...)",
+			"contents": "ExhaustionTick_OnUpdate($1)$0",
+		},
+		{
+			"trigger": "ExhaustionToolTipText\t(...)",
+			"contents": "ExhaustionToolTipText($1)$0",
+		},
+		{
+			"trigger": "ExpandWarGameHeader\t(...)",
+			"contents": "ExpandWarGameHeader($1)$0",
+		},
+		{
+			"trigger": "ExpBar_Update\t(...)",
+			"contents": "ExpBar_Update($1)$0",
+		},
+		{
+			"trigger": "ExtraActionBar_OnHide\t(...)",
+			"contents": "ExtraActionBar_OnHide($1)$0",
+		},
+		{
+			"trigger": "ExtraActionBar_OnLoad\t(...)",
+			"contents": "ExtraActionBar_OnLoad($1)$0",
+		},
+		{
+			"trigger": "ExtraActionBar_Update\t(...)",
+			"contents": "ExtraActionBar_Update($1)$0",
+		},
+		{
+			"trigger": "ExtraActionButtonKey\t(...)",
+			"contents": "ExtraActionButtonKey($1)$0",
+		},
+		{
+			"trigger": "EyeTemplate_OnUpdate\t(...)",
+			"contents": "EyeTemplate_OnUpdate($1)$0",
+		},
+		{
+			"trigger": "EyeTemplate_StartAnimating\t(...)",
+			"contents": "EyeTemplate_StartAnimating($1)$0",
+		},
+		{
+			"trigger": "EyeTemplate_StopAnimating\t(...)",
+			"contents": "EyeTemplate_StopAnimating($1)$0",
+		},
+		{
+			"trigger": "WorldMap_AddQuestTimeToTooltip\t(questID)",
+			"contents": "WorldMap_AddQuestTimeToTooltip(${1:questID})$0",
+		},
+		{
+			"trigger": "WorldMap_AddWorldQuestSuppression\t(questID)",
+			"contents": "WorldMap_AddWorldQuestSuppression(${1:questID})$0",
+		},
+		{
+			"trigger": "WorldMap_CreatePOI\t(index, isObjectIcon, atlasIcon)",
+			"contents": "WorldMap_CreatePOI(${1:index}, ${2:isObjectIcon}, ${3:atlasIcon})$0",
+		},
+		{
+			"trigger": "WorldMap_CreateScenarioPOI\t(index)",
+			"contents": "WorldMap_CreateScenarioPOI(${1:index})$0",
+		},
+		{
+			"trigger": "WorldMap_CreateWorldEffectPOI\t(index)",
+			"contents": "WorldMap_CreateWorldEffectPOI(${1:index})$0",
+		},
+		{
+			"trigger": "WorldMap_DoesLandMarkTypeShowHighlights\t(landmarkType)",
+			"contents": "WorldMap_DoesLandMarkTypeShowHighlights(${1:landmarkType})$0",
+		},
+		{
+			"trigger": "WorldMap_DoesWorldQuestInfoPassFilters\t(info, ignoreTypeFilters)",
+			"contents": "WorldMap_DoesWorldQuestInfoPassFilters(${1:info}, ${2:ignoreTypeFilters})$0",
+		},
+		{
+			"trigger": "WorldMap_DrawWorldEffects\t()",
+			"contents": "WorldMap_DrawWorldEffects()$0",
+		},
+		{
+			"trigger": "WorldMap_GetActiveTaskPOIForQuestID\t(questID)",
+			"contents": "WorldMap_GetActiveTaskPOIForQuestID(${1:questID})$0",
+		},
+		{
+			"trigger": "WorldMap_GetFrameLevelForLandmark\t(landmarkType)",
+			"contents": "WorldMap_GetFrameLevelForLandmark(${1:landmarkType})$0",
+		},
+		{
+			"trigger": "WorldMap_GetGraveyardButton\t(index)",
+			"contents": "WorldMap_GetGraveyardButton(${1:index})$0",
+		},
+		{
+			"trigger": "WorldMap_GetOrCreateTaskPOI\t(index)",
+			"contents": "WorldMap_GetOrCreateTaskPOI(${1:index})$0",
+		},
+		{
+			"trigger": "WorldMap_GetVehicleTexture\t(vehicleType, isPossessed)",
+			"contents": "WorldMap_GetVehicleTexture(${1:vehicleType}, ${2:isPossessed})$0",
+		},
+		{
+			"trigger": "WorldMap_GetWorldQuestRewardType\t(questID)",
+			"contents": "WorldMap_GetWorldQuestRewardType(${1:questID})$0",
+		},
+		{
+			"trigger": "WorldMap_HandleSpecialPOI\t(poiFrame, poiID)",
+			"contents": "WorldMap_HandleSpecialPOI(${1:poiFrame}, ${2:poiID})$0",
+		},
+		{
+			"trigger": "WorldMap_HandleThunderIslePOI\t(poiFrame, poiInfo)",
+			"contents": "WorldMap_HandleThunderIslePOI(${1:poiFrame}, ${2:poiInfo})$0",
+		},
+		{
+			"trigger": "WorldMap_HandleUnitClick\t(mouseOverUnits, mouseButton)",
+			"contents": "WorldMap_HandleUnitClick(${1:mouseOverUnits}, ${2:mouseButton})$0",
+		},
+		{
+			"trigger": "WorldMap_HijackTooltip\t(owner)",
+			"contents": "WorldMap_HijackTooltip(${1:owner})$0",
+		},
+		{
+			"trigger": "WorldMap_IsSpecialPOI\t(poiID)",
+			"contents": "WorldMap_IsSpecialPOI(${1:poiID})$0",
+		},
+		{
+			"trigger": "WorldMap_IsWorldQuestEffectivelyTracked\t(questID)",
+			"contents": "WorldMap_IsWorldQuestEffectivelyTracked(${1:questID})$0",
+		},
+		{
+			"trigger": "WorldMap_IsWorldQuestSuppressed\t(questID)",
+			"contents": "WorldMap_IsWorldQuestSuppressed(${1:questID})$0",
+		},
+		{
+			"trigger": "WorldMap_OnWorldQuestCompletedBySpell\t(questID)",
+			"contents": "WorldMap_OnWorldQuestCompletedBySpell(${1:questID})$0",
+		},
+		{
+			"trigger": "WorldMap_QuantizeWorldQuestPOIs\t(worldQuestPOIs)",
+			"contents": "WorldMap_QuantizeWorldQuestPOIs(${1:worldQuestPOIs})$0",
+		},
+		{
+			"trigger": "WorldMap_ResetPOI\t(button, isObjectIcon, atlasIcon)",
+			"contents": "WorldMap_ResetPOI(${1:button}, ${2:isObjectIcon}, ${3:atlasIcon})$0",
+		},
+		{
+			"trigger": "WorldMap_RestoreTooltip\t()",
+			"contents": "WorldMap_RestoreTooltip()$0",
+		},
+		{
+			"trigger": "WorldMap_SetupAreaPOIBannerTexture\t(texture, isObjectIcon, atlasIcon)",
+			"contents": "WorldMap_SetupAreaPOIBannerTexture(${1:texture}, ${2:isObjectIcon}, ${3:atlasIcon})$0",
+		},
+		{
+			"trigger": "WorldMap_SetupWorldQuestButton\t(button, worldQuestType, rarity, isElite, tradeskillLineIndex, inProgress, selected, isCriteria, isSpellTarget, isEffectivelyTracked)",
+			"contents": "WorldMap_SetupWorldQuestButton(${1:button}, ${2:worldQuestType}, ${3:rarity}, ${4:isElite}, ${5:tradeskillLineIndex}, ${6:inProgress}, ${7:selected}, ${8:isCriteria}, ${9:isSpellTarget}, ${10:isEffectivelyTracked})$0",
+		},
+		{
+			"trigger": "WorldMap_ShouldShowLandmark\t(landmarkType)",
+			"contents": "WorldMap_ShouldShowLandmark(${1:landmarkType})$0",
+		},
+		{
+			"trigger": "WorldMap_ThunderIslePOI_OnEnter\t(frame, poiInfo)",
+			"contents": "WorldMap_ThunderIslePOI_OnEnter(${1:frame}, ${2:poiInfo})$0",
+		},
+		{
+			"trigger": "WorldMap_ThunderIslePOI_OnLeave\t(frame, poiInfo)",
+			"contents": "WorldMap_ThunderIslePOI_OnLeave(${1:frame}, ${2:poiInfo})$0",
+		},
+		{
+			"trigger": "WorldMap_ToggleSizeDown\t()",
+			"contents": "WorldMap_ToggleSizeDown()$0",
+		},
+		{
+			"trigger": "WorldMap_ToggleSizeUp\t()",
+			"contents": "WorldMap_ToggleSizeUp()$0",
+		},
+		{
+			"trigger": "WorldMap_TryCreatingBonusObjectivePOI\t(info, taskIconIndex)",
+			"contents": "WorldMap_TryCreatingBonusObjectivePOI(${1:info}, ${2:taskIconIndex})$0",
+		},
+		{
+			"trigger": "WorldMap_TryCreatingWorldQuestPOI\t(info, taskIconIndex)",
+			"contents": "WorldMap_TryCreatingWorldQuestPOI(${1:info}, ${2:taskIconIndex})$0",
+		},
+		{
+			"trigger": "WorldMap_UpdateBattlefieldFlagScales\t()",
+			"contents": "WorldMap_UpdateBattlefieldFlagScales()$0",
+		},
+		{
+			"trigger": "WorldMap_UpdateBattlefieldFlagSizes\t(size)",
+			"contents": "WorldMap_UpdateBattlefieldFlagSizes(${1:size})$0",
+		},
+		{
+			"trigger": "WorldMap_UpdateLandmarks\t()",
+			"contents": "WorldMap_UpdateLandmarks()$0",
+		},
+		{
+			"trigger": "WorldMap_UpdateQuestBonusObjectives\t()",
+			"contents": "WorldMap_UpdateQuestBonusObjectives()$0",
+		},
+		{
+			"trigger": "WorldMapBlobFrame_DelayedUpdateBlobs\t()",
+			"contents": "WorldMapBlobFrame_DelayedUpdateBlobs()$0",
+		},
+		{
+			"trigger": "WorldMapBlobFrame_OnLoad\t(frame)",
+			"contents": "WorldMapBlobFrame_OnLoad(${1:frame})$0",
+		},
+		{
+			"trigger": "WorldMapBlobFrame_OnUpdate\t(frame)",
+			"contents": "WorldMapBlobFrame_OnUpdate(${1:frame})$0",
+		},
+		{
+			"trigger": "WorldMapBlobFrame_UpdateBlobs\t()",
+			"contents": "WorldMapBlobFrame_UpdateBlobs()$0",
+		},
+		{
+			"trigger": "WorldMapButton_OnClick\t(button, mouseButton)",
+			"contents": "WorldMapButton_OnClick(${1:button}, ${2:mouseButton})$0",
+		},
+		{
+			"trigger": "WorldMapButton_OnMouseDown\t(frame, button)",
+			"contents": "WorldMapButton_OnMouseDown(${1:frame}, ${2:button})$0",
+		},
+		{
+			"trigger": "WorldMapButton_OnMouseUp\t(frame, button)",
+			"contents": "WorldMapButton_OnMouseUp(${1:frame}, ${2:button})$0",
+		},
+		{
+			"trigger": "WorldMapButton_OnUpdate\t(frame, elapsed)",
+			"contents": "WorldMapButton_OnUpdate(${1:frame}, ${2:elapsed})$0",
+		},
+		{
+			"trigger": "WorldMapFakeButton_OnClick\t(button, mouseButton)",
+			"contents": "WorldMapFakeButton_OnClick(${1:button}, ${2:mouseButton})$0",
+		},
+		{
+			"trigger": "WorldMapFrame_AnimAlphaIn\t(frame, useStartDelay)",
+			"contents": "WorldMapFrame_AnimAlphaIn(${1:frame}, ${2:useStartDelay})$0",
+		},
+		{
+			"trigger": "WorldMapFrame_AnimAlphaOut\t(frame, useStartDelay)",
+			"contents": "WorldMapFrame_AnimAlphaOut(${1:frame}, ${2:useStartDelay})$0",
+		},
+		{
+			"trigger": "WorldMapFrame_AnimateAlpha\t(frame, useStartDelay, anim, otherAnim, startAlpha, endAlpha)",
+			"contents": "WorldMapFrame_AnimateAlpha(${1:frame}, ${2:useStartDelay}, ${3:anim}, ${4:otherAnim}, ${5:startAlpha}, ${6:endAlpha})$0",
+		},
+		{
+			"trigger": "WorldMapFrame_CalculateHitTranslations\t(frame)",
+			"contents": "WorldMapFrame_CalculateHitTranslations(${1:frame})$0",
+		},
+		{
+			"trigger": "WorldMapFrame_ClearAreaLabel\t(areaLabelType)",
+			"contents": "WorldMapFrame_ClearAreaLabel(${1:areaLabelType})$0",
+		},
+		{
+			"trigger": "WorldMapFrame_EvaluateAreaLabels\t()",
+			"contents": "WorldMapFrame_EvaluateAreaLabels()$0",
+		},
+		{
+			"trigger": "WorldMapFrame_InWindowedMode\t()",
+			"contents": "WorldMapFrame_InWindowedMode()$0",
+		},
+		{
+			"trigger": "WorldMapFrame_OnAreaPOIBannerVisibilityChanged\t(visible)",
+			"contents": "WorldMapFrame_OnAreaPOIBannerVisibilityChanged(${1:visible})$0",
+		},
+		{
+			"trigger": "WorldMapFrame_OnEvent\t(frame, event, ...)",
+			"contents": "WorldMapFrame_OnEvent(${1:frame}, ${2:event}, ${3:...})$0",
+		},
+		{
+			"trigger": "WorldMapFrame_OnHide\t(frame)",
+			"contents": "WorldMapFrame_OnHide(${1:frame})$0",
+		},
+		{
+			"trigger": "WorldMapFrame_OnInvasionLabelVisibilityChanged\t(visible)",
+			"contents": "WorldMapFrame_OnInvasionLabelVisibilityChanged(${1:visible})$0",
+		},
+		{
+			"trigger": "WorldMapFrame_OnKeyDown\t(frame, key)",
+			"contents": "WorldMapFrame_OnKeyDown(${1:frame}, ${2:key})$0",
+		},
+		{
+			"trigger": "WorldMapFrame_OnLoad\t(frame)",
+			"contents": "WorldMapFrame_OnLoad(${1:frame})$0",
+		},
+		{
+			"trigger": "WorldMapFrame_OnShow\t(frame)",
+			"contents": "WorldMapFrame_OnShow(${1:frame})$0",
+		},
+		{
+			"trigger": "WorldMapFrame_OnUpdate\t(frame, elapsed)",
+			"contents": "WorldMapFrame_OnUpdate(${1:frame}, ${2:elapsed})$0",
+		},
+		{
+			"trigger": "WorldMapFrame_OnUserChangedSuperTrackedQuest\t(questID)",
+			"contents": "WorldMapFrame_OnUserChangedSuperTrackedQuest(${1:questID})$0",
+		},
+		{
+			"trigger": "WorldMapFrame_POITooltipUpdate\t(frame, tooltipOwner)",
+			"contents": "WorldMapFrame_POITooltipUpdate(${1:frame}, ${2:tooltipOwner})$0",
+		},
+		{
+			"trigger": "WorldMapFrame_ResetPOIHitTranslations\t()",
+			"contents": "WorldMapFrame_ResetPOIHitTranslations()$0",
+		},
+		{
+			"trigger": "WorldMapFrame_ResetQuestColors\t()",
+			"contents": "WorldMapFrame_ResetQuestColors()$0",
+		},
+		{
+			"trigger": "WorldMapFrame_SetAreaLabel\t(areaLabelType, name, description, nameColor, descriptionColor, callback)",
+			"contents": "WorldMapFrame_SetAreaLabel(${1:areaLabelType}, \"${2:name}\", \"${3:description}\", ${4:nameColor}, ${5:descriptionColor}, ${6:callback})$0",
+		},
+		{
+			"trigger": "WorldMapFrame_SetBonusObjectivesDirty\t()",
+			"contents": "WorldMapFrame_SetBonusObjectivesDirty()$0",
+		},
+		{
+			"trigger": "WorldMapFrame_SetOverlayLocation\t(frame, location)",
+			"contents": "WorldMapFrame_SetOverlayLocation(${1:frame}, ${2:location})$0",
+		},
+		{
+			"trigger": "WorldMapFrame_ToggleTutorial\t()",
+			"contents": "WorldMapFrame_ToggleTutorial()$0",
+		},
+		{
+			"trigger": "WorldMapFrame_ToggleWindowSize\t()",
+			"contents": "WorldMapFrame_ToggleWindowSize()$0",
+		},
+		{
+			"trigger": "WorldMapFrame_Update\t()",
+			"contents": "WorldMapFrame_Update()$0",
+		},
+		{
+			"trigger": "WorldMapFrame_UpdateInvasion\t()",
+			"contents": "WorldMapFrame_UpdateInvasion()$0",
+		},
+		{
+			"trigger": "WorldMapFrame_UpdateMap\t()",
+			"contents": "WorldMapFrame_UpdateMap()$0",
+		},
+		{
+			"trigger": "WorldMapFrame_UpdateOverlayLocations\t()",
+			"contents": "WorldMapFrame_UpdateOverlayLocations()$0",
+		},
+		{
+			"trigger": "WorldMapLevelButton_OnClick\t(frame)",
+			"contents": "WorldMapLevelButton_OnClick(${1:frame})$0",
+		},
+		{
+			"trigger": "WorldMapLevelDropDown_Initialize\t()",
+			"contents": "WorldMapLevelDropDown_Initialize()$0",
+		},
+		{
+			"trigger": "WorldMapLevelDropDown_Update\t()",
+			"contents": "WorldMapLevelDropDown_Update()$0",
+		},
+		{
+			"trigger": "WorldMapNavBar_GetSibling\t(frame, index)",
+			"contents": "WorldMapNavBar_GetSibling(${1:frame}, ${2:index})$0",
+		},
+		{
+			"trigger": "WorldMapNavBar_LoadSiblings\t(parentID, isContinent, doSort, ...)",
+			"contents": "WorldMapNavBar_LoadSiblings(${1:parentID}, ${2:isContinent}, ${3:doSort}, ${4:...})$0",
+		},
+		{
+			"trigger": "WorldMapNavBar_OnButtonSelect\t(frame, button)",
+			"contents": "WorldMapNavBar_OnButtonSelect(${1:frame}, ${2:button})$0",
+		},
+		{
+			"trigger": "WorldMapNavBar_SelectSibling\t(frame, index, navBar)",
+			"contents": "WorldMapNavBar_SelectSibling(${1:frame}, ${2:index}, ${3:navBar})$0",
+		},
+		{
+			"trigger": "WorldMapNavBar_SortSiblings\t(map1, map2)",
+			"contents": "WorldMapNavBar_SortSiblings(${1:map1}, ${2:map2})$0",
+		},
+		{
+			"trigger": "WorldMapNavBar_Update\t()",
+			"contents": "WorldMapNavBar_Update()$0",
+		},
+		{
+			"trigger": "WorldMapPing_StartPingQuest\t(questID)",
+			"contents": "WorldMapPing_StartPingQuest(${1:questID})$0",
+		},
+		{
+			"trigger": "WorldMapPing_StopPing\t(frame)",
+			"contents": "WorldMapPing_StopPing(${1:frame})$0",
+		},
+		{
+			"trigger": "WorldMapPing_UpdatePing\t(frame, contextData)",
+			"contents": "WorldMapPing_UpdatePing(${1:frame}, ${2:contextData})$0",
+		},
+		{
+			"trigger": "WorldMapPOI_AddContributionsToTooltip\t(tooltip, ...)",
+			"contents": "WorldMapPOI_AddContributionsToTooltip(${1:tooltip}, ${2:...})$0",
+		},
+		{
+			"trigger": "WorldMapPOI_OnClick\t(frame, button)",
+			"contents": "WorldMapPOI_OnClick(${1:frame}, ${2:button})$0",
+		},
+		{
+			"trigger": "WorldMapPOI_OnEnter\t(frame)",
+			"contents": "WorldMapPOI_OnEnter(${1:frame})$0",
+		},
+		{
+			"trigger": "WorldMapPOI_OnLeave\t(frame)",
+			"contents": "WorldMapPOI_OnLeave(${1:frame})$0",
+		},
+		{
+			"trigger": "WorldMapPOI_ShouldShowAreaLabel\t(poi)",
+			"contents": "WorldMapPOI_ShouldShowAreaLabel(${1:poi})$0",
+		},
+		{
+			"trigger": "WorldMapPOIButton_Init\t(frame)",
+			"contents": "WorldMapPOIButton_Init(${1:frame})$0",
+		},
+		{
+			"trigger": "WorldMapPOIButton_OnEnter\t(frame)",
+			"contents": "WorldMapPOIButton_OnEnter(${1:frame})$0",
+		},
+		{
+			"trigger": "WorldMapPOIButton_OnLeave\t(frame)",
+			"contents": "WorldMapPOIButton_OnLeave(${1:frame})$0",
+		},
+		{
+			"trigger": "WorldMapPOIFrame_AnchorPOI\t(poiButton, posX, posY, frameLevelOffset)",
+			"contents": "WorldMapPOIFrame_AnchorPOI(${1:poiButton}, ${2:posX}, ${3:posY}, ${4:frameLevelOffset})$0",
+		},
+		{
+			"trigger": "WorldMapPOIFrame_SelectPOI\t(questID)",
+			"contents": "WorldMapPOIFrame_SelectPOI(${1:questID})$0",
+		},
+		{
+			"trigger": "WorldMapPOIFrame_Update\t(poiTable)",
+			"contents": "WorldMapPOIFrame_Update(${1:poiTable})$0",
+		},
+		{
+			"trigger": "WorldMapQuestPOI_AppendTooltip\t(poiButton, questLogIndex)",
+			"contents": "WorldMapQuestPOI_AppendTooltip(${1:poiButton}, ${2:questLogIndex})$0",
+		},
+		{
+			"trigger": "WorldMapQuestPOI_SetTooltip\t(poiButton, questLogIndex, numObjectives)",
+			"contents": "WorldMapQuestPOI_SetTooltip(${1:poiButton}, ${2:questLogIndex}, ${3:numObjectives})$0",
+		},
+		{
+			"trigger": "WorldMapScenarioPOI_SetTooltip\t(frame)",
+			"contents": "WorldMapScenarioPOI_SetTooltip(${1:frame})$0",
+		},
+		{
+			"trigger": "WorldMapScrollFrame_OnMouseWheel\t(frame, delta)",
+			"contents": "WorldMapScrollFrame_OnMouseWheel(${1:frame}, ${2:delta})$0",
+		},
+		{
+			"trigger": "WorldMapScrollFrame_OnPan\t(cursorX, cursorY)",
+			"contents": "WorldMapScrollFrame_OnPan(${1:cursorX}, ${2:cursorY})$0",
+		},
+		{
+			"trigger": "WorldMapScrollFrame_ReanchorQuestPOIs\t()",
+			"contents": "WorldMapScrollFrame_ReanchorQuestPOIs()$0",
+		},
+		{
+			"trigger": "WorldMapScrollFrame_ResetZoom\t()",
+			"contents": "WorldMapScrollFrame_ResetZoom()$0",
+		},
+		{
+			"trigger": "WorldMapTitleButton_OnClick\t(frame, button)",
+			"contents": "WorldMapTitleButton_OnClick(${1:frame}, ${2:button})$0",
+		},
+		{
+			"trigger": "WorldMapTitleButton_OnDragStart\t()",
+			"contents": "WorldMapTitleButton_OnDragStart()$0",
+		},
+		{
+			"trigger": "WorldMapTitleButton_OnDragStop\t()",
+			"contents": "WorldMapTitleButton_OnDragStop()$0",
+		},
+		{
+			"trigger": "WorldMapTitleButton_OnLoad\t(frame)",
+			"contents": "WorldMapTitleButton_OnLoad(${1:frame})$0",
+		},
+		{
+			"trigger": "WorldMapTitleDropDown_Initialize\t()",
+			"contents": "WorldMapTitleDropDown_Initialize()$0",
+		},
+		{
+			"trigger": "WorldMapTitleDropDown_ResetPosition\t()",
+			"contents": "WorldMapTitleDropDown_ResetPosition()$0",
+		},
+		{
+			"trigger": "WorldMapTitleDropDown_ToggleLock\t()",
+			"contents": "WorldMapTitleDropDown_ToggleLock()$0",
+		},
+		{
+			"trigger": "WorldMapTrackingOptionsDropDown_Initialize\t()",
+			"contents": "WorldMapTrackingOptionsDropDown_Initialize()$0",
+		},
+		{
+			"trigger": "WorldMapTrackingOptionsDropDown_OnClick\t(frame)",
+			"contents": "WorldMapTrackingOptionsDropDown_OnClick(${1:frame})$0",
+		},
+		{
+			"trigger": "WorldMapUnit_OnEnter\t(frame, motion)",
+			"contents": "WorldMapUnit_OnEnter(${1:frame}, ${2:motion})$0",
+		},
+		{
+			"trigger": "WorldMapUnit_OnLeave\t(frame, motion)",
+			"contents": "WorldMapUnit_OnLeave(${1:frame}, ${2:motion})$0",
+		},
+		{
+			"trigger": "WorldMapUnitDropDown_Initialize\t()",
+			"contents": "WorldMapUnitDropDown_Initialize()$0",
+		},
+		{
+			"trigger": "WorldMapUnitDropDown_OnClick\t(frame, unit)",
+			"contents": "WorldMapUnitDropDown_OnClick(${1:frame}, \"${2:unit}\")$0",
+		},
+		{
+			"trigger": "WorldMapUnitDropDown_ReportAll_OnClick\t()",
+			"contents": "WorldMapUnitDropDown_ReportAll_OnClick()$0",
+		},
+		{
+			"trigger": "WorldMapZoomOutButton_OnClick\t()",
+			"contents": "WorldMapZoomOutButton_OnClick()$0",
+		},
+		{
+			"trigger": "WorldQuestCompleteAlertFrame_Coalesce\t(frame, questID, rewardItemLink, texture)",
+			"contents": "WorldQuestCompleteAlertFrame_Coalesce(${1:frame}, ${2:questID}, ${3:rewardItemLink}, ${4:texture})$0",
+		},
+		{
+			"trigger": "WorldQuestCompleteAlertFrame_GetIconForQuestID\t(questID)",
+			"contents": "WorldQuestCompleteAlertFrame_GetIconForQuestID(${1:questID})$0",
+		},
+		{
+			"trigger": "WorldQuestCompleteAlertFrame_SetUp\t(frame, questData)",
+			"contents": "WorldQuestCompleteAlertFrame_SetUp(${1:frame}, ${2:questData})$0",
+		},
+		{
+			"trigger": "WorldStateAlwaysUpFrame_AddFrame\t(alwaysUpShown, text, icon, dynamicIcon, dynamicTooltip, state)",
+			"contents": "WorldStateAlwaysUpFrame_AddFrame(${1:alwaysUpShown}, \"${2:text}\", ${3:icon}, ${4:dynamicIcon}, ${5:dynamicTooltip}, ${6:state})$0",
+		},
+		{
+			"trigger": "WorldStateAlwaysUpFrame_FilterChatMsgSystem\t(frame, event, ...)",
+			"contents": "WorldStateAlwaysUpFrame_FilterChatMsgSystem(${1:frame}, \"${2:event}\", ${3:...})$0",
+		},
+		{
+			"trigger": "WorldStateAlwaysUpFrame_OnEvent\t(frame, event, ...)",
+			"contents": "WorldStateAlwaysUpFrame_OnEvent(${1:frame}, \"${2:event}\", ${3:...})$0",
+		},
+		{
+			"trigger": "WorldStateAlwaysUpFrame_OnLoad\t(frame)",
+			"contents": "WorldStateAlwaysUpFrame_OnLoad(${1:frame})$0",
+		},
+		{
+			"trigger": "WorldStateAlwaysUpFrame_OnUpdate\t(frame, elapsed)",
+			"contents": "WorldStateAlwaysUpFrame_OnUpdate(${1:frame}, ${2:elapsed})$0",
+		},
+		{
+			"trigger": "WorldStateAlwaysUpFrame_StartBGChatFilter\t(frame)",
+			"contents": "WorldStateAlwaysUpFrame_StartBGChatFilter(${1:frame})$0",
+		},
+		{
+			"trigger": "WorldStateAlwaysUpFrame_StopBGChatFilter\t(frame)",
+			"contents": "WorldStateAlwaysUpFrame_StopBGChatFilter(${1:frame})$0",
+		},
+		{
+			"trigger": "WorldStateAlwaysUpFrame_Update\t()",
+			"contents": "WorldStateAlwaysUpFrame_Update()$0",
+		},
+		{
+			"trigger": "WorldStateButtonDropDown_Initialize\t()",
+			"contents": "WorldStateButtonDropDown_Initialize()$0",
+		},
+		{
+			"trigger": "WorldStateFrame_CanShowBattlefieldMinimap\t()",
+			"contents": "WorldStateFrame_CanShowBattlefieldMinimap()$0",
+		},
+		{
+			"trigger": "WorldStateFrame_ToggleBattlefieldMinimap\t()",
+			"contents": "WorldStateFrame_ToggleBattlefieldMinimap()$0",
+		},
+		{
+			"trigger": "WorldStateScoreFrame_OnClose\t(frame)",
+			"contents": "WorldStateScoreFrame_OnClose(${1:frame})$0",
+		},
+		{
+			"trigger": "WorldStateScoreFrame_OnHide\t(frame)",
+			"contents": "WorldStateScoreFrame_OnHide(${1:frame})$0",
+		},
+		{
+			"trigger": "WorldStateScoreFrame_OnLoad\t(frame)",
+			"contents": "WorldStateScoreFrame_OnLoad(${1:frame})$0",
+		},
+		{
+			"trigger": "WorldStateScoreFrame_Resize\t()",
+			"contents": "WorldStateScoreFrame_Resize()$0",
+		},
+		{
+			"trigger": "WorldStateScoreFrame_ShowWorldStateButtonDropDown\t(frame, name, battlefieldScoreIndex)",
+			"contents": "WorldStateScoreFrame_ShowWorldStateButtonDropDown(${1:frame}, \"${2:name}\", ${3:battlefieldScoreIndex})$0",
+		},
+		{
+			"trigger": "WorldStateScoreFrame_Update\t()",
+			"contents": "WorldStateScoreFrame_Update()$0",
+		},
+		{
+			"trigger": "WorldStateScoreFrameTab_OnClick\t(tab)",
+			"contents": "WorldStateScoreFrameTab_OnClick(${1:tab})$0",
+		},
+		{
+			"trigger": "WowToken_IsWowTokenAuctionDialogShown\t()",
+			"contents": "WowToken_IsWowTokenAuctionDialogShown()$0",
+		},
+		{
+			"trigger": "WowTokenRedemptionFrame_EscapePressed\t()",
+			"contents": "WowTokenRedemptionFrame_EscapePressed()$0",
+		},
+		{
+			"trigger": "WowTokenRedemptionFrame_GetBalanceString\t()",
+			"contents": "WowTokenRedemptionFrame_GetBalanceString()$0",
+		},
+		{
+			"trigger": "ZoneAbilityFrame_OnEvent\t(frame, event)",
+			"contents": "ZoneAbilityFrame_OnEvent(${1:frame}, \"${2:event}\")$0",
+		},
+		{
+			"trigger": "ZoneAbilityFrame_OnHide\t(frame)",
+			"contents": "ZoneAbilityFrame_OnHide(${1:frame})$0",
+		},
+		{
+			"trigger": "ZoneAbilityFrame_OnLoad\t(frame)",
+			"contents": "ZoneAbilityFrame_OnLoad(${1:frame})$0",
+		},
+		{
+			"trigger": "ZoneAbilityFrame_OnShow\t(frame)",
+			"contents": "ZoneAbilityFrame_OnShow(${1:frame})$0",
+		},
+		{
+			"trigger": "ZoneAbilityFrame_Update\t(frame)",
+			"contents": "ZoneAbilityFrame_Update(${1:frame})$0",
+		},
+		{
+			"trigger": "ZoneText_Clear\t()",
+			"contents": "ZoneText_Clear()$0",
+		},
+		{
+			"trigger": "ZoneText_OnEvent\t(frame, event, ...)",
+			"contents": "ZoneText_OnEvent(${1:frame}, \"${2:event}\", ${3:...})$0",
+		},
+		{
+			"trigger": "ZoneText_OnLoad\t(frame)",
+			"contents": "ZoneText_OnLoad(${1:frame})$0",
+		},
+		{
+			"trigger": "_WorldMap_DoesLandMarkTypeShowHighlights\t(landmarkType)",
+			"contents": "${1:result} = WorldMap_DoesLandMarkTypeShowHighlights(${2:landmarkType})$0",
+		},
+		{
+			"trigger": "_WorldMap_DoesWorldQuestInfoPassFilters\t(info, ignoreTypeFilters)",
+			"contents": "${1:result} = WorldMap_DoesWorldQuestInfoPassFilters(${2:info}, ${3:ignoreTypeFilters})$0",
+		},
+		{
+			"trigger": "_WorldMap_GetActiveTaskPOIForQuestID\t(questID)",
+			"contents": "${1:taskPOI} = WorldMap_GetActiveTaskPOIForQuestID(${2:questID})$0",
+		},
+		{
+			"trigger": "_WorldMap_GetFrameLevelForLandmark\t(landmarkType)",
+			"contents": "${1:frameLevel} = WorldMap_GetFrameLevelForLandmark(${2:landmarkType})$0",
+		},
+		{
+			"trigger": "_WorldMap_GetGraveyardButton\t(index)",
+			"contents": "${1:button} = WorldMap_GetGraveyardButton(${2:index})$0",
+		},
+		{
+			"trigger": "_WorldMap_GetOrCreateTaskPOI\t(index)",
+			"contents": "${1:button} = WorldMap_GetOrCreateTaskPOI(${2:index})$0",
+		},
+		{
+			"trigger": "_WorldMap_GetVehicleTexture\t(vehicleType, isPossessed)",
+			"contents": "${1:vehicle} = WorldMap_GetVehicleTexture(${2:vehicleType}, ${3:isPossessed})$0",
+		},
+		{
+			"trigger": "_WorldMap_HandleUnitClick\t(mouseOverUnits, mouseButton)",
+			"contents": "${1:result} = WorldMap_HandleUnitClick(${2:mouseOverUnits}, ${3:mouseButton})$0",
+		},
+		{
+			"trigger": "_WorldMap_IsSpecialPOI\t(poiID)",
+			"contents": "${1:result} = WorldMap_IsSpecialPOI(${2:poiID})$0",
+		},
+		{
+			"trigger": "_WorldMap_IsWorldQuestEffectivelyTracked\t(questID)",
+			"contents": "${1:result} = WorldMap_IsWorldQuestEffectivelyTracked(${2:questID})$0",
+		},
+		{
+			"trigger": "_WorldMap_IsWorldQuestSuppressed\t(questID)",
+			"contents": "${1:result} = WorldMap_IsWorldQuestSuppressed(${2:questID})$0",
+		},
+		{
+			"trigger": "_WorldMapFrame_InWindowedMode\t()",
+			"contents": "${1:result} = WorldMapFrame_InWindowedMode()$0",
+		},
+		{
+			"trigger": "_WorldMapNavBar_GetSibling\t(frame, index)",
+			"contents": "${1:sibling} = WorldMapNavBar_GetSibling(${2:frame}, ${3:index})$0",
+		},
+		{
+			"trigger": "_WorldMapPOI_ShouldShowAreaLabel\t(poi)",
+			"contents": "${1:result} = WorldMapPOI_ShouldShowAreaLabel(${2:poi})$0",
+		},
+		{
+			"trigger": "_WorldQuestCompleteAlertFrame_Coalesce\t(frame, questID, rewardItemLink, texture)",
+			"contents": "${1:result} = WorldQuestCompleteAlertFrame_Coalesce(${2:frame}, ${3:questID}, ${4:rewardItemLink}, ${5:texture})$0",
+		},
+		{
+			"trigger": "_WorldStateAlwaysUpFrame_AddFrame\t(alwaysUpShown, text, icon, dynamicIcon, dynamicTooltip, state)",
+			"contents": "${1:frame} = WorldStateAlwaysUpFrame_AddFrame(${2:alwaysUpShown}, \"${3:text}\", ${4:icon}, ${5:dynamicIcon}, ${6:dynamicTooltip}, ${7:state})$0",
+		},
+		{
+			"trigger": "_WorldStateAlwaysUpFrame_FilterChatMsgSystem\t(frame, event, ...)",
+			"contents": "${1:filtered} = WorldStateAlwaysUpFrame_FilterChatMsgSystem(${2:frame}, \"${3:event}\", ${4:...})$0",
+		},
+		{
+			"trigger": "_WorldStateFrame_CanShowBattlefieldMinimap\t()",
+			"contents": "${1:showBattlefieldMinimap} = WorldStateFrame_CanShowBattlefieldMinimap()$0",
+		},
+		{
+			"trigger": "_WorldStateScoreFrame_Resize\t()",
+			"contents": "${1:width} = WorldStateScoreFrame_Resize()$0",
+		},
+		{
+			"trigger": "_WowToken_IsWowTokenAuctionDialogShown\t()",
+			"contents": "${1:isAuctionDialogShown} = WowToken_IsWowTokenAuctionDialogShown()$0",
+		},
+		{
+			"trigger": "_WowTokenRedemptionFrame_EscapePressed\t()",
+			"contents": "${1:escapeResult} = WowTokenRedemptionFrame_EscapePressed()$0",
+		},
+		{
+			"trigger": "_WowTokenRedemptionFrame_GetBalanceString\t()",
+			"contents": "${1:balanceString} = WowTokenRedemptionFrame_GetBalanceString()$0",
+		},
+	]
+}

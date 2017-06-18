@@ -1,0 +1,77 @@
+{
+	"scope": "source.lua - keyword.control.lua - constant.language.lua - string",
+	"completions": [
+		{
+			"trigger": "CHAT_SHOW_IME\tfalse",
+			"contents": "CHAT_SHOW_IME",
+		},
+		{
+			"trigger": "CUF_SHOW_BORDER\ttrue",
+			"contents": "CUF_SHOW_BORDER",
+		},
+		{
+			"trigger": "DEVTOOLS_USE_FUNCTION_CACHE\ttrue",
+			"contents": "DEVTOOLS_USE_FUNCTION_CACHE",
+		},
+		{
+			"trigger": "DEVTOOLS_USE_TABLE_CACHE\ttrue",
+			"contents": "DEVTOOLS_USE_TABLE_CACHE",
+		},
+		{
+			"trigger": "DEVTOOLS_USE_USERDATA_CACHE\ttrue",
+			"contents": "DEVTOOLS_USE_USERDATA_CACHE",
+		},
+		{
+			"trigger": "FOCUS_FRAME_LOCKED\ttrue",
+			"contents": "FOCUS_FRAME_LOCKED",
+		},
+		{
+			"trigger": "GAMETIME_AM\ttrue",
+			"contents": "GAMETIME_AM",
+		},
+		{
+			"trigger": "GAMETIME_PM\tfalse",
+			"contents": "GAMETIME_PM",
+		},
+		{
+			"trigger": "LOCALE_enGB\ttrue",
+			"contents": "LOCALE_enGB",
+		},
+		{
+			"trigger": "MINIMAP_RECORDING_INDICATOR_ON\tfalse",
+			"contents": "MINIMAP_RECORDING_INDICATOR_ON",
+		},
+		{
+			"trigger": "PLAYER_FRAME_UNLOCKED\tfalse",
+			"contents": "PLAYER_FRAME_UNLOCKED",
+		},
+		{
+			"trigger": "RAID_BORDERS_SHOWN\ttrue",
+			"contents": "RAID_BORDERS_SHOWN",
+		},
+		{
+			"trigger": "RUNICGLOW_FINISHTHROBANDHIDE\tfalse",
+			"contents": "RUNICGLOW_FINISHTHROBANDHIDE",
+		},
+		{
+			"trigger": "SHOWED_LFG_PULSE\tfalse",
+			"contents": "SHOWED_LFG_PULSE",
+		},
+		{
+			"trigger": "TARGET_FRAME_UNLOCKED\tfalse",
+			"contents": "TARGET_FRAME_UNLOCKED",
+		},
+		{
+			"trigger": "TUTORIAL_QUEST_ACCEPTED\tfalse",
+			"contents": "TUTORIAL_QUEST_ACCEPTED",
+		},
+		{
+			"trigger": "UNIT_POSITION_FRAME_DEFAULT_SHOULD_SHOW_UNITS\ttrue",
+			"contents": "UNIT_POSITION_FRAME_DEFAULT_SHOULD_SHOW_UNITS",
+		},
+		{
+			"trigger": "UNIT_POSITION_FRAME_DEFAULT_USE_CLASS_COLOR\ttrue",
+			"contents": "UNIT_POSITION_FRAME_DEFAULT_USE_CLASS_COLOR",
+		},
+	]
+}
