@@ -210,6 +210,34 @@
 			"contents": "AreInvasionsAvailable()$0",
 		},
 		{
+			"trigger": "AreTalentsLocked\t()",
+			"contents": "AreTalentsLocked()$0",
+		},
+		{
+			"trigger": "AreVector2DEqual\t(left, right)",
+			"contents": "AreVector2DEqual(${1:left}, ${2:right})$0",
+		},
+		{
+			"trigger": "AreVector3DEqual\t(left, right)",
+			"contents": "AreVector3DEqual(${1:left}, ${2:right})$0",
+		},
+		{
+			"trigger": "AscendStop\t()",
+			"contents": "AscendStop()$0",
+		},
+		{
+			"trigger": "AssistUnit\t(\"unit\")",
+			"contents": "AssistUnit(\"${1:unit}\")$0",
+		},
+		{
+			"trigger": "AttachGlyphToSpell\t(spellID)",
+			"contents": "AttachGlyphToSpell(${1:spellID})$0",
+		},
+		{
+			"trigger": "AttackTarget\t()",
+			"contents": "AttackTarget()$0",
+		},
+		{
 			"trigger": "BankButtonIDToInvSlotID\t(buttonID, [isBag])",
 			"contents": "BankButtonIDToInvSlotID(${1:buttonID}, ${2:[isBag]})$0",
 		},
@@ -1374,24 +1402,180 @@
 			"contents": "DropItemOnUnit(\"${1:unit}\")$0",
 		},
 		{
+			"trigger": "EasyMenu\t(menuList, menuFrame, anchor, x, y, \"displayMode\", autoHideDelay)",
+			"contents": "EasyMenu(${1:menuList}, ${2:menuFrame}, ${3:anchor}, ${4:x}, ${5:y}, \"${6:displayMode}\", ${7:autoHideDelay})$0",
+		},
+		{
 			"trigger": "EditMacro\t(index, \"name\", \"iconTexture\", \"body\")",
 			"contents": "EditMacro(${1:index}, \"${2:name}\", \"${3:iconTexture}\", \"${4:body}\")$0",
+		},
+		{
+			"trigger": "EnableSpellAutocast\t(spell)",
+			"contents": "EnableSpellAutocast(\"${1:spell}\")$0",
 		},
 		{
 			"trigger": "EjectPassengerFromSeat\t(seat)",
 			"contents": "EjectPassengerFromSeat(${1:seat})$0",
 		},
 		{
+			"trigger": "EJ_ClearSearch\t()",
+			"contents": "EJ_ClearSearch()$0",
+		},
+		{
+			"trigger": "EJ_EndSearch\t()",
+			"contents": "EJ_EndSearch()$0",
+		},
+		{
+			"trigger": "EJ_GetCreatureInfo\t(index, [encounterID])",
+			"contents": "EJ_GetCreatureInfo(${1:index}, ${2:[encounterID]})$0",
+		},
+		{
+			"trigger": "EJ_GetCurrentInstance\t()",
+			"contents": "EJ_GetCurrentInstance()$0",
+		},
+		{
+			"trigger": "EJ_GetCurrentTier\t()",
+			"contents": "EJ_GetCurrentTier()$0",
+		},
+		{
+			"trigger": "EJ_GetDifficulty\t()",
+			"contents": "EJ_GetDifficulty()$0",
+		},
+		{
 			"trigger": "EJ_GetEncounterInfo\t(encounterID)",
 			"contents": "EJ_GetEncounterInfo(${1:encounterID})$0",
+		},
+		{
+			"trigger": "EJ_GetEncounterInfoByIndex\t(index, [instanceID])",
+			"contents": "EJ_GetEncounterInfoByIndex(${1:index}, ${2:[instanceID]})$0",
+		},
+		{
+			"trigger": "EJ_GetInstanceByIndex\t(index, isRaid)",
+			"contents": "EJ_GetInstanceByIndex(${1:index}, ${2:isRaid})$0",
 		},
 		{
 			"trigger": "EJ_GetInstanceInfo\t(instanceID)",
 			"contents": "EJ_GetInstanceInfo(${1:instanceID})$0",
 		},
 		{
+			"trigger": "EJ_GetInvTypeSortOrder\t(invType)",
+			"contents": "EJ_GetInvTypeSortOrder(${1:invType})$0",
+		},
+		{
+			"trigger": "EJ_GetLootFilter\t()",
+			"contents": "EJ_GetLootFilter()$0",
+		},
+		{
+			"trigger": "EJ_GetLootInfo\t(lootID)",
+			"contents": "EJ_GetLootInfo(${1:lootID})$0",
+		},
+		{
+			"trigger": "EJ_GetLootInfoByIndex\t(index)",
+			"contents": "EJ_GetLootInfoByIndex(${1:index})$0",
+		},
+		{
+			"trigger": "EJ_GetMapEncounter\t(index)",
+			"contents": "EJ_GetMapEncounter(${1:index})$0",
+		},
+		{
+			"trigger": "EJ_GetNumEncountersForLootByIndex\t(index)",
+			"contents": "EJ_GetNumEncountersForLootByIndex(${1:index})$0",
+		},
+		{
+			"trigger": "EJ_GetNumLoot\t()",
+			"contents": "EJ_GetNumLoot()$0",
+		},
+		{
+			"trigger": "EJ_GetNumSearchResults\t()",
+			"contents": "EJ_GetNumSearchResults()$0",
+		},
+		{
+			"trigger": "EJ_GetNumTiers\t()",
+			"contents": "EJ_GetNumTiers()$0",
+		},
+		{
+			"trigger": "EJ_GetSearchProgress\t()",
+			"contents": "EJ_GetSearchProgress()$0",
+		},
+		{
+			"trigger": "EJ_GetSearchResult\t(index)",
+			"contents": "EJ_GetSearchResult(${1:index})$0",
+		},
+		{
+			"trigger": "EJ_GetSearchSize\t()",
+			"contents": "EJ_GetSearchSize()$0",
+		},
+		{
 			"trigger": "EJ_GetSectionInfo\t(sectionID)",
 			"contents": "EJ_GetSectionInfo(${1:sectionID})$0",
+		},
+		{
+			"trigger": "EJ_GetSectionPath\t(sectionID)",
+			"contents": "EJ_GetSectionPath(${1:sectionID})$0",
+		},
+		{
+			"trigger": "EJ_GetSlotFilter\t()",
+			"contents": "EJ_GetSlotFilter()$0",
+		},
+		{
+			"trigger": "EJ_GetTierInfo\t(index)",
+			"contents": "EJ_GetTierInfo(${1:index})$0",
+		},
+		{
+			"trigger": "EJ_HandleLinkPath\t(jtype, id)",
+			"contents": "EJ_HandleLinkPath(${1:jtype}, ${2:id})$0",
+		},
+		{
+			"trigger": "EJ_InstanceIsRaid\t()",
+			"contents": "EJ_InstanceIsRaid()$0",
+		},
+		{
+			"trigger": "EJ_IsLootListOutOfDate\t()",
+			"contents": "EJ_IsLootListOutOfDate()$0",
+		},
+		{
+			"trigger": "EJ_IsSearchFinished\t()",
+			"contents": "EJ_IsSearchFinished()$0",
+		},
+		{
+			"trigger": "EJ_IsValidInstanceDifficulty\t(difficultyID)",
+			"contents": "EJ_IsValidInstanceDifficulty(${1:difficultyID})$0",
+		},
+		{
+			"trigger": "EJ_ResetLootFilter\t()",
+			"contents": "EJ_ResetLootFilter()$0",
+		},
+		{
+			"trigger": "EJ_ResetSlotFilter\t()",
+			"contents": "EJ_ResetSlotFilter()$0",
+		},
+		{
+			"trigger": "EJ_SelectEncounter\t(encounterID)",
+			"contents": "EJ_SelectEncounter(${1:encounterID})$0",
+		},
+		{
+			"trigger": "EJ_SelectInstance\t(instanceID)",
+			"contents": "EJ_SelectInstance(${1:instanceID})$0",
+		},
+		{
+			"trigger": "EJ_SelectTier\t(tier)",
+			"contents": "EJ_SelectTier(${1:tier})$0",
+		},
+		{
+			"trigger": "EJ_SetDifficulty\t(difficultyID)",
+			"contents": "EJ_SetDifficulty(${1:difficultyID})$0",
+		},
+		{
+			"trigger": "EJ_SetLootFilter\t(classID, specID)",
+			"contents": "EJ_SetLootFilter(${1:classID}, ${2:specID})$0",
+		},
+		{
+			"trigger": "EJ_SetSearch\t(text)",
+			"contents": "EJ_SetSearch(\"${1:text}\")$0",
+		},
+		{
+			"trigger": "EJ_SetSlotFilter\t(slot)",
+			"contents": "EJ_SetSlotFilter(${1:slot})$0",
 		},
 		{
 			"trigger": "EnableAddOn\t(index)",
@@ -6739,7 +6923,7 @@
 		},
 		{
 			"trigger": "_AntiAliasingSupported\t()",
-			"contents": "${1:fxaa}, ${1:cmaa} = AntiAliasingSupported()$0",
+			"contents": "${1:fxaa}, ${2:cmaa} = AntiAliasingSupported()$0",
 		},
 		{
 			"trigger": "_ArcheologyGetVisibleBlobID\t(index)",
@@ -6751,7 +6935,7 @@
 		},
 		{
 			"trigger": "_AreColorsEqual\t(left, right)",
-			"contents": "${1:isEqual} = AreColorsEqual(${1:left}, ${2:right})$0",
+			"contents": "${1:isEqual} = AreColorsEqual(${2:left}, ${3:right})$0",
 		},
 		{
 			"trigger": "_AreDangerousScriptsAllowed\t()",
@@ -6760,6 +6944,18 @@
 		{
 			"trigger": "_AreInvasionsAvailable\t()",
 			"contents": "${1:isAvailable} = AreInvasionsAvailable()$0",
+		},
+		{
+			"trigger": "_AreTalentsLocked\t()",
+			"contents": "${1:isLocked} = AreTalentsLocked()$0",
+		},
+		{
+			"trigger": "_AreVector2DEqual\t(left, right)",
+			"contents": "${1:isEqual} = AreVector2DEqual(${2:left}, ${3:right})$0",
+		},
+		{
+			"trigger": "_AreVector3DEqual\t(left, right)",
+			"contents": "${1:isEqual} = AreVector3DEqual(${2:left}, ${3:right})$0",
 		},
 		{
 			"trigger": "_ArchaeologyMapUpdateAll\t()",
@@ -7230,16 +7426,120 @@
 			"contents": "${1:newIndex} = EditMacro(${2:index}, \"${3:name}\", \"${4:iconTexture}\", \"${5:body}\")$0",
 		},
 		{
+			"trigger": "_EJ_GetCreatureInfo\t(index, [encounterID])",
+			"contents": "${1:id}, ${2:name}, ${3:description}, ${4:displayInfo}, ${5:iconImage} = EJ_GetCreatureInfo(${6:index}, ${7:[encounterID]})$0",
+		},
+		{
+			"trigger": "_EJ_GetCurrentInstance\t()",
+			"contents": "${1:instanceID} = EJ_GetCurrentInstance()$0",
+		},
+		{
+			"trigger": "_EJ_GetCurrentTier\t()",
+			"contents": "${1:index} = EJ_GetCurrentTier()$0",
+		},
+		{
+			"trigger": "_EJ_GetDifficulty\t()",
+			"contents": "${1:difficulty} = EJ_GetDifficulty()$0",
+		},
+		{
 			"trigger": "_EJ_GetEncounterInfo\t(encounterID)",
 			"contents": "${1:name}, ${2:description}, ${3:encounterID}, ${4:firstSection}, ${5:encounterLink} = EJ_GetEncounterInfo(${6:encounterID})$0",
+		},
+		{
+			"trigger": "_EJ_GetEncounterInfoByIndex\t(index, [instanceID])",
+			"contents": "${1:name}, ${2:description}, ${3:encounterID}, ${4:rootSectionID}, ${5:link} = EJ_GetEncounterInfoByIndex(${6:index}, ${7:[instanceID]})$0",
+		},
+		{
+			"trigger": "_EJ_GetInstanceByIndex\t(index, isRaid)",
+			"contents": "${1:instanceID}, ${2:name}, ${3:description}, ${4:bgImage}, ${5:buttonImage}, ${6:loreImage}, ${7:dungeonAreaMapID}, ${8:link} = EJ_GetInstanceByIndex(${9:index}, ${10:isRaid})$0",
 		},
 		{
 			"trigger": "_EJ_GetInstanceInfo\t(instanceID)",
 			"contents": "${1:instanceName}, ${2:instanceDesc}, ${3:backgroundTexture}, ${4:buttonTexture}, ${5:titleBackground}, ${6:mapID}, ${7:instanceLink} = EJ_GetInstanceInfo(${8:instanceID})$0",
 		},
 		{
+			"trigger": "_EJ_GetInvTypeSortOrder\t(invType)",
+			"contents": "${1:sortOrder} = EJ_GetInvTypeSortOrder(${2:invType})$0",
+		},
+		{
+			"trigger": "_EJ_GetLootFilter\t()",
+			"contents": "${1:classID}, ${2:specID} = EJ_GetLootFilter()$0",
+		},
+		{
+			"trigger": "_EJ_GetLootInfo\t(lootID)",
+			"contents": "${1:name}, ${2:icon}, ${3:slot}, ${4:armorType}, ${5:itemID}, ${6:link}, ${7:encounterID} = EJ_GetLootInfo(${8:lootID})$0",
+		},
+		{
+			"trigger": "_EJ_GetLootInfoByIndex\t(index)",
+			"contents": "${1:name}, ${2:icon}, ${3:slot}, ${4:armorType}, ${5:itemID}, ${6:link}, ${7:encounterID} = EJ_GetLootInfoByIndex(${8:index})$0",
+		},
+		{
+			"trigger": "_EJ_GetMapEncounter\t(index)",
+			"contents": "${1:x}, ${2:y}, ${3:instanceID}, ${4:name}, ${5:description}, ${6:encounterID}, ${7:rootSectionID}, ${8:link} = EJ_GetMapEncounter(${9:index})$0",
+		},
+		{
+			"trigger": "_EJ_GetNumEncountersForLootByIndex\t(index)",
+			"contents": "${1:numEncounter} = EJ_GetNumEncountersForLootByIndex(${2:index})$0",
+		},
+		{
+			"trigger": "_EJ_GetNumLoot\t()",
+			"contents": "${1:numLoot} = EJ_GetNumLoot()$0",
+		},
+		{
+			"trigger": "_EJ_GetNumSearchResults\t()",
+			"contents": "${1:numResults} = EJ_GetNumSearchResults()$0",
+		},
+		{
+			"trigger": "_EJ_GetNumTiers\t()",
+			"contents": "${1:numTiers} = EJ_GetNumTiers()$0",
+		},
+		{
+			"trigger": "_EJ_GetSearchProgress\t()",
+			"contents": "${1:searchProgress} = EJ_GetSearchProgress()$0",
+		},
+		{
+			"trigger": "_EJ_GetSearchResult\t(index)",
+			"contents": "${1:id}, ${2:stype}, ${3:difficulty}, ${4:instanceID}, ${5:encounterID}, ${6:link} = EJ_GetSearchResult(${7:index})$0",
+		},
+		{
+			"trigger": "_EJ_GetSearchSize\t()",
+			"contents": "${1:searchSize} = EJ_GetSearchSize()$0",
+		},
+		{
 			"trigger": "_EJ_GetSectionInfo\t(sectionID)",
 			"contents": "${1:name}, ${2:description}, ${3:headerType}, ${4:abilityIcon}, ${5:displayInfo}, ${6:siblingID}, ${7:nextSectionID}, ${8:fileredByDifficulty}, ${9:sectionLink}, ${10:startsOpen}, ${11:flag1}, ${12:flag2}, ${13:flag3}, ${14:flag4} = EJ_GetSectionInfo(${15:sectionID})$0",
+		},
+		{
+			"trigger": "_EJ_GetSectionPath\t(sectionID)",
+			"contents": "${1:sectionID}, ${2:parentSectionID} = EJ_GetSectionPath(${3:sectionID})$0",
+		},
+		{
+			"trigger": "_EJ_GetSlotFilter\t()",
+			"contents": "${1:slotFilter} = EJ_GetSlotFilter()$0",
+		},
+		{
+			"trigger": "_EJ_GetTierInfo\t(index)",
+			"contents": "${1:name}, ${2:link} = EJ_GetTierInfo(${3:index})$0",
+		},
+		{
+			"trigger": "_EJ_HandleLinkPath\t(jtype, id)",
+			"contents": "${1:instanceID}, ${2:encounterID}, ${3:sectionID} = EJ_HandleLinkPath(${4:jtype}, ${5:id})$0",
+		},
+		{
+			"trigger": "_EJ_InstanceIsRaid\t()",
+			"contents": "${1:isRaid} = EJ_InstanceIsRaid()$0",
+		},
+		{
+			"trigger": "_EJ_IsLootListOutOfDate\t()",
+			"contents": "${1:isLootListOutOfDate} = EJ_IsLootListOutOfDate()$0",
+		},
+		{
+			"trigger": "_EJ_IsSearchFinished\t()",
+			"contents": "${1:isSearchFinished} = EJ_IsSearchFinished()$0",
+		},
+		{
+			"trigger": "_EJ_IsValidInstanceDifficulty\t(difficultyID)",
+			"contents": "${1:isValidInstanceDifficulty} = EJ_IsValidInstanceDifficulty(${2:difficultyID})$0",
 		},
 		{
 			"trigger": "_EnumerateFrames\t([currentFrame])",
@@ -9363,11 +9663,11 @@
 		},
 		{
 			"trigger": "_GetSpellBookItemInfo\t(index, \"bookType\")",
-			"contents": "${1:skillType}, ${2:spellId} = GetSpellBookItemInfo(${3:index}, \"${4:bookType}\")$0",
+			"contents": "${1:skillType}, ${2:spellID} = GetSpellBookItemInfo(${3:index}, \"${4:bookType}\")$0",
 		},
 		{
 			"trigger": "_GetSpellBookItemInfo\t(\"spellName\")",
-			"contents": "${1:skillType}, ${2:spellId} = GetSpellBookItemInfo(\"${3:spellName}\")$0",
+			"contents": "${1:skillType}, ${2:spellID} = GetSpellBookItemInfo(\"${3:spellName}\")$0",
 		},
 		{
 			"trigger": "_GetSpellBookItemName\t(index, \"bookType\")",
