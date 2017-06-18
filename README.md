@@ -3,7 +3,7 @@ World of Warcraft Syntax Highlight and Auto-Completion for Sublime Text 2/3.
 
 # Features:
 
-* Full API sytax highlighting for lua, xml and toc files
+* Full API syntax highlighting for lua, xml and toc files.
 * Global finder build system, which finds any global variables with detailed information for the current lua file.
 
 # Installation:
