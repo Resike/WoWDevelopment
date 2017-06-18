@@ -13,8 +13,8 @@ World of Warcraft Syntax Highlight and Auto-Completion for Sublime Text 2/3.
 The autocomplete is based on scopes, so no settings are neccessary.
 
 Ignored globals:
-* Global Functions: *Reference\API Reference\API Reference (blizzard).sublime-completions.txt*
-* Global Booleans: *Reference\Global Reference\Global Booleans.sublime-completions.txt*
-* Global Numbers: *Reference\Global Reference\Global Numbers.sublime-completions.txt*
+* Global Functions: *Reference\API Reference\API Reference (blizzard).txt*
+* Global Booleans: *Reference\Global Reference\Global Booleans.txt*
+* Global Numbers: *Reference\Global Reference\Global Numbers.txt*
 
 If you would like to enable autocomplete for these, just change the *.txt* extension to: *.sublime-completions*.
