@@ -7,10 +7,15 @@ World of Warcraft Syntax Highlight and Auto-Completion for Sublime Text 2/3.
 * Global finder build system, which finds any global variables with detailed information for the current lua file.
 
 # Installation:
-* Download the package, unzip it (remove the -master suffix), and copy the folder into your Sublime Text 2/3 Packages folder.
+* Download the package, unzip it then remove the *-master* suffix, and copy the folder into your Sublime Text 2/3 Packages folder.
 * Open any of the supported file and set the syntax for the selected file: WoWDevelopment -> WoW Lua, WoW TOC, WoW XML.
 
 The autocomplete is based on scopes, so no settings are neccessary.
+
+How to highlight globals with SublimeLinter:
+* First install the package SublimeLinter.
+* Then add the path to luacheck to yout system PATH table, or the path in the Sublime Linter settings:
+*c:\Users\UserName\AppData\Roaming\Sublime Text 3\Packages\WoWDevelopment\WoW Global Finder\*
 
 Ignored globals:
 * Global Functions: *Reference\API Reference\API Reference (blizzard).txt*

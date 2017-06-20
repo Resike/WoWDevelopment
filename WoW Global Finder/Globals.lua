@@ -38,21 +38,23 @@ local stdin = io.input()
 
 local source = assert(io.open(arg[1]))
 
-
 -- First we parse the source file
 
 local funcNames = {}
 local GLOBALS = {}
 local SETGLOBALfile = true
 local SETGLOBALfunc = true
-local GETGLOBALfile = false
+local GETGLOBALfile = true
 local GETGLOBALfunc = true
 
 local n = 0
 
 while true do
 	local lin = source:read()
-	if not lin then break end
+	if not lin then
+		break
+	end
+
 	n = n + 1
 
 	-- Lamely try to find all function headers and remember the line they were on. Yes, you can fool this. You can also shoot yourself in the foot. Either way it doesn't matter hugely, it's just to prettify the output.
@@ -108,6 +110,7 @@ end
 
 local curfunc
 local lastfuncprinted
+local x = 0
 
 local function printone(lin)
 	local globalName = strmatch(lin, "\t; (.+)%s*")
@@ -116,46 +119,52 @@ local function printone(lin)
 	end
 
 	if curfunc ~= lastfuncprinted then
-		local from,to = strmatch(curfunc, "function <[^:]*:(%d+),(%d+)")
+		local from, to = strmatch(curfunc, "function <[^:]*:(%d+),(%d+)")
 		from = tonumber(from)
 		if from and funcNames[from] then
-			print(funcNames[from],strmatch(curfunc, "<.*"))
+			print(funcNames[from], strmatch(curfunc, "<.*"))
 		else
 			print(curfunc)
 		end
 		lastfuncprinted = curfunc
 	end
-	lin = gsub(lin, "%d+\t(%[%d+%])", "%1")	-- "23 [234]"  -> "[234]"   (strip the byte offset, we're not interested in it)
+	lin = gsub(lin, "%d+\t(%[%d+%])", "%1")	-- "23	[234]" -> "[234]"	(strip the byte offset, we're not interested in it)
 	print(lin)
+	x = x + 1
 end
 
-
--- Loop the compiled output, looking for GETGLOBAL, SETGLOBAL, etc..
+-- Loop the compiled output, looking for GETGLOBAL, SETGLOBAL, etc...
 
 local nSource = 0
 local funcScope = false
 
 while true do
 	local lin = stdin:read()
-	if not lin then break end
+	if not lin then
+		break
+	end
 
-	if strmatch(lin,"^main <") then
+	if strmatch(lin, "^main <") then
 		curfunc = lin
 		funcScope = false
 	elseif strmatch(lin,"^function <") then
 		curfunc = lin
 		funcScope = true
-	elseif strmatch(lin,"SETGLOBAL\t") then
+	elseif strmatch(lin, "SETGLOBAL\t") then
 		if funcScope and SETGLOBALfunc then
 			printone(lin)
 		elseif not funcScope and SETGLOBALfile then
 			printone(lin)
 		end
-	elseif strmatch(lin,"GETGLOBAL\t") then
+	elseif strmatch(lin, "GETGLOBAL\t") then
 		if funcScope and GETGLOBALfunc then
 			printone(lin)
 		elseif not funcScope and GETGLOBALfile then
 			printone(lin)
 		end
 	end
+end
+
+if x > 0 then
+	print("\n\tFound "..x.." globals in "..n.." lines.")
 end
