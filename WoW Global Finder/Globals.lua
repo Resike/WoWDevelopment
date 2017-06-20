@@ -111,6 +111,7 @@ end
 local curfunc
 local lastfuncprinted
 local x = 0
+local f = 0
 
 local function printone(lin)
 	local globalName = strmatch(lin, "\t; (.+)%s*")
@@ -127,6 +128,7 @@ local function printone(lin)
 			print(curfunc)
 		end
 		lastfuncprinted = curfunc
+		f = f + 1
 	end
 	lin = gsub(lin, "%d+\t(%[%d+%])", "%1")	-- "23	[234]" -> "[234]"	(strip the byte offset, we're not interested in it)
 	print(lin)
@@ -166,5 +168,5 @@ while true do
 end
 
 if x > 0 then
-	print("\n\tFound "..x.." globals in "..n.." lines.")
+	print("\n\tFound "..x.." globals and "..f.." functions in "..n.." lines.")
 end
