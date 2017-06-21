@@ -7926,8 +7926,20 @@
 			"contents": "LE_TOKEN_CHOICE_SUBSCRIPTION",
 		},
 		{
+			"trigger": "LE_TOKEN_REDEEM_TYPE_BALANCE\t2",
+			"contents": "LE_TOKEN_REDEEM_TYPE_BALANCE",
+		},
+		{
+			"trigger": "LE_TOKEN_REDEEM_TYPE_GAME_TIME\t1",
+			"contents": "LE_TOKEN_REDEEM_TYPE_GAME_TIME",
+		},
+		{
 			"trigger": "LE_TOKEN_RESULT_ERROR_AUCTIONABLE_TOKEN_OWNED\t8",
 			"contents": "LE_TOKEN_RESULT_ERROR_AUCTIONABLE_TOKEN_OWNED",
+		},
+		{
+			"trigger": "LE_TOKEN_RESULT_ERROR_BALANCE_NEAR_CAP\t10",
+			"contents": "LE_TOKEN_RESULT_ERROR_BALANCE_NEAR_CAP",
 		},
 		{
 			"trigger": "LE_TOKEN_RESULT_ERROR_DISABLED\t2",
