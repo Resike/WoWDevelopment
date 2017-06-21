@@ -4934,8 +4934,16 @@
 			"contents": "ItemTextPrevPage()$0",
 		},
 		{
+			"trigger": "JoinArena\t()",
+			"contents": "JoinArena()$0",
+		},
+		{
 			"trigger": "JoinBattlefield\t(index, asGroup)",
 			"contents": "JoinBattlefield(${1:index}, ${2:asGroup})$0",
+		},
+		{
+			"trigger": "JoinChannelByName\t(\"channelName\", [\"password\"], [frameID], [hasVoice])",
+			"contents": "JoinChannelByName(\"${1:channelName}\", ${2:[\"password\"]}, ${3:[frameID]}, ${4:[hasVoice]})$0",
 		},
 		{
 			"trigger": "JoinLFG\t()",
@@ -4946,8 +4954,24 @@
 			"contents": "JoinPermanentChannel(\"${1:name}\", ${2:[\"password\"]}, ${3:[chatFrameIndex]}, ${4:[enableVoice]})$0",
 		},
 		{
+			"trigger": "JoinRatedBattlefield\t()",
+			"contents": "JoinRatedBattlefield()$0",
+		},
+		{
+			"trigger": "JoinSingleLFG\t(lfgType, lfgID)",
+			"contents": "JoinSingleLFG(${1:lfgType}, ${2:lfgID})$0",
+		},
+		{
+			"trigger": "JoinSkirmish\t(arenaID, joinAsGroup)",
+			"contents": "JoinSkirmish(${1:arenaID}, ${2:joinAsGroup})$0",
+		},
+		{
 			"trigger": "JoinTemporaryChannel\t(\"channel\")",
 			"contents": "JoinTemporaryChannel(\"${1:channel}\")$0",
+		},
+		{
+			"trigger": "JumpOrAscendStart\t()",
+			"contents": "JumpOrAscendStart()$0",
 		},
 		{
 			"trigger": "KBArticle_BeginLoading\t(articleID, searchType)",
@@ -5042,6 +5066,22 @@
 			"contents": "LearnTalent(${1:tabIndex}, ${2:talentIndex}, ${3:isPet}, ${4:talentGroup})$0",
 		},
 		{
+			"trigger": "LearnPvpTalent\t(talentID)",
+			"contents": "LearnPvpTalent(${1:talentID})$0",
+		},
+		{
+			"trigger": "LearnPvpTalents\t(talentID1, talentID2, ...)",
+			"contents": "LearnPvpTalents(${1:talentID}1, ${2:talentID2}, ${3:...})$0",
+		},
+		{
+			"trigger": "LearnTalents\t(tabIndex, talentIndex)",
+			"contents": "LearnTalents(${1:tabIndex}, ${2:talentIndex})$0",
+		},
+		{
+			"trigger": "LeaveSingleLFG\t(lfgType, lfgID)",
+			"contents": "LeaveSingleLFG(${1:lfgType}, ${2:lfgID})$0",
+		},
+		{
 			"trigger": "LeaveBattlefield\t()",
 			"contents": "LeaveBattlefield()$0",
 		},
@@ -5058,8 +5098,52 @@
 			"contents": "LeaveParty()$0",
 		},
 		{
+			"trigger": "Lerp\t(startValue, endValue, interval)",
+			"contents": "Lerp(${1:startValue}, ${2:endValue}, ${3:interval})$0",
+		},
+		{
+			"trigger": "LFDCheckRolesRestricted\t(dungeonID, tank, healer, dps)",
+			"contents": "LFDCheckRolesRestricted(${1:dungeonID}, ${2:tank}, ${3:healer}, ${4:dps})$0",
+		},
+		{
+			"trigger": "LFDGetNumDungeons\t()",
+			"contents": "LFDGetNumDungeons()$0",
+		},
+		{
+			"trigger": "LFGConstructDeclinedMessage\t(dungeonID)",
+			"contents": "LFGConstructDeclinedMessage(${1:dungeonID})$0",
+		},
+		{
+			"trigger": "LFGDebug\t(\"text\", ...)",
+			"contents": "LFGDebug(\"${1:text}\", ${2:...})$0",
+		},
+		{
+			"trigger": "LFGIsIDHeader\t(id)",
+			"contents": "LFGIsIDHeader(${1:id})$0",
+		},
+		{
+			"trigger": "LFGListFilterChoices\t(list, filterFunc, filterMaxLevelDiff)",
+			"contents": "LFGListFilterChoices(${1:list}, ${2:filterFunc}, ${3:filterMaxLevelDiff})$0",
+		},
+		{
+			"trigger": "LFGListRemoveCollapsedChildren\t(list, hiddenByCollapseList)",
+			"contents": "LFGListRemoveCollapsedChildren(${1:list}, ${2:hiddenByCollapseList})$0",
+		},
+		{
+			"trigger": "LFGListRemoveHeadersWithoutChildren\t(list)",
+			"contents": "LFGListRemoveHeadersWithoutChildren(${1:list})$0",
+		},
+		{
+			"trigger": "LFGListUpdateHeaderEnabledAndLockedStates\t(...)",
+			"contents": "LFGListUpdateHeaderEnabledAndLockedStates($1)$0",
+		},
+		{
 			"trigger": "LFGTeleport\t(portOut)",
 			"contents": "LFGTeleport(${1:portOut})$0",
+		},
+		{
+			"trigger": "LFRGetNumDungeons\t()",
+			"contents": "LFRGetNumDungeons()$0",
 		},
 		{
 			"trigger": "ListChannelByName\t(\"channel\")",
@@ -5086,6 +5170,34 @@
 			"contents": "LoadBindings(${1:set})$0",
 		},
 		{
+			"trigger": "LoadMicroButtonTextures\t(frame, \"name\")",
+			"contents": "LoadMicroButtonTextures(${1:frame}, \"${2:name}\")$0",
+		},
+		{
+			"trigger": "LoadURLIndex\t(index)",
+			"contents": "LoadURLIndex(${1:index})$0",
+		},
+		{
+			"trigger": "Localize\t()",
+			"contents": "Localize()$0",
+		},
+		{
+			"trigger": "LocalizeFrames\t()",
+			"contents": "LocalizeFrames()$0",
+		},
+		{
+			"trigger": "LocalizePost\t()",
+			"contents": "LocalizePost()$0",
+		},
+		{
+			"trigger": "LockMultiCastActionBar\t()",
+			"contents": "LockMultiCastActionBar()$0",
+		},
+		{
+			"trigger": "LockPetActionBar\t()",
+			"contents": "LockPetActionBar()$0",
+		},
+		{
 			"trigger": "LoggingChat\t(toggle)",
 			"contents": "LoggingChat(${1:toggle})$0",
 		},
@@ -5098,8 +5210,20 @@
 			"contents": "Logout()$0",
 		},
 		{
+			"trigger": "LootMoneyNotify\t(amount, shared)",
+			"contents": "LootMoneyNotify(${1:amount}, ${2:[shared]})$0",
+		},
+		{
 			"trigger": "LootSlot\t(slot)",
 			"contents": "LootSlot(${1:slot})$0",
+		},
+		{
+			"trigger": "LootSlotHasItem\t(slot)",
+			"contents": "LootSlotHasItem(${1:slot})$0",
+		},
+		{
+			"trigger": "LowerFrameLevel\t(frame)",
+			"contents": "LowerFrameLevel(${1:frame})$0",
 		},
 		{
 			"trigger": "ModifyEquipmentSet\t(\"oldSetName\", \"newSetName\", [icon])",
@@ -10625,6 +10749,10 @@
 			"trigger": "_ItemTextHasNextPage\t()",
 			"contents": "${1:next} = ItemTextHasNextPage()$0",
 		},
+		 {
+			"trigger": "_JoinChannelByName\t(\"channelName\", [\"password\"], [frameID], [hasVoice])",
+			"contents": "${1:type}, ${2:name} = JoinChannelByName(\"${3:channelName}\", ${4:[\"password\"]}, ${5:[frameID]}, ${6:[hasVoice]})$0",
+		},
 		{
 			"trigger": "_JoinPermanentChannel\t(\"name\", [\"password\"], [chatFrameIndex], [enableVoice])",
 			"contents": "${1:zoneChannel}, ${2:channelName} = JoinPermanentChannel(\"${3:name}\", ${4:[\"password\"]}, ${5:[chatFrameIndex]}, ${6:[enableVoice]})$0",
@@ -10706,6 +10834,30 @@
 			"contents": "${1:statusMessage} = KBSystem_GetServerStatus()$0",
 		},
 		{
+			"trigger": "_Lerp\t(startValue, endValue, interval)",
+			"contents": "${1:result} = Lerp(${2:startValue}, ${3:endValue}, ${4:interval})$0",
+		},
+		{
+			"trigger": "_LFDCheckRolesRestricted\t(dungeonID, tank, healer, dps)",
+			"contents": "${1:isRestricted} = LFDCheckRolesRestricted(${1:dungeonID}, ${2:tank}, ${3:healer}, ${4:dps})$0",
+		},
+		{
+			"trigger": "_LFDGetNumDungeons\t()",
+			"contents": "${1:numDungeons} = LFDGetNumDungeons()$0",
+		},
+		{
+			"trigger": "_LFGConstructDeclinedMessage\t(dungeonID)",
+			"contents": "${1:returnVal} = LFGConstructDeclinedMessage(${2:dungeonID})$0",
+		},
+		{
+			"trigger": "_LFGIsIDHeader\t(id)",
+			"contents": "${1:result} = LFGIsIDHeader(${2:id})$0",
+		},
+		{
+			"trigger": "_LFRGetNumDungeons\t()",
+			"contents": "${1:numDungeons} = LFRGetNumDungeons()$0",
+		},
+		{
 			"trigger": "_LoadAddOn\t(index)",
 			"contents": "${1:loaded}, ${2:reason} = LoadAddOn(${3:index})$0",
 		},
@@ -10720,6 +10872,10 @@
 		{
 			"trigger": "_LoggingCombat\t(toggle)",
 			"contents": "${1:isLogging} = LoggingCombat(${2:toggle})$0",
+		},
+		{
+			"trigger": "_LootSlotHasItem\t(slot)",
+			"contents": "${1:hasItem} = LootSlotHasItem(${2:slot})$0",
 		},
 		{
 			"trigger": "_NoPlayTime\t()",

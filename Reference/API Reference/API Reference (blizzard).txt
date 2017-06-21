@@ -2726,6 +2726,1862 @@
 			"contents": "EyeTemplate_StopAnimating($1)$0",
 		},
 		{
+			"trigger": "KeyBindingButton_OnClick\t(...)",
+			"contents": "KeyBindingButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "KeyBindingFrame_ChangeBindingProfile\t(...)",
+			"contents": "KeyBindingFrame_ChangeBindingProfile($1)$0",
+		},
+		{
+			"trigger": "KeyBindingFrame_LoadCategories\t(...)",
+			"contents": "KeyBindingFrame_LoadCategories($1)$0",
+		},
+		{
+			"trigger": "KeyBindingFrame_LoadKeyBindingButtons\t(...)",
+			"contents": "KeyBindingFrame_LoadKeyBindingButtons($1)$0",
+		},
+		{
+			"trigger": "KeyBindingFrame_LoadUI\t(...)",
+			"contents": "KeyBindingFrame_LoadUI($1)$0",
+		},
+		{
+			"trigger": "KeyBindingFrame_OnEvent\t(...)",
+			"contents": "KeyBindingFrame_OnEvent($1)$0",
+		},
+		{
+			"trigger": "KeyBindingFrame_OnHide\t(...)",
+			"contents": "KeyBindingFrame_OnHide($1)$0",
+		},
+		{
+			"trigger": "KeyBindingFrame_OnKeyDown\t(...)",
+			"contents": "KeyBindingFrame_OnKeyDown($1)$0",
+		},
+		{
+			"trigger": "KeyBindingFrame_OnLoad\t(...)",
+			"contents": "KeyBindingFrame_OnLoad($1)$0",
+		},
+		{
+			"trigger": "KeyBindingFrame_OnMouseWheel\t(...)",
+			"contents": "KeyBindingFrame_OnMouseWheel($1)$0",
+		},
+		{
+			"trigger": "KeyBindingFrame_OnShow\t(...)",
+			"contents": "KeyBindingFrame_OnShow($1)$0",
+		},
+		{
+			"trigger": "KeyBindingFrame_ResetBindingsToDefault\t(...)",
+			"contents": "KeyBindingFrame_ResetBindingsToDefault($1)$0",
+		},
+		{
+			"trigger": "KeyBindingFrame_SetBinding\t(...)",
+			"contents": "KeyBindingFrame_SetBinding($1)$0",
+		},
+		{
+			"trigger": "KeyBindingFrame_SetSelected\t(...)",
+			"contents": "KeyBindingFrame_SetSelected($1)$0",
+		},
+		{
+			"trigger": "KeyBindingFrame_UnbindKey\t(...)",
+			"contents": "KeyBindingFrame_UnbindKey($1)$0",
+		},
+		{
+			"trigger": "KeyBindingFrame_Update\t(...)",
+			"contents": "KeyBindingFrame_Update($1)$0",
+		},
+		{
+			"trigger": "KeyBindingFrame_UpdateHeaderText\t(...)",
+			"contents": "KeyBindingFrame_UpdateHeaderText($1)$0",
+		},
+		{
+			"trigger": "KeyBindingFrame_UpdateUnbindKey\t(...)",
+			"contents": "KeyBindingFrame_UpdateUnbindKey($1)$0",
+		},
+		{
+			"trigger": "KeybindingsCategoryListButton_OnClick\t(...)",
+			"contents": "KeybindingsCategoryListButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "KnowledgeBase_ArticleOnClick\t(...)",
+			"contents": "KnowledgeBase_ArticleOnClick($1)$0",
+		},
+		{
+			"trigger": "KnowledgeBase_Clearlist\t(...)",
+			"contents": "KnowledgeBase_Clearlist($1)$0",
+		},
+		{
+			"trigger": "KnowledgeBase_ClearSearch\t(...)",
+			"contents": "KnowledgeBase_ClearSearch($1)$0",
+		},
+		{
+			"trigger": "KnowledgeBase_DisplayCategories\t(...)",
+			"contents": "KnowledgeBase_DisplayCategories($1)$0",
+		},
+		{
+			"trigger": "KnowledgeBase_DisplaySubCategories\t(...)",
+			"contents": "KnowledgeBase_DisplaySubCategories($1)$0",
+		},
+		{
+			"trigger": "KnowledgeBase_GotoTopIssues\t(...)",
+			"contents": "KnowledgeBase_GotoTopIssues($1)$0",
+		},
+		{
+			"trigger": "KnowledgeBase_HideErrorFrame\t(...)",
+			"contents": "KnowledgeBase_HideErrorFrame($1)$0",
+		},
+		{
+			"trigger": "KnowledgeBase_ListCategory\t(...)",
+			"contents": "KnowledgeBase_ListCategory($1)$0",
+		},
+		{
+			"trigger": "KnowledgeBase_ListSubCategory\t(...)",
+			"contents": "KnowledgeBase_ListSubCategory($1)$0",
+		},
+		{
+			"trigger": "KnowledgeBase_OnEvent\t(...)",
+			"contents": "KnowledgeBase_OnEvent($1)$0",
+		},
+		{
+			"trigger": "KnowledgeBase_OnLoad\t(...)",
+			"contents": "KnowledgeBase_OnLoad($1)$0",
+		},
+		{
+			"trigger": "KnowledgeBase_OnShow\t(...)",
+			"contents": "KnowledgeBase_OnShow($1)$0",
+		},
+		{
+			"trigger": "KnowledgeBase_ResendArticleRequest\t(...)",
+			"contents": "KnowledgeBase_ResendArticleRequest($1)$0",
+		},
+		{
+			"trigger": "KnowledgeBase_Search\t(...)",
+			"contents": "KnowledgeBase_Search($1)$0",
+		},
+		{
+			"trigger": "KnowledgeBase_SelectCategory\t(...)",
+			"contents": "KnowledgeBase_SelectCategory($1)$0",
+		},
+		{
+			"trigger": "KnowledgeBase_SelectSubCategory\t(...)",
+			"contents": "KnowledgeBase_SelectSubCategory($1)$0",
+		},
+		{
+			"trigger": "KnowledgeBase_SendArticleRequest\t(...)",
+			"contents": "KnowledgeBase_SendArticleRequest($1)$0",
+		},
+		{
+			"trigger": "KnowledgeBase_ShowErrorFrame\t(...)",
+			"contents": "KnowledgeBase_ShowErrorFrame($1)$0",
+		},
+		{
+			"trigger": "KnowledgeBase_SnapToTopIssues\t(...)",
+			"contents": "KnowledgeBase_SnapToTopIssues($1)$0",
+		},
+		{
+			"trigger": "KnowledgeBase_UpdateArticles\t(...)",
+			"contents": "KnowledgeBase_UpdateArticles($1)$0",
+		},
+		{
+			"trigger": "Language_SetOSLanguageTexture\t(...)",
+			"contents": "Language_SetOSLanguageTexture($1)$0",
+		},
+		{
+			"trigger": "Language_ShowRestartTexture\t(...)",
+			"contents": "Language_ShowRestartTexture($1)$0",
+		},
+		{
+			"trigger": "LanguageMenu_Click\t(...)",
+			"contents": "LanguageMenu_Click($1)$0",
+		},
+		{
+			"trigger": "LanguageMenu_LoadLanguages\t(...)",
+			"contents": "LanguageMenu_LoadLanguages($1)$0",
+		},
+		{
+			"trigger": "LanguageMenu_OnEvent\t(...)",
+			"contents": "LanguageMenu_OnEvent($1)$0",
+		},
+		{
+			"trigger": "LanguageMenu_OnLoad\t(...)",
+			"contents": "LanguageMenu_OnLoad($1)$0",
+		},
+		{
+			"trigger": "LanguagePanel_Cancel\t(...)",
+			"contents": "LanguagePanel_Cancel($1)$0",
+		},
+		{
+			"trigger": "LanguagePanel_Okay\t(...)",
+			"contents": "LanguagePanel_Okay($1)$0",
+		},
+		{
+			"trigger": "LegendaryItemAlertFrame_OnClick\t(...)",
+			"contents": "LegendaryItemAlertFrame_OnClick($1)$0",
+		},
+		{
+			"trigger": "LegendaryItemAlertFrame_OnEnter\t(...)",
+			"contents": "LegendaryItemAlertFrame_OnEnter($1)$0",
+		},
+		{
+			"trigger": "LegendaryItemAlertFrame_OnLeave\t(...)",
+			"contents": "LegendaryItemAlertFrame_OnLeave($1)$0",
+		},
+		{
+			"trigger": "LegendaryItemAlertFrame_SetUp\t(...)",
+			"contents": "LegendaryItemAlertFrame_SetUp($1)$0",
+		},
+		{
+			"trigger": "LevelUpDisplay_AddBattlePetCaptureEvent\t(...)",
+			"contents": "LevelUpDisplay_AddBattlePetCaptureEvent($1)$0",
+		},
+		{
+			"trigger": "LevelUpDisplay_AddBattlePetLevelUpEvent\t(...)",
+			"contents": "LevelUpDisplay_AddBattlePetLevelUpEvent($1)$0",
+		},
+		{
+			"trigger": "LevelUpDisplay_AddBattlePetLootReward\t(...)",
+			"contents": "LevelUpDisplay_AddBattlePetLootReward($1)$0",
+		},
+		{
+			"trigger": "LevelUpDisplay_AddBattlePetTrapUpgradeEvent\t(...)",
+			"contents": "LevelUpDisplay_AddBattlePetTrapUpgradeEvent($1)$0",
+		},
+		{
+			"trigger": "LevelUpDisplay_AddSpellBucketUnlockEvent\t(...)",
+			"contents": "LevelUpDisplay_AddSpellBucketUnlockEvent($1)$0",
+		},
+		{
+			"trigger": "LevelUpDisplay_AnimOut\t(...)",
+			"contents": "LevelUpDisplay_AnimOut($1)$0",
+		},
+		{
+			"trigger": "LevelUpDisplay_AnimOutFinished\t(...)",
+			"contents": "LevelUpDisplay_AnimOutFinished($1)$0",
+		},
+		{
+			"trigger": "LevelUpDisplay_AnimStep\t(...)",
+			"contents": "LevelUpDisplay_AnimStep($1)$0",
+		},
+		{
+			"trigger": "LevelUpDisplay_BuildBattlePetList\t(...)",
+			"contents": "LevelUpDisplay_BuildBattlePetList($1)$0",
+		},
+		{
+			"trigger": "LevelUpDisplay_BuildCharacterList\t(...)",
+			"contents": "LevelUpDisplay_BuildCharacterList($1)$0",
+		},
+		{
+			"trigger": "LevelUpDisplay_BuildEmptyList\t(...)",
+			"contents": "LevelUpDisplay_BuildEmptyList($1)$0",
+		},
+		{
+			"trigger": "LevelUpDisplay_BuildGarrisonAbilityList\t(...)",
+			"contents": "LevelUpDisplay_BuildGarrisonAbilityList($1)$0",
+		},
+		{
+			"trigger": "LevelUpDisplay_BuildPetBattleWinnerList\t(...)",
+			"contents": "LevelUpDisplay_BuildPetBattleWinnerList($1)$0",
+		},
+		{
+			"trigger": "LevelUpDisplay_BuildPetList\t(...)",
+			"contents": "LevelUpDisplay_BuildPetList($1)$0",
+		},
+		{
+			"trigger": "LevelUpDisplay_BuildSpellBucketList\t(...)",
+			"contents": "LevelUpDisplay_BuildSpellBucketList($1)$0",
+		},
+		{
+			"trigger": "LevelUpDisplay_BuildWorldQuestBucketList\t(...)",
+			"contents": "LevelUpDisplay_BuildWorldQuestBucketList($1)$0",
+		},
+		{
+			"trigger": "LevelUpDisplay_ChatPrint\t(...)",
+			"contents": "LevelUpDisplay_ChatPrint($1)$0",
+		},
+		{
+			"trigger": "LevelUpDisplay_CreateOrAppendItem\t(...)",
+			"contents": "LevelUpDisplay_CreateOrAppendItem($1)$0",
+		},
+		{
+			"trigger": "LevelUpDisplay_IsExclusiveQueued\t(...)",
+			"contents": "LevelUpDisplay_IsExclusiveQueued($1)$0",
+		},
+		{
+			"trigger": "LevelUpDisplay_OnEvent\t(...)",
+			"contents": "LevelUpDisplay_OnEvent($1)$0",
+		},
+		{
+			"trigger": "LevelUpDisplay_OnLoad\t(...)",
+			"contents": "LevelUpDisplay_OnLoad($1)$0",
+		},
+		{
+			"trigger": "LevelUpDisplay_PlayScenario\t(...)",
+			"contents": "LevelUpDisplay_PlayScenario($1)$0",
+		},
+		{
+			"trigger": "LevelUpDisplay_Show\t(...)",
+			"contents": "LevelUpDisplay_Show($1)$0",
+		},
+		{
+			"trigger": "LevelUpDisplay_ShowSideDisplay\t(...)",
+			"contents": "LevelUpDisplay_ShowSideDisplay($1)$0",
+		},
+		{
+			"trigger": "LevelUpDisplay_Start\t(...)",
+			"contents": "LevelUpDisplay_Start($1)$0",
+		},
+		{
+			"trigger": "LevelUpDisplay_StartDisplay\t(...)",
+			"contents": "LevelUpDisplay_StartDisplay($1)$0",
+		},
+		{
+			"trigger": "LevelUpDisplay_StopAllAnims\t(...)",
+			"contents": "LevelUpDisplay_StopAllAnims($1)$0",
+		},
+		{
+			"trigger": "LevelUpDisplaySide_AnimStep\t(...)",
+			"contents": "LevelUpDisplaySide_AnimStep($1)$0",
+		},
+		{
+			"trigger": "LevelUpDisplaySide_OnHide\t(...)",
+			"contents": "LevelUpDisplaySide_OnHide($1)$0",
+		},
+		{
+			"trigger": "LevelUpDisplaySide_OnShow\t(...)",
+			"contents": "LevelUpDisplaySide_OnShow($1)$0",
+		},
+		{
+			"trigger": "LevelUpDisplaySide_Remove\t(...)",
+			"contents": "LevelUpDisplaySide_Remove($1)$0",
+		},
+		{
+			"trigger": "LFD_CURRENT_FILTER\t(...)",
+			"contents": "LFD_CURRENT_FILTER($1)$0",
+		},
+		{
+			"trigger": "LFD_IsEmpowered\t(...)",
+			"contents": "LFD_IsEmpowered($1)$0",
+		},
+		{
+			"trigger": "LFDFrame_DisplayDungeonByID\t(...)",
+			"contents": "LFDFrame_DisplayDungeonByID($1)$0",
+		},
+		{
+			"trigger": "LFDFrame_OnEvent\t(...)",
+			"contents": "LFDFrame_OnEvent($1)$0",
+		},
+		{
+			"trigger": "LFDFrame_OnLoad\t(...)",
+			"contents": "LFDFrame_OnLoad($1)$0",
+		},
+		{
+			"trigger": "LFDFrame_OnShow\t(...)",
+			"contents": "LFDFrame_OnShow($1)$0",
+		},
+		{
+			"trigger": "LFDFramePopupRoleCheckButton_OnClick\t(...)",
+			"contents": "LFDFramePopupRoleCheckButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "LFDFrameRoleCheckButton_OnClick\t(...)",
+			"contents": "LFDFrameRoleCheckButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "LFDPopupCheckRoleSelectionValid\t(...)",
+			"contents": "LFDPopupCheckRoleSelectionValid($1)$0",
+		},
+		{
+			"trigger": "LFDPopupRoleCheckButton_OnEnter\t(...)",
+			"contents": "LFDPopupRoleCheckButton_OnEnter($1)$0",
+		},
+		{
+			"trigger": "LFDQueueCheckRoleSelectionValid\t(...)",
+			"contents": "LFDQueueCheckRoleSelectionValid($1)$0",
+		},
+		{
+			"trigger": "LFDQueueFrame_GetRoles\t(...)",
+			"contents": "LFDQueueFrame_GetRoles($1)$0",
+		},
+		{
+			"trigger": "LFDQueueFrame_Join\t(...)",
+			"contents": "LFDQueueFrame_Join($1)$0",
+		},
+		{
+			"trigger": "LFDQueueFrame_SetRoles\t(...)",
+			"contents": "LFDQueueFrame_SetRoles($1)$0",
+		},
+		{
+			"trigger": "LFDQueueFrame_SetType\t(...)",
+			"contents": "LFDQueueFrame_SetType($1)$0",
+		},
+		{
+			"trigger": "LFDQueueFrame_SetTypeRandomDungeon\t(...)",
+			"contents": "LFDQueueFrame_SetTypeRandomDungeon($1)$0",
+		},
+		{
+			"trigger": "LFDQueueFrame_SetTypeSpecificDungeon\t(...)",
+			"contents": "LFDQueueFrame_SetTypeSpecificDungeon($1)$0",
+		},
+		{
+			"trigger": "LFDQueueFrame_Update\t(...)",
+			"contents": "LFDQueueFrame_Update($1)$0",
+		},
+		{
+			"trigger": "LFDQueueFrame_UpdateRoleButton\t(...)",
+			"contents": "LFDQueueFrame_UpdateRoleButton($1)$0",
+		},
+		{
+			"trigger": "LFDQueueFrame_UpdateRoleButtons\t(...)",
+			"contents": "LFDQueueFrame_UpdateRoleButtons($1)$0",
+		},
+		{
+			"trigger": "LFDQueueFrameDungeonChoiceEnableButton_OnClick\t(...)",
+			"contents": "LFDQueueFrameDungeonChoiceEnableButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "LFDQueueFrameDungeonListButton_OnEnter\t(...)",
+			"contents": "LFDQueueFrameDungeonListButton_OnEnter($1)$0",
+		},
+		{
+			"trigger": "LFDQueueFrameExpandOrCollapseButton_OnClick\t(...)",
+			"contents": "LFDQueueFrameExpandOrCollapseButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "LFDQueueFrameFindGroupButton_Update\t(...)",
+			"contents": "LFDQueueFrameFindGroupButton_Update($1)$0",
+		},
+		{
+			"trigger": "LFDQueueFrameRandom_UpdateFrame\t(...)",
+			"contents": "LFDQueueFrameRandom_UpdateFrame($1)$0",
+		},
+		{
+			"trigger": "LFDQueueFrameRandomCooldownFrame_OnEvent\t(...)",
+			"contents": "LFDQueueFrameRandomCooldownFrame_OnEvent($1)$0",
+		},
+		{
+			"trigger": "LFDQueueFrameRandomCooldownFrame_OnLoad\t(...)",
+			"contents": "LFDQueueFrameRandomCooldownFrame_OnLoad($1)$0",
+		},
+		{
+			"trigger": "LFDQueueFrameRandomCooldownFrame_OnUpdate\t(...)",
+			"contents": "LFDQueueFrameRandomCooldownFrame_OnUpdate($1)$0",
+		},
+		{
+			"trigger": "LFDQueueFrameRandomCooldownFrame_Update\t(...)",
+			"contents": "LFDQueueFrameRandomCooldownFrame_Update($1)$0",
+		},
+		{
+			"trigger": "LFDQueueFrameSpecificList_Update\t(...)",
+			"contents": "LFDQueueFrameSpecificList_Update($1)$0",
+		},
+		{
+			"trigger": "LFDQueueFrameTypeDropDown_Initialize\t(...)",
+			"contents": "LFDQueueFrameTypeDropDown_Initialize($1)$0",
+		},
+		{
+			"trigger": "LFDQueueFrameTypeDropDown_SetUp\t(...)",
+			"contents": "LFDQueueFrameTypeDropDown_SetUp($1)$0",
+		},
+		{
+			"trigger": "LFDQueueFrameTypeDropDownButton_OnClick\t(...)",
+			"contents": "LFDQueueFrameTypeDropDownButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "LFDRoleButton_OnEnter\t(...)",
+			"contents": "LFDRoleButton_OnEnter($1)$0",
+		},
+		{
+			"trigger": "LFDRoleCheckPopup_OnEvent\t(...)",
+			"contents": "LFDRoleCheckPopup_OnEvent($1)$0",
+		},
+		{
+			"trigger": "LFDRoleCheckPopup_OnHide\t(...)",
+			"contents": "LFDRoleCheckPopup_OnHide($1)$0",
+		},
+		{
+			"trigger": "LFDRoleCheckPopup_OnShow\t(...)",
+			"contents": "LFDRoleCheckPopup_OnShow($1)$0",
+		},
+		{
+			"trigger": "LFDRoleCheckPopup_Update\t(...)",
+			"contents": "LFDRoleCheckPopup_Update($1)$0",
+		},
+		{
+			"trigger": "LFDRoleCheckPopup_UpdateAcceptButton\t(...)",
+			"contents": "LFDRoleCheckPopup_UpdateAcceptButton($1)$0",
+		},
+		{
+			"trigger": "LFDRoleCheckPopupAccept_OnClick\t(...)",
+			"contents": "LFDRoleCheckPopupAccept_OnClick($1)$0",
+		},
+		{
+			"trigger": "LFDRoleCheckPopupDecline_OnClick\t(...)",
+			"contents": "LFDRoleCheckPopupDecline_OnClick($1)$0",
+		},
+		{
+			"trigger": "LFG_DisableRoleButton\t(...)",
+			"contents": "LFG_DisableRoleButton($1)$0",
+		},
+		{
+			"trigger": "LFG_DisplayGroupLeaderWarning\t(...)",
+			"contents": "LFG_DisplayGroupLeaderWarning($1)$0",
+		},
+		{
+			"trigger": "LFG_EnableRoleButton\t(...)",
+			"contents": "LFG_EnableRoleButton($1)$0",
+		},
+		{
+			"trigger": "LFG_HasRequiredGroupSize\t(...)",
+			"contents": "LFG_HasRequiredGroupSize($1)$0",
+		},
+		{
+			"trigger": "LFG_IsHeroicScenario\t(...)",
+			"contents": "LFG_IsHeroicScenario($1)$0",
+		},
+		{
+			"trigger": "LFG_IsRandomDungeonDisplayable\t(...)",
+			"contents": "LFG_IsRandomDungeonDisplayable($1)$0",
+		},
+		{
+			"trigger": "LFG_JoinDungeon\t(...)",
+			"contents": "LFG_JoinDungeon($1)$0",
+		},
+		{
+			"trigger": "LFG_PermanentlyDisableRoleButton\t(...)",
+			"contents": "LFG_PermanentlyDisableRoleButton($1)$0",
+		},
+		{
+			"trigger": "LFG_QueueForInstanceIfEnabled\t(...)",
+			"contents": "LFG_QueueForInstanceIfEnabled($1)$0",
+		},
+		{
+			"trigger": "LFG_SetRoleIconIncentive\t(...)",
+			"contents": "LFG_SetRoleIconIncentive($1)$0",
+		},
+		{
+			"trigger": "LFG_UpdateAllRoleCheckboxes\t(...)",
+			"contents": "LFG_UpdateAllRoleCheckboxes($1)$0",
+		},
+		{
+			"trigger": "LFG_UpdateAvailableRoleButton\t(...)",
+			"contents": "LFG_UpdateAvailableRoleButton($1)$0",
+		},
+		{
+			"trigger": "LFG_UpdateAvailableRoles\t(...)",
+			"contents": "LFG_UpdateAvailableRoles($1)$0",
+		},
+		{
+			"trigger": "LFG_UpdateFindGroupButtons\t(...)",
+			"contents": "LFG_UpdateFindGroupButtons($1)$0",
+		},
+		{
+			"trigger": "LFG_UpdateFramesIfShown\t(...)",
+			"contents": "LFG_UpdateFramesIfShown($1)$0",
+		},
+		{
+			"trigger": "LFG_UpdateLockedOutPanels\t(...)",
+			"contents": "LFG_UpdateLockedOutPanels($1)$0",
+		},
+		{
+			"trigger": "LFG_UpdateQueuedList\t(...)",
+			"contents": "LFG_UpdateQueuedList($1)$0",
+		},
+		{
+			"trigger": "LFG_UpdateRoleCheckboxes\t(...)",
+			"contents": "LFG_UpdateRoleCheckboxes($1)$0",
+		},
+		{
+			"trigger": "LFG_UpdateRolesChangeable\t(...)",
+			"contents": "LFG_UpdateRolesChangeable($1)$0",
+		},
+		{
+			"trigger": "LFGBackfillCover_SetUp\t(...)",
+			"contents": "LFGBackfillCover_SetUp($1)$0",
+		},
+		{
+			"trigger": "LFGBackfillCover_Update\t(...)",
+			"contents": "LFGBackfillCover_Update($1)$0",
+		},
+		{
+			"trigger": "LFGCooldownCover_ChangeSettings\t(...)",
+			"contents": "LFGCooldownCover_ChangeSettings($1)$0",
+		},
+		{
+			"trigger": "LFGCooldownCover_OnEvent\t(...)",
+			"contents": "LFGCooldownCover_OnEvent($1)$0",
+		},
+		{
+			"trigger": "LFGCooldownCover_OnUpdate\t(...)",
+			"contents": "LFGCooldownCover_OnUpdate($1)$0",
+		},
+		{
+			"trigger": "LFGCooldownCover_SetUp\t(...)",
+			"contents": "LFGCooldownCover_SetUp($1)$0",
+		},
+		{
+			"trigger": "LFGCooldownCover_Update\t(...)",
+			"contents": "LFGCooldownCover_Update($1)$0",
+		},
+		{
+			"trigger": "LFGDungeonList_DisableEntries\t(...)",
+			"contents": "LFGDungeonList_DisableEntries($1)$0",
+		},
+		{
+			"trigger": "LFGDungeonList_EvaluateListState\t(...)",
+			"contents": "LFGDungeonList_EvaluateListState($1)$0",
+		},
+		{
+			"trigger": "LFGDungeonList_SetDungeonEnabled\t(...)",
+			"contents": "LFGDungeonList_SetDungeonEnabled($1)$0",
+		},
+		{
+			"trigger": "LFGDungeonList_SetHeaderCollapsed\t(...)",
+			"contents": "LFGDungeonList_SetHeaderCollapsed($1)$0",
+		},
+		{
+			"trigger": "LFGDungeonList_SetHeaderEnabled\t(...)",
+			"contents": "LFGDungeonList_SetHeaderEnabled($1)$0",
+		},
+		{
+			"trigger": "LFGDungeonList_Setup\t(...)",
+			"contents": "LFGDungeonList_Setup($1)$0",
+		},
+		{
+			"trigger": "LFGDungeonListButton_OnEnter\t(...)",
+			"contents": "LFGDungeonListButton_OnEnter($1)$0",
+		},
+		{
+			"trigger": "LFGDungeonListButton_SetDungeon\t(...)",
+			"contents": "LFGDungeonListButton_SetDungeon($1)$0",
+		},
+		{
+			"trigger": "LFGDungeonListCheckButton_OnClick\t(...)",
+			"contents": "LFGDungeonListCheckButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "LFGDungeonReadyDialog_UpdateInstanceInfo\t(...)",
+			"contents": "LFGDungeonReadyDialog_UpdateInstanceInfo($1)$0",
+		},
+		{
+			"trigger": "LFGDungeonReadyDialog_UpdateRewards\t(...)",
+			"contents": "LFGDungeonReadyDialog_UpdateRewards($1)$0",
+		},
+		{
+			"trigger": "LFGDungeonReadyDialogInstanceInfo_OnEnter\t(...)",
+			"contents": "LFGDungeonReadyDialogInstanceInfo_OnEnter($1)$0",
+		},
+		{
+			"trigger": "LFGDungeonReadyDialogReward_OnEnter\t(...)",
+			"contents": "LFGDungeonReadyDialogReward_OnEnter($1)$0",
+		},
+		{
+			"trigger": "LFGDungeonReadyDialogReward_SetMisc\t(...)",
+			"contents": "LFGDungeonReadyDialogReward_SetMisc($1)$0",
+		},
+		{
+			"trigger": "LFGDungeonReadyDialogReward_SetReward\t(...)",
+			"contents": "LFGDungeonReadyDialogReward_SetReward($1)$0",
+		},
+		{
+			"trigger": "LFGDungeonReadyPopup_OnFail\t(...)",
+			"contents": "LFGDungeonReadyPopup_OnFail($1)$0",
+		},
+		{
+			"trigger": "LFGDungeonReadyPopup_OnUpdate\t(...)",
+			"contents": "LFGDungeonReadyPopup_OnUpdate($1)$0",
+		},
+		{
+			"trigger": "LFGDungeonReadyPopup_Update\t(...)",
+			"contents": "LFGDungeonReadyPopup_Update($1)$0",
+		},
+		{
+			"trigger": "LFGDungeonReadyStatus_ResetReadyStates\t(...)",
+			"contents": "LFGDungeonReadyStatus_ResetReadyStates($1)$0",
+		},
+		{
+			"trigger": "LFGDungeonReadyStatusGrouped_UpdateIcon\t(...)",
+			"contents": "LFGDungeonReadyStatusGrouped_UpdateIcon($1)$0",
+		},
+		{
+			"trigger": "LFGDungeonReadyStatusIndividual_UpdateIcon\t(...)",
+			"contents": "LFGDungeonReadyStatusIndividual_UpdateIcon($1)$0",
+		},
+		{
+			"trigger": "LFGDungeonReadyStatusRoleless_UpdateCount\t(...)",
+			"contents": "LFGDungeonReadyStatusRoleless_UpdateCount($1)$0",
+		},
+		{
+			"trigger": "LFGEventFrame_OnEvent\t(...)",
+			"contents": "LFGEventFrame_OnEvent($1)$0",
+		},
+		{
+			"trigger": "LFGEventFrame_OnLoad\t(...)",
+			"contents": "LFGEventFrame_OnLoad($1)$0",
+		},
+		{
+			"trigger": "LFGFrameRoleCheckButton_OnEnter\t(...)",
+			"contents": "LFGFrameRoleCheckButton_OnEnter($1)$0",
+		},
+		{
+			"trigger": "LFGInvitePopup_OnUpdate\t(...)",
+			"contents": "LFGInvitePopup_OnUpdate($1)$0",
+		},
+		{
+			"trigger": "LFGInvitePopup_Update\t(...)",
+			"contents": "LFGInvitePopup_Update($1)$0",
+		},
+		{
+			"trigger": "LFGInvitePopup_UpdateAcceptButton\t(...)",
+			"contents": "LFGInvitePopup_UpdateAcceptButton($1)$0",
+		},
+		{
+			"trigger": "LFGInvitePopupAccept_OnClick\t(...)",
+			"contents": "LFGInvitePopupAccept_OnClick($1)$0",
+		},
+		{
+			"trigger": "LFGInvitePopupCheckButton_OnClick\t(...)",
+			"contents": "LFGInvitePopupCheckButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "LFGInvitePopupDecline_OnClick\t(...)",
+			"contents": "LFGInvitePopupDecline_OnClick($1)$0",
+		},
+		{
+			"trigger": "LFGList_DefaultFilterFunction\t(...)",
+			"contents": "LFGList_DefaultFilterFunction($1)$0",
+		},
+		{
+			"trigger": "LFGListApplicantMember_OnEnter\t(...)",
+			"contents": "LFGListApplicantMember_OnEnter($1)$0",
+		},
+		{
+			"trigger": "LFGListApplicationDialog_OnEvent\t(...)",
+			"contents": "LFGListApplicationDialog_OnEvent($1)$0",
+		},
+		{
+			"trigger": "LFGListApplicationDialog_OnLoad\t(...)",
+			"contents": "LFGListApplicationDialog_OnLoad($1)$0",
+		},
+		{
+			"trigger": "LFGListApplicationDialog_Show\t(...)",
+			"contents": "LFGListApplicationDialog_Show($1)$0",
+		},
+		{
+			"trigger": "LFGListApplicationDialog_UpdateRoles\t(...)",
+			"contents": "LFGListApplicationDialog_UpdateRoles($1)$0",
+		},
+		{
+			"trigger": "LFGListApplicationDialog_UpdateValidState\t(...)",
+			"contents": "LFGListApplicationDialog_UpdateValidState($1)$0",
+		},
+		{
+			"trigger": "LFGListApplicationViewer_GetScrollOffset\t(...)",
+			"contents": "LFGListApplicationViewer_GetScrollOffset($1)$0",
+		},
+		{
+			"trigger": "LFGListApplicationViewer_OnEvent\t(...)",
+			"contents": "LFGListApplicationViewer_OnEvent($1)$0",
+		},
+		{
+			"trigger": "LFGListApplicationViewer_OnLoad\t(...)",
+			"contents": "LFGListApplicationViewer_OnLoad($1)$0",
+		},
+		{
+			"trigger": "LFGListApplicationViewer_OnShow\t(...)",
+			"contents": "LFGListApplicationViewer_OnShow($1)$0",
+		},
+		{
+			"trigger": "LFGListApplicationViewer_UpdateApplicant\t(...)",
+			"contents": "LFGListApplicationViewer_UpdateApplicant($1)$0",
+		},
+		{
+			"trigger": "LFGListApplicationViewer_UpdateApplicantMember\t(...)",
+			"contents": "LFGListApplicationViewer_UpdateApplicantMember($1)$0",
+		},
+		{
+			"trigger": "LFGListApplicationViewer_UpdateAvailability\t(...)",
+			"contents": "LFGListApplicationViewer_UpdateAvailability($1)$0",
+		},
+		{
+			"trigger": "LFGListApplicationViewer_UpdateGroupData\t(...)",
+			"contents": "LFGListApplicationViewer_UpdateGroupData($1)$0",
+		},
+		{
+			"trigger": "LFGListApplicationViewer_UpdateInfo\t(...)",
+			"contents": "LFGListApplicationViewer_UpdateInfo($1)$0",
+		},
+		{
+			"trigger": "LFGListApplicationViewer_UpdateInviteState\t(...)",
+			"contents": "LFGListApplicationViewer_UpdateInviteState($1)$0",
+		},
+		{
+			"trigger": "LFGListApplicationViewer_UpdateResultList\t(...)",
+			"contents": "LFGListApplicationViewer_UpdateResultList($1)$0",
+		},
+		{
+			"trigger": "LFGListApplicationViewer_UpdateResults\t(...)",
+			"contents": "LFGListApplicationViewer_UpdateResults($1)$0",
+		},
+		{
+			"trigger": "LFGListApplicationViewer_UpdateRoleIcons\t(...)",
+			"contents": "LFGListApplicationViewer_UpdateRoleIcons($1)$0",
+		},
+		{
+			"trigger": "LFGListApplicationViewerEditButton_OnClick\t(...)",
+			"contents": "LFGListApplicationViewerEditButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "LFGListApplicationViewerUtil_GetButtonHeight\t(...)",
+			"contents": "LFGListApplicationViewerUtil_GetButtonHeight($1)$0",
+		},
+		{
+			"trigger": "LFGListCategorySelection_AddButton\t(...)",
+			"contents": "LFGListCategorySelection_AddButton($1)$0",
+		},
+		{
+			"trigger": "LFGListCategorySelection_OnEvent\t(...)",
+			"contents": "LFGListCategorySelection_OnEvent($1)$0",
+		},
+		{
+			"trigger": "LFGListCategorySelection_OnLoad\t(...)",
+			"contents": "LFGListCategorySelection_OnLoad($1)$0",
+		},
+		{
+			"trigger": "LFGListCategorySelection_OnShow\t(...)",
+			"contents": "LFGListCategorySelection_OnShow($1)$0",
+		},
+		{
+			"trigger": "LFGListCategorySelection_SelectCategory\t(...)",
+			"contents": "LFGListCategorySelection_SelectCategory($1)$0",
+		},
+		{
+			"trigger": "LFGListCategorySelection_StartFindGroup\t(...)",
+			"contents": "LFGListCategorySelection_StartFindGroup($1)$0",
+		},
+		{
+			"trigger": "LFGListCategorySelection_UpdateCategoryButtons\t(...)",
+			"contents": "LFGListCategorySelection_UpdateCategoryButtons($1)$0",
+		},
+		{
+			"trigger": "LFGListCategorySelection_UpdateNavButtons\t(...)",
+			"contents": "LFGListCategorySelection_UpdateNavButtons($1)$0",
+		},
+		{
+			"trigger": "LFGListCategorySelectionButton_OnClick\t(...)",
+			"contents": "LFGListCategorySelectionButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "LFGListCategorySelectionFindGroupButton_OnClick\t(...)",
+			"contents": "LFGListCategorySelectionFindGroupButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "LFGListCategorySelectionStartGroupButton_OnClick\t(...)",
+			"contents": "LFGListCategorySelectionStartGroupButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "LFGListEditBox_AddToTabCategory\t(...)",
+			"contents": "LFGListEditBox_AddToTabCategory($1)$0",
+		},
+		{
+			"trigger": "LFGListEditBox_OnTabPressed\t(...)",
+			"contents": "LFGListEditBox_OnTabPressed($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreation_AddCategoryEntry\t(...)",
+			"contents": "LFGListEntryCreation_AddCategoryEntry($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreation_CheckAutoCreate\t(...)",
+			"contents": "LFGListEntryCreation_CheckAutoCreate($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreation_Clear\t(...)",
+			"contents": "LFGListEntryCreation_Clear($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreation_ClearAutoCreateMode\t(...)",
+			"contents": "LFGListEntryCreation_ClearAutoCreateMode($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreation_ClearFocus\t(...)",
+			"contents": "LFGListEntryCreation_ClearFocus($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreation_GetAutoCreateData\t(...)",
+			"contents": "LFGListEntryCreation_GetAutoCreateData($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreation_GetAutoCreateDataQuest\t(...)",
+			"contents": "LFGListEntryCreation_GetAutoCreateDataQuest($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreation_GetSanitizedName\t(...)",
+			"contents": "LFGListEntryCreation_GetSanitizedName($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreation_IsAutoCreateMode\t(...)",
+			"contents": "LFGListEntryCreation_IsAutoCreateMode($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreation_IsEditMode\t(...)",
+			"contents": "LFGListEntryCreation_IsEditMode($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreation_ListGroup\t(...)",
+			"contents": "LFGListEntryCreation_ListGroup($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreation_ListGroupInternal\t(...)",
+			"contents": "LFGListEntryCreation_ListGroupInternal($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreation_OnActivitySelected\t(...)",
+			"contents": "LFGListEntryCreation_OnActivitySelected($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreation_OnCategorySelected\t(...)",
+			"contents": "LFGListEntryCreation_OnCategorySelected($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreation_OnEvent\t(...)",
+			"contents": "LFGListEntryCreation_OnEvent($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreation_OnGroupSelected\t(...)",
+			"contents": "LFGListEntryCreation_OnGroupSelected($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreation_OnLoad\t(...)",
+			"contents": "LFGListEntryCreation_OnLoad($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreation_OnShow\t(...)",
+			"contents": "LFGListEntryCreation_OnShow($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreation_PopulateActivities\t(...)",
+			"contents": "LFGListEntryCreation_PopulateActivities($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreation_PopulateCategories\t(...)",
+			"contents": "LFGListEntryCreation_PopulateCategories($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreation_PopulateGroups\t(...)",
+			"contents": "LFGListEntryCreation_PopulateGroups($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreation_Select\t(...)",
+			"contents": "LFGListEntryCreation_Select($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreation_SetAutoCreateDataInternal\t(...)",
+			"contents": "LFGListEntryCreation_SetAutoCreateDataInternal($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreation_SetAutoCreateMode\t(...)",
+			"contents": "LFGListEntryCreation_SetAutoCreateMode($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreation_SetBaseFilters\t(...)",
+			"contents": "LFGListEntryCreation_SetBaseFilters($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreation_SetEditMode\t(...)",
+			"contents": "LFGListEntryCreation_SetEditMode($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreation_Show\t(...)",
+			"contents": "LFGListEntryCreation_Show($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreation_UpdateValidState\t(...)",
+			"contents": "LFGListEntryCreation_UpdateValidState($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreationActivityFinder_Accept\t(...)",
+			"contents": "LFGListEntryCreationActivityFinder_Accept($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreationActivityFinder_Cancel\t(...)",
+			"contents": "LFGListEntryCreationActivityFinder_Cancel($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreationActivityFinder_OnLoad\t(...)",
+			"contents": "LFGListEntryCreationActivityFinder_OnLoad($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreationActivityFinder_Select\t(...)",
+			"contents": "LFGListEntryCreationActivityFinder_Select($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreationActivityFinder_Show\t(...)",
+			"contents": "LFGListEntryCreationActivityFinder_Show($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreationActivityFinder_Update\t(...)",
+			"contents": "LFGListEntryCreationActivityFinder_Update($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreationActivityFinder_UpdateMatching\t(...)",
+			"contents": "LFGListEntryCreationActivityFinder_UpdateMatching($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreationCancelButton_OnClick\t(...)",
+			"contents": "LFGListEntryCreationCancelButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "LFGListEntryCreationListGroupButton_OnClick\t(...)",
+			"contents": "LFGListEntryCreationListGroupButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "LFGListFrame_BeginFindQuestGroup\t(...)",
+			"contents": "LFGListFrame_BeginFindQuestGroup($1)$0",
+		},
+		{
+			"trigger": "LFGListFrame_CheckPendingQuestIDSearch\t(...)",
+			"contents": "LFGListFrame_CheckPendingQuestIDSearch($1)$0",
+		},
+		{
+			"trigger": "LFGListFrame_FixPanelValid\t(...)",
+			"contents": "LFGListFrame_FixPanelValid($1)$0",
+		},
+		{
+			"trigger": "LFGListFrame_GetBestPanel\t(...)",
+			"contents": "LFGListFrame_GetBestPanel($1)$0",
+		},
+		{
+			"trigger": "LFGListFrame_GetPendingQuestIDSearch\t(...)",
+			"contents": "LFGListFrame_GetPendingQuestIDSearch($1)$0",
+		},
+		{
+			"trigger": "LFGListFrame_IsPanelValid\t(...)",
+			"contents": "LFGListFrame_IsPanelValid($1)$0",
+		},
+		{
+			"trigger": "LFGListFrame_OnEvent\t(...)",
+			"contents": "LFGListFrame_OnEvent($1)$0",
+		},
+		{
+			"trigger": "LFGListFrame_OnHide\t(...)",
+			"contents": "LFGListFrame_OnHide($1)$0",
+		},
+		{
+			"trigger": "LFGListFrame_OnLoad\t(...)",
+			"contents": "LFGListFrame_OnLoad($1)$0",
+		},
+		{
+			"trigger": "LFGListFrame_OnShow\t(...)",
+			"contents": "LFGListFrame_OnShow($1)$0",
+		},
+		{
+			"trigger": "LFGListFrame_SetActivePanel\t(...)",
+			"contents": "LFGListFrame_SetActivePanel($1)$0",
+		},
+		{
+			"trigger": "LFGListFrame_SetBaseFilters\t(...)",
+			"contents": "LFGListFrame_SetBaseFilters($1)$0",
+		},
+		{
+			"trigger": "LFGListFrame_SetPendingQuestIDSearch\t(...)",
+			"contents": "LFGListFrame_SetPendingQuestIDSearch($1)$0",
+		},
+		{
+			"trigger": "LFGListGroupDataDisplay_Update\t(...)",
+			"contents": "LFGListGroupDataDisplay_Update($1)$0",
+		},
+		{
+			"trigger": "LFGListGroupDataDisplayEnumerate_Update\t(...)",
+			"contents": "LFGListGroupDataDisplayEnumerate_Update($1)$0",
+		},
+		{
+			"trigger": "LFGListGroupDataDisplayPlayerCount_Update\t(...)",
+			"contents": "LFGListGroupDataDisplayPlayerCount_Update($1)$0",
+		},
+		{
+			"trigger": "LFGListGroupDataDisplayRoleCount_Update\t(...)",
+			"contents": "LFGListGroupDataDisplayRoleCount_Update($1)$0",
+		},
+		{
+			"trigger": "LFGListInviteDialog_Accept\t(...)",
+			"contents": "LFGListInviteDialog_Accept($1)$0",
+		},
+		{
+			"trigger": "LFGListInviteDialog_Acknowledge\t(...)",
+			"contents": "LFGListInviteDialog_Acknowledge($1)$0",
+		},
+		{
+			"trigger": "LFGListInviteDialog_CheckPending\t(...)",
+			"contents": "LFGListInviteDialog_CheckPending($1)$0",
+		},
+		{
+			"trigger": "LFGListInviteDialog_Decline\t(...)",
+			"contents": "LFGListInviteDialog_Decline($1)$0",
+		},
+		{
+			"trigger": "LFGListInviteDialog_OnEvent\t(...)",
+			"contents": "LFGListInviteDialog_OnEvent($1)$0",
+		},
+		{
+			"trigger": "LFGListInviteDialog_OnLoad\t(...)",
+			"contents": "LFGListInviteDialog_OnLoad($1)$0",
+		},
+		{
+			"trigger": "LFGListInviteDialog_Show\t(...)",
+			"contents": "LFGListInviteDialog_Show($1)$0",
+		},
+		{
+			"trigger": "LFGListInviteDialog_UpdateOfflineNotice\t(...)",
+			"contents": "LFGListInviteDialog_UpdateOfflineNotice($1)$0",
+		},
+		{
+			"trigger": "LFGListNothingAvailable_OnEvent\t(...)",
+			"contents": "LFGListNothingAvailable_OnEvent($1)$0",
+		},
+		{
+			"trigger": "LFGListNothingAvailable_Update\t(...)",
+			"contents": "LFGListNothingAvailable_Update($1)$0",
+		},
+		{
+			"trigger": "LFGListRequirement_Validate\t(...)",
+			"contents": "LFGListRequirement_Validate($1)$0",
+		},
+		{
+			"trigger": "LFGListRoleButtonCheckButton_OnClick\t(...)",
+			"contents": "LFGListRoleButtonCheckButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "LFGListSearchAutoCompleteButton_OnClick\t(...)",
+			"contents": "LFGListSearchAutoCompleteButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "LFGListSearchEntry_OnClick\t(...)",
+			"contents": "LFGListSearchEntry_OnClick($1)$0",
+		},
+		{
+			"trigger": "LFGListSearchEntry_OnEnter\t(...)",
+			"contents": "LFGListSearchEntry_OnEnter($1)$0",
+		},
+		{
+			"trigger": "LFGListSearchEntry_OnEvent\t(...)",
+			"contents": "LFGListSearchEntry_OnEvent($1)$0",
+		},
+		{
+			"trigger": "LFGListSearchEntry_OnLoad\t(...)",
+			"contents": "LFGListSearchEntry_OnLoad($1)$0",
+		},
+		{
+			"trigger": "LFGListSearchEntry_Update\t(...)",
+			"contents": "LFGListSearchEntry_Update($1)$0",
+		},
+		{
+			"trigger": "LFGListSearchEntry_UpdateExpiration\t(...)",
+			"contents": "LFGListSearchEntry_UpdateExpiration($1)$0",
+		},
+		{
+			"trigger": "LFGListSearchEntryUtil_GetFriendList\t(...)",
+			"contents": "LFGListSearchEntryUtil_GetFriendList($1)$0",
+		},
+		{
+			"trigger": "LFGListSearchPanel_AutoCompleteAdvance\t(...)",
+			"contents": "LFGListSearchPanel_AutoCompleteAdvance($1)$0",
+		},
+		{
+			"trigger": "LFGListSearchPanel_Clear\t(...)",
+			"contents": "LFGListSearchPanel_Clear($1)$0",
+		},
+		{
+			"trigger": "LFGListSearchPanel_CreateGroupInstead\t(...)",
+			"contents": "LFGListSearchPanel_CreateGroupInstead($1)$0",
+		},
+		{
+			"trigger": "LFGListSearchPanel_DoSearch\t(...)",
+			"contents": "LFGListSearchPanel_DoSearch($1)$0",
+		},
+		{
+			"trigger": "LFGListSearchPanel_OnEvent\t(...)",
+			"contents": "LFGListSearchPanel_OnEvent($1)$0",
+		},
+		{
+			"trigger": "LFGListSearchPanel_OnLoad\t(...)",
+			"contents": "LFGListSearchPanel_OnLoad($1)$0",
+		},
+		{
+			"trigger": "LFGListSearchPanel_OnShow\t(...)",
+			"contents": "LFGListSearchPanel_OnShow($1)$0",
+		},
+		{
+			"trigger": "LFGListSearchPanel_ParseSearchTerms\t(...)",
+			"contents": "LFGListSearchPanel_ParseSearchTerms($1)$0",
+		},
+		{
+			"trigger": "LFGListSearchPanel_SelectResult\t(...)",
+			"contents": "LFGListSearchPanel_SelectResult($1)$0",
+		},
+		{
+			"trigger": "LFGListSearchPanel_SetCategory\t(...)",
+			"contents": "LFGListSearchPanel_SetCategory($1)$0",
+		},
+		{
+			"trigger": "LFGListSearchPanel_SignUp\t(...)",
+			"contents": "LFGListSearchPanel_SignUp($1)$0",
+		},
+		{
+			"trigger": "LFGListSearchPanel_UpdateAutoComplete\t(...)",
+			"contents": "LFGListSearchPanel_UpdateAutoComplete($1)$0",
+		},
+		{
+			"trigger": "LFGListSearchPanel_UpdateButtonStatus\t(...)",
+			"contents": "LFGListSearchPanel_UpdateButtonStatus($1)$0",
+		},
+		{
+			"trigger": "LFGListSearchPanel_UpdateResultList\t(...)",
+			"contents": "LFGListSearchPanel_UpdateResultList($1)$0",
+		},
+		{
+			"trigger": "LFGListSearchPanel_UpdateResults\t(...)",
+			"contents": "LFGListSearchPanel_UpdateResults($1)$0",
+		},
+		{
+			"trigger": "LFGListSearchPanel_ValidateSelected\t(...)",
+			"contents": "LFGListSearchPanel_ValidateSelected($1)$0",
+		},
+		{
+			"trigger": "LFGListSearchPanelSearchBox_OnArrowPressed\t(...)",
+			"contents": "LFGListSearchPanelSearchBox_OnArrowPressed($1)$0",
+		},
+		{
+			"trigger": "LFGListSearchPanelSearchBox_OnEnterPressed\t(...)",
+			"contents": "LFGListSearchPanelSearchBox_OnEnterPressed($1)$0",
+		},
+		{
+			"trigger": "LFGListSearchPanelSearchBox_OnTabPressed\t(...)",
+			"contents": "LFGListSearchPanelSearchBox_OnTabPressed($1)$0",
+		},
+		{
+			"trigger": "LFGListSearchPanelSearchBox_OnTextChanged\t(...)",
+			"contents": "LFGListSearchPanelSearchBox_OnTextChanged($1)$0",
+		},
+		{
+			"trigger": "LFGListSearchPanelUtil_CanSelectResult\t(...)",
+			"contents": "LFGListSearchPanelUtil_CanSelectResult($1)$0",
+		},
+		{
+			"trigger": "LFGListUtil_AppendStatistic\t(...)",
+			"contents": "LFGListUtil_AppendStatistic($1)$0",
+		},
+		{
+			"trigger": "LFGListUtil_AugmentWithBest\t(...)",
+			"contents": "LFGListUtil_AugmentWithBest($1)$0",
+		},
+		{
+			"trigger": "LFGListUtil_CanListGroup\t(...)",
+			"contents": "LFGListUtil_CanListGroup($1)$0",
+		},
+		{
+			"trigger": "LFGListUtil_CanSearchForGroup\t(...)",
+			"contents": "LFGListUtil_CanSearchForGroup($1)$0",
+		},
+		{
+			"trigger": "LFGListUtil_FilterApplicants\t(...)",
+			"contents": "LFGListUtil_FilterApplicants($1)$0",
+		},
+		{
+			"trigger": "LFGListUtil_FindQuestGroup\t(...)",
+			"contents": "LFGListUtil_FindQuestGroup($1)$0",
+		},
+		{
+			"trigger": "LFGListUtil_GetActiveQueueMessage\t(...)",
+			"contents": "LFGListUtil_GetActiveQueueMessage($1)$0",
+		},
+		{
+			"trigger": "LFGListUtil_GetApplicantMemberMenu\t(...)",
+			"contents": "LFGListUtil_GetApplicantMemberMenu($1)$0",
+		},
+		{
+			"trigger": "LFGListUtil_GetCurrentExpansion\t(...)",
+			"contents": "LFGListUtil_GetCurrentExpansion($1)$0",
+		},
+		{
+			"trigger": "LFGListUtil_GetDecoratedCategoryName\t(...)",
+			"contents": "LFGListUtil_GetDecoratedCategoryName($1)$0",
+		},
+		{
+			"trigger": "LFGListUtil_GetQuestCategoryData\t(...)",
+			"contents": "LFGListUtil_GetQuestCategoryData($1)$0",
+		},
+		{
+			"trigger": "LFGListUtil_GetSearchEntryMenu\t(...)",
+			"contents": "LFGListUtil_GetSearchEntryMenu($1)$0",
+		},
+		{
+			"trigger": "LFGListUtil_InitializeLangaugeFilter\t(...)",
+			"contents": "LFGListUtil_InitializeLangaugeFilter($1)$0",
+		},
+		{
+			"trigger": "LFGListUtil_IsAppEmpowered\t(...)",
+			"contents": "LFGListUtil_IsAppEmpowered($1)$0",
+		},
+		{
+			"trigger": "LFGListUtil_IsEntryEmpowered\t(...)",
+			"contents": "LFGListUtil_IsEntryEmpowered($1)$0",
+		},
+		{
+			"trigger": "LFGListUtil_IsStatusInactive\t(...)",
+			"contents": "LFGListUtil_IsStatusInactive($1)$0",
+		},
+		{
+			"trigger": "LFGListUtil_OpenBestWindow\t(...)",
+			"contents": "LFGListUtil_OpenBestWindow($1)$0",
+		},
+		{
+			"trigger": "LFGListUtil_SetAutoAccept\t(...)",
+			"contents": "LFGListUtil_SetAutoAccept($1)$0",
+		},
+		{
+			"trigger": "LFGListUtil_SetSearchEntryTooltip\t(...)",
+			"contents": "LFGListUtil_SetSearchEntryTooltip($1)$0",
+		},
+		{
+			"trigger": "LFGListUtil_SetUpDropDown\t(...)",
+			"contents": "LFGListUtil_SetUpDropDown($1)$0",
+		},
+		{
+			"trigger": "LFGListUtil_SortActivitiesByRelevancy\t(...)",
+			"contents": "LFGListUtil_SortActivitiesByRelevancy($1)$0",
+		},
+		{
+			"trigger": "LFGListUtil_SortActivitiesByRelevancyCB\t(...)",
+			"contents": "LFGListUtil_SortActivitiesByRelevancyCB($1)$0",
+		},
+		{
+			"trigger": "LFGListUtil_SortApplicants\t(...)",
+			"contents": "LFGListUtil_SortApplicants($1)$0",
+		},
+		{
+			"trigger": "LFGListUtil_SortApplicantsCB\t(...)",
+			"contents": "LFGListUtil_SortApplicantsCB($1)$0",
+		},
+		{
+			"trigger": "LFGListUtil_SortSearchResults\t(...)",
+			"contents": "LFGListUtil_SortSearchResults($1)$0",
+		},
+		{
+			"trigger": "LFGListUtil_SortSearchResultsCB\t(...)",
+			"contents": "LFGListUtil_SortSearchResultsCB($1)$0",
+		},
+		{
+			"trigger": "LFGListUtil_ValidateHonorLevelReq\t(...)",
+			"contents": "LFGListUtil_ValidateHonorLevelReq($1)$0",
+		},
+		{
+			"trigger": "LFGListUtil_ValidateLevelReq\t(...)",
+			"contents": "LFGListUtil_ValidateLevelReq($1)$0",
+		},
+		{
+			"trigger": "LFGQueueFrame_UpdateLFGDungeonList\t(...)",
+			"contents": "LFGQueueFrame_UpdateLFGDungeonList($1)$0",
+		},
+		{
+			"trigger": "LFGRandomList_OnEnter\t(...)",
+			"contents": "LFGRandomList_OnEnter($1)$0",
+		},
+		{
+			"trigger": "LFGRewardsFrame_EstimateRemainingCompletions\t(...)",
+			"contents": "LFGRewardsFrame_EstimateRemainingCompletions($1)$0",
+		},
+		{
+			"trigger": "LFGRewardsFrame_OnLoad\t(...)",
+			"contents": "LFGRewardsFrame_OnLoad($1)$0",
+		},
+		{
+			"trigger": "LFGRewardsFrame_SetItemButton\t(...)",
+			"contents": "LFGRewardsFrame_SetItemButton($1)$0",
+		},
+		{
+			"trigger": "LFGRewardsFrame_UpdateFrame\t(...)",
+			"contents": "LFGRewardsFrame_UpdateFrame($1)$0",
+		},
+		{
+			"trigger": "LFGRewardsFrameBonusRep_OnEvent\t(...)",
+			"contents": "LFGRewardsFrameBonusRep_OnEvent($1)$0",
+		},
+		{
+			"trigger": "LFGRewardsFrameBonusRep_OnLoad\t(...)",
+			"contents": "LFGRewardsFrameBonusRep_OnLoad($1)$0",
+		},
+		{
+			"trigger": "LFGRewardsFrameBonusRep_Update\t(...)",
+			"contents": "LFGRewardsFrameBonusRep_Update($1)$0",
+		},
+		{
+			"trigger": "LFGRewardsFrameEncounterList_OnEnter\t(...)",
+			"contents": "LFGRewardsFrameEncounterList_OnEnter($1)$0",
+		},
+		{
+			"trigger": "LFGRole_GetChecked\t(...)",
+			"contents": "LFGRole_GetChecked($1)$0",
+		},
+		{
+			"trigger": "LFGRole_SetChecked\t(...)",
+			"contents": "LFGRole_SetChecked($1)$0",
+		},
+		{
+			"trigger": "LFGRoleButton_LockReasonsTextTable\t(...)",
+			"contents": "LFGRoleButton_LockReasonsTextTable($1)$0",
+		},
+		{
+			"trigger": "LFGRoleButtonTemplate_OnEnter\t(...)",
+			"contents": "LFGRoleButtonTemplate_OnEnter($1)$0",
+		},
+		{
+			"trigger": "LFGRoleButtonTemplate_OnLoad\t(...)",
+			"contents": "LFGRoleButtonTemplate_OnLoad($1)$0",
+		},
+		{
+			"trigger": "LFGRoleCheckPopup_UpdateRoleButton\t(...)",
+			"contents": "LFGRoleCheckPopup_UpdateRoleButton($1)$0",
+		},
+		{
+			"trigger": "LFGRoleIconIncentive_OnEnter\t(...)",
+			"contents": "LFGRoleIconIncentive_OnEnter($1)$0",
+		},
+		{
+			"trigger": "LFGSpecificChoiceEnableButton_SetIsRadio\t(...)",
+			"contents": "LFGSpecificChoiceEnableButton_SetIsRadio($1)$0",
+		},
+		{
+			"trigger": "LFR_CanQueueForLockedInstances\t(...)",
+			"contents": "LFR_CanQueueForLockedInstances($1)$0",
+		},
+		{
+			"trigger": "LFR_CanQueueForMultiple\t(...)",
+			"contents": "LFR_CanQueueForMultiple($1)$0",
+		},
+		{
+			"trigger": "LFR_CanQueueForRaidLockedInstances\t(...)",
+			"contents": "LFR_CanQueueForRaidLockedInstances($1)$0",
+		},
+		{
+			"trigger": "LFR_CURRENT_FILTER\t(...)",
+			"contents": "LFR_CURRENT_FILTER($1)$0",
+		},
+		{
+			"trigger": "LFRBrowse_UpdateButtonStates\t(...)",
+			"contents": "LFRBrowse_UpdateButtonStates($1)$0",
+		},
+		{
+			"trigger": "LFRBrowseButton_OnClick\t(...)",
+			"contents": "LFRBrowseButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "LFRBrowseButton_OnEnter\t(...)",
+			"contents": "LFRBrowseButton_OnEnter($1)$0",
+		},
+		{
+			"trigger": "LFRBrowseFrame_OnLoad\t(...)",
+			"contents": "LFRBrowseFrame_OnLoad($1)$0",
+		},
+		{
+			"trigger": "LFRBrowseFrame_OnUpdateAlways\t(...)",
+			"contents": "LFRBrowseFrame_OnUpdateAlways($1)$0",
+		},
+		{
+			"trigger": "LFRBrowseFrameList_Update\t(...)",
+			"contents": "LFRBrowseFrameList_Update($1)$0",
+		},
+		{
+			"trigger": "LFRBrowseFrameListButton_SetData\t(...)",
+			"contents": "LFRBrowseFrameListButton_SetData($1)$0",
+		},
+		{
+			"trigger": "LFRBrowseFrameRaidDropDown_Initialize\t(...)",
+			"contents": "LFRBrowseFrameRaidDropDown_Initialize($1)$0",
+		},
+		{
+			"trigger": "LFRBrowseFrameRaidDropDown_SetUp\t(...)",
+			"contents": "LFRBrowseFrameRaidDropDown_SetUp($1)$0",
+		},
+		{
+			"trigger": "LFRBrowseFrameRaidDropDownButton_OnClick\t(...)",
+			"contents": "LFRBrowseFrameRaidDropDownButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "LFRBrowseFrameRefreshButton_OnUpdate\t(...)",
+			"contents": "LFRBrowseFrameRefreshButton_OnUpdate($1)$0",
+		},
+		{
+			"trigger": "LFRFrame_OnEvent\t(...)",
+			"contents": "LFRFrame_OnEvent($1)$0",
+		},
+		{
+			"trigger": "LFRFrame_OnLoad\t(...)",
+			"contents": "LFRFrame_OnLoad($1)$0",
+		},
+		{
+			"trigger": "LFRFrame_SetActiveTab\t(...)",
+			"contents": "LFRFrame_SetActiveTab($1)$0",
+		},
+		{
+			"trigger": "LFRFrameRoleCheckButton_OnClick\t(...)",
+			"contents": "LFRFrameRoleCheckButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "LFRQueueFrame_Join\t(...)",
+			"contents": "LFRQueueFrame_Join($1)$0",
+		},
+		{
+			"trigger": "LFRQueueFrame_QueueForInstanceIfEnabled\t(...)",
+			"contents": "LFRQueueFrame_QueueForInstanceIfEnabled($1)$0",
+		},
+		{
+			"trigger": "LFRQueueFrame_SetRoles\t(...)",
+			"contents": "LFRQueueFrame_SetRoles($1)$0",
+		},
+		{
+			"trigger": "LFRQueueFrame_Update\t(...)",
+			"contents": "LFRQueueFrame_Update($1)$0",
+		},
+		{
+			"trigger": "LFRQueueFrameDungeonChoiceEnableButton_OnClick\t(...)",
+			"contents": "LFRQueueFrameDungeonChoiceEnableButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "LFRQueueFrameExpandOrCollapseButton_OnClick\t(...)",
+			"contents": "LFRQueueFrameExpandOrCollapseButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "LFRQueueFrameFindGroupButton_Update\t(...)",
+			"contents": "LFRQueueFrameFindGroupButton_Update($1)$0",
+		},
+		{
+			"trigger": "LFRQueueFrameSpecificList_Update\t(...)",
+			"contents": "LFRQueueFrameSpecificList_Update($1)$0",
+		},
+		{
+			"trigger": "LFRQueueFrameSpecificListButton_SetDungeon\t(...)",
+			"contents": "LFRQueueFrameSpecificListButton_SetDungeon($1)$0",
+		},
+		{
+			"trigger": "LookingForGuild_RequestMembership\t(...)",
+			"contents": "LookingForGuild_RequestMembership($1)$0",
+		},
+		{
+			"trigger": "LookingForGuild_Update\t(...)",
+			"contents": "LookingForGuild_Update($1)$0",
+		},
+		{
+			"trigger": "LookingForGuild_UpdateRoleButton\t(...)",
+			"contents": "LookingForGuild_UpdateRoleButton($1)$0",
+		},
+		{
+			"trigger": "LookingForGuildApp_ShowTooltip\t(...)",
+			"contents": "LookingForGuildApp_ShowTooltip($1)$0",
+		},
+		{
+			"trigger": "LookingForGuildApps_Update\t(...)",
+			"contents": "LookingForGuildApps_Update($1)$0",
+		},
+		{
+			"trigger": "LookingForGuildAppsFrame_OnLoad\t(...)",
+			"contents": "LookingForGuildAppsFrame_OnLoad($1)$0",
+		},
+		{
+			"trigger": "LookingForGuildBrowseButton_Update\t(...)",
+			"contents": "LookingForGuildBrowseButton_Update($1)$0",
+		},
+		{
+			"trigger": "LookingForGuildBrowseFrame_OnLoad\t(...)",
+			"contents": "LookingForGuildBrowseFrame_OnLoad($1)$0",
+		},
+		{
+			"trigger": "LookingForGuildBrowseFrame_OnShow\t(...)",
+			"contents": "LookingForGuildBrowseFrame_OnShow($1)$0",
+		},
+		{
+			"trigger": "LookingForGuildCheckButton_OnEnter\t(...)",
+			"contents": "LookingForGuildCheckButton_OnEnter($1)$0",
+		},
+		{
+			"trigger": "LookingForGuildComment_SaveText\t(...)",
+			"contents": "LookingForGuildComment_SaveText($1)$0",
+		},
+		{
+			"trigger": "LookingForGuildFrame_LoadUI\t(...)",
+			"contents": "LookingForGuildFrame_LoadUI($1)$0",
+		},
+		{
+			"trigger": "LookingForGuildFrame_OnEvent\t(...)",
+			"contents": "LookingForGuildFrame_OnEvent($1)$0",
+		},
+		{
+			"trigger": "LookingForGuildFrame_OnHide\t(...)",
+			"contents": "LookingForGuildFrame_OnHide($1)$0",
+		},
+		{
+			"trigger": "LookingForGuildFrame_OnLoad\t(...)",
+			"contents": "LookingForGuildFrame_OnLoad($1)$0",
+		},
+		{
+			"trigger": "LookingForGuildFrame_OnShow\t(...)",
+			"contents": "LookingForGuildFrame_OnShow($1)$0",
+		},
+		{
+			"trigger": "LookingForGuildFrame_Toggle\t(...)",
+			"contents": "LookingForGuildFrame_Toggle($1)$0",
+		},
+		{
+			"trigger": "LookingForGuildFrame_Update\t(...)",
+			"contents": "LookingForGuildFrame_Update($1)$0",
+		},
+		{
+			"trigger": "LookingForGuildGuild_OnClick\t(...)",
+			"contents": "LookingForGuildGuild_OnClick($1)$0",
+		},
+		{
+			"trigger": "LookingForGuildGuild_ShowTooltip\t(...)",
+			"contents": "LookingForGuildGuild_ShowTooltip($1)$0",
+		},
+		{
+			"trigger": "LookingForGuildPlaystyleButton_OnClick\t(...)",
+			"contents": "LookingForGuildPlaystyleButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "LookingForGuildRoleButton_OnClick\t(...)",
+			"contents": "LookingForGuildRoleButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "LookingForGuildStartFrame_OnLoad\t(...)",
+			"contents": "LookingForGuildStartFrame_OnLoad($1)$0",
+		},
+		{
+			"trigger": "LoopbackVUMeter_OnLoad\t(...)",
+			"contents": "LoopbackVUMeter_OnLoad($1)$0",
+		},
+		{
+			"trigger": "LoopbackVUMeter_OnUpdate\t(...)",
+			"contents": "LoopbackVUMeter_OnUpdate($1)$0",
+		},
+		{
+			"trigger": "LootAlertFrame_OnEnter\t(...)",
+			"contents": "LootAlertFrame_OnEnter($1)$0",
+		},
+		{
+			"trigger": "LootButton_OnClick\t(...)",
+			"contents": "LootButton_OnClick($1)$0",
+		},
+		{
+			"trigger": "LootFrame_Close\t(...)",
+			"contents": "LootFrame_Close($1)$0",
+		},
+		{
+			"trigger": "LootFrame_InitAutoLootTable\t(...)",
+			"contents": "LootFrame_InitAutoLootTable($1)$0",
+		},
+		{
+			"trigger": "LootFrame_OnEvent\t(...)",
+			"contents": "LootFrame_OnEvent($1)$0",
+		},
+		{
+			"trigger": "LootFrame_OnHide\t(...)",
+			"contents": "LootFrame_OnHide($1)$0",
+		},
+		{
+			"trigger": "LootFrame_OnLoad\t(...)",
+			"contents": "LootFrame_OnLoad($1)$0",
+		},
+		{
+			"trigger": "LootFrame_OnShow\t(...)",
+			"contents": "LootFrame_OnShow($1)$0",
+		},
+		{
+			"trigger": "LootFrame_OnUpdate\t(...)",
+			"contents": "LootFrame_OnUpdate($1)$0",
+		},
+		{
+			"trigger": "LootFrame_PageDown\t(...)",
+			"contents": "LootFrame_PageDown($1)$0",
+		},
+		{
+			"trigger": "LootFrame_PageUp\t(...)",
+			"contents": "LootFrame_PageUp($1)$0",
+		},
+		{
+			"trigger": "LootFrame_Show\t(...)",
+			"contents": "LootFrame_Show($1)$0",
+		},
+		{
+			"trigger": "LootFrame_Update\t(...)",
+			"contents": "LootFrame_Update($1)$0",
+		},
+		{
+			"trigger": "LootFrame_UpdateButton\t(...)",
+			"contents": "LootFrame_UpdateButton($1)$0",
+		},
+		{
+			"trigger": "LootHistoryDropDown_GiveMasterLoot\t(...)",
+			"contents": "LootHistoryDropDown_GiveMasterLoot($1)$0",
+		},
+		{
+			"trigger": "LootHistoryDropDown_Initialize\t(...)",
+			"contents": "LootHistoryDropDown_Initialize($1)$0",
+		},
+		{
+			"trigger": "LootHistoryDropDown_OnClick\t(...)",
+			"contents": "LootHistoryDropDown_OnClick($1)$0",
+		},
+		{
+			"trigger": "LootHistoryDropDown_OnLoad\t(...)",
+			"contents": "LootHistoryDropDown_OnLoad($1)$0",
+		},
+		{
+			"trigger": "LootHistoryFrame_CollapseAll\t(...)",
+			"contents": "LootHistoryFrame_CollapseAll($1)$0",
+		},
+		{
+			"trigger": "LootHistoryFrame_FullUpdate\t(...)",
+			"contents": "LootHistoryFrame_FullUpdate($1)$0",
+		},
+		{
+			"trigger": "LootHistoryFrame_GetPlayerFrame\t(...)",
+			"contents": "LootHistoryFrame_GetPlayerFrame($1)$0",
+		},
+		{
+			"trigger": "LootHistoryFrame_OnEvent\t(...)",
+			"contents": "LootHistoryFrame_OnEvent($1)$0",
+		},
+		{
+			"trigger": "LootHistoryFrame_OnHide\t(...)",
+			"contents": "LootHistoryFrame_OnHide($1)$0",
+		},
+		{
+			"trigger": "LootHistoryFrame_OnLoad\t(...)",
+			"contents": "LootHistoryFrame_OnLoad($1)$0",
+		},
+		{
+			"trigger": "LootHistoryFrame_OpenToRoll\t(...)",
+			"contents": "LootHistoryFrame_OpenToRoll($1)$0",
+		},
+		{
+			"trigger": "LootHistoryFrame_RecycleAllPlayers\t(...)",
+			"contents": "LootHistoryFrame_RecycleAllPlayers($1)$0",
+		},
+		{
+			"trigger": "LootHistoryFrame_ResetHighlights\t(...)",
+			"contents": "LootHistoryFrame_ResetHighlights($1)$0",
+		},
+		{
+			"trigger": "LootHistoryFrame_SetRollExpanded\t(...)",
+			"contents": "LootHistoryFrame_SetRollExpanded($1)$0",
+		},
+		{
+			"trigger": "LootHistoryFrame_ToggleRollExpanded\t(...)",
+			"contents": "LootHistoryFrame_ToggleRollExpanded($1)$0",
+		},
+		{
+			"trigger": "LootHistoryFrame_ToggleWithRoll\t(...)",
+			"contents": "LootHistoryFrame_ToggleWithRoll($1)$0",
+		},
+		{
+			"trigger": "LootHistoryFrame_UpdateItemFrame\t(...)",
+			"contents": "LootHistoryFrame_UpdateItemFrame($1)$0",
+		},
+		{
+			"trigger": "LootHistoryFrame_UpdatePlayerFrame\t(...)",
+			"contents": "LootHistoryFrame_UpdatePlayerFrame($1)$0",
+		},
+		{
+			"trigger": "LootHistoryFrame_UpdatePlayerFrames\t(...)",
+			"contents": "LootHistoryFrame_UpdatePlayerFrames($1)$0",
+		},
+		{
+			"trigger": "LootHistoryFrame_UpdatePlayerRoll\t(...)",
+			"contents": "LootHistoryFrame_UpdatePlayerRoll($1)$0",
+		},
+		{
+			"trigger": "LootHistoryFrameUtil_ShouldDisplayPlayer\t(...)",
+			"contents": "LootHistoryFrameUtil_ShouldDisplayPlayer($1)$0",
+		},
+		{
+			"trigger": "LootHistoryPlayerFrame_OnClick\t(...)",
+			"contents": "LootHistoryPlayerFrame_OnClick($1)$0",
+		},
+		{
+			"trigger": "LootItem_OnEnter\t(...)",
+			"contents": "LootItem_OnEnter($1)$0",
+		},
+		{
+			"trigger": "LootJournal_GetPreviewClassAndSpec\t(...)",
+			"contents": "LootJournal_GetPreviewClassAndSpec($1)$0",
+		},
+		{
+			"trigger": "LootJournalClassDropDown_OnLoad\t(...)",
+			"contents": "LootJournalClassDropDown_OnLoad($1)$0",
+		},
+		{
+			"trigger": "LootJournalItemButton_OnUpdate\t(...)",
+			"contents": "LootJournalItemButton_OnUpdate($1)$0",
+		},
+		{
+			"trigger": "LootJournalLegendariesSlotDropDown_OnLoad\t(...)",
+			"contents": "LootJournalLegendariesSlotDropDown_OnLoad($1)$0",
+		},
+		{
+			"trigger": "LootJournalViewDropDown_OnLoad\t(...)",
+			"contents": "LootJournalViewDropDown_OnLoad($1)$0",
+		},
+		{
+			"trigger": "LootUpgradeFrame_AnimDone\t(...)",
+			"contents": "LootUpgradeFrame_AnimDone($1)$0",
+		},
+		{
+			"trigger": "LootUpgradeFrame_OnClick\t(...)",
+			"contents": "LootUpgradeFrame_OnClick($1)$0",
+		},
+		{
+			"trigger": "LootUpgradeFrame_SetUp\t(...)",
+			"contents": "LootUpgradeFrame_SetUp($1)$0",
+		},
+		{
+			"trigger": "LootWonAlertFrame_OnClick\t(...)",
+			"contents": "LootWonAlertFrame_OnClick($1)$0",
+		},
+		{
+			"trigger": "LootWonAlertFrame_SetUp\t(...)",
+			"contents": "LootWonAlertFrame_SetUp($1)$0",
+		},
+		{
+			"trigger": "LossOfControlFrame_OnEvent\t(...)",
+			"contents": "LossOfControlFrame_OnEvent($1)$0",
+		},
+		{
+			"trigger": "LossOfControlFrame_OnHide\t(...)",
+			"contents": "LossOfControlFrame_OnHide($1)$0",
+		},
+		{
+			"trigger": "LossOfControlFrame_OnLoad\t(...)",
+			"contents": "LossOfControlFrame_OnLoad($1)$0",
+		},
+		{
+			"trigger": "LossOfControlFrame_OnUpdate\t(...)",
+			"contents": "LossOfControlFrame_OnUpdate($1)$0",
+		},
+		{
+			"trigger": "LossOfControlFrame_SetUpDisplay\t(...)",
+			"contents": "LossOfControlFrame_SetUpDisplay($1)$0",
+		},
+		{
+			"trigger": "LossOfControlFrame_UpdateDisplay\t(...)",
+			"contents": "LossOfControlFrame_UpdateDisplay($1)$0",
+		},
+		{
+			"trigger": "LossOfControlTimeLeftFrame_SetTime\t(...)",
+			"contents": "LossOfControlTimeLeftFrame_SetTime($1)$0",
+		},
+		{
+			"trigger": "LowHealth_OnUpdate\t(...)",
+			"contents": "LowHealth_OnUpdate($1)$0",
+		},
+		{
 			"trigger": "WorldMap_AddQuestTimeToTooltip\t(questID)",
 			"contents": "WorldMap_AddQuestTimeToTooltip(${1:questID})$0",
 		},
