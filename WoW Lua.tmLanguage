@@ -211,6 +211,24 @@
 			<key>name</key>
 			<string>meta.function.lua</string>
 		</dict>
+		<!-- Frame types -->
+		<dict>
+			<key>match</key>
+			<string>(CreateFrame)\s*(\()\s*(['"](Button|ColorSelect|Cooldown|EditBox|Frame|GameTooltip|MessageFrame|Minimap|Model|ScrollFrame|ScrollingMessageFrame|SimpleHTML|Slider|StatusBar)['"])</string>
+			<key>captures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
+				<key>3</key>
+				<dict>
+					<key>name</key>
+					<string>variable.parameter.wow.objecttype</string>
+				</dict>
+			</dict>
+		</dict>
 		<!-- Widget handlers -->
 		<dict>
 			<key>name</key>
