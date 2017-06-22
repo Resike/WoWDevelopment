@@ -252,12 +252,12 @@
 				<key>1</key>
 				<dict>
 					<key>name</key>
-					<string>support.function.wow-api</string>
+					<string>support.type.widget-api.lua</string>
 				</dict>
 				<key>3</key>
 				<dict>
 					<key>name</key>
-					<string>variable.parameter.wow.objecttype</string>
+					<string>variable.parameter.wow.attribute</string>
 				</dict>
 			</dict>
 		</dict>
@@ -1790,11 +1790,6 @@
 				<dict>
 					<key>name</key>
 					<string>support.type.widget-api.lua</string>
-				</dict>
-				<key>2</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.widget-api.lua</string>
 				</dict>
 			</dict>
 			<key>match</key>

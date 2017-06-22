@@ -1059,7 +1059,7 @@
 		},
 		{
 			"trigger": "Frame:GetAttribute\t(\"name\")",
-			"contents": "${2:Frame}:GetAttribute(\"${3:name}\")$0",
+			"contents": "${1:Frame}:GetAttribute(${2:\"name\"})$0",
 		},
 		{
 			"trigger": "Frame:GetBackdrop\t()",
@@ -1223,7 +1223,7 @@
 		},
 		{
 			"trigger": "Frame:SetAttribute\t(\"name\", value)",
-			"contents": "${1:Frame}:SetAttribute(\"${2:name}\", ${3:value})$0",
+			"contents": "${1:Frame}:SetAttribute(${2:\"name\"}, ${3:value})$0",
 		},
 		{
 			"trigger": "Frame:SetBackdrop\t(backdrop)",
@@ -1255,7 +1255,7 @@
 		},
 		{
 			"trigger": "Frame:SetFrameStrata\t(\"strata\")",
-			"contents": "${1:Frame}:SetFrameStrata(\"${2:strata}\")$0",
+			"contents": "${1:Frame}:SetFrameStrata(${2:\"strata\"})$0",
 		},
 		{
 			"trigger": "Frame:SetHitRectInsets\t(left, right, top, bottom)",
@@ -1603,7 +1603,7 @@
 		},
 		{
 			"trigger": "GetAttribute\t(\"name\")",
-			"contents": "GetAttribute(\"${3:name}\")$0",
+			"contents": "GetAttribute(${3:\"name\"})$0",
 		},
 		{
 			"trigger": "GetBackdrop\t()",
@@ -2027,7 +2027,7 @@
 		},
 		{
 			"trigger": "GetPoint\t(index)",
-			"contents": "GetPoint(${7:index})$0",
+			"contents": "GetPoint(${1:index})$0",
 		},
 		{
 			"trigger": "GetPosition\t()",
@@ -2787,7 +2787,7 @@
 		},
 		{
 			"trigger": "Region:GetPoint\t(index)",
-			"contents": "${6:Region}:GetPoint(${7:index})$0",
+			"contents": "${1:Region}:GetPoint(${2:index})$0",
 		},
 		{
 			"trigger": "Region:GetRect\t()",
@@ -2843,7 +2843,7 @@
 		},
 		{
 			"trigger": "Region:SetPoint\t(\"point\", [relativeTo], [\"relativePoint\"], [xOffset], [yOffset])",
-			"contents": "${1:Region}:SetPoint(\"${2:point}\", ${3:[relativeTo]}, ${4:[\"relativePoint\"]}, ${5:[xOffset]}, ${6:[yOffset]})$0",
+			"contents": "${1:Region}:SetPoint(${2:\"point\"}, ${3:[relativeTo]}, ${4:[\"relativePoint\"]}, ${5:[xOffset]}, ${6:[yOffset]})$0",
 		},
 		{
 			"trigger": "Region:SetSize\t(width, height)",
@@ -3147,7 +3147,7 @@
 		},
 		{
 			"trigger": "SetAttribute\t(\"name\", value)",
-			"contents": "SetAttribute(\"${2:name}\", ${3:value})$0",
+			"contents": "SetAttribute(${2:\"name\"}, ${3:value})$0",
 		},
 		{
 			"trigger": "SetAuctionItem\t(\"list\", index)",
@@ -3183,7 +3183,7 @@
 		},
 		{
 			"trigger": "SetBlendMode\t(\"mode\")",
-			"contents": "SetBlendMode(\"${2:mode}\")$0",
+			"contents": "SetBlendMode(${2:\"mode\"})$0",
 		},
 		{
 			"trigger": "SetBlinkSpeed\t(duration)",
@@ -3423,7 +3423,7 @@
 		},
 		{
 			"trigger": "SetFrameStrata\t(\"strata\")",
-			"contents": "SetFrameStrata(\"${2:strata}\")$0",
+			"contents": "SetFrameStrata(${2:\"strata\"})$0",
 		},
 		{
 			"trigger": "SetGlow\t(amount)",
@@ -3715,7 +3715,7 @@
 		},
 		{
 			"trigger": "SetPoint\t(\"point\", [relativeTo], [\"relativePoint\"], [xOffset], [yOffset])",
-			"contents": "SetPoint(\"${2:point}\", ${3:[relativeTo]}, ${4:[\"relativePoint\"]}, ${5:[xOffset]}, ${6:[yOffset]})$0",
+			"contents": "SetPoint(${1:\"point\"}, ${2:[relativeTo]}, ${3:[\"relativePoint\"]}, ${4:[xOffset]}, ${5:[yOffset]})$0",
 		},
 		{
 			"trigger": "SetPosition\t(x, y, z)",
@@ -4211,7 +4211,7 @@
 		},
 		{
 			"trigger": "Texture:SetBlendMode\t(\"mode\")",
-			"contents": "${1:Texture}:SetBlendMode(\"${2:mode}\")$0",
+			"contents": "${1:Texture}:SetBlendMode(${2:\"mode\"})$0",
 		},
 		{
 			"trigger": "Texture:SetDesaturated\t(desaturate)",
@@ -4707,7 +4707,7 @@
 		},
 		{
 			"trigger": "_Frame:GetAttribute\t(\"name\")",
-			"contents": "${1:value} = ${2:Frame}:GetAttribute(\"${3:name}\")$0",
+			"contents": "${1:value} = ${2:Frame}:GetAttribute(${3:\"name\"})$0",
 		},
 		{
 			"trigger": "_Frame:GetBackdrop\t()",
