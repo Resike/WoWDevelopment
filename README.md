@@ -1,6 +1,8 @@
 # WoWDevelopment
 World of Warcraft Syntax Highlight and Auto-Completion for Sublime Text 2/3.
 
+![](http://i.imgur.com/4f65dfl.png)
+
 # Features:
 
 * Full API syntax highlighting for lua, xml and toc files.
