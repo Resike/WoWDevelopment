@@ -41,59 +41,59 @@
 
 		{
 			"trigger": "Button\t\"frameType\"",
-			"contents": "\"Button\"\"",
+			"contents": "\"Button\"",
 		},
 		{
 			"trigger": "ColorSelect\t\"frameType\"",
-			"contents": "\"ColorSelect\"\"",
+			"contents": "\"ColorSelect\"",
 		},
 		{
 			"trigger": "Cooldown\t\"frameType\"",
-			"contents": "\"Cooldown\"\"",
+			"contents": "\"Cooldown\"",
 		},
 		{
 			"trigger": "EditBox\t\"frameType\"",
-			"contents": "\"EditBox\"\"",
+			"contents": "\"EditBox\"",
 		},
 		{
 			"trigger": "Frame\t\"frameType\"",
-			"contents": "\"Frame\"\"",
+			"contents": "\"Frame\"",
 		},
 		{
 			"trigger": "GameTooltip\t\"frameType\"",
-			"contents": "\"GameTooltip\"\"",
+			"contents": "\"GameTooltip\"",
 		},
 		{
 			"trigger": "MessageFrame\t\"frameType\"",
-			"contents": "\"MessageFrame\"\"",
+			"contents": "\"MessageFrame\"",
 		},
 		{
 			"trigger": "Minimap\t\"frameType\"",
-			"contents": "\"Minimap\"\"",
+			"contents": "\"Minimap\"",
 		},
 		{
 			"trigger": "Model\t\"frameType\"",
-			"contents": "\"Model\"\"",
+			"contents": "\"Model\"",
 		},
 		{
 			"trigger": "ScrollFrame\t\"frameType\"",
-			"contents": "\"ScrollFrame\"\"",
+			"contents": "\"ScrollFrame\"",
 		},
 		{
 			"trigger": "ScrollingMessageFrame\t\"frameType\"",
-			"contents": "\"ScrollingMessageFrame\"\"",
+			"contents": "\"ScrollingMessageFrame\"",
 		},
 		{
 			"trigger": "SimpleHTML\t\"frameType\"",
-			"contents": "\"SimpleHTML\"\"",
+			"contents": "\"SimpleHTML\"",
 		},
 		{
 			"trigger": "Slider\t\"frameType\"",
-			"contents": "\"Slider\"\"",
+			"contents": "\"Slider\"",
 		},
 		{
 			"trigger": "StatusBar\t\"frameType\"",
-			"contents": "\"StatusBar\"\"",
+			"contents": "\"StatusBar\"",
 		},
 
 
