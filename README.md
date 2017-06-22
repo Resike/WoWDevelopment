@@ -25,5 +25,6 @@ Ignored globals:
 * Global Functions: *Reference\API Reference\API Reference (blizzard).txt*
 * Global Booleans: *Reference\Global Reference\Global Booleans.txt*
 * Global Numbers: *Reference\Global Reference\Global Numbers.txt*
+* Global Strings: *Reference\Global Reference\Global Strings.txt*
 
 If you would like to enable autocomplete for these, just change the *.txt* extension to: *.sublime-completions*.
