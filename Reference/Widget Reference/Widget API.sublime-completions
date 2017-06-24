@@ -2087,7 +2087,7 @@
 		},
 		{
 			"trigger": "GetScript\t(\"scriptType\")",
-			"contents": "GetScript(\"${3:scriptType}\")$0",
+			"contents": "GetScript(${1:\"scriptType\"})$0",
 		},
 		{
 			"trigger": "GetScrollChild\t()",
@@ -2255,7 +2255,7 @@
 		},
 		{
 			"trigger": "HookScript\t(\"scriptType\", handler)",
-			"contents": "HookScript(\"${2:scriptType}\", ${3:handler})$0",
+			"contents": "HookScript(${1:\"scriptType\"}, ${2:handler})$0",
 		},
 		{
 			"trigger": "IgnoreDepth\t(enable)",
@@ -2927,7 +2927,7 @@
 		},
 		{
 			"trigger": "ScriptObject:GetScript\t(\"scriptType\")",
-			"contents": "${2:ScriptObject}:GetScript(\"${3:scriptType}\")$0",
+			"contents": "${1:ScriptObject}:GetScript(${2:\"scriptType\"})$0",
 		},
 		{
 			"trigger": "ScriptObject:HasScript\t(\"scriptType\")",
@@ -2935,11 +2935,11 @@
 		},
 		{
 			"trigger": "ScriptObject:HookScript\t(\"scriptType\", handler)",
-			"contents": "${1:ScriptObject}:HookScript(\"${2:scriptType}\", ${3:handler})$0",
+			"contents": "${1:ScriptObject}:HookScript(${2:\"scriptType\"}, ${3:handler})$0",
 		},
 		{
 			"trigger": "ScriptObject:SetScript\t(\"scriptType\", handler)",
-			"contents": "${1:ScriptObject}:SetScript(\"${2:scriptType}\", ${3:handler})$0",
+			"contents": "${1:ScriptObject}:SetScript(${2:\"scriptType\"}, ${3:handler})$0",
 		},
 		{
 			"trigger": "ScrollDown\t()",
@@ -3791,7 +3791,7 @@
 		},
 		{
 			"trigger": "SetScript\t(\"scriptType\", handler)",
-			"contents": "SetScript(\"${2:scriptType}\", ${3:handler})$0",
+			"contents": "SetScript(${1:\"scriptType\"}, ${2:handler})$0",
 		},
 		{
 			"trigger": "SetScrollChild\t(frame)",
@@ -5075,7 +5075,7 @@
 		},
 		{
 			"trigger": "_ScriptObject:GetScript\t(\"scriptType\")",
-			"contents": "${1:handler} = ${2:ScriptObject}:GetScript(\"${3:scriptType}\")$0",
+			"contents": "${1:handler} = ${2:ScriptObject}:GetScript(${3:\"scriptType\"})$0",
 		},
 		{
 			"trigger": "_ScriptObject:HasScript\t(\"scriptType\")",
