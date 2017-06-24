@@ -1,265 +1,265 @@
 {
-	"scope": "source.lua - keyword.control.lua - constant.language.lua - string",
+	"scope": "source.lua",
 	"completions": [
 		{
 			"trigger": "OnAnimFinished\t\"scriptType\"",
-			"contents": "\"OnAnimFinished\"",
+			"contents": "OnAnimFinished",
 		},
 		{
 			"trigger": "OnAttributeChanged\t\"scriptType\"",
-			"contents": "\"OnAttributeChanged\"",
+			"contents": "OnAttributeChanged",
 		},
 		{
 			"trigger": "OnChar\t\"scriptType\"",
-			"contents": "\"OnChar\"",
+			"contents": "OnChar",
 		},
 		{
 			"trigger": "OnCharComposition\t\"scriptType\"",
-			"contents": "\"OnCharComposition\"",
+			"contents": "OnCharComposition",
 		},
 		{
 			"trigger": "OnClick\t\"scriptType\"",
-			"contents": "\"OnClick\"",
+			"contents": "OnClick",
 		},
 		{
 			"trigger": "OnColorSelect\t\"scriptType\"",
-			"contents": "\"OnColorSelect\"",
+			"contents": "OnColorSelect",
 		},
 		{
 			"trigger": "OnCursorChanged\t\"scriptType\"",
-			"contents": "\"OnCursorChanged\"",
+			"contents": "OnCursorChanged",
 		},
 		{
 			"trigger": "OnDisable\t\"scriptType\"",
-			"contents": "\"OnDisable\"",
+			"contents": "OnDisable",
 		},
 		{
 			"trigger": "OnDoubleClick\t\"scriptType\"",
-			"contents": "\"OnDoubleClick\"",
+			"contents": "OnDoubleClick",
 		},
 		{
 			"trigger": "OnDragStart\t\"scriptType\"",
-			"contents": "\"OnDragStart\"",
+			"contents": "OnDragStart",
 		},
 		{
 			"trigger": "OnDragStop\t\"scriptType\"",
-			"contents": "\"OnDragStop\"",
+			"contents": "OnDragStop",
 		},
 		{
 			"trigger": "OnEditFocusGained\t\"scriptType\"",
-			"contents": "\"OnEditFocusGained\"",
+			"contents": "OnEditFocusGained",
 		},
 		{
 			"trigger": "OnEditFocusLost\t\"scriptType\"",
-			"contents": "\"OnEditFocusLost\"",
+			"contents": "OnEditFocusLost",
 		},
 		{
 			"trigger": "OnEnable\t\"scriptType\"",
-			"contents": "\"OnEnable\"",
+			"contents": "OnEnable",
 		},
 		{
 			"trigger": "OnEnter\t\"scriptType\"",
-			"contents": "\"OnEnter\"",
+			"contents": "OnEnter",
 		},
 		{
 			"trigger": "OnEnterPressed\t\"scriptType\"",
-			"contents": "\"OnEnterPressed\"",
+			"contents": "OnEnterPressed",
 		},
 		{
 			"trigger": "OnEscapePressed\t\"scriptType\"",
-			"contents": "\"OnEscapePressed\"",
+			"contents": "OnEscapePressed",
 		},
 		{
 			"trigger": "OnEvent\t\"scriptType\"",
-			"contents": "\"OnEvent\"",
+			"contents": "OnEvent",
 		},
 		{
 			"trigger": "OnFinished\t\"scriptType\"",
-			"contents": "\"OnFinished\"",
+			"contents": "OnFinished",
 		},
 		{
 			"trigger": "OnHide\t\"scriptType\"",
-			"contents": "\"OnHide\"",
+			"contents": "OnHide",
 		},
 		{
 			"trigger": "OnHorizontalScroll\t\"scriptType\"",
-			"contents": "\"OnHorizontalScroll\"",
+			"contents": "OnHorizontalScroll",
 		},
 		{
 			"trigger": "OnHyperlinkClick\t\"scriptType\"",
-			"contents": "\"OnHyperlinkClick\"",
+			"contents": "OnHyperlinkClick",
 		},
 		{
 			"trigger": "OnHyperlinkEnter\t\"scriptType\"",
-			"contents": "\"OnHyperlinkEnter\"",
+			"contents": "OnHyperlinkEnter",
 		},
 		{
 			"trigger": "OnHyperlinkLeave\t\"scriptType\"",
-			"contents": "\"OnHyperlinkLeave\"",
+			"contents": "OnHyperlinkLeave",
 		},
 		{
 			"trigger": "OnInputLanguageChanged\t\"scriptType\"",
-			"contents": "\"OnInputLanguageChanged\"",
+			"contents": "OnInputLanguageChanged",
 		},
 		{
 			"trigger": "OnKeyDown\t\"scriptType\"",
-			"contents": "\"OnKeyDown\"",
+			"contents": "OnKeyDown",
 		},
 		{
 			"trigger": "OnKeyUp\t\"scriptType\"",
-			"contents": "\"OnKeyUp\"",
+			"contents": "OnKeyUp",
 		},
 		{
 			"trigger": "OnLeave\t\"scriptType\"",
-			"contents": "\"OnLeave\"",
+			"contents": "OnLeave",
 		},
 		{
 			"trigger": "OnLoad\t\"scriptType\"",
-			"contents": "\"OnLoad\"",
+			"contents": "OnLoad",
 		},
 		{
 			"trigger": "OnLoop\t\"scriptType\"",
-			"contents": "\"OnLoop\"",
+			"contents": "OnLoop",
 		},
 		{
 			"trigger": "OnMessageScrollChanged\t\"scriptType\"",
-			"contents": "\"OnMessageScrollChanged\"",
+			"contents": "OnMessageScrollChanged",
 		},
 		{
 			"trigger": "OnMinMaxChanged\t\"scriptType\"",
-			"contents": "\"OnMinMaxChanged\"",
+			"contents": "OnMinMaxChanged",
 		},
 		{
 			"trigger": "OnMouseDown\t\"scriptType\"",
-			"contents": "\"OnMouseDown\"",
+			"contents": "OnMouseDown",
 		},
 		{
 			"trigger": "OnMouseUp\t\"scriptType\"",
-			"contents": "\"OnMouseUp\"",
+			"contents": "OnMouseUp",
 		},
 		{
 			"trigger": "OnMouseWheel\t\"scriptType\"",
-			"contents": "\"OnMouseWheel\"",
+			"contents": "OnMouseWheel",
 		},
 		{
 			"trigger": "OnMovieFinished\t\"scriptType\"",
-			"contents": "\"OnMovieFinished\"",
+			"contents": "OnMovieFinished",
 		},
 		{
 			"trigger": "OnMovieHideSubtitle\t\"scriptType\"",
-			"contents": "\"OnMovieHideSubtitle\"",
+			"contents": "OnMovieHideSubtitle",
 		},
 		{
 			"trigger": "OnMovieShowSubtitle\t\"scriptType\"",
-			"contents": "\"OnMovieShowSubtitle\"",
+			"contents": "OnMovieShowSubtitle",
 		},
 		{
 			"trigger": "OnPause\t\"scriptType\"",
-			"contents": "\"OnPause\"",
+			"contents": "OnPause",
 		},
 		{
 			"trigger": "OnPlay\t\"scriptType\"",
-			"contents": "\"OnPlay\"",
+			"contents": "OnPlay",
 		},
 		{
 			"trigger": "OnReceiveDrag\t\"scriptType\"",
-			"contents": "\"OnReceiveDrag\"",
+			"contents": "OnReceiveDrag",
 		},
 		{
 			"trigger": "OnScrollRangeChanged\t\"scriptType\"",
-			"contents": "\"OnScrollRangeChanged\"",
+			"contents": "OnScrollRangeChanged",
 		},
 		{
 			"trigger": "OnShow\t\"scriptType\"",
-			"contents": "\"OnShow\"",
+			"contents": "OnShow",
 		},
 		{
 			"trigger": "OnSizeChanged\t\"scriptType\"",
-			"contents": "\"OnSizeChanged\"",
+			"contents": "OnSizeChanged",
 		},
 		{
 			"trigger": "OnSpacePressed\t\"scriptType\"",
-			"contents": "\"OnSpacePressed\"",
+			"contents": "OnSpacePressed",
 		},
 		{
 			"trigger": "OnStop\t\"scriptType\"",
-			"contents": "\"OnStop\"",
+			"contents": "OnStop",
 		},
 		{
 			"trigger": "OnTabPressed\t\"scriptType\"",
-			"contents": "\"OnTabPressed\"",
+			"contents": "OnTabPressed",
 		},
 		{
 			"trigger": "OnTextChanged\t\"scriptType\"",
-			"contents": "\"OnTextChanged\"",
+			"contents": "OnTextChanged",
 		},
 		{
 			"trigger": "OnTextSet\t\"scriptType\"",
-			"contents": "\"OnTextSet\"",
+			"contents": "OnTextSet",
 		},
 		{
 			"trigger": "OnTooltipAddMoney\t\"scriptType\"",
-			"contents": "\"OnTooltipAddMoney\"",
+			"contents": "OnTooltipAddMoney",
 		},
 		{
 			"trigger": "OnTooltipCleared\t\"scriptType\"",
-			"contents": "\"OnTooltipCleared\"",
+			"contents": "OnTooltipCleared",
 		},
 		{
 			"trigger": "OnTooltipSetAchievement\t\"scriptType\"",
-			"contents": "\"OnTooltipSetAchievement\"",
+			"contents": "OnTooltipSetAchievement",
 		},
 		{
 			"trigger": "OnTooltipSetDefaultAnchor\t\"scriptType\"",
-			"contents": "\"OnTooltipSetDefaultAnchor\"",
+			"contents": "OnTooltipSetDefaultAnchor",
 		},
 		{
 			"trigger": "OnTooltipSetEquipmentSet\t\"scriptType\"",
-			"contents": "\"OnTooltipSetEquipmentSet\"",
+			"contents": "OnTooltipSetEquipmentSet",
 		},
 		{
 			"trigger": "OnTooltipSetFrameStack\t\"scriptType\"",
-			"contents": "\"OnTooltipSetFrameStack\"",
+			"contents": "OnTooltipSetFrameStack",
 		},
 		{
 			"trigger": "OnTooltipSetItem\t\"scriptType\"",
-			"contents": "\"OnTooltipSetItem\"",
+			"contents": "OnTooltipSetItem",
 		},
 		{
 			"trigger": "OnTooltipSetQuest\t\"scriptType\"",
-			"contents": "\"OnTooltipSetQuest\"",
+			"contents": "OnTooltipSetQuest",
 		},
 		{
 			"trigger": "OnTooltipSetSpell\t\"scriptType\"",
-			"contents": "\"OnTooltipSetSpell\"",
+			"contents": "OnTooltipSetSpell",
 		},
 		{
 			"trigger": "OnTooltipSetUnit\t\"scriptType\"",
-			"contents": "\"OnTooltipSetUnit\"",
+			"contents": "OnTooltipSetUnit",
 		},
 		{
 			"trigger": "OnUpdate\t\"scriptType\"",
-			"contents": "\"OnUpdate\"",
+			"contents": "OnUpdate",
 		},
 		{
 			"trigger": "OnUpdateModel\t\"scriptType\"",
-			"contents": "\"OnUpdateModel\"",
+			"contents": "OnUpdateModel",
 		},
 		{
 			"trigger": "OnValueChanged\t\"scriptType\"",
-			"contents": "\"OnValueChanged\"",
+			"contents": "OnValueChanged",
 		},
 		{
 			"trigger": "OnVerticalScroll\t\"scriptType\"",
-			"contents": "\"OnVerticalScroll\"",
+			"contents": "OnVerticalScroll",
 		},
 		{
 			"trigger": "PostClick\t\"scriptType\"",
-			"contents": "\"PostClick\"",
+			"contents": "PostClick",
 		},
 		{
 			"trigger": "PreClick\t\"scriptType\"",
-			"contents": "\"PreClick\"",
+			"contents": "PreClick",
 		},
 		{
 			"trigger": "_OnAnimFinished\t(self)",

@@ -1,5 +1,5 @@
 {
-	"scope": "source.lua - keyword.control.lua - constant.language.lua - string",
+	"scope": "source.lua",
 	"completions": [
 		{
 			"trigger": "7.0_NIGHTMARE_RAID_XAVIUS_NIGHTMARE_CORRUPTION\tstring",

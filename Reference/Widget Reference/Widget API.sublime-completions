@@ -1,5 +1,5 @@
 {
-	"scope": "source.lua - keyword.control.lua - constant.language.lua - string",
+	"scope": "source.lua",
 	"completions": [
 		{
 			"trigger": "AddDoubleLine\t(\"textLeft\", \"textRight\", [rL], [gL], [bL], [rR], [gR], [bR])",
@@ -607,7 +607,7 @@
 		},
 		{
 			"trigger": "CreateTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
-			"contents": "CreateTexture(${3:[\"name\"]}, ${4:[\"layer\"]}, ${5:[\"inherits\"]}, ${6:[sublevel]})$0",
+			"contents": "CreateTexture(${3:[\"name\"]}, \"${4:[layer]}\", ${5:[\"inherits\"]}, ${6:[sublevel]})$0",
 		},
 		{
 			"trigger": "CreateTitleRegion\t()",
@@ -1027,7 +1027,7 @@
 		},
 		{
 			"trigger": "Frame:CreateTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
-			"contents": "${2:Frame}:CreateTexture(${3:[\"name\"]}, ${4:[\"layer\"]}, ${5:[\"inherits\"]}, ${6:[sublevel]})$0",
+			"contents": "${2:Frame}:CreateTexture(${3:[\"name\"]}, \"${4:[layer]}\", ${5:[\"inherits\"]}, ${6:[sublevel]})$0",
 		},
 		{
 			"trigger": "Frame:CreateTitleRegion\t()",
@@ -1255,7 +1255,7 @@
 		},
 		{
 			"trigger": "Frame:SetFrameStrata\t(\"strata\")",
-			"contents": "${1:Frame}:SetFrameStrata(${2:\"strata\"})$0",
+			"contents": "${1:Frame}:SetFrameStrata(\"${2:strata}\")$0",
 		},
 		{
 			"trigger": "Frame:SetHitRectInsets\t(left, right, top, bottom)",
@@ -2087,7 +2087,7 @@
 		},
 		{
 			"trigger": "GetScript\t(\"scriptType\")",
-			"contents": "GetScript(${1:\"scriptType\"})$0",
+			"contents": "GetScript(\"${1:scriptType}\")$0",
 		},
 		{
 			"trigger": "GetScrollChild\t()",
@@ -2255,7 +2255,7 @@
 		},
 		{
 			"trigger": "HookScript\t(\"scriptType\", handler)",
-			"contents": "HookScript(${1:\"scriptType\"}, ${2:handler})$0",
+			"contents": "HookScript(\"${1:scriptType}\", ${2:handler})$0",
 		},
 		{
 			"trigger": "IgnoreDepth\t(enable)",
@@ -2843,7 +2843,7 @@
 		},
 		{
 			"trigger": "Region:SetPoint\t(\"point\", [relativeTo], [\"relativePoint\"], [xOffset], [yOffset])",
-			"contents": "${1:Region}:SetPoint(${2:\"point\"}, ${3:[relativeTo]}, ${4:[\"relativePoint\"]}, ${5:[xOffset]}, ${6:[yOffset]})$0",
+			"contents": "${1:Region}:SetPoint(\"${2:point}\", ${3:[relativeTo]}, \"${4:[relativePoint]}\", ${5:[xOffset]}, ${6:[yOffset]})$0",
 		},
 		{
 			"trigger": "Region:SetSize\t(width, height)",
@@ -2927,7 +2927,7 @@
 		},
 		{
 			"trigger": "ScriptObject:GetScript\t(\"scriptType\")",
-			"contents": "${1:ScriptObject}:GetScript(${2:\"scriptType\"})$0",
+			"contents": "${1:ScriptObject}:GetScript(\"${2:scriptType}\")$0",
 		},
 		{
 			"trigger": "ScriptObject:HasScript\t(\"scriptType\")",
@@ -2935,11 +2935,11 @@
 		},
 		{
 			"trigger": "ScriptObject:HookScript\t(\"scriptType\", handler)",
-			"contents": "${1:ScriptObject}:HookScript(${2:\"scriptType\"}, ${3:handler})$0",
+			"contents": "${1:ScriptObject}:HookScript(\"${2:scriptType}\", ${3:handler})$0",
 		},
 		{
 			"trigger": "ScriptObject:SetScript\t(\"scriptType\", handler)",
-			"contents": "${1:ScriptObject}:SetScript(${2:\"scriptType\"}, ${3:handler})$0",
+			"contents": "${1:ScriptObject}:SetScript(\"${2:scriptType}\", ${3:handler})$0",
 		},
 		{
 			"trigger": "ScrollDown\t()",
@@ -3183,7 +3183,7 @@
 		},
 		{
 			"trigger": "SetBlendMode\t(\"mode\")",
-			"contents": "SetBlendMode(${2:\"mode\"})$0",
+			"contents": "SetBlendMode(\"${1:mode}\")$0",
 		},
 		{
 			"trigger": "SetBlinkSpeed\t(duration)",
@@ -3423,7 +3423,7 @@
 		},
 		{
 			"trigger": "SetFrameStrata\t(\"strata\")",
-			"contents": "SetFrameStrata(${2:\"strata\"})$0",
+			"contents": "SetFrameStrata(\"${2:strata}\")$0",
 		},
 		{
 			"trigger": "SetGlow\t(amount)",
@@ -3715,7 +3715,7 @@
 		},
 		{
 			"trigger": "SetPoint\t(\"point\", [relativeTo], [\"relativePoint\"], [xOffset], [yOffset])",
-			"contents": "SetPoint(${1:\"point\"}, ${2:[relativeTo]}, ${3:[\"relativePoint\"]}, ${4:[xOffset]}, ${5:[yOffset]})$0",
+			"contents": "SetPoint(\"${1:point}\", ${2:[relativeTo]}, \"${3:[relativePoint]}\", ${4:[xOffset]}, ${5:[yOffset]})$0",
 		},
 		{
 			"trigger": "SetPosition\t(x, y, z)",
@@ -3791,7 +3791,7 @@
 		},
 		{
 			"trigger": "SetScript\t(\"scriptType\", handler)",
-			"contents": "SetScript(${1:\"scriptType\"}, ${2:handler})$0",
+			"contents": "SetScript(\"${1:scriptType}\", ${2:handler})$0",
 		},
 		{
 			"trigger": "SetScrollChild\t(frame)",
@@ -4699,7 +4699,7 @@
 		},
 		{
 			"trigger": "_Frame:CreateTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
-			"contents": "${1:texture} = ${2:Frame}:CreateTexture(${3:[\"name\"]}, ${4:[\"layer\"]}, ${5:[\"inherits\"]}, ${6:[sublevel]})$0",
+			"contents": "${1:texture} = ${2:Frame}:CreateTexture(${3:[\"name\"]}, \"${4:[layer]}\", ${5:[\"inherits\"]}, ${6:[sublevel]})$0",
 		},
 		{
 			"trigger": "_Frame:CreateTitleRegion\t()",
@@ -5075,7 +5075,7 @@
 		},
 		{
 			"trigger": "_ScriptObject:GetScript\t(\"scriptType\")",
-			"contents": "${1:handler} = ${2:ScriptObject}:GetScript(${3:\"scriptType\"})$0",
+			"contents": "${1:handler} = ${2:ScriptObject}:GetScript(\"${3:scriptType}\")$0",
 		},
 		{
 			"trigger": "_ScriptObject:HasScript\t(\"scriptType\")",

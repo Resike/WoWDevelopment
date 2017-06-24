@@ -1,5 +1,5 @@
 {
-	"scope": "source.lua - keyword.control.lua - constant.language.lua - string",
+	"scope": "source.lua",
 	"completions": [
 		"and",
 		"break",
@@ -41,266 +41,266 @@
 
 		{
 			"trigger": "Button\t\"frameType\"",
-			"contents": "\"Button\"",
+			"contents": "Button",
 		},
 		{
 			"trigger": "ColorSelect\t\"frameType\"",
-			"contents": "\"ColorSelect\"",
+			"contents": "ColorSelect",
 		},
 		{
 			"trigger": "Cooldown\t\"frameType\"",
-			"contents": "\"Cooldown\"",
+			"contents": "Cooldown",
 		},
 		{
 			"trigger": "EditBox\t\"frameType\"",
-			"contents": "\"EditBox\"",
+			"contents": "EditBox",
 		},
 		{
 			"trigger": "Frame\t\"frameType\"",
-			"contents": "\"Frame\"",
+			"contents": "Frame",
 		},
 		{
 			"trigger": "GameTooltip\t\"frameType\"",
-			"contents": "\"GameTooltip\"",
+			"contents": "GameTooltip",
 		},
 		{
 			"trigger": "MessageFrame\t\"frameType\"",
-			"contents": "\"MessageFrame\"",
+			"contents": "MessageFrame",
 		},
 		{
 			"trigger": "Minimap\t\"frameType\"",
-			"contents": "\"Minimap\"",
+			"contents": "Minimap",
 		},
 		{
 			"trigger": "Model\t\"frameType\"",
-			"contents": "\"Model\"",
+			"contents": "Model",
 		},
 		{
 			"trigger": "ScrollFrame\t\"frameType\"",
-			"contents": "\"ScrollFrame\"",
+			"contents": "ScrollFrame",
 		},
 		{
 			"trigger": "ScrollingMessageFrame\t\"frameType\"",
-			"contents": "\"ScrollingMessageFrame\"",
+			"contents": "ScrollingMessageFrame",
 		},
 		{
 			"trigger": "SimpleHTML\t\"frameType\"",
-			"contents": "\"SimpleHTML\"",
+			"contents": "SimpleHTML",
 		},
 		{
 			"trigger": "Slider\t\"frameType\"",
-			"contents": "\"Slider\"",
+			"contents": "Slider",
 		},
 		{
 			"trigger": "StatusBar\t\"frameType\"",
-			"contents": "\"StatusBar\"",
+			"contents": "StatusBar",
 		},
 
 
 
 		{
 			"trigger": "Button4Down\t\"button\"",
-			"contents": "\"Button4Down\"",
+			"contents": "Button4Down",
 		},
 		{
 			"trigger": "Button4Up\t\"button\"",
-			"contents": "\"Button4Up\"",
+			"contents": "Button4Up",
 		},
 		{
 			"trigger": "Button5Down\t\"button\"",
-			"contents": "\"Button5Down\"",
+			"contents": "Button5Down",
 		},
 		{
 			"trigger": "Button5Up\t\"button\"",
-			"contents": "\"Button5Up\"",
+			"contents": "Button5Up",
 		},
 		{
 			"trigger": "LeftButtonDown\t\"button\"",
-			"contents": "\"LeftButtonDown\"",
+			"contents": "LeftButtonDown",
 		},
 		{
 			"trigger": "LeftButtonUp\t\"button\"",
-			"contents": "\"LeftButtonUp\"",
+			"contents": "LeftButtonUp",
 		},
 		{
 			"trigger": "MiddleButtonDown\t\"button\"",
-			"contents": "\"MiddleButtonDown\"",
+			"contents": "MiddleButtonDown",
 		},
 		{
 			"trigger": "MiddleButtonUp\t\"button\"",
-			"contents": "\"MiddleButtonUp\"",
+			"contents": "MiddleButtonUp",
 		},
 		{
 			"trigger": "RightButtonDown\t\"button\"",
-			"contents": "\"RightButtonDown\"",
+			"contents": "RightButtonDown",
 		},
 		{
 			"trigger": "RightButtonUp\t\"button\"",
-			"contents": "\"RightButtonUp\"",
+			"contents": "RightButtonUp",
 		},
 
 
 
 		{
 			"trigger": "BOTTOM\t\"anchor\"",
-			"contents": "\"BOTTOM\"",
+			"contents": "BOTTOM",
 		},
 		{
 			"trigger": "B\t\"BOTTOM\"",
-			"contents": "\"BOTTOM\"",
+			"contents": "BOTTOM",
 		},
 		{
 			"trigger": "BOTTOMLEFT\t\"anchor\"",
-			"contents": "\"BOTTOMLEFT\"",
+			"contents": "BOTTOMLEFT",
 		},
 		{
 			"trigger": "BL\t\"BOTTOMLEFT\"",
-			"contents": "\"BOTTOMLEFT\"",
+			"contents": "BOTTOMLEFT",
 		},
 		{
 			"trigger": "BOTTOMRIGHT\t\"anchor\"",
-			"contents": "\"BOTTOMRIGHT\"",
+			"contents": "BOTTOMRIGHT",
 		},
 		{
 			"trigger": "BR\t\"BOTTOMRIGHT\"",
-			"contents": "\"BOTTOMRIGHT\"",
+			"contents": "BOTTOMRIGHT",
 		},
 		{
 			"trigger": "CENTER\t\"anchor\"",
-			"contents": "\"CENTER\"",
+			"contents": "CENTER",
 		},
 		{
 			"trigger": "C\t\"CENTER\"",
-			"contents": "\"CENTER\"",
+			"contents": "CENTER",
 		},
 		{
 			"trigger": "LEFT\t\"anchor\"",
-			"contents": "\"LEFT\"",
+			"contents": "LEFT",
 		},
 		{
 			"trigger": "L\t\"LEFT\"",
-			"contents": "\"LEFT\"",
+			"contents": "LEFT",
 		},
 		{
 			"trigger": "MIDDLE\t\"anchor\"",
-			"contents": "\"MIDDLE\"",
+			"contents": "MIDDLE",
 		},
 		{
 			"trigger": "M\t\"MIDDLE\"",
-			"contents": "\"MIDDLE\"",
+			"contents": "MIDDLE",
 		},
 		{
 			"trigger": "RIGHT\t\"anchor\"",
-			"contents": "\"RIGHT\"",
+			"contents": "RIGHT",
 		},
 		{
 			"trigger": "R\t\"RIGHT\"",
-			"contents": "\"RIGHT\"",
+			"contents": "RIGHT",
 		},
 		{
 			"trigger": "TOP\t\"anchor\"",
-			"contents": "\"TOP\"",
+			"contents": "TOP",
 		},
 		{
 			"trigger": "T\t\"TOP\"",
-			"contents": "\"TOP\"",
+			"contents": "TOP",
 		},
 		{
 			"trigger": "TOPLEFT\t\"anchor\"",
-			"contents": "\"TOPLEFT\"",
+			"contents": "TOPLEFT",
 		},
 		{
 			"trigger": "TL\t\"TOPLEFT\"",
-			"contents": "\"TOPLEFT\"",
+			"contents": "TOPLEFT",
 		},
 		{
 			"trigger": "TOPRIGHT\t\"anchor\"",
-			"contents": "\"TOPRIGHT\"",
+			"contents": "TOPRIGHT",
 		},
 		{
 			"trigger": "TR\t\"TOPRIGHT\"",
-			"contents": "\"TOPRIGHT\"",
+			"contents": "TOPRIGHT",
 		},
 
 
 
 		{
 			"trigger": "ADD\t\"blend\"",
-			"contents": "\"ADD\"",
+			"contents": "ADD",
 		},
 		{
 			"trigger": "ALPHAKEY\t\"blend\"",
-			"contents": "\"ALPHAKEY\"",
+			"contents": "ALPHAKEY",
 		},
 		{
 			"trigger": "BLEND\t\"blend\"",
-			"contents": "\"BLEND\"",
+			"contents": "BLEND",
 		},
 		{
 			"trigger": "DISABLE\t\"blend\"",
-			"contents": "\"DISABLE\"",
+			"contents": "DISABLE",
 		},
 		{
 			"trigger": "MOD\t\"blend\"",
-			"contents": "\"MOD\"",
+			"contents": "MOD",
 		},
 
 
 
 		{
 			"trigger": "ARTWORK\t\"layer\"",
-			"contents": "\"ARTWORK\"",
+			"contents": "ARTWORK",
 		},
 		{
 			"trigger": "BACKGROUND\t\"layer\"",
-			"contents": "\"BACKGROUND\"",
+			"contents": "BACKGROUND",
 		},
 		{
 			"trigger": "BORDER\t\"layer\"",
-			"contents": "\"BORDER\"",
+			"contents": "BORDER",
 		},
 		{
 			"trigger": "HIGHLIGHT\t\"layer\"",
-			"contents": "\"HIGHLIGHT\"",
+			"contents": "HIGHLIGHT",
 		},
 		{
 			"trigger": "OVERLAY\t\"layer\"",
-			"contents": "\"OVERLAY\"",
+			"contents": "OVERLAY",
 		},
 
 
 
 		{
 			"trigger": "BACKGROUND\t\"strata\"",
-			"contents": "\"BACKGROUND\"",
+			"contents": "BACKGROUND",
 		},
 		{
 			"trigger": "DIALOG\t\"strata\"",
-			"contents": "\"DIALOG\"",
+			"contents": "DIALOG",
 		},
 		{
 			"trigger": "FULLSCREEN\t\"strata\"",
-			"contents": "\"FULLSCREEN\"",
+			"contents": "FULLSCREEN",
 		},
 		{
 			"trigger": "FULLSCREEN_DIALOG\t\"strata\"",
-			"contents": "\"FULLSCREEN_DIALOG\"",
+			"contents": "FULLSCREEN_DIALOG",
 		},
 		{
 			"trigger": "HIGH\t\"strata\"",
-			"contents": "\"HIGH\"",
+			"contents": "HIGH",
 		},
 		{
 			"trigger": "LOW\t\"strata\"",
-			"contents": "\"LOW\"",
+			"contents": "LOW",
 		},
 		{
 			"trigger": "MEDIUM\t\"strata\"",
-			"contents": "\"MEDIUM\"",
+			"contents": "MEDIUM",
 		},
 		{
 			"trigger": "TOOLTIP\t\"strata\"",
-			"contents": "\"TOOLTIP\"",
+			"contents": "TOOLTIP",
 		},
 	]
 }
