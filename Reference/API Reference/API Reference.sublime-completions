@@ -7014,6 +7014,10 @@
 			"contents": "ViewGuildRecipes(${1:professionID})$0",
 		},
 		{
+			"trigger": "WarGameRespond\t(accept)",
+			"contents": "WarGameRespond(${1:accept})$0",
+		},
+		{
 			"trigger": "WithdrawGuildBankMoney\t(amount)",
 			"contents": "WithdrawGuildBankMoney(${1:amount})$0",
 		},
