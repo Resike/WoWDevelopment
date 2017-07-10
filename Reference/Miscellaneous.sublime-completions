@@ -99,12 +99,20 @@
 
 
 		{
+			"trigger": "Button4\t\"button\"",
+			"contents": "Button4",
+		},
+		{
 			"trigger": "Button4Down\t\"button\"",
 			"contents": "Button4Down",
 		},
 		{
 			"trigger": "Button4Up\t\"button\"",
 			"contents": "Button4Up",
+		},
+		{
+			"trigger": "Button5\t\"button\"",
+			"contents": "Button5",
 		},
 		{
 			"trigger": "Button5Down\t\"button\"",
@@ -115,12 +123,20 @@
 			"contents": "Button5Up",
 		},
 		{
+			"trigger": "LeftButton\t\"button\"",
+			"contents": "LeftButton",
+		},
+		{
 			"trigger": "LeftButtonDown\t\"button\"",
 			"contents": "LeftButtonDown",
 		},
 		{
 			"trigger": "LeftButtonUp\t\"button\"",
 			"contents": "LeftButtonUp",
+		},
+		{
+			"trigger": "MiddleButton\t\"button\"",
+			"contents": "MiddleButton",
 		},
 		{
 			"trigger": "MiddleButtonDown\t\"button\"",
@@ -130,6 +146,11 @@
 			"trigger": "MiddleButtonUp\t\"button\"",
 			"contents": "MiddleButtonUp",
 		},
+		{
+			"trigger": "RightButton\t\"button\"",
+			"contents": "RightButton",
+		},
+
 		{
 			"trigger": "RightButtonDown\t\"button\"",
 			"contents": "RightButtonDown",
