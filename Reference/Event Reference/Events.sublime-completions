@@ -3898,10 +3898,6 @@
 			"contents": "UNIT_SPELL_HASTE",
 		},
 		{
-			"trigger": "UNIT_SPELLCAST_CHANNEL_INTERRUPTED\tevent",
-			"contents": "UNIT_SPELLCAST_CHANNEL_INTERRUPTED",
-		},
-		{
 			"trigger": "UNIT_SPELLCAST_CHANNEL_START\tevent",
 			"contents": "UNIT_SPELLCAST_CHANNEL_START",
 		},
