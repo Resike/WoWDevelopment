@@ -18,7 +18,7 @@ The autocomplete is based on scopes, so no settings are neccessary.
 * First install the SublimeLinter package.
 * Then add the path to *luacheck.exe* to your system PATH table, or to the *paths/windows* setting in the Sublime Linter settings:
 "c:\Users\UserName\AppData\Roaming\Sublime Text 3\Packages\WoWDevelopment\WoW Global Finder\"
-* Add *"wow lua": "lua",* to the syntax_map in the Sublime Linter settings.
+* Add *"wow lua": "lua",* to the *syntax_map* in the Sublime Linter settings.
 * Restart Sublime.
 
 Ignored globals:
