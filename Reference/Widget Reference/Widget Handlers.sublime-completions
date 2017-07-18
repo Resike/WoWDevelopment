@@ -26,6 +26,10 @@
 			"contents": "OnColorSelect",
 		},
 		{
+			"trigger": "OnCooldownDone\t\"scriptType\"",
+			"contents": "OnCooldownDone",
+		},
+		{
 			"trigger": "OnCursorChanged\t\"scriptType\"",
 			"contents": "OnCursorChanged",
 		},
