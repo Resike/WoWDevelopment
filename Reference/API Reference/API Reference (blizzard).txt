@@ -5597,6 +5597,9 @@
 			"trigger": "ZoneText_OnLoad\t(frame)",
 			"contents": "ZoneText_OnLoad(${1:frame})$0",
 		},
+
+
+
 		{
 			"trigger": "_WorldMap_DoesLandMarkTypeShowHighlights\t(landmarkType)",
 			"contents": "${1:result} = WorldMap_DoesLandMarkTypeShowHighlights(${2:landmarkType})$0",

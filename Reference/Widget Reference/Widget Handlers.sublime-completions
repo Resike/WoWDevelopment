@@ -290,6 +290,10 @@
 			"contents": "function(${1:self}, ${2:r}, ${3:g}, ${4:b})\n\t${5:}\nend$0",
 		},
 		{
+			"trigger": "_OnCooldownDone\t(self)",
+			"contents": "function(${1:self})\n\t${2:}\nend$0",
+		},
+		{
 			"trigger": "_OnCursorChanged\t(self, x, y, width, height)",
 			"contents": "function(${1:self}, ${2:x}, ${3:y}, ${4:width}, ${5:height})\n\t${6:}\nend$0",
 		},

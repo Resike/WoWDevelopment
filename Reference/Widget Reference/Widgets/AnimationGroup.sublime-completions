@@ -1,0 +1,196 @@
+{
+	"scope": "source.lua",
+	"completions": [
+		{
+			"trigger": "AnimationGroup:CreateAnimation\t(\"animationType\", [\"name\"], [\"inheritsFrom\"])",
+			"contents": "${1:AnimationGroup}:CreateAnimation(\"${2:animationType}\", ${3:[\"name\"]}, ${4:[\"inheritsFrom\"]})$0",
+		},
+		{
+			"trigger": "AnimationGroup:Finish\t()",
+			"contents": "${1:AnimationGroup}:Finish()$0",
+		},
+		{
+			"trigger": "AnimationGroup:GetAnimations\t()",
+			"contents": "${1:AnimationGroup}:GetAnimations()$0",
+		},
+		{
+			"trigger": "AnimationGroup:GetDebugName\t()",
+			"contents": "${1:AnimationGroup}:GetDebugName()$0",
+		},
+		{
+			"trigger": "AnimationGroup:GetDuration\t()",
+			"contents": "${1:AnimationGroup}:GetDuration()$0",
+		},
+		{
+			"trigger": "AnimationGroup:GetLooping\t()",
+			"contents": "${1:AnimationGroup}:GetLooping()$0",
+		},
+		{
+			"trigger": "AnimationGroup:GetLoopState\t()",
+			"contents": "${1:AnimationGroup}:GetLoopState()$0",
+		},
+		{
+			"trigger": "AnimationGroup:GetName\t()",
+			"contents": "${1:AnimationGroup}:GetName()$0",
+		},
+		{
+			"trigger": "AnimationGroup:GetObjectType\t()",
+			"contents": "${1:AnimationGroup}:GetObjectType()$0",
+		},
+		{
+			"trigger": "AnimationGroup:GetParent\t()",
+			"contents": "${1:AnimationGroup}:GetParent()$0",
+		},
+		{
+			"trigger": "AnimationGroup:GetProgress\t()",
+			"contents": "${1:AnimationGroup}:GetProgress()$0",
+		},
+		{
+			"trigger": "AnimationGroup:GetScript\t(\"scriptType\")",
+			"contents": "${1:AnimationGroup}:GetScript(\"${1:scriptType}\")$0",
+		},
+		{
+			"trigger": "AnimationGroup:HasScript\t(\"scriptType\")",
+			"contents": "${1:AnimationGroup}:HasScript(\"${2:scriptType}\")$0",
+		},
+		{
+			"trigger": "AnimationGroup:HookScript\t(\"scriptType\", handler)",
+			"contents": "${1:AnimationGroup}:HookScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "AnimationGroup:IsDone\t()",
+			"contents": "${1:AnimationGroup}:IsDone()$0",
+		},
+		{
+			"trigger": "AnimationGroup:IsForbidden\t()",
+			"contents": "${1:AnimationGroup}:IsForbidden()$0",
+		},
+		{
+			"trigger": "AnimationGroup:IsObjectType\t(\"type\")",
+			"contents": "${1:AnimationGroup}:IsObjectType(\"${3:type}\")$0",
+		},
+		{
+			"trigger": "AnimationGroup:IsPaused\t()",
+			"contents": "${1:AnimationGroup}:IsPaused()$0",
+		},
+		{
+			"trigger": "AnimationGroup:IsPendingFinish\t()",
+			"contents": "${1:AnimationGroup}:IsPendingFinish()$0",
+		},
+		{
+			"trigger": "AnimationGroup:IsPlaying\t()",
+			"contents": "${1:AnimationGroup}:IsPlaying()$0",
+		},
+		{
+			"trigger": "AnimationGroup:IsSetToFinalAlpha\t()",
+			"contents": "${1:AnimationGroup}:IsSetToFinalAlpha()$0",
+		},
+		{
+			"trigger": "AnimationGroup:Pause\t()",
+			"contents": "${1:AnimationGroup}:Pause()$0",
+		},
+		{
+			"trigger": "AnimationGroup:Play\t()",
+			"contents": "${1:AnimationGroup}:Play()$0",
+		},
+		{
+			"trigger": "AnimationGroup:Restart\t()",
+			"contents": "${1:AnimationGroup}:Restart()$0",
+		},
+		{
+			"trigger": "AnimationGroup:SetLooping\t(\"loopType\")",
+			"contents": "${1:AnimationGroup}:SetLooping(\"${2:loopType}\")$0",
+		},
+		{
+			"trigger": "AnimationGroup:SetScript\t(\"scriptType\", handler)",
+			"contents": "${1:AnimationGroup}:SetScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "AnimationGroup:SetToFinalAlpha\t(true)",
+			"contents": "${1:AnimationGroup}:SetToFinalAlpha(${3:true})$0",
+		},
+		{
+			"trigger": "AnimationGroup:Stop\t()",
+			"contents": "${1:AnimationGroup}:Stop()$0",
+		},
+
+
+
+		{
+			"trigger": "_AnimationGroup:CreateAnimation\t(\"animationType\", [\"name\"], [\"inheritsFrom\"])",
+			"contents": "${1:animation} = ${2:AnimationGroup}:CreateAnimation(\"${3:animationType}\", ${4:[\"name\"]}, ${5:[\"inheritsFrom\"]})$0",
+		},
+		{
+			"trigger": "_AnimationGroup:GetAnimations\t()",
+			"contents": "${1:...} = ${2:AnimationGroup}:GetAnimations()$0",
+		},
+		{
+			"trigger": "_AnimationGroup:GetDebugName\t()",
+			"contents": "${1:name} = ${2:AnimationGroup}:GetDebugName()$0",
+		},
+		{
+			"trigger": "_AnimationGroup:GetDuration\t()",
+			"contents": "${1:duration} = ${2:AnimationGroup}:GetDuration()$0",
+		},
+		{
+			"trigger": "_AnimationGroup:GetLooping\t()",
+			"contents": "${1:loopType} = ${2:AnimationGroup}:GetLooping()$0",
+		},
+		{
+			"trigger": "_AnimationGroup:GetLoopState\t()",
+			"contents": "${1:loopState} = ${2:AnimationGroup}:GetLoopState()$0",
+		},
+		{
+			"trigger": "_AnimationGroup:GetName\t()",
+			"contents": "${1:name} = ${2:AnimationGroup}:GetName()$0",
+		},
+		{
+			"trigger": "_AnimationGroup:GetObjectType\t()",
+			"contents": "${1:type} = ${2:AnimationGroup}:GetObjectType()$0",
+		},
+		{
+			"trigger": "_AnimationGroup:GetParent\t()",
+			"contents": "${1:paent} = ${2:AnimationGroup}:GetParent()$0",
+		},
+		{
+			"trigger": "_AnimationGroup:GetProgress\t()",
+			"contents": "${1:progress} = ${2:AnimationGroup}:GetProgress()$0",
+		},
+		{
+			"trigger": "_AnimationGroup:GetScript\t(\"scriptType\")",
+			"contents": "${1:handler} = ${2:AnimationGroup}:GetScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "_AnimationGroup:HasScript\t(\"scriptType\")",
+			"contents": "${1:hasScript} = ${2:AnimationGroup}:HasScript(\"${2:scriptType}\")$0",
+		},
+		{
+			"trigger": "_AnimationGroup:IsDone\t()",
+			"contents": "${1:done} = ${2:AnimationGroup}:IsDone()$0",
+		},
+		{
+			"trigger": "_AnimationGroup:IsForbidden\t()",
+			"contents": "${1:IsForbidden} = ${2:AnimationGroup}:IsForbidden()$0",
+		},
+		{
+			"trigger": "_AnimationGroup:IsObjectType\t(\"type\")",
+			"contents": "${1:isType} = ${2:AnimationGroup}:IsObjectType(\"${3:type}\")$0",
+		},
+		{
+			"trigger": "_AnimationGroup:IsPaused\t()",
+			"contents": "${1:paused} = ${2:AnimationGroup}:IsPaused()$0",
+		},
+		{
+			"trigger": "_AnimationGroup:IsPendingFinish\t()",
+			"contents": "${1:isPending} = ${2:AnimationGroup}:IsPendingFinish()$0",
+		},
+		{
+			"trigger": "_AnimationGroup:IsPlaying\t()",
+			"contents": "${1:playing} = ${2:AnimationGroup}:IsPlaying()$0",
+		},
+		{
+			"trigger": "_AnimationGroup:IsSetToFinalAlpha\t()",
+			"contents": "${1:isSet} = ${2:AnimationGroup}:IsSetToFinalAlpha()$0",
+		},
+	]
+}

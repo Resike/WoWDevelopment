@@ -1,0 +1,256 @@
+{
+	"scope": "source.lua",
+	"completions": [
+		{
+			"trigger": "Animation:GetDebugName\t()",
+			"contents": "${1:Animation}:GetDebugName()$0",
+		},
+		{
+			"trigger": "Animation:GetDuration\t()",
+			"contents": "${1:Animation}:GetDuration()$0",
+		},
+		{
+			"trigger": "Animation:GetElapsed\t()",
+			"contents": "${1:Animation}:GetElapsed()$0",
+		},
+		{
+			"trigger": "Animation:GetEndDelay\t()",
+			"contents": "${1:Animation}:GetEndDelay()$0",
+		},
+		{
+			"trigger": "Animation:GetName\t()",
+			"contents": "${1:Animation}:GetName()$0",
+		},
+		{
+			"trigger": "Animation:GetObjectType\t()",
+			"contents": "${1:Animation}:GetObjectType()$0",
+		},
+		{
+			"trigger": "Animation:GetOrder\t()",
+			"contents": "${1:Animation}:GetOrder()$0",
+		},
+		{
+			"trigger": "Animation:GetParent\t()",
+			"contents": "${1:Animation}:GetParent()$0",
+		},
+		{
+			"trigger": "Animation:GetProgress\t()",
+			"contents": "${1:Animation}:GetProgress()$0",
+		},
+		{
+			"trigger": "Animation:GetRegionParent\t()",
+			"contents": "${1:Animation}:GetRegionParent()$0",
+		},
+		{
+			"trigger": "Animation:GetScript\t(\"scriptType\")",
+			"contents": "${1:Animation}:GetScript(\"${1:scriptType}\")$0",
+		},
+		{
+			"trigger": "Animation:GetSmoothing\t()",
+			"contents": "${1:Animation}:GetSmoothing()$0",
+		},
+		{
+			"trigger": "Animation:GetSmoothProgress\t()",
+			"contents": "${1:Animation}:GetSmoothProgress()$0",
+		},
+		{
+			"trigger": "Animation:GetStartDelay\t()",
+			"contents": "${1:Animation}:GetStartDelay()$0",
+		},
+		{
+			"trigger": "Animation:GetTarget\t()",
+			"contents": "${1:Animation}:GetTarget()$0",
+		},
+		{
+			"trigger": "Animation:HasScript\t(\"scriptType\")",
+			"contents": "${1:Animation}:HasScript(\"${2:scriptType}\")$0",
+		},
+		{
+			"trigger": "Animation:HookScript\t(\"scriptType\", handler)",
+			"contents": "${1:Animation}:HookScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "Animation:IsDelaying\t()",
+			"contents": "${1:Animation}:IsDelaying()$0",
+		},
+		{
+			"trigger": "Animation:IsDone\t()",
+			"contents": "${1:Animation}:IsDone()$0",
+		},
+		{
+			"trigger": "Animation:IsForbidden\t()",
+			"contents": "${1:Animation}:IsForbidden()$0",
+		},
+		{
+			"trigger": "Animation:IsObjectType\t(\"type\")",
+			"contents": "${1:Animation}:IsObjectType(\"${3:type}\")$0",
+		},
+		{
+			"trigger": "Animation:IsPaused\t()",
+			"contents": "${1:Animation}:IsPaused()$0",
+		},
+		{
+			"trigger": "Animation:IsPlaying\t()",
+			"contents": "${1:Animation}:IsPlaying()$0",
+		},
+		{
+			"trigger": "Animation:IsStopped\t()",
+			"contents": "${1:Animation}:IsStopped()$0",
+		},
+		{
+			"trigger": "Animation:Pause\t()",
+			"contents": "${1:Animation}:Pause()$0",
+		},
+		{
+			"trigger": "Animation:Play\t()",
+			"contents": "${1:Animation}:Play()$0",
+		},
+		{
+			"trigger": "Animation:SetChildKey\t(key)",
+			"contents": "${1:Animation}:SetChildKey((${2:key})$0",
+		},
+		{
+			"trigger": "Animation:SetDuration\t(duration)",
+			"contents": "${1:Animation}:SetDuration(${2:duration})$0",
+		},
+		{
+			"trigger": "Animation:SetEndDelay\t(delay)",
+			"contents": "${1:Animation}:SetEndDelay(${2:delay})$0",
+		},
+		{
+			"trigger": "Animation:SetOrder\t(order)",
+			"contents": "${1:Animation}:SetOrder(${2:order})$0",
+		},
+		{
+			"trigger": "Animation:SetParent\t(animGroup)",
+			"contents": "${1:Animation}:SetParent(${2:animGroup})$0",
+		},
+		{
+			"trigger": "Animation:SetParent\t(\"animGroupName\")",
+			"contents": "${1:Animation}:SetParent(\"${2:animGroupName}\")$0",
+		},
+		{
+			"trigger": "Animation:SetScript\t(\"scriptType\", handler)",
+			"contents": "${1:Animation}:SetScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "Animation:SetSmoothing\t(\"smoothType\")",
+			"contents": "${1:Animation}:SetSmoothing(\"${2:smoothType}\")$0",
+		},
+		{
+			"trigger": "Animation:SetSmoothProgress\t()",
+			"contents": "${1:Animation}:SetSmoothProgress()$0",
+		},
+		{
+			"trigger": "Animation:SetStartDelay\t(delay)",
+			"contents": "${1:Animation}:SetStartDelay(${2:delay})$0",
+		},
+		{
+			"trigger": "Animation:SetTarget\t(region)",
+			"contents": "${1:Animation}:SetTarget(${2:region})$0",
+		},
+		{
+			"trigger": "Animation:SetTargetKey\t(key)",
+			"contents": "${1:Animation}:SSetTargetKeytop(${2:key})$0",
+		},
+		{
+			"trigger": "Animation:Stop\t()",
+			"contents": "${1:Animation}:Stop()$0",
+		},
+
+
+
+		{
+			"trigger": "_Animation:GetDebugName\t()",
+			"contents": "${1:name} = ${2:Animation}:GetDebugName()$0",
+		},
+		{
+			"trigger": "_Animation:GetDuration\t()",
+			"contents": "${1:duration} = ${2:Animation}:GetDuration()$0",
+		},
+		{
+			"trigger": "_Animation:GetElapsed\t()",
+			"contents": "${1:elapsed} = ${2:Animation}:GetElapsed()$0",
+		},
+		{
+			"trigger": "_Animation:GetEndDelay\t()",
+			"contents": "${1:delay} = ${2:Animation}:GetEndDelay()$0",
+		},
+		{
+			"trigger": "_Animation:GetName\t()",
+			"contents": "${1:name} = ${2:Animation}:GetName()$0",
+		},
+		{
+			"trigger": "_Animation:GetObjectType\t()",
+			"contents": "${1:type} = ${2:Animation}:GetObjectType()$0",
+		},
+		{
+			"trigger": "_Animation:GetOrder\t()",
+			"contents": "${1:order} = ${2:Animation}:GetOrder()$0",
+		},
+		{
+			"trigger": "_Animation:GetParent\t()",
+			"contents": "${1:paent} = ${2:Animation}:GetParent()$0",
+		},
+		{
+			"trigger": "_Animation:GetProgress\t()",
+			"contents": "${1:progress} = ${2:Animation}:GetProgress()$0",
+		},
+		{
+			"trigger": "_Animation:GetRegionParent\t()",
+			"contents": "${1:region} = ${2:Animation}:GetRegionParent()$0",
+		},
+		{
+			"trigger": "_Animation:GetScript\t(\"scriptType\")",
+			"contents": "${1:handler} = ${2:Animation}:GetScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "_Animation:GetSmoothing\t()",
+			"contents": "${1:smoothType} = ${2:Animation}:GetSmoothing()$0",
+		},
+		{
+			"trigger": "_Animation:GetSmoothProgress\t()",
+			"contents": "${1:progress} = ${2:Animation}:GetSmoothProgress()$0",
+		},
+		{
+			"trigger": "_Animation:GetStartDelay\t()",
+			"contents": "${1:delay} = ${2:Animation}:GetStartDelay()$0",
+		},
+		{
+			"trigger": "_Animation:GetTarget\t()",
+			"contents": "${1:target} = ${2:Animation}:GetTarget()$0",
+		},
+		{
+			"trigger": "_Animation:HasScript\t(\"scriptType\")",
+			"contents": "${1:hasScript} = ${2:Animation}:HasScript(\"${2:scriptType}\")$0",
+		},
+		{
+			"trigger": "_Animation:IsDelaying\t()",
+			"contents": "${1:delaying} = ${2:Animation}:IsDelaying()$0",
+		},
+		{
+			"trigger": "_Animation:IsDone\t()",
+			"contents": "${1:done} = ${2:Animation}:IsDone()$0",
+		},
+		{
+			"trigger": "_Animation:IsForbidden\t()",
+			"contents": "${1:IsForbidden} = ${2:Animation}:IsForbidden()$0",
+		},
+		{
+			"trigger": "_Animation:IsObjectType\t(\"type\")",
+			"contents": "${1:isType} = ${2:Animation}:IsObjectType(\"${3:type}\")$0",
+		},
+		{
+			"trigger": "_Animation:IsPaused\t()",
+			"contents": "${1:paused} = ${2:Animation}:IsPaused()$0",
+		},
+		{
+			"trigger": "_Animation:IsPlaying\t()",
+			"contents": "${1:playing} = ${2:Animation}:IsPlaying()$0",
+		},
+		{
+			"trigger": "_Animation:IsStopped\t()",
+			"contents": "${1:stopped} = ${2:Animation}:IsStopped()$0",
+		},
+	]
+}

@@ -369,6 +369,9 @@
 			"trigger": "xpcall\t(function, errHandler)",
 			"contents": "xpcall(${1:function}, ${2:errHandler})$0",
 		},
+
+
+
 		{
 			"trigger": "_abs\t(x)",
 			"contents": "${1:absoluteValue} = abs(${2:x})$0",
