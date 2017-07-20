@@ -234,7 +234,7 @@
 		},
 		{
 			"trigger": "_Animation:IsForbidden\t()",
-			"contents": "${1:IsForbidden} = ${2:Animation}:IsForbidden()$0",
+			"contents": "${1:isForbidden} = ${2:Animation}:IsForbidden()$0",
 		},
 		{
 			"trigger": "_Animation:IsObjectType\t(\"type\")",

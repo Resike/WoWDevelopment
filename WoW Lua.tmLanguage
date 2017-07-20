@@ -242,7 +242,7 @@
 				</dict>
 			</dict>
 		</dict>
-		<!-- Widget handlers -->
+		<!-- Script types -->
 		<dict>
 			<key>name</key>
 			<string>meta.function.parameters.lua</string>
@@ -250,7 +250,7 @@
 			<array>
 				<dict>
 					<key>match</key>
-					<string>(['"])(On(?:AnimFinished|AttributeChanged|Char(?:Composition)?|Click|ColorSelect|CooldownDone|CursorChanged|Disable|DoubleClick|Drag(?:Start|Stop)|EditFocus(?:Gained|Lost)|Enable|Enter(?:Pressed)?|EscapePressed|Event|Finished|Hide|HorizontalScroll|Hyperlink(?:Click|Enter|Leave)|InputLanguageChanged|Key(?:Down|Up)|Leave|Load|Loop|MessageScrollChanged|MinMaxChanged|Mouse(?:Down|Up|Wheel)|MovieFinished|Movie(?:Hide|Show)Subtitle|Pause|Play|ReceiveDrag|ScrollRangeChanged|Show|SizeChanged|SpacePressed|Stop|TabPressed|Text(?:Changed|Set)|Tooltip(?:AddMoney|Cleared|Set(?:Achievement|DefaultAnchor|EquipmentSet|FrameStack|Item|Quest|Spell|Unit))|Update(?:Model)?|ValueChanged|VerticalScroll)|PostClick|PreClick)\1</string>
+					<string>(['"])(On(?:AnimFinished|ArrowPressed|AttributeChanged|ButtonUpdate|Char(?:Composition)?|Click|ColorSelect|CooldownDone|CursorChanged|Disable|DoubleClick|Drag(?:Start|Stop)|DressModel|EditFocus(?:Gained|Lost)|Enable|Enter(?:Pressed)?|Error|EscapePressed|Event|ExternalLink|Finished|Hide|HorizontalScroll|Hyperlink(?:Click|Enter|Leave)|InputLanguageChanged|Joystick(?:AxisMotion|ButtonDown|ButtonUp|HatMotion|StickMotion)|Key(?:Down|Up)|Leave|Load|Loop|MessageScrollChanged|MinMaxChanged|ModelLoaded|Mouse(?:Down|Up|Wheel)|MovieFinished|Movie(?:Hide|Show)Subtitle|PanFinished|Pause|Play|ReceiveDrag|ScrollRangeChanged|Show|SizeChanged|SpacePressed|Stop|TabPressed|Text(?:Changed|Set)|Tooltip(?:AddMoney|Cleared|Set(?:Achievement|DefaultAnchor|EquipmentSet|Framestack|Item|Quest|Spell|Unit))|Update(?:Model)?|ValueChanged|VerticalScroll)|PostClick|PreClick)\1</string>
 					<key>name</key>
 					<string>variable.parameter.wow.widget.handlers</string>
 				</dict>

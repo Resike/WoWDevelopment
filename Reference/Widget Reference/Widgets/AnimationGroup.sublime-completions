@@ -170,7 +170,7 @@
 		},
 		{
 			"trigger": "_AnimationGroup:IsForbidden\t()",
-			"contents": "${1:IsForbidden} = ${2:AnimationGroup}:IsForbidden()$0",
+			"contents": "${1:isForbidden} = ${2:AnimationGroup}:IsForbidden()$0",
 		},
 		{
 			"trigger": "_AnimationGroup:IsObjectType\t(\"type\")",

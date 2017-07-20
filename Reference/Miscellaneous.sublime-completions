@@ -40,8 +40,24 @@
 
 
 		{
+			"trigger": "ArchaeologyDigSiteFrame\t\"frameType\"",
+			"contents": "ArchaeologyDigSiteFrame",
+		},
+		{
+			"trigger": "BlobFrame\t\"frameType\"",
+			"contents": "BlobFrame",
+		},
+		{
 			"trigger": "Button\t\"frameType\"",
 			"contents": "Button",
+		},
+			{
+				"trigger": "CheckButton\t\"frameType\"",
+				"contents": "CheckButton",
+			},
+		{
+			"trigger": "Browser\t\"frameType\"",
+			"contents": "Browser",
 		},
 		{
 			"trigger": "ColorSelect\t\"frameType\"",
@@ -75,6 +91,46 @@
 			"trigger": "Model\t\"frameType\"",
 			"contents": "Model",
 		},
+			{
+				"trigger": "ModelFFX\t\"frameType\"",
+				"contents": "ModelFFX",
+			},
+			{
+				"trigger": "PlayerModel\t\"frameType\"",
+				"contents": "PlayerModel",
+			},
+				{
+					"trigger": "CinematicModel\t\"frameType\"",
+					"contents": "CinematicModel",
+				},
+				{
+					"trigger": "DressUpModel\t\"frameType\"",
+					"contents": "DressUpModel",
+				},
+				{
+					"trigger": "TabardModel\t\"frameType\"",
+					"contents": "TabardModel",
+				},
+		{
+			"trigger": "ModelScene\t\"frameType\"",
+			"contents": "ModelScene",
+		},
+		{
+			"trigger": "MovieFrame\t\"frameType\"",
+			"contents": "MovieFrame",
+		},
+		{
+			"trigger": "OffScreenFrame\t\"frameType\"",
+			"contents": "OffScreenFrame",
+		},
+		{
+			"trigger": "QuestPOIFrame\t\"frameType\"",
+			"contents": "QuestPOIFrame",
+		},
+		{
+			"trigger": "ScenarioPOIFrame\t\"frameType\"",
+			"contents": "ScenarioPOIFrame",
+		},
 		{
 			"trigger": "ScrollFrame\t\"frameType\"",
 			"contents": "ScrollFrame",
@@ -94,6 +150,10 @@
 		{
 			"trigger": "StatusBar\t\"frameType\"",
 			"contents": "StatusBar",
+		},
+		{
+			"trigger": "UnitPositionFrame\t\"frameType\"",
+			"contents": "UnitPositionFrame",
 		},
 
 
