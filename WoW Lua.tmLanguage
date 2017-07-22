@@ -2203,7 +2203,7 @@
 		<!-- WoW global frames -->
 		<dict>
 			<key>match</key>
-			<string>\b(GameTooltip|UIParent)\b</string>
+			<string>\b(GameTooltip|UIParent|WorldFrame)\b</string>
 			<key>name</key>
 			<string>support.function.global-frames.lua</string>
 		</dict>

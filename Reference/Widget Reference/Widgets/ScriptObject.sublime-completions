@@ -3,7 +3,7 @@
 	"completions": [
 		{
 			"trigger": "ScriptObject:GetScript\t(\"scriptType\")",
-			"contents": "${1:ScriptObject}:GetScript(\"${1:scriptType}\")$0",
+			"contents": "${1:ScriptObject}:GetScript(\"${2:scriptType}\")$0",
 		},
 		{
 			"trigger": "ScriptObject:HasScript\t(\"scriptType\")",
@@ -26,7 +26,7 @@
 		},
 		{
 			"trigger": "_ScriptObject:HasScript\t(\"scriptType\")",
-			"contents": "${1:hasScript} = ${2:ScriptObject}:HasScript(\"${2:scriptType}\")$0",
+			"contents": "${1:hasScript} = ${2:ScriptObject}:HasScript(\"${3:scriptType}\")$0",
 		},
 
 

@@ -1,0 +1,207 @@
+{
+	"scope": "source.lua",
+	"completions": [
+		{
+			"trigger": "Region:CanChangeProtectedState\t()",
+			"contents": "${1:Region}:CanChangeProtectedState()$0",
+		},
+		{
+			"trigger": "Region:ClearAllPoints\t()",
+			"contents": "${1:Region}:ClearAllPoints()$0",
+		},
+		{
+			"trigger": "Region:GetBottom\t()",
+			"contents": "${1:Region}:GetBottom()$0",
+		},
+		{
+			"trigger": "Region:GetCenter\t()",
+			"contents": "${1:Region}:GetCenter()$0",
+		},
+		{
+			"trigger": "Region:GetDebugName\t()",
+			"contents": "${1:Region}:GetDebugName()$0",
+		},
+		{
+			"trigger": "Region:GetHeight\t()",
+			"contents": "${1:Region}:GetHeight()$0",
+		},
+		{
+			"trigger": "Region:GetLeft\t()",
+			"contents": "${1:Region}:GetLeft()$0",
+		},
+		{
+			"trigger": "Region:GetName\t()",
+			"contents": "${1:Region}:GetName()$0",
+		},
+		{
+			"trigger": "Region:GetNumPoints\t()",
+			"contents": "${1:Region}:GetNumPoints()$0",
+		},
+		{
+			"trigger": "Region:GetObjectType\t()",
+			"contents": "${1:Region}:GetObjectType()$0",
+		},
+		{
+			"trigger": "Region:GetParent\t()",
+			"contents": "${1:Region}:GetParent()$0",
+		},
+		{
+			"trigger": "Region:GetPoint\t(index)",
+			"contents": "${1:Region}:GetPoint(${2:index})$0",
+		},
+		{
+			"trigger": "Region:GetRect\t()",
+			"contents": "${1:Region}:GetRect()$0",
+		},
+		{
+			"trigger": "Region:GetRight\t()",
+			"contents": "${1:Region}:GetRight()$0",
+		},
+		{
+			"trigger": "Region:GetSize\t()",
+			"contents": "${1:Region}:GetSize()$0",
+		},
+		{
+			"trigger": "Region:GetTop\t()",
+			"contents": "${1:Region}:GetTop()$0",
+		},
+		{
+			"trigger": "Region:GetWidth\t()",
+			"contents": "${1:Region}:GetWidth()$0",
+		},
+		{
+			"trigger": "Region:IsDragging\t()",
+			"contents": "${1:Region}:IsDragging()$0",
+		},
+		{
+			"trigger": "Region:IsForbidden\t()",
+			"contents": "${1:Region}:IsForbidden()$0",
+		},
+		{
+			"trigger": "Region:IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
+			"contents": "${1:Region}:IsMouseOver(${2:[topOffset]}, ${3:[leftOffset]}, ${4:[bottomOffset]}, ${5:[rightOffset]})$0",
+		},
+		{
+			"trigger": "Region:IsObjectType\t()",
+			"contents": "${1:Region}:IsObjectType()$0",
+		},
+		{
+			"trigger": "Region:IsProtected\t()",
+			"contents": "${1:Region}:IsProtected()$0",
+		},
+		{
+			"trigger": "Region:SetAllPoints\t([region])",
+			"contents": "${1:Region}:SetAllPoints(${2:[region]})$0",
+		},
+		{
+			"trigger": "Region:SetHeight\t(height)",
+			"contents": "${1:Region}:SetHeight(${2:height})$0",
+		},
+		{
+			"trigger": "Region:SetParent\t(frame)",
+			"contents": "${1:Region}:SetParent(${2:frame})$0",
+		},
+		{
+			"trigger": "Region:SetPoint\t(\"point\", [relativeTo], [\"relativePoint\"], [xOffset], [yOffset])",
+			"contents": "${1:Region}:SetPoint(\"${2:point}\", ${3:[relativeTo]}, \"${4:[relativePoint]}\", ${5:[xOffset]}, ${6:[yOffset]})$0",
+		},
+		{
+			"trigger": "Region:SetSize\t(width, height)",
+			"contents": "${1:Region}:SetSize(${2:width}, ${3:height})$0",
+		},
+		{
+			"trigger": "Region:SetWidth\t(width)",
+			"contents": "${1:Region}:SetWidth(${2:width})$0",
+		},
+
+
+
+		{
+			"trigger": "_Region:CanChangeProtectedState\t()",
+			"contents": "${1:canChange} = ${2:Region}:CanChangeProtectedState()$0",
+		},
+		{
+			"trigger": "_Region:GetBottom\t()",
+			"contents": "${1:bottom} = ${2:Region}:GetBottom()$0",
+		},
+		{
+			"trigger": "_Region:GetCenter\t()",
+			"contents": "${1:x}, ${2:y} = ${3:Region}:GetCenter()$0",
+		},
+		{
+			"trigger": "_Region:GetDebugName\t()",
+			"contents": "${1:name} = ${2:Region}:GetDebugName()$0",
+		},
+		{
+			"trigger": "_Region:GetHeight\t()",
+			"contents": "${1:height} = ${2:Region}:GetHeight()$0",
+		},
+		{
+			"trigger": "_Region:GetLeft\t()",
+			"contents": "${1:left} = ${2:Region}:GetLeft()$0",
+		},
+		{
+			"trigger": "_Region:GetName\t()",
+			"contents": "${1:name} = ${2:Region}:GetName()$0",
+		},
+		{
+			"trigger": "_Region:GetNumPoints\t()",
+			"contents": "${1:numPoints} = ${2:Region}:GetNumPoints()$0",
+		},
+		{
+			"trigger": "_Region:GetObjectType\t()",
+			"contents": "${1:type} = ${2:Region}:GetObjectType()$0",
+		},
+		{
+			"trigger": "_Region:GetPoint\t(index)",
+			"contents": "${1:point}, ${2:relativeTo}, ${3:relativePoint}, ${4:xOffset}, ${5:yOffset} = ${6:Region}:GetPoint(${7:index})$0",
+		},
+		{
+			"trigger": "_Region:GetRect\t()",
+			"contents": "${1:left}, ${2:bottom}, ${3:width}, ${4:height} = ${5:Region}:GetRect()$0",
+		},
+		{
+			"trigger": "_Region:GetRight\t()",
+			"contents": "${1:right} = ${2:Region}:GetRight()$0",
+		},
+		{
+			"trigger": "_Region:GetSize\t()",
+			"contents": "${1:width}, ${2:height} = ${3:Region}:GetSize()$0",
+		},
+		{
+			"trigger": "_Region:GetTop\t()",
+			"contents": "${1:top} = ${2:Region}:GetTop()$0",
+		},
+		{
+			"trigger": "_Region:GetWidth\t()",
+			"contents": "${1:width} = ${2:Region}:GetWidth()$0",
+		},
+		{
+			"trigger": "_Region:IsDragging\t()",
+			"contents": "${1:isDragging} = ${2:Region}:IsDragging()$0",
+		},
+		{
+			"trigger": "_Region:IsForbidden\t()",
+			"contents": "${1:isForbidden} = ${2:Region}:IsForbidden()$0",
+		},
+		{
+			"trigger": "_Region:IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
+			"contents": "${1:isOver} = ${2:Region}:IsMouseOver(${3:[topOffset]}, ${4:[leftOffset]}, ${5:[bottomOffset]}, ${6:[rightOffset]})$0",
+		},
+		{
+			"trigger": "_Region:IsObjectType\t(\"type\")",
+			"contents": "${1:isType} = ${2:Region}:IsObjectType(\"${3:type}\")$0",
+		},
+		{
+			"trigger": "_Region:IsProtected\t()",
+			"contents": "${1:isProtected}, ${2:explicit} = ${3:Region}:IsProtected()$0",
+		},
+
+
+
+		{
+			"trigger": "_Region\thelp",
+			"contents": "Region = {\n\tinherits = {\n\t\t\"Region\",\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\tmethods = {\n\t\t\"CanChangeProtectedState\",\n\t\t\"ClearAllPoints\",\n\t\t\"GetBottom\",\n\t\t\"GetCenter\",\n\t\t\"GetDebugName\",\n\t\t\"GetHeight\",\n\t\t\"GetLeft\",\n\t\t\"GetName\",\n\t\t\"GetNumPoints\",\n\t\t\"GetObjectType\",\n\t\t\"GetParent\",\n\t\t\"GetPoint\",\n\t\t\"GetRect\",\n\t\t\"GetRight\",\n\t\t\"GetSize\",\n\t\t\"GetTop\",\n\t\t\"GetWidth\",\n\t\t\"IsDragging\",\n\t\t\"IsForbidden\",\n\t\t\"IsMouseOver\",\n\t\t\"IsObjectType\",\n\t\t\"IsProtected\",\n\t\t\"SetAllPoints\",\n\t\t\"SetHeight\",\n\t\t\"SetParent\",\n\t\t\"SetPoint\",\n\t\t\"SetSize\",\n\t\t\"SetWidth\",\n\t},\n}",
+		},
+	]
+}

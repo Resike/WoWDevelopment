@@ -2566,114 +2566,6 @@
 			"contents": "RefreshUnit()$0",
 		},
 		{
-			"trigger": "Region:CanChangeProtectedState\t()",
-			"contents": "${2:Region}:CanChangeProtectedState()$0",
-		},
-		{
-			"trigger": "Region:ClearAllPoints\t()",
-			"contents": "${1:Region}:ClearAllPoints()$0",
-		},
-		{
-			"trigger": "Region:CreateAnimationGroup\t([\"name\"], [\"inheritsFrom\"])",
-			"contents": "${1:Region}:CreateAnimationGroup(${2:[\"name\"]}, ${3:[\"inheritsFrom\"]})$0",
-		},
-		{
-			"trigger": "Region:GetAnimationGroups\t()",
-			"contents": "${2:Region}:GetAnimationGroups()$0",
-		},
-		{
-			"trigger": "Region:GetBottom\t()",
-			"contents": "${2:Region}:GetBottom()$0",
-		},
-		{
-			"trigger": "Region:GetCenter\t()",
-			"contents": "${3:Region}:GetCenter()$0",
-		},
-		{
-			"trigger": "Region:GetHeight\t()",
-			"contents": "${2:Region}:GetHeight()$0",
-		},
-		{
-			"trigger": "Region:GetLeft\t()",
-			"contents": "${2:Region}:GetLeft()$0",
-		},
-		{
-			"trigger": "Region:GetNumPoints\t()",
-			"contents": "${2:Region}:GetNumPoints()$0",
-		},
-		{
-			"trigger": "Region:GetPoint\t(index)",
-			"contents": "${1:Region}:GetPoint(${2:index})$0",
-		},
-		{
-			"trigger": "Region:GetRect\t()",
-			"contents": "${5:Region}:GetRect()$0",
-		},
-		{
-			"trigger": "Region:GetRight\t()",
-			"contents": "${2:Region}:GetRight()$0",
-		},
-		{
-			"trigger": "Region:GetSize\t()",
-			"contents": "${3:Region}:GetSize()$0",
-		},
-		{
-			"trigger": "Region:GetTop\t()",
-			"contents": "${2:Region}:GetTop()$0",
-		},
-		{
-			"trigger": "Region:GetWidth\t()",
-			"contents": "${2:Region}:GetWidth()$0",
-		},
-		{
-			"trigger": "Region:IsDragging\t()",
-			"contents": "${2:Region}:IsDragging()$0",
-		},
-		{
-			"trigger": "Region:IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
-			"contents": "${2:Region}:IsMouseOver(${3:[topOffset]}, ${4:[leftOffset]}, ${5:[bottomOffset]}, ${6:[rightOffset]})$0",
-		},
-		{
-			"trigger": "Region:IsProtected\t()",
-			"contents": "${3:Region}:IsProtected()$0",
-		},
-		{
-			"trigger": "Region:SetAllPoints\t([\"name\"])",
-			"contents": "${1:Region}:SetAllPoints(${2:[\"name\"]})$0",
-		},
-		{
-			"trigger": "Region:SetAllPoints\t([region])",
-			"contents": "${1:Region}:SetAllPoints(${2:[region]})$0",
-		},
-		{
-			"trigger": "Region:SetHeight\t(height)",
-			"contents": "${1:Region}:SetHeight(${2:height})$0",
-		},
-		{
-			"trigger": "Region:SetParent\t(frame)",
-			"contents": "${1:Region}:SetParent(${2:frame})$0",
-		},
-		{
-			"trigger": "Region:SetParent\t(\"name\")",
-			"contents": "${1:Region}:SetParent(\"${2:name}\")$0",
-		},
-		{
-			"trigger": "Region:SetPoint\t(\"point\", [relativeTo], [\"relativePoint\"], [xOffset], [yOffset])",
-			"contents": "${1:Region}:SetPoint(\"${2:point}\", ${3:[relativeTo]}, \"${4:[relativePoint]}\", ${5:[xOffset]}, ${6:[yOffset]})$0",
-		},
-		{
-			"trigger": "Region:SetSize\t(width, height)",
-			"contents": "${1:Region}:SetSize(${2:width}, ${3:height})$0",
-		},
-		{
-			"trigger": "Region:SetWidth\t(width)",
-			"contents": "${1:Region}:SetWidth(${2:width})$0",
-		},
-		{
-			"trigger": "Region:StopAnimating\t()",
-			"contents": "${1:Region}:StopAnimating()$0",
-		},
-		{
 			"trigger": "RegisterAllEvents\t()",
 			"contents": "RegisterAllEvents()$0",
 		},
@@ -4125,30 +4017,6 @@
 			"trigger": "UpdateScrollChildRect\t()",
 			"contents": "UpdateScrollChildRect()$0",
 		},
-		{
-			"trigger": "VisibleRegion:GetAlpha\t()",
-			"contents": "${2:VisibleRegion}:GetAlpha()$0",
-		},
-		{
-			"trigger": "VisibleRegion:Hide\t()",
-			"contents": "${1:VisibleRegion}:Hide()$0",
-		},
-		{
-			"trigger": "VisibleRegion:IsShown\t()",
-			"contents": "${2:VisibleRegion}:IsShown()$0",
-		},
-		{
-			"trigger": "VisibleRegion:IsVisible\t()",
-			"contents": "${2:VisibleRegion}:IsVisible()$0",
-		},
-		{
-			"trigger": "VisibleRegion:SetAlpha\t(alpha)",
-			"contents": "${1:VisibleRegion}:SetAlpha(${2:alpha})$0",
-		},
-		{
-			"trigger": "VisibleRegion:Show\t()",
-			"contents": "${1:VisibleRegion}:Show()$0",
-		},
 
 
 
@@ -4697,74 +4565,6 @@
 			"contents": "${1:max} = ${2:Path}:GetMaxOrder()$0",
 		},
 		{
-			"trigger": "_Region:CanChangeProtectedState\t()",
-			"contents": "${1:canChange} = ${2:Region}:CanChangeProtectedState()$0",
-		},
-		{
-			"trigger": "_Region:CreateAnimationGroup\t([\"name\"], [\"inheritsFrom\"])",
-			"contents": "${1:animationGroup} = ${2:Region}:CreateAnimationGroup(${3:[\"name\"]}, ${4:[\"inheritsFrom\"]})$0",
-		},
-		{
-			"trigger": "_Region:GetAnimationGroups\t()",
-			"contents": "${1:...} = ${2:Region}:GetAnimationGroups()$0",
-		},
-		{
-			"trigger": "_Region:GetBottom\t()",
-			"contents": "${1:bottom} = ${2:Region}:GetBottom()$0",
-		},
-		{
-			"trigger": "_Region:GetCenter\t()",
-			"contents": "${1:x}, ${2:y} = ${3:Region}:GetCenter()$0",
-		},
-		{
-			"trigger": "_Region:GetHeight\t()",
-			"contents": "${1:height} = ${2:Region}:GetHeight()$0",
-		},
-		{
-			"trigger": "_Region:GetLeft\t()",
-			"contents": "${1:left} = ${2:Region}:GetLeft()$0",
-		},
-		{
-			"trigger": "_Region:GetNumPoints\t()",
-			"contents": "${1:numPoints} = ${2:Region}:GetNumPoints()$0",
-		},
-		{
-			"trigger": "_Region:GetPoint\t(index)",
-			"contents": "${1:point}, ${2:relativeTo}, ${3:relativePoint}, ${4:xOffset}, ${5:yOffset} = ${6:Region}:GetPoint(${7:index})$0",
-		},
-		{
-			"trigger": "_Region:GetRect\t()",
-			"contents": "${1:left}, ${2:bottom}, ${3:width}, ${4:height} = ${5:Region}:GetRect()$0",
-		},
-		{
-			"trigger": "_Region:GetRight\t()",
-			"contents": "${1:right} = ${2:Region}:GetRight()$0",
-		},
-		{
-			"trigger": "_Region:GetSize\t()",
-			"contents": "${1:width}, ${2:height} = ${3:Region}:GetSize()$0",
-		},
-		{
-			"trigger": "_Region:GetTop\t()",
-			"contents": "${1:top} = ${2:Region}:GetTop()$0",
-		},
-		{
-			"trigger": "_Region:GetWidth\t()",
-			"contents": "${1:width} = ${2:Region}:GetWidth()$0",
-		},
-		{
-			"trigger": "_Region:IsDragging\t()",
-			"contents": "${1:isDragging} = ${2:Region}:IsDragging()$0",
-		},
-		{
-			"trigger": "_Region:IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
-			"contents": "${1:isOver} = ${2:Region}:IsMouseOver(${3:[topOffset]}, ${4:[leftOffset]}, ${5:[bottomOffset]}, ${6:[rightOffset]})$0",
-		},
-		{
-			"trigger": "_Region:IsProtected\t()",
-			"contents": "${1:isProtected}, ${2:explicit} = ${3:Region}:IsProtected()$0",
-		},
-		{
 			"trigger": "_Rotation:GetDegrees\t()",
 			"contents": "${1:degrees} = ${2:Rotation}:GetDegrees()$0",
 		},
@@ -4967,18 +4767,6 @@
 		{
 			"trigger": "_UIObject:IsObjectType\t(\"type\")",
 			"contents": "${1:isType} = ${2:UIObject}:IsObjectType(\"${3:type}\")$0",
-		},
-		{
-			"trigger": "_VisibleRegion:GetAlpha\t()",
-			"contents": "${1:alpha} = ${2:VisibleRegion}:GetAlpha()$0",
-		},
-		{
-			"trigger": "_VisibleRegion:IsShown\t()",
-			"contents": "${1:shown} = ${2:VisibleRegion}:IsShown()$0",
-		},
-		{
-			"trigger": "_VisibleRegion:IsVisible\t()",
-			"contents": "${1:visible} = ${2:VisibleRegion}:IsVisible()$0",
 		},
 	]
 }

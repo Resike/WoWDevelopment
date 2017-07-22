@@ -1,0 +1,243 @@
+{
+	"scope": "source.lua",
+	"completions": [
+		{
+			"trigger": "VisibleRegion:CanChangeProtectedState\t()",
+			"contents": "${1:VisibleRegion}:CanChangeProtectedState()$0",
+		},
+		{
+			"trigger": "VisibleRegion:ClearAllPoints\t()",
+			"contents": "${1:VisibleRegion}:ClearAllPoints()$0",
+		},
+		{
+			"trigger": "VisibleRegion:GetAlpha\t()",
+			"contents": "${1:VisibleRegion}:GetAlpha()$0",
+		},
+		{
+			"trigger": "VisibleRegion:GetBottom\t()",
+			"contents": "${1:VisibleRegion}:GetBottom()$0",
+		},
+		{
+			"trigger": "VisibleRegion:GetCenter\t()",
+			"contents": "${1:VisibleRegion}:GetCenter()$0",
+		},
+		{
+			"trigger": "VisibleRegion:GetDebugName\t()",
+			"contents": "${1:VisibleRegion}:GetDebugName()$0",
+		},
+		{
+			"trigger": "VisibleRegion:GetHeight\t()",
+			"contents": "${1:VisibleRegion}:GetHeight()$0",
+		},
+		{
+			"trigger": "VisibleRegion:GetLeft\t()",
+			"contents": "${1:VisibleRegion}:GetLeft()$0",
+		},
+		{
+			"trigger": "VisibleRegion:GetName\t()",
+			"contents": "${1:VisibleRegion}:GetName()$0",
+		},
+		{
+			"trigger": "VisibleRegion:GetNumPoints\t()",
+			"contents": "${1:VisibleRegion}:GetNumPoints()$0",
+		},
+		{
+			"trigger": "VisibleRegion:GetObjectType\t()",
+			"contents": "${1:VisibleRegion}:GetObjectType()$0",
+		},
+		{
+			"trigger": "VisibleRegion:GetParent\t()",
+			"contents": "${1:VisibleRegion}:GetParent()$0",
+		},
+		{
+			"trigger": "VisibleRegion:GetPoint\t(index)",
+			"contents": "${1:VisibleRegion}:GetPoint(${2:index})$0",
+		},
+		{
+			"trigger": "VisibleRegion:GetRect\t()",
+			"contents": "${1:VisibleRegion}:GetRect()$0",
+		},
+		{
+			"trigger": "VisibleRegion:GetRight\t()",
+			"contents": "${1:VisibleRegion}:GetRight()$0",
+		},
+		{
+			"trigger": "VisibleRegion:GetSize\t()",
+			"contents": "${1:VisibleRegion}:GetSize()$0",
+		},
+		{
+			"trigger": "VisibleRegion:GetTop\t()",
+			"contents": "${1:VisibleRegion}:GetTop()$0",
+		},
+		{
+			"trigger": "VisibleRegion:GetWidth\t()",
+			"contents": "${1:VisibleRegion}:GetWidth()$0",
+		},
+		{
+			"trigger": "VisibleRegion:Hide\t()",
+			"contents": "${1:VisibleRegion}:Hide()$0",
+		},
+		{
+			"trigger": "VisibleRegion:IsDragging\t()",
+			"contents": "${1:VisibleRegion}:IsDragging()$0",
+		},
+		{
+			"trigger": "VisibleRegion:IsForbidden\t()",
+			"contents": "${1:VisibleRegion}:IsForbidden()$0",
+		},
+		{
+			"trigger": "VisibleRegion:IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
+			"contents": "${1:VisibleRegion}:IsMouseOver(${2:[topOffset]}, ${3:[leftOffset]}, ${4:[bottomOffset]}, ${5:[rightOffset]})$0",
+		},
+		{
+			"trigger": "VisibleRegion:IsObjectType\t()",
+			"contents": "${1:VisibleRegion}:IsObjectType()$0",
+		},
+		{
+			"trigger": "VisibleRegion:IsProtected\t()",
+			"contents": "${1:VisibleRegion}:IsProtected()$0",
+		},
+		{
+			"trigger": "VisibleRegion:IsShown\t()",
+			"contents": "${1:VisibleRegion}:IsShown()$0",
+		},
+		{
+			"trigger": "VisibleRegion:IsVisible\t()",
+			"contents": "${1:VisibleRegion}:IsVisible()$0",
+		},
+		{
+			"trigger": "VisibleRegion:SetAllPoints\t([frame])",
+			"contents": "${1:VisibleRegion}:SetAllPoints(${2:[frame]})$0",
+		},
+		{
+			"trigger": "VisibleRegion:SetAlpha\t(alpha)",
+			"contents": "${1:VisibleRegion}:SetAlpha(${2:alpha})$0",
+		},
+		{
+			"trigger": "VisibleRegion:SetHeight\t(height)",
+			"contents": "${1:VisibleRegion}:SetHeight(${2:height})$0",
+		},
+		{
+			"trigger": "VisibleRegion:SetParent\t(frame)",
+			"contents": "${1:VisibleRegion}:SetParent(${2:frame})$0",
+		},
+		{
+			"trigger": "VisibleRegion:SetPoint\t(\"point\", [relativeTo], [\"relativePoint\"], [xOffset], [yOffset])",
+			"contents": "${1:VisibleRegion}:SetPoint(\"${2:point}\", ${3:[relativeTo]}, \"${4:[relativePoint]}\", ${5:[xOffset]}, ${6:[yOffset]})$0",
+		},
+		{
+			"trigger": "VisibleRegion:SetSize\t(width, height)",
+			"contents": "${1:VisibleRegion}:SetSize(${2:width}, ${3:height})$0",
+		},
+		{
+			"trigger": "VisibleRegion:SetWidth\t(width)",
+			"contents": "${1:VisibleRegion}:SetWidth(${2:width})$0",
+		},
+		{
+			"trigger": "VisibleRegion:Show\t()",
+			"contents": "${1:VisibleRegion}:Show()$0",
+		},
+
+
+
+		{
+			"trigger": "_VisibleRegion:CanChangeProtectedState\t()",
+			"contents": "${1:canChange} = ${2:VisibleRegion}:CanChangeProtectedState()$0",
+		},
+		{
+			"trigger": "_VisibleRegion:GetAlpha\t()",
+			"contents": "${1:alpha} = ${2:VisibleRegion}:GetAlpha()$0",
+		},
+		{
+			"trigger": "_VisibleRegion:GetBottom\t()",
+			"contents": "${1:bottom} = ${2:VisibleRegion}:GetBottom()$0",
+		},
+		{
+			"trigger": "_VisibleRegion:GetCenter\t()",
+			"contents": "${1:x}, ${2:y} = ${3:VisibleRegion}:GetCenter()$0",
+		},
+		{
+			"trigger": "_VisibleRegion:GetDebugName\t()",
+			"contents": "${1:name} = ${2:VisibleRegion}:GetDebugName()$0",
+		},
+		{
+			"trigger": "_VisibleRegion:GetHeight\t()",
+			"contents": "${1:height} = ${2:VisibleRegion}:GetHeight()$0",
+		},
+		{
+			"trigger": "_VisibleRegion:GetLeft\t()",
+			"contents": "${1:left} = ${2:VisibleRegion}:GetLeft()$0",
+		},
+		{
+			"trigger": "_VisibleRegion:GetName\t()",
+			"contents": "${1:name} = ${2:VisibleRegion}:GetName()$0",
+		},
+		{
+			"trigger": "_VisibleRegion:GetNumPoints\t()",
+			"contents": "${1:numPoints} = ${2:VisibleRegion}:GetNumPoints()$0",
+		},
+		{
+			"trigger": "_VisibleRegion:GetObjectType\t()",
+			"contents": "${1:type} = ${2:VisibleRegion}:GetObjectType()$0",
+		},
+		{
+			"trigger": "_VisibleRegion:GetPoint\t(index)",
+			"contents": "${1:point}, ${2:relativeTo}, ${3:relativePoint}, ${4:xOffset}, ${5:yOffset} = ${6:VisibleRegion}:GetPoint(${7:index})$0",
+		},
+		{
+			"trigger": "_VisibleRegion:GetRect\t()",
+			"contents": "${1:left}, ${2:bottom}, ${3:width}, ${4:height} = ${5:VisibleRegion}:GetRect()$0",
+		},
+		{
+			"trigger": "_VisibleRegion:GetRight\t()",
+			"contents": "${1:right} = ${2:VisibleRegion}:GetRight()$0",
+		},
+		{
+			"trigger": "_VisibleRegion:GetSize\t()",
+			"contents": "${1:width}, ${2:height} = ${3:VisibleRegion}:GetSize()$0",
+		},
+		{
+			"trigger": "_VisibleRegion:GetTop\t()",
+			"contents": "${1:top} = ${2:VisibleRegion}:GetTop()$0",
+		},
+		{
+			"trigger": "_VisibleRegion:GetWidth\t()",
+			"contents": "${1:width} = ${2:VisibleRegion}:GetWidth()$0",
+		},
+		{
+			"trigger": "_VisibleRegion:IsDragging\t()",
+			"contents": "${1:isDragging} = ${2:VisibleRegion}:IsDragging()$0",
+		},
+		{
+			"trigger": "_VisibleRegion:IsForbidden\t()",
+			"contents": "${1:isForbidden} = ${2:VisibleRegion}:IsForbidden()$0",
+		},
+		{
+			"trigger": "_VisibleRegion:IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
+			"contents": "${1:isOver} = ${2:VisibleRegion}:IsMouseOver(${3:[topOffset]}, ${4:[leftOffset]}, ${5:[bottomOffset]}, ${6:[rightOffset]})$0",
+		},
+		{
+			"trigger": "_VisibleRegion:IsObjectType\t(\"type\")",
+			"contents": "${1:isType} = ${2:VisibleRegion}:IsObjectType(\"${3:type}\")$0",
+		},
+		{
+			"trigger": "_VisibleRegion:IsProtected\t()",
+			"contents": "${1:isProtected}, ${2:explicit} = ${3:VisibleRegion}:IsProtected()$0",
+		},
+		{
+			"trigger": "_VisibleRegion:IsShown\t()",
+			"contents": "${1:shown} = ${2:VisibleRegion}:IsShown()$0",
+		},
+		{
+			"trigger": "_VisibleRegion:IsVisible\t()",
+			"contents": "${1:visible} = ${2:VisibleRegion}:IsVisible()$0",
+		},
+
+
+
+		{
+			"trigger": "_VisibleRegion\thelp",
+			"contents": "VisibleRegion = {\n\tinherits = {\n\t\t\"VisibleRegion\",\n\t\t\"Region\",\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\tmethods = {\n\t\t\"CanChangeProtectedState\",\n\t\t\"ClearAllPoints\",\n\t\t\"GetBottom\",\n\t\t\"GetCenter\",\n\t\t\"GetDebugName\",\n\t\t\"GetHeight\",\n\t\t\"GetLeft\",\n\t\t\"GetName\",\n\t\t\"GetNumPoints\",\n\t\t\"GetObjectType\",\n\t\t\"GetParent\",\n\t\t\"GetPoint\",\n\t\t\"GetRect\",\n\t\t\"GetRight\",\n\t\t\"GetSize\",\n\t\t\"GetTop\",\n\t\t\"GetWidth\",\n\t\t\"IsDragging\",\n\t\t\"IsForbidden\",\n\t\t\"IsMouseOver\",\n\t\t\"IsObjectType\",\n\t\t\"IsProtected\",\n\t\t\"SetAllPoints\",\n\t\t\"SetHeight\",\n\t\t\"SetParent\",\n\t\t\"SetPoint\",\n\t\t\"SetSize\",\n\t\t\"SetWidth\",\n\t},\n}",
+		},
+	]
+}
