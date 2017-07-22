@@ -1,0 +1,39 @@
+{
+	"scope": "source.lua",
+	"completions": [
+		{
+			"trigger": "ScriptObject:GetScript\t(\"scriptType\")",
+			"contents": "${1:ScriptObject}:GetScript(\"${1:scriptType}\")$0",
+		},
+		{
+			"trigger": "ScriptObject:HasScript\t(\"scriptType\")",
+			"contents": "${1:ScriptObject}:HasScript(\"${2:scriptType}\")$0",
+		},
+		{
+			"trigger": "ScriptObject:HookScript\t(\"scriptType\", handler)",
+			"contents": "${1:ScriptObject}:HookScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "ScriptObject:SetScript\t(\"scriptType\", handler)",
+			"contents": "${1:ScriptObject}:SetScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+
+
+
+		{
+			"trigger": "_ScriptObject:GetScript\t(\"scriptType\")",
+			"contents": "${1:handler} = ${2:ScriptObject}:GetScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "_ScriptObject:HasScript\t(\"scriptType\")",
+			"contents": "${1:hasScript} = ${2:ScriptObject}:HasScript(\"${2:scriptType}\")$0",
+		},
+
+
+
+		{
+			"trigger": "_ScriptObject\thelp",
+			"contents": "ScriptObject = {\n\tinherits = {\n\t\t\"ScriptObject\",\n\t},\n\tmethods = {\n\t\t\"GetScript\",\n\t\t\"HasScript\",\n\t\t\"HookScript\",\n\t\t\"SetScript\",\n\t},\n}",
+		},
+	]
+}

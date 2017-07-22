@@ -1,0 +1,55 @@
+{
+	"scope": "source.lua",
+	"completions": [
+		{
+			"trigger": "UIObject:GetDebugName\t()",
+			"contents": "${1:UIObject}:GetDebugName()$0",
+		},
+		{
+			"trigger": "UIObject:GetName\t()",
+			"contents": "${1:UIObject}:GetName()$0",
+		},
+		{
+			"trigger": "UIObject:GetObjectType\t()",
+			"contents": "${1:UIObject}:GetObjectType()$0",
+		},
+		{
+			"trigger": "UIObject:IsForbidden\t()",
+			"contents": "${1:UIObject}:IsForbidden()$0",
+		},
+		{
+			"trigger": "UIObject:IsObjectType\t()",
+			"contents": "${1:UIObject}:IsObjectType()$0",
+		},
+
+
+
+		{
+			"trigger": "_UIObject:GetDebugName\t()",
+			"contents": "${1:name} = ${2:UIObject}:GetDebugName()$0",
+		},
+		{
+			"trigger": "_UIObject:GetName\t()",
+			"contents": "${1:name} = ${2:UIObject}:GetName()$0",
+		},
+		{
+			"trigger": "_UIObject:GetObjectType\t()",
+			"contents": "${1:type} = ${2:UIObject}:GetObjectType()$0",
+		},
+		{
+			"trigger": "_UIObject:IsForbidden\t()",
+			"contents": "${1:isForbidden} = ${2:UIObject}:IsForbidden()$0",
+		},
+		{
+			"trigger": "_UIObject:IsObjectType\t(\"type\")",
+			"contents": "${1:isType} = ${2:UIObject}:IsObjectType(\"${3:type}\")$0",
+		},
+
+
+
+		{
+			"trigger": "_UIObject\thelp",
+			"contents": "UIObject = {\n\tinherits = {\n\t\t\"UIObject\",\n\t},\n\tmethods = {\n\t\t\"GetDebugName\",\n\t\t\"GetName\",\n\t\t\"GetObjectType\",\n\t\t\"IsForbidden\",\n\t\t\"IsObjectType\",\n\t},\n}",
+		},
+	]
+}

@@ -1,6 +1,63 @@
 {
 	"scope": "source.lua",
 	"completions": [
+		{
+			"trigger": "ControlPoint:GetDebugName\t()",
+			"contents": "${1:ControlPoint}:GetDebugName()$0",
+		},
+		{
+			"trigger": "ControlPoint:GetName\t()",
+			"contents": "${1:ControlPoint}:GetName()$0",
+		},
+		{
+			"trigger": "ControlPoint:GetObjectType\t()",
+			"contents": "${1:ControlPoint}:GetObjectType()$0",
+		},
+		{
+			"trigger": "ControlPoint:GetOffset\t()",
+			"contents": "${1:ControlPoint}:GetOffset()$0",
+		},
+		{
+			"trigger": "ControlPoint:GetOrder\t()",
+			"contents": "${1:ControlPoint}:GetOrder()$0",
+		},
+		{
+			"trigger": "ControlPoint:GetParent\t()",
+			"contents": "${1:ControlPoint}:GetParent()$0",
+		},
 
+
+
+		{
+			"trigger": "_ControlPoint:GetDebugName\t()",
+			"contents": "${1:name} = ${2:ControlPoint}:GetDebugName()$0",
+		},
+		{
+			"trigger": "_ControlPoint:GetName\t()",
+			"contents": "${1:name} = ${2:ControlPoint}:GetName()$0",
+		},
+		{
+			"trigger": "_ControlPoint:GetObjectType\t()",
+			"contents": "${1:type} = ${2:ControlPoint}:GetObjectType()$0",
+		},
+		{
+			"trigger": "_ControlPoint:GetOffset\t()",
+			"contents": "${1:x}, ${2:y} = ${3:ControlPoint}:GetOffset()$0",
+		},
+		{
+			"trigger": "_ControlPoint:GetOrder\t()",
+			"contents": "${1:order} = ${2:ControlPoint}:GetOrder()$0",
+		},
+		{
+			"trigger": "_ControlPoint:GetParent\t()",
+			"contents": "${1:parent} = ${2:ControlPoint}:GetParent()$0",
+		},
+
+
+
+		{
+			"trigger": "_ControlPoint\thelp",
+			"contents": "ControlPoint = {\n\tinherits = {\n\t\t\"ControlPoint\",\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\tmethods = {\n\t\t\"GetDebugName\",\n\t\t\"GetName\",\n\t\t\"GetObjectType\",\n\t\t\"GetOffset\",\n\t\t\"GetOrder\",\n\t\t\"GetParent\",\n\t\t\"IsForbidden\",\n\t\t\"IsObjectType\",\n\t\t\"SetOffset\",\n\t\t\"SetOrder\",\n\t\t\"SetParent\",\n\t},\n}",
+		},
 	]
 }

@@ -190,7 +190,7 @@
 		},
 		{
 			"trigger": "_Animation:GetParent\t()",
-			"contents": "${1:paent} = ${2:Animation}:GetParent()$0",
+			"contents": "${1:parent} = ${2:Animation}:GetParent()$0",
 		},
 		{
 			"trigger": "_Animation:GetProgress\t()",
@@ -251,6 +251,13 @@
 		{
 			"trigger": "_Animation:IsStopped\t()",
 			"contents": "${1:stopped} = ${2:Animation}:IsStopped()$0",
+		},
+
+
+
+		{
+			"trigger": "_Animation\thelp",
+			"contents": "Animation = {\n\tinherits = {\n\t\t\"Animation\",\n\t\t\"ScriptObject\",\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\thandlers = {\n\t\t\"OnFinished\" = \"self, requested\",\n\t\t\"OnLoad\" = \"self\",\n\t\t\"OnPause\" = \"self\",\n\t\t\"OnPlay\" = \"self\",\n\t\t\"OnStop\" = \"self, requested\",\n\t\t\"OnUpdate\" = \"self, elapsed\",\n\t},\n\tmethods = {\n\t\t\"GetDebugName\",\n\t\t\"GetDuration\",\n\t\t\"GetElapsed\",\n\t\t\"GetEndDelay\",\n\t\t\"GetName\",\n\t\t\"GetObjectType\",\n\t\t\"GetOrder\",\n\t\t\"GetParent\",\n\t\t\"GetProgress\",\n\t\t\"GetRegionParent\",\n\t\t\"GetScript\",\n\t\t\"GetSmoothing\",\n\t\t\"GetSmoothProgress\",\n\t\t\"GetStartDelay\",\n\t\t\"GetTarget\",\n\t\t\"HasScript\",\n\t\t\"HookScript\",\n\t\t\"IsDelaying\",\n\t\t\"IsDone\",\n\t\t\"IsForbidden\",\n\t\t\"IsObjectType\",\n\t\t\"IsPaused\",\n\t\t\"IsPlaying\",\n\t\t\"IsStopped\",\n\t\t\"Pause\",\n\t\t\"Play\",\n\t\t\"Restart\",\n\t\t\"SetChildKey\",\n\t\t\"SetDuration\",\n\t\t\"SetEndDelay\",\n\t\t\"SetOrder\",\n\t\t\"SetParent\",\n\t\t\"SetScript\",\n\t\t\"SetSmoothing\",\n\t\t\"SetSmoothProgress\",\n\t\t\"SetStartDelay\",\n\t\t\"SetTarget\",\n\t\t\"SetTargetKey\",\n\t\t\"Stop\",\n\t},\n}",
 		},
 	]
 }

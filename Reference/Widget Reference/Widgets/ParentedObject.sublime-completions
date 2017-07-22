@@ -1,0 +1,63 @@
+{
+	"scope": "source.lua",
+	"completions": [
+		{
+			"trigger": "ParentedObject:GetDebugName\t()",
+			"contents": "${1:ParentedObject}:GetDebugName()$0",
+		},
+		{
+			"trigger": "ParentedObject:GetName\t()",
+			"contents": "${1:ParentedObject}:GetName()$0",
+		},
+		{
+			"trigger": "ParentedObject:GetObjectType\t()",
+			"contents": "${1:ParentedObject}:GetObjectType()$0",
+		},
+		{
+			"trigger": "ParentedObject:GetParent\t()",
+			"contents": "${1:ParentedObject}:GetParent()$0",
+		},
+		{
+			"trigger": "ParentedObject:IsForbidden\t()",
+			"contents": "${1:ParentedObject}:IsForbidden()$0",
+		},
+		{
+			"trigger": "ParentedObject:IsObjectType\t()",
+			"contents": "${1:ParentedObject}:IsObjectType()$0",
+		},
+
+
+
+		{
+			"trigger": "_ParentedObject:GetDebugName\t()",
+			"contents": "${1:name} = ${2:ParentedObject}:GetDebugName()$0",
+		},
+		{
+			"trigger": "_ParentedObject:GetName\t()",
+			"contents": "${1:name} = ${2:ParentedObject}:GetName()$0",
+		},
+		{
+			"trigger": "_ParentedObject:GetObjectType\t()",
+			"contents": "${1:type} = ${2:ParentedObject}:GetObjectType()$0",
+		},
+		{
+			"trigger": "_ParentedObject:GetParent\t()",
+			"contents": "${1:parent} = ${2:ParentedObject}:GetParent()$0",
+		},
+		{
+			"trigger": "_ParentedObject:IsForbidden\t()",
+			"contents": "${1:isForbidden} = ${2:ParentedObject}:IsForbidden()$0",
+		},
+		{
+			"trigger": "_ParentedObject:IsObjectType\t(\"type\")",
+			"contents": "${1:isType} = ${2:ParentedObject}:IsObjectType(\"${3:type}\")$0",
+		},
+
+
+
+		{
+			"trigger": "_ParentedObject\thelp",
+			"contents": "ParentedObject = {\n\tinherits = {\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\tmethods = {\n\t\t\"GetDebugName\",\n\t\t\"GetName\",\n\t\t\"GetObjectType\",\n\t\t\"GetParent\",\n\t\t\"IsForbidden\",\n\t\t\"IsObjectType\",\n\t},\n}",
+		},
+	]
+}

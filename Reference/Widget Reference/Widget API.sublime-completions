@@ -2575,7 +2575,7 @@
 		},
 		{
 			"trigger": "Region:CreateAnimationGroup\t([\"name\"], [\"inheritsFrom\"])",
-			"contents": "${2:Region}:CreateAnimationGroup(${3:[\"name\"]}, ${4:[\"inheritsFrom\"]})$0",
+			"contents": "${1:Region}:CreateAnimationGroup(${2:[\"name\"]}, ${3:[\"inheritsFrom\"]})$0",
 		},
 		{
 			"trigger": "Region:GetAnimationGroups\t()",
