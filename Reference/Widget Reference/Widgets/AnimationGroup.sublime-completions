@@ -38,10 +38,6 @@
 			"contents": "${1:AnimationGroup}:GetObjectType()$0",
 		},
 		{
-			"trigger": "AnimationGroup:GetParent\t()",
-			"contents": "${1:AnimationGroup}:GetParent()$0",
-		},
-		{
 			"trigger": "AnimationGroup:GetProgress\t()",
 			"contents": "${1:AnimationGroup}:GetProgress()$0",
 		},
@@ -118,7 +114,7 @@
 
 		{
 			"trigger": "_AnimationGroup:CreateAnimation\t(\"animationType\", [\"name\"], [\"inheritsFrom\"])",
-			"contents": "${1:animation} = ${2:AnimationGroup}:CreateAnimation(\"${3:animationType}\", ${4:[\"name\"]}, ${5:[\"inheritsFrom\"]})$0",
+			"contents": "${1:Animation} = ${2:AnimationGroup}:CreateAnimation(\"${3:animationType}\", ${4:[\"name\"]}, ${5:[\"inheritsFrom\"]})$0",
 		},
 		{
 			"trigger": "_AnimationGroup:GetAnimations\t()",

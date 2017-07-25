@@ -1,0 +1,299 @@
+{
+	"scope": "source.lua",
+	"completions": [
+		{
+			"trigger": "Rotation:GetDebugName\t()",
+			"contents": "${1:Rotation}:GetDebugName()$0",
+		},
+		{
+			"trigger": "Rotation:GetDegrees\t()",
+			"contents": "${1:Rotation}:GetDegrees()$0",
+		},
+		{
+			"trigger": "Rotation:GetDuration\t()",
+			"contents": "${1:Rotation}:GetDuration()$0",
+		},
+		{
+			"trigger": "Rotation:GetElapsed\t()",
+			"contents": "${1:Rotation}:GetElapsed()$0",
+		},
+		{
+			"trigger": "Rotation:GetEndDelay\t()",
+			"contents": "${1:Rotation}:GetEndDelay()$0",
+		},
+		{
+			"trigger": "Rotation:GetName\t()",
+			"contents": "${1:Rotation}:GetName()$0",
+		},
+		{
+			"trigger": "Rotation:GetObjectType\t()",
+			"contents": "${1:Rotation}:GetObjectType()$0",
+		},
+		{
+			"trigger": "Rotation:GetOrder\t()",
+			"contents": "${1:Rotation}:GetOrder()$0",
+		},
+		{
+			"trigger": "Rotation:GetOrigin\t()",
+			"contents": "${4:Rotation}:GetOrigin()$0",
+		},
+		{
+			"trigger": "Rotation:GetParent\t()",
+			"contents": "${1:Rotation}:GetParent()$0",
+		},
+		{
+			"trigger": "Rotation:GetProgress\t()",
+			"contents": "${1:Rotation}:GetProgress()$0",
+		},
+		{
+			"trigger": "Rotation:GetRadians\t()",
+			"contents": "${2:Rotation}:GetRadians()$0",
+		},
+		{
+			"trigger": "Rotation:GetRegionParent\t()",
+			"contents": "${1:Rotation}:GetRegionParent()$0",
+		},
+		{
+			"trigger": "Rotation:GetScript\t(\"scriptType\")",
+			"contents": "${1:Rotation}:GetScript(\"${2:scriptType}\")$0",
+		},
+		{
+			"trigger": "Rotation:GetSmoothing\t()",
+			"contents": "${1:Rotation}:GetSmoothing()$0",
+		},
+		{
+			"trigger": "Rotation:GetSmoothProgress\t()",
+			"contents": "${1:Rotation}:GetSmoothProgress()$0",
+		},
+		{
+			"trigger": "Rotation:GetStartDelay\t()",
+			"contents": "${1:Rotation}:GetStartDelay()$0",
+		},
+		{
+			"trigger": "Rotation:GetTarget\t()",
+			"contents": "${1:Rotation}:GetTarget()$0",
+		},
+		{
+			"trigger": "Rotation:HasScript\t(\"scriptType\")",
+			"contents": "${1:Rotation}:HasScript(\"${2:scriptType}\")$0",
+		},
+		{
+			"trigger": "Rotation:HookScript\t(\"scriptType\", handler)",
+			"contents": "${1:Rotation}:HookScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "Rotation:IsDelaying\t()",
+			"contents": "${1:Rotation}:IsDelaying()$0",
+		},
+		{
+			"trigger": "Rotation:IsDone\t()",
+			"contents": "${1:Rotation}:IsDone()$0",
+		},
+		{
+			"trigger": "Rotation:IsForbidden\t()",
+			"contents": "${1:Rotation}:IsForbidden()$0",
+		},
+		{
+			"trigger": "Rotation:IsObjectType\t(\"type\")",
+			"contents": "${1:Rotation}:IsObjectType(\"${2:type}\")$0",
+		},
+		{
+			"trigger": "Rotation:IsPaused\t()",
+			"contents": "${1:Rotation}:IsPaused()$0",
+		},
+		{
+			"trigger": "Rotation:IsPlaying\t()",
+			"contents": "${1:Rotation}:IsPlaying()$0",
+		},
+		{
+			"trigger": "Rotation:IsStopped\t()",
+			"contents": "${1:Rotation}:IsStopped()$0",
+		},
+		{
+			"trigger": "Rotation:Pause\t()",
+			"contents": "${1:Rotation}:Pause()$0",
+		},
+		{
+			"trigger": "Rotation:Play\t()",
+			"contents": "${1:Rotation}:Play()$0",
+		},
+		{
+			"trigger": "Rotation:Restart\t()",
+			"contents": "${1:Rotation}:Restart()$0",
+		},
+		{
+			"trigger": "Rotation:SetChildKey\t(key)",
+			"contents": "${1:Rotation}:SetChildKey((${2:key})$0",
+		},
+		{
+			"trigger": "Rotation:SetDegrees\t(degrees)",
+			"contents": "${1:Rotation}:SetDegrees(${2:degrees})$0",
+		},
+		{
+			"trigger": "Rotation:SetDuration\t(duration)",
+			"contents": "${1:Rotation}:SetDuration(${2:duration})$0",
+		},
+		{
+			"trigger": "Rotation:SetEndDelay\t(delay)",
+			"contents": "${1:Rotation}:SetEndDelay(${2:delay})$0",
+		},
+		{
+			"trigger": "Rotation:SetOrder\t(order)",
+			"contents": "${1:Rotation}:SetOrder(${2:order})$0",
+		},
+		{
+			"trigger": "Rotation:SetOrigin\t(\"point\", xOffset, yOffset)",
+			"contents": "${1:Rotation}:SetOrigin(\"${2:point}\", ${3:xOffset}, ${4:yOffset})$0",
+		},
+		{
+			"trigger": "Rotation:SetParent\t(frame)",
+			"contents": "${1:Rotation}:SetParent(${2:frame})$0",
+		},
+		{
+			"trigger": "Rotation:SetRadians\t(radians)",
+			"contents": "${1:Rotation}:SetRadians(${2:radians})$0",
+		},
+		{
+			"trigger": "Rotation:SetScript\t(\"scriptType\", handler)",
+			"contents": "${1:Rotation}:SetScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "Rotation:SetSmoothing\t(\"smoothType\")",
+			"contents": "${1:Rotation}:SetSmoothing(\"${2:smoothType}\")$0",
+		},
+		{
+			"trigger": "Rotation:SetSmoothProgress\t()",
+			"contents": "${1:Rotation}:SetSmoothProgress()$0",
+		},
+		{
+			"trigger": "Rotation:SetStartDelay\t(delay)",
+			"contents": "${1:Rotation}:SetStartDelay(${2:delay})$0",
+		},
+		{
+			"trigger": "Rotation:SetTarget\t(region)",
+			"contents": "${1:Rotation}:SetTarget(${2:region})$0",
+		},
+		{
+			"trigger": "Rotation:SetTargetKey\t(key)",
+			"contents": "${1:Rotation}:SetTargetKey(${2:key})$0",
+		},
+		{
+			"trigger": "Rotation:Stop\t()",
+			"contents": "${1:Rotation}:Stop()$0",
+		},
+
+
+
+		{
+			"trigger": "_Rotation:GetDebugName\t()",
+			"contents": "${1:name} = ${2:Rotation}:GetDebugName()$0",
+		},
+		{
+			"trigger": "_Rotation:GetDegrees\t()",
+			"contents": "${1:degrees} = ${2:Rotation}:GetDegrees()$0",
+		},
+		{
+			"trigger": "_Rotation:GetDuration\t()",
+			"contents": "${1:duration} = ${2:Rotation}:GetDuration()$0",
+		},
+		{
+			"trigger": "_Rotation:GetElapsed\t()",
+			"contents": "${1:elapsed} = ${2:Rotation}:GetElapsed()$0",
+		},
+		{
+			"trigger": "_Rotation:GetEndDelay\t()",
+			"contents": "${1:delay} = ${2:Rotation}:GetEndDelay()$0",
+		},
+		{
+			"trigger": "_Rotation:GetName\t()",
+			"contents": "${1:name} = ${2:Rotation}:GetName()$0",
+		},
+		{
+			"trigger": "_Rotation:GetObjectType\t()",
+			"contents": "${1:type} = ${2:Rotation}:GetObjectType()$0",
+		},
+		{
+			"trigger": "_Rotation:GetOrder\t()",
+			"contents": "${1:order} = ${2:Rotation}:GetOrder()$0",
+		},
+		{
+			"trigger": "_Rotation:GetOrigin\t()",
+			"contents": "${1:point}, ${2:xOffset}, ${3:yOffset} = ${4:Rotation}:GetOrigin()$0",
+		},
+		{
+			"trigger": "_Rotation:GetParent\t()",
+			"contents": "${1:parent} = ${2:Rotation}:GetParent()$0",
+		},
+		{
+			"trigger": "_Rotation:GetProgress\t()",
+			"contents": "${1:progress} = ${2:Rotation}:GetProgress()$0",
+		},
+		{
+			"trigger": "_Rotation:GetRadians\t()",
+			"contents": "${1:radians} = ${2:Rotation}:GetRadians()$0",
+		},
+		{
+			"trigger": "_Rotation:GetRegionParent\t()",
+			"contents": "${1:region} = ${2:Rotation}:GetRegionParent()$0",
+		},
+		{
+			"trigger": "_Rotation:GetScript\t(\"scriptType\")",
+			"contents": "${1:handler} = ${2:Rotation}:GetScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "_Rotation:GetSmoothing\t()",
+			"contents": "${1:smoothType} = ${2:Rotation}:GetSmoothing()$0",
+		},
+		{
+			"trigger": "_Rotation:GetSmoothProgress\t()",
+			"contents": "${1:progress} = ${2:Rotation}:GetSmoothProgress()$0",
+		},
+		{
+			"trigger": "_Rotation:GetStartDelay\t()",
+			"contents": "${1:delay} = ${2:Rotation}:GetStartDelay()$0",
+		},
+		{
+			"trigger": "_Rotation:GetTarget\t()",
+			"contents": "${1:target} = ${2:Rotation}:GetTarget()$0",
+		},
+		{
+			"trigger": "_Rotation:HasScript\t(\"scriptType\")",
+			"contents": "${1:hasScript} = ${2:Rotation}:HasScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "_Rotation:IsDelaying\t()",
+			"contents": "${1:delaying} = ${2:Rotation}:IsDelaying()$0",
+		},
+		{
+			"trigger": "_Rotation:IsDone\t()",
+			"contents": "${1:done} = ${2:Rotation}:IsDone()$0",
+		},
+		{
+			"trigger": "_Rotation:IsForbidden\t()",
+			"contents": "${1:isForbidden} = ${2:Rotation}:IsForbidden()$0",
+		},
+		{
+			"trigger": "_Rotation:IsObjectType\t(\"type\")",
+			"contents": "${1:isType} = ${2:Rotation}:IsObjectType(\"${3:type}\")$0",
+		},
+		{
+			"trigger": "_Rotation:IsPaused\t()",
+			"contents": "${1:paused} = ${2:Rotation}:IsPaused()$0",
+		},
+		{
+			"trigger": "_Rotation:IsPlaying\t()",
+			"contents": "${1:playing} = ${2:Rotation}:IsPlaying()$0",
+		},
+		{
+			"trigger": "_Rotation:IsStopped\t()",
+			"contents": "${1:stopped} = ${2:Rotation}:IsStopped()$0",
+		},
+
+
+
+		{
+			"trigger": "_Rotation\thelp",
+			"contents": "Rotation = {\n\tinherits = {\n\t\t\"Rotation\",\n\t\t\"Animation\",\n\t\t\"ScriptObject\",\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\thandlers = {\n\t\t[\"OnFinished\"] = \"self, requested\",\n\t\t[\"OnLoad\"] = \"self\",\n\t\t[\"OnPause\"] = \"self\",\n\t\t[\"OnPlay\"] = \"self\",\n\t\t[\"OnStop\"] = \"self, requested\",\n\t\t[\"OnUpdate\"] = \"self, elapsed\",\n\t},\n\tmethods = {\n\t\t\"GetDebugName\",\n\t\t\"GetDegrees\",\n\t\t\"GetDuration\",\n\t\t\"GetElapsed\",\n\t\t\"GetEndDelay\",\n\t\t\"GetName\",\n\t\t\"GetObjectType\",\n\t\t\"GetOrder\",\n\t\t\"GetOrigin\",\n\t\t\"GetParent\",\n\t\t\"GetProgress\",\n\t\t\"GetRadians\",\n\t\t\"GetRegionParent\",\n\t\t\"GetScript\",\n\t\t\"GetSmoothing\",\n\t\t\"GetSmoothProgress\",\n\t\t\"GetStartDelay\",\n\t\t\"GetTarget\",\n\t\t\"HasScript\",\n\t\t\"HookScript\",\n\t\t\"IsDelaying\",\n\t\t\"IsDone\",\n\t\t\"IsForbidden\",\n\t\t\"IsObjectType\",\n\t\t\"IsPaused\",\n\t\t\"IsPlaying\",\n\t\t\"IsStopped\",\n\t\t\"Pause\",\n\t\t\"Play\",\n\t\t\"Restart\",\n\t\t\"SetChildKey\",\n\t\t\"SetDegrees\",\n\t\t\"SetDuration\",\n\t\t\"SetEndDelay\",\n\t\t\"SetOrder\",\n\t\t\"SetOrigin\",\n\t\t\"SetParent\",\n\t\t\"SetRadians\",\n\t\t\"SetScript\",\n\t\t\"SetSmoothing\",\n\t\t\"SetSmoothProgress\",\n\t\t\"SetStartDelay\",\n\t\t\"SetTarget\",\n\t\t\"SetTargetKey\",\n\t\t\"Stop\",\n\t},\n}",
+		},
+	]
+}

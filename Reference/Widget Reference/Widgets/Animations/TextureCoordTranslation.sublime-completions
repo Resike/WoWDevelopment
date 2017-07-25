@@ -1,0 +1,275 @@
+{
+	"scope": "source.lua",
+	"completions": [
+		{
+			"trigger": "TextureCoordTranslation:GetDebugName\t()",
+			"contents": "${1:TextureCoordTranslation}:GetDebugName()$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:GetDuration\t()",
+			"contents": "${1:TextureCoordTranslation}:GetDuration()$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:GetElapsed\t()",
+			"contents": "${1:TextureCoordTranslation}:GetElapsed()$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:GetEndDelay\t()",
+			"contents": "${1:TextureCoordTranslation}:GetEndDelay()$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:GetName\t()",
+			"contents": "${1:TextureCoordTranslation}:GetName()$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:GetObjectType\t()",
+			"contents": "${1:TextureCoordTranslation}:GetObjectType()$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:GetOffset\t()",
+			"contents": "${1:TextureCoordTranslation}:GetOffset()$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:GetOrder\t()",
+			"contents": "${1:TextureCoordTranslation}:GetOrder()$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:GetParent\t()",
+			"contents": "${1:TextureCoordTranslation}:GetParent()$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:GetProgress\t()",
+			"contents": "${1:TextureCoordTranslation}:GetProgress()$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:GetRegionParent\t()",
+			"contents": "${1:TextureCoordTranslation}:GetRegionParent()$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:GetScript\t(\"scriptType\")",
+			"contents": "${1:TextureCoordTranslation}:GetScript(\"${2:scriptType}\")$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:GetSmoothing\t()",
+			"contents": "${1:TextureCoordTranslation}:GetSmoothing()$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:GetSmoothProgress\t()",
+			"contents": "${1:TextureCoordTranslation}:GetSmoothProgress()$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:GetStartDelay\t()",
+			"contents": "${1:TextureCoordTranslation}:GetStartDelay()$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:GetTarget\t()",
+			"contents": "${1:TextureCoordTranslation}:GetTarget()$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:HasScript\t(\"scriptType\")",
+			"contents": "${1:TextureCoordTranslation}:HasScript(\"${2:scriptType}\")$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:HookScript\t(\"scriptType\", handler)",
+			"contents": "${1:TextureCoordTranslation}:HookScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:IsDelaying\t()",
+			"contents": "${1:TextureCoordTranslation}:IsDelaying()$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:IsDone\t()",
+			"contents": "${1:TextureCoordTranslation}:IsDone()$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:IsForbidden\t()",
+			"contents": "${1:TextureCoordTranslation}:IsForbidden()$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:IsObjectType\t(\"type\")",
+			"contents": "${1:TextureCoordTranslation}:IsObjectType(\"${2:type}\")$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:IsPaused\t()",
+			"contents": "${1:TextureCoordTranslation}:IsPaused()$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:IsPlaying\t()",
+			"contents": "${1:TextureCoordTranslation}:IsPlaying()$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:IsStopped\t()",
+			"contents": "${1:TextureCoordTranslation}:IsStopped()$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:Pause\t()",
+			"contents": "${1:TextureCoordTranslation}:Pause()$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:Play\t()",
+			"contents": "${1:TextureCoordTranslation}:Play()$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:Restart\t()",
+			"contents": "${1:TextureCoordTranslation}:Restart()$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:SetChildKey\t(key)",
+			"contents": "${1:TextureCoordTranslation}:SetChildKey((${2:key})$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:SetDuration\t(duration)",
+			"contents": "${1:TextureCoordTranslation}:SetDuration(${2:duration})$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:SetEndDelay\t(delay)",
+			"contents": "${1:TextureCoordTranslation}:SetEndDelay(${2:delay})$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:SetOffset\t(xOffset, yOffset)",
+			"contents": "${1:TextureCoordTranslation}:SetOffset(${2:xOffset}, ${3:yOffset})$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:SetOrder\t(order)",
+			"contents": "${1:TextureCoordTranslation}:SetOrder(${2:order})$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:SetParent\t(frame)",
+			"contents": "${1:TextureCoordTranslation}:SetParent(${2:frame})$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:SetScript\t(\"scriptType\", handler)",
+			"contents": "${1:TextureCoordTranslation}:SetScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:SetSmoothing\t(\"smoothType\")",
+			"contents": "${1:TextureCoordTranslation}:SetSmoothing(\"${2:smoothType}\")$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:SetSmoothProgress\t()",
+			"contents": "${1:TextureCoordTranslation}:SetSmoothProgress()$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:SetStartDelay\t(delay)",
+			"contents": "${1:TextureCoordTranslation}:SetStartDelay(${2:delay})$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:SetTarget\t(region)",
+			"contents": "${1:TextureCoordTranslation}:SetTarget(${2:region})$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:SetTargetKey\t(key)",
+			"contents": "${1:TextureCoordTranslation}:SetTargetKey(${2:key})$0",
+		},
+		{
+			"trigger": "TextureCoordTranslation:Stop\t()",
+			"contents": "${1:TextureCoordTranslation}:Stop()$0",
+		},
+
+
+
+		{
+			"trigger": "_TextureCoordTranslation:GetDebugName\t()",
+			"contents": "${1:name} = ${2:TextureCoordTranslation}:GetDebugName()$0",
+		},
+		{
+			"trigger": "_TextureCoordTranslation:GetDuration\t()",
+			"contents": "${1:duration} = ${2:TextureCoordTranslation}:GetDuration()$0",
+		},
+		{
+			"trigger": "_TextureCoordTranslation:GetElapsed\t()",
+			"contents": "${1:elapsed} = ${2:TextureCoordTranslation}:GetElapsed()$0",
+		},
+		{
+			"trigger": "_TextureCoordTranslation:GetEndDelay\t()",
+			"contents": "${1:delay} = ${2:TextureCoordTranslation}:GetEndDelay()$0",
+		},
+		{
+			"trigger": "_TextureCoordTranslation:GetName\t()",
+			"contents": "${1:name} = ${2:TextureCoordTranslation}:GetName()$0",
+		},
+		{
+			"trigger": "_TextureCoordTranslation:GetObjectType\t()",
+			"contents": "${1:type} = ${2:TextureCoordTranslation}:GetObjectType()$0",
+		},
+		{
+			"trigger": "_TextureCoordTranslation:GetOffset\t()",
+			"contents": "${1:xOffset}, ${2:yOffset} = ${3:TextureCoordTranslation}:GetOffset()$0",
+		},
+		{
+			"trigger": "_TextureCoordTranslation:GetOrder\t()",
+			"contents": "${1:order} = ${2:TextureCoordTranslation}:GetOrder()$0",
+		},
+		{
+			"trigger": "_TextureCoordTranslation:GetParent\t()",
+			"contents": "${1:parent} = ${2:TextureCoordTranslation}:GetParent()$0",
+		},
+		{
+			"trigger": "_TextureCoordTranslation:GetProgress\t()",
+			"contents": "${1:progress} = ${2:TextureCoordTranslation}:GetProgress()$0",
+		},
+		{
+			"trigger": "_TextureCoordTranslation:GetRegionParent\t()",
+			"contents": "${1:region} = ${2:TextureCoordTranslation}:GetRegionParent()$0",
+		},
+		{
+			"trigger": "_TextureCoordTranslation:GetScript\t(\"scriptType\")",
+			"contents": "${1:handler} = ${2:TextureCoordTranslation}:GetScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "_TextureCoordTranslation:GetSmoothing\t()",
+			"contents": "${1:smoothType} = ${2:TextureCoordTranslation}:GetSmoothing()$0",
+		},
+		{
+			"trigger": "_TextureCoordTranslation:GetSmoothProgress\t()",
+			"contents": "${1:progress} = ${2:TextureCoordTranslation}:GetSmoothProgress()$0",
+		},
+		{
+			"trigger": "_TextureCoordTranslation:GetStartDelay\t()",
+			"contents": "${1:delay} = ${2:TextureCoordTranslation}:GetStartDelay()$0",
+		},
+		{
+			"trigger": "_TextureCoordTranslation:GetTarget\t()",
+			"contents": "${1:target} = ${2:TextureCoordTranslation}:GetTarget()$0",
+		},
+		{
+			"trigger": "_TextureCoordTranslation:HasScript\t(\"scriptType\")",
+			"contents": "${1:hasScript} = ${2:TextureCoordTranslation}:HasScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "_TextureCoordTranslation:IsDelaying\t()",
+			"contents": "${1:delaying} = ${2:TextureCoordTranslation}:IsDelaying()$0",
+		},
+		{
+			"trigger": "_TextureCoordTranslation:IsDone\t()",
+			"contents": "${1:done} = ${2:TextureCoordTranslation}:IsDone()$0",
+		},
+		{
+			"trigger": "_TextureCoordTranslation:IsForbidden\t()",
+			"contents": "${1:isForbidden} = ${2:TextureCoordTranslation}:IsForbidden()$0",
+		},
+		{
+			"trigger": "_TextureCoordTranslation:IsObjectType\t(\"type\")",
+			"contents": "${1:isType} = ${2:TextureCoordTranslation}:IsObjectType(\"${3:type}\")$0",
+		},
+		{
+			"trigger": "_TextureCoordTranslation:IsPaused\t()",
+			"contents": "${1:paused} = ${2:TextureCoordTranslation}:IsPaused()$0",
+		},
+		{
+			"trigger": "_TextureCoordTranslation:IsPlaying\t()",
+			"contents": "${1:playing} = ${2:TextureCoordTranslation}:IsPlaying()$0",
+		},
+		{
+			"trigger": "_TextureCoordTranslation:IsStopped\t()",
+			"contents": "${1:stopped} = ${2:TextureCoordTranslation}:IsStopped()$0",
+		},
+
+
+
+		{
+			"trigger": "_TextureCoordTranslation\thelp",
+			"contents": "TextureCoordTranslation = {\n\tinherits = {\n\t\t\"TextureCoordTranslation\",\n\t\t\"Animation\",\n\t\t\"ScriptObject\",\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\thandlers = {\n\t\t[\"OnFinished\"] = \"self, requested\",\n\t\t[\"OnLoad\"] = \"self\",\n\t\t[\"OnPause\"] = \"self\",\n\t\t[\"OnPlay\"] = \"self\",\n\t\t[\"OnStop\"] = \"self, requested\",\n\t\t[\"OnUpdate\"] = \"self, elapsed\",\n\t},\n\tmethods = {\n\t\t\"GetDebugName\",\n\t\t\"GetDuration\",\n\t\t\"GetElapsed\",\n\t\t\"GetEndDelay\",\n\t\t\"GetName\",\n\t\t\"GetObjectType\",\n\t\t\"GetOffset\",\n\t\t\"GetOrder\",\n\t\t\"GetParent\",\n\t\t\"GetProgress\",\n\t\t\"GetRegionParent\",\n\t\t\"GetScript\",\n\t\t\"GetSmoothing\",\n\t\t\"GetSmoothProgress\",\n\t\t\"GetStartDelay\",\n\t\t\"GetTarget\",\n\t\t\"HasScript\",\n\t\t\"HookScript\",\n\t\t\"IsDelaying\",\n\t\t\"IsDone\",\n\t\t\"IsForbidden\",\n\t\t\"IsObjectType\",\n\t\t\"IsPaused\",\n\t\t\"IsPlaying\",\n\t\t\"IsStopped\",\n\t\t\"Pause\",\n\t\t\"Play\",\n\t\t\"Restart\",\n\t\t\"SetChildKey\",\n\t\t\"SetDuration\",\n\t\t\"SetEndDelay\",\n\t\t\"SetOffset\",\n\t\t\"SetOrder\",\n\t\t\"SetParent\",\n\t\t\"SetScript\",\n\t\t\"SetSmoothing\",\n\t\t\"SetSmoothProgress\",\n\t\t\"SetStartDelay\",\n\t\t\"SetTarget\",\n\t\t\"SetTargetKey\",\n\t\t\"Stop\",\n\t},\n}",
+		},
+	]
+}

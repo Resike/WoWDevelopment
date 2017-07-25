@@ -1,0 +1,275 @@
+{
+	"scope": "source.lua",
+	"completions": [
+		{
+			"trigger": "Translation:GetDebugName\t()",
+			"contents": "${1:Translation}:GetDebugName()$0",
+		},
+		{
+			"trigger": "Translation:GetDuration\t()",
+			"contents": "${1:Translation}:GetDuration()$0",
+		},
+		{
+			"trigger": "Translation:GetElapsed\t()",
+			"contents": "${1:Translation}:GetElapsed()$0",
+		},
+		{
+			"trigger": "Translation:GetEndDelay\t()",
+			"contents": "${1:Translation}:GetEndDelay()$0",
+		},
+		{
+			"trigger": "Translation:GetName\t()",
+			"contents": "${1:Translation}:GetName()$0",
+		},
+		{
+			"trigger": "Translation:GetObjectType\t()",
+			"contents": "${1:Translation}:GetObjectType()$0",
+		},
+		{
+			"trigger": "Translation:GetOffset\t()",
+			"contents": "${1:Translation}:GetOffset()$0",
+		},
+		{
+			"trigger": "Translation:GetOrder\t()",
+			"contents": "${1:Translation}:GetOrder()$0",
+		},
+		{
+			"trigger": "Translation:GetParent\t()",
+			"contents": "${1:Translation}:GetParent()$0",
+		},
+		{
+			"trigger": "Translation:GetProgress\t()",
+			"contents": "${1:Translation}:GetProgress()$0",
+		},
+		{
+			"trigger": "Translation:GetRegionParent\t()",
+			"contents": "${1:Translation}:GetRegionParent()$0",
+		},
+		{
+			"trigger": "Translation:GetScript\t(\"scriptType\")",
+			"contents": "${1:Translation}:GetScript(\"${2:scriptType}\")$0",
+		},
+		{
+			"trigger": "Translation:GetSmoothing\t()",
+			"contents": "${1:Translation}:GetSmoothing()$0",
+		},
+		{
+			"trigger": "Translation:GetSmoothProgress\t()",
+			"contents": "${1:Translation}:GetSmoothProgress()$0",
+		},
+		{
+			"trigger": "Translation:GetStartDelay\t()",
+			"contents": "${1:Translation}:GetStartDelay()$0",
+		},
+		{
+			"trigger": "Translation:GetTarget\t()",
+			"contents": "${1:Translation}:GetTarget()$0",
+		},
+		{
+			"trigger": "Translation:HasScript\t(\"scriptType\")",
+			"contents": "${1:Translation}:HasScript(\"${2:scriptType}\")$0",
+		},
+		{
+			"trigger": "Translation:HookScript\t(\"scriptType\", handler)",
+			"contents": "${1:Translation}:HookScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "Translation:IsDelaying\t()",
+			"contents": "${1:Translation}:IsDelaying()$0",
+		},
+		{
+			"trigger": "Translation:IsDone\t()",
+			"contents": "${1:Translation}:IsDone()$0",
+		},
+		{
+			"trigger": "Translation:IsForbidden\t()",
+			"contents": "${1:Translation}:IsForbidden()$0",
+		},
+		{
+			"trigger": "Translation:IsObjectType\t(\"type\")",
+			"contents": "${1:Translation}:IsObjectType(\"${2:type}\")$0",
+		},
+		{
+			"trigger": "Translation:IsPaused\t()",
+			"contents": "${1:Translation}:IsPaused()$0",
+		},
+		{
+			"trigger": "Translation:IsPlaying\t()",
+			"contents": "${1:Translation}:IsPlaying()$0",
+		},
+		{
+			"trigger": "Translation:IsStopped\t()",
+			"contents": "${1:Translation}:IsStopped()$0",
+		},
+		{
+			"trigger": "Translation:Pause\t()",
+			"contents": "${1:Translation}:Pause()$0",
+		},
+		{
+			"trigger": "Translation:Play\t()",
+			"contents": "${1:Translation}:Play()$0",
+		},
+		{
+			"trigger": "Translation:Restart\t()",
+			"contents": "${1:Translation}:Restart()$0",
+		},
+		{
+			"trigger": "Translation:SetChildKey\t(key)",
+			"contents": "${1:Translation}:SetChildKey((${2:key})$0",
+		},
+		{
+			"trigger": "Translation:SetDuration\t(duration)",
+			"contents": "${1:Translation}:SetDuration(${2:duration})$0",
+		},
+		{
+			"trigger": "Translation:SetEndDelay\t(delay)",
+			"contents": "${1:Translation}:SetEndDelay(${2:delay})$0",
+		},
+		{
+			"trigger": "Translation:SetOffset\t(xOffset, yOffset)",
+			"contents": "${1:Translation}:SetOffset(${2:xOffset}, ${3:yOffset})$0",
+		},
+		{
+			"trigger": "Translation:SetOrder\t(order)",
+			"contents": "${1:Translation}:SetOrder(${2:order})$0",
+		},
+		{
+			"trigger": "Translation:SetParent\t(frame)",
+			"contents": "${1:Translation}:SetParent(${2:frame})$0",
+		},
+		{
+			"trigger": "Translation:SetScript\t(\"scriptType\", handler)",
+			"contents": "${1:Translation}:SetScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "Translation:SetSmoothing\t(\"smoothType\")",
+			"contents": "${1:Translation}:SetSmoothing(\"${2:smoothType}\")$0",
+		},
+		{
+			"trigger": "Translation:SetSmoothProgress\t()",
+			"contents": "${1:Translation}:SetSmoothProgress()$0",
+		},
+		{
+			"trigger": "Translation:SetStartDelay\t(delay)",
+			"contents": "${1:Translation}:SetStartDelay(${2:delay})$0",
+		},
+		{
+			"trigger": "Translation:SetTarget\t(region)",
+			"contents": "${1:Translation}:SetTarget(${2:region})$0",
+		},
+		{
+			"trigger": "Translation:SetTargetKey\t(key)",
+			"contents": "${1:Translation}:SetTargetKey(${2:key})$0",
+		},
+		{
+			"trigger": "Translation:Stop\t()",
+			"contents": "${1:Translation}:Stop()$0",
+		},
+
+
+
+		{
+			"trigger": "_Translation:GetDebugName\t()",
+			"contents": "${1:name} = ${2:Translation}:GetDebugName()$0",
+		},
+		{
+			"trigger": "_Translation:GetDuration\t()",
+			"contents": "${1:duration} = ${2:Translation}:GetDuration()$0",
+		},
+		{
+			"trigger": "_Translation:GetElapsed\t()",
+			"contents": "${1:elapsed} = ${2:Translation}:GetElapsed()$0",
+		},
+		{
+			"trigger": "_Translation:GetEndDelay\t()",
+			"contents": "${1:delay} = ${2:Translation}:GetEndDelay()$0",
+		},
+		{
+			"trigger": "_Translation:GetName\t()",
+			"contents": "${1:name} = ${2:Translation}:GetName()$0",
+		},
+		{
+			"trigger": "_Translation:GetObjectType\t()",
+			"contents": "${1:type} = ${2:Translation}:GetObjectType()$0",
+		},
+		{
+			"trigger": "_Translation:GetOffset\t()",
+			"contents": "${1:xOffset}, ${2:yOffset} = ${3:Translation}:GetOffset()$0",
+		},
+		{
+			"trigger": "_Translation:GetOrder\t()",
+			"contents": "${1:order} = ${2:Translation}:GetOrder()$0",
+		},
+		{
+			"trigger": "_Translation:GetParent\t()",
+			"contents": "${1:parent} = ${2:Translation}:GetParent()$0",
+		},
+		{
+			"trigger": "_Translation:GetProgress\t()",
+			"contents": "${1:progress} = ${2:Translation}:GetProgress()$0",
+		},
+		{
+			"trigger": "_Translation:GetRegionParent\t()",
+			"contents": "${1:region} = ${2:Translation}:GetRegionParent()$0",
+		},
+		{
+			"trigger": "_Translation:GetScript\t(\"scriptType\")",
+			"contents": "${1:handler} = ${2:Translation}:GetScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "_Translation:GetSmoothing\t()",
+			"contents": "${1:smoothType} = ${2:Translation}:GetSmoothing()$0",
+		},
+		{
+			"trigger": "_Translation:GetSmoothProgress\t()",
+			"contents": "${1:progress} = ${2:Translation}:GetSmoothProgress()$0",
+		},
+		{
+			"trigger": "_Translation:GetStartDelay\t()",
+			"contents": "${1:delay} = ${2:Translation}:GetStartDelay()$0",
+		},
+		{
+			"trigger": "_Translation:GetTarget\t()",
+			"contents": "${1:target} = ${2:Translation}:GetTarget()$0",
+		},
+		{
+			"trigger": "_Translation:HasScript\t(\"scriptType\")",
+			"contents": "${1:hasScript} = ${2:Translation}:HasScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "_Translation:IsDelaying\t()",
+			"contents": "${1:delaying} = ${2:Translation}:IsDelaying()$0",
+		},
+		{
+			"trigger": "_Translation:IsDone\t()",
+			"contents": "${1:done} = ${2:Translation}:IsDone()$0",
+		},
+		{
+			"trigger": "_Translation:IsForbidden\t()",
+			"contents": "${1:isForbidden} = ${2:Translation}:IsForbidden()$0",
+		},
+		{
+			"trigger": "_Translation:IsObjectType\t(\"type\")",
+			"contents": "${1:isType} = ${2:Translation}:IsObjectType(\"${3:type}\")$0",
+		},
+		{
+			"trigger": "_Translation:IsPaused\t()",
+			"contents": "${1:paused} = ${2:Translation}:IsPaused()$0",
+		},
+		{
+			"trigger": "_Translation:IsPlaying\t()",
+			"contents": "${1:playing} = ${2:Translation}:IsPlaying()$0",
+		},
+		{
+			"trigger": "_Translation:IsStopped\t()",
+			"contents": "${1:stopped} = ${2:Translation}:IsStopped()$0",
+		},
+
+
+
+		{
+			"trigger": "_Translation\thelp",
+			"contents": "Translation = {\n\tinherits = {\n\t\t\"Translation\",\n\t\t\"Animation\",\n\t\t\"ScriptObject\",\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\thandlers = {\n\t\t[\"OnFinished\"] = \"self, requested\",\n\t\t[\"OnLoad\"] = \"self\",\n\t\t[\"OnPause\"] = \"self\",\n\t\t[\"OnPlay\"] = \"self\",\n\t\t[\"OnStop\"] = \"self, requested\",\n\t\t[\"OnUpdate\"] = \"self, elapsed\",\n\t},\n\tmethods = {\n\t\t\"GetDebugName\",\n\t\t\"GetDuration\",\n\t\t\"GetElapsed\",\n\t\t\"GetEndDelay\",\n\t\t\"GetName\",\n\t\t\"GetObjectType\",\n\t\t\"GetOffset\",\n\t\t\"GetOrder\",\n\t\t\"GetParent\",\n\t\t\"GetProgress\",\n\t\t\"GetRegionParent\",\n\t\t\"GetScript\",\n\t\t\"GetSmoothing\",\n\t\t\"GetSmoothProgress\",\n\t\t\"GetStartDelay\",\n\t\t\"GetTarget\",\n\t\t\"HasScript\",\n\t\t\"HookScript\",\n\t\t\"IsDelaying\",\n\t\t\"IsDone\",\n\t\t\"IsForbidden\",\n\t\t\"IsObjectType\",\n\t\t\"IsPaused\",\n\t\t\"IsPlaying\",\n\t\t\"IsStopped\",\n\t\t\"Pause\",\n\t\t\"Play\",\n\t\t\"Restart\",\n\t\t\"SetChildKey\",\n\t\t\"SetDuration\",\n\t\t\"SetEndDelay\",\n\t\t\"SetOffset\",\n\t\t\"SetOrder\",\n\t\t\"SetParent\",\n\t\t\"SetScript\",\n\t\t\"SetSmoothing\",\n\t\t\"SetSmoothProgress\",\n\t\t\"SetStartDelay\",\n\t\t\"SetTarget\",\n\t\t\"SetTargetKey\",\n\t\t\"Stop\",\n\t},\n}",
+		},
+	]
+}

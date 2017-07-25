@@ -1,0 +1,299 @@
+{
+	"scope": "source.lua",
+	"completions": [
+		{
+			"trigger": "Path:CreateControlPoint\t([\"name\"], [\"template\"], [order])",
+			"contents": "${1:Path}:CreateControlPoint(${2:[\"name\"]}, ${3:[\"template\"]}, ${4:[order]})$0",
+		},
+		{
+			"trigger": "Path:GetControlPoints\t()",
+			"contents": "${1:Path}:GetControlPoints()$0",
+		},
+		{
+			"trigger": "Path:GetCurve\t()",
+			"contents": "${1:Path}:GetCurve()$0",
+		},
+		{
+			"trigger": "Path:GetDebugName\t()",
+			"contents": "${1:Path}:GetDebugName()$0",
+		},
+		{
+			"trigger": "Path:GetDuration\t()",
+			"contents": "${1:Path}:GetDuration()$0",
+		},
+		{
+			"trigger": "Path:GetElapsed\t()",
+			"contents": "${1:Path}:GetElapsed()$0",
+		},
+		{
+			"trigger": "Path:GetEndDelay\t()",
+			"contents": "${1:Path}:GetEndDelay()$0",
+		},
+		{
+			"trigger": "Path:GetMaxOrder\t()",
+			"contents": "${1:Path}:GetMaxOrder()$0",
+		},
+		{
+			"trigger": "Path:GetName\t()",
+			"contents": "${1:Path}:GetName()$0",
+		},
+		{
+			"trigger": "Path:GetObjectType\t()",
+			"contents": "${1:Path}:GetObjectType()$0",
+		},
+		{
+			"trigger": "Path:GetOrder\t()",
+			"contents": "${1:Path}:GetOrder()$0",
+		},
+		{
+			"trigger": "Path:GetParent\t()",
+			"contents": "${1:Path}:GetParent()$0",
+		},
+		{
+			"trigger": "Path:GetProgress\t()",
+			"contents": "${1:Path}:GetProgress()$0",
+		},
+		{
+			"trigger": "Path:GetRegionParent\t()",
+			"contents": "${1:Path}:GetRegionParent()$0",
+		},
+		{
+			"trigger": "Path:GetScript\t(\"scriptType\")",
+			"contents": "${1:Path}:GetScript(\"${2:scriptType}\")$0",
+		},
+		{
+			"trigger": "Path:GetSmoothing\t()",
+			"contents": "${1:Path}:GetSmoothing()$0",
+		},
+		{
+			"trigger": "Path:GetSmoothProgress\t()",
+			"contents": "${1:Path}:GetSmoothProgress()$0",
+		},
+		{
+			"trigger": "Path:GetStartDelay\t()",
+			"contents": "${1:Path}:GetStartDelay()$0",
+		},
+		{
+			"trigger": "Path:GetTarget\t()",
+			"contents": "${1:Path}:GetTarget()$0",
+		},
+		{
+			"trigger": "Path:HasScript\t(\"scriptType\")",
+			"contents": "${1:Path}:HasScript(\"${2:scriptType}\")$0",
+		},
+		{
+			"trigger": "Path:HookScript\t(\"scriptType\", handler)",
+			"contents": "${1:Path}:HookScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "Path:IsDelaying\t()",
+			"contents": "${1:Path}:IsDelaying()$0",
+		},
+		{
+			"trigger": "Path:IsDone\t()",
+			"contents": "${1:Path}:IsDone()$0",
+		},
+		{
+			"trigger": "Path:IsForbidden\t()",
+			"contents": "${1:Path}:IsForbidden()$0",
+		},
+		{
+			"trigger": "Path:IsObjectType\t(\"type\")",
+			"contents": "${1:Path}:IsObjectType(\"${2:type}\")$0",
+		},
+		{
+			"trigger": "Path:IsPaused\t()",
+			"contents": "${1:Path}:IsPaused()$0",
+		},
+		{
+			"trigger": "Path:IsPlaying\t()",
+			"contents": "${1:Path}:IsPlaying()$0",
+		},
+		{
+			"trigger": "Path:IsStopped\t()",
+			"contents": "${1:Path}:IsStopped()$0",
+		},
+		{
+			"trigger": "Path:Pause\t()",
+			"contents": "${1:Path}:Pause()$0",
+		},
+		{
+			"trigger": "Path:Play\t()",
+			"contents": "${1:Path}:Play()$0",
+		},
+		{
+			"trigger": "Path:Restart\t()",
+			"contents": "${1:Path}:Restart()$0",
+		},
+		{
+			"trigger": "Path:SetChildKey\t(key)",
+			"contents": "${1:Path}:SetChildKey((${2:key})$0",
+		},
+		{
+			"trigger": "Path:SetCurve\t(\"curveType\")",
+			"contents": "${1:Path}:SetCurve(\"${2:curveType}\")$0",
+		},
+		{
+			"trigger": "Path:SetDuration\t(duration)",
+			"contents": "${1:Path}:SetDuration(${2:duration})$0",
+		},
+		{
+			"trigger": "Path:SetEndDelay\t(delay)",
+			"contents": "${1:Path}:SetEndDelay(${2:delay})$0",
+		},
+		{
+			"trigger": "Path:SetOrder\t(order)",
+			"contents": "${1:Path}:SetOrder(${2:order})$0",
+		},
+		{
+			"trigger": "Path:SetParent\t(frame)",
+			"contents": "${1:Path}:SetParent(${2:frame})$0",
+		},
+		{
+			"trigger": "Path:SetScript\t(\"scriptType\", handler)",
+			"contents": "${1:Path}:SetScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "Path:SetSmoothing\t(\"smoothType\")",
+			"contents": "${1:Path}:SetSmoothing(\"${2:smoothType}\")$0",
+		},
+		{
+			"trigger": "Path:SetSmoothProgress\t()",
+			"contents": "${1:Path}:SetSmoothProgress()$0",
+		},
+		{
+			"trigger": "Path:SetStartDelay\t(delay)",
+			"contents": "${1:Path}:SetStartDelay(${2:delay})$0",
+		},
+		{
+			"trigger": "Path:SetTarget\t(region)",
+			"contents": "${1:Path}:SetTarget(${2:region})$0",
+		},
+		{
+			"trigger": "Path:SetTargetKey\t(key)",
+			"contents": "${1:Path}:SetTargetKey(${2:key})$0",
+		},
+		{
+			"trigger": "Path:Stop\t()",
+			"contents": "${1:Path}:Stop()$0",
+		},
+
+
+
+		{
+			"trigger": "_Path:CreateControlPoint\t([\"name\"], [\"template\"], [order])",
+			"contents": "${1:ControlPoint} = ${2:Path}:CreateControlPoint(${3:[\"name\"]}, ${4:[\"template\"]}, ${5:[order]})$0",
+		},
+		{
+			"trigger": "_Path:GetControlPoints\t()",
+			"contents": "${1:...} = ${2:Path}:GetControlPoints()$0",
+		},
+		{
+			"trigger": "_Path:GetCurve\t()",
+			"contents": "${1:curveType} = ${2:Path}:GetCurve()$0",
+		},
+		{
+			"trigger": "_Path:GetDebugName\t()",
+			"contents": "${1:name} = ${2:Path}:GetDebugName()$0",
+		},
+		{
+			"trigger": "_Path:GetDuration\t()",
+			"contents": "${1:duration} = ${2:Path}:GetDuration()$0",
+		},
+		{
+			"trigger": "_Path:GetElapsed\t()",
+			"contents": "${1:elapsed} = ${2:Path}:GetElapsed()$0",
+		},
+		{
+			"trigger": "_Path:GetEndDelay\t()",
+			"contents": "${1:delay} = ${2:Path}:GetEndDelay()$0",
+		},
+		{
+			"trigger": "_Path:GetMaxOrder\t()",
+			"contents": "${1:max} = ${2:Path}:GetMaxOrder()$0",
+		},
+		{
+			"trigger": "_Path:GetName\t()",
+			"contents": "${1:name} = ${2:Path}:GetName()$0",
+		},
+		{
+			"trigger": "_Path:GetObjectType\t()",
+			"contents": "${1:type} = ${2:Path}:GetObjectType()$0",
+		},
+		{
+			"trigger": "_Path:GetOrder\t()",
+			"contents": "${1:order} = ${2:Path}:GetOrder()$0",
+		},
+		{
+			"trigger": "_Path:GetParent\t()",
+			"contents": "${1:parent} = ${2:Path}:GetParent()$0",
+		},
+		{
+			"trigger": "_Path:GetProgress\t()",
+			"contents": "${1:progress} = ${2:Path}:GetProgress()$0",
+		},
+		{
+			"trigger": "_Path:GetRegionParent\t()",
+			"contents": "${1:region} = ${2:Path}:GetRegionParent()$0",
+		},
+		{
+			"trigger": "_Path:GetScript\t(\"scriptType\")",
+			"contents": "${1:handler} = ${2:Path}:GetScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "_Path:GetSmoothing\t()",
+			"contents": "${1:smoothType} = ${2:Path}:GetSmoothing()$0",
+		},
+		{
+			"trigger": "_Path:GetSmoothProgress\t()",
+			"contents": "${1:progress} = ${2:Path}:GetSmoothProgress()$0",
+		},
+		{
+			"trigger": "_Path:GetStartDelay\t()",
+			"contents": "${1:delay} = ${2:Path}:GetStartDelay()$0",
+		},
+		{
+			"trigger": "_Path:GetTarget\t()",
+			"contents": "${1:target} = ${2:Path}:GetTarget()$0",
+		},
+		{
+			"trigger": "_Path:HasScript\t(\"scriptType\")",
+			"contents": "${1:hasScript} = ${2:Path}:HasScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "_Path:IsDelaying\t()",
+			"contents": "${1:delaying} = ${2:Path}:IsDelaying()$0",
+		},
+		{
+			"trigger": "_Path:IsDone\t()",
+			"contents": "${1:done} = ${2:Path}:IsDone()$0",
+		},
+		{
+			"trigger": "_Path:IsForbidden\t()",
+			"contents": "${1:isForbidden} = ${2:Path}:IsForbidden()$0",
+		},
+		{
+			"trigger": "_Path:IsObjectType\t(\"type\")",
+			"contents": "${1:isType} = ${2:Path}:IsObjectType(\"${3:type}\")$0",
+		},
+		{
+			"trigger": "_Path:IsPaused\t()",
+			"contents": "${1:paused} = ${2:Path}:IsPaused()$0",
+		},
+		{
+			"trigger": "_Path:IsPlaying\t()",
+			"contents": "${1:playing} = ${2:Path}:IsPlaying()$0",
+		},
+		{
+			"trigger": "_Path:IsStopped\t()",
+			"contents": "${1:stopped} = ${2:Path}:IsStopped()$0",
+		},
+
+
+
+		{
+			"trigger": "_Path\thelp",
+			"contents": "Path = {\n\tinherits = {\n\t\t\"Path\",\n\t\t\"Animation\",\n\t\t\"ScriptObject\",\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\thandlers = {\n\t\t[\"OnFinished\"] = \"self, requested\",\n\t\t[\"OnLoad\"] = \"self\",\n\t\t[\"OnPause\"] = \"self\",\n\t\t[\"OnPlay\"] = \"self\",\n\t\t[\"OnStop\"] = \"self, requested\",\n\t\t[\"OnUpdate\"] = \"self, elapsed\",\n\t},\n\tmethods = {\n\t\t\"CreateControlPoint\",\n\t\t\"GetControlPoints\",\n\t\t\"GetCurve\",\n\t\t\"GetDebugName\",\n\t\t\"GetDuration\",\n\t\t\"GetElapsed\",\n\t\t\"GetEndDelay\",\n\t\t\"GetMaxOrder\",\n\t\t\"GetName\",\n\t\t\"GetObjectType\",\n\t\t\"GetOrder\",\n\t\t\"GetParent\",\n\t\t\"GetProgress\",\n\t\t\"GetRegionParent\",\n\t\t\"GetScript\",\n\t\t\"GetSmoothing\",\n\t\t\"GetSmoothProgress\",\n\t\t\"GetStartDelay\",\n\t\t\"GetTarget\",\n\t\t\"HasScript\",\n\t\t\"HookScript\",\n\t\t\"IsDelaying\",\n\t\t\"IsDone\",\n\t\t\"IsForbidden\",\n\t\t\"IsObjectType\",\n\t\t\"IsPaused\",\n\t\t\"IsPlaying\",\n\t\t\"IsStopped\",\n\t\t\"Pause\",\n\t\t\"Play\",\n\t\t\"Restart\",\n\t\t\"SetChildKey\",\n\t\t\"SetCurve\",\n\t\t\"SetDuration\",\n\t\t\"SetEndDelay\",\n\t\t\"SetOrder\",\n\t\t\"SetParent\",\n\t\t\"SetScript\",\n\t\t\"SetSmoothing\",\n\t\t\"SetSmoothProgress\",\n\t\t\"SetStartDelay\",\n\t\t\"SetTarget\",\n\t\t\"SetTargetKey\",\n\t\t\"Stop\",\n\t},\n}",
+		},
+	]
+}

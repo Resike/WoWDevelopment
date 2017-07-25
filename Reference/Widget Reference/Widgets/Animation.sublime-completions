@@ -106,6 +106,10 @@
 			"contents": "${1:Animation}:Play()$0",
 		},
 		{
+			"trigger": "Animation:Restart\t()",
+			"contents": "${1:Animation}:Restart()$0",
+		},
+		{
 			"trigger": "Animation:SetChildKey\t(key)",
 			"contents": "${1:Animation}:SetChildKey((${2:key})$0",
 		},
@@ -147,7 +151,7 @@
 		},
 		{
 			"trigger": "Animation:SetTargetKey\t(key)",
-			"contents": "${1:Animation}:SSetTargetKeytop(${2:key})$0",
+			"contents": "${1:Animation}:SetTargetKey(${2:key})$0",
 		},
 		{
 			"trigger": "Animation:Stop\t()",

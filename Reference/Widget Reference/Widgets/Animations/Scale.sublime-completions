@@ -1,0 +1,311 @@
+{
+	"scope": "source.lua",
+	"completions": [
+		{
+			"trigger": "Scale:GetDebugName\t()",
+			"contents": "${1:Scale}:GetDebugName()$0",
+		},
+		{
+			"trigger": "Scale:GetDuration\t()",
+			"contents": "${1:Scale}:GetDuration()$0",
+		},
+		{
+			"trigger": "Scale:GetElapsed\t()",
+			"contents": "${1:Scale}:GetElapsed()$0",
+		},
+		{
+			"trigger": "Scale:GetEndDelay\t()",
+			"contents": "${1:Scale}:GetEndDelay()$0",
+		},
+		{
+			"trigger": "Scale:GetFromScale\t()",
+			"contents": "${1:Scale}:GetFromScale()$0",
+		},
+		{
+			"trigger": "Scale:GetName\t()",
+			"contents": "${1:Scale}:GetName()$0",
+		},
+		{
+			"trigger": "Scale:GetObjectType\t()",
+			"contents": "${1:Scale}:GetObjectType()$0",
+		},
+		{
+			"trigger": "Scale:GetOrder\t()",
+			"contents": "${1:Scale}:GetOrder()$0",
+		},
+		{
+			"trigger": "Scale:GetOrigin\t()",
+			"contents": "${1:Scale}:GetOrigin()$0",
+		},
+		{
+			"trigger": "Scale:GetParent\t()",
+			"contents": "${1:Scale}:GetParent()$0",
+		},
+		{
+			"trigger": "Scale:GetProgress\t()",
+			"contents": "${1:Scale}:GetProgress()$0",
+		},
+		{
+			"trigger": "Scale:GetRegionParent\t()",
+			"contents": "${1:Scale}:GetRegionParent()$0",
+		},
+		{
+			"trigger": "Scale:GetScale\t()",
+			"contents": "${1:Scale}:GetScale()$0",
+		},
+		{
+			"trigger": "Scale:GetScript\t(\"scriptType\")",
+			"contents": "${1:Scale}:GetScript(\"${2:scriptType}\")$0",
+		},
+		{
+			"trigger": "Scale:GetSmoothing\t()",
+			"contents": "${1:Scale}:GetSmoothing()$0",
+		},
+		{
+			"trigger": "Scale:GetSmoothProgress\t()",
+			"contents": "${1:Scale}:GetSmoothProgress()$0",
+		},
+		{
+			"trigger": "Scale:GetStartDelay\t()",
+			"contents": "${1:Scale}:GetStartDelay()$0",
+		},
+		{
+			"trigger": "Scale:GetTarget\t()",
+			"contents": "${1:Scale}:GetTarget()$0",
+		},
+		{
+			"trigger": "Scale:GetToScale\t()",
+			"contents": "${1:Scale}:GetToScale()$0",
+		},
+		{
+			"trigger": "Scale:HasScript\t(\"scriptType\")",
+			"contents": "${1:Scale}:HasScript(\"${2:scriptType}\")$0",
+		},
+		{
+			"trigger": "Scale:HookScript\t(\"scriptType\", handler)",
+			"contents": "${1:Scale}:HookScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "Scale:IsDelaying\t()",
+			"contents": "${1:Scale}:IsDelaying()$0",
+		},
+		{
+			"trigger": "Scale:IsDone\t()",
+			"contents": "${1:Scale}:IsDone()$0",
+		},
+		{
+			"trigger": "Scale:IsForbidden\t()",
+			"contents": "${1:Scale}:IsForbidden()$0",
+		},
+		{
+			"trigger": "Scale:IsObjectType\t(\"type\")",
+			"contents": "${1:Scale}:IsObjectType(\"${2:type}\")$0",
+		},
+		{
+			"trigger": "Scale:IsPaused\t()",
+			"contents": "${1:Scale}:IsPaused()$0",
+		},
+		{
+			"trigger": "Scale:IsPlaying\t()",
+			"contents": "${1:Scale}:IsPlaying()$0",
+		},
+		{
+			"trigger": "Scale:IsStopped\t()",
+			"contents": "${1:Scale}:IsStopped()$0",
+		},
+		{
+			"trigger": "Scale:Pause\t()",
+			"contents": "${1:Scale}:Pause()$0",
+		},
+		{
+			"trigger": "Scale:Play\t()",
+			"contents": "${1:Scale}:Play()$0",
+		},
+		{
+			"trigger": "Scale:Restart\t()",
+			"contents": "${1:Scale}:Restart()$0",
+		},
+		{
+			"trigger": "Scale:SetChildKey\t(key)",
+			"contents": "${1:Scale}:SetChildKey((${2:key})$0",
+		},
+		{
+			"trigger": "Scale:SetDuration\t(duration)",
+			"contents": "${1:Scale}:SetDuration(${2:duration})$0",
+		},
+		{
+			"trigger": "Scale:SetEndDelay\t(delay)",
+			"contents": "${1:Scale}:SetEndDelay(${2:delay})$0",
+		},
+		{
+			"trigger": "Scale:SetFromScale\t(order)",
+			"contents": "${1:Scale}:SetFromScale(${2:scale})$0",
+		},
+		{
+			"trigger": "Scale:SetOrder\t(order)",
+			"contents": "${1:Scale}:SetOrder(${2:order})$0",
+		},
+		{
+			"trigger": "Scale:SetOrigin\t(\"point\", xOffset, yOffset)",
+			"contents": "${1:Scale}:SetOrigin(\"${2:point}\", ${3:xOffset}, ${4:yOffset})$0",
+		},
+		{
+			"trigger": "Scale:SetParent\t(frame)",
+			"contents": "${1:Scale}:SetParent(${2:frame})$0",
+		},
+		{
+			"trigger": "Scale:SetScale\t(xFactor, yFactor)",
+			"contents": "${1:Scale}:SetScale(${2:xFactor}, ${3:yFactor})$0",
+		},
+		{
+			"trigger": "Scale:SetScript\t(\"scriptType\", handler)",
+			"contents": "${1:Scale}:SetScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "Scale:SetSmoothing\t(\"smoothType\")",
+			"contents": "${1:Scale}:SetSmoothing(\"${2:smoothType}\")$0",
+		},
+		{
+			"trigger": "Scale:SetSmoothProgress\t()",
+			"contents": "${1:Scale}:SetSmoothProgress()$0",
+		},
+		{
+			"trigger": "Scale:SetStartDelay\t(delay)",
+			"contents": "${1:Scale}:SetStartDelay(${2:delay})$0",
+		},
+		{
+			"trigger": "Scale:SetTarget\t(region)",
+			"contents": "${1:Scale}:SetTarget(${2:region})$0",
+		},
+		{
+			"trigger": "Scale:SetTargetKey\t(key)",
+			"contents": "${1:Scale}:SetTargetKey(${2:key})$0",
+		},
+		{
+			"trigger": "Scale:SetToScale\t(key)",
+			"contents": "${1:Scale}:SetToScale(${2:scale})$0",
+		},
+		{
+			"trigger": "Scale:Stop\t()",
+			"contents": "${1:Scale}:Stop()$0",
+		},
+
+
+
+		{
+			"trigger": "_Scale:GetDebugName\t()",
+			"contents": "${1:name} = ${2:Scale}:GetDebugName()$0",
+		},
+		{
+			"trigger": "_Scale:GetDuration\t()",
+			"contents": "${1:duration} = ${2:Scale}:GetDuration()$0",
+		},
+		{
+			"trigger": "_Scale:GetElapsed\t()",
+			"contents": "${1:elapsed} = ${2:Scale}:GetElapsed()$0",
+		},
+		{
+			"trigger": "_Scale:GetEndDelay\t()",
+			"contents": "${1:delay} = ${2:Scale}:GetEndDelay()$0",
+		},
+		{
+			"trigger": "_Scale:GetFromScale\t()",
+			"contents": "${1:scale} = ${2:Scale}:GetFromScale()$0",
+		},
+		{
+			"trigger": "_Scale:GetName\t()",
+			"contents": "${1:name} = ${2:Scale}:GetName()$0",
+		},
+		{
+			"trigger": "_Scale:GetObjectType\t()",
+			"contents": "${1:type} = ${2:Scale}:GetObjectType()$0",
+		},
+		{
+			"trigger": "_Scale:GetOrder\t()",
+			"contents": "${1:order} = ${2:Scale}:GetOrder()$0",
+		},
+		{
+			"trigger": "_Scale:GetOrigin\t()",
+			"contents": "${1:point}, ${2:xOffset}, ${3:yOffset} = ${4:Scale}:GetOrigin()$0",
+		},
+		{
+			"trigger": "_Scale:GetScale\t()",
+			"contents": "${1:xFactor}, ${2:yFactor} = ${3:Scale}:GetScale()$0",
+		},
+		{
+			"trigger": "_Scale:GetParent\t()",
+			"contents": "${1:parent} = ${2:Scale}:GetParent()$0",
+		},
+		{
+			"trigger": "_Scale:GetProgress\t()",
+			"contents": "${1:progress} = ${2:Scale}:GetProgress()$0",
+		},
+		{
+			"trigger": "_Scale:GetRegionParent\t()",
+			"contents": "${1:region} = ${2:Scale}:GetRegionParent()$0",
+		},
+		{
+			"trigger": "_Scale:GetScript\t(\"scriptType\")",
+			"contents": "${1:handler} = ${2:Scale}:GetScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "_Scale:GetSmoothing\t()",
+			"contents": "${1:smoothType} = ${2:Scale}:GetSmoothing()$0",
+		},
+		{
+			"trigger": "_Scale:GetSmoothProgress\t()",
+			"contents": "${1:progress} = ${2:Scale}:GetSmoothProgress()$0",
+		},
+		{
+			"trigger": "_Scale:GetStartDelay\t()",
+			"contents": "${1:delay} = ${2:Scale}:GetStartDelay()$0",
+		},
+		{
+			"trigger": "_Scale:GetTarget\t()",
+			"contents": "${1:target} = ${2:Scale}:GetTarget()$0",
+		},
+		{
+			"trigger": "_Scale:GetToScale\t()",
+			"contents": "${1:scale} = ${2:Scale}:GetToScale()$0",
+		},
+		{
+			"trigger": "_Scale:HasScript\t(\"scriptType\")",
+			"contents": "${1:hasScript} = ${2:Scale}:HasScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "_Scale:IsDelaying\t()",
+			"contents": "${1:delaying} = ${2:Scale}:IsDelaying()$0",
+		},
+		{
+			"trigger": "_Scale:IsDone\t()",
+			"contents": "${1:done} = ${2:Scale}:IsDone()$0",
+		},
+		{
+			"trigger": "_Scale:IsForbidden\t()",
+			"contents": "${1:isForbidden} = ${2:Scale}:IsForbidden()$0",
+		},
+		{
+			"trigger": "_Scale:IsObjectType\t(\"type\")",
+			"contents": "${1:isType} = ${2:Scale}:IsObjectType(\"${3:type}\")$0",
+		},
+		{
+			"trigger": "_Scale:IsPaused\t()",
+			"contents": "${1:paused} = ${2:Scale}:IsPaused()$0",
+		},
+		{
+			"trigger": "_Scale:IsPlaying\t()",
+			"contents": "${1:playing} = ${2:Scale}:IsPlaying()$0",
+		},
+		{
+			"trigger": "_Scale:IsStopped\t()",
+			"contents": "${1:stopped} = ${2:Scale}:IsStopped()$0",
+		},
+
+
+
+		{
+			"trigger": "_Scale\thelp",
+			"contents": "Scale = {\n\tinherits = {\n\t\t\"Scale\",\n\t\t\"Animation\",\n\t\t\"ScriptObject\",\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\thandlers = {\n\t\t[\"OnFinished\"] = \"self, requested\",\n\t\t[\"OnLoad\"] = \"self\",\n\t\t[\"OnPause\"] = \"self\",\n\t\t[\"OnPlay\"] = \"self\",\n\t\t[\"OnStop\"] = \"self, requested\",\n\t\t[\"OnUpdate\"] = \"self, elapsed\",\n\t},\n\tmethods = {\n\t\t\"GetDebugName\",\n\t\t\"GetDuration\",\n\t\t\"GetElapsed\",\n\t\t\"GetEndDelay\",\n\t\t\"GetFromScale\",\n\t\t\"GetName\",\n\t\t\"GetObjectType\",\n\t\t\"GetOrder\",\n\t\t\"GetOrigin\",\n\t\t\"GetParent\",\n\t\t\"GetProgress\",\n\t\t\"GetRegionParent\",\n\t\t\"GetScale\",\n\t\t\"GetScript\",\n\t\t\"GetSmoothing\",\n\t\t\"GetSmoothProgress\",\n\t\t\"GetStartDelay\",\n\t\t\"GetTarget\",\n\t\t\"GetToScale\",\n\t\t\"HasScript\",\n\t\t\"HookScript\",\n\t\t\"IsDelaying\",\n\t\t\"IsDone\",\n\t\t\"IsForbidden\",\n\t\t\"IsObjectType\",\n\t\t\"IsPaused\",\n\t\t\"IsPlaying\",\n\t\t\"IsStopped\",\n\t\t\"Pause\",\n\t\t\"Play\",\n\t\t\"Restart\",\n\t\t\"SetChildKey\",\n\t\t\"SetDuration\",\n\t\t\"SetEndDelay\",\n\t\t\"SetFromScale\",\n\t\t\"SetOrder\",\n\t\t\"SetOrigin\",\n\t\t\"SetParent\",\n\t\t\"SetScale\",\n\t\t\"SetScript\",\n\t\t\"SetSmoothing\",\n\t\t\"SetSmoothProgress\",\n\t\t\"SetStartDelay\",\n\t\t\"SetTarget\",\n\t\t\"SetTargetKey\",\n\t\t\"SetToScale\",\n\t\t\"Stop\",\n\t},\n}",
+		},
+	]
+}

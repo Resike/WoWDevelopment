@@ -25,6 +25,26 @@
 			"trigger": "ControlPoint:GetParent\t()",
 			"contents": "${1:ControlPoint}:GetParent()$0",
 		},
+		{
+			"trigger": "ControlPoint:IsForbidden\t()",
+			"contents": "${1:ControlPoint}:IsForbidden()$0",
+		},
+		{
+			"trigger": "ControlPoint:IsObjectType\t()",
+			"contents": "${1:ControlPoint}:IsObjectType()$0",
+		},
+		{
+			"trigger": "ControlPoint:SetOffset\t(xOffset, yOffset)",
+			"contents": "${1:ControlPoint}:SetOffset(${2:xOffset}, ${3:yOffset})$0",
+		},
+		{
+			"trigger": "ControlPoint:SetOrder\t(order)",
+			"contents": "${1:ControlPoint}:SetOrder(${2:order})$0",
+		},
+		{
+			"trigger": "ControlPoint:SetParent\t(frame)",
+			"contents": "${1:ControlPoint}:SetParent(${2:frame})$0",
+		},
 
 
 
@@ -42,7 +62,7 @@
 		},
 		{
 			"trigger": "_ControlPoint:GetOffset\t()",
-			"contents": "${1:x}, ${2:y} = ${3:ControlPoint}:GetOffset()$0",
+			"contents": "${1:xOffset}, ${2:yOffset} = ${3:ControlPoint}:GetOffset()$0",
 		},
 		{
 			"trigger": "_ControlPoint:GetOrder\t()",
@@ -51,6 +71,14 @@
 		{
 			"trigger": "_ControlPoint:GetParent\t()",
 			"contents": "${1:parent} = ${2:ControlPoint}:GetParent()$0",
+		},
+		{
+			"trigger": "_ControlPoint:IsForbidden\t()",
+			"contents": "${1:isForbidden} = ${2:ControlPoint}:IsForbidden()$0",
+		},
+		{
+			"trigger": "_ControlPoint:IsObjectType\t(\"type\")",
+			"contents": "${1:isType} = ${2:ControlPoint}:IsObjectType(\"${3:type}\")$0",
 		},
 
 
