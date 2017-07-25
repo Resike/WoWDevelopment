@@ -1,0 +1,271 @@
+{
+	"scope": "source.lua",
+	"completions": [
+		{
+			"trigger": "LayeredRegion:CanChangeProtectedState\t()",
+			"contents": "${1:LayeredRegion}:CanChangeProtectedState()$0",
+		},
+		{
+			"trigger": "LayeredRegion:ClearAllPoints\t()",
+			"contents": "${1:LayeredRegion}:ClearAllPoints()$0",
+		},
+		{
+			"trigger": "LayeredRegion:CreateAnimationGroup\t([\"name\"], [\"inheritsFrom\"])",
+			"contents": "${1:LayeredRegion}:CreateAnimationGroup(${2:[\"name\"]}, ${3:[\"inheritsFrom\"]})$0",
+		},
+		{
+			"trigger": "LayeredRegion:GetAnimationGroups\t()",
+			"contents": "${1:LayeredRegion}:GetAnimationGroups()$0",
+		},
+		{
+			"trigger": "LayeredRegion:GetAlpha\t()",
+			"contents": "${1:LayeredRegion}:GetAlpha()$0",
+		},
+		{
+			"trigger": "LayeredRegion:GetBottom\t()",
+			"contents": "${1:LayeredRegion}:GetBottom()$0",
+		},
+		{
+			"trigger": "LayeredRegion:GetCenter\t()",
+			"contents": "${1:LayeredRegion}:GetCenter()$0",
+		},
+		{
+			"trigger": "LayeredRegion:GetDebugName\t()",
+			"contents": "${1:LayeredRegion}:GetDebugName()$0",
+		},
+		{
+			"trigger": "LayeredRegion:GetDrawLayer\t()",
+			"contents": "${1:LayeredRegion}:GetDrawLayer()$0",
+		},
+		{
+			"trigger": "LayeredRegion:GetHeight\t()",
+			"contents": "${1:LayeredRegion}:GetHeight()$0",
+		},
+		{
+			"trigger": "LayeredRegion:GetLeft\t()",
+			"contents": "${1:LayeredRegion}:GetLeft()$0",
+		},
+		{
+			"trigger": "LayeredRegion:GetName\t()",
+			"contents": "${1:LayeredRegion}:GetName()$0",
+		},
+		{
+			"trigger": "LayeredRegion:GetNumPoints\t()",
+			"contents": "${1:LayeredRegion}:GetNumPoints()$0",
+		},
+		{
+			"trigger": "LayeredRegion:GetObjectType\t()",
+			"contents": "${1:LayeredRegion}:GetObjectType()$0",
+		},
+		{
+			"trigger": "LayeredRegion:GetParent\t()",
+			"contents": "${1:LayeredRegion}:GetParent()$0",
+		},
+		{
+			"trigger": "LayeredRegion:GetPoint\t(index)",
+			"contents": "${1:LayeredRegion}:GetPoint(${2:index})$0",
+		},
+		{
+			"trigger": "LayeredRegion:GetRect\t()",
+			"contents": "${1:LayeredRegion}:GetRect()$0",
+		},
+		{
+			"trigger": "LayeredRegion:GetRight\t()",
+			"contents": "${1:LayeredRegion}:GetRight()$0",
+		},
+		{
+			"trigger": "LayeredRegion:GetSize\t()",
+			"contents": "${1:LayeredRegion}:GetSize()$0",
+		},
+		{
+			"trigger": "LayeredRegion:GetTop\t()",
+			"contents": "${1:LayeredRegion}:GetTop()$0",
+		},
+		{
+			"trigger": "LayeredRegion:GetWidth\t()",
+			"contents": "${1:LayeredRegion}:GetWidth()$0",
+		},
+		{
+			"trigger": "LayeredRegion:Hide\t()",
+			"contents": "${1:LayeredRegion}:Hide()$0",
+		},
+		{
+			"trigger": "LayeredRegion:IsDragging\t()",
+			"contents": "${1:LayeredRegion}:IsDragging()$0",
+		},
+		{
+			"trigger": "LayeredRegion:IsForbidden\t()",
+			"contents": "${1:LayeredRegion}:IsForbidden()$0",
+		},
+		{
+			"trigger": "LayeredRegion:IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
+			"contents": "${1:LayeredRegion}:IsMouseOver(${2:[topOffset]}, ${3:[leftOffset]}, ${4:[bottomOffset]}, ${5:[rightOffset]})$0",
+		},
+		{
+			"trigger": "LayeredRegion:IsObjectType\t()",
+			"contents": "${1:LayeredRegion}:IsObjectType()$0",
+		},
+		{
+			"trigger": "LayeredRegion:IsProtected\t()",
+			"contents": "${1:LayeredRegion}:IsProtected()$0",
+		},
+		{
+			"trigger": "LayeredRegion:IsShown\t()",
+			"contents": "${1:LayeredRegion}:IsShown()$0",
+		},
+		{
+			"trigger": "LayeredRegion:IsVisible\t()",
+			"contents": "${1:LayeredRegion}:IsVisible()$0",
+		},
+		{
+			"trigger": "LayeredRegion:SetAllPoints\t([frame])",
+			"contents": "${1:LayeredRegion}:SetAllPoints(${2:[frame]})$0",
+		},
+		{
+			"trigger": "LayeredRegion:SetAlpha\t(alpha)",
+			"contents": "${1:LayeredRegion}:SetAlpha(${2:alpha})$0",
+		},
+		{
+			"trigger": "LayeredRegion:SetDrawLayer\t(\"layer\", sublayer)",
+			"contents": "${1:LayeredRegion}:SetDrawLayer(\"${2:layer}\", ${3:sublayer})$0",
+		},
+		{
+			"trigger": "LayeredRegion:SetHeight\t(height)",
+			"contents": "${1:LayeredRegion}:SetHeight(${2:height})$0",
+		},
+		{
+			"trigger": "LayeredRegion:SetParent\t(frame)",
+			"contents": "${1:LayeredRegion}:SetParent(${2:frame})$0",
+		},
+		{
+			"trigger": "LayeredRegion:SetPoint\t(\"point\", [relativeTo], [\"relativePoint\"], [xOffset], [yOffset])",
+			"contents": "${1:LayeredRegion}:SetPoint(\"${2:point}\", ${3:[relativeTo]}, \"${4:[relativePoint]}\", ${5:[xOffset]}, ${6:[yOffset]})$0",
+		},
+		{
+			"trigger": "LayeredRegion:SetSize\t(width, height)",
+			"contents": "${1:LayeredRegion}:SetSize(${2:width}, ${3:height})$0",
+		},
+		{
+			"trigger": "LayeredRegion:SetVertexColor\t(red, green, blue, [alpha])",
+			"contents": "${1:LayeredRegion}:SetVertexColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+		},
+		{
+			"trigger": "LayeredRegion:SetWidth\t(width)",
+			"contents": "${1:LayeredRegion}:SetWidth(${2:width})$0",
+		},
+		{
+			"trigger": "LayeredRegion:Show\t()",
+			"contents": "${1:LayeredRegion}:Show()$0",
+		},
+		{
+			"trigger": "LayeredRegion:StopAnimating\t()",
+			"contents": "${1:LayeredRegion}:StopAnimating()$0",
+		},
+
+
+
+		{
+			"trigger": "_LayeredRegion:CanChangeProtectedState\t()",
+			"contents": "${1:canChange} = ${2:LayeredRegion}:CanChangeProtectedState()$0",
+		},
+		{
+			"trigger": "_LayeredRegion:GetAlpha\t()",
+			"contents": "${1:alpha} = ${2:LayeredRegion}:GetAlpha()$0",
+		},
+		{
+			"trigger": "_LayeredRegion:GetBottom\t()",
+			"contents": "${1:bottom} = ${2:LayeredRegion}:GetBottom()$0",
+		},
+		{
+			"trigger": "_LayeredRegion:GetCenter\t()",
+			"contents": "${1:x}, ${2:y} = ${3:LayeredRegion}:GetCenter()$0",
+		},
+		{
+			"trigger": "_LayeredRegion:GetDebugName\t()",
+			"contents": "${1:name} = ${2:LayeredRegion}:GetDebugName()$0",
+		},
+		{
+			"trigger": "_LayeredRegion:GetDrawLayer\t()",
+			"contents": "${1:layer}, ${2:sublayer} = ${3:LayeredRegion}:GetDrawLayer()$0",
+		},
+		{
+			"trigger": "_LayeredRegion:GetHeight\t()",
+			"contents": "${1:height} = ${2:LayeredRegion}:GetHeight()$0",
+		},
+		{
+			"trigger": "_LayeredRegion:GetLeft\t()",
+			"contents": "${1:left} = ${2:LayeredRegion}:GetLeft()$0",
+		},
+		{
+			"trigger": "_LayeredRegion:GetName\t()",
+			"contents": "${1:name} = ${2:LayeredRegion}:GetName()$0",
+		},
+		{
+			"trigger": "_LayeredRegion:GetNumPoints\t()",
+			"contents": "${1:numPoints} = ${2:LayeredRegion}:GetNumPoints()$0",
+		},
+		{
+			"trigger": "_LayeredRegion:GetObjectType\t()",
+			"contents": "${1:type} = ${2:LayeredRegion}:GetObjectType()$0",
+		},
+		{
+			"trigger": "_LayeredRegion:GetPoint\t(index)",
+			"contents": "${1:point}, ${2:relativeTo}, ${3:relativePoint}, ${4:xOffset}, ${5:yOffset} = ${6:LayeredRegion}:GetPoint(${7:index})$0",
+		},
+		{
+			"trigger": "_LayeredRegion:GetRect\t()",
+			"contents": "${1:left}, ${2:bottom}, ${3:width}, ${4:height} = ${5:LayeredRegion}:GetRect()$0",
+		},
+		{
+			"trigger": "_LayeredRegion:GetRight\t()",
+			"contents": "${1:right} = ${2:LayeredRegion}:GetRight()$0",
+		},
+		{
+			"trigger": "_LayeredRegion:GetSize\t()",
+			"contents": "${1:width}, ${2:height} = ${3:LayeredRegion}:GetSize()$0",
+		},
+		{
+			"trigger": "_LayeredRegion:GetTop\t()",
+			"contents": "${1:top} = ${2:LayeredRegion}:GetTop()$0",
+		},
+		{
+			"trigger": "_LayeredRegion:GetWidth\t()",
+			"contents": "${1:width} = ${2:LayeredRegion}:GetWidth()$0",
+		},
+		{
+			"trigger": "_LayeredRegion:IsDragging\t()",
+			"contents": "${1:isDragging} = ${2:LayeredRegion}:IsDragging()$0",
+		},
+		{
+			"trigger": "_LayeredRegion:IsForbidden\t()",
+			"contents": "${1:isForbidden} = ${2:LayeredRegion}:IsForbidden()$0",
+		},
+		{
+			"trigger": "_LayeredRegion:IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
+			"contents": "${1:isOver} = ${2:LayeredRegion}:IsMouseOver(${3:[topOffset]}, ${4:[leftOffset]}, ${5:[bottomOffset]}, ${6:[rightOffset]})$0",
+		},
+		{
+			"trigger": "_LayeredRegion:IsObjectType\t(\"type\")",
+			"contents": "${1:isType} = ${2:LayeredRegion}:IsObjectType(\"${3:type}\")$0",
+		},
+		{
+			"trigger": "_LayeredRegion:IsProtected\t()",
+			"contents": "${1:isProtected}, ${2:explicit} = ${3:LayeredRegion}:IsProtected()$0",
+		},
+		{
+			"trigger": "_LayeredRegion:IsShown\t()",
+			"contents": "${1:shown} = ${2:LayeredRegion}:IsShown()$0",
+		},
+		{
+			"trigger": "_LayeredRegion:IsVisible\t()",
+			"contents": "${1:visible} = ${2:LayeredRegion}:IsVisible()$0",
+		},
+
+
+
+		{
+			"trigger": "_LayeredRegion\thelp",
+			"contents": "LayeredRegion = {\n\tinherits = {\n\t\t\"LayeredRegion\",\n\t\t\"VisibleRegion\",\n\t\t\"Region\",\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\tmethods = {\n\t\t\"CanChangeProtectedState\",\n\t\t\"ClearAllPoints\",\n\t\t\"CreateAnimationGroup\",\n\t\t\"GetAlpha\",\n\t\t\"GetAnimationGroups\",\n\t\t\"GetBottom\",\n\t\t\"GetCenter\",\n\t\t\"GetDebugName\",\n\t\t\"GetDrawLayer\",\n\t\t\"GetHeight\",\n\t\t\"GetLeft\",\n\t\t\"GetName\",\n\t\t\"GetNumPoints\",\n\t\t\"GetObjectType\",\n\t\t\"GetParent\",\n\t\t\"GetPoint\",\n\t\t\"GetRect\",\n\t\t\"GetRight\",\n\t\t\"GetSize\",\n\t\t\"GetTop\",\n\t\t\"GetWidth\",\n\t\t\"Hide\",\n\t\t\"IsDragging\",\n\t\t\"IsForbidden\",\n\t\t\"IsMouseOver\",\n\t\t\"IsObjectType\",\n\t\t\"IsProtected\",\n\t\t\"IsShown\",\n\t\t\"IsVisible\",\n\t\t\"SetAllPoints\",\n\t\t\"SetAlpha\",\n\t\t\"SetDrawLayer\",\n\t\t\"SetHeight\",\n\t\t\"SetParent\",\n\t\t\"SetPoint\",\n\t\t\"SetSize\",\n\t\t\"SetVertexColor\",\n\t\t\"SetWidth\",\n\t\t\"Show\",\n\t\t\"StopAnimating\",\n\t},\n}",
+		},
+	]
+}

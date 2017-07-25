@@ -182,7 +182,7 @@
 
 		{
 			"trigger": "_Path:CreateControlPoint\t([\"name\"], [\"template\"], [order])",
-			"contents": "${1:ControlPoint} = ${2:Path}:CreateControlPoint(${3:[\"name\"]}, ${4:[\"template\"]}, ${5:[order]})$0",
+			"contents": "${1:controlPoint} = ${2:Path}:CreateControlPoint(${3:[\"name\"]}, ${4:[\"template\"]}, ${5:[order]})$0",
 		},
 		{
 			"trigger": "_Path:GetControlPoints\t()",

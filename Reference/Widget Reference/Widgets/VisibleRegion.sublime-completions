@@ -10,6 +10,14 @@
 			"contents": "${1:VisibleRegion}:ClearAllPoints()$0",
 		},
 		{
+			"trigger": "VisibleRegion:CreateAnimationGroup\t([\"name\"], [\"inheritsFrom\"])",
+			"contents": "${1:VisibleRegion}:CreateAnimationGroup(${2:[\"name\"]}, ${3:[\"inheritsFrom\"]})$0",
+		},
+		{
+			"trigger": "VisibleRegion:GetAnimationGroups\t()",
+			"contents": "${1:VisibleRegion}:GetAnimationGroups()$0",
+		},
+		{
 			"trigger": "VisibleRegion:GetAlpha\t()",
 			"contents": "${1:VisibleRegion}:GetAlpha()$0",
 		},
@@ -137,6 +145,10 @@
 			"trigger": "VisibleRegion:Show\t()",
 			"contents": "${1:VisibleRegion}:Show()$0",
 		},
+		{
+			"trigger": "VisibleRegion:StopAnimating\t()",
+			"contents": "${1:VisibleRegion}:StopAnimating()$0",
+		},
 
 
 
@@ -237,7 +249,7 @@
 
 		{
 			"trigger": "_VisibleRegion\thelp",
-			"contents": "VisibleRegion = {\n\tinherits = {\n\t\t\"VisibleRegion\",\n\t\t\"Region\",\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\tmethods = {\n\t\t\"CanChangeProtectedState\",\n\t\t\"ClearAllPoints\",\n\t\t\"GetBottom\",\n\t\t\"GetCenter\",\n\t\t\"GetDebugName\",\n\t\t\"GetHeight\",\n\t\t\"GetLeft\",\n\t\t\"GetName\",\n\t\t\"GetNumPoints\",\n\t\t\"GetObjectType\",\n\t\t\"GetParent\",\n\t\t\"GetPoint\",\n\t\t\"GetRect\",\n\t\t\"GetRight\",\n\t\t\"GetSize\",\n\t\t\"GetTop\",\n\t\t\"GetWidth\",\n\t\t\"IsDragging\",\n\t\t\"IsForbidden\",\n\t\t\"IsMouseOver\",\n\t\t\"IsObjectType\",\n\t\t\"IsProtected\",\n\t\t\"SetAllPoints\",\n\t\t\"SetHeight\",\n\t\t\"SetParent\",\n\t\t\"SetPoint\",\n\t\t\"SetSize\",\n\t\t\"SetWidth\",\n\t},\n}",
+			"contents": "VisibleRegion = {\n\tinherits = {\n\t\t\"VisibleRegion\",\n\t\t\"Region\",\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\tmethods = {\n\t\t\"CanChangeProtectedState\",\n\t\t\"ClearAllPoints\",\n\t\t\"CreateAnimationGroup\",\n\t\t\"GetAlpha\",\n\t\t\"GetAnimationGroups\",\n\t\t\"GetBottom\",\n\t\t\"GetCenter\",\n\t\t\"GetDebugName\",\n\t\t\"GetHeight\",\n\t\t\"GetLeft\",\n\t\t\"GetName\",\n\t\t\"GetNumPoints\",\n\t\t\"GetObjectType\",\n\t\t\"GetParent\",\n\t\t\"GetPoint\",\n\t\t\"GetRect\",\n\t\t\"GetRight\",\n\t\t\"GetSize\",\n\t\t\"GetTop\",\n\t\t\"GetWidth\",\n\t\t\"Hide\",\n\t\t\"IsDragging\",\n\t\t\"IsForbidden\",\n\t\t\"IsMouseOver\",\n\t\t\"IsObjectType\",\n\t\t\"IsProtected\",\n\t\t\"IsShown\",\n\t\t\"IsVisible\",\n\t\t\"SetAllPoints\",\n\t\t\"SetAlpha\",\n\t\t\"SetHeight\",\n\t\t\"SetParent\",\n\t\t\"SetPoint\",\n\t\t\"SetSize\",\n\t\t\"SetWidth\",\n\t\t\"Show\",\n\t\t\"StopAnimating\",\n\t},\n}",
 		},
 	]
 }

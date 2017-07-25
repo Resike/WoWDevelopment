@@ -1,0 +1,183 @@
+{
+	"scope": "source.lua",
+	"completions": [
+		{
+			"trigger": "Font:CopyFontObject\t(font)",
+			"contents": "${1:Font}:CopyFontObject(${2:font})$0",
+		},
+		{
+			"trigger": "Font:GetAlpha\t()",
+			"contents": "${1:Font}:GetAlpha()$0",
+		},
+		{
+			"trigger": "Font:GetDebugName\t()",
+			"contents": "${1:Font}:GetDebugName()$0",
+		},
+		{
+			"trigger": "Font:GetFont\t()",
+			"contents": "${1:Font}:GetFont()$0",
+		},
+		{
+			"trigger": "Font:GetFontObject\t()",
+			"contents": "${1:Font}:GetFontObject()$0",
+		},
+		{
+			"trigger": "Font:GetIndentedWordWrap\t()",
+			"contents": "${1:Font}:GetIndentedWordWrap()$0",
+		},
+		{
+			"trigger": "Font:GetJustifyH\t()",
+			"contents": "${1:Font}:GetJustifyH()$0",
+		},
+		{
+			"trigger": "Font:GetJustifyV\t()",
+			"contents": "${1:Font}:GetJustifyV()$0",
+		},
+		{
+			"trigger": "Font:GetName\t()",
+			"contents": "${1:Font}:GetName()$0",
+		},
+		{
+			"trigger": "Font:GetObjectType\t()",
+			"contents": "${1:Font}:GetObjectType()$0",
+		},
+		{
+			"trigger": "Font:GetShadowColor\t()",
+			"contents": "${1:Font}:GetShadowColor()$0",
+		},
+		{
+			"trigger": "Font:GetShadowOffset\t()",
+			"contents": "${1:Font}:GetShadowOffset()$0",
+		},
+		{
+			"trigger": "Font:GetSpacing\t()",
+			"contents": "${1:Font}:GetSpacing()$0",
+		},
+		{
+			"trigger": "Font:GetTextColor\t()",
+			"contents": "${1:Font}:GetTextColor()$0",
+		},
+		{
+			"trigger": "Font:IsForbidden\t()",
+			"contents": "${1:Font}:IsForbidden()$0",
+		},
+		{
+			"trigger": "Font:IsObjectType\t()",
+			"contents": "${1:Font}:IsObjectType()$0",
+		},
+		{
+			"trigger": "Font:SetAlpha\t(alpha)",
+			"contents": "${1:Font}:SetAlpha(${2:alpha})$0",
+		},
+		{
+			"trigger": "Font:SetFont\t(\"filename\", fontHeight, \"flags\")",
+			"contents": "${1:Font}:SetFont(\"${2:filename}\", ${3:fontHeight}, \"${4:flags}\")$0",
+		},
+		{
+			"trigger": "Font:SetFontObject\t(font)",
+			"contents": "${1:Font}:SetFontObject(${2:font})$0",
+		},
+		{
+			"trigger": "Font:SetIndentedWordWrap\t(enable)",
+			"contents": "${1:Font}:SetIndentedWordWrap(${2:enable})$0",
+		},
+		{
+			"trigger": "Font:SetJustifyH\t(\"justify\")",
+			"contents": "${1:Font}:SetJustifyH(\"${2:justify}\")$0",
+		},
+		{
+			"trigger": "Font:SetJustifyV\t(\"justify\")",
+			"contents": "${1:Font}:SetJustifyV(\"justify\")$0",
+		},
+		{
+			"trigger": "Font:SetShadowColor\t(shadowRed, shadowGreen, shadowBlue, shadowAlpha)",
+			"contents": "${1:Font}:SetShadowColor(${2:shadowRed}, ${3:shadowGreen}, ${4:shadowBlue}, ${5:shadowAlpha})$0",
+		},
+		{
+			"trigger": "Font:SetShadowOffset\t(xOffset, yOffset)",
+			"contents": "${1:Font}:SetShadowOffset(${2:xOffset}, ${3:yOffset})$0",
+		},
+		{
+			"trigger": "Font:SetSpacing\t(spacing)",
+			"contents": "${1:Font}:SetSpacing(${2:spacing})$0",
+		},
+		{
+			"trigger": "Font:SetTextColor\t(textRed, textGreen, textBlue, textAlpha)",
+			"contents": "${1:Font}:SetTextColor(${2:textRed}, ${3:textGreen}, ${4:textBlue}, ${5:textAlpha})$0",
+		},
+
+
+
+		{
+			"trigger": "_Font:GetAlpha\t()",
+			"contents": "${1:alpha} = ${2:Font}:GetAlpha()$0",
+		},
+		{
+			"trigger": "_Font:GetDebugName\t()",
+			"contents": "${1:name} = ${2:Font}:GetDebugName()$0",
+		},
+		{
+			"trigger": "_Font:GetFont\t()",
+			"contents": "${1:filename}, ${2:fontHeight}, ${3:flags} = ${4:Font}:GetFont()$0",
+		},
+		{
+			"trigger": "_Font:GetFontObject\t()",
+			"contents": "${1:font} = ${2:Font}:GetFontObject()$0",
+		},
+		{
+			"trigger": "_Font:GetIndentedWordWrap\t()",
+			"contents": "${1:indent} = ${2:Font}:GetIndentedWordWrap()$0",
+		},
+		{
+			"trigger": "_Font:GetJustifyH\t()",
+			"contents": "${1:justify} = ${2:Font}:GetJustifyH()$0",
+		},
+		{
+			"trigger": "_Font:GetJustifyV\t()",
+			"contents": "${1:justify} = ${2:Font}:GetJustifyV()$0",
+		},
+		{
+			"trigger": "_Font:GetName\t()",
+			"contents": "${1:name} = ${2:Font}:GetName()$0",
+		},
+		{
+			"trigger": "_Font:GetObjectType\t()",
+			"contents": "${1:type} = ${2:Font}:GetObjectType()$0",
+		},
+		{
+			"trigger": "_Font:GetShadowColor\t()",
+			"contents": "${1:shadowR}, ${2:shadowG}, ${3:shadowB}, ${4:shadowAlpha} = ${5:Font}:GetShadowColor()$0",
+		},
+		{
+			"trigger": "_Font:GetShadowOffset\t()",
+			"contents": "${1:xOffset}, ${2:yOffset} = ${3:Font}:GetShadowOffset()$0",
+		},
+		{
+			"trigger": "_Font:GetSpacing\t()",
+			"contents": "${1:spacing} = ${2:Font}:GetSpacing()$0",
+		},
+		{
+			"trigger": "_Font:GetTextColor\t()",
+			"contents": "${1:textR}, ${2:textG}, ${3:textB}, ${4:textAlpha} = ${5:Font}:GetTextColor()$0",
+		},
+		{
+			"trigger": "_Font:IsForbidden\t()",
+			"contents": "${1:isForbidden} = ${2:Font}:IsForbidden()$0",
+		},
+		{
+			"trigger": "_Font:IsObjectType\t(\"type\")",
+			"contents": "${1:isType} = ${2:Font}:IsObjectType(\"${3:type}\")$0",
+		},
+		{
+			"trigger": "_Font:SetFont\t(\"filename\", fontHeight, \"flags\")",
+			"contents": "${1:isValid} = ${2:Font}:SetFont(\"${3:filename}\", ${4:fontHeight}, \"${5:flags}\")$0",
+		},
+
+
+
+		{
+			"trigger": "_Font\thelp",
+			"contents": "Font = {\n\tinherits = {\n\t\t\"Font\",\n\t\t\"FontInstance\",\n\t\t\"UIObject\",\n\t},\n\tmethods = {\n\t\t\"CopyFontObject\",\n\t\t\"GetAlpha\",\n\t\t\"GetDebugName\",\n\t\t\"GetFont\",\n\t\t\"GetFontObject\",\n\t\t\"GetIndentedWordWrap\",\n\t\t\"GetJustifyH\",\n\t\t\"GetJustifyV\",\n\t\t\"GetName\",\n\t\t\"GetObjectType\",\n\t\t\"GetShadowColor\",\n\t\t\"GetShadowOffset\",\n\t\t\"GetSpacing\",\n\t\t\"GetTextColor\",\n\t\t\"IsForbidden\",\n\t\t\"IsObjectType\",\n\t\t\"SetAlpha\",\n\t\t\"SetFont\",\n\t\t\"SetFontObject\",\n\t\t\"SetIndentedWordWrap\",\n\t\t\"SetJustifyH\",\n\t\t\"SetJustifyV\",\n\t\t\"SetShadowColor\",\n\t\t\"SetShadowOffset\",\n\t\t\"SetSpacing\",\n\t\t\"SetTextColor\",\n\t},\n}",
+		},
+	]
+}

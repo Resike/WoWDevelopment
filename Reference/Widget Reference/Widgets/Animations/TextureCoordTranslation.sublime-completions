@@ -26,10 +26,6 @@
 			"contents": "${1:TextureCoordTranslation}:GetObjectType()$0",
 		},
 		{
-			"trigger": "TextureCoordTranslation:GetOffset\t()",
-			"contents": "${1:TextureCoordTranslation}:GetOffset()$0",
-		},
-		{
 			"trigger": "TextureCoordTranslation:GetOrder\t()",
 			"contents": "${1:TextureCoordTranslation}:GetOrder()$0",
 		},
@@ -126,10 +122,6 @@
 			"contents": "${1:TextureCoordTranslation}:SetEndDelay(${2:delay})$0",
 		},
 		{
-			"trigger": "TextureCoordTranslation:SetOffset\t(xOffset, yOffset)",
-			"contents": "${1:TextureCoordTranslation}:SetOffset(${2:xOffset}, ${3:yOffset})$0",
-		},
-		{
 			"trigger": "TextureCoordTranslation:SetOrder\t(order)",
 			"contents": "${1:TextureCoordTranslation}:SetOrder(${2:order})$0",
 		},
@@ -191,10 +183,6 @@
 		{
 			"trigger": "_TextureCoordTranslation:GetObjectType\t()",
 			"contents": "${1:type} = ${2:TextureCoordTranslation}:GetObjectType()$0",
-		},
-		{
-			"trigger": "_TextureCoordTranslation:GetOffset\t()",
-			"contents": "${1:xOffset}, ${2:yOffset} = ${3:TextureCoordTranslation}:GetOffset()$0",
 		},
 		{
 			"trigger": "_TextureCoordTranslation:GetOrder\t()",
@@ -269,7 +257,7 @@
 
 		{
 			"trigger": "_TextureCoordTranslation\thelp",
-			"contents": "TextureCoordTranslation = {\n\tinherits = {\n\t\t\"TextureCoordTranslation\",\n\t\t\"Animation\",\n\t\t\"ScriptObject\",\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\thandlers = {\n\t\t[\"OnFinished\"] = \"self, requested\",\n\t\t[\"OnLoad\"] = \"self\",\n\t\t[\"OnPause\"] = \"self\",\n\t\t[\"OnPlay\"] = \"self\",\n\t\t[\"OnStop\"] = \"self, requested\",\n\t\t[\"OnUpdate\"] = \"self, elapsed\",\n\t},\n\tmethods = {\n\t\t\"GetDebugName\",\n\t\t\"GetDuration\",\n\t\t\"GetElapsed\",\n\t\t\"GetEndDelay\",\n\t\t\"GetName\",\n\t\t\"GetObjectType\",\n\t\t\"GetOffset\",\n\t\t\"GetOrder\",\n\t\t\"GetParent\",\n\t\t\"GetProgress\",\n\t\t\"GetRegionParent\",\n\t\t\"GetScript\",\n\t\t\"GetSmoothing\",\n\t\t\"GetSmoothProgress\",\n\t\t\"GetStartDelay\",\n\t\t\"GetTarget\",\n\t\t\"HasScript\",\n\t\t\"HookScript\",\n\t\t\"IsDelaying\",\n\t\t\"IsDone\",\n\t\t\"IsForbidden\",\n\t\t\"IsObjectType\",\n\t\t\"IsPaused\",\n\t\t\"IsPlaying\",\n\t\t\"IsStopped\",\n\t\t\"Pause\",\n\t\t\"Play\",\n\t\t\"Restart\",\n\t\t\"SetChildKey\",\n\t\t\"SetDuration\",\n\t\t\"SetEndDelay\",\n\t\t\"SetOffset\",\n\t\t\"SetOrder\",\n\t\t\"SetParent\",\n\t\t\"SetScript\",\n\t\t\"SetSmoothing\",\n\t\t\"SetSmoothProgress\",\n\t\t\"SetStartDelay\",\n\t\t\"SetTarget\",\n\t\t\"SetTargetKey\",\n\t\t\"Stop\",\n\t},\n}",
+			"contents": "TextureCoordTranslation = {\n\tinherits = {\n\t\t\"TextureCoordTranslation\",\n\t\t\"Animation\",\n\t\t\"ScriptObject\",\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\thandlers = {\n\t\t[\"OnFinished\"] = \"self, requested\",\n\t\t[\"OnLoad\"] = \"self\",\n\t\t[\"OnPause\"] = \"self\",\n\t\t[\"OnPlay\"] = \"self\",\n\t\t[\"OnStop\"] = \"self, requested\",\n\t\t[\"OnUpdate\"] = \"self, elapsed\",\n\t},\n\tmethods = {\n\t\t\"GetDebugName\",\n\t\t\"GetDuration\",\n\t\t\"GetElapsed\",\n\t\t\"GetEndDelay\",\n\t\t\"GetName\",\n\t\t\"GetObjectType\",\n\t\t\"GetOrder\",\n\t\t\"GetParent\",\n\t\t\"GetProgress\",\n\t\t\"GetRegionParent\",\n\t\t\"GetScript\",\n\t\t\"GetSmoothing\",\n\t\t\"GetSmoothProgress\",\n\t\t\"GetStartDelay\",\n\t\t\"GetTarget\",\n\t\t\"HasScript\",\n\t\t\"HookScript\",\n\t\t\"IsDelaying\",\n\t\t\"IsDone\",\n\t\t\"IsForbidden\",\n\t\t\"IsObjectType\",\n\t\t\"IsPaused\",\n\t\t\"IsPlaying\",\n\t\t\"IsStopped\",\n\t\t\"Pause\",\n\t\t\"Play\",\n\t\t\"Restart\",\n\t\t\"SetChildKey\",\n\t\t\"SetDuration\",\n\t\t\"SetEndDelay\",\n\t\t\"SetOrder\",\n\t\t\"SetParent\",\n\t\t\"SetScript\",\n\t\t\"SetSmoothing\",\n\t\t\"SetSmoothProgress\",\n\t\t\"SetStartDelay\",\n\t\t\"SetTarget\",\n\t\t\"SetTargetKey\",\n\t\t\"Stop\",\n\t},\n}",
 		},
 	]
 }

@@ -366,12 +366,8 @@
 			"contents": "${1:Cooldown}:SetReverse(${2:reverse})$0",
 		},
 		{
-			"trigger": "CopyFontObject\t(\"name\")",
-			"contents": "CopyFontObject(\"${1:name}\")$0",
-		},
-		{
-			"trigger": "CopyFontObject\t(object)",
-			"contents": "CopyFontObject(${1:object})$0",
+			"trigger": "CopyFontObject\t(font)",
+			"contents": "CopyFontObject(${1:font})$0",
 		},
 		{
 			"trigger": "CreateAnimation\t(\"animationType\", [\"name\"], [\"inheritsFrom\"])",
@@ -664,90 +660,6 @@
 		{
 			"trigger": "Finish\t()",
 			"contents": "Finish()$0",
-		},
-		{
-			"trigger": "Font:CopyFontObject\t(object)",
-			"contents": "${1:Font}:CopyFontObject(${2:object})$0",
-		},
-		{
-			"trigger": "Font:GetAlpha\t()",
-			"contents": "${1:Font}:GetAlpha()$0",
-		},
-		{
-			"trigger": "Font:SetAlpha\t(alpha)",
-			"contents": "${1:Font}:SetAlpha(${2:alpha})$0",
-		},
-		{
-			"trigger": "Font:CopyFontObject\t(\"name\")",
-			"contents": "${1:Font}:CopyFontObject(\"${2:name}\")$0",
-		},
-		{
-			"trigger": "FontInstance:GetFont\t()",
-			"contents": "${1:FontInstance}:GetFont()$0",
-		},
-		{
-			"trigger": "FontInstance:GetFontObject\t()",
-			"contents": "${1:FontInstance}:GetFontObject()$0",
-		},
-		{
-			"trigger": "FontInstance:GetJustifyH\t()",
-			"contents": "${1:FontInstance}:GetJustifyH()$0",
-		},
-		{
-			"trigger": "FontInstance:GetJustifyV\t()",
-			"contents": "${1:FontInstance}:GetJustifyV()$0",
-		},
-		{
-			"trigger": "FontInstance:GetShadowColor\t()",
-			"contents": "${1:FontInstance}:GetShadowColor()$0",
-		},
-		{
-			"trigger": "FontInstance:GetShadowOffset\t()",
-			"contents": "${1:FontInstance}:GetShadowOffset()$0",
-		},
-		{
-			"trigger": "FontInstance:GetSpacing\t()",
-			"contents": "${1:FontInstance}:GetSpacing()$0",
-		},
-		{
-			"trigger": "FontInstance:GetTextColor\t()",
-			"contents": "${1:FontInstance}:GetTextColor()$0",
-		},
-		{
-			"trigger": "FontInstance:SetFont\t(\"filename\", fontHeight, \"flags\")",
-			"contents": "${1:FontInstance}:SetFont(\"${2:filename}\", ${3:fontHeight}, \"${4:flags}\")$0",
-		},
-		{
-			"trigger": "FontInstance:SetFontObject\t(\"name\")",
-			"contents": "${1:FontInstance}:SetFontObject(\"${2:name}\")$0",
-		},
-		{
-			"trigger": "FontInstance:SetFontObject\t(object)",
-			"contents": "${1:FontInstance}:SetFontObject(${2:object})$0",
-		},
-		{
-			"trigger": "FontInstance:SetJustifyH\t(\"justify\")",
-			"contents": "${1:FontInstance}:SetJustifyH(\"${2:justify}\")$0",
-		},
-		{
-			"trigger": "FontInstance:SetJustifyV\t(\"justify\")",
-			"contents": "${1:FontInstance}:SetJustifyV(\"justify\")$0",
-		},
-		{
-			"trigger": "FontInstance:SetShadowColor\t(shadowRed, shadowGreen, shadowBlue, shadowAlpha)",
-			"contents": "${1:FontInstance}:SetShadowColor(${2:shadowRed}, ${3:shadowGreen}, ${4:shadowBlue}, ${5:shadowAlpha})$0",
-		},
-		{
-			"trigger": "FontInstance:SetShadowOffset\t(xOffset, yOffset)",
-			"contents": "${1:FontInstance}:SetShadowOffset(${2:xOffset}, ${3:yOffset})$0",
-		},
-		{
-			"trigger": "FontInstance:SetSpacing\t(spacing)",
-			"contents": "${1:FontInstance}:SetSpacing(${2:spacing})$0",
-		},
-		{
-			"trigger": "FontInstance:SetTextColor\t(textRed, textGreen, textBlue, textAlpha)",
-			"contents": "${1:FontInstance}:SetTextColor(${2:textRed}, ${3:textGreen}, ${4:textBlue}, ${5:textAlpha})$0",
 		},
 		{
 			"trigger": "FontString:CanNonSpaceWrap\t()",
@@ -2196,18 +2108,6 @@
 		{
 			"trigger": "IsVisible\t()",
 			"contents": "IsVisible()$0",
-		},
-		{
-			"trigger": "LayeredRegion:GetDrawLayer\t()",
-			"contents": "${1:LayeredRegion}:GetDrawLayer()$0",
-		},
-		{
-			"trigger": "LayeredRegion:SetDrawLayer\t(\"layer\", sublayer)",
-			"contents": "${1:LayeredRegion}:SetDrawLayer(\"${2:layer}\", ${3:sublayer})$0",
-		},
-		{
-			"trigger": "LayeredRegion:SetVertexColor\t(red, green, blue, [alpha])",
-			"contents": "${1:LayeredRegion}:SetVertexColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
 		},
 		{
 			"trigger": "LockHighlight\t()",
@@ -4093,46 +3993,6 @@
 			"contents": "${1:enabled} = ${2:EditBox}:IsPassword()$0",
 		},
 		{
-			"trigger": "_Font:GetAlpha\t()",
-			"contents": "${1:alpha} = ${2:Font}:GetAlpha()$0",
-		},
-		{
-			"trigger": "_FontInstance:GetFont\t()",
-			"contents": "${1:filename}, ${2:fontHeight}, ${3:flags} = ${4:FontInstance}:GetFont()$0",
-		},
-		{
-			"trigger": "_FontInstance:GetFontObject\t()",
-			"contents": "${1:font} = ${2:FontInstance}:GetFontObject()$0",
-		},
-		{
-			"trigger": "_FontInstance:GetJustifyH\t()",
-			"contents": "${1:justify} = ${2:FontInstance}:GetJustifyH()$0",
-		},
-		{
-			"trigger": "_FontInstance:GetJustifyV\t()",
-			"contents": "${1:justify} = ${2:FontInstance}:GetJustifyV()$0",
-		},
-		{
-			"trigger": "_FontInstance:GetShadowColor\t()",
-			"contents": "${1:shadowR}, ${2:shadowG}, ${3:shadowB}, ${4:shadowAlpha} = ${5:FontInstance}:GetShadowColor()$0",
-		},
-		{
-			"trigger": "_FontInstance:GetShadowOffset\t()",
-			"contents": "${1:xOffset}, ${2:yOffset} = ${3:FontInstance}:GetShadowOffset()$0",
-		},
-		{
-			"trigger": "_FontInstance:GetSpacing\t()",
-			"contents": "${1:spacing} = ${2:FontInstance}:GetSpacing()$0",
-		},
-		{
-			"trigger": "_FontInstance:GetTextColor\t()",
-			"contents": "${1:textR}, ${2:textG}, ${3:textB}, ${4:textAlpha} = ${5:FontInstance}:GetTextColor()$0",
-		},
-		{
-			"trigger": "_FontInstance:SetFont\t(\"filename\", fontHeight, \"flags\")",
-			"contents": "${1:isValid} = ${2:FontInstance}:SetFont(\"${3:filename}\", ${4:fontHeight}, \"${5:flags}\")$0",
-		},
-		{
 			"trigger": "_FontString:CanNonSpaceWrap\t()",
 			"contents": "${1:enabled} = ${2:FontString}:CanNonSpaceWrap()$0",
 		},
@@ -4359,10 +4219,6 @@
 		{
 			"trigger": "_GameTooltip:SetInventoryItem\t(\"unit\", slot, [nameOnly])",
 			"contents": "${1:hasItem}, ${2:hasCooldown}, ${3:repairCost} = ${4:GameTooltip}:SetInventoryItem(\"${5:unit}\", ${6:slot}, ${7:[nameOnly]})$0",
-		},
-		{
-			"trigger": "_LayeredRegion:GetDrawLayer\t()",
-			"contents": "${1:layer}, ${2:sublayer} = ${3:LayeredRegion}:GetDrawLayer()$0",
 		},
 		{
 			"trigger": "_MessageFrame:GetFadeDuration\t()",

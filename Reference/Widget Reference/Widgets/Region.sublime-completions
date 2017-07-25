@@ -10,6 +10,14 @@
 			"contents": "${1:Region}:ClearAllPoints()$0",
 		},
 		{
+			"trigger": "Region:CreateAnimationGroup\t([\"name\"], [\"inheritsFrom\"])",
+			"contents": "${1:Region}:CreateAnimationGroup(${2:[\"name\"]}, ${3:[\"inheritsFrom\"]})$0",
+		},
+		{
+			"trigger": "Region:GetAnimationGroups\t()",
+			"contents": "${1:Region}:GetAnimationGroups()$0",
+		},
+		{
 			"trigger": "Region:GetBottom\t()",
 			"contents": "${1:Region}:GetBottom()$0",
 		},
@@ -113,12 +121,24 @@
 			"trigger": "Region:SetWidth\t(width)",
 			"contents": "${1:Region}:SetWidth(${2:width})$0",
 		},
+		{
+			"trigger": "Region:StopAnimating\t()",
+			"contents": "${1:Region}:StopAnimating()$0",
+		},
 
 
 
 		{
 			"trigger": "_Region:CanChangeProtectedState\t()",
 			"contents": "${1:canChange} = ${2:Region}:CanChangeProtectedState()$0",
+		},
+		{
+			"trigger": "_Region:CreateAnimationGroup\t([\"name\"], [\"inheritsFrom\"])",
+			"contents": "${1:animationGroup} = ${2:Region}:CreateAnimationGroup(${3:[\"name\"]}, ${4:[\"inheritsFrom\"]})$0",
+		},
+		{
+			"trigger": "_Region:GetAnimationGroups\t()",
+			"contents": "${1:...} = ${2:Region}:GetAnimationGroups()$0",
 		},
 		{
 			"trigger": "_Region:GetBottom\t()",
@@ -201,7 +221,7 @@
 
 		{
 			"trigger": "_Region\thelp",
-			"contents": "Region = {\n\tinherits = {\n\t\t\"Region\",\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\tmethods = {\n\t\t\"CanChangeProtectedState\",\n\t\t\"ClearAllPoints\",\n\t\t\"GetBottom\",\n\t\t\"GetCenter\",\n\t\t\"GetDebugName\",\n\t\t\"GetHeight\",\n\t\t\"GetLeft\",\n\t\t\"GetName\",\n\t\t\"GetNumPoints\",\n\t\t\"GetObjectType\",\n\t\t\"GetParent\",\n\t\t\"GetPoint\",\n\t\t\"GetRect\",\n\t\t\"GetRight\",\n\t\t\"GetSize\",\n\t\t\"GetTop\",\n\t\t\"GetWidth\",\n\t\t\"IsDragging\",\n\t\t\"IsForbidden\",\n\t\t\"IsMouseOver\",\n\t\t\"IsObjectType\",\n\t\t\"IsProtected\",\n\t\t\"SetAllPoints\",\n\t\t\"SetHeight\",\n\t\t\"SetParent\",\n\t\t\"SetPoint\",\n\t\t\"SetSize\",\n\t\t\"SetWidth\",\n\t},\n}",
+			"contents": "Region = {\n\tinherits = {\n\t\t\"Region\",\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\tmethods = {\n\t\t\"CanChangeProtectedState\",\n\t\t\"ClearAllPoints\",\n\t\t\"CreateAnimationGroup\",\n\t\t\"GetAnimationGroups\",\n\t\t\"GetBottom\",\n\t\t\"GetCenter\",\n\t\t\"GetDebugName\",\n\t\t\"GetHeight\",\n\t\t\"GetLeft\",\n\t\t\"GetName\",\n\t\t\"GetNumPoints\",\n\t\t\"GetObjectType\",\n\t\t\"GetParent\",\n\t\t\"GetPoint\",\n\t\t\"GetRect\",\n\t\t\"GetRight\",\n\t\t\"GetSize\",\n\t\t\"GetTop\",\n\t\t\"GetWidth\",\n\t\t\"IsDragging\",\n\t\t\"IsForbidden\",\n\t\t\"IsMouseOver\",\n\t\t\"IsObjectType\",\n\t\t\"IsProtected\",\n\t\t\"SetAllPoints\",\n\t\t\"SetHeight\",\n\t\t\"SetParent\",\n\t\t\"SetPoint\",\n\t\t\"SetSize\",\n\t\t\"SetWidth\",\n\t\t\"StopAnimating\",\n\t},\n}",
 		},
 	]
 }
