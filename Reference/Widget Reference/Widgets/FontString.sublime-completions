@@ -1,0 +1,535 @@
+{
+	"scope": "source.lua",
+	"completions": [
+		{
+			"trigger": "FontString:CanChangeProtectedState\t()",
+			"contents": "${1:FontString}:CanChangeProtectedState()$0",
+		},
+		{
+			"trigger": "FontString:CanNonSpaceWrap\t()",
+			"contents": "${1:FontString}:CanNonSpaceWrap()$0",
+		},
+		{
+			"trigger": "FontString:CanWordWrap\t()",
+			"contents": "${1:FontString}:CanWordWrap()$0",
+		},
+		{
+			"trigger": "FontString:ClearAllPoints\t()",
+			"contents": "${1:FontString}:ClearAllPoints()$0",
+		},
+		{
+			"trigger": "FontString:CreateAnimationGroup\t([\"name\"], [\"inheritsFrom\"])",
+			"contents": "${1:FontString}:CreateAnimationGroup(${2:[\"name\"]}, ${3:[\"inheritsFrom\"]})$0",
+		},
+		{
+			"trigger": "FontString:GetAlpha\t()",
+			"contents": "${1:FontString}:GetAlpha()$0",
+		},
+		{
+			"trigger": "FontString:GetAnimationGroups\t()",
+			"contents": "${1:FontString}:GetAnimationGroups()$0",
+		},
+		{
+			"trigger": "FontString:GetBottom\t()",
+			"contents": "${1:FontString}:GetBottom()$0",
+		},
+		{
+			"trigger": "FontString:GetCenter\t()",
+			"contents": "${1:FontString}:GetCenter()$0",
+		},
+		{
+			"trigger": "FontString:GetDebugName\t()",
+			"contents": "${1:FontString}:GetDebugName()$0",
+		},
+		{
+			"trigger": "FontString:GetDrawLayer\t()",
+			"contents": "${1:FontString}:GetDrawLayer()$0",
+		},
+		{
+			"trigger": "FontString:GetFieldSize\t()",
+			"contents": "${1:FontString}:GetFieldSize()$0",
+		},
+		{
+			"trigger": "FontString:GetFont\t()",
+			"contents": "${1:FontString}:GetFont()$0",
+		},
+		{
+			"trigger": "FontString:GetFontObject\t()",
+			"contents": "${1:FontString}:GetFontObject()$0",
+		},
+		{
+			"trigger": "FontString:GetHeight\t()",
+			"contents": "${1:FontString}:GetHeight()$0",
+		},
+		{
+			"trigger": "FontString:GetIndentedWordWrap\t()",
+			"contents": "${1:FontString}:GetIndentedWordWrap()$0",
+		},
+		{
+			"trigger": "FontString:GetJustifyH\t()",
+			"contents": "${1:FontString}:GetJustifyH()$0",
+		},
+		{
+			"trigger": "FontString:GetJustifyV\t()",
+			"contents": "${1:FontString}:GetJustifyV()$0",
+		},
+		{
+			"trigger": "FontString:GetLeft\t()",
+			"contents": "${1:FontString}:GetLeft()$0",
+		},
+		{
+			"trigger": "FontString:GetLineHeight\t()",
+			"contents": "${1:FontString}:GetLineHeight()$0",
+		},
+		{
+			"trigger": "FontString:GetMaxLines\t()",
+			"contents": "${1:FontString}:GetMaxLines()$0",
+		},
+		{
+			"trigger": "FontString:GetName\t()",
+			"contents": "${1:FontString}:GetName()$0",
+		},
+		{
+			"trigger": "FontString:GetNumLines\t()",
+			"contents": "${1:FontString}:GetNumLines()$0",
+		},
+		{
+			"trigger": "FontString:GetNumPoints\t()",
+			"contents": "${1:FontString}:GetNumPoints()$0",
+		},
+		{
+			"trigger": "FontString:GetObjectType\t()",
+			"contents": "${1:FontString}:GetObjectType()$0",
+		},
+		{
+			"trigger": "FontString:GetParent\t()",
+			"contents": "${1:FontString}:GetParent()$0",
+		},
+		{
+			"trigger": "FontString:GetPoint\t(index)",
+			"contents": "${1:FontString}:GetPoint(${2:index})$0",
+		},
+		{
+			"trigger": "FontString:GetRect\t()",
+			"contents": "${1:FontString}:GetRect()$0",
+		},
+		{
+			"trigger": "FontString:GetRight\t()",
+			"contents": "${1:FontString}:GetRight()$0",
+		},
+		{
+			"trigger": "FontString:GetShadowColor\t()",
+			"contents": "${1:FontString}:GetShadowColor()$0",
+		},
+		{
+			"trigger": "FontString:GetShadowOffset\t()",
+			"contents": "${1:FontString}:GetShadowOffset()$0",
+		},
+		{
+			"trigger": "FontString:GetSize\t()",
+			"contents": "${1:FontString}:GetSize()$0",
+		},
+		{
+			"trigger": "FontString:GetSpacing\t()",
+			"contents": "${1:FontString}:GetSpacing()$0",
+		},
+		{
+			"trigger": "FontString:GetStringHeight\t()",
+			"contents": "${1:FontString}:GetStringHeight()$0",
+		},
+		{
+			"trigger": "FontString:GetStringWidth\t()",
+			"contents": "${1:FontString}:GetStringWidth()$0",
+		},
+		{
+			"trigger": "FontString:GetText\t()",
+			"contents": "${1:FontString}:GetText()$0",
+		},
+		{
+			"trigger": "FontString:GetTextColor\t()",
+			"contents": "${1:FontString}:GetTextColor()$0",
+		},
+		{
+			"trigger": "FontString:GetTop\t()",
+			"contents": "${1:FontString}:GetTop()$0",
+		},
+		{
+			"trigger": "FontString:GetWidth\t()",
+			"contents": "${1:FontString}:GetWidth()$0",
+		},
+		{
+			"trigger": "FontString:GetWrappedWidth\t()",
+			"contents": "${1:FontString}:GetWrappedWidth()$0",
+		},
+		{
+			"trigger": "FontString:Hide\t()",
+			"contents": "${1:FontString}:Hide()$0",
+		},
+		{
+			"trigger": "FontString:IsDragging\t()",
+			"contents": "${1:FontString}:IsDragging()$0",
+		},
+		{
+			"trigger": "FontString:IsForbidden\t()",
+			"contents": "${1:FontString}:IsForbidden()$0",
+		},
+		{
+			"trigger": "FontString:IsIgnoringParentAlpha\t()",
+			"contents": "${1:FontString}:IsIgnoringParentAlpha()$0",
+		},
+		{
+			"trigger": "FontString:IsIgnoringParentScale\t()",
+			"contents": "${1:FontString}:IsIgnoringParentScale()$0",
+		},
+		{
+			"trigger": "FontString:IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
+			"contents": "${1:FontString}:IsMouseOver(${2:[topOffset]}, ${3:[leftOffset]}, ${4:[bottomOffset]}, ${5:[rightOffset]})$0",
+		},
+		{
+			"trigger": "FontString:IsObjectLoaded\t()",
+			"contents": "${1:FontString}:IsObjectLoaded()$0",
+		},
+		{
+			"trigger": "FontString:IsObjectType\t()",
+			"contents": "${1:FontString}:IsObjectType()$0",
+		},
+		{
+			"trigger": "FontString:IsProtected\t()",
+			"contents": "${1:FontString}:IsProtected()$0",
+		},
+		{
+			"trigger": "FontString:IsShown\t()",
+			"contents": "${1:FontString}:IsShown()$0",
+		},
+		{
+			"trigger": "FontString:IsTruncated\t()",
+			"contents": "${1:FontString}:IsTruncated()$0",
+		},
+		{
+			"trigger": "FontString:IsVisible\t()",
+			"contents": "${1:FontString}:IsVisible()$0",
+		},
+		{
+			"trigger": "FontString:SetAllPoints\t([frame])",
+			"contents": "${1:FontString}:SetAllPoints(${2:[frame]})$0",
+		},
+		{
+			"trigger": "FontString:SetAlpha\t(alpha)",
+			"contents": "${1:FontString}:SetAlpha(${2:alpha})$0",
+		},
+		{
+			"trigger": "FontString:SetAlphaGradient\t(start, length)",
+			"contents": "${1:FontString}:SetAlphaGradient(${2:start}, ${3:length})$0",
+		},
+		{
+			"trigger": "FontString:SetDrawLayer\t(\"layer\", sublayer)",
+			"contents": "${1:FontString}:SetDrawLayer(\"${2:layer}\", ${3:sublayer})$0",
+		},
+		{
+			"trigger": "FontString:SetFont\t(\"filename\", fontHeight, \"flags\")",
+			"contents": "${1:FontString}:SetFont(\"${2:filename}\", ${3:fontHeight}, \"${4:flags}\")$0",
+		},
+		{
+			"trigger": "FontString:SetFontObject\t(font)",
+			"contents": "${1:FontString}:SetFontObject(${2:font})$0",
+		},
+		{
+			"trigger": "FontString:SetFormattedText\t(\"formatString\", ...)",
+			"contents": "${1:FontString}:SetFormattedText(\"${2:formatString}\", ${3:...})$0",
+		},
+		{
+			"trigger": "FontString:SetHeight\t(height)",
+			"contents": "${1:FontString}:SetHeight(${2:height})$0",
+		},
+		{
+			"trigger": "FontString:SetIgnoreParentAlpha\t(enable)",
+			"contents": "${1:FontString}:SetIgnoreParentAlpha(${2:enable})$0",
+		},
+		{
+			"trigger": "FontString:SetIgnoreParentScale\t(enable)",
+			"contents": "${1:FontString}:SetIgnoreParentScale(${2:enable})$0",
+		},
+		{
+			"trigger": "FontString:SetIndentedWordWrap\t(enable)",
+			"contents": "${1:FontString}:SetIndentedWordWrap(${2:enable})$0",
+		},
+		{
+			"trigger": "FontString:SetJustifyH\t(\"justify\")",
+			"contents": "${1:FontString}:SetJustifyH(\"${2:justify}\")$0",
+		},
+		{
+			"trigger": "FontString:SetJustifyV\t(\"justify\")",
+			"contents": "${1:FontString}:SetJustifyV(\"justify\")$0",
+		},
+		{
+			"trigger": "FontString:SetMaxLines\t(lines)",
+			"contents": "${1:FontString}:SetMaxLines(${2:lines})$0",
+		},
+		{
+			"trigger": "FontString:SetNonSpaceWrap\t(enable)",
+			"contents": "${1:FontString}:SetNonSpaceWrap(${2:enable})$0",
+		},
+		{
+			"trigger": "FontString:SetParent\t(frame)",
+			"contents": "${1:FontString}:SetParent(${2:frame})$0",
+		},
+		{
+			"trigger": "FontString:SetPoint\t(\"point\", [relativeTo], [\"relativePoint\"], [xOffset], [yOffset])",
+			"contents": "${1:FontString}:SetPoint(\"${2:point}\", ${3:[relativeTo]}, \"${4:[relativePoint]}\", ${5:[xOffset]}, ${6:[yOffset]})$0",
+		},
+		{
+			"trigger": "FontString:SetShadowColor\t(shadowRed, shadowGreen, shadowBlue, shadowAlpha)",
+			"contents": "${1:FontString}:SetShadowColor(${2:shadowRed}, ${3:shadowGreen}, ${4:shadowBlue}, ${5:shadowAlpha})$0",
+		},
+		{
+			"trigger": "FontString:SetShadowOffset\t(xOffset, yOffset)",
+			"contents": "${1:FontString}:SetShadowOffset(${2:xOffset}, ${3:yOffset})$0",
+		},
+		{
+			"trigger": "FontString:SetShown\t(enable)",
+			"contents": "${1:FontString}:SetShown(${2:enable})$0",
+		},
+		{
+			"trigger": "FontString:SetSize\t(width, height)",
+			"contents": "${1:FontString}:SetSize(${2:width}, ${3:height})$0",
+		},
+		{
+			"trigger": "FontString:SetSpacing\t(spacing)",
+			"contents": "${1:FontString}:SetSpacing(${2:spacing})$0",
+		},
+		{
+			"trigger": "FontString:SetText\t(\"text\")",
+			"contents": "${1:FontString}:SetText(\"${2:text}\")$0",
+		},
+		{
+			"trigger": "FontString:SetTextColor\t(textRed, textGreen, textBlue, textAlpha)",
+			"contents": "${1:FontString}:SetTextColor(${2:textRed}, ${3:textGreen}, ${4:textBlue}, ${5:textAlpha})$0",
+		},
+		{
+			"trigger": "FontString:SetTextHeight\t(height)",
+			"contents": "${1:FontString}:SetTextHeight(${2:height})$0",
+		},
+		{
+			"trigger": "FontString:SetVertexColor\t(red, green, blue, [alpha])",
+			"contents": "${1:FontString}:SetVertexColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+		},
+		{
+			"trigger": "FontString:SetWidth\t(width)",
+			"contents": "${1:FontString}:SetWidth(${2:width})$0",
+		},
+		{
+			"trigger": "FontString:SetWordWrap\t(enable)",
+			"contents": "${1:FontString}:SetWordWrap(${2:enable})$0",
+		},
+		{
+			"trigger": "FontString:Show\t()",
+			"contents": "${1:FontString}:Show()$0",
+		},
+		{
+			"trigger": "FontString:StopAnimating\t()",
+			"contents": "${1:FontString}:StopAnimating()$0",
+		},
+
+
+
+		{
+			"trigger": "_FontString:CanChangeProtectedState\t()",
+			"contents": "${1:canChange} = ${2:FontString}:CanChangeProtectedState()$0",
+		},
+		{
+			"trigger": "_FontString:CanNonSpaceWrap\t()",
+			"contents": "${1:enabled} = ${2:FontString}:CanNonSpaceWrap()$0",
+		},
+		{
+			"trigger": "_FontString:CanWordWrap\t()",
+			"contents": "${1:enabled} = ${2:FontString}:CanWordWrap()$0",
+		},
+		{
+			"trigger": "_FontString:GetAlpha\t()",
+			"contents": "${1:alpha} = ${2:FontString}:GetAlpha()$0",
+		},
+		{
+			"trigger": "_FontString:GetAnimationGroups\t()",
+			"contents": "${1:...} = ${2:FontString}:GetAnimationGroups()$0",
+		},
+		{
+			"trigger": "_FontString:GetBottom\t()",
+			"contents": "${1:bottom} = ${2:FontString}:GetBottom()$0",
+		},
+		{
+			"trigger": "_FontString:GetCenter\t()",
+			"contents": "${1:x}, ${2:y} = ${3:FontString}:GetCenter()$0",
+		},
+		{
+			"trigger": "_FontString:GetDebugName\t()",
+			"contents": "${1:name} = ${2:FontString}:GetDebugName()$0",
+		},
+		{
+			"trigger": "_FontString:GetDrawLayer\t()",
+			"contents": "${1:layer}, ${2:sublayer} = ${3:FontString}:GetDrawLayer()$0",
+		},
+		{
+			"trigger": "_FontString:GetFieldSize\t()",
+			"contents": "${1:size} = ${2:FontString}:GetFieldSize()$0",
+		},
+		{
+			"trigger": "_FontString:GetFont\t()",
+			"contents": "${1:filename}, ${2:fontHeight}, ${3:flags} = ${4:FontString}:GetFont()$0",
+		},
+		{
+			"trigger": "_FontString:GetFontObject\t()",
+			"contents": "${1:font} = ${2:FontString}:GetFontObject()$0",
+		},
+		{
+			"trigger": "_FontString:GetHeight\t()",
+			"contents": "${1:height} = ${2:FontString}:GetHeight()$0",
+		},
+		{
+			"trigger": "_FontString:GetIndentedWordWrap\t()",
+			"contents": "${1:indent} = ${2:FontString}:GetIndentedWordWrap()$0",
+		},
+		{
+			"trigger": "_FontString:GetJustifyH\t()",
+			"contents": "${1:justify} = ${2:FontString}:GetJustifyH()$0",
+		},
+		{
+			"trigger": "_FontString:GetJustifyV\t()",
+			"contents": "${1:justify} = ${2:FontString}:GetJustifyV()$0",
+		},
+		{
+			"trigger": "_FontString:GetLeft\t()",
+			"contents": "${1:left} = ${2:FontString}:GetLeft()$0",
+		},
+		{
+			"trigger": "_FontString:GetLineHeight\t()",
+			"contents": "${1:height} = ${2:FontString}:GetLineHeight()$0",
+		},
+		{
+			"trigger": "_FontString:GetMaxLines\t()",
+			"contents": "${1:maxLines} = ${2:FontString}:GetMaxLines()$0",
+		},
+		{
+			"trigger": "_FontString:GetName\t()",
+			"contents": "${1:name} = ${2:FontString}:GetName()$0",
+		},
+		{
+			"trigger": "_FontString:GetNumLines\t()",
+			"contents": "${1:numLines} = ${2:FontString}:GetNumLines()$0",
+		},
+		{
+			"trigger": "_FontString:GetNumPoints\t()",
+			"contents": "${1:numPoints} = ${2:FontString}:GetNumPoints()$0",
+		},
+		{
+			"trigger": "_FontString:GetObjectType\t()",
+			"contents": "${1:type} = ${2:FontString}:GetObjectType()$0",
+		},
+		{
+			"trigger": "_FontString:GetPoint\t(index)",
+			"contents": "${1:point}, ${2:relativeTo}, ${3:relativePoint}, ${4:xOffset}, ${5:yOffset} = ${6:FontString}:GetPoint(${7:index})$0",
+		},
+		{
+			"trigger": "_FontString:GetRect\t()",
+			"contents": "${1:left}, ${2:bottom}, ${3:width}, ${4:height} = ${5:FontString}:GetRect()$0",
+		},
+		{
+			"trigger": "_FontString:GetRight\t()",
+			"contents": "${1:right} = ${2:FontString}:GetRight()$0",
+		},
+		{
+			"trigger": "_FontString:GetShadowColor\t()",
+			"contents": "${1:shadowR}, ${2:shadowG}, ${3:shadowB}, ${4:shadowAlpha} = ${5:FontString}:GetShadowColor()$0",
+		},
+		{
+			"trigger": "_FontString:GetShadowOffset\t()",
+			"contents": "${1:xOffset}, ${2:yOffset} = ${3:FontString}:GetShadowOffset()$0",
+		},
+		{
+			"trigger": "_FontString:GetStringHeight\t()",
+			"contents": "${1:height} = ${2:FontString}:GetStringHeight()$0",
+		},
+		{
+			"trigger": "_FontString:GetStringWidth\t()",
+			"contents": "${1:width} = ${2:FontString}:GetStringWidth()$0",
+		},
+		{
+			"trigger": "_FontString:GetSize\t()",
+			"contents": "${1:width}, ${2:height} = ${3:FontString}:GetSize()$0",
+		},
+		{
+			"trigger": "_FontString:GetSpacing\t()",
+			"contents": "${1:spacing} = ${2:FontString}:GetSpacing()$0",
+		},
+		{
+			"trigger": "_FontString:GetText\t()",
+			"contents": "${1:text} = ${2:FontString}:GetText()$0",
+		},
+		{
+			"trigger": "_FontString:GetTextColor\t()",
+			"contents": "${1:textR}, ${2:textG}, ${3:textB}, ${4:textAlpha} = ${5:FontString}:GetTextColor()$0",
+		},
+		{
+			"trigger": "_FontString:GetTop\t()",
+			"contents": "${1:top} = ${2:FontString}:GetTop()$0",
+		},
+		{
+			"trigger": "_FontString:GetWidth\t()",
+			"contents": "${1:width} = ${2:FontString}:GetWidth()$0",
+		},
+		{
+			"trigger": "_FontString:GetWrappedWidth\t()",
+			"contents": "${1:width} = ${2:FontString}:GetWrappedWidth()$0",
+		},
+		{
+			"trigger": "_FontString:IsDragging\t()",
+			"contents": "${1:isDragging} = ${2:FontString}:IsDragging()$0",
+		},
+		{
+			"trigger": "_FontString:IsForbidden\t()",
+			"contents": "${1:isForbidden} = ${2:FontString}:IsForbidden()$0",
+		},
+		{
+			"trigger": "_FontString:IsIgnoringParentAlpha\t()",
+			"contents": "${1:isIgnoring} = ${2:FontString}:IsIgnoringParentAlpha()$0",
+		},
+		{
+			"trigger": "_FontString:IsIgnoringParentScale\t()",
+			"contents": "${1:isIgnoring} = ${2:FontString}:IsIgnoringParentScale()$0",
+		},
+		{
+			"trigger": "_FontString:IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
+			"contents": "${1:isOver} = ${2:FontString}:IsMouseOver(${3:[topOffset]}, ${4:[leftOffset]}, ${5:[bottomOffset]}, ${6:[rightOffset]})$0",
+		},
+		{
+			"trigger": "_FontString:IsObjectLoaded\t()",
+			"contents": "${1:loaded} = ${2:FontString}:IsObjectLoaded()$0",
+		},
+		{
+			"trigger": "_FontString:IsObjectType\t(\"type\")",
+			"contents": "${1:isType} = ${2:FontString}:IsObjectType(\"${3:type}\")$0",
+		},
+		{
+			"trigger": "_FontString:IsProtected\t()",
+			"contents": "${1:isProtected}, ${2:explicit} = ${3:FontString}:IsProtected()$0",
+		},
+		{
+			"trigger": "_FontString:IsShown\t()",
+			"contents": "${1:shown} = ${2:FontString}:IsShown()$0",
+		},
+		{
+			"trigger": "_FontString:IsVisible\t()",
+			"contents": "${1:visible} = ${2:FontString}:IsVisible()$0",
+		},
+		{
+			"trigger": "_FontString:SetFont\t(\"filename\", fontHeight, \"flags\")",
+			"contents": "${1:isValid} = ${2:FontString}:SetFont(\"${3:filename}\", ${4:fontHeight}, \"${5:flags}\")$0",
+		},
+
+
+
+		{
+			"trigger": "_FontString\thelp",
+			"contents": "FontString = {\n\tinherits = {\n\t\t\"FontString\",\n\t\t\"FontInstance\",\n\t\t\"LayeredRegion\",\n\t\t\"VisibleRegion\",\n\t\t\"Region\",\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\tmethods = {\n\t\t\"CanChangeProtectedState\",\n\t\t\"CanNonSpaceWrap\",\n\t\t\"CanWordWrap\",\n\t\t\"ClearAllPoints\",\n\t\t\"CreateAnimationGroup\",\n\t\t\"GetAlpha\",\n\t\t\"GetAnimationGroups\",\n\t\t\"GetBottom\",\n\t\t\"GetCenter\",\n\t\t\"GetDebugName\",\n\t\t\"GetDrawLayer\",\n\t\t\"GetFieldSize\",\n\t\t\"GetFont\",\n\t\t\"GetFontObject\",\n\t\t\"GetHeight\",\n\t\t\"GetIndentedWordWrap\",\n\t\t\"GetJustifyH\",\n\t\t\"GetJustifyV\",\n\t\t\"GetLeft\",\n\t\t\"GetLineHeight\",\n\t\t\"GetMaxLines\",\n\t\t\"GetName\",\n\t\t\"GetNumLines\",\n\t\t\"GetNumPoints\",\n\t\t\"GetObjectType\",\n\t\t\"GetParent\",\n\t\t\"GetPoint\",\n\t\t\"GetRect\",\n\t\t\"GetRight\",\n\t\t\"GetShadowColor\",\n\t\t\"GetShadowOffset\",\n\t\t\"GetSize\",\n\t\t\"GetSpacing\",\n\t\t\"GetStringHeight\",\n\t\t\"GetStringWidth\",\n\t\t\"GetText\",\n\t\t\"GetTextColor\",\n\t\t\"GetTop\",\n\t\t\"GetWidth\",\n\t\t\"GetWrappedWidth\",\n\t\t\"Hide\",\n\t\t\"IsDragging\",\n\t\t\"IsForbidden\",\n\t\t\"IsIgnoringParentAlpha\",\n\t\t\"IsIgnoringParentScale\",\n\t\t\"IsMouseOver\",\n\t\t\"IsObjectLoaded\",\n\t\t\"IsObjectType\",\n\t\t\"IsProtected\",\n\t\t\"IsShown\",\n\t\t\"IsTruncated\",\n\t\t\"IsVisible\",\n\t\t\"SetAllPoints\",\n\t\t\"SetAlpha\",\n\t\t\"SetAlphaGradient\",\n\t\t\"SetDrawLayer\",\n\t\t\"SetFont\",\n\t\t\"SetFontObject\",\n\t\t\"SetFormattedText\",\n\t\t\"SetHeight\",\n\t\t\"SetIgnoreParentAlpha\",\n\t\t\"SetIgnoreParentScale\",\n\t\t\"SetIndentedWordWrap\",\n\t\t\"SetJustifyH\",\n\t\t\"SetJustifyV\",\n\t\t\"SetMaxLines\",\n\t\t\"SetNonSpaceWrap\",\n\t\t\"SetParent\",\n\t\t\"SetPoint\",\n\t\t\"SetShadowColor\",\n\t\t\"SetShadowOffset\",\n\t\t\"SetShown\",\n\t\t\"SetSize\",\n\t\t\"SetSpacing\",\n\t\t\"SetText\",\n\t\t\"SetTextColor\",\n\t\t\"SetTextHeight\",\n\t\t\"SetVertexColor\",\n\t\t\"SetWidth\",\n\t\t\"SetWordWrap\",\n\t\t\"Show\",\n\t\t\"StopAnimating\",\n\t},\n}",
+		},
+	]
+}

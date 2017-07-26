@@ -14,12 +14,12 @@
 			"contents": "${1:VisibleRegion}:CreateAnimationGroup(${2:[\"name\"]}, ${3:[\"inheritsFrom\"]})$0",
 		},
 		{
-			"trigger": "VisibleRegion:GetAnimationGroups\t()",
-			"contents": "${1:VisibleRegion}:GetAnimationGroups()$0",
-		},
-		{
 			"trigger": "VisibleRegion:GetAlpha\t()",
 			"contents": "${1:VisibleRegion}:GetAlpha()$0",
+		},
+		{
+			"trigger": "VisibleRegion:GetAnimationGroups\t()",
+			"contents": "${1:VisibleRegion}:GetAnimationGroups()$0",
 		},
 		{
 			"trigger": "VisibleRegion:GetBottom\t()",
@@ -159,6 +159,10 @@
 		{
 			"trigger": "_VisibleRegion:GetAlpha\t()",
 			"contents": "${1:alpha} = ${2:VisibleRegion}:GetAlpha()$0",
+		},
+		{
+			"trigger": "_VisibleRegion:GetAnimationGroups\t()",
+			"contents": "${1:...} = ${2:VisibleRegion}:GetAnimationGroups()$0",
 		},
 		{
 			"trigger": "_VisibleRegion:GetBottom\t()",

@@ -14,12 +14,12 @@
 			"contents": "${1:LayeredRegion}:CreateAnimationGroup(${2:[\"name\"]}, ${3:[\"inheritsFrom\"]})$0",
 		},
 		{
-			"trigger": "LayeredRegion:GetAnimationGroups\t()",
-			"contents": "${1:LayeredRegion}:GetAnimationGroups()$0",
-		},
-		{
 			"trigger": "LayeredRegion:GetAlpha\t()",
 			"contents": "${1:LayeredRegion}:GetAlpha()$0",
+		},
+		{
+			"trigger": "LayeredRegion:GetAnimationGroups\t()",
+			"contents": "${1:LayeredRegion}:GetAnimationGroups()$0",
 		},
 		{
 			"trigger": "LayeredRegion:GetBottom\t()",
@@ -171,6 +171,10 @@
 		{
 			"trigger": "_LayeredRegion:GetAlpha\t()",
 			"contents": "${1:alpha} = ${2:LayeredRegion}:GetAlpha()$0",
+		},
+		{
+			"trigger": "_LayeredRegion:GetAnimationGroups\t()",
+			"contents": "${1:...} = ${2:LayeredRegion}:GetAnimationGroups()$0",
 		},
 		{
 			"trigger": "_LayeredRegion:GetBottom\t()",

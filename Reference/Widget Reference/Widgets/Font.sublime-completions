@@ -10,10 +10,6 @@
 			"contents": "${1:Font}:GetAlpha()$0",
 		},
 		{
-			"trigger": "Font:GetDebugName\t()",
-			"contents": "${1:Font}:GetDebugName()$0",
-		},
-		{
 			"trigger": "Font:GetFont\t()",
 			"contents": "${1:Font}:GetFont()$0",
 		},
@@ -56,10 +52,6 @@
 		{
 			"trigger": "Font:GetTextColor\t()",
 			"contents": "${1:Font}:GetTextColor()$0",
-		},
-		{
-			"trigger": "Font:IsForbidden\t()",
-			"contents": "${1:Font}:IsForbidden()$0",
 		},
 		{
 			"trigger": "Font:IsObjectType\t()",
@@ -113,10 +105,6 @@
 			"contents": "${1:alpha} = ${2:Font}:GetAlpha()$0",
 		},
 		{
-			"trigger": "_Font:GetDebugName\t()",
-			"contents": "${1:name} = ${2:Font}:GetDebugName()$0",
-		},
-		{
 			"trigger": "_Font:GetFont\t()",
 			"contents": "${1:filename}, ${2:fontHeight}, ${3:flags} = ${4:Font}:GetFont()$0",
 		},
@@ -161,10 +149,6 @@
 			"contents": "${1:textR}, ${2:textG}, ${3:textB}, ${4:textAlpha} = ${5:Font}:GetTextColor()$0",
 		},
 		{
-			"trigger": "_Font:IsForbidden\t()",
-			"contents": "${1:isForbidden} = ${2:Font}:IsForbidden()$0",
-		},
-		{
 			"trigger": "_Font:IsObjectType\t(\"type\")",
 			"contents": "${1:isType} = ${2:Font}:IsObjectType(\"${3:type}\")$0",
 		},
@@ -177,7 +161,7 @@
 
 		{
 			"trigger": "_Font\thelp",
-			"contents": "Font = {\n\tinherits = {\n\t\t\"Font\",\n\t\t\"FontInstance\",\n\t\t\"UIObject\",\n\t},\n\tmethods = {\n\t\t\"CopyFontObject\",\n\t\t\"GetAlpha\",\n\t\t\"GetDebugName\",\n\t\t\"GetFont\",\n\t\t\"GetFontObject\",\n\t\t\"GetIndentedWordWrap\",\n\t\t\"GetJustifyH\",\n\t\t\"GetJustifyV\",\n\t\t\"GetName\",\n\t\t\"GetObjectType\",\n\t\t\"GetShadowColor\",\n\t\t\"GetShadowOffset\",\n\t\t\"GetSpacing\",\n\t\t\"GetTextColor\",\n\t\t\"IsForbidden\",\n\t\t\"IsObjectType\",\n\t\t\"SetAlpha\",\n\t\t\"SetFont\",\n\t\t\"SetFontObject\",\n\t\t\"SetIndentedWordWrap\",\n\t\t\"SetJustifyH\",\n\t\t\"SetJustifyV\",\n\t\t\"SetShadowColor\",\n\t\t\"SetShadowOffset\",\n\t\t\"SetSpacing\",\n\t\t\"SetTextColor\",\n\t},\n}",
+			"contents": "Font = {\n\tinherits = {\n\t\t\"Font\",\n\t\t\"FontInstance\",\n\t\t\"UIObject\",\n\t},\n\tmethods = {\n\t\t\"CopyFontObject\",\n\t\t\"GetAlpha\",\n\t\t\"GetFont\",\n\t\t\"GetFontObject\",\n\t\t\"GetIndentedWordWrap\",\n\t\t\"GetJustifyH\",\n\t\t\"GetJustifyV\",\n\t\t\"GetName\",\n\t\t\"GetObjectType\",\n\t\t\"GetShadowColor\",\n\t\t\"GetShadowOffset\",\n\t\t\"GetSpacing\",\n\t\t\"GetTextColor\",\n\t\t\"IsObjectType\",\n\t\t\"SetAlpha\",\n\t\t\"SetFont\",\n\t\t\"SetFontObject\",\n\t\t\"SetIndentedWordWrap\",\n\t\t\"SetJustifyH\",\n\t\t\"SetJustifyV\",\n\t\t\"SetShadowColor\",\n\t\t\"SetShadowOffset\",\n\t\t\"SetSpacing\",\n\t\t\"SetTextColor\",\n\t},\n}",
 		},
 	]
 }

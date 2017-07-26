@@ -1,0 +1,475 @@
+{
+	"scope": "source.lua",
+	"completions": [
+		{
+			"trigger": "Texture:AddMaskTexture\t(\"texture\")",
+			"contents": "${1:Texture}:AddMaskTexture()$0",
+		},
+		{
+			"trigger": "Texture:CanChangeProtectedState\t()",
+			"contents": "${1:Texture}:CanChangeProtectedState()$0",
+		},
+		{
+			"trigger": "Texture:ClearAllPoints\t()",
+			"contents": "${1:Texture}:ClearAllPoints()$0",
+		},
+		{
+			"trigger": "Texture:CreateAnimationGroup\t([\"name\"], [\"inheritsFrom\"])",
+			"contents": "${1:Texture}:CreateAnimationGroup(${2:[\"name\"]}, ${3:[\"inheritsFrom\"]})$0",
+		},
+		{
+			"trigger": "Texture:GetAlpha\t()",
+			"contents": "${1:Texture}:GetAlpha()$0",
+		},
+		{
+			"trigger": "Texture:GetAnimationGroups\t()",
+			"contents": "${1:Texture}:GetAnimationGroups()$0",
+		},
+		{
+			"trigger": "Texture:GetAtlas\t()",
+			"contents": "${1:Texture}:GetAtlas()$0",
+		},
+		{
+			"trigger": "Texture:GetBlendMode\t()",
+			"contents": "${1:Texture}:GetBlendMode()$0",
+		},
+		{
+			"trigger": "Texture:GetBottom\t()",
+			"contents": "${1:Texture}:GetBottom()$0",
+		},
+		{
+			"trigger": "Texture:GetCenter\t()",
+			"contents": "${1:Texture}:GetCenter()$0",
+		},
+		{
+			"trigger": "Texture:GetDebugName\t()",
+			"contents": "${1:Texture}:GetDebugName()$0",
+		},
+		{
+			"trigger": "Texture:GetDesaturation\t()",
+			"contents": "${1:Texture}:GetDesaturation()$0",
+		},
+		{
+			"trigger": "Texture:GetDrawLayer\t()",
+			"contents": "${1:Texture}:GetDrawLayer()$0",
+		},
+		{
+			"trigger": "Texture:GetHeight\t()",
+			"contents": "${1:Texture}:GetHeight()$0",
+		},
+		{
+			"trigger": "Texture:GetHorizTile\t()",
+			"contents": "${1:Texture}:GetHorizTile()$0",
+		},
+		{
+			"trigger": "Texture:GetLeft\t()",
+			"contents": "${1:Texture}:GetLeft()$0",
+		},
+		{
+			"trigger": "Texture:GetName\t()",
+			"contents": "${1:Texture}:GetName()$0",
+		},
+		{
+			"trigger": "Texture:GetNonBlocking\t()",
+			"contents": "${1:Texture}:GetNonBlocking()$0",
+		},
+		{
+			"trigger": "Texture:GetNumPoints\t()",
+			"contents": "${1:Texture}:GetNumPoints()$0",
+		},
+		{
+			"trigger": "Texture:GetObjectType\t()",
+			"contents": "${1:Texture}:GetObjectType()$0",
+		},
+		{
+			"trigger": "Texture:GetParent\t()",
+			"contents": "${1:Texture}:GetParent()$0",
+		},
+		{
+			"trigger": "Texture:GetPoint\t(index)",
+			"contents": "${1:Texture}:GetPoint(${2:index})$0",
+		},
+		{
+			"trigger": "Texture:GetRect\t()",
+			"contents": "${1:Texture}:GetRect()$0",
+		},
+		{
+			"trigger": "Texture:GetRight\t()",
+			"contents": "${1:Texture}:GetRight()$0",
+		},
+		{
+			"trigger": "Texture:GetSize\t()",
+			"contents": "${1:Texture}:GetSize()$0",
+		},
+		{
+			"trigger": "Texture:GetTexCoord\t()",
+			"contents": "${1:Texture}:GetTexCoord()$0",
+		},
+		{
+			"trigger": "Texture:GetTexture\t()",
+			"contents": "${1:Texture}:GetTexture()$0",
+		},
+		{
+			"trigger": "Texture:GetTop\t()",
+			"contents": "${1:Texture}:GetTop()$0",
+		},
+		{
+			"trigger": "Texture:GetVertexColor\t()",
+			"contents": "${1:Texture}:GetVertexColor()$0",
+		},
+		{
+			"trigger": "Texture:GetVertexOffset\t(vertexIndex)",
+			"contents": "${1:Texture}:GetVertexOffset(${2:vertexIndex})$0",
+		},
+		{
+			"trigger": "Texture:GetVertTile\t()",
+			"contents": "${1:Texture}:GetVertTile()$0",
+		},
+		{
+			"trigger": "Texture:GetWidth\t()",
+			"contents": "${1:Texture}:GetWidth()$0",
+		},
+		{
+			"trigger": "Texture:Hide\t()",
+			"contents": "${1:Texture}:Hide()$0",
+		},
+		{
+			"trigger": "Texture:IsDesaturated\t()",
+			"contents": "${1:Texture}:IsDesaturated()$0",
+		},
+		{
+			"trigger": "Texture:IsDragging\t()",
+			"contents": "${1:Texture}:IsDragging()$0",
+		},
+		{
+			"trigger": "Texture:IsForbidden\t()",
+			"contents": "${1:Texture}:IsForbidden()$0",
+		},
+		{
+			"trigger": "Texture:IsIgnoringParentAlpha\t()",
+			"contents": "${1:Texture}:IsIgnoringParentAlpha()$0",
+		},
+		{
+			"trigger": "Texture:IsIgnoringParentScale\t()",
+			"contents": "${1:Texture}:IsIgnoringParentScale()$0",
+		},
+		{
+			"trigger": "Texture:IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
+			"contents": "${1:Texture}:IsMouseOver(${2:[topOffset]}, ${3:[leftOffset]}, ${4:[bottomOffset]}, ${5:[rightOffset]})$0",
+		},
+		{
+			"trigger": "Texture:IsObjectLoaded\t()",
+			"contents": "${1:Texture}:IsObjectLoaded()$0",
+		},
+		{
+			"trigger": "Texture:IsObjectType\t()",
+			"contents": "${1:Texture}:IsObjectType()$0",
+		},
+		{
+			"trigger": "Texture:IsProtected\t()",
+			"contents": "${1:Texture}:IsProtected()$0",
+		},
+		{
+			"trigger": "Texture:IsShown\t()",
+			"contents": "${1:Texture}:IsShown()$0",
+		},
+		{
+			"trigger": "Texture:IsVisible\t()",
+			"contents": "${1:Texture}:IsVisible()$0",
+		},
+		{
+			"trigger": "Texture:RemoveMaskTexture\t(\"texture\")",
+			"contents": "${1:Texture}:RemoveMaskTexture(${2:\"texture\"})$0",
+		},
+		{
+			"trigger": "Texture:SetAllPoints\t([frame])",
+			"contents": "${1:Texture}:SetAllPoints(${2:[frame]})$0",
+		},
+		{
+			"trigger": "Texture:SetAlpha\t(alpha)",
+			"contents": "${1:Texture}:SetAlpha(${2:alpha})$0",
+		},
+		{
+			"trigger": "Texture:SetAtlas\t(\"texture\", useAtlasSize)",
+			"contents": "${1:Texture}:SetAtlas(${2:\"texture\"}, ${3:useAtlasSize})$0",
+		},
+		{
+			"trigger": "Texture:SetBlendMode\t(\"mode\")",
+			"contents": "${1:Texture}:SetBlendMode(${2:\"mode\"})$0",
+		},
+		{
+			"trigger": "Texture:SetColorTexture\t(red, green, blue, [alpha])",
+			"contents": "${1:Texture}:SetColorTexture(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+		},
+		{
+			"trigger": "Texture:SetDesaturated\t(enable)",
+			"contents": "${1:Texture}:SetDesaturated(${2:enable})$0",
+		},
+		{
+			"trigger": "Texture:SetDesaturation\t(enable)",
+			"contents": "${1:Texture}:SetDesaturation(${2:enable})$0",
+		},
+		{
+			"trigger": "Texture:SetDrawLayer\t(\"layer\", sublayer)",
+			"contents": "${1:Texture}:SetDrawLayer(\"${2:layer}\", ${3:sublayer})$0",
+		},
+		{
+			"trigger": "Texture:SetGradient\t(\"orientation\", startR, startG, startB, endR, endG, endB)",
+			"contents": "${1:Texture}:SetGradient(\"${2:orientation}\", ${3:startR}, ${4:startG}, ${5:startB}, ${6:endR}, ${7:endG}, ${8:endB})$0",
+		},
+		{
+			"trigger": "Texture:SetGradientAlpha\t(\"orientation\", startR, startG, startB, startAlpha, endR, endG, endB, endAlpha)",
+			"contents": "${1:Texture}:SetGradientAlpha(\"${2:orientation}\", ${3:startR}, ${4:startG}, ${5:startB}, ${6:startAlpha}, ${7:endR}, ${8:endG}, ${9:endB}, ${10:endAlpha})$0",
+		},
+		{
+			"trigger": "Texture:SetHeight\t(height)",
+			"contents": "${1:Texture}:SetHeight(${2:height})$0",
+		},
+		{
+			"trigger": "Texture:SetHorizTile\t(enable)",
+			"contents": "${1:Texture}:SetHorizTile(${2:enable})$0",
+		},
+		{
+			"trigger": "Texture:SetIgnoreParentAlpha\t(enable)",
+			"contents": "${1:Texture}:SetIgnoreParentAlpha(${2:enable})$0",
+		},
+		{
+			"trigger": "Texture:SetIgnoreParentScale\t(enable)",
+			"contents": "${1:Texture}:SetIgnoreParentScale(${2:enable})$0",
+		},
+		{
+			"trigger": "Texture:SetMask\t(\"texture\")",
+			"contents": "${1:Texture}:SetMask(${2:\"texture\"})$0",
+		},
+		{
+			"trigger": "Texture:SetNonBlocking\t(nonBlocking)",
+			"contents": "${1:Texture}:SetNonBlocking(${2:nonBlocking})$0",
+		},
+		{
+			"trigger": "Texture:SetParent\t(frame)",
+			"contents": "${1:Texture}:SetParent(${2:frame})$0",
+		},
+		{
+			"trigger": "Texture:SetPoint\t(\"point\", [relativeTo], [\"relativePoint\"], [xOffset], [yOffset])",
+			"contents": "${1:Texture}:SetPoint(\"${2:point}\", ${3:[relativeTo]}, \"${4:[relativePoint]}\", ${5:[xOffset]}, ${6:[yOffset]})$0",
+		},
+		{
+			"trigger": "Texture:SetRotation\t(radians)",
+			"contents": "${1:Texture}:SetRotation(${2:radians})$0",
+		},
+		{
+			"trigger": "Texture:SetShown\t(enable)",
+			"contents": "${1:Texture}:SetShown(${2:enable})$0",
+		},
+		{
+			"trigger": "Texture:SetSize\t(width, height)",
+			"contents": "${1:Texture}:SetSize(${2:width}, ${3:height})$0",
+		},
+		{
+			"trigger": "Texture:SetTexCoord\t(left, right, top, bottom)",
+			"contents": "${1:Texture}:SetTexCoord(${2:left}, ${3:right}, ${4:top}, ${5:bottom})$0",
+		},
+		{
+			"trigger": "Texture:SetTexCoord\t(ULx, ULy, LLx, LLy, URx, URy, LRx, LRy)",
+			"contents": "${1:Texture}:SetTexCoord(${2:ULx}, ${3:ULy}, ${4:LLx}, ${5:LLy}, ${6:URx}, ${7:URy}, ${8:LRx}, ${9:LRy})$0",
+		},
+		{
+			"trigger": "Texture:SetTexture\t(red, green, blue, [alpha])",
+			"contents": "${1:Texture}:SetTexture(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+		},
+		{
+			"trigger": "Texture:SetTexture\t(\"texture\")",
+			"contents": "${1:Texture}:SetTexture(\"${2:texture}\")$0",
+		},
+		{
+			"trigger": "Texture:SetVertexColor\t(red, green, blue, [alpha])",
+			"contents": "${1:Texture}:SetVertexColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+		},
+		{
+			"trigger": "Texture:SetVertexOffset\t(vertexIndex, x, y)",
+			"contents": "${1:Texture}:SetVertexOffset(${2:vertexIndex}, ${3:x}, ${4:y})$0",
+		},
+		{
+			"trigger": "Texture:SetVertTile\t(enable)",
+			"contents": "${1:Texture}:SetVertTile(${2:enable})$0",
+		},
+		{
+			"trigger": "Texture:SetWidth\t(width)",
+			"contents": "${1:Texture}:SetWidth(${2:width})$0",
+		},
+		{
+			"trigger": "Texture:Show\t()",
+			"contents": "${1:Texture}:Show()$0",
+		},
+		{
+			"trigger": "Texture:StopAnimating\t()",
+			"contents": "${1:Texture}:StopAnimating()$0",
+		},
+
+
+
+		{
+			"trigger": "_Texture:CanChangeProtectedState\t()",
+			"contents": "${1:canChange} = ${2:Texture}:CanChangeProtectedState()$0",
+		},
+		{
+			"trigger": "_Texture:GetAlpha\t()",
+			"contents": "${1:alpha} = ${2:Texture}:GetAlpha()$0",
+		},
+		{
+			"trigger": "_Texture:GetAnimationGroups\t()",
+			"contents": "${1:...} = ${2:Texture}:GetAnimationGroups()$0",
+		},
+		{
+			"trigger": "_Texture:GetAtlas\t()",
+			"contents": "${1:atlasFile} = ${2:Texture}:GetAtlas()$0",
+		},
+		{
+			"trigger": "_Texture:GetBlendMode\t()",
+			"contents": "${1:mode} = ${2:Texture}:GetBlendMode()$0",
+		},
+		{
+			"trigger": "_Texture:GetBottom\t()",
+			"contents": "${1:bottom} = ${2:Texture}:GetBottom()$0",
+		},
+		{
+			"trigger": "_Texture:GetCenter\t()",
+			"contents": "${1:x}, ${2:y} = ${3:Texture}:GetCenter()$0",
+		},
+		{
+			"trigger": "_Texture:GetDebugName\t()",
+			"contents": "${1:name} = ${2:Texture}:GetDebugName()$0",
+		},
+		{
+			"trigger": "_Texture:GetDesaturation\t()",
+			"contents": "${1:desaturated} = ${2:Texture}:GetDesaturation()$0",
+		},
+		{
+			"trigger": "_Texture:GetDrawLayer\t()",
+			"contents": "${1:layer}, ${2:sublayer} = ${3:Texture}:GetDrawLayer()$0",
+		},
+		{
+			"trigger": "_Texture:GetHeight\t()",
+			"contents": "${1:height} = ${2:Texture}:GetHeight()$0",
+		},
+		{
+			"trigger": "_Texture:GetHorizTile\t()",
+			"contents": "${1:enabled} = ${2:Texture}:GetHorizTile()$0",
+		},
+		{
+			"trigger": "_Texture:GetLeft\t()",
+			"contents": "${1:left} = ${2:Texture}:GetLeft()$0",
+		},
+		{
+			"trigger": "_Texture:GetName\t()",
+			"contents": "${1:name} = ${2:Texture}:GetName()$0",
+		},
+		{
+			"trigger": "_Texture:GetNonBlocking\t()",
+			"contents": "${1:nonBlocking} = ${2:Texture}:GetNonBlocking()$0",
+		},
+		{
+			"trigger": "_Texture:GetNumPoints\t()",
+			"contents": "${1:numPoints} = ${2:Texture}:GetNumPoints()$0",
+		},
+		{
+			"trigger": "_Texture:GetObjectType\t()",
+			"contents": "${1:type} = ${2:Texture}:GetObjectType()$0",
+		},
+		{
+			"trigger": "_Texture:GetPoint\t(index)",
+			"contents": "${1:point}, ${2:relativeTo}, ${3:relativePoint}, ${4:xOffset}, ${5:yOffset} = ${6:Texture}:GetPoint(${7:index})$0",
+		},
+		{
+			"trigger": "_Texture:GetRect\t()",
+			"contents": "${1:left}, ${2:bottom}, ${3:width}, ${4:height} = ${5:Texture}:GetRect()$0",
+		},
+		{
+			"trigger": "_Texture:GetRight\t()",
+			"contents": "${1:right} = ${2:Texture}:GetRight()$0",
+		},
+		{
+			"trigger": "_Texture:GetSize\t()",
+			"contents": "${1:width}, ${2:height} = ${3:Texture}:GetSize()$0",
+		},
+		{
+			"trigger": "_Texture:GetTexCoord\t()",
+			"contents": "${1:ULx}, ${2:ULy}, ${3:LLx}, ${4:LLy}, ${5:URx}, ${6:URy}, ${7:LRx}, ${8:LRy} = ${9:Texture}:GetTexCoord()$0",
+		},
+		{
+			"trigger": "_Texture:GetTexture\t()",
+			"contents": "${1:texture} = ${2:Texture}:GetTexture()$0",
+		},
+		{
+			"trigger": "_Texture:GetTop\t()",
+			"contents": "${1:top} = ${2:Texture}:GetTop()$0",
+		},
+		{
+			"trigger": "_Texture:GetVertexColor\t()",
+			"contents": "${1:red}, ${2:green}, ${3:blue}, ${4:alpha} = ${5:Texture}:GetVertexColor()$0",
+		},
+		{
+			"trigger": "_Texture:GetVertexOffset\t(vertexIndex)",
+			"contents": "${1:x}, ${2:y} = ${3:Texture}:GetVertexOffset(${4:vertexIndex})$0",
+		},
+		{
+			"trigger": "_Texture:GetVertTile\t()",
+			"contents": "${1:enabled} = ${2:Texture}:GetVertTile()$0",
+		},
+		{
+			"trigger": "_Texture:GetWidth\t()",
+			"contents": "${1:width} = ${2:Texture}:GetWidth()$0",
+		},
+		{
+			"trigger": "_Texture:IsDesaturated\t()",
+			"contents": "${1:desaturated} = ${2:Texture}:IsDesaturated()$0",
+		},
+		{
+			"trigger": "_Texture:IsDragging\t()",
+			"contents": "${1:isDragging} = ${2:Texture}:IsDragging()$0",
+		},
+		{
+			"trigger": "_Texture:IsForbidden\t()",
+			"contents": "${1:isForbidden} = ${2:Texture}:IsForbidden()$0",
+		},
+		{
+			"trigger": "_Texture:IsIgnoringParentAlpha\t()",
+			"contents": "${1:isIgnoring} = ${2:Texture}:IsIgnoringParentAlpha()$0",
+		},
+		{
+			"trigger": "_Texture:IsIgnoringParentScale\t()",
+			"contents": "${1:isIgnoring} = ${2:Texture}:IsIgnoringParentScale()$0",
+		},
+		{
+			"trigger": "_Texture:IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
+			"contents": "${1:isOver} = ${2:Texture}:IsMouseOver(${3:[topOffset]}, ${4:[leftOffset]}, ${5:[bottomOffset]}, ${6:[rightOffset]})$0",
+		},
+		{
+			"trigger": "_Texture:IsObjectLoaded\t()",
+			"contents": "${1:loaded} = ${2:Texture}:IsObjectLoaded()$0",
+		},
+		{
+			"trigger": "_Texture:IsObjectType\t(\"type\")",
+			"contents": "${1:isType} = ${2:Texture}:IsObjectType(\"${3:type}\")$0",
+		},
+		{
+			"trigger": "_Texture:IsProtected\t()",
+			"contents": "${1:isProtected}, ${2:explicit} = ${3:Texture}:IsProtected()$0",
+		},
+		{
+			"trigger": "_Texture:IsShown\t()",
+			"contents": "${1:shown} = ${2:Texture}:IsShown()$0",
+		},
+		{
+			"trigger": "_Texture:IsVisible\t()",
+			"contents": "${1:visible} = ${2:Texture}:IsVisible()$0",
+		},
+
+
+
+		{
+			"trigger": "_Texture\thelp",
+			"contents": "Texture = {\n\tinherits = {\n\t\t\"Texture\",\n\t\t\"LayeredRegion\",\n\t\t\"VisibleRegion\",\n\t\t\"Region\",\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\tmethods = {\n\t\t\"AddMaskTexture\",\n\t\t\"CanChangeProtectedState\",\n\t\t\"ClearAllPoints\",\n\t\t\"CreateAnimationGroup\",\n\t\t\"GetAlpha\",\n\t\t\"GetAnimationGroups\",\n\t\t\"GetAtlas\",\n\t\t\"GetBlendMode\",\n\t\t\"GetBottom\",\n\t\t\"GetCenter\",\n\t\t\"GetDebugName\",\n\t\t\"GetDesaturation\",\n\t\t\"GetDrawLayer\",\n\t\t\"GetHeight\",\n\t\t\"GetHorizTile\",\n\t\t\"GetLeft\",\n\t\t\"GetName\",\n\t\t\"GetNonBlocking\",\n\t\t\"GetNumPoints\",\n\t\t\"GetObjectType\",\n\t\t\"GetParent\",\n\t\t\"GetPoint\",\n\t\t\"GetRect\",\n\t\t\"GetRight\",\n\t\t\"GetSize\",\n\t\t\"GetTexCoord\",\n\t\t\"GetTexture\",\n\t\t\"GetTop\",\n\t\t\"GetVertexColor\",\n\t\t\"GetVertexOffset\",\n\t\t\"GetVertTile\",\n\t\t\"GetWidth\",\n\t\t\"Hide\",\n\t\t\"IsDesaturated\",\n\t\t\"IsDragging\",\n\t\t\"IsForbidden\",\n\t\t\"IsIgnoringParentAlpha\",\n\t\t\"IsIgnoringParentScale\",\n\t\t\"IsMouseOver\",\n\t\t\"IsObjectLoaded\",\n\t\t\"IsObjectType\",\n\t\t\"IsProtected\",\n\t\t\"IsShown\",\n\t\t\"IsVisible\",\n\t\t\"RemoveMaskTexture\",\n\t\t\"SetAllPoints\",\n\t\t\"SetAlpha\",\n\t\t\"SetAtlas\",\n\t\t\"SetBlendMode\",\n\t\t\"SetColorTexture\",\n\t\t\"SetDesaturated\",\n\t\t\"SetDesaturation\",\n\t\t\"SetDrawLayer\",\n\t\t\"SetGradient\",\n\t\t\"SetGradientAlpha\",\n\t\t\"SetHeight\",\n\t\t\"SetHorizTile\",\n\t\t\"SetIgnoreParentAlpha\",\n\t\t\"SetIgnoreParentScale\",\n\t\t\"SetMask\",\n\t\t\"SetNonBlocking\",\n\t\t\"SetParent\",\n\t\t\"SetPoint\",\n\t\t\"SetRotation\",\n\t\t\"SetShown\",\n\t\t\"SetSize\",\n\t\t\"SetTexCoord\",\n\t\t\"SetTexture\",\n\t\t\"SetVertexColor\",\n\t\t\"SetVertexOffset\",\n\t\t\"SetVertTile\",\n\t\t\"SetWidth\",\n\t\t\"Show\",\n\t\t\"StopAnimating\",\n\t},\n}",
+		},
+	]
+}

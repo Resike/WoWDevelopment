@@ -662,54 +662,6 @@
 			"contents": "Finish()$0",
 		},
 		{
-			"trigger": "FontString:CanNonSpaceWrap\t()",
-			"contents": "${1:FontString}:CanNonSpaceWrap()$0",
-		},
-		{
-			"trigger": "FontString:CanWordWrap\t()",
-			"contents": "${1:FontString}:CanWordWrap()$0",
-		},
-		{
-			"trigger": "FontString:GetStringHeight\t()",
-			"contents": "${1:FontString}:GetStringHeight()$0",
-		},
-		{
-			"trigger": "FontString:GetStringWidth\t()",
-			"contents": "${1:FontString}:GetStringWidth()$0",
-		},
-		{
-			"trigger": "FontString:GetText\t()",
-			"contents": "${1:FontString}:GetText()$0",
-		},
-		{
-			"trigger": "FontString:IsTruncated\t()",
-			"contents": "${1:FontString}:IsTruncated()$0",
-		},
-		{
-			"trigger": "FontString:SetAlphaGradient\t(start, length)",
-			"contents": "${1:FontString}:SetAlphaGradient(${2:start}, ${3:length})$0",
-		},
-		{
-			"trigger": "FontString:SetFormattedText\t(\"formatString\", ...)",
-			"contents": "${1:FontString}:SetFormattedText(\"${2:formatString}\", ${3:...})$0",
-		},
-		{
-			"trigger": "FontString:SetNonSpaceWrap\t(enable)",
-			"contents": "${1:FontString}:SetNonSpaceWrap(${2:enable})$0",
-		},
-		{
-			"trigger": "FontString:SetText\t(\"text\")",
-			"contents": "${1:FontString}:SetText(\"${2:text}\")$0",
-		},
-		{
-			"trigger": "FontString:SetTextHeight\t(height)",
-			"contents": "${1:FontString}:SetTextHeight(${2:height})$0",
-		},
-		{
-			"trigger": "FontString:SetWordWrap\t(enable)",
-			"contents": "${1:FontString}:SetWordWrap(${2:enable})$0",
-		},
-		{
 			"trigger": "Frame:AllowAttributeChanges\t()",
 			"contents": "${1:Frame}:AllowAttributeChanges()$0",
 		},
@@ -3698,70 +3650,6 @@
 			"contents": "${1:TabardModel}:Save()$0",
 		},
 		{
-			"trigger": "Texture:GetBlendMode\t()",
-			"contents": "${2:Texture}:GetBlendMode()$0",
-		},
-		{
-			"trigger": "Texture:GetNonBlocking\t()",
-			"contents": "${2:Texture}:GetNonBlocking()$0",
-		},
-		{
-			"trigger": "Texture:GetTexCoord\t()",
-			"contents": "${9:Texture}:GetTexCoord()$0",
-		},
-		{
-			"trigger": "Texture:GetTexture\t()",
-			"contents": "${2:Texture}:GetTexture()$0",
-		},
-		{
-			"trigger": "Texture:GetVertexColor\t()",
-			"contents": "${5:Texture}:GetVertexColor()$0",
-		},
-		{
-			"trigger": "Texture:IsDesaturated\t()",
-			"contents": "${2:Texture}:IsDesaturated()$0",
-		},
-		{
-			"trigger": "Texture:SetBlendMode\t(\"mode\")",
-			"contents": "${1:Texture}:SetBlendMode(${2:\"mode\"})$0",
-		},
-		{
-			"trigger": "Texture:SetDesaturated\t(desaturate)",
-			"contents": "${2:Texture}:SetDesaturated(${3:desaturate})$0",
-		},
-		{
-			"trigger": "Texture:SetGradient\t(\"orientation\", startR, startG, startB, endR, endG, endB)",
-			"contents": "${1:Texture}:SetGradient(\"${2:orientation}\", ${3:startR}, ${4:startG}, ${5:startB}, ${6:endR}, ${7:endG}, ${8:endB})$0",
-		},
-		{
-			"trigger": "Texture:SetGradientAlpha\t(\"orientation\", startR, startG, startB, startAlpha, endR, endG, endB, endAlpha)",
-			"contents": "${1:Texture}:SetGradientAlpha(\"${2:orientation}\", ${3:startR}, ${4:startG}, ${5:startB}, ${6:startAlpha}, ${7:endR}, ${8:endG}, ${9:endB}, ${10:endAlpha})$0",
-		},
-		{
-			"trigger": "Texture:SetNonBlocking\t(nonBlocking)",
-			"contents": "${1:Texture}:SetNonBlocking(${2:nonBlocking})$0",
-		},
-		{
-			"trigger": "Texture:SetRotation\t(radians)",
-			"contents": "${1:Texture}:SetRotation(${2:radians})$0",
-		},
-		{
-			"trigger": "Texture:SetTexCoord\t(left, right, top, bottom)",
-			"contents": "${1:Texture}:SetTexCoord(${2:left}, ${3:right}, ${4:top}, ${5:bottom})$0",
-		},
-		{
-			"trigger": "Texture:SetTexCoord\t(ULx, ULy, LLx, LLy, URx, URy, LRx, LRy)",
-			"contents": "${1:Texture}:SetTexCoord(${2:ULx}, ${3:ULy}, ${4:LLx}, ${5:LLy}, ${6:URx}, ${7:URy}, ${8:LRx}, ${9:LRy})$0",
-		},
-		{
-			"trigger": "Texture:SetTexture\t(red, green, blue, [alpha])",
-			"contents": "${2:Texture}:SetTexture(${3:red}, ${4:green}, ${5:blue}, ${6:[alpha]})$0",
-		},
-		{
-			"trigger": "Texture:SetTexture\t(\"texture\")",
-			"contents": "${2:Texture}:SetTexture(\"${3:texture}\")$0",
-		},
-		{
 			"trigger": "ToggleInputLanguage\t()",
 			"contents": "ToggleInputLanguage()$0",
 		},
@@ -3776,18 +3664,6 @@
 		{
 			"trigger": "TryOn\t(\"itemName\")",
 			"contents": "TryOn(\"${2:itemName}\")$0",
-		},
-		{
-			"trigger": "UIObject:GetName\t()",
-			"contents": "${2:UIObject}:GetName()$0",
-		},
-		{
-			"trigger": "UIObject:GetObjectType\t()",
-			"contents": "${2:UIObject}:GetObjectType()$0",
-		},
-		{
-			"trigger": "UIObject:IsObjectType\t(\"type\")",
-			"contents": "${2:UIObject}:IsObjectType(\"${3:type}\")$0",
 		},
 		{
 			"trigger": "Undress\t()",
@@ -3991,26 +3867,6 @@
 		{
 			"trigger": "_EditBox:IsPassword\t()",
 			"contents": "${1:enabled} = ${2:EditBox}:IsPassword()$0",
-		},
-		{
-			"trigger": "_FontString:CanNonSpaceWrap\t()",
-			"contents": "${1:enabled} = ${2:FontString}:CanNonSpaceWrap()$0",
-		},
-		{
-			"trigger": "_FontString:CanWordWrap\t()",
-			"contents": "${1:enabled} = ${2:FontString}:CanWordWrap()$0",
-		},
-		{
-			"trigger": "_FontString:GetStringHeight\t()",
-			"contents": "${1:height} = ${2:FontString}:GetStringHeight()$0",
-		},
-		{
-			"trigger": "_FontString:GetStringWidth\t()",
-			"contents": "${1:width} = ${2:FontString}:GetStringWidth()$0",
-		},
-		{
-			"trigger": "_FontString:GetText\t()",
-			"contents": "${1:text} = ${2:FontString}:GetText()$0",
 		},
 		{
 			"trigger": "_Frame:CanChangeAttribute\t()",
@@ -4423,54 +4279,6 @@
 		{
 			"trigger": "_TabardModel:CanSaveTabardNow\t()",
 			"contents": "${1:enabled} = ${2:TabardModel}:CanSaveTabardNow()$0",
-		},
-		{
-			"trigger": "_Texture:GetBlendMode\t()",
-			"contents": "${1:mode} = ${2:Texture}:GetBlendMode()$0",
-		},
-		{
-			"trigger": "_Texture:GetNonBlocking\t()",
-			"contents": "${1:nonBlocking} = ${2:Texture}:GetNonBlocking()$0",
-		},
-		{
-			"trigger": "_Texture:GetTexCoord\t()",
-			"contents": "${1:ULx}, ${2:ULy}, ${3:LLx}, ${4:LLy}, ${5:URx}, ${6:URy}, ${7:LRx}, ${8:LRy} = ${9:Texture}:GetTexCoord()$0",
-		},
-		{
-			"trigger": "_Texture:GetTexture\t()",
-			"contents": "${1:texture} = ${2:Texture}:GetTexture()$0",
-		},
-		{
-			"trigger": "_Texture:GetVertexColor\t()",
-			"contents": "${1:red}, ${2:green}, ${3:blue}, ${4:alpha} = ${5:Texture}:GetVertexColor()$0",
-		},
-		{
-			"trigger": "_Texture:IsDesaturated\t()",
-			"contents": "${1:desaturated} = ${2:Texture}:IsDesaturated()$0",
-		},
-		{
-			"trigger": "_Texture:SetDesaturated\t(desaturate)",
-			"contents": "${1:supported} = ${2:Texture}:SetDesaturated(${3:desaturate})$0",
-		},
-		{
-			"trigger": "_Texture:SetTexture\t(red, green, blue, [alpha])",
-			"contents": "${1:visible} = ${2:Texture}:SetTexture(${3:red}, ${4:green}, ${5:blue}, ${6:[alpha]})$0",
-		},
-		{
-			"trigger": "_Texture:SetTexture\t(\"texture\")",
-			"contents": "${1:visible} = ${2:Texture}:SetTexture(\"${3:texture}\")$0",
-		},
-		{
-			"trigger": "_UIObject:GetName\t()",
-			"contents": "${1:name} = ${2:UIObject}:GetName()$0",
-		},
-		{
-			"trigger": "_UIObject:GetObjectType\t()",
-			"contents": "${1:type} = ${2:UIObject}:GetObjectType()$0",
-		},
-		{
-			"trigger": "_UIObject:IsObjectType\t(\"type\")",
-			"contents": "${1:isType} = ${2:UIObject}:IsObjectType(\"${3:type}\")$0",
 		},
 	]
 }
