@@ -385,16 +385,16 @@
 			"contents": "function(${1:self})\n\t${2:}\nend$0",
 		},
 		{
+			"trigger": "_OnEnter\t(self, motion)",
+			"contents": "function(${1:self}, ${2:motion})\n\t${3:}\nend$0",
+		},
+		{
 			"trigger": "_OnEnterPressed\t(self)",
 			"contents": "function(${1:self})\n\t${2:}\nend$0",
 		},
 		{
 			"trigger": "_OnError\t(self, msg)",
 			"contents": "function(${1:self}, ${2:msg})\n\t${3:}\nend$0",
-		},
-		{
-			"trigger": "_OnEnter\t(self, motion)",
-			"contents": "function(${1:self}, ${2:motion})\n\t${3:}\nend$0",
 		},
 		{
 			"trigger": "_OnEscapePressed\t(self)",

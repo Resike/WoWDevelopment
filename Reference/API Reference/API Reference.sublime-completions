@@ -1682,12 +1682,48 @@
 			"contents": "FillLocalizedClassList(${1:table}, ${2:[female]})$0",
 		},
 		{
+			"trigger": "FindBaseSpellNameByName\t(\"name\")",
+			"contents": "FindBaseSpellNameByName(\"${1:name}\")$0",
+		},
+		{
+			"trigger": "FindFlyoutSlotBySpellID\t(spellID)",
+			"contents": "FindFlyoutSlotBySpellID(${1:spellID})$0",
+		},
+		{
+			"trigger": "FindInTableIf\t(table, condition)",
+			"contents": "FindInTableIf(${1:table}, ${2:condition})$0",
+		},
+		{
+			"trigger": "FindSpellBookSlotBySpellID\t(spellID, isPet)",
+			"contents": "FindSpellBookSlotBySpellID(${1:spellID}, ${2:[isPet]})$0",
+		},
+		{
+			"trigger": "FindSpellOverrideNameByName\t(\"name\")",
+			"contents": "FindSpellOverrideNameByName(\"${1:name}\")$0",
+		},
+		{
 			"trigger": "FlagTutorial\t(\"tutorial\")",
 			"contents": "FlagTutorial(\"${1:tutorial}\")$0",
 		},
 		{
+			"trigger": "FlashClientIcon\t()",
+			"contents": "FlashClientIcon()$0",
+		},
+		{
 			"trigger": "FlipCameraYaw\t(degrees)",
 			"contents": "FlipCameraYaw(${1:degrees})$0",
+		},
+		{
+			"trigger": "FlyoutHasSpell\t(flyoutID, spellID)",
+			"contents": "FlyoutHasSpell(${1:flyoutID}, ${2:spellID})$0",
+		},
+		{
+			"trigger": "FocusUnit\t(\"name\")",
+			"contents": "FocusUnit(\"${1:name}\")$0",
+		},
+		{
+			"trigger": "FocusUnit\t(\"unit\")",
+			"contents": "FocusUnit(\"${1:unit}\")$0",
 		},
 		{
 			"trigger": "FollowUnit\t(\"name\", [strict])",
@@ -1698,12 +1734,48 @@
 			"contents": "FollowUnit(\"${1:unit}\")$0",
 		},
 		{
+			"trigger": "ForceGossip\t()",
+			"contents": "ForceGossip()$0",
+		},
+		{
+			"trigger": "ForceLogout\t()",
+			"contents": "ForceLogout()$0",
+		},
+		{
 			"trigger": "ForceQuit\t()",
 			"contents": "ForceQuit()$0",
 		},
 		{
+			"trigger": "FormatLargeNumber\t(value)",
+			"contents": "FormatLargeNumber(${1:value})$0",
+		},
+		{
+			"trigger": "FormatPaperDollTooltipStat\t(\"name\", base, posBuff, negBuff)",
+			"contents": "FormatPaperDollTooltipStat(\"${1:name}\", ${2:base}, ${3:posBuff}, ${4:negBuff})$0",
+		},
+		{
+			"trigger": "FormatPercentage\t(percentage, roundToNearestInteger)",
+			"contents": "FormatPercentage(${1:percentage}, ${2:roundToNearestInteger})$0",
+		},
+		{
+			"trigger": "FormatProfession\t(frame, index)",
+			"contents": "FormatProfession(${1:frame}, ${2:index})$0",
+		},
+		{
+			"trigger": "FormatShortDate\t(day, month, year)",
+			"contents": "FormatShortDate(${1:day}, ${2:month}, ${3:year})$0",
+		},
+		{
+			"trigger": "FrameDeltaLerp\t(startValue, endValue, amount)",
+			"contents": "FrameDeltaLerp(${1:startValue}, ${2:endValue}, ${3:amount})$0",
+		},
+		{
 			"trigger": "FrameXML_Debug\t(enable)",
 			"contents": "FrameXML_Debug(${1:enable})$0",
+		},
+		{
+			"trigger": "FreeTimerTrackerTimer\t(timer)",
+			"contents": "FreeTimerTrackerTimer(${1:timer})$0",
 		},
 		{
 			"trigger": "GameMovieFinished\t()",
@@ -7691,6 +7763,54 @@
 		{
 			"trigger": "_EquipmentSetContainsLockedItems\t(\"name\")",
 			"contents": "${1:isLocked} = EquipmentSetContainsLockedItems(\"${2:name}\")$0",
+		},
+		{
+			"trigger": "_FindBaseSpellNameByName\t(\"name\")",
+			"contents": "${1:baseSpellName} = FindBaseSpellNameByName(\"${2:name}\")$0",
+		},
+		{
+			"trigger": "_FindFlyoutSlotBySpellID\t(spellID)",
+			"contents": "${1:flyoutSlot} = FindFlyoutSlotBySpellID(${2:spellID})$0",
+		},
+		{
+			"trigger": "_FindInTableIf\t(table, condition)",
+			"contents": "${1:key}, ${2:value} = FindInTableIf(${3:table}, ${4:condition})$0",
+		},
+		{
+			"trigger": "_FindSpellBookSlotBySpellID\t(spellID, isPet)",
+			"contents": "${1:spellBookSlot} = FindSpellBookSlotBySpellID(${2:spellID}, ${3:[isPet]})$0",
+		},
+		{
+			"trigger": "_FindSpellOverrideNameByName\t(\"name\")",
+			"contents": "${1:spellOverrideName} = FindSpellOverrideNameByName(\"${2:name}\")$0",
+		},
+		{
+			"trigger": "_FlyoutHasSpell\t(flyoutID, spellID)",
+			"contents": "${1:hasSpell} = FlyoutHasSpell(${2:flyoutID}, ${3:spellID})$0",
+		},
+		{
+			"trigger": "_ForceGossip\t()",
+			"contents": "${1:forced} = ForceGossip()$0",
+		},
+		{
+			"trigger": "_FormatLargeNumber\t(value)",
+			"contents": "${1:formattedValue} = FormatLargeNumber(${2:value})$0",
+		},
+		{
+			"trigger": "_FormatPaperDollTooltipStat\t(\"name\", base, posBuff, negBuff)",
+			"contents": "${1:formattedText} = FormatPaperDollTooltipStat(\"${2:name}\", ${3:base}, ${4:posBuff}, ${5:negBuff})$0",
+		},
+		{
+			"trigger": "_FormatPercentage\t(percentage, roundToNearestInteger)",
+			"contents": "${1:formattedPercentage} = FormatPercentage(${2:percentage}, ${3:roundToNearestInteger})$0",
+		},
+		{
+			"trigger": "_FormatShortDate\t(day, month, year)",
+			"contents": "${1:formattedDate} = FormatShortDate(${2:day}, ${3:month}, ${4:year})$0",
+		},
+		{
+			"trigger": "_FrameDeltaLerp\t(startValue, endValue, amount)",
+			"contents": "${1:result} = FrameDeltaLerp(${2:startValue}, ${3:endValue}, ${4:amount})$0",
 		},
 		{
 			"trigger": "_GetAbandonQuestItems\t()",
