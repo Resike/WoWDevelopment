@@ -1,0 +1,313 @@
+{
+	"scope": "string",
+	"completions": [
+		{
+			"trigger": "OnAnimFinished\t\"scriptType\"",
+			"contents": "OnAnimFinished",
+		},
+		{
+			"trigger": "OnArrowPressed\t\"scriptType\"",
+			"contents": "OnArrowPressed",
+		},
+		{
+			"trigger": "OnAttributeChanged\t\"scriptType\"",
+			"contents": "OnAttributeChanged",
+		},
+		{
+			"trigger": "OnButtonUpdate\t\"scriptType\"",
+			"contents": "OnButtonUpdate",
+		},
+		{
+			"trigger": "OnChar\t\"scriptType\"",
+			"contents": "OnChar",
+		},
+		{
+			"trigger": "OnCharComposition\t\"scriptType\"",
+			"contents": "OnCharComposition",
+		},
+		{
+			"trigger": "OnClick\t\"scriptType\"",
+			"contents": "OnClick",
+		},
+		{
+			"trigger": "OnColorSelect\t\"scriptType\"",
+			"contents": "OnColorSelect",
+		},
+		{
+			"trigger": "OnCooldownDone\t\"scriptType\"",
+			"contents": "OnCooldownDone",
+		},
+		{
+			"trigger": "OnCursorChanged\t\"scriptType\"",
+			"contents": "OnCursorChanged",
+		},
+		{
+			"trigger": "OnDisable\t\"scriptType\"",
+			"contents": "OnDisable",
+		},
+		{
+			"trigger": "OnDoubleClick\t\"scriptType\"",
+			"contents": "OnDoubleClick",
+		},
+		{
+			"trigger": "OnDragStart\t\"scriptType\"",
+			"contents": "OnDragStart",
+		},
+		{
+			"trigger": "OnDragStop\t\"scriptType\"",
+			"contents": "OnDragStop",
+		},
+		{
+			"trigger": "OnDressModel\t\"scriptType\"",
+			"contents": "OnDressModel",
+		},
+		{
+			"trigger": "OnEditFocusGained\t\"scriptType\"",
+			"contents": "OnEditFocusGained",
+		},
+		{
+			"trigger": "OnEditFocusLost\t\"scriptType\"",
+			"contents": "OnEditFocusLost",
+		},
+		{
+			"trigger": "OnEnable\t\"scriptType\"",
+			"contents": "OnEnable",
+		},
+		{
+			"trigger": "OnEnter\t\"scriptType\"",
+			"contents": "OnEnter",
+		},
+		{
+			"trigger": "OnEnterPressed\t\"scriptType\"",
+			"contents": "OnEnterPressed",
+		},
+		{
+			"trigger": "OnError\t\"scriptType\"",
+			"contents": "OnError",
+		},
+		{
+			"trigger": "OnEscapePressed\t\"scriptType\"",
+			"contents": "OnEscapePressed",
+		},
+		{
+			"trigger": "OnEvent\t\"scriptType\"",
+			"contents": "OnEvent",
+		},
+		{
+			"trigger": "OnExternalLink\t\"scriptType\"",
+			"contents": "OnExternalLink",
+		},
+		{
+			"trigger": "OnFinished\t\"scriptType\"",
+			"contents": "OnFinished",
+		},
+		{
+			"trigger": "OnHide\t\"scriptType\"",
+			"contents": "OnHide",
+		},
+		{
+			"trigger": "OnHorizontalScroll\t\"scriptType\"",
+			"contents": "OnHorizontalScroll",
+		},
+		{
+			"trigger": "OnHyperlinkClick\t\"scriptType\"",
+			"contents": "OnHyperlinkClick",
+		},
+		{
+			"trigger": "OnHyperlinkEnter\t\"scriptType\"",
+			"contents": "OnHyperlinkEnter",
+		},
+		{
+			"trigger": "OnHyperlinkLeave\t\"scriptType\"",
+			"contents": "OnHyperlinkLeave",
+		},
+		{
+			"trigger": "OnInputLanguageChanged\t\"scriptType\"",
+			"contents": "OnInputLanguageChanged",
+		},
+		{
+			"trigger": "OnJoystickAxisMotion\t\"scriptType\"",
+			"contents": "OnJoystickAxisMotion",
+		},
+		{
+			"trigger": "OnJoystickButtonDown\t\"scriptType\"",
+			"contents": "OnJoystickButtonDown",
+		},
+		{
+			"trigger": "OnJoystickButtonUp\t\"scriptType\"",
+			"contents": "OnJoystickButtonUp",
+		},
+		{
+			"trigger": "OnJoystickHatMotion\t\"scriptType\"",
+			"contents": "OnJoystickHatMotion",
+		},
+		{
+			"trigger": "OnJoystickStickMotion\t\"scriptType\"",
+			"contents": "OnJoystickStickMotion",
+		},
+		{
+			"trigger": "OnKeyDown\t\"scriptType\"",
+			"contents": "OnKeyDown",
+		},
+		{
+			"trigger": "OnKeyUp\t\"scriptType\"",
+			"contents": "OnKeyUp",
+		},
+		{
+			"trigger": "OnLeave\t\"scriptType\"",
+			"contents": "OnLeave",
+		},
+		{
+			"trigger": "OnLoad\t\"scriptType\"",
+			"contents": "OnLoad",
+		},
+		{
+			"trigger": "OnLoop\t\"scriptType\"",
+			"contents": "OnLoop",
+		},
+		{
+			"trigger": "OnMessageScrollChanged\t\"scriptType\"",
+			"contents": "OnMessageScrollChanged",
+		},
+		{
+			"trigger": "OnMinMaxChanged\t\"scriptType\"",
+			"contents": "OnMinMaxChanged",
+		},
+		{
+			"trigger": "OnMouseDown\t\"scriptType\"",
+			"contents": "OnMouseDown",
+		},
+		{
+			"trigger": "OnMouseUp\t\"scriptType\"",
+			"contents": "OnMouseUp",
+		},
+		{
+			"trigger": "OnMouseWheel\t\"scriptType\"",
+			"contents": "OnMouseWheel",
+		},
+		{
+			"trigger": "OnMovieFinished\t\"scriptType\"",
+			"contents": "OnMovieFinished",
+		},
+		{
+			"trigger": "OnMovieHideSubtitle\t\"scriptType\"",
+			"contents": "OnMovieHideSubtitle",
+		},
+		{
+			"trigger": "OnMovieShowSubtitle\t\"scriptType\"",
+			"contents": "OnMovieShowSubtitle",
+		},
+		{
+			"trigger": "OnPanFinished\t\"scriptType\"",
+			"contents": "OnPanFinished",
+		},
+		{
+			"trigger": "OnPause\t\"scriptType\"",
+			"contents": "OnPause",
+		},
+		{
+			"trigger": "OnPlay\t\"scriptType\"",
+			"contents": "OnPlay",
+		},
+		{
+			"trigger": "OnReceiveDrag\t\"scriptType\"",
+			"contents": "OnReceiveDrag",
+		},
+		{
+			"trigger": "OnScrollRangeChanged\t\"scriptType\"",
+			"contents": "OnScrollRangeChanged",
+		},
+		{
+			"trigger": "OnShow\t\"scriptType\"",
+			"contents": "OnShow",
+		},
+		{
+			"trigger": "OnSizeChanged\t\"scriptType\"",
+			"contents": "OnSizeChanged",
+		},
+		{
+			"trigger": "OnSpacePressed\t\"scriptType\"",
+			"contents": "OnSpacePressed",
+		},
+		{
+			"trigger": "OnStop\t\"scriptType\"",
+			"contents": "OnStop",
+		},
+		{
+			"trigger": "OnTabPressed\t\"scriptType\"",
+			"contents": "OnTabPressed",
+		},
+		{
+			"trigger": "OnTextChanged\t\"scriptType\"",
+			"contents": "OnTextChanged",
+		},
+		{
+			"trigger": "OnTextSet\t\"scriptType\"",
+			"contents": "OnTextSet",
+		},
+		{
+			"trigger": "OnTooltipAddMoney\t\"scriptType\"",
+			"contents": "OnTooltipAddMoney",
+		},
+		{
+			"trigger": "OnTooltipCleared\t\"scriptType\"",
+			"contents": "OnTooltipCleared",
+		},
+		{
+			"trigger": "OnTooltipSetAchievement\t\"scriptType\"",
+			"contents": "OnTooltipSetAchievement",
+		},
+		{
+			"trigger": "OnTooltipSetDefaultAnchor\t\"scriptType\"",
+			"contents": "OnTooltipSetDefaultAnchor",
+		},
+		{
+			"trigger": "OnTooltipSetEquipmentSet\t\"scriptType\"",
+			"contents": "OnTooltipSetEquipmentSet",
+		},
+		{
+			"trigger": "OnTooltipSetFramestack\t\"scriptType\"",
+			"contents": "OnTooltipSetFramestack",
+		},
+		{
+			"trigger": "OnTooltipSetItem\t\"scriptType\"",
+			"contents": "OnTooltipSetItem",
+		},
+		{
+			"trigger": "OnTooltipSetQuest\t\"scriptType\"",
+			"contents": "OnTooltipSetQuest",
+		},
+		{
+			"trigger": "OnTooltipSetSpell\t\"scriptType\"",
+			"contents": "OnTooltipSetSpell",
+		},
+		{
+			"trigger": "OnTooltipSetUnit\t\"scriptType\"",
+			"contents": "OnTooltipSetUnit",
+		},
+		{
+			"trigger": "OnUpdate\t\"scriptType\"",
+			"contents": "OnUpdate",
+		},
+		{
+			"trigger": "OnUpdateModel\t\"scriptType\"",
+			"contents": "OnUpdateModel",
+		},
+		{
+			"trigger": "OnValueChanged\t\"scriptType\"",
+			"contents": "OnValueChanged",
+		},
+		{
+			"trigger": "OnVerticalScroll\t\"scriptType\"",
+			"contents": "OnVerticalScroll",
+		},
+		{
+			"trigger": "PostClick\t\"scriptType\"",
+			"contents": "PostClick",
+		},
+		{
+			"trigger": "PreClick\t\"scriptType\"",
+			"contents": "PreClick",
+		},
+	]
+}

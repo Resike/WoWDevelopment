@@ -1,5 +1,5 @@
 {
-	"scope": "source.lua",
+	"scope": "source.lua - string",
 	"completions": [
 		{
 			"trigger": "Path:CreateControlPoint\t([\"name\"], [\"template\"], [order])",

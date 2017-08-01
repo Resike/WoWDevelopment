@@ -1,5 +1,5 @@
 {
-	"scope": "source.lua",
+	"scope": "string",
 	"completions": [
 		{
 			"trigger": "accountList\tCVar",

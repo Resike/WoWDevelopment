@@ -1,0 +1,463 @@
+{
+	"scope": "source.lua - string",
+	"completions": [
+		{
+			"trigger": "Line:CanChangeProtectedState\t()",
+			"contents": "${1:Line}:CanChangeProtectedState()$0",
+		},
+		{
+			"trigger": "Line:CreateAnimationGroup\t([\"name\"], [\"inheritsFrom\"])",
+			"contents": "${1:Line}:CreateAnimationGroup(${2:[\"name\"]}, ${3:[\"inheritsFrom\"]})$0",
+		},
+		{
+			"trigger": "Line:GetAlpha\t()",
+			"contents": "${1:Line}:GetAlpha()$0",
+		},
+		{
+			"trigger": "Line:GetAnimationGroups\t()",
+			"contents": "${1:Line}:GetAnimationGroups()$0",
+		},
+		{
+			"trigger": "Line:GetAtlas\t()",
+			"contents": "${1:Line}:GetAtlas()$0",
+		},
+		{
+			"trigger": "Line:GetBlendMode\t()",
+			"contents": "${1:Line}:GetBlendMode()$0",
+		},
+		{
+			"trigger": "Line:GetBottom\t()",
+			"contents": "${1:Line}:GetBottom()$0",
+		},
+		{
+			"trigger": "Line:GetCenter\t()",
+			"contents": "${1:Line}:GetCenter()$0",
+		},
+		{
+			"trigger": "Line:GetDebugName\t()",
+			"contents": "${1:Line}:GetDebugName()$0",
+		},
+		{
+			"trigger": "Line:GetDesaturation\t()",
+			"contents": "${1:Line}:GetDesaturation()$0",
+		},
+		{
+			"trigger": "Line:GetDrawLayer\t()",
+			"contents": "${1:Line}:GetDrawLayer()$0",
+		},
+		{
+			"trigger": "Line:GetEndPoint\t(\"point\", [relativeTo], [\"relativePoint\"], [xOffset], [yOffset])",
+			"contents": "${1:Line}:GetEndPoint(\"${2:point}\", ${3:[relativeTo]}, \"${4:[relativePoint]}\", ${5:[xOffset]}, ${6:[yOffset]})$0",
+		},
+		{
+			"trigger": "Line:GetHeight\t()",
+			"contents": "${1:Line}:GetHeight()$0",
+		},
+		{
+			"trigger": "Line:GetHorizTile\t()",
+			"contents": "${1:Line}:GetHorizTile()$0",
+		},
+		{
+			"trigger": "Line:GetLeft\t()",
+			"contents": "${1:Line}:GetLeft()$0",
+		},
+		{
+			"trigger": "Line:GetName\t()",
+			"contents": "${1:Line}:GetName()$0",
+		},
+		{
+			"trigger": "Line:GetNonBlocking\t()",
+			"contents": "${1:Line}:GetNonBlocking()$0",
+		},
+		{
+			"trigger": "Line:GetObjectType\t()",
+			"contents": "${1:Line}:GetObjectType()$0",
+		},
+		{
+			"trigger": "Line:GetParent\t()",
+			"contents": "${1:Line}:GetParent()$0",
+		},
+		{
+			"trigger": "Line:GetRect\t()",
+			"contents": "${1:Line}:GetRect()$0",
+		},
+		{
+			"trigger": "Line:GetRight\t()",
+			"contents": "${1:Line}:GetRight()$0",
+		},
+		{
+			"trigger": "Line:GetSize\t()",
+			"contents": "${1:Line}:GetSize()$0",
+		},
+		{
+			"trigger": "Line:GetStartPoint\t(\"point\", [relativeTo], [\"relativePoint\"], [xOffset], [yOffset])",
+			"contents": "${1:Line}:GetStartPoint(\"${2:point}\", ${3:[relativeTo]}, \"${4:[relativePoint]}\", ${5:[xOffset]}, ${6:[yOffset]})$0",
+		},
+		{
+			"trigger": "Line:GetTexCoord\t()",
+			"contents": "${1:Line}:GetTexCoord()$0",
+		},
+		{
+			"trigger": "Line:GetTexture\t()",
+			"contents": "${1:Line}:GetTexture()$0",
+		},
+		{
+			"trigger": "Line:GetThickness\t()",
+			"contents": "${1:Line}:GetThickness()$0",
+		},
+		{
+			"trigger": "Line:GetTop\t()",
+			"contents": "${1:Line}:GetTop()$0",
+		},
+		{
+			"trigger": "Line:GetVertexColor\t()",
+			"contents": "${1:Line}:GetVertexColor()$0",
+		},
+		{
+			"trigger": "Line:GetVertexOffset\t(vertexIndex)",
+			"contents": "${1:Line}:GetVertexOffset(${2:vertexIndex})$0",
+		},
+		{
+			"trigger": "Line:GetVertTile\t()",
+			"contents": "${1:Line}:GetVertTile()$0",
+		},
+		{
+			"trigger": "Line:GetWidth\t()",
+			"contents": "${1:Line}:GetWidth()$0",
+		},
+		{
+			"trigger": "Line:Hide\t()",
+			"contents": "${1:Line}:Hide()$0",
+		},
+		{
+			"trigger": "Line:IsDesaturated\t()",
+			"contents": "${1:Line}:IsDesaturated()$0",
+		},
+		{
+			"trigger": "Line:IsDragging\t()",
+			"contents": "${1:Line}:IsDragging()$0",
+		},
+		{
+			"trigger": "Line:IsForbidden\t()",
+			"contents": "${1:Line}:IsForbidden()$0",
+		},
+		{
+			"trigger": "Line:IsIgnoringParentAlpha\t()",
+			"contents": "${1:Line}:IsIgnoringParentAlpha()$0",
+		},
+		{
+			"trigger": "Line:IsIgnoringParentScale\t()",
+			"contents": "${1:Line}:IsIgnoringParentScale()$0",
+		},
+		{
+			"trigger": "Line:IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
+			"contents": "${1:Line}:IsMouseOver(${2:[topOffset]}, ${3:[leftOffset]}, ${4:[bottomOffset]}, ${5:[rightOffset]})$0",
+		},
+		{
+			"trigger": "Line:IsObjectLoaded\t()",
+			"contents": "${1:Line}:IsObjectLoaded()$0",
+		},
+		{
+			"trigger": "Line:IsObjectType\t()",
+			"contents": "${1:Line}:IsObjectType()$0",
+		},
+		{
+			"trigger": "Line:IsProtected\t()",
+			"contents": "${1:Line}:IsProtected()$0",
+		},
+		{
+			"trigger": "Line:IsShown\t()",
+			"contents": "${1:Line}:IsShown()$0",
+		},
+		{
+			"trigger": "Line:IsVisible\t()",
+			"contents": "${1:Line}:IsVisible()$0",
+		},
+		{
+			"trigger": "Line:SetAlpha\t(alpha)",
+			"contents": "${1:Line}:SetAlpha(${2:alpha})$0",
+		},
+		{
+			"trigger": "Line:SetAtlas\t(\"texture\", useAtlasSize)",
+			"contents": "${1:Line}:SetAtlas(${2:\"texture\"}, ${3:useAtlasSize})$0",
+		},
+		{
+			"trigger": "Line:SetBlendMode\t(\"mode\")",
+			"contents": "${1:Line}:SetBlendMode(${2:\"mode\"})$0",
+		},
+		{
+			"trigger": "Line:SetColorLine\t(red, green, blue, [alpha])",
+			"contents": "${1:Line}:SetColorLine(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+		},
+		{
+			"trigger": "Line:SetDesaturated\t(enable)",
+			"contents": "${1:Line}:SetDesaturated(${2:enable})$0",
+		},
+		{
+			"trigger": "Line:SetDesaturation\t(enable)",
+			"contents": "${1:Line}:SetDesaturation(${2:enable})$0",
+		},
+		{
+			"trigger": "Line:SetDrawLayer\t(\"layer\", sublayer)",
+			"contents": "${1:Line}:SetDrawLayer(\"${2:layer}\", ${3:sublayer})$0",
+		},
+		{
+			"trigger": "Line:SetEndPoint\t(\"point\", [relativeTo], [\"relativePoint\"], [xOffset], [yOffset])",
+			"contents": "${1:Line}:SetEndPoint(\"${2:point}\", ${3:[relativeTo]}, \"${4:[relativePoint]}\", ${5:[xOffset]}, ${6:[yOffset]})$0",
+		},
+		{
+			"trigger": "Line:SetGradient\t(\"orientation\", startR, startG, startB, endR, endG, endB)",
+			"contents": "${1:Line}:SetGradient(\"${2:orientation}\", ${3:startR}, ${4:startG}, ${5:startB}, ${6:endR}, ${7:endG}, ${8:endB})$0",
+		},
+		{
+			"trigger": "Line:SetGradientAlpha\t(\"orientation\", startR, startG, startB, startAlpha, endR, endG, endB, endAlpha)",
+			"contents": "${1:Line}:SetGradientAlpha(\"${2:orientation}\", ${3:startR}, ${4:startG}, ${5:startB}, ${6:startAlpha}, ${7:endR}, ${8:endG}, ${9:endB}, ${10:endAlpha})$0",
+		},
+		{
+			"trigger": "Line:SetHorizTile\t(enable)",
+			"contents": "${1:Line}:SetHorizTile(${2:enable})$0",
+		},
+		{
+			"trigger": "Line:SetIgnoreParentAlpha\t(enable)",
+			"contents": "${1:Line}:SetIgnoreParentAlpha(${2:enable})$0",
+		},
+		{
+			"trigger": "Line:SetIgnoreParentScale\t(enable)",
+			"contents": "${1:Line}:SetIgnoreParentScale(${2:enable})$0",
+		},
+		{
+			"trigger": "Line:SetMask\t(\"texture\")",
+			"contents": "${1:Line}:SetMask(${2:\"texture\"})$0",
+		},
+		{
+			"trigger": "Line:SetNonBlocking\t(nonBlocking)",
+			"contents": "${1:Line}:SetNonBlocking(${2:nonBlocking})$0",
+		},
+		{
+			"trigger": "Line:SetParent\t(frame)",
+			"contents": "${1:Line}:SetParent(${2:frame})$0",
+		},
+		{
+			"trigger": "Line:SetRotation\t(radians)",
+			"contents": "${1:Line}:SetRotation(${2:radians})$0",
+		},
+		{
+			"trigger": "Line:SetShown\t(enable)",
+			"contents": "${1:Line}:SetShown(${2:enable})$0",
+		},
+		{
+			"trigger": "Line:SetStartPoint\t(\"point\", [relativeTo], [\"relativePoint\"], [xOffset], [yOffset])",
+			"contents": "${1:Line}:SetStartPoint(\"${2:point}\", ${3:[relativeTo]}, \"${4:[relativePoint]}\", ${5:[xOffset]}, ${6:[yOffset]})$0",
+		},
+		{
+			"trigger": "Line:SetTexCoord\t(left, right, top, bottom)",
+			"contents": "${1:Line}:SetTexCoord(${2:left}, ${3:right}, ${4:top}, ${5:bottom})$0",
+		},
+		{
+			"trigger": "Line:SetTexCoord\t(ULx, ULy, LLx, LLy, URx, URy, LRx, LRy)",
+			"contents": "${1:Line}:SetTexCoord(${2:ULx}, ${3:ULy}, ${4:LLx}, ${5:LLy}, ${6:URx}, ${7:URy}, ${8:LRx}, ${9:LRy})$0",
+		},
+		{
+			"trigger": "Line:SetTexture\t(red, green, blue, [alpha])",
+			"contents": "${1:Line}:SetTexture(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+		},
+		{
+			"trigger": "Line:SetTexture\t(\"texture\")",
+			"contents": "${1:Line}:SetTexture(\"${2:texture}\")$0",
+		},
+		{
+			"trigger": "Line:SetThickness\t(thickess)",
+			"contents": "${1:Line}:SetThickness(${2:thickess})$0",
+		},
+		{
+			"trigger": "Line:SetVertexColor\t(red, green, blue, [alpha])",
+			"contents": "${1:Line}:SetVertexColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+		},
+		{
+			"trigger": "Line:SetVertexOffset\t(vertexIndex, x, y)",
+			"contents": "${1:Line}:SetVertexOffset(${2:vertexIndex}, ${3:x}, ${4:y})$0",
+		},
+		{
+			"trigger": "Line:SetVertTile\t(enable)",
+			"contents": "${1:Line}:SetVertTile(${2:enable})$0",
+		},
+		{
+			"trigger": "Line:Show\t()",
+			"contents": "${1:Line}:Show()$0",
+		},
+		{
+			"trigger": "Line:StopAnimating\t()",
+			"contents": "${1:Line}:StopAnimating()$0",
+		},
+
+
+
+		{
+			"trigger": "_Line:CanChangeProtectedState\t()",
+			"contents": "${1:canChange} = ${2:Line}:CanChangeProtectedState()$0",
+		},
+		{
+			"trigger": "_Line:GetAlpha\t()",
+			"contents": "${1:alpha} = ${2:Line}:GetAlpha()$0",
+		},
+		{
+			"trigger": "_Line:GetAnimationGroups\t()",
+			"contents": "${1:...} = ${2:Line}:GetAnimationGroups()$0",
+		},
+		{
+			"trigger": "_Line:GetAtlas\t()",
+			"contents": "${1:atlasFile} = ${2:Line}:GetAtlas()$0",
+		},
+		{
+			"trigger": "_Line:GetBlendMode\t()",
+			"contents": "${1:mode} = ${2:Line}:GetBlendMode()$0",
+		},
+		{
+			"trigger": "_Line:GetBottom\t()",
+			"contents": "${1:bottom} = ${2:Line}:GetBottom()$0",
+		},
+		{
+			"trigger": "_Line:GetCenter\t()",
+			"contents": "${1:x}, ${2:y} = ${3:Line}:GetCenter()$0",
+		},
+		{
+			"trigger": "_Line:GetDebugName\t()",
+			"contents": "${1:name} = ${2:Line}:GetDebugName()$0",
+		},
+		{
+			"trigger": "_Line:GetDesaturation\t()",
+			"contents": "${1:desaturated} = ${2:Line}:GetDesaturation()$0",
+		},
+		{
+			"trigger": "_Line:GetDrawLayer\t()",
+			"contents": "${1:layer}, ${2:sublayer} = ${3:Line}:GetDrawLayer()$0",
+		},
+{
+			"trigger": "_Line:GetEndPoint\t(index)",
+			"contents": "${1:point}, ${2:relativeTo}, ${3:relativePoint}, ${4:xOffset}, ${5:yOffset} = ${6:Line}:GetEndPoint(${7:index})$0",
+		},
+		{
+			"trigger": "_Line:GetHeight\t()",
+			"contents": "${1:height} = ${2:Line}:GetHeight()$0",
+		},
+		{
+			"trigger": "_Line:GetHorizTile\t()",
+			"contents": "${1:enabled} = ${2:Line}:GetHorizTile()$0",
+		},
+		{
+			"trigger": "_Line:GetLeft\t()",
+			"contents": "${1:left} = ${2:Line}:GetLeft()$0",
+		},
+		{
+			"trigger": "_Line:GetName\t()",
+			"contents": "${1:name} = ${2:Line}:GetName()$0",
+		},
+		{
+			"trigger": "_Line:GetNonBlocking\t()",
+			"contents": "${1:nonBlocking} = ${2:Line}:GetNonBlocking()$0",
+		},
+		{
+			"trigger": "_Line:GetObjectType\t()",
+			"contents": "${1:type} = ${2:Line}:GetObjectType()$0",
+		},
+		{
+			"trigger": "_Line:GetRect\t()",
+			"contents": "${1:left}, ${2:bottom}, ${3:width}, ${4:height} = ${5:Line}:GetRect()$0",
+		},
+		{
+			"trigger": "_Line:GetRight\t()",
+			"contents": "${1:right} = ${2:Line}:GetRight()$0",
+		},
+		{
+			"trigger": "_Line:GetSize\t()",
+			"contents": "${1:width}, ${2:height} = ${3:Line}:GetSize()$0",
+		},
+		{
+			"trigger": "_Line:GetStartPoint\t(index)",
+			"contents": "${1:point}, ${2:relativeTo}, ${3:relativePoint}, ${4:xOffset}, ${5:yOffset} = ${6:Line}:GetStartPoint(${7:index})$0",
+		},
+		{
+			"trigger": "_Line:GetTexCoord\t()",
+			"contents": "${1:ULx}, ${2:ULy}, ${3:LLx}, ${4:LLy}, ${5:URx}, ${6:URy}, ${7:LRx}, ${8:LRy} = ${9:Line}:GetTexCoord()$0",
+		},
+		{
+			"trigger": "_Line:GetTexture\t()",
+			"contents": "${1:texture} = ${2:Line}:GetTexture()$0",
+		},
+		{
+			"trigger": "_Line:GetThickness\t()",
+			"contents": "${1:thickess} = ${2:Line}:GetThickness()$0",
+		},
+		{
+			"trigger": "_Line:GetTop\t()",
+			"contents": "${1:top} = ${2:Line}:GetTop()$0",
+		},
+		{
+			"trigger": "_Line:GetVertexColor\t()",
+			"contents": "${1:red}, ${2:green}, ${3:blue}, ${4:alpha} = ${5:Line}:GetVertexColor()$0",
+		},
+		{
+			"trigger": "_Line:GetVertexOffset\t(vertexIndex)",
+			"contents": "${1:x}, ${2:y} = ${3:Line}:GetVertexOffset(${4:vertexIndex})$0",
+		},
+		{
+			"trigger": "_Line:GetVertTile\t()",
+			"contents": "${1:enabled} = ${2:Line}:GetVertTile()$0",
+		},
+		{
+			"trigger": "_Line:GetWidth\t()",
+			"contents": "${1:width} = ${2:Line}:GetWidth()$0",
+		},
+		{
+			"trigger": "_Line:IsDesaturated\t()",
+			"contents": "${1:desaturated} = ${2:Line}:IsDesaturated()$0",
+		},
+		{
+			"trigger": "_Line:IsDragging\t()",
+			"contents": "${1:isDragging} = ${2:Line}:IsDragging()$0",
+		},
+		{
+			"trigger": "_Line:IsForbidden\t()",
+			"contents": "${1:isForbidden} = ${2:Line}:IsForbidden()$0",
+		},
+		{
+			"trigger": "_Line:IsIgnoringParentAlpha\t()",
+			"contents": "${1:isIgnoring} = ${2:Line}:IsIgnoringParentAlpha()$0",
+		},
+		{
+			"trigger": "_Line:IsIgnoringParentScale\t()",
+			"contents": "${1:isIgnoring} = ${2:Line}:IsIgnoringParentScale()$0",
+		},
+		{
+			"trigger": "_Line:IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
+			"contents": "${1:isOver} = ${2:Line}:IsMouseOver(${3:[topOffset]}, ${4:[leftOffset]}, ${5:[bottomOffset]}, ${6:[rightOffset]})$0",
+		},
+		{
+			"trigger": "_Line:IsObjectLoaded\t()",
+			"contents": "${1:loaded} = ${2:Line}:IsObjectLoaded()$0",
+		},
+		{
+			"trigger": "_Line:IsObjectType\t(\"type\")",
+			"contents": "${1:isType} = ${2:Line}:IsObjectType(\"${3:type}\")$0",
+		},
+		{
+			"trigger": "_Line:IsProtected\t()",
+			"contents": "${1:isProtected}, ${2:explicit} = ${3:Line}:IsProtected()$0",
+		},
+		{
+			"trigger": "_Line:IsShown\t()",
+			"contents": "${1:shown} = ${2:Line}:IsShown()$0",
+		},
+		{
+			"trigger": "_Line:IsVisible\t()",
+			"contents": "${1:visible} = ${2:Line}:IsVisible()$0",
+		},
+
+
+
+		{
+			"trigger": "_Line\thelp",
+			"contents": "Line = {\n\tinherits = {\n\t\t\"Line\",\n\t\t\"Texture\",\n\t\t\"LayeredRegion\",\n\t\t\"VisibleRegion\",\n\t\t\"Region\",\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\tmethods = {\n\t\t\"CanChangeProtectedState\",\n\t\t\"CreateAnimationGroup\",\n\t\t\"GetAlpha\",\n\t\t\"GetAnimationGroups\",\n\t\t\"GetAtlas\",\n\t\t\"GetBlendMode\",\n\t\t\"GetBottom\",\n\t\t\"GetCenter\",\n\t\t\"GetDebugName\",\n\t\t\"GetDesaturation\",\n\t\t\"GetDrawLayer\",\n\t\t\"GetEndPoint\",\n\t\t\"GetHeight\",\n\t\t\"GetHorizTile\",\n\t\t\"GetLeft\",\n\t\t\"GetName\",\n\t\t\"GetNonBlocking\",\n\t\t\"GetObjectType\",\n\t\t\"GetParent\",\n\t\t\"GetRect\",\n\t\t\"GetRight\",\n\t\t\"GetSize\",\n\t\t\"GetStartPoint\",\n\t\t\"GetTexCoord\",\n\t\t\"GetTexture\",\n\t\t\"GetThickness\",\n\t\t\"GetTop\",\n\t\t\"GetVertexColor\",\n\t\t\"GetVertexOffset\",\n\t\t\"GetVertTile\",\n\t\t\"GetWidth\",\n\t\t\"Hide\",\n\t\t\"IsDesaturated\",\n\t\t\"IsDragging\",\n\t\t\"IsForbidden\",\n\t\t\"IsIgnoringParentAlpha\",\n\t\t\"IsIgnoringParentScale\",\n\t\t\"IsMouseOver\",\n\t\t\"IsObjectLoaded\",\n\t\t\"IsObjectType\",\n\t\t\"IsProtected\",\n\t\t\"IsShown\",\n\t\t\"IsVisible\",\n\t\t\"SetAlpha\",\n\t\t\"SetAtlas\",\n\t\t\"SetBlendMode\",\n\t\t\"SetColorTexture\",\n\t\t\"SetDesaturated\",\n\t\t\"SetDesaturation\",\n\t\t\"SetDrawLayer\",\n\t\t\"SetEndPoint\",\n\t\t\"SetGradient\",\n\t\t\"SetGradientAlpha\",\n\t\t\"SetHorizTile\",\n\t\t\"SetIgnoreParentAlpha\",\n\t\t\"SetIgnoreParentScale\",\n\t\t\"SetMask\",\n\t\t\"SetNonBlocking\",\n\t\t\"SetParent\",\n\t\t\"SetRotation\",\n\t\t\"SetShown\",\n\t\t\"SetStartPoint\",\n\t\t\"SetTexCoord\",\n\t\t\"SetTexture\",\n\t\t\"SetThickness\",\n\t\t\"SetVertexColor\",\n\t\t\"SetVertexOffset\",\n\t\t\"SetVertTile\",\n\t\t\"Show\",\n\t\t\"StopAnimating\",\n\t},\n}",
+		},
+	]
+}

@@ -1,0 +1,467 @@
+{
+	"scope": "source.lua - string",
+	"completions": [
+		{
+			"trigger": "MaskTexture:CanChangeProtectedState\t()",
+			"contents": "${1:MaskTexture}:CanChangeProtectedState()$0",
+		},
+		{
+			"trigger": "MaskTexture:ClearAllPoints\t()",
+			"contents": "${1:MaskTexture}:ClearAllPoints()$0",
+		},
+		{
+			"trigger": "MaskTexture:CreateAnimationGroup\t([\"name\"], [\"inheritsFrom\"])",
+			"contents": "${1:MaskTexture}:CreateAnimationGroup(${2:[\"name\"]}, ${3:[\"inheritsFrom\"]})$0",
+		},
+		{
+			"trigger": "MaskTexture:GetAlpha\t()",
+			"contents": "${1:MaskTexture}:GetAlpha()$0",
+		},
+		{
+			"trigger": "MaskTexture:GetAnimationGroups\t()",
+			"contents": "${1:MaskTexture}:GetAnimationGroups()$0",
+		},
+		{
+			"trigger": "MaskTexture:GetAtlas\t()",
+			"contents": "${1:MaskTexture}:GetAtlas()$0",
+		},
+		{
+			"trigger": "MaskTexture:GetBlendMode\t()",
+			"contents": "${1:MaskTexture}:GetBlendMode()$0",
+		},
+		{
+			"trigger": "MaskTexture:GetBottom\t()",
+			"contents": "${1:MaskTexture}:GetBottom()$0",
+		},
+		{
+			"trigger": "MaskTexture:GetCenter\t()",
+			"contents": "${1:MaskTexture}:GetCenter()$0",
+		},
+		{
+			"trigger": "MaskTexture:GetDebugName\t()",
+			"contents": "${1:MaskTexture}:GetDebugName()$0",
+		},
+		{
+			"trigger": "MaskTexture:GetDesaturation\t()",
+			"contents": "${1:MaskTexture}:GetDesaturation()$0",
+		},
+		{
+			"trigger": "MaskTexture:GetDrawLayer\t()",
+			"contents": "${1:MaskTexture}:GetDrawLayer()$0",
+		},
+		{
+			"trigger": "MaskTexture:GetHeight\t()",
+			"contents": "${1:MaskTexture}:GetHeight()$0",
+		},
+		{
+			"trigger": "MaskTexture:GetHorizTile\t()",
+			"contents": "${1:MaskTexture}:GetHorizTile()$0",
+		},
+		{
+			"trigger": "MaskTexture:GetLeft\t()",
+			"contents": "${1:MaskTexture}:GetLeft()$0",
+		},
+		{
+			"trigger": "MaskTexture:GetName\t()",
+			"contents": "${1:MaskTexture}:GetName()$0",
+		},
+		{
+			"trigger": "MaskTexture:GetNonBlocking\t()",
+			"contents": "${1:MaskTexture}:GetNonBlocking()$0",
+		},
+		{
+			"trigger": "MaskTexture:GetNumPoints\t()",
+			"contents": "${1:MaskTexture}:GetNumPoints()$0",
+		},
+		{
+			"trigger": "MaskTexture:GetObjectType\t()",
+			"contents": "${1:MaskTexture}:GetObjectType()$0",
+		},
+		{
+			"trigger": "MaskTexture:GetParent\t()",
+			"contents": "${1:MaskTexture}:GetParent()$0",
+		},
+		{
+			"trigger": "MaskTexture:GetPoint\t(index)",
+			"contents": "${1:MaskTexture}:GetPoint(${2:index})$0",
+		},
+		{
+			"trigger": "MaskTexture:GetRect\t()",
+			"contents": "${1:MaskTexture}:GetRect()$0",
+		},
+		{
+			"trigger": "MaskTexture:GetRight\t()",
+			"contents": "${1:MaskTexture}:GetRight()$0",
+		},
+		{
+			"trigger": "MaskTexture:GetSize\t()",
+			"contents": "${1:MaskTexture}:GetSize()$0",
+		},
+		{
+			"trigger": "MaskTexture:GetTexCoord\t()",
+			"contents": "${1:MaskTexture}:GetTexCoord()$0",
+		},
+		{
+			"trigger": "MaskTexture:GetTexture\t()",
+			"contents": "${1:MaskTexture}:GetTexture()$0",
+		},
+		{
+			"trigger": "MaskTexture:GetTop\t()",
+			"contents": "${1:MaskTexture}:GetTop()$0",
+		},
+		{
+			"trigger": "MaskTexture:GetVertexColor\t()",
+			"contents": "${1:MaskTexture}:GetVertexColor()$0",
+		},
+		{
+			"trigger": "MaskTexture:GetVertexOffset\t(vertexIndex)",
+			"contents": "${1:MaskTexture}:GetVertexOffset(${2:vertexIndex})$0",
+		},
+		{
+			"trigger": "MaskTexture:GetVertTile\t()",
+			"contents": "${1:MaskTexture}:GetVertTile()$0",
+		},
+		{
+			"trigger": "MaskTexture:GetWidth\t()",
+			"contents": "${1:MaskTexture}:GetWidth()$0",
+		},
+		{
+			"trigger": "MaskTexture:Hide\t()",
+			"contents": "${1:MaskTexture}:Hide()$0",
+		},
+		{
+			"trigger": "MaskTexture:IsDesaturated\t()",
+			"contents": "${1:MaskTexture}:IsDesaturated()$0",
+		},
+		{
+			"trigger": "MaskTexture:IsDragging\t()",
+			"contents": "${1:MaskTexture}:IsDragging()$0",
+		},
+		{
+			"trigger": "MaskTexture:IsForbidden\t()",
+			"contents": "${1:MaskTexture}:IsForbidden()$0",
+		},
+		{
+			"trigger": "MaskTexture:IsIgnoringParentAlpha\t()",
+			"contents": "${1:MaskTexture}:IsIgnoringParentAlpha()$0",
+		},
+		{
+			"trigger": "MaskTexture:IsIgnoringParentScale\t()",
+			"contents": "${1:MaskTexture}:IsIgnoringParentScale()$0",
+		},
+		{
+			"trigger": "MaskTexture:IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
+			"contents": "${1:MaskTexture}:IsMouseOver(${2:[topOffset]}, ${3:[leftOffset]}, ${4:[bottomOffset]}, ${5:[rightOffset]})$0",
+		},
+		{
+			"trigger": "MaskTexture:IsObjectLoaded\t()",
+			"contents": "${1:MaskTexture}:IsObjectLoaded()$0",
+		},
+		{
+			"trigger": "MaskTexture:IsObjectType\t()",
+			"contents": "${1:MaskTexture}:IsObjectType()$0",
+		},
+		{
+			"trigger": "MaskTexture:IsProtected\t()",
+			"contents": "${1:MaskTexture}:IsProtected()$0",
+		},
+		{
+			"trigger": "MaskTexture:IsShown\t()",
+			"contents": "${1:MaskTexture}:IsShown()$0",
+		},
+		{
+			"trigger": "MaskTexture:IsVisible\t()",
+			"contents": "${1:MaskTexture}:IsVisible()$0",
+		},
+		{
+			"trigger": "MaskTexture:SetAllPoints\t([frame])",
+			"contents": "${1:MaskTexture}:SetAllPoints(${2:[frame]})$0",
+		},
+		{
+			"trigger": "MaskTexture:SetAlpha\t(alpha)",
+			"contents": "${1:MaskTexture}:SetAlpha(${2:alpha})$0",
+		},
+		{
+			"trigger": "MaskTexture:SetAtlas\t(\"texture\", useAtlasSize)",
+			"contents": "${1:MaskTexture}:SetAtlas(${2:\"texture\"}, ${3:useAtlasSize})$0",
+		},
+		{
+			"trigger": "MaskTexture:SetBlendMode\t(\"mode\")",
+			"contents": "${1:MaskTexture}:SetBlendMode(${2:\"mode\"})$0",
+		},
+		{
+			"trigger": "MaskTexture:SetColorTexture\t(red, green, blue, [alpha])",
+			"contents": "${1:MaskTexture}:SetColorTexture(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+		},
+		{
+			"trigger": "MaskTexture:SetDesaturated\t(enable)",
+			"contents": "${1:MaskTexture}:SetDesaturated(${2:enable})$0",
+		},
+		{
+			"trigger": "MaskTexture:SetDesaturation\t(enable)",
+			"contents": "${1:MaskTexture}:SetDesaturation(${2:enable})$0",
+		},
+		{
+			"trigger": "MaskTexture:SetDrawLayer\t(\"layer\", sublayer)",
+			"contents": "${1:MaskTexture}:SetDrawLayer(\"${2:layer}\", ${3:sublayer})$0",
+		},
+		{
+			"trigger": "MaskTexture:SetGradient\t(\"orientation\", startR, startG, startB, endR, endG, endB)",
+			"contents": "${1:MaskTexture}:SetGradient(\"${2:orientation}\", ${3:startR}, ${4:startG}, ${5:startB}, ${6:endR}, ${7:endG}, ${8:endB})$0",
+		},
+		{
+			"trigger": "MaskTexture:SetGradientAlpha\t(\"orientation\", startR, startG, startB, startAlpha, endR, endG, endB, endAlpha)",
+			"contents": "${1:MaskTexture}:SetGradientAlpha(\"${2:orientation}\", ${3:startR}, ${4:startG}, ${5:startB}, ${6:startAlpha}, ${7:endR}, ${8:endG}, ${9:endB}, ${10:endAlpha})$0",
+		},
+		{
+			"trigger": "MaskTexture:SetHeight\t(height)",
+			"contents": "${1:MaskTexture}:SetHeight(${2:height})$0",
+		},
+		{
+			"trigger": "MaskTexture:SetHorizTile\t(enable)",
+			"contents": "${1:MaskTexture}:SetHorizTile(${2:enable})$0",
+		},
+		{
+			"trigger": "MaskTexture:SetIgnoreParentAlpha\t(enable)",
+			"contents": "${1:MaskTexture}:SetIgnoreParentAlpha(${2:enable})$0",
+		},
+		{
+			"trigger": "MaskTexture:SetIgnoreParentScale\t(enable)",
+			"contents": "${1:MaskTexture}:SetIgnoreParentScale(${2:enable})$0",
+		},
+		{
+			"trigger": "MaskTexture:SetMask\t(\"texture\")",
+			"contents": "${1:MaskTexture}:SetMask(${2:\"texture\"})$0",
+		},
+		{
+			"trigger": "MaskTexture:SetNonBlocking\t(nonBlocking)",
+			"contents": "${1:MaskTexture}:SetNonBlocking(${2:nonBlocking})$0",
+		},
+		{
+			"trigger": "MaskTexture:SetParent\t(frame)",
+			"contents": "${1:MaskTexture}:SetParent(${2:frame})$0",
+		},
+		{
+			"trigger": "MaskTexture:SetPoint\t(\"point\", [relativeTo], [\"relativePoint\"], [xOffset], [yOffset])",
+			"contents": "${1:MaskTexture}:SetPoint(\"${2:point}\", ${3:[relativeTo]}, \"${4:[relativePoint]}\", ${5:[xOffset]}, ${6:[yOffset]})$0",
+		},
+		{
+			"trigger": "MaskTexture:SetRotation\t(radians)",
+			"contents": "${1:MaskTexture}:SetRotation(${2:radians})$0",
+		},
+		{
+			"trigger": "MaskTexture:SetShown\t(enable)",
+			"contents": "${1:MaskTexture}:SetShown(${2:enable})$0",
+		},
+		{
+			"trigger": "MaskTexture:SetSize\t(width, height)",
+			"contents": "${1:MaskTexture}:SetSize(${2:width}, ${3:height})$0",
+		},
+		{
+			"trigger": "MaskTexture:SetTexCoord\t(left, right, top, bottom)",
+			"contents": "${1:MaskTexture}:SetTexCoord(${2:left}, ${3:right}, ${4:top}, ${5:bottom})$0",
+		},
+		{
+			"trigger": "MaskTexture:SetTexCoord\t(ULx, ULy, LLx, LLy, URx, URy, LRx, LRy)",
+			"contents": "${1:MaskTexture}:SetTexCoord(${2:ULx}, ${3:ULy}, ${4:LLx}, ${5:LLy}, ${6:URx}, ${7:URy}, ${8:LRx}, ${9:LRy})$0",
+		},
+		{
+			"trigger": "MaskTexture:SetTexture\t(red, green, blue, [alpha])",
+			"contents": "${1:MaskTexture}:SetTexture(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+		},
+		{
+			"trigger": "MaskTexture:SetTexture\t(\"texture\")",
+			"contents": "${1:MaskTexture}:SetTexture(\"${2:MaskTexture}\")$0",
+		},
+		{
+			"trigger": "MaskTexture:SetVertexColor\t(red, green, blue, [alpha])",
+			"contents": "${1:MaskTexture}:SetVertexColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+		},
+		{
+			"trigger": "MaskTexture:SetVertexOffset\t(vertexIndex, x, y)",
+			"contents": "${1:MaskTexture}:SetVertexOffset(${2:vertexIndex}, ${3:x}, ${4:y})$0",
+		},
+		{
+			"trigger": "MaskTexture:SetVertTile\t(enable)",
+			"contents": "${1:MaskTexture}:SetVertTile(${2:enable})$0",
+		},
+		{
+			"trigger": "MaskTexture:SetWidth\t(width)",
+			"contents": "${1:MaskTexture}:SetWidth(${2:width})$0",
+		},
+		{
+			"trigger": "MaskTexture:Show\t()",
+			"contents": "${1:MaskTexture}:Show()$0",
+		},
+		{
+			"trigger": "MaskTexture:StopAnimating\t()",
+			"contents": "${1:MaskTexture}:StopAnimating()$0",
+		},
+
+
+
+		{
+			"trigger": "_MaskTexture:CanChangeProtectedState\t()",
+			"contents": "${1:canChange} = ${2:MaskTexture}:CanChangeProtectedState()$0",
+		},
+		{
+			"trigger": "_MaskTexture:GetAlpha\t()",
+			"contents": "${1:alpha} = ${2:MaskTexture}:GetAlpha()$0",
+		},
+		{
+			"trigger": "_MaskTexture:GetAnimationGroups\t()",
+			"contents": "${1:...} = ${2:MaskTexture}:GetAnimationGroups()$0",
+		},
+		{
+			"trigger": "_MaskTexture:GetAtlas\t()",
+			"contents": "${1:atlasFile} = ${2:MaskTexture}:GetAtlas()$0",
+		},
+		{
+			"trigger": "_MaskTexture:GetBlendMode\t()",
+			"contents": "${1:mode} = ${2:MaskTexture}:GetBlendMode()$0",
+		},
+		{
+			"trigger": "_MaskTexture:GetBottom\t()",
+			"contents": "${1:bottom} = ${2:MaskTexture}:GetBottom()$0",
+		},
+		{
+			"trigger": "_MaskTexture:GetCenter\t()",
+			"contents": "${1:x}, ${2:y} = ${3:MaskTexture}:GetCenter()$0",
+		},
+		{
+			"trigger": "_MaskTexture:GetDebugName\t()",
+			"contents": "${1:name} = ${2:MaskTexture}:GetDebugName()$0",
+		},
+		{
+			"trigger": "_MaskTexture:GetDesaturation\t()",
+			"contents": "${1:desaturated} = ${2:MaskTexture}:GetDesaturation()$0",
+		},
+		{
+			"trigger": "_MaskTexture:GetDrawLayer\t()",
+			"contents": "${1:layer}, ${2:sublayer} = ${3:MaskTexture}:GetDrawLayer()$0",
+		},
+		{
+			"trigger": "_MaskTexture:GetHeight\t()",
+			"contents": "${1:height} = ${2:MaskTexture}:GetHeight()$0",
+		},
+		{
+			"trigger": "_MaskTexture:GetHorizTile\t()",
+			"contents": "${1:enabled} = ${2:MaskTexture}:GetHorizTile()$0",
+		},
+		{
+			"trigger": "_MaskTexture:GetLeft\t()",
+			"contents": "${1:left} = ${2:MaskTexture}:GetLeft()$0",
+		},
+		{
+			"trigger": "_MaskTexture:GetName\t()",
+			"contents": "${1:name} = ${2:MaskTexture}:GetName()$0",
+		},
+		{
+			"trigger": "_MaskTexture:GetNonBlocking\t()",
+			"contents": "${1:nonBlocking} = ${2:MaskTexture}:GetNonBlocking()$0",
+		},
+		{
+			"trigger": "_MaskTexture:GetNumPoints\t()",
+			"contents": "${1:numPoints} = ${2:MaskTexture}:GetNumPoints()$0",
+		},
+		{
+			"trigger": "_MaskTexture:GetObjectType\t()",
+			"contents": "${1:type} = ${2:MaskTexture}:GetObjectType()$0",
+		},
+		{
+			"trigger": "_MaskTexture:GetPoint\t(index)",
+			"contents": "${1:point}, ${2:relativeTo}, ${3:relativePoint}, ${4:xOffset}, ${5:yOffset} = ${6:MaskTexture}:GetPoint(${7:index})$0",
+		},
+		{
+			"trigger": "_MaskTexture:GetRect\t()",
+			"contents": "${1:left}, ${2:bottom}, ${3:width}, ${4:height} = ${5:MaskTexture}:GetRect()$0",
+		},
+		{
+			"trigger": "_MaskTexture:GetRight\t()",
+			"contents": "${1:right} = ${2:MaskTexture}:GetRight()$0",
+		},
+		{
+			"trigger": "_MaskTexture:GetSize\t()",
+			"contents": "${1:width}, ${2:height} = ${3:MaskTexture}:GetSize()$0",
+		},
+		{
+			"trigger": "_MaskTexture:GetTexCoord\t()",
+			"contents": "${1:ULx}, ${2:ULy}, ${3:LLx}, ${4:LLy}, ${5:URx}, ${6:URy}, ${7:LRx}, ${8:LRy} = ${9:MaskTexture}:GetTexCoord()$0",
+		},
+		{
+			"trigger": "_MaskTexture:GetTexture\t()",
+			"contents": "${1:MaskTexture} = ${2:MaskTexture}:GetTexture()$0",
+		},
+		{
+			"trigger": "_MaskTexture:GetTop\t()",
+			"contents": "${1:top} = ${2:MaskTexture}:GetTop()$0",
+		},
+		{
+			"trigger": "_MaskTexture:GetVertexColor\t()",
+			"contents": "${1:red}, ${2:green}, ${3:blue}, ${4:alpha} = ${5:MaskTexture}:GetVertexColor()$0",
+		},
+		{
+			"trigger": "_MaskTexture:GetVertexOffset\t(vertexIndex)",
+			"contents": "${1:x}, ${2:y} = ${3:MaskTexture}:GetVertexOffset(${4:vertexIndex})$0",
+		},
+		{
+			"trigger": "_MaskTexture:GetVertTile\t()",
+			"contents": "${1:enabled} = ${2:MaskTexture}:GetVertTile()$0",
+		},
+		{
+			"trigger": "_MaskTexture:GetWidth\t()",
+			"contents": "${1:width} = ${2:MaskTexture}:GetWidth()$0",
+		},
+		{
+			"trigger": "_MaskTexture:IsDesaturated\t()",
+			"contents": "${1:desaturated} = ${2:MaskTexture}:IsDesaturated()$0",
+		},
+		{
+			"trigger": "_MaskTexture:IsDragging\t()",
+			"contents": "${1:isDragging} = ${2:MaskTexture}:IsDragging()$0",
+		},
+		{
+			"trigger": "_MaskTexture:IsForbidden\t()",
+			"contents": "${1:isForbidden} = ${2:MaskTexture}:IsForbidden()$0",
+		},
+		{
+			"trigger": "_MaskTexture:IsIgnoringParentAlpha\t()",
+			"contents": "${1:isIgnoring} = ${2:MaskTexture}:IsIgnoringParentAlpha()$0",
+		},
+		{
+			"trigger": "_MaskTexture:IsIgnoringParentScale\t()",
+			"contents": "${1:isIgnoring} = ${2:MaskTexture}:IsIgnoringParentScale()$0",
+		},
+		{
+			"trigger": "_MaskTexture:IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
+			"contents": "${1:isOver} = ${2:MaskTexture}:IsMouseOver(${3:[topOffset]}, ${4:[leftOffset]}, ${5:[bottomOffset]}, ${6:[rightOffset]})$0",
+		},
+		{
+			"trigger": "_MaskTexture:IsObjectLoaded\t()",
+			"contents": "${1:loaded} = ${2:MaskTexture}:IsObjectLoaded()$0",
+		},
+		{
+			"trigger": "_MaskTexture:IsObjectType\t(\"type\")",
+			"contents": "${1:isType} = ${2:MaskTexture}:IsObjectType(\"${3:type}\")$0",
+		},
+		{
+			"trigger": "_MaskTexture:IsProtected\t()",
+			"contents": "${1:isProtected}, ${2:explicit} = ${3:MaskTexture}:IsProtected()$0",
+		},
+		{
+			"trigger": "_MaskTexture:IsShown\t()",
+			"contents": "${1:shown} = ${2:MaskTexture}:IsShown()$0",
+		},
+		{
+			"trigger": "_MaskTexture:IsVisible\t()",
+			"contents": "${1:visible} = ${2:MaskTexture}:IsVisible()$0",
+		},
+
+
+
+		{
+			"trigger": "_MaskTexture\thelp",
+			"contents": "MaskTexture = {\n\tinherits = {\n\t\t\"MaskTexture\",\n\t\t\"Texture\",\n\t\t\"LayeredRegion\",\n\t\t\"VisibleRegion\",\n\t\t\"Region\",\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\tmethods = {\n\t\t\"CanChangeProtectedState\",\n\t\t\"ClearAllPoints\",\n\t\t\"CreateAnimationGroup\",\n\t\t\"GetAlpha\",\n\t\t\"GetAnimationGroups\",\n\t\t\"GetAtlas\",\n\t\t\"GetBlendMode\",\n\t\t\"GetBottom\",\n\t\t\"GetCenter\",\n\t\t\"GetDebugName\",\n\t\t\"GetDesaturation\",\n\t\t\"GetDrawLayer\",\n\t\t\"GetHeight\",\n\t\t\"GetHorizTile\",\n\t\t\"GetLeft\",\n\t\t\"GetName\",\n\t\t\"GetNonBlocking\",\n\t\t\"GetNumPoints\",\n\t\t\"GetObjectType\",\n\t\t\"GetParent\",\n\t\t\"GetPoint\",\n\t\t\"GetRect\",\n\t\t\"GetRight\",\n\t\t\"GetSize\",\n\t\t\"GetTexCoord\",\n\t\t\"GetTexture\",\n\t\t\"GetTop\",\n\t\t\"GetVertexColor\",\n\t\t\"GetVertexOffset\",\n\t\t\"GetVertTile\",\n\t\t\"GetWidth\",\n\t\t\"Hide\",\n\t\t\"IsDesaturated\",\n\t\t\"IsDragging\",\n\t\t\"IsForbidden\",\n\t\t\"IsIgnoringParentAlpha\",\n\t\t\"IsIgnoringParentScale\",\n\t\t\"IsMouseOver\",\n\t\t\"IsObjectLoaded\",\n\t\t\"IsObjectType\",\n\t\t\"IsProtected\",\n\t\t\"IsShown\",\n\t\t\"IsVisible\",\n\t\t\"SetAllPoints\",\n\t\t\"SetAlpha\",\n\t\t\"SetAtlas\",\n\t\t\"SetBlendMode\",\n\t\t\"SetColorTexture\",\n\t\t\"SetDesaturated\",\n\t\t\"SetDesaturation\",\n\t\t\"SetDrawLayer\",\n\t\t\"SetGradient\",\n\t\t\"SetGradientAlpha\",\n\t\t\"SetHeight\",\n\t\t\"SetHorizTile\",\n\t\t\"SetIgnoreParentAlpha\",\n\t\t\"SetIgnoreParentScale\",\n\t\t\"SetMask\",\n\t\t\"SetNonBlocking\",\n\t\t\"SetParent\",\n\t\t\"SetPoint\",\n\t\t\"SetRotation\",\n\t\t\"SetShown\",\n\t\t\"SetSize\",\n\t\t\"SetTexCoord\",\n\t\t\"SetTexture\",\n\t\t\"SetVertexColor\",\n\t\t\"SetVertexOffset\",\n\t\t\"SetVertTile\",\n\t\t\"SetWidth\",\n\t\t\"Show\",\n\t\t\"StopAnimating\",\n\t},\n}",
+		},
+	]
+}
