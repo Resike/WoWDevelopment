@@ -14,14 +14,24 @@ World of Warcraft Syntax Highlight and Auto-Completion for Sublime Text 2/3.
 
 The autocomplete is based on scopes, so no settings are neccessary.
 
+# List globals with a build system in the console window with detailed information:
+* In Sublime go to *Tools -> Build System ->* Select *Wow Global Finder*.
+* *Ctrl+B* to run the system.
+
+  # Adding globals to ignore for the build system:
+  * Add a commented line and list the globals with commas: -- GLOBALS: math, string, table
+
 # How to highlight globals with Sublime Linter:
 * First install the SublimeLinter package.
 * Then add the path to *luacheck.exe* to your system PATH table, or to the *paths/windows* setting in the Sublime Linter settings:
-"c:\Users\UserName\AppData\Roaming\Sublime Text 3\Packages\WoWDevelopment\WoW Global Finder\"
+"c:\\Users\\UserName\\AppData\\Roaming\\Sublime Text 3\\Packages\\WoWDevelopment\\WoW Global Finder\\"
 * Add *"wow lua": "lua",* to the *syntax_map* in the Sublime Linter settings.
 ![](http://i.imgur.com/Caqp3Aj.png)
-* In Sublime go to *Tools -> SublimeLinter -> Toggle Linter* then enable *globalfiner* and disable any other installed linters.
+* In Sublime go to *Tools -> SublimeLinter -> Toggle Linter* then enable *globalfinder* and disable any other installed linters.
 * Restart Sublime.
+
+  # Adding globals to ignore for luacheck in Sublime Linter:
+  * Add a commented line and list the globals without commas: -- luacheck: globals math string table
 
 Ignored globals:
 * Global Functions: *Reference\API Reference\API Reference (blizzard).txt*
