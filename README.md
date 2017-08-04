@@ -26,6 +26,7 @@ The autocomplete is based on scopes, so no settings are neccessary.
 Ignored globals:
 * Global Functions: *Reference\API Reference\API Reference (blizzard).txt*
 * Global Booleans: *Reference\Global Reference\Global Booleans.txt*
+* Global Console Variables: *Reference\Global Console Variables.sublime-completions.txt*
 * Global Numbers: *Reference\Global Reference\Global Numbers.txt*
 * Global Strings: *Reference\Global Reference\Global Strings.txt*
 

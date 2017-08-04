@@ -1,5 +1,5 @@
 {
-	"scope": "string",
+	"scope": "source.lua string",
 	"completions": [
 		{
 			"trigger": "ACHIEVEMENT_EARNED\t\"event\"",
