@@ -34,10 +34,10 @@ The autocomplete is based on scopes, so no settings are neccessary.
   * Add a commented line in the *lua* file and list the globals without commas: -- luacheck: globals math string table
 
 Ignored globals:
-* Global Functions: *Reference\API Reference\API Reference (blizzard).txt*
-* Global Booleans: *Reference\Global Reference\Global Booleans.txt*
+* Global Functions: *Reference\API Reference\API Reference (blizzard).sublime-completions.txt*
+* Global Booleans: *Reference\Global Reference\Global Booleans.sublime-completions.txt*
 * Global Console Variables: *Reference\Global Console Variables.sublime-completions.txt*
-* Global Numbers: *Reference\Global Reference\Global Numbers.txt*
-* Global Strings: *Reference\Global Reference\Global Strings.txt*
+* Global Numbers: *Reference\Global Reference\Global Numbers.sublime-completions.txt*
+* Global Strings: *Reference\Global Reference\Global Strings.sublime-completions.txt*
 
 If you would like to enable autocomplete for these, just change the *.txt* extension to: *.sublime-completions*.
