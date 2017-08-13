@@ -211,6 +211,65 @@
 			<key>name</key>
 			<string>meta.function.lua</string>
 		</dict>
+		<!-- Multiline comments -->
+		<dict>
+			<key>begin</key>
+			<string>--\[(=*)\[</string>
+			<key>captures</key>
+			<dict>
+				<key>0</key>
+				<dict>
+					<key>name</key>
+					<string>punctuation.definition.comment.lua</string>
+				</dict>
+			</dict>
+			<key>end</key>
+			<string>\]\1\]</string>
+			<key>name</key>
+			<string>comment.block.lua</string>
+		</dict>
+		<!-- Single line comment -->
+		<dict>
+			<key>captures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>punctuation.definition.comment.lua</string>
+				</dict>
+			</dict>
+			<key>match</key>
+			<string>(--)(?!\[\[).*$\n?</string>
+			<key>name</key>
+			<string>comment.line.double-dash.lua</string>
+		</dict>
+		<!-- Control keywords -->
+		<dict>
+			<key>match</key>
+			<string>\b(break|do|else|for|if|elseif|return|then|repeat|while|until|end|function|local|in)\b</string>
+			<key>name</key>
+			<string>keyword.control.lua</string>
+		</dict>
+		<!-- Important constants -->
+		<dict>
+			<key>match</key>
+			<string>(?&lt;![^.]\.|:)\b(NULL|false|nil|true|_G|_VERSION)\b|(?&lt;![.])\.{3}(?!\.)</string>
+			<key>name</key>
+			<string>constant.language.lua</string>
+		</dict>
+		<!-- Operators -->
+		<dict>
+			<key>match</key>
+			<string>\b(and|or|not)\b</string>
+			<key>name</key>
+			<string>keyword.operator.lua</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\+|-|%|#|\*|\/|\^|==?|~=|&lt;=?|&gt;=?|(?&lt;!\.)\.{2}(?!\.)</string>
+			<key>name</key>
+			<string>keyword.operator.lua</string>
+		</dict>
 		<!-- Frame types -->
 		<dict>
 			<key>match</key>
@@ -427,65 +486,6 @@
 			</dict>
 			<key>name</key>
 			<string>string.quoted.other.multiline.lua</string>
-		</dict>
-		<!-- Multiline comments -->
-		<dict>
-			<key>begin</key>
-			<string>--\[(=*)\[</string>
-			<key>captures</key>
-			<dict>
-				<key>0</key>
-				<dict>
-					<key>name</key>
-					<string>punctuation.definition.comment.lua</string>
-				</dict>
-			</dict>
-			<key>end</key>
-			<string>\]\1\]</string>
-			<key>name</key>
-			<string>comment.block.lua</string>
-		</dict>
-		<!-- Single line comment -->
-		<dict>
-			<key>captures</key>
-			<dict>
-				<key>1</key>
-				<dict>
-					<key>name</key>
-					<string>punctuation.definition.comment.lua</string>
-				</dict>
-			</dict>
-			<key>match</key>
-			<string>(--)(?!\[\[).*$\n?</string>
-			<key>name</key>
-			<string>comment.line.double-dash.lua</string>
-		</dict>
-		<!-- Control keywords -->
-		<dict>
-			<key>match</key>
-			<string>\b(break|do|else|for|if|elseif|return|then|repeat|while|until|end|function|local|in)\b</string>
-			<key>name</key>
-			<string>keyword.control.lua</string>
-		</dict>
-		<!-- Important constants -->
-		<dict>
-			<key>match</key>
-			<string>(?&lt;![^.]\.|:)\b(NULL|false|nil|true|_G|_VERSION)\b|(?&lt;![.])\.{3}(?!\.)</string>
-			<key>name</key>
-			<string>constant.language.lua</string>
-		</dict>
-		<!-- Operators -->
-		<dict>
-			<key>match</key>
-			<string>\b(and|or|not)\b</string>
-			<key>name</key>
-			<string>keyword.operator.lua</string>
-		</dict>
-		<dict>
-			<key>match</key>
-			<string>\+|-|%|#|\*|\/|\^|==?|~=|&lt;=?|&gt;=?|(?&lt;!\.)\.{2}(?!\.)</string>
-			<key>name</key>
-			<string>keyword.operator.lua</string>
 		</dict>
 		<!-- C_ActionBar -->
 		<dict>
@@ -2165,13 +2165,7 @@
 		<!-- Lua library functions -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local)\s+\b(string\.(byte|char|find|format|gfind|gmatch|gsub|join|len|lower|match|rep|reverse|rtgsub|split|sub|trim|upper)|bit\.(bnot|band|bor|bxor|lshift|rshift|arshift|mod)|(table\.(concat|foreach|foreachi|getn|insert|maxn|remove|removemulti|setn|sort|wipe))|(math\.(abs|acos|asin|atan|atan2|ceil|cos|cosh|deg|exp|floor|fmod|frexp|huge|ldexp|log|log10|max|min|modf|pow|rad|random|sin|sinh|sqrt|tan|tanh|pi))|(io\.(close|flush|input|lines|open|output|popen|read|tmpfile|type|write))|(os\.(clock|date|difftime|execute|exit|getenv|remove|rename|setlocale|time|tmpname))|(package\.(cpath|loaded|loadlib|path|preload|seeall))|debug\.(debug|[gs]etfenv|[gs]ethook|getinfo|[gs]etlocal|[gs]etmetatable|getregistry|[gs]etupvalue|traceback))\b</string>
-			<key>name</key>
-			<string>support.function.lua-library.lua</string>
-		</dict>
-		<dict>
-			<key>match</key>
-			<string>^\b(string\.(byte|char|find|format|gfind|gmatch|gsub|join|len|lower|match|rep|reverse|rtgsub|split|sub|trim|upper)|bit\.(bnot|band|bor|bxor|lshift|rshift|arshift|mod)|(table\.(concat|foreach|foreachi|getn|insert|maxn|remove|removemulti|setn|sort|wipe))|(math\.(abs|acos|asin|atan|atan2|ceil|cos|cosh|deg|exp|floor|fmod|frexp|huge|ldexp|log|log10|max|min|modf|pow|rad|random|sin|sinh|sqrt|tan|tanh|pi))|(io\.(close|flush|input|lines|open|output|popen|read|tmpfile|type|write))|(os\.(clock|date|difftime|execute|exit|getenv|remove|rename|setlocale|time|tmpname))|(package\.(cpath|loaded|loadlib|path|preload|seeall))|debug\.(debug|[gs]etfenv|[gs]ethook|getinfo|[gs]etlocal|[gs]etmetatable|getregistry|[gs]etupvalue|traceback))\b</string>
+			<string>(?&lt;!local )\b(string\.(byte|char|find|format|gfind|gmatch|gsub|join|len|lower|match|rep|reverse|rtgsub|split|sub|trim|upper)|bit\.(bnot|band|bor|bxor|lshift|rshift|arshift|mod)|(table\.(concat|foreach|foreachi|getn|insert|maxn|remove|removemulti|setn|sort|wipe))|(math\.(abs|acos|asin|atan|atan2|ceil|cos|cosh|deg|exp|floor|fmod|frexp|huge|ldexp|log|log10|max|min|modf|pow|rad|random|sin|sinh|sqrt|tan|tanh|pi))|(io\.(close|flush|input|lines|open|output|popen|read|tmpfile|type|write))|(os\.(clock|date|difftime|execute|exit|getenv|remove|rename|setlocale|time|tmpname))|(package\.(cpath|loaded|loadlib|path|preload|seeall))|debug\.(debug|[gs]etfenv|[gs]ethook|getinfo|[gs]etlocal|[gs]etmetatable|getregistry|[gs]etupvalue|traceback))\b</string>
 			<key>name</key>
 			<string>support.function.lua-library.lua</string>
 		</dict>
@@ -2191,52 +2185,28 @@
 		<!-- Lua removed library functions -->
 		<!--<dict>
 			<key>match</key>
-			<string>(?&lt;!local)\s+\b(debugbreak|debugdump|debughook|debuginfo|debugload|debugprint|debugtimestamp|securerandom|strreplace|dofile|loadfile|module|require)\b</string>
-			<key>name</key>
-			<string>invalid.removed.lua</string>
-		</dict>-->
-		<!--<dict>
-			<key>match</key>
-			<string>^\b(debugbreak|debugdump|debughook|debuginfo|debugload|debugprint|debugtimestamp|securerandom|strreplace|dofile|loadfile|module|require)\b</string>
+			<string>(?&lt;!local )\b(debugbreak|debugdump|debughook|debuginfo|debugload|debugprint|debugtimestamp|securerandom|strreplace|dofile|loadfile|module|require)\b</string>
 			<key>name</key>
 			<string>invalid.removed.lua</string>
 		</dict>-->
 		<!-- Custom library functions -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local)\s+\b(math.round|string.split|spairs)\b</string>
-			<key>name</key>
-			<string>support.function.lua-library.lua</string>
-		</dict>
-		<dict>
-			<key>match</key>
-			<string>^\b(math.round|string.split|spairs)\b</string>
+			<string>(?&lt;!local )\b(math.round|string.split|spairs)\b</string>
 			<key>name</key>
 			<string>support.function.lua-library.lua</string>
 		</dict>
 		<!-- Lua library collections -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local)\s+\b(string|table|math|io|os|package|debug)\b</string>
-			<key>name</key>
-			<string>support.function.lua-library.lua</string>
-		</dict>
-		<dict>
-			<key>match</key>
-			<string>^\b(string|table|math|io|os|package|debug)\b</string>
+			<string>(?&lt;!local )\b(string|table|math|io|os|package|debug)\b</string>
 			<key>name</key>
 			<string>support.function.lua-library.lua</string>
 		</dict>
 		<!-- WoW library functions -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local)\s+\b(_ERRORMESSAGE|abs|acos|asin|assert|atan|atan2|ceil|class|collectgarbage|cos|date|debuglocals|debugprofilestart|debugprofilestop|debugstack|deg|difftime|error|escapePatternSymbols|exp|fastrandom|floor|forceinsecure|foreach|foreachi|format|frexp|gcinfo|geterrorhandler|getfenv|getglobal|getmetatable|getn|getprinthandler|gmatch|gsub|hooksecurefunc|includes|instanceOf|ipairs|issecure|issecurevariable|ldexp|loadstring|log|log10|max|message|min|mod|newproxy|next|nop|pairs|pcall|print|rad|random|rawequal|rawget|rawset|scrub|securecall|select|seterrorhandler|setfenv|setglobal|setmetatable|setprinthandler|sin|sort|sqrt|strbyte|strchar|strcmputf8i|strconcat|strfind|strjoin|strlen|strlenutf8|strlower|strmatch|strrep|strrev|strsplit|strsub|strtrim|strupper|subclassOf|tContains|tDeleteItem|tFilter|tInvert|tan|time|tinsert|tonumber|tostring|tostringall|tremove|type|unpack|wipe|xpcall)\b</string>
-			<key>name</key>
-			<string>support.function.lua-library.FrameXML.lua</string>
-		</dict>
-		<dict>
-			<key>match</key>
-			<string>^\b(_ERRORMESSAGE|abs|acos|asin|assert|atan|atan2|ceil|class|collectgarbage|cos|date|debuglocals|debugprofilestart|debugprofilestop|debugstack|deg|difftime|error|escapePatternSymbols|exp|fastrandom|floor|forceinsecure|foreach|foreachi|format|frexp|gcinfo|geterrorhandler|getfenv|getglobal|getmetatable|getn|getprinthandler|gmatch|gsub|hooksecurefunc|includes|instanceOf|ipairs|issecure|issecurevariable|ldexp|loadstring|log|log10|max|message|min|mod|newproxy|next|nop|pairs|pcall|print|rad|random|rawequal|rawget|rawset|scrub|securecall|select|seterrorhandler|setfenv|setglobal|setmetatable|setprinthandler|sin|sort|sqrt|strbyte|strchar|strcmputf8i|strconcat|strfind|strjoin|strlen|strlenutf8|strlower|strmatch|strrep|strrev|strsplit|strsub|strtrim|strupper|subclassOf|tContains|tDeleteItem|tFilter|tInvert|tan|time|tinsert|tonumber|tostring|tostringall|tremove|type|unpack|wipe|xpcall)\b</string>
+			<string>(?&lt;!local )\b(_ERRORMESSAGE|abs|acos|asin|assert|atan|atan2|ceil|class|collectgarbage|cos|date|debuglocals|debugprofilestart|debugprofilestop|debugstack|deg|difftime|error|escapePatternSymbols|exp|fastrandom|floor|forceinsecure|foreach|foreachi|format|frexp|gcinfo|geterrorhandler|getfenv|getglobal|getmetatable|getn|getprinthandler|gmatch|gsub|hooksecurefunc|includes|instanceOf|ipairs|issecure|issecurevariable|ldexp|loadstring|log|log10|max|message|min|mod|newproxy|next|nop|pairs|pcall|print|rad|random|rawequal|rawget|rawset|scrub|securecall|select|seterrorhandler|setfenv|setglobal|setmetatable|setprinthandler|sin|sort|sqrt|strbyte|strchar|strcmputf8i|strconcat|strfind|strjoin|strlen|strlenutf8|strlower|strmatch|strrep|strrev|strsplit|strsub|strtrim|strupper|subclassOf|tContains|tDeleteItem|tFilter|tInvert|tan|time|tinsert|tonumber|tostring|tostringall|tremove|type|unpack|wipe|xpcall)\b</string>
 			<key>name</key>
 			<string>support.function.lua-library.FrameXML.lua</string>
 		</dict>
