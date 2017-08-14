@@ -230,6 +230,8 @@
 		</dict>
 		<!-- Single line comment -->
 		<dict>
+			<key>match</key>
+			<string>(--)(?!\[\[).*$\n?</string>
 			<key>captures</key>
 			<dict>
 				<key>1</key>
@@ -238,8 +240,6 @@
 					<string>punctuation.definition.comment.lua</string>
 				</dict>
 			</dict>
-			<key>match</key>
-			<string>(--)(?!\[\[).*$\n?</string>
 			<key>name</key>
 			<string>comment.line.double-dash.lua</string>
 		</dict>
@@ -309,15 +309,15 @@
 		<!-- Script types -->
 		<dict>
 			<key>match</key>
-			<string>.*((Get|Has|Hook|Set)Script)\s*(\()\s*(['"](On(?:AnimFinished|ArrowPressed|AttributeChanged|ButtonUpdate|Char(?:Composition)?|Click|ColorSelect|CooldownDone|CursorChanged|Disable|DoubleClick|Drag(?:Start|Stop)|DressModel|EditFocus(?:Gained|Lost)|Enable|Enter(?:Pressed)?|Error|EscapePressed|Event|ExternalLink|Finished|Hide|HorizontalScroll|Hyperlink(?:Click|Enter|Leave)|InputLanguageChanged|Joystick(?:AxisMotion|ButtonDown|ButtonUp|HatMotion|StickMotion)|Key(?:Down|Up)|Leave|Load|Loop|MessageScrollChanged|MinMaxChanged|ModelLoaded|Mouse(?:Down|Up|Wheel)|MovieFinished|Movie(?:Hide|Show)Subtitle|PanFinished|Pause|Play|ReceiveDrag|ScrollRangeChanged|Show|SizeChanged|SpacePressed|Stop|TabPressed|Text(?:Changed|Set)|Tooltip(?:AddMoney|Cleared|Set(?:Achievement|DefaultAnchor|EquipmentSet|Framestack|Item|Quest|Spell|Unit))|Update(?:Model)?|ValueChanged|VerticalScroll)|PostClick|PreClick)['"])</string>
+			<string>([.:])\s*\b((Get|Has|Hook|Set)Script)\b\s*(\()\s*(['"](On(?:AnimFinished|ArrowPressed|AttributeChanged|ButtonUpdate|Char(?:Composition)?|Click|ColorSelect|CooldownDone|CursorChanged|Disable|DoubleClick|Drag(?:Start|Stop)|DressModel|EditFocus(?:Gained|Lost)|Enable|Enter(?:Pressed)?|Error|EscapePressed|Event|ExternalLink|Finished|Hide|HorizontalScroll|Hyperlink(?:Click|Enter|Leave)|InputLanguageChanged|Joystick(?:AxisMotion|ButtonDown|ButtonUp|HatMotion|StickMotion)|Key(?:Down|Up)|Leave|Load|Loop|MessageScrollChanged|MinMaxChanged|ModelLoaded|Mouse(?:Down|Up|Wheel)|MovieFinished|Movie(?:Hide|Show)Subtitle|PanFinished|Pause|Play|ReceiveDrag|ScrollRangeChanged|Show|SizeChanged|SpacePressed|Stop|TabPressed|Text(?:Changed|Set)|Tooltip(?:AddMoney|Cleared|Set(?:Achievement|DefaultAnchor|EquipmentSet|Framestack|Item|Quest|Spell|Unit))|Update(?:Model)?|ValueChanged|VerticalScroll)|PostClick|PreClick)['"])</string>
 			<key>captures</key>
 			<dict>
-				<key>1</key>
+				<key>2</key>
 				<dict>
 					<key>name</key>
 					<string>support.type.widget-api.lua</string>
 				</dict>
-				<key>4</key>
+				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>variable.parameter.wow.script.types</string>
