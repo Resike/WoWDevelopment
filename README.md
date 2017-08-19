@@ -1,5 +1,5 @@
 # WoWDevelopment
-World of Warcraft Syntax Highlight and Auto-Completion for Sublime Text 2/3.
+World of Warcraft syntax highlight, auto-completion and global finder/highlighter for Sublime Text 2/3.
 
 ![](http://i.imgur.com/4f65dfl.png)
 
