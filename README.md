@@ -1,7 +1,7 @@
 # WoWDevelopment
 World of Warcraft syntax highlight, auto-completion and global finder/highlighter for Sublime Text 2/3.
 
-![](http://i.imgur.com/4f65dfl.png)
+![](http://i.imgur.com/UyQqaab.png)
 
 # Features:
 
@@ -19,7 +19,7 @@ The autocomplete is based on scopes, so no settings are neccessary.
 * *Ctrl+B* to run the system.
 
   # Adding globals to ignore for the build system:
-  * Add a commented line in the *lua* file and list the globals with commas: -- GLOBALS: math, string, table
+  * Add a commented line in the *lua* file and list the globals with commas: -- GLOBALS: *math, string, table*
 
 # How to highlight globals with Sublime Linter:
 * First install the SublimeLinter package.
@@ -31,7 +31,7 @@ The autocomplete is based on scopes, so no settings are neccessary.
 * Restart Sublime.
 
   # Adding globals to ignore for luacheck in Sublime Linter:
-  * Add a commented line in the *lua* file and list the globals without commas: -- luacheck: globals math string table
+  * Add a commented line in the *lua* file and list the globals without commas: -- luacheck: globals *math string table*
 
 Ignored globals:
 * Global Functions: *Reference\API Reference\API Reference (blizzard).sublime-completions.txt*
