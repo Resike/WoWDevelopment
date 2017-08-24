@@ -3,6 +3,6 @@
 	${0:}
 end]]></content>
 	<tabTrigger>local function</tabTrigger>
-	<scope>source.lua</scope>
 	<description>(...)</description>
+	<scope>source.lua</scope>
 </snippet>
