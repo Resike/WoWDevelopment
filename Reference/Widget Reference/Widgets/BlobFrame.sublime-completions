@@ -1,0 +1,899 @@
+{
+	"scope": "source.lua - string",
+	"completions": [
+		{
+			"trigger": "BlobFrame:CanChangeAttribute\t()",
+			"contents": "${1:BlobFrame}:CanChangeAttribute()$0",
+		},
+		{
+			"trigger": "BlobFrame:CanChangeProtectedState\t()",
+			"contents": "${1:BlobFrame}:CanChangeProtectedState()$0",
+		},
+		{
+			"trigger": "BlobFrame:ClearAllPoints\t()",
+			"contents": "${1:BlobFrame}:ClearAllPoints()$0",
+		},
+		{
+			"trigger": "BlobFrame:CreateAnimationGroup\t([\"name\"], [\"inheritsFrom\"])",
+			"contents": "${1:BlobFrame}:CreateAnimationGroup(${2:[\"name\"]}, ${3:[\"inheritsFrom\"]})$0",
+		},
+		{
+			"trigger": "BlobFrame:CreateFontString\t([\"name\"], [\"layer\"], [\"inherits\"])",
+			"contents": "${1:BlobFrame}:CreateFontString(${2:[\"name\"]}, ${3:[\"layer\"]}, ${4:[\"inherits\"]})$0",
+		},
+		{
+			"trigger": "BlobFrame:CreateLine\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:BlobFrame}:CreateLine(${2:[\"name\"]}, \"${3:[layer]}\", ${4:[\"inherits\"]}, ${5:[sublevel]})$0",
+		},
+		{
+			"trigger": "BlobFrame:CreateMaskTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:BlobFrame}:CreateMaskTexture(${2:[\"name\"]}, \"${3:[layer]}\", ${4:[\"inherits\"]}, ${5:[sublevel]})$0",
+		},
+		{
+			"trigger": "BlobFrame:CreateTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:BlobFrame}:CreateTexture(${2:[\"name\"]}, \"${3:[layer]}\", ${4:[\"inherits\"]}, ${5:[sublevel]})$0",
+		},
+		{
+			"trigger": "BlobFrame:DisableDrawLayer\t(\"layer\")",
+			"contents": "${1:BlobFrame}:DisableDrawLayer(\"${2:layer}\")$0",
+		},
+		{
+			"trigger": "BlobFrame:DrawAll\t()",
+			"contents": "${1:BlobFrame}:DrawAll()$0",
+		},
+		{
+			"trigger": "BlobFrame:DrawBlob\t(blobID, draw)",
+			"contents": "${1:BlobFrame}:DrawBlob(${2:blobID}, ${3:draw})$0",
+		},
+		{
+			"trigger": "BlobFrame:DrawNone\t()",
+			"contents": "${1:BlobFrame}:DrawNone()$0",
+		},
+		{
+			"trigger": "BlobFrame:DoesClipChildren\t()",
+			"contents": "${1:BlobFrame}:DoesClipChildren()$0",
+		},
+		{
+			"trigger": "BlobFrame:EnableDrawLayer\t(\"layer\")",
+			"contents": "${1:BlobFrame}:EnableDrawLayer(\"${2:layer}\")$0",
+		},
+		{
+			"trigger": "BlobFrame:EnableJoystick\t(enable)",
+			"contents": "${1:BlobFrame}:EnableJoystick(${2:enable})$0",
+		},
+		{
+			"trigger": "BlobFrame:EnableKeyboard\t(enable)",
+			"contents": "${1:BlobFrame}:EnableKeyboard(${2:enable})$0",
+		},
+		{
+			"trigger": "BlobFrame:EnableMerging\t(enable)",
+			"contents": "${1:BlobFrame}:EnableMerging(${2:enable})$0",
+		},
+		{
+			"trigger": "BlobFrame:EnableMouse\t(enable)",
+			"contents": "${1:BlobFrame}:EnableMouse(${2:enable})$0",
+		},
+		{
+			"trigger": "BlobFrame:EnableMouseWheel\t(enable)",
+			"contents": "${1:BlobFrame}:EnableMouseWheel(${2:enable})$0",
+		},
+		{
+			"trigger": "BlobFrame:EnableSmoothing\t(enable)",
+			"contents": "${1:BlobFrame}:EnableSmoothing(${2:enable})$0",
+		},
+		{
+			"trigger": "BlobFrame:GetAlpha\t()",
+			"contents": "${1:BlobFrame}:GetAlpha()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetAnimationGroups\t()",
+			"contents": "${1:BlobFrame}:GetAnimationGroups()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetAttribute\t(\"name\")",
+			"contents": "${1:BlobFrame}:GetAttribute(${2:\"name\"})$0",
+		},
+		{
+			"trigger": "BlobFrame:GetBackdrop\t()",
+			"contents": "${1:BlobFrame}:GetBackdrop()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetBackdropBorderColor\t()",
+			"contents": "${1:BlobFrame}:GetBackdropBorderColor()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetBackdropColor\t()",
+			"contents": "${1:BlobFrame}:GetBackdropColor()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetBottom\t()",
+			"contents": "${1:BlobFrame}:GetBottom()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetBoundsRect\t()",
+			"contents": "${1:BlobFrame}:GetBoundsRect()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetCenter\t()",
+			"contents": "${1:BlobFrame}:GetCenter()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetChildren\t()",
+			"contents": "${1:BlobFrame}:GetChildren()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetClampRectInsets\t()",
+			"contents": "${1:BlobFrame}:GetClampRectInsets()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetDebugName\t()",
+			"contents": "${1:BlobFrame}:GetDebugName()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetDepth\t()",
+			"contents": "${1:BlobFrame}:GetDepth()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetDontSavePosition\t()",
+			"contents": "${1:BlobFrame}:GetDontSavePosition()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetEffectiveAlpha\t()",
+			"contents": "${1:BlobFrame}:GetEffectiveAlpha()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetEffectiveDepth\t()",
+			"contents": "${1:BlobFrame}:GetEffectiveDepth()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetEffectivelyFlattensRenderLayers\t()",
+			"contents": "${1:BlobFrame}:GetEffectivelyFlattensRenderLayers()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetEffectiveScale\t()",
+			"contents": "${1:BlobFrame}:GetEffectiveScale()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetFlattensRenderLayers\t()",
+			"contents": "${1:BlobFrame}:GetFlattensRenderLayers()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetFrameLevel\t()",
+			"contents": "${1:BlobFrame}:GetFrameLevel()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetFrameStrata\t()",
+			"contents": "${1:BlobFrame}:GetFrameStrata()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetHeight\t()",
+			"contents": "${1:BlobFrame}:GetHeight()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetHitRectInsets\t()",
+			"contents": "${1:BlobFrame}:GetHitRectInsets()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetHyperlinksEnabled\t()",
+			"contents": "${1:BlobFrame}:GetHyperlinksEnabled()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetID\t()",
+			"contents": "${1:BlobFrame}:GetID()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetLeft\t()",
+			"contents": "${1:BlobFrame}:GetLeft()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetMaxResize\t()",
+			"contents": "${1:BlobFrame}:GetMaxResize()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetMinResize\t()",
+			"contents": "${1:BlobFrame}:GetMinResize()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetName\t()",
+			"contents": "${1:BlobFrame}:GetName()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetNumChildren\t()",
+			"contents": "${1:BlobFrame}:GetNumChildren()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetNumPoints\t()",
+			"contents": "${1:BlobFrame}:GetNumPoints()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetNumRegions\t()",
+			"contents": "${1:BlobFrame}:GetNumRegions()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetObjectType\t()",
+			"contents": "${1:BlobFrame}:GetObjectType()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetParent\t()",
+			"contents": "${1:BlobFrame}:GetParent()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetPoint\t(index)",
+			"contents": "${1:BlobFrame}:GetPoint(${2:index})$0",
+		},
+		{
+			"trigger": "BlobFrame:GetPropagateKeyboardInput\t()",
+			"contents": "${1:BlobFrame}:GetPropagateKeyboardInput()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetRect\t()",
+			"contents": "${1:BlobFrame}:GetRect()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetRegions\t()",
+			"contents": "${1:BlobFrame}:GetRegions()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetRight\t()",
+			"contents": "${1:BlobFrame}:GetRight()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetScale\t()",
+			"contents": "${1:BlobFrame}:GetScale()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetScript\t(\"scriptType\")",
+			"contents": "${1:BlobFrame}:GetScript(\"${2:scriptType}\")$0",
+		},
+		{
+			"trigger": "BlobFrame:GetSize\t()",
+			"contents": "${1:BlobFrame}:GetSize()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetTop\t()",
+			"contents": "${1:BlobFrame}:GetTop()$0",
+		},
+		{
+			"trigger": "BlobFrame:GetWidth\t()",
+			"contents": "${1:BlobFrame}:GetWidth()$0",
+		},
+		{
+			"trigger": "BlobFrame:HasScript\t(\"scriptType\")",
+			"contents": "${1:BlobFrame}:HasScript(\"${2:scriptType}\")$0",
+		},
+		{
+			"trigger": "BlobFrame:Hide\t()",
+			"contents": "${1:BlobFrame}:Hide()$0",
+		},
+		{
+			"trigger": "BlobFrame:HookScript\t(\"scriptType\", handler)",
+			"contents": "${1:BlobFrame}:HookScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "BlobFrame:IgnoreDepth\t(enable)",
+			"contents": "${1:BlobFrame}:IgnoreDepth(${2:enable})$0",
+		},
+		{
+			"trigger": "BlobFrame:IsClampedToScreen\t()",
+			"contents": "${1:BlobFrame}:IsClampedToScreen()$0",
+		},
+		{
+			"trigger": "BlobFrame:IsDragging\t()",
+			"contents": "${1:BlobFrame}:IsDragging()$0",
+		},
+		{
+			"trigger": "BlobFrame:IsEventRegistered\t(\"event\")",
+			"contents": "${1:BlobFrame}:IsEventRegistered(\"${2:event}\")$0",
+		},
+		{
+			"trigger": "BlobFrame:IsForbidden\t()",
+			"contents": "${1:BlobFrame}:IsForbidden()$0",
+		},
+		{
+			"trigger": "BlobFrame:IsIgnoringDepth\t()",
+			"contents": "${1:BlobFrame}:IsIgnoringDepth()$0",
+		},
+		{
+			"trigger": "BlobFrame:IsIgnoringParentAlpha\t()",
+			"contents": "${1:BlobFrame}:IsIgnoringParentAlpha()$0",
+		},
+		{
+			"trigger": "BlobFrame:IsIgnoringParentScale\t()",
+			"contents": "${1:BlobFrame}:IsIgnoringParentScale()$0",
+		},
+		{
+			"trigger": "BlobFrame:IsJoystickEnabled\t()",
+			"contents": "${1:BlobFrame}:IsJoystickEnabled()$0",
+		},
+		{
+			"trigger": "BlobFrame:IsKeyboardEnabled\t()",
+			"contents": "${1:BlobFrame}:IsKeyboardEnabled()$0",
+		},
+		{
+			"trigger": "BlobFrame:IsMouseClickEnabled\t()",
+			"contents": "${1:BlobFrame}:IsMouseClickEnabled()$0",
+		},
+		{
+			"trigger": "BlobFrame:IsMouseEnabled\t()",
+			"contents": "${1:BlobFrame}:IsMouseEnabled()$0",
+		},
+		{
+			"trigger": "BlobFrame:IsMouseMotionEnabled\t()",
+			"contents": "${1:BlobFrame}:IsMouseMotionEnabled()$0",
+		},
+		{
+			"trigger": "BlobFrame:IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
+			"contents": "${1:BlobFrame}:IsMouseOver(${2:[topOffset]}, ${3:[leftOffset]}, ${4:[bottomOffset]}, ${5:[rightOffset]})$0",
+		},
+		{
+			"trigger": "BlobFrame:IsMouseWheelEnabled\t()",
+			"contents": "${1:BlobFrame}:IsMouseWheelEnabled()$0",
+		},
+		{
+			"trigger": "BlobFrame:IsMovable\t()",
+			"contents": "${1:BlobFrame}:IsMovable()$0",
+		},
+		{
+			"trigger": "BlobFrame:IsObjectLoaded\t()",
+			"contents": "${1:BlobFrame}:IsObjectLoaded()$0",
+		},
+		{
+			"trigger": "BlobFrame:IsObjectType\t()",
+			"contents": "${1:BlobFrame}:IsObjectType()$0",
+		},
+		{
+			"trigger": "BlobFrame:IsProtected\t()",
+			"contents": "${1:BlobFrame}:IsProtected()$0",
+		},
+		{
+			"trigger": "BlobFrame:IsResizable\t()",
+			"contents": "${1:BlobFrame}:IsResizable()$0",
+		},
+		{
+			"trigger": "BlobFrame:IsShown\t()",
+			"contents": "${1:BlobFrame}:IsShown()$0",
+		},
+		{
+			"trigger": "BlobFrame:IsToplevel\t()",
+			"contents": "${1:BlobFrame}:IsToplevel()$0",
+		},
+		{
+			"trigger": "BlobFrame:IsUserPlaced\t()",
+			"contents": "${1:BlobFrame}:IsUserPlaced()$0",
+		},
+		{
+			"trigger": "BlobFrame:IsVisible\t()",
+			"contents": "${1:BlobFrame}:IsVisible()$0",
+		},
+		{
+			"trigger": "BlobFrame:Lower\t()",
+			"contents": "${1:BlobFrame}:Lower()$0",
+		},
+		{
+			"trigger": "BlobFrame:Raise\t()",
+			"contents": "${1:BlobFrame}:Raise()$0",
+		},
+		{
+			"trigger": "BlobFrame:RegisterAllEvents\t()",
+			"contents": "${1:BlobFrame}:RegisterAllEvents()$0",
+		},
+		{
+			"trigger": "BlobFrame:RegisterEvent\t(\"event\")",
+			"contents": "${1:BlobFrame}:RegisterEvent(\"${2:event}\")$0",
+		},
+		{
+			"trigger": "BlobFrame:RegisterForDrag\t(...)",
+			"contents": "${1:BlobFrame}:RegisterForDrag(${2:...})$0",
+		},
+		{
+			"trigger": "BlobFrame:RegisterUnitEvent\t(\"event\", \"unit1\", \"unit2\")",
+			"contents": "${1:BlobFrame}:RegisterUnitEvent(\"${2:event}\", \"${3:unit1}\", \"${4:unit2}\")$0",
+		},
+		{
+			"trigger": "BlobFrame:SetAllPoints\t([frame])",
+			"contents": "${1:BlobFrame}:SetAllPoints(${2:[frame]})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetAlpha\t(alpha)",
+			"contents": "${1:BlobFrame}:SetAlpha(${2:alpha})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetAttribute\t(\"name\", value)",
+			"contents": "${1:BlobFrame}:SetAttribute(${2:\"name\"}, ${3:value})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetBackdrop\t(backdrop)",
+			"contents": "${1:BlobFrame}:SetBackdrop(${2:backdrop})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetBackdropBorderColor\t(red, green, blue, [alpha])",
+			"contents": "${1:BlobFrame}:SetBackdropBorderColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetBackdropColor\t(red, green, blue, [alpha])",
+			"contents": "${1:BlobFrame}:SetBackdropColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetBorderAlpha\t(alpha)",
+			"contents": "${1:BlobFrame}:SetBorderAlpha(${2:alpha})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetBorderScalar\t(scalar)",
+			"contents": "${1:BlobFrame}:SetBorderScalar(${2:scalar})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetBorderTexture\t(\"texture\")",
+			"contents": "${1:BlobFrame}:SetBorderTexture(\"${2:texture}\")$0",
+		},
+		{
+			"trigger": "BlobFrame:SetClampedToScreen\t(enable)",
+			"contents": "${1:BlobFrame}:SetClampedToScreen(${2:enable})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetClampRectInsets\t(left, right, top, bottom)",
+			"contents": "${1:BlobFrame}:SetClampRectInsets(${2:left}, ${3:right}, ${4:top}, ${5:bottom})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetClipsChildren\t(enable)",
+			"contents": "${1:BlobFrame}:SetClipsChildren(${2:enable})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetDepth\t(depth)",
+			"contents": "${1:BlobFrame}:SetDepth(${2:depth})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetDontSavePosition\t(enable)",
+			"contents": "${1:BlobFrame}:SetDontSavePosition(${2:enable})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetFillAlpha\t(alpha)",
+			"contents": "${1:BlobFrame}:SetFillAlpha(${2:alpha})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetFillTexture\t(\"texture\")",
+			"contents": "${1:BlobFrame}:SetFillTexture(\"${2:texture}\")$0",
+		},
+		{
+			"trigger": "BlobFrame:SetFlattensRenderLayers\t(enable)",
+			"contents": "${1:BlobFrame}:SetFlattensRenderLayers(${2:enable})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetFrameLevel\t(level)",
+			"contents": "${1:BlobFrame}:SetFrameLevel(${2:level})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetFrameStrata\t(\"strata\")",
+			"contents": "${1:BlobFrame}:SetFrameStrata(\"${2:strata}\")$0",
+		},
+		{
+			"trigger": "BlobFrame:SetHeight\t(height)",
+			"contents": "${1:BlobFrame}:SetHeight(${2:height})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetHitRectInsets\t(left, right, top, bottom)",
+			"contents": "${1:BlobFrame}:SetHitRectInsets(${2:left}, ${3:right}, ${4:top}, ${5:bottom})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetHyperlinksEnabled\t(enable)",
+			"contents": "${1:BlobFrame}:SetHyperlinksEnabled(${2:enable})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetID\t(id)",
+			"contents": "${1:BlobFrame}:SetID(${2:id})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetIgnoreParentAlpha\t(enable)",
+			"contents": "${1:BlobFrame}:SetIgnoreParentAlpha(${2:enable})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetIgnoreParentScale\t(enable)",
+			"contents": "${1:BlobFrame}:SetIgnoreParentScale(${2:enable})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetMaxResize\t(maxWidth, maxHeight)",
+			"contents": "${1:BlobFrame}:SetMaxResize(${2:maxWidth}, ${3:maxHeight})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetMergeThreshold\t(threshold)",
+			"contents": "${1:BlobFrame}:SetMergeThreshold(${2:threshold})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetMinResize\t(minWidth, minHeight)",
+			"contents": "${1:BlobFrame}:SetMinResize(${2:minWidth}, ${3:minHeight})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetMouseClickEnabled\t(enable)",
+			"contents": "${1:BlobFrame}:SetMouseClickEnabled(${2:enable})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetMouseMotionEnabled\t(enable)",
+			"contents": "${1:BlobFrame}:SetMouseMotionEnabled(${2:enable})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetMovable\t(enable)",
+			"contents": "${1:BlobFrame}:SetMovable(${2:enable})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetNumSplinePoints\t(numPoints)",
+			"contents": "${1:BlobFrame}:SetNumSplinePoints(${2:numPoints})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetParent\t(frame)",
+			"contents": "${1:BlobFrame}:SetParent(${2:BlobFrame})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetPoint\t(\"point\", [relativeTo], [\"relativePoint\"], [xOffset], [yOffset])",
+			"contents": "${1:BlobFrame}:SetPoint(\"${2:point}\", ${3:[relativeTo]}, \"${4:[relativePoint]}\", ${5:[xOffset]}, ${6:[yOffset]})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetPropagateKeyboardInput\t(enable)",
+			"contents": "${1:BlobFrame}:SetPropagateKeyboardInput(${2:enable})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetResizable\t(enable)",
+			"contents": "${1:BlobFrame}:SetResizable(${2:enable})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetScale\t(scale)",
+			"contents": "${1:BlobFrame}:SetScale(${2:scale})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetScript\t(\"scriptType\", handler)",
+			"contents": "${1:BlobFrame}:SetScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetShown\t(enable)",
+			"contents": "${1:BlobFrame}:SetShown(${2:enable})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetSize\t(width, height)",
+			"contents": "${1:BlobFrame}:SetSize(${2:width}, ${3:height})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetToplevel\t(enable)",
+			"contents": "${1:BlobFrame}:SetToplevel(${2:enable})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetUserPlaced\t(enable)",
+			"contents": "${1:BlobFrame}:SetUserPlaced(${2:enable})$0",
+		},
+		{
+			"trigger": "BlobFrame:SetWidth\t(width)",
+			"contents": "${1:BlobFrame}:SetWidth(${2:width})$0",
+		},
+		{
+			"trigger": "BlobFrame:Show\t()",
+			"contents": "${1:BlobFrame}:Show()$0",
+		},
+		{
+			"trigger": "BlobFrame:StartMoving\t()",
+			"contents": "${1:BlobFrame}:StartMoving()$0",
+		},
+		{
+			"trigger": "BlobFrame:StartSizing\t()",
+			"contents": "${1:BlobFrame}:StartSizing()$0",
+		},
+		{
+			"trigger": "BlobFrame:StopAnimating\t()",
+			"contents": "${1:BlobFrame}:StopAnimating()$0",
+		},
+		{
+			"trigger": "BlobFrame:StopMovingOrSizing\t()",
+			"contents": "${1:BlobFrame}:StopMovingOrSizing()$0",
+		},
+		{
+			"trigger": "BlobFrame:UnregisterAllEvents\t()",
+			"contents": "${1:BlobFrame}:UnregisterAllEvents()$0",
+		},
+		{
+			"trigger": "BlobFrame:UnregisterEvent\t(\"event\")",
+			"contents": "${1:BlobFrame}:UnregisterEvent(\"${2:event}\")$0",
+		},
+
+
+
+		{
+			"trigger": "_BlobFrame:CanChangeAttribute\t()",
+			"contents": "${1:enabled} = ${2:BlobFrame}:CanChangeAttribute()$0",
+		},
+		{
+			"trigger": "_BlobFrame:CanChangeProtectedState\t()",
+			"contents": "${1:canChange} = ${2:BlobFrame}:CanChangeProtectedState()$0",
+		},
+		{
+			"trigger": "_BlobFrame:CreateFontString\t([\"name\"], [\"layer\"], [\"inherits\"])",
+			"contents": "${1:fontstring} = ${2:BlobFrame}:CreateFontString(${3:[\"name\"]}, ${4:[\"layer\"]}, ${5:[\"inherits\"]})$0",
+		},
+		{
+			"trigger": "_BlobFrame:CreateLine\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:texture} = ${2:BlobFrame}:CreateLine(${3:[\"name\"]}, \"${4:[layer]}\", ${5:[\"inherits\"]}, ${6:[sublevel]})$0",
+		},
+		{
+			"trigger": "_BlobFrame:CreateMaskTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:texture} = ${2:BlobFrame}:CreateMaskTexture(${3:[\"name\"]}, \"${4:[layer]}\", ${5:[\"inherits\"]}, ${6:[sublevel]})$0",
+		},
+		{
+			"trigger": "_BlobFrame:CreateTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:texture} = ${2:BlobFrame}:CreateTexture(${3:[\"name\"]}, \"${4:[layer]}\", ${5:[\"inherits\"]}, ${6:[sublevel]})$0",
+		},
+		{
+			"trigger": "_BlobFrame:DoesClipChildren\t()",
+			"contents": "${1:doesClip} = ${2:BlobFrame}:DoesClipChildren()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetAlpha\t()",
+			"contents": "${1:alpha} = ${2:BlobFrame}:GetAlpha()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetAnimationGroups\t()",
+			"contents": "${1:...} = ${2:BlobFrame}:GetAnimationGroups()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetAttribute\t(\"name\")",
+			"contents": "${1:value} = ${2:BlobFrame}:GetAttribute(${3:\"name\"})$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetBackdrop\t()",
+			"contents": "${1:backdrop} = ${2:BlobFrame}:GetBackdrop()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetBackdropBorderColor\t()",
+			"contents": "${1:red}, ${2:green}, ${3:blue}, ${4:alpha} = ${5:BlobFrame}:GetBackdropBorderColor()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetBackdropColor\t()",
+			"contents": "${1:red}, ${2:green}, ${3:blue}, ${4:alpha} = ${5:BlobFrame}:GetBackdropColor()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetBottom\t()",
+			"contents": "${1:bottom} = ${2:BlobFrame}:GetBottom()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetBoundsRect\t()",
+			"contents": "${1:left}, ${2:bottom}, ${3:width}, ${4:height} = ${5:BlobFrame}:GetBoundsRect()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetCenter\t()",
+			"contents": "${1:x}, ${2:y} = ${3:BlobFrame}:GetCenter()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetChildren\t()",
+			"contents": "${1:...} = ${2:BlobFrame}:GetChildren()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetClampRectInsets\t()",
+			"contents": "${1:left}, ${2:right}, ${3:top}, ${4:bottom} = ${5:BlobFrame}:GetClampRectInsets()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetDebugName\t()",
+			"contents": "${1:name} = ${2:BlobFrame}:GetDebugName()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetDepth\t()",
+			"contents": "${1:depth} = ${2:BlobFrame}:GetDepth()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetDontSavePosition\t()",
+			"contents": "${1:saved} = ${2:BlobFrame}:GetDontSavePosition()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetEffectiveAlpha\t()",
+			"contents": "${1:alpha} = ${2:BlobFrame}:GetEffectiveAlpha()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetEffectiveDepth\t()",
+			"contents": "${1:depth} = ${2:BlobFrame}:GetEffectiveDepth()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetEffectivelyFlattensRenderLayers\t()",
+			"contents": "${1:doesFlattens} = ${2:BlobFrame}:GetEffectivelyFlattensRenderLayers()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetEffectiveScale\t()",
+			"contents": "${1:scale} = ${2:BlobFrame}:GetEffectiveScale()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetFlattensRenderLayers\t()",
+			"contents": "${1:doesFlattens} = ${2:BlobFrame}:GetFlattensRenderLayers()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetFrameLevel\t()",
+			"contents": "${1:level} = ${2:BlobFrame}:GetFrameLevel()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetFrameStrata\t()",
+			"contents": "${1:strata} = ${2:BlobFrame}:GetFrameStrata()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetHeight\t()",
+			"contents": "${1:height} = ${2:BlobFrame}:GetHeight()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetHitRectInsets\t()",
+			"contents": "${1:left}, ${2:right}, ${3:top}, ${4:bottom} = ${5:BlobFrame}:GetHitRectInsets()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetHyperlinksEnabled\t()",
+			"contents": "${1:enabled} = ${2:BlobFrame}:GetHyperlinksEnabled()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetID\t()",
+			"contents": "${1:id} = ${2:BlobFrame}:GetID()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetLeft\t()",
+			"contents": "${1:left} = ${2:BlobFrame}:GetLeft()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetMaxResize\t()",
+			"contents": "${1:maxWidth}, ${2:maxHeight} = ${3:BlobFrame}:GetMaxResize()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetMinResize\t()",
+			"contents": "${1:minWidth}, ${2:minHeight} = ${3:BlobFrame}:GetMinResize()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetName\t()",
+			"contents": "${1:name} = ${2:BlobFrame}:GetName()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetNumChildren\t()",
+			"contents": "${1:numChildren} = ${2:BlobFrame}:GetNumChildren()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetNumPoints\t()",
+			"contents": "${1:numPoints} = ${2:BlobFrame}:GetNumPoints()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetNumRegions\t()",
+			"contents": "${1:numRegions} = ${2:BlobFrame}:GetNumRegions()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetObjectType\t()",
+			"contents": "${1:type} = ${2:BlobFrame}:GetObjectType()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetPoint\t(index)",
+			"contents": "${1:point}, ${2:relativeTo}, ${3:relativePoint}, ${4:xOffset}, ${5:yOffset} = ${6:BlobFrame}:GetPoint(${7:index})$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetPropagateKeyboardInput\t()",
+			"contents": "${1:propagate} = ${2:BlobFrame}:GetPropagateKeyboardInput()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetRect\t()",
+			"contents": "${1:left}, ${2:bottom}, ${3:width}, ${4:height} = ${5:BlobFrame}:GetRect()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetRegions\t()",
+			"contents": "${1:...} = ${2:BlobFrame}:GetRegions()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetRight\t()",
+			"contents": "${1:right} = ${2:BlobFrame}:GetRight()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetScale\t()",
+			"contents": "${1:scale} = ${2:BlobFrame}:GetScale()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetScript\t(\"scriptType\")",
+			"contents": "${1:handler} = ${2:BlobFrame}:GetScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetSize\t()",
+			"contents": "${1:width}, ${2:height} = ${3:BlobFrame}:GetSize()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetTop\t()",
+			"contents": "${1:top} = ${2:BlobFrame}:GetTop()$0",
+		},
+		{
+			"trigger": "_BlobFrame:GetWidth\t()",
+			"contents": "${1:width} = ${2:BlobFrame}:GetWidth()$0",
+		},
+		{
+			"trigger": "_BlobFrame:HasScript\t(\"scriptType\")",
+			"contents": "${1:hasScript} = ${2:BlobFrame}:HasScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "_BlobFrame:IsClampedToScreen\t()",
+			"contents": "${1:enabled} = ${2:BlobFrame}:IsClampedToScreen()$0",
+		},
+		{
+			"trigger": "_BlobFrame:IsDragging\t()",
+			"contents": "${1:isDragging} = ${2:BlobFrame}:IsDragging()$0",
+		},
+		{
+			"trigger": "_BlobFrame:IsEventRegistered\t(\"event\")",
+			"contents": "${1:registered} = ${2:BlobFrame}:IsEventRegistered(\"${3:event}\")$0",
+		},
+		{
+			"trigger": "_BlobFrame:IsForbidden\t()",
+			"contents": "${1:isForbidden} = ${2:BlobFrame}:IsForbidden()$0",
+		},
+		{
+			"trigger": "_BlobFrame:IsIgnoringDepth\t()",
+			"contents": "${1:enabled} = ${2:BlobFrame}:IsIgnoringDepth()$0",
+		},
+		{
+			"trigger": "_BlobFrame:IsIgnoringParentAlpha\t()",
+			"contents": "${1:isIgnoring} = ${2:BlobFrame}:IsIgnoringParentAlpha()$0",
+		},
+		{
+			"trigger": "_BlobFrame:IsIgnoringParentScale\t()",
+			"contents": "${1:isIgnoring} = ${2:BlobFrame}:IsIgnoringParentScale()$0",
+		},
+		{
+			"trigger": "_BlobFrame:IsJoystickEnabled\t()",
+			"contents": "${1:enabled} = ${2:BlobFrame}:IsJoystickEnabled()$0",
+		},
+		{
+			"trigger": "_BlobFrame:IsKeyboardEnabled\t()",
+			"contents": "${1:enabled} = ${2:BlobFrame}:IsKeyboardEnabled()$0",
+		},
+		{
+			"trigger": "_BlobFrame:IsMouseClickEnabled\t()",
+			"contents": "${1:enabled} = ${2:BlobFrame}:IsMouseClickEnabled()$0",
+		},
+		{
+			"trigger": "_BlobFrame:IsMouseEnabled\t()",
+			"contents": "${1:enabled} = ${2:BlobFrame}:IsMouseEnabled()$0",
+		},
+		{
+			"trigger": "_BlobFrame:IsMouseMotionEnabled\t()",
+			"contents": "${1:enabled} = ${2:BlobFrame}:IsMouseMotionEnabled()$0",
+		},
+		{
+			"trigger": "_BlobFrame:IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
+			"contents": "${1:isOver} = ${2:BlobFrame}:IsMouseOver(${3:[topOffset]}, ${4:[leftOffset]}, ${5:[bottomOffset]}, ${6:[rightOffset]})$0",
+		},
+		{
+			"trigger": "_BlobFrame:IsMouseWheelEnabled\t()",
+			"contents": "${1:enabled} = ${2:BlobFrame}:IsMouseWheelEnabled()$0",
+		},
+		{
+			"trigger": "_BlobFrame:IsMovable\t()",
+			"contents": "${1:movable} = ${2:BlobFrame}:IsMovable()$0",
+		},
+		{
+			"trigger": "_BlobFrame:IsObjectLoaded\t()",
+			"contents": "${1:loaded} = ${2:BlobFrame}:IsObjectLoaded()$0",
+		},
+		{
+			"trigger": "_BlobFrame:IsObjectType\t(\"type\")",
+			"contents": "${1:isType} = ${2:BlobFrame}:IsObjectType(\"${3:type}\")$0",
+		},
+		{
+			"trigger": "_BlobFrame:IsProtected\t()",
+			"contents": "${1:isProtected}, ${2:explicit} = ${3:BlobFrame}:IsProtected()$0",
+		},
+		{
+			"trigger": "_BlobFrame:IsResizable\t()",
+			"contents": "${1:enabled} = ${2:BlobFrame}:IsResizable()$0",
+		},
+		{
+			"trigger": "_BlobFrame:IsShown\t()",
+			"contents": "${1:shown} = ${2:BlobFrame}:IsShown()$0",
+		},
+		{
+			"trigger": "_BlobFrame:IsToplevel\t()",
+			"contents": "${1:enabled} = ${2:BlobFrame}:IsToplevel()$0",
+		},
+		{
+			"trigger": "_BlobFrame:IsUserPlaced\t()",
+			"contents": "${1:enabled} = ${2:BlobFrame}:IsUserPlaced()$0",
+		},
+		{
+			"trigger": "_BlobFrame:IsVisible\t()",
+			"contents": "${1:visible} = ${2:BlobFrame}:IsVisible()$0",
+		},
+
+
+
+		{
+			"trigger": "_BlobFrame\thelp",
+			"contents": "BlobFrame = {\n\tinherits = {\n\t\t\"BlobFrame\",\n\t\t\"Frame\",\n\t\t\"ScriptObject\",\n\t\t\"VisibleRegion\",\n\t\t\"Region\",\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\thandlers = {\n\t\t[\"OnAttributeChanged\"] = \"self, name, value\",\n\t\t[\"OnChar\"] = \"self, text\",\n\t\t[\"OnDisable\"] = \"self\",\n\t\t[\"OnDragStart\"] = \"self, button\",\n\t\t[\"OnDragStop\"] = \"self\",\n\t\t[\"OnEnable\"] = \"self\",\n\t\t[\"OnEnter\"] = \"self, motion\",\n\t\t[\"OnEvent\"] = \"self, event, ...\",\n\t\t[\"OnHide\"] = \"self\",\n\t\t[\"OnHyperlinkClick\"] = \"self, link, text, button, region, left, bottom, width, height\",\n\t\t[\"OnHyperlinkEnter\"] = \"self, link, text, region, left, bottom, width, height\",\n\t\t[\"OnHyperlinkLeave\"] = \"self\",\n\t\t[\"OnKeyDown\"] = \"self, key\",\n\t\t[\"OnKeyUp\"] = \"self, key\",\n\t\t[\"OnLeave\"] = \"self, motion\",\n\t\t[\"OnLoad\"] = \"self\",\n\t\t[\"OnMouseDown\"] = \"self, button\",\n\t\t[\"OnMouseUp\"] = \"self, button, upInside\",\n\t\t[\"OnMouseWheel\"] = \"self, delta\",\n\t\t[\"OnReceiveDrag\"] = \"self\",\n\t\t[\"OnShow\"] = \"self\",\n\t\t[\"OnSizeChanged\"] = \"self, width, height\",\n\t\t[\"OnUpdate\"] = \"self, elapsed\",\n\t},\n\tmethods = {\n\t\t\"CanChangeAttribute\",\n\t\t\"CanChangeProtectedState\",\n\t\t\"ClearAllPoints\",\n\t\t\"CreateAnimationGroup\",\n\t\t\"CreateFontString\",\n\t\t\"CreateLine\",\n\t\t\"CreateMaskTexture\",\n\t\t\"CreateTexture\",\n\t\t\"DisableDrawLayer\",\n\t\t\"DoesClipChildren\",\n\t\t\"DrawAll\",\n\t\t\"DrawBlob\",\n\t\t\"DrawNone\",\n\t\t\"EnableDrawLayer\",\n\t\t\"EnableJoystick\",\n\t\t\"EnableKeyboard\",\n\t\t\"EnableMerging\",\n\t\t\"EnableMouse\",\n\t\t\"EnableMouseWheel\",\n\t\t\"EnableSmoothing\",\n\t\t\"GetAlpha\",\n\t\t\"GetAnimationGroups\",\n\t\t\"GetAttribute\",\n\t\t\"GetBackdrop\",\n\t\t\"GetBackdropBorderColor\",\n\t\t\"GetBackdropColor\",\n\t\t\"GetBottom\",\n\t\t\"GetBoundsRect\",\n\t\t\"GetCenter\",\n\t\t\"GetChildren\",\n\t\t\"GetClampRectInsets\",\n\t\t\"GetDebugName\",\n\t\t\"GetDepth\",\n\t\t\"GetDontSavePosition\",\n\t\t\"GetEffectiveAlpha\",\n\t\t\"GetEffectiveDepth\",\n\t\t\"GetEffectivelyFlattensRenderLayers\",\n\t\t\"GetEffectiveScale\",\n\t\t\"GetFlattensRenderLayers\",\n\t\t\"GetFrameLevel\",\n\t\t\"GetFrameStrata\",\n\t\t\"GetHeight\",\n\t\t\"GetHitRectInsets\",\n\t\t\"GetHyperlinksEnabled\",\n\t\t\"GetID\",\n\t\t\"GetLeft\",\n\t\t\"GetMaxResize\",\n\t\t\"GetMinResize\",\n\t\t\"GetName\",\n\t\t\"GetNumChildren\",\n\t\t\"GetNumPoints\",\n\t\t\"GetNumRegions\",\n\t\t\"GetObjectType\",\n\t\t\"GetParent\",\n\t\t\"GetPoint\",\n\t\t\"GetPropagateKeyboardInput\",\n\t\t\"GetRect\",\n\t\t\"GetRegions\",\n\t\t\"GetRight\",\n\t\t\"GetScale\",\n\t\t\"GetScript\",\n\t\t\"GetSize\",\n\t\t\"GetTop\",\n\t\t\"GetWidth\",\n\t\t\"HasScript\",\n\t\t\"Hide\",\n\t\t\"HookScript\",\n\t\t\"IgnoreDepth\",\n\t\t\"IsClampedToScreen\",\n\t\t\"IsDragging\",\n\t\t\"IsEventRegistered\",\n\t\t\"IsForbidden\",\n\t\t\"IsIgnoringDepth\",\n\t\t\"IsIgnoringParentAlpha\",\n\t\t\"IsIgnoringParentScale\",\n\t\t\"IsJoystickEnabled\",\n\t\t\"IsKeyboardEnabled\",\n\t\t\"IsMouseClickEnabled\",\n\t\t\"IsMouseEnabled\",\n\t\t\"IsMouseMotionEnabled\",\n\t\t\"IsMouseOver\",\n\t\t\"IsMouseWheelEnabled\",\n\t\t\"IsMovable\",\n\t\t\"IsObjectLoaded\",\n\t\t\"IsObjectType\",\n\t\t\"IsProtected\",\n\t\t\"IsResizable\",\n\t\t\"IsShown\",\n\t\t\"IsToplevel\",\n\t\t\"IsUserPlaced\",\n\t\t\"IsVisible\",\n\t\t\"Lower\",\n\t\t\"Raise\",\n\t\t\"RegisterAllEvents\",\n\t\t\"RegisterEvent\",\n\t\t\"RegisterForDrag\",\n\t\t\"RegisterUnitEvent\",\n\t\t\"SetAllPoints\",\n\t\t\"SetAlpha\",\n\t\t\"SetAttribute\",\n\t\t\"SetBackdrop\",\n\t\t\"SetBackdropBorderColor\",\n\t\t\"SetBackdropColor\",\n\t\t\"SetBorderAlpha\",\n\t\t\"SetBorderScalar\",\n\t\t\"SetBorderTexture\",\n\t\t\"SetClampedToScreen\",\n\t\t\"SetClampRectInsets\",\n\t\t\"SetClipsChildren\",\n\t\t\"SetDepth\",\n\t\t\"SetDontSavePosition\",\n\t\t\"SetFillAlpha\",\n\t\t\"SetFillTexture\",\n\t\t\"SetFlattensRenderLayers\",\n\t\t\"SetFrameLevel\",\n\t\t\"SetFrameStrata\",\n\t\t\"SetHeight\",\n\t\t\"SetHitRectInsets\",\n\t\t\"SetHyperlinksEnabled\",\n\t\t\"SetID\",\n\t\t\"SetIgnoreParentAlpha\",\n\t\t\"SetIgnoreParentScale\",\n\t\t\"SetMaxResize\",\n\t\t\"SetMergeThreshold\",\n\t\t\"SetMinResize\",\n\t\t\"SetMouseClickEnabled\",\n\t\t\"SetMouseMotionEnabled\",\n\t\t\"SetMovable\",\n\t\t\"SetNumSplinePoints\",\n\t\t\"SetParent\",\n\t\t\"SetPoint\",\n\t\t\"SetPropagateKeyboardInput\",\n\t\t\"SetResizable\",\n\t\t\"SetScale\",\n\t\t\"SetScript\",\n\t\t\"SetShown\",\n\t\t\"SetSize\",\n\t\t\"SetToplevel\",\n\t\t\"SetUserPlaced\",\n\t\t\"SetWidth\",\n\t\t\"Show\",\n\t\t\"StartMoving\",\n\t\t\"StartSizing\",\n\t\t\"StopAnimating\",\n\t\t\"StopMovingOrSizing\",\n\t\t\"UnregisterAllEvents\",\n\t\t\"UnregisterEvent\",\n\t},\n}",
+		},
+	]
+}

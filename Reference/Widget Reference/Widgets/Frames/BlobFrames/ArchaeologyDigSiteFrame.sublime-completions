@@ -1,0 +1,899 @@
+{
+	"scope": "source.lua - string",
+	"completions": [
+		{
+			"trigger": "ArchaeologyDigSiteFrame:CanChangeAttribute\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:CanChangeAttribute()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:CanChangeProtectedState\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:CanChangeProtectedState()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:ClearAllPoints\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:ClearAllPoints()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:CreateAnimationGroup\t([\"name\"], [\"inheritsFrom\"])",
+			"contents": "${1:ArchaeologyDigSiteFrame}:CreateAnimationGroup(${2:[\"name\"]}, ${3:[\"inheritsFrom\"]})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:CreateFontString\t([\"name\"], [\"layer\"], [\"inherits\"])",
+			"contents": "${1:ArchaeologyDigSiteFrame}:CreateFontString(${2:[\"name\"]}, ${3:[\"layer\"]}, ${4:[\"inherits\"]})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:CreateLine\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:ArchaeologyDigSiteFrame}:CreateLine(${2:[\"name\"]}, \"${3:[layer]}\", ${4:[\"inherits\"]}, ${5:[sublevel]})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:CreateMaskTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:ArchaeologyDigSiteFrame}:CreateMaskTexture(${2:[\"name\"]}, \"${3:[layer]}\", ${4:[\"inherits\"]}, ${5:[sublevel]})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:CreateTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:ArchaeologyDigSiteFrame}:CreateTexture(${2:[\"name\"]}, \"${3:[layer]}\", ${4:[\"inherits\"]}, ${5:[sublevel]})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:DisableDrawLayer\t(\"layer\")",
+			"contents": "${1:ArchaeologyDigSiteFrame}:DisableDrawLayer(\"${2:layer}\")$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:DrawAll\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:DrawAll()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:DrawBlob\t(blobID, draw)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:DrawBlob(${2:blobID}, ${3:draw})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:DrawNone\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:DrawNone()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:DoesClipChildren\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:DoesClipChildren()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:EnableDrawLayer\t(\"layer\")",
+			"contents": "${1:ArchaeologyDigSiteFrame}:EnableDrawLayer(\"${2:layer}\")$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:EnableJoystick\t(enable)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:EnableJoystick(${2:enable})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:EnableKeyboard\t(enable)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:EnableKeyboard(${2:enable})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:EnableMerging\t(enable)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:EnableMerging(${2:enable})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:EnableMouse\t(enable)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:EnableMouse(${2:enable})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:EnableMouseWheel\t(enable)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:EnableMouseWheel(${2:enable})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:EnableSmoothing\t(enable)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:EnableSmoothing(${2:enable})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetAlpha\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetAlpha()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetAnimationGroups\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetAnimationGroups()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetAttribute\t(\"name\")",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetAttribute(${2:\"name\"})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetBackdrop\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetBackdrop()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetBackdropBorderColor\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetBackdropBorderColor()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetBackdropColor\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetBackdropColor()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetBottom\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetBottom()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetBoundsRect\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetBoundsRect()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetCenter\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetCenter()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetChildren\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetChildren()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetClampRectInsets\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetClampRectInsets()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetDebugName\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetDebugName()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetDepth\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetDepth()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetDontSavePosition\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetDontSavePosition()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetEffectiveAlpha\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetEffectiveAlpha()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetEffectiveDepth\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetEffectiveDepth()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetEffectivelyFlattensRenderLayers\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetEffectivelyFlattensRenderLayers()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetEffectiveScale\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetEffectiveScale()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetFlattensRenderLayers\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetFlattensRenderLayers()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetFrameLevel\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetFrameLevel()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetFrameStrata\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetFrameStrata()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetHeight\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetHeight()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetHitRectInsets\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetHitRectInsets()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetHyperlinksEnabled\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetHyperlinksEnabled()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetID\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetID()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetLeft\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetLeft()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetMaxResize\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetMaxResize()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetMinResize\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetMinResize()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetName\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetName()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetNumChildren\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetNumChildren()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetNumPoints\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetNumPoints()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetNumRegions\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetNumRegions()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetObjectType\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetObjectType()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetParent\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetParent()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetPoint\t(index)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetPoint(${2:index})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetPropagateKeyboardInput\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetPropagateKeyboardInput()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetRect\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetRect()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetRegions\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetRegions()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetRight\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetRight()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetScale\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetScale()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetScript\t(\"scriptType\")",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetScript(\"${2:scriptType}\")$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetSize\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetSize()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetTop\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetTop()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:GetWidth\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:GetWidth()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:HasScript\t(\"scriptType\")",
+			"contents": "${1:ArchaeologyDigSiteFrame}:HasScript(\"${2:scriptType}\")$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:Hide\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:Hide()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:HookScript\t(\"scriptType\", handler)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:HookScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:IgnoreDepth\t(enable)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:IgnoreDepth(${2:enable})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:IsClampedToScreen\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:IsClampedToScreen()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:IsDragging\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:IsDragging()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:IsEventRegistered\t(\"event\")",
+			"contents": "${1:ArchaeologyDigSiteFrame}:IsEventRegistered(\"${2:event}\")$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:IsForbidden\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:IsForbidden()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:IsIgnoringDepth\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:IsIgnoringDepth()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:IsIgnoringParentAlpha\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:IsIgnoringParentAlpha()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:IsIgnoringParentScale\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:IsIgnoringParentScale()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:IsJoystickEnabled\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:IsJoystickEnabled()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:IsKeyboardEnabled\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:IsKeyboardEnabled()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:IsMouseClickEnabled\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:IsMouseClickEnabled()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:IsMouseEnabled\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:IsMouseEnabled()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:IsMouseMotionEnabled\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:IsMouseMotionEnabled()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
+			"contents": "${1:ArchaeologyDigSiteFrame}:IsMouseOver(${2:[topOffset]}, ${3:[leftOffset]}, ${4:[bottomOffset]}, ${5:[rightOffset]})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:IsMouseWheelEnabled\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:IsMouseWheelEnabled()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:IsMovable\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:IsMovable()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:IsObjectLoaded\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:IsObjectLoaded()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:IsObjectType\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:IsObjectType()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:IsProtected\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:IsProtected()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:IsResizable\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:IsResizable()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:IsShown\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:IsShown()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:IsToplevel\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:IsToplevel()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:IsUserPlaced\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:IsUserPlaced()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:IsVisible\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:IsVisible()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:Lower\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:Lower()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:Raise\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:Raise()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:RegisterAllEvents\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:RegisterAllEvents()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:RegisterEvent\t(\"event\")",
+			"contents": "${1:ArchaeologyDigSiteFrame}:RegisterEvent(\"${2:event}\")$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:RegisterForDrag\t(...)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:RegisterForDrag(${2:...})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:RegisterUnitEvent\t(\"event\", \"unit1\", \"unit2\")",
+			"contents": "${1:ArchaeologyDigSiteFrame}:RegisterUnitEvent(\"${2:event}\", \"${3:unit1}\", \"${4:unit2}\")$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetAllPoints\t([frame])",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetAllPoints(${2:[frame]})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetAlpha\t(alpha)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetAlpha(${2:alpha})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetAttribute\t(\"name\", value)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetAttribute(${2:\"name\"}, ${3:value})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetBackdrop\t(backdrop)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetBackdrop(${2:backdrop})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetBackdropBorderColor\t(red, green, blue, [alpha])",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetBackdropBorderColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetBackdropColor\t(red, green, blue, [alpha])",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetBackdropColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetBorderAlpha\t(alpha)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetBorderAlpha(${2:alpha})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetBorderScalar\t(scalar)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetBorderScalar(${2:scalar})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetBorderTexture\t(\"texture\")",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetBorderTexture(\"${2:texture}\")$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetClampedToScreen\t(enable)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetClampedToScreen(${2:enable})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetClampRectInsets\t(left, right, top, bottom)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetClampRectInsets(${2:left}, ${3:right}, ${4:top}, ${5:bottom})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetClipsChildren\t(enable)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetClipsChildren(${2:enable})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetDepth\t(depth)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetDepth(${2:depth})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetDontSavePosition\t(enable)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetDontSavePosition(${2:enable})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetFillAlpha\t(alpha)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetFillAlpha(${2:alpha})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetFillTexture\t(\"texture\")",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetFillTexture(\"${2:texture}\")$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetFlattensRenderLayers\t(enable)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetFlattensRenderLayers(${2:enable})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetFrameLevel\t(level)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetFrameLevel(${2:level})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetFrameStrata\t(\"strata\")",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetFrameStrata(\"${2:strata}\")$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetHeight\t(height)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetHeight(${2:height})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetHitRectInsets\t(left, right, top, bottom)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetHitRectInsets(${2:left}, ${3:right}, ${4:top}, ${5:bottom})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetHyperlinksEnabled\t(enable)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetHyperlinksEnabled(${2:enable})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetID\t(id)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetID(${2:id})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetIgnoreParentAlpha\t(enable)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetIgnoreParentAlpha(${2:enable})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetIgnoreParentScale\t(enable)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetIgnoreParentScale(${2:enable})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetMaxResize\t(maxWidth, maxHeight)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetMaxResize(${2:maxWidth}, ${3:maxHeight})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetMergeThreshold\t(threshold)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetMergeThreshold(${2:threshold})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetMinResize\t(minWidth, minHeight)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetMinResize(${2:minWidth}, ${3:minHeight})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetMouseClickEnabled\t(enable)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetMouseClickEnabled(${2:enable})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetMouseMotionEnabled\t(enable)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetMouseMotionEnabled(${2:enable})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetMovable\t(enable)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetMovable(${2:enable})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetNumSplinePoints\t(numPoints)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetNumSplinePoints(${2:numPoints})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetParent\t(frame)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetParent(${2:ArchaeologyDigSiteFrame})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetPoint\t(\"point\", [relativeTo], [\"relativePoint\"], [xOffset], [yOffset])",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetPoint(\"${2:point}\", ${3:[relativeTo]}, \"${4:[relativePoint]}\", ${5:[xOffset]}, ${6:[yOffset]})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetPropagateKeyboardInput\t(enable)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetPropagateKeyboardInput(${2:enable})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetResizable\t(enable)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetResizable(${2:enable})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetScale\t(scale)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetScale(${2:scale})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetScript\t(\"scriptType\", handler)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetShown\t(enable)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetShown(${2:enable})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetSize\t(width, height)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetSize(${2:width}, ${3:height})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetToplevel\t(enable)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetToplevel(${2:enable})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetUserPlaced\t(enable)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetUserPlaced(${2:enable})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:SetWidth\t(width)",
+			"contents": "${1:ArchaeologyDigSiteFrame}:SetWidth(${2:width})$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:Show\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:Show()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:StartMoving\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:StartMoving()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:StartSizing\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:StartSizing()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:StopAnimating\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:StopAnimating()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:StopMovingOrSizing\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:StopMovingOrSizing()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:UnregisterAllEvents\t()",
+			"contents": "${1:ArchaeologyDigSiteFrame}:UnregisterAllEvents()$0",
+		},
+		{
+			"trigger": "ArchaeologyDigSiteFrame:UnregisterEvent\t(\"event\")",
+			"contents": "${1:ArchaeologyDigSiteFrame}:UnregisterEvent(\"${2:event}\")$0",
+		},
+
+
+
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:CanChangeAttribute\t()",
+			"contents": "${1:enabled} = ${2:ArchaeologyDigSiteFrame}:CanChangeAttribute()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:CanChangeProtectedState\t()",
+			"contents": "${1:canChange} = ${2:ArchaeologyDigSiteFrame}:CanChangeProtectedState()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:CreateFontString\t([\"name\"], [\"layer\"], [\"inherits\"])",
+			"contents": "${1:fontstring} = ${2:ArchaeologyDigSiteFrame}:CreateFontString(${3:[\"name\"]}, ${4:[\"layer\"]}, ${5:[\"inherits\"]})$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:CreateLine\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:texture} = ${2:ArchaeologyDigSiteFrame}:CreateLine(${3:[\"name\"]}, \"${4:[layer]}\", ${5:[\"inherits\"]}, ${6:[sublevel]})$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:CreateMaskTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:texture} = ${2:ArchaeologyDigSiteFrame}:CreateMaskTexture(${3:[\"name\"]}, \"${4:[layer]}\", ${5:[\"inherits\"]}, ${6:[sublevel]})$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:CreateTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:texture} = ${2:ArchaeologyDigSiteFrame}:CreateTexture(${3:[\"name\"]}, \"${4:[layer]}\", ${5:[\"inherits\"]}, ${6:[sublevel]})$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:DoesClipChildren\t()",
+			"contents": "${1:doesClip} = ${2:ArchaeologyDigSiteFrame}:DoesClipChildren()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetAlpha\t()",
+			"contents": "${1:alpha} = ${2:ArchaeologyDigSiteFrame}:GetAlpha()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetAnimationGroups\t()",
+			"contents": "${1:...} = ${2:ArchaeologyDigSiteFrame}:GetAnimationGroups()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetAttribute\t(\"name\")",
+			"contents": "${1:value} = ${2:ArchaeologyDigSiteFrame}:GetAttribute(${3:\"name\"})$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetBackdrop\t()",
+			"contents": "${1:backdrop} = ${2:ArchaeologyDigSiteFrame}:GetBackdrop()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetBackdropBorderColor\t()",
+			"contents": "${1:red}, ${2:green}, ${3:blue}, ${4:alpha} = ${5:ArchaeologyDigSiteFrame}:GetBackdropBorderColor()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetBackdropColor\t()",
+			"contents": "${1:red}, ${2:green}, ${3:blue}, ${4:alpha} = ${5:ArchaeologyDigSiteFrame}:GetBackdropColor()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetBottom\t()",
+			"contents": "${1:bottom} = ${2:ArchaeologyDigSiteFrame}:GetBottom()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetBoundsRect\t()",
+			"contents": "${1:left}, ${2:bottom}, ${3:width}, ${4:height} = ${5:ArchaeologyDigSiteFrame}:GetBoundsRect()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetCenter\t()",
+			"contents": "${1:x}, ${2:y} = ${3:ArchaeologyDigSiteFrame}:GetCenter()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetChildren\t()",
+			"contents": "${1:...} = ${2:ArchaeologyDigSiteFrame}:GetChildren()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetClampRectInsets\t()",
+			"contents": "${1:left}, ${2:right}, ${3:top}, ${4:bottom} = ${5:ArchaeologyDigSiteFrame}:GetClampRectInsets()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetDebugName\t()",
+			"contents": "${1:name} = ${2:ArchaeologyDigSiteFrame}:GetDebugName()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetDepth\t()",
+			"contents": "${1:depth} = ${2:ArchaeologyDigSiteFrame}:GetDepth()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetDontSavePosition\t()",
+			"contents": "${1:saved} = ${2:ArchaeologyDigSiteFrame}:GetDontSavePosition()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetEffectiveAlpha\t()",
+			"contents": "${1:alpha} = ${2:ArchaeologyDigSiteFrame}:GetEffectiveAlpha()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetEffectiveDepth\t()",
+			"contents": "${1:depth} = ${2:ArchaeologyDigSiteFrame}:GetEffectiveDepth()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetEffectivelyFlattensRenderLayers\t()",
+			"contents": "${1:doesFlattens} = ${2:ArchaeologyDigSiteFrame}:GetEffectivelyFlattensRenderLayers()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetEffectiveScale\t()",
+			"contents": "${1:scale} = ${2:ArchaeologyDigSiteFrame}:GetEffectiveScale()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetFlattensRenderLayers\t()",
+			"contents": "${1:doesFlattens} = ${2:ArchaeologyDigSiteFrame}:GetFlattensRenderLayers()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetFrameLevel\t()",
+			"contents": "${1:level} = ${2:ArchaeologyDigSiteFrame}:GetFrameLevel()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetFrameStrata\t()",
+			"contents": "${1:strata} = ${2:ArchaeologyDigSiteFrame}:GetFrameStrata()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetHeight\t()",
+			"contents": "${1:height} = ${2:ArchaeologyDigSiteFrame}:GetHeight()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetHitRectInsets\t()",
+			"contents": "${1:left}, ${2:right}, ${3:top}, ${4:bottom} = ${5:ArchaeologyDigSiteFrame}:GetHitRectInsets()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetHyperlinksEnabled\t()",
+			"contents": "${1:enabled} = ${2:ArchaeologyDigSiteFrame}:GetHyperlinksEnabled()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetID\t()",
+			"contents": "${1:id} = ${2:ArchaeologyDigSiteFrame}:GetID()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetLeft\t()",
+			"contents": "${1:left} = ${2:ArchaeologyDigSiteFrame}:GetLeft()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetMaxResize\t()",
+			"contents": "${1:maxWidth}, ${2:maxHeight} = ${3:ArchaeologyDigSiteFrame}:GetMaxResize()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetMinResize\t()",
+			"contents": "${1:minWidth}, ${2:minHeight} = ${3:ArchaeologyDigSiteFrame}:GetMinResize()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetName\t()",
+			"contents": "${1:name} = ${2:ArchaeologyDigSiteFrame}:GetName()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetNumChildren\t()",
+			"contents": "${1:numChildren} = ${2:ArchaeologyDigSiteFrame}:GetNumChildren()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetNumPoints\t()",
+			"contents": "${1:numPoints} = ${2:ArchaeologyDigSiteFrame}:GetNumPoints()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetNumRegions\t()",
+			"contents": "${1:numRegions} = ${2:ArchaeologyDigSiteFrame}:GetNumRegions()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetObjectType\t()",
+			"contents": "${1:type} = ${2:ArchaeologyDigSiteFrame}:GetObjectType()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetPoint\t(index)",
+			"contents": "${1:point}, ${2:relativeTo}, ${3:relativePoint}, ${4:xOffset}, ${5:yOffset} = ${6:ArchaeologyDigSiteFrame}:GetPoint(${7:index})$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetPropagateKeyboardInput\t()",
+			"contents": "${1:propagate} = ${2:ArchaeologyDigSiteFrame}:GetPropagateKeyboardInput()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetRect\t()",
+			"contents": "${1:left}, ${2:bottom}, ${3:width}, ${4:height} = ${5:ArchaeologyDigSiteFrame}:GetRect()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetRegions\t()",
+			"contents": "${1:...} = ${2:ArchaeologyDigSiteFrame}:GetRegions()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetRight\t()",
+			"contents": "${1:right} = ${2:ArchaeologyDigSiteFrame}:GetRight()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetScale\t()",
+			"contents": "${1:scale} = ${2:ArchaeologyDigSiteFrame}:GetScale()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetScript\t(\"scriptType\")",
+			"contents": "${1:handler} = ${2:ArchaeologyDigSiteFrame}:GetScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetSize\t()",
+			"contents": "${1:width}, ${2:height} = ${3:ArchaeologyDigSiteFrame}:GetSize()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetTop\t()",
+			"contents": "${1:top} = ${2:ArchaeologyDigSiteFrame}:GetTop()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:GetWidth\t()",
+			"contents": "${1:width} = ${2:ArchaeologyDigSiteFrame}:GetWidth()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:HasScript\t(\"scriptType\")",
+			"contents": "${1:hasScript} = ${2:ArchaeologyDigSiteFrame}:HasScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:IsClampedToScreen\t()",
+			"contents": "${1:enabled} = ${2:ArchaeologyDigSiteFrame}:IsClampedToScreen()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:IsDragging\t()",
+			"contents": "${1:isDragging} = ${2:ArchaeologyDigSiteFrame}:IsDragging()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:IsEventRegistered\t(\"event\")",
+			"contents": "${1:registered} = ${2:ArchaeologyDigSiteFrame}:IsEventRegistered(\"${3:event}\")$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:IsForbidden\t()",
+			"contents": "${1:isForbidden} = ${2:ArchaeologyDigSiteFrame}:IsForbidden()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:IsIgnoringDepth\t()",
+			"contents": "${1:enabled} = ${2:ArchaeologyDigSiteFrame}:IsIgnoringDepth()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:IsIgnoringParentAlpha\t()",
+			"contents": "${1:isIgnoring} = ${2:ArchaeologyDigSiteFrame}:IsIgnoringParentAlpha()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:IsIgnoringParentScale\t()",
+			"contents": "${1:isIgnoring} = ${2:ArchaeologyDigSiteFrame}:IsIgnoringParentScale()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:IsJoystickEnabled\t()",
+			"contents": "${1:enabled} = ${2:ArchaeologyDigSiteFrame}:IsJoystickEnabled()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:IsKeyboardEnabled\t()",
+			"contents": "${1:enabled} = ${2:ArchaeologyDigSiteFrame}:IsKeyboardEnabled()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:IsMouseClickEnabled\t()",
+			"contents": "${1:enabled} = ${2:ArchaeologyDigSiteFrame}:IsMouseClickEnabled()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:IsMouseEnabled\t()",
+			"contents": "${1:enabled} = ${2:ArchaeologyDigSiteFrame}:IsMouseEnabled()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:IsMouseMotionEnabled\t()",
+			"contents": "${1:enabled} = ${2:ArchaeologyDigSiteFrame}:IsMouseMotionEnabled()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
+			"contents": "${1:isOver} = ${2:ArchaeologyDigSiteFrame}:IsMouseOver(${3:[topOffset]}, ${4:[leftOffset]}, ${5:[bottomOffset]}, ${6:[rightOffset]})$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:IsMouseWheelEnabled\t()",
+			"contents": "${1:enabled} = ${2:ArchaeologyDigSiteFrame}:IsMouseWheelEnabled()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:IsMovable\t()",
+			"contents": "${1:movable} = ${2:ArchaeologyDigSiteFrame}:IsMovable()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:IsObjectLoaded\t()",
+			"contents": "${1:loaded} = ${2:ArchaeologyDigSiteFrame}:IsObjectLoaded()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:IsObjectType\t(\"type\")",
+			"contents": "${1:isType} = ${2:ArchaeologyDigSiteFrame}:IsObjectType(\"${3:type}\")$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:IsProtected\t()",
+			"contents": "${1:isProtected}, ${2:explicit} = ${3:ArchaeologyDigSiteFrame}:IsProtected()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:IsResizable\t()",
+			"contents": "${1:enabled} = ${2:ArchaeologyDigSiteFrame}:IsResizable()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:IsShown\t()",
+			"contents": "${1:shown} = ${2:ArchaeologyDigSiteFrame}:IsShown()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:IsToplevel\t()",
+			"contents": "${1:enabled} = ${2:ArchaeologyDigSiteFrame}:IsToplevel()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:IsUserPlaced\t()",
+			"contents": "${1:enabled} = ${2:ArchaeologyDigSiteFrame}:IsUserPlaced()$0",
+		},
+		{
+			"trigger": "_ArchaeologyDigSiteFrame:IsVisible\t()",
+			"contents": "${1:visible} = ${2:ArchaeologyDigSiteFrame}:IsVisible()$0",
+		},
+
+
+
+		{
+			"trigger": "_ArchaeologyDigSiteFrame\thelp",
+			"contents": "ArchaeologyDigSiteFrame = {\n\tinherits = {\n\t\t\"ArchaeologyDigSiteFrame\",\n\t\t\"BlobFrame\",\n\t\t\"Frame\",\n\t\t\"ScriptObject\",\n\t\t\"VisibleRegion\",\n\t\t\"Region\",\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\thandlers = {\n\t\t[\"OnAttributeChanged\"] = \"self, name, value\",\n\t\t[\"OnChar\"] = \"self, text\",\n\t\t[\"OnDisable\"] = \"self\",\n\t\t[\"OnDragStart\"] = \"self, button\",\n\t\t[\"OnDragStop\"] = \"self\",\n\t\t[\"OnEnable\"] = \"self\",\n\t\t[\"OnEnter\"] = \"self, motion\",\n\t\t[\"OnEvent\"] = \"self, event, ...\",\n\t\t[\"OnHide\"] = \"self\",\n\t\t[\"OnHyperlinkClick\"] = \"self, link, text, button, region, left, bottom, width, height\",\n\t\t[\"OnHyperlinkEnter\"] = \"self, link, text, region, left, bottom, width, height\",\n\t\t[\"OnHyperlinkLeave\"] = \"self\",\n\t\t[\"OnKeyDown\"] = \"self, key\",\n\t\t[\"OnKeyUp\"] = \"self, key\",\n\t\t[\"OnLeave\"] = \"self, motion\",\n\t\t[\"OnLoad\"] = \"self\",\n\t\t[\"OnMouseDown\"] = \"self, button\",\n\t\t[\"OnMouseUp\"] = \"self, button, upInside\",\n\t\t[\"OnMouseWheel\"] = \"self, delta\",\n\t\t[\"OnReceiveDrag\"] = \"self\",\n\t\t[\"OnShow\"] = \"self\",\n\t\t[\"OnSizeChanged\"] = \"self, width, height\",\n\t\t[\"OnUpdate\"] = \"self, elapsed\",\n\t},\n\tmethods = {\n\t\t\"CanChangeAttribute\",\n\t\t\"CanChangeProtectedState\",\n\t\t\"ClearAllPoints\",\n\t\t\"CreateAnimationGroup\",\n\t\t\"CreateFontString\",\n\t\t\"CreateLine\",\n\t\t\"CreateMaskTexture\",\n\t\t\"CreateTexture\",\n\t\t\"DisableDrawLayer\",\n\t\t\"DoesClipChildren\",\n\t\t\"DrawAll\",\n\t\t\"DrawBlob\",\n\t\t\"DrawNone\",\n\t\t\"EnableDrawLayer\",\n\t\t\"EnableJoystick\",\n\t\t\"EnableKeyboard\",\n\t\t\"EnableMerging\",\n\t\t\"EnableMouse\",\n\t\t\"EnableMouseWheel\",\n\t\t\"EnableSmoothing\",\n\t\t\"GetAlpha\",\n\t\t\"GetAnimationGroups\",\n\t\t\"GetAttribute\",\n\t\t\"GetBackdrop\",\n\t\t\"GetBackdropBorderColor\",\n\t\t\"GetBackdropColor\",\n\t\t\"GetBottom\",\n\t\t\"GetBoundsRect\",\n\t\t\"GetCenter\",\n\t\t\"GetChildren\",\n\t\t\"GetClampRectInsets\",\n\t\t\"GetDebugName\",\n\t\t\"GetDepth\",\n\t\t\"GetDontSavePosition\",\n\t\t\"GetEffectiveAlpha\",\n\t\t\"GetEffectiveDepth\",\n\t\t\"GetEffectivelyFlattensRenderLayers\",\n\t\t\"GetEffectiveScale\",\n\t\t\"GetFlattensRenderLayers\",\n\t\t\"GetFrameLevel\",\n\t\t\"GetFrameStrata\",\n\t\t\"GetHeight\",\n\t\t\"GetHitRectInsets\",\n\t\t\"GetHyperlinksEnabled\",\n\t\t\"GetID\",\n\t\t\"GetLeft\",\n\t\t\"GetMaxResize\",\n\t\t\"GetMinResize\",\n\t\t\"GetName\",\n\t\t\"GetNumChildren\",\n\t\t\"GetNumPoints\",\n\t\t\"GetNumRegions\",\n\t\t\"GetObjectType\",\n\t\t\"GetParent\",\n\t\t\"GetPoint\",\n\t\t\"GetPropagateKeyboardInput\",\n\t\t\"GetRect\",\n\t\t\"GetRegions\",\n\t\t\"GetRight\",\n\t\t\"GetScale\",\n\t\t\"GetScript\",\n\t\t\"GetSize\",\n\t\t\"GetTop\",\n\t\t\"GetWidth\",\n\t\t\"HasScript\",\n\t\t\"Hide\",\n\t\t\"HookScript\",\n\t\t\"IgnoreDepth\",\n\t\t\"IsClampedToScreen\",\n\t\t\"IsDragging\",\n\t\t\"IsEventRegistered\",\n\t\t\"IsForbidden\",\n\t\t\"IsIgnoringDepth\",\n\t\t\"IsIgnoringParentAlpha\",\n\t\t\"IsIgnoringParentScale\",\n\t\t\"IsJoystickEnabled\",\n\t\t\"IsKeyboardEnabled\",\n\t\t\"IsMouseClickEnabled\",\n\t\t\"IsMouseEnabled\",\n\t\t\"IsMouseMotionEnabled\",\n\t\t\"IsMouseOver\",\n\t\t\"IsMouseWheelEnabled\",\n\t\t\"IsMovable\",\n\t\t\"IsObjectLoaded\",\n\t\t\"IsObjectType\",\n\t\t\"IsProtected\",\n\t\t\"IsResizable\",\n\t\t\"IsShown\",\n\t\t\"IsToplevel\",\n\t\t\"IsUserPlaced\",\n\t\t\"IsVisible\",\n\t\t\"Lower\",\n\t\t\"Raise\",\n\t\t\"RegisterAllEvents\",\n\t\t\"RegisterEvent\",\n\t\t\"RegisterForDrag\",\n\t\t\"RegisterUnitEvent\",\n\t\t\"SetAllPoints\",\n\t\t\"SetAlpha\",\n\t\t\"SetAttribute\",\n\t\t\"SetBackdrop\",\n\t\t\"SetBackdropBorderColor\",\n\t\t\"SetBackdropColor\",\n\t\t\"SetBorderAlpha\",\n\t\t\"SetBorderScalar\",\n\t\t\"SetBorderTexture\",\n\t\t\"SetClampedToScreen\",\n\t\t\"SetClampRectInsets\",\n\t\t\"SetClipsChildren\",\n\t\t\"SetDepth\",\n\t\t\"SetDontSavePosition\",\n\t\t\"SetFillAlpha\",\n\t\t\"SetFillTexture\",\n\t\t\"SetFlattensRenderLayers\",\n\t\t\"SetFrameLevel\",\n\t\t\"SetFrameStrata\",\n\t\t\"SetHeight\",\n\t\t\"SetHitRectInsets\",\n\t\t\"SetHyperlinksEnabled\",\n\t\t\"SetID\",\n\t\t\"SetIgnoreParentAlpha\",\n\t\t\"SetIgnoreParentScale\",\n\t\t\"SetMaxResize\",\n\t\t\"SetMergeThreshold\",\n\t\t\"SetMinResize\",\n\t\t\"SetMouseClickEnabled\",\n\t\t\"SetMouseMotionEnabled\",\n\t\t\"SetMovable\",\n\t\t\"SetNumSplinePoints\",\n\t\t\"SetParent\",\n\t\t\"SetPoint\",\n\t\t\"SetPropagateKeyboardInput\",\n\t\t\"SetResizable\",\n\t\t\"SetScale\",\n\t\t\"SetScript\",\n\t\t\"SetShown\",\n\t\t\"SetSize\",\n\t\t\"SetToplevel\",\n\t\t\"SetUserPlaced\",\n\t\t\"SetWidth\",\n\t\t\"Show\",\n\t\t\"StartMoving\",\n\t\t\"StartSizing\",\n\t\t\"StopAnimating\",\n\t\t\"StopMovingOrSizing\",\n\t\t\"UnregisterAllEvents\",\n\t\t\"UnregisterEvent\",\n\t},\n}",
+		},
+	]
+}

@@ -1,0 +1,915 @@
+{
+	"scope": "source.lua - string",
+	"completions": [
+		{
+			"trigger": "ScenarioPOIFrame:CanChangeAttribute\t()",
+			"contents": "${1:ScenarioPOIFrame}:CanChangeAttribute()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:CanChangeProtectedState\t()",
+			"contents": "${1:ScenarioPOIFrame}:CanChangeProtectedState()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:ClearAllPoints\t()",
+			"contents": "${1:ScenarioPOIFrame}:ClearAllPoints()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:CreateAnimationGroup\t([\"name\"], [\"inheritsFrom\"])",
+			"contents": "${1:ScenarioPOIFrame}:CreateAnimationGroup(${2:[\"name\"]}, ${3:[\"inheritsFrom\"]})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:CreateFontString\t([\"name\"], [\"layer\"], [\"inherits\"])",
+			"contents": "${1:ScenarioPOIFrame}:CreateFontString(${2:[\"name\"]}, ${3:[\"layer\"]}, ${4:[\"inherits\"]})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:CreateLine\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:ScenarioPOIFrame}:CreateLine(${2:[\"name\"]}, \"${3:[layer]}\", ${4:[\"inherits\"]}, ${5:[sublevel]})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:CreateMaskTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:ScenarioPOIFrame}:CreateMaskTexture(${2:[\"name\"]}, \"${3:[layer]}\", ${4:[\"inherits\"]}, ${5:[sublevel]})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:CreateTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:ScenarioPOIFrame}:CreateTexture(${2:[\"name\"]}, \"${3:[layer]}\", ${4:[\"inherits\"]}, ${5:[sublevel]})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:DisableDrawLayer\t(\"layer\")",
+			"contents": "${1:ScenarioPOIFrame}:DisableDrawLayer(\"${2:layer}\")$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:DrawAll\t()",
+			"contents": "${1:ScenarioPOIFrame}:DrawAll()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:DrawBlob\t(blobID, draw)",
+			"contents": "${1:ScenarioPOIFrame}:DrawBlob(${2:blobID}, ${3:draw})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:DrawNone\t()",
+			"contents": "${1:ScenarioPOIFrame}:DrawNone()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:DoesClipChildren\t()",
+			"contents": "${1:ScenarioPOIFrame}:DoesClipChildren()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:EnableDrawLayer\t(\"layer\")",
+			"contents": "${1:ScenarioPOIFrame}:EnableDrawLayer(\"${2:layer}\")$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:EnableJoystick\t(enable)",
+			"contents": "${1:ScenarioPOIFrame}:EnableJoystick(${2:enable})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:EnableKeyboard\t(enable)",
+			"contents": "${1:ScenarioPOIFrame}:EnableKeyboard(${2:enable})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:EnableMerging\t(enable)",
+			"contents": "${1:ScenarioPOIFrame}:EnableMerging(${2:enable})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:EnableMouse\t(enable)",
+			"contents": "${1:ScenarioPOIFrame}:EnableMouse(${2:enable})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:EnableMouseWheel\t(enable)",
+			"contents": "${1:ScenarioPOIFrame}:EnableMouseWheel(${2:enable})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:EnableSmoothing\t(enable)",
+			"contents": "${1:ScenarioPOIFrame}:EnableSmoothing(${2:enable})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetAlpha\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetAlpha()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetAnimationGroups\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetAnimationGroups()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetAttribute\t(\"name\")",
+			"contents": "${1:ScenarioPOIFrame}:GetAttribute(${2:\"name\"})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetBackdrop\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetBackdrop()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetBackdropBorderColor\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetBackdropBorderColor()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetBackdropColor\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetBackdropColor()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetBottom\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetBottom()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetBoundsRect\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetBoundsRect()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetCenter\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetCenter()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetChildren\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetChildren()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetClampRectInsets\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetClampRectInsets()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetDebugName\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetDebugName()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetDepth\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetDepth()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetDontSavePosition\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetDontSavePosition()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetEffectiveAlpha\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetEffectiveAlpha()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetEffectiveDepth\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetEffectiveDepth()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetEffectivelyFlattensRenderLayers\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetEffectivelyFlattensRenderLayers()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetEffectiveScale\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetEffectiveScale()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetFlattensRenderLayers\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetFlattensRenderLayers()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetFrameLevel\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetFrameLevel()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetFrameStrata\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetFrameStrata()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetHeight\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetHeight()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetHitRectInsets\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetHitRectInsets()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetHyperlinksEnabled\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetHyperlinksEnabled()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetID\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetID()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetLeft\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetLeft()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetMaxResize\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetMaxResize()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetMinResize\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetMinResize()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetName\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetName()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetNumChildren\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetNumChildren()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetNumPoints\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetNumPoints()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetNumRegions\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetNumRegions()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetObjectType\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetObjectType()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetParent\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetParent()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetPoint\t(index)",
+			"contents": "${1:ScenarioPOIFrame}:GetPoint(${2:index})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetPropagateKeyboardInput\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetPropagateKeyboardInput()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetRect\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetRect()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetRegions\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetRegions()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetRight\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetRight()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetScale\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetScale()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetScenarioTooltipText\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetScenarioTooltipText()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetScript\t(\"scriptType\")",
+			"contents": "${1:ScenarioPOIFrame}:GetScript(\"${2:scriptType}\")$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetSize\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetSize()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetTop\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetTop()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:GetWidth\t()",
+			"contents": "${1:ScenarioPOIFrame}:GetWidth()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:HasScript\t(\"scriptType\")",
+			"contents": "${1:ScenarioPOIFrame}:HasScript(\"${2:scriptType}\")$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:Hide\t()",
+			"contents": "${1:ScenarioPOIFrame}:Hide()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:HookScript\t(\"scriptType\", handler)",
+			"contents": "${1:ScenarioPOIFrame}:HookScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:IgnoreDepth\t(enable)",
+			"contents": "${1:ScenarioPOIFrame}:IgnoreDepth(${2:enable})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:IsClampedToScreen\t()",
+			"contents": "${1:ScenarioPOIFrame}:IsClampedToScreen()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:IsDragging\t()",
+			"contents": "${1:ScenarioPOIFrame}:IsDragging()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:IsEventRegistered\t(\"event\")",
+			"contents": "${1:ScenarioPOIFrame}:IsEventRegistered(\"${2:event}\")$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:IsForbidden\t()",
+			"contents": "${1:ScenarioPOIFrame}:IsForbidden()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:IsIgnoringDepth\t()",
+			"contents": "${1:ScenarioPOIFrame}:IsIgnoringDepth()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:IsIgnoringParentAlpha\t()",
+			"contents": "${1:ScenarioPOIFrame}:IsIgnoringParentAlpha()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:IsIgnoringParentScale\t()",
+			"contents": "${1:ScenarioPOIFrame}:IsIgnoringParentScale()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:IsJoystickEnabled\t()",
+			"contents": "${1:ScenarioPOIFrame}:IsJoystickEnabled()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:IsKeyboardEnabled\t()",
+			"contents": "${1:ScenarioPOIFrame}:IsKeyboardEnabled()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:IsMouseClickEnabled\t()",
+			"contents": "${1:ScenarioPOIFrame}:IsMouseClickEnabled()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:IsMouseEnabled\t()",
+			"contents": "${1:ScenarioPOIFrame}:IsMouseEnabled()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:IsMouseMotionEnabled\t()",
+			"contents": "${1:ScenarioPOIFrame}:IsMouseMotionEnabled()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
+			"contents": "${1:ScenarioPOIFrame}:IsMouseOver(${2:[topOffset]}, ${3:[leftOffset]}, ${4:[bottomOffset]}, ${5:[rightOffset]})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:IsMouseWheelEnabled\t()",
+			"contents": "${1:ScenarioPOIFrame}:IsMouseWheelEnabled()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:IsMovable\t()",
+			"contents": "${1:ScenarioPOIFrame}:IsMovable()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:IsObjectLoaded\t()",
+			"contents": "${1:ScenarioPOIFrame}:IsObjectLoaded()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:IsObjectType\t()",
+			"contents": "${1:ScenarioPOIFrame}:IsObjectType()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:IsProtected\t()",
+			"contents": "${1:ScenarioPOIFrame}:IsProtected()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:IsResizable\t()",
+			"contents": "${1:ScenarioPOIFrame}:IsResizable()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:IsShown\t()",
+			"contents": "${1:ScenarioPOIFrame}:IsShown()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:IsToplevel\t()",
+			"contents": "${1:ScenarioPOIFrame}:IsToplevel()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:IsUserPlaced\t()",
+			"contents": "${1:ScenarioPOIFrame}:IsUserPlaced()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:IsVisible\t()",
+			"contents": "${1:ScenarioPOIFrame}:IsVisible()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:Lower\t()",
+			"contents": "${1:ScenarioPOIFrame}:Lower()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:Raise\t()",
+			"contents": "${1:ScenarioPOIFrame}:Raise()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:RegisterAllEvents\t()",
+			"contents": "${1:ScenarioPOIFrame}:RegisterAllEvents()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:RegisterEvent\t(\"event\")",
+			"contents": "${1:ScenarioPOIFrame}:RegisterEvent(\"${2:event}\")$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:RegisterForDrag\t(...)",
+			"contents": "${1:ScenarioPOIFrame}:RegisterForDrag(${2:...})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:RegisterUnitEvent\t(\"event\", \"unit1\", \"unit2\")",
+			"contents": "${1:ScenarioPOIFrame}:RegisterUnitEvent(\"${2:event}\", \"${3:unit1}\", \"${4:unit2}\")$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetAllPoints\t([frame])",
+			"contents": "${1:ScenarioPOIFrame}:SetAllPoints(${2:[frame]})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetAlpha\t(alpha)",
+			"contents": "${1:ScenarioPOIFrame}:SetAlpha(${2:alpha})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetAttribute\t(\"name\", value)",
+			"contents": "${1:ScenarioPOIFrame}:SetAttribute(${2:\"name\"}, ${3:value})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetBackdrop\t(backdrop)",
+			"contents": "${1:ScenarioPOIFrame}:SetBackdrop(${2:backdrop})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetBackdropBorderColor\t(red, green, blue, [alpha])",
+			"contents": "${1:ScenarioPOIFrame}:SetBackdropBorderColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetBackdropColor\t(red, green, blue, [alpha])",
+			"contents": "${1:ScenarioPOIFrame}:SetBackdropColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetBorderAlpha\t(alpha)",
+			"contents": "${1:ScenarioPOIFrame}:SetBorderAlpha(${2:alpha})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetBorderScalar\t(scalar)",
+			"contents": "${1:ScenarioPOIFrame}:SetBorderScalar(${2:scalar})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetBorderTexture\t(\"texture\")",
+			"contents": "${1:ScenarioPOIFrame}:SetBorderTexture(\"${2:texture}\")$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetClampedToScreen\t(enable)",
+			"contents": "${1:ScenarioPOIFrame}:SetClampedToScreen(${2:enable})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetClampRectInsets\t(left, right, top, bottom)",
+			"contents": "${1:ScenarioPOIFrame}:SetClampRectInsets(${2:left}, ${3:right}, ${4:top}, ${5:bottom})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetClipsChildren\t(enable)",
+			"contents": "${1:ScenarioPOIFrame}:SetClipsChildren(${2:enable})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetDepth\t(depth)",
+			"contents": "${1:ScenarioPOIFrame}:SetDepth(${2:depth})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetDontSavePosition\t(enable)",
+			"contents": "${1:ScenarioPOIFrame}:SetDontSavePosition(${2:enable})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetFillAlpha\t(alpha)",
+			"contents": "${1:ScenarioPOIFrame}:SetFillAlpha(${2:alpha})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetFillTexture\t(\"texture\")",
+			"contents": "${1:ScenarioPOIFrame}:SetFillTexture(\"${2:texture}\")$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetFlattensRenderLayers\t(enable)",
+			"contents": "${1:ScenarioPOIFrame}:SetFlattensRenderLayers(${2:enable})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetFrameLevel\t(level)",
+			"contents": "${1:ScenarioPOIFrame}:SetFrameLevel(${2:level})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetFrameStrata\t(\"strata\")",
+			"contents": "${1:ScenarioPOIFrame}:SetFrameStrata(\"${2:strata}\")$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetHeight\t(height)",
+			"contents": "${1:ScenarioPOIFrame}:SetHeight(${2:height})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetHitRectInsets\t(left, right, top, bottom)",
+			"contents": "${1:ScenarioPOIFrame}:SetHitRectInsets(${2:left}, ${3:right}, ${4:top}, ${5:bottom})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetHyperlinksEnabled\t(enable)",
+			"contents": "${1:ScenarioPOIFrame}:SetHyperlinksEnabled(${2:enable})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetID\t(id)",
+			"contents": "${1:ScenarioPOIFrame}:SetID(${2:id})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetIgnoreParentAlpha\t(enable)",
+			"contents": "${1:ScenarioPOIFrame}:SetIgnoreParentAlpha(${2:enable})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetIgnoreParentScale\t(enable)",
+			"contents": "${1:ScenarioPOIFrame}:SetIgnoreParentScale(${2:enable})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetMaxResize\t(maxWidth, maxHeight)",
+			"contents": "${1:ScenarioPOIFrame}:SetMaxResize(${2:maxWidth}, ${3:maxHeight})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetMergeThreshold\t(threshold)",
+			"contents": "${1:ScenarioPOIFrame}:SetMergeThreshold(${2:threshold})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetMinResize\t(minWidth, minHeight)",
+			"contents": "${1:ScenarioPOIFrame}:SetMinResize(${2:minWidth}, ${3:minHeight})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetMouseClickEnabled\t(enable)",
+			"contents": "${1:ScenarioPOIFrame}:SetMouseClickEnabled(${2:enable})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetMouseMotionEnabled\t(enable)",
+			"contents": "${1:ScenarioPOIFrame}:SetMouseMotionEnabled(${2:enable})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetMovable\t(enable)",
+			"contents": "${1:ScenarioPOIFrame}:SetMovable(${2:enable})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetNumSplinePoints\t(numPoints)",
+			"contents": "${1:ScenarioPOIFrame}:SetNumSplinePoints(${2:numPoints})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetParent\t(frame)",
+			"contents": "${1:ScenarioPOIFrame}:SetParent(${2:ScenarioPOIFrame})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetPoint\t(\"point\", [relativeTo], [\"relativePoint\"], [xOffset], [yOffset])",
+			"contents": "${1:ScenarioPOIFrame}:SetPoint(\"${2:point}\", ${3:[relativeTo]}, \"${4:[relativePoint]}\", ${5:[xOffset]}, ${6:[yOffset]})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetPropagateKeyboardInput\t(enable)",
+			"contents": "${1:ScenarioPOIFrame}:SetPropagateKeyboardInput(${2:enable})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetResizable\t(enable)",
+			"contents": "${1:ScenarioPOIFrame}:SetResizable(${2:enable})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetScale\t(scale)",
+			"contents": "${1:ScenarioPOIFrame}:SetScale(${2:scale})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetScript\t(\"scriptType\", handler)",
+			"contents": "${1:ScenarioPOIFrame}:SetScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetShown\t(enable)",
+			"contents": "${1:ScenarioPOIFrame}:SetShown(${2:enable})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetSize\t(width, height)",
+			"contents": "${1:ScenarioPOIFrame}:SetSize(${2:width}, ${3:height})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetToplevel\t(enable)",
+			"contents": "${1:ScenarioPOIFrame}:SetToplevel(${2:enable})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetUserPlaced\t(enable)",
+			"contents": "${1:ScenarioPOIFrame}:SetUserPlaced(${2:enable})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:SetWidth\t(width)",
+			"contents": "${1:ScenarioPOIFrame}:SetWidth(${2:width})$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:Show\t()",
+			"contents": "${1:ScenarioPOIFrame}:Show()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:StartMoving\t()",
+			"contents": "${1:ScenarioPOIFrame}:StartMoving()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:StartSizing\t()",
+			"contents": "${1:ScenarioPOIFrame}:StartSizing()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:StopAnimating\t()",
+			"contents": "${1:ScenarioPOIFrame}:StopAnimating()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:StopMovingOrSizing\t()",
+			"contents": "${1:ScenarioPOIFrame}:StopMovingOrSizing()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:UnregisterAllEvents\t()",
+			"contents": "${1:ScenarioPOIFrame}:UnregisterAllEvents()$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:UnregisterEvent\t(\"event\")",
+			"contents": "${1:ScenarioPOIFrame}:UnregisterEvent(\"${2:event}\")$0",
+		},
+		{
+			"trigger": "ScenarioPOIFrame:UpdateMouseOverTooltip\t(mouseX, mouseY)",
+			"contents": "${1:ScenarioPOIFrame}:UpdateMouseOverTooltip(${2:mouseX}, ${2:mouseY})$0",
+		},
+
+
+
+		{
+			"trigger": "_ScenarioPOIFrame:CanChangeAttribute\t()",
+			"contents": "${1:enabled} = ${2:ScenarioPOIFrame}:CanChangeAttribute()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:CanChangeProtectedState\t()",
+			"contents": "${1:canChange} = ${2:ScenarioPOIFrame}:CanChangeProtectedState()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:CreateFontString\t([\"name\"], [\"layer\"], [\"inherits\"])",
+			"contents": "${1:fontstring} = ${2:ScenarioPOIFrame}:CreateFontString(${3:[\"name\"]}, ${4:[\"layer\"]}, ${5:[\"inherits\"]})$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:CreateLine\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:texture} = ${2:ScenarioPOIFrame}:CreateLine(${3:[\"name\"]}, \"${4:[layer]}\", ${5:[\"inherits\"]}, ${6:[sublevel]})$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:CreateMaskTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:texture} = ${2:ScenarioPOIFrame}:CreateMaskTexture(${3:[\"name\"]}, \"${4:[layer]}\", ${5:[\"inherits\"]}, ${6:[sublevel]})$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:CreateTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:texture} = ${2:ScenarioPOIFrame}:CreateTexture(${3:[\"name\"]}, \"${4:[layer]}\", ${5:[\"inherits\"]}, ${6:[sublevel]})$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:DoesClipChildren\t()",
+			"contents": "${1:doesClip} = ${2:ScenarioPOIFrame}:DoesClipChildren()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetAlpha\t()",
+			"contents": "${1:alpha} = ${2:ScenarioPOIFrame}:GetAlpha()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetAnimationGroups\t()",
+			"contents": "${1:...} = ${2:ScenarioPOIFrame}:GetAnimationGroups()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetAttribute\t(\"name\")",
+			"contents": "${1:value} = ${2:ScenarioPOIFrame}:GetAttribute(${3:\"name\"})$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetBackdrop\t()",
+			"contents": "${1:backdrop} = ${2:ScenarioPOIFrame}:GetBackdrop()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetBackdropBorderColor\t()",
+			"contents": "${1:red}, ${2:green}, ${3:blue}, ${4:alpha} = ${5:ScenarioPOIFrame}:GetBackdropBorderColor()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetBackdropColor\t()",
+			"contents": "${1:red}, ${2:green}, ${3:blue}, ${4:alpha} = ${5:ScenarioPOIFrame}:GetBackdropColor()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetBottom\t()",
+			"contents": "${1:bottom} = ${2:ScenarioPOIFrame}:GetBottom()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetBoundsRect\t()",
+			"contents": "${1:left}, ${2:bottom}, ${3:width}, ${4:height} = ${5:ScenarioPOIFrame}:GetBoundsRect()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetCenter\t()",
+			"contents": "${1:x}, ${2:y} = ${3:ScenarioPOIFrame}:GetCenter()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetChildren\t()",
+			"contents": "${1:...} = ${2:ScenarioPOIFrame}:GetChildren()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetClampRectInsets\t()",
+			"contents": "${1:left}, ${2:right}, ${3:top}, ${4:bottom} = ${5:ScenarioPOIFrame}:GetClampRectInsets()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetDebugName\t()",
+			"contents": "${1:name} = ${2:ScenarioPOIFrame}:GetDebugName()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetDepth\t()",
+			"contents": "${1:depth} = ${2:ScenarioPOIFrame}:GetDepth()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetDontSavePosition\t()",
+			"contents": "${1:saved} = ${2:ScenarioPOIFrame}:GetDontSavePosition()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetEffectiveAlpha\t()",
+			"contents": "${1:alpha} = ${2:ScenarioPOIFrame}:GetEffectiveAlpha()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetEffectiveDepth\t()",
+			"contents": "${1:depth} = ${2:ScenarioPOIFrame}:GetEffectiveDepth()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetEffectivelyFlattensRenderLayers\t()",
+			"contents": "${1:doesFlattens} = ${2:ScenarioPOIFrame}:GetEffectivelyFlattensRenderLayers()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetEffectiveScale\t()",
+			"contents": "${1:scale} = ${2:ScenarioPOIFrame}:GetEffectiveScale()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetFlattensRenderLayers\t()",
+			"contents": "${1:doesFlattens} = ${2:ScenarioPOIFrame}:GetFlattensRenderLayers()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetFrameLevel\t()",
+			"contents": "${1:level} = ${2:ScenarioPOIFrame}:GetFrameLevel()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetFrameStrata\t()",
+			"contents": "${1:strata} = ${2:ScenarioPOIFrame}:GetFrameStrata()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetHeight\t()",
+			"contents": "${1:height} = ${2:ScenarioPOIFrame}:GetHeight()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetHitRectInsets\t()",
+			"contents": "${1:left}, ${2:right}, ${3:top}, ${4:bottom} = ${5:ScenarioPOIFrame}:GetHitRectInsets()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetHyperlinksEnabled\t()",
+			"contents": "${1:enabled} = ${2:ScenarioPOIFrame}:GetHyperlinksEnabled()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetID\t()",
+			"contents": "${1:id} = ${2:ScenarioPOIFrame}:GetID()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetLeft\t()",
+			"contents": "${1:left} = ${2:ScenarioPOIFrame}:GetLeft()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetMaxResize\t()",
+			"contents": "${1:maxWidth}, ${2:maxHeight} = ${3:ScenarioPOIFrame}:GetMaxResize()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetMinResize\t()",
+			"contents": "${1:minWidth}, ${2:minHeight} = ${3:ScenarioPOIFrame}:GetMinResize()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetName\t()",
+			"contents": "${1:name} = ${2:ScenarioPOIFrame}:GetName()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetNumChildren\t()",
+			"contents": "${1:numChildren} = ${2:ScenarioPOIFrame}:GetNumChildren()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetNumPoints\t()",
+			"contents": "${1:numPoints} = ${2:ScenarioPOIFrame}:GetNumPoints()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetNumRegions\t()",
+			"contents": "${1:numRegions} = ${2:ScenarioPOIFrame}:GetNumRegions()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetObjectType\t()",
+			"contents": "${1:type} = ${2:ScenarioPOIFrame}:GetObjectType()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetPoint\t(index)",
+			"contents": "${1:point}, ${2:relativeTo}, ${3:relativePoint}, ${4:xOffset}, ${5:yOffset} = ${6:ScenarioPOIFrame}:GetPoint(${7:index})$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetPropagateKeyboardInput\t()",
+			"contents": "${1:propagate} = ${2:ScenarioPOIFrame}:GetPropagateKeyboardInput()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetRect\t()",
+			"contents": "${1:left}, ${2:bottom}, ${3:width}, ${4:height} = ${5:ScenarioPOIFrame}:GetRect()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetRegions\t()",
+			"contents": "${1:...} = ${2:ScenarioPOIFrame}:GetRegions()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetRight\t()",
+			"contents": "${1:right} = ${2:ScenarioPOIFrame}:GetRight()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetScale\t()",
+			"contents": "${1:scale} = ${2:ScenarioPOIFrame}:GetScale()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetScenarioTooltipText\t()",
+			"contents": "${1:text} = ${2:ScenarioPOIFrame}:GetScenarioTooltipText()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetScript\t(\"scriptType\")",
+			"contents": "${1:handler} = ${2:ScenarioPOIFrame}:GetScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetSize\t()",
+			"contents": "${1:width}, ${2:height} = ${3:ScenarioPOIFrame}:GetSize()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetTop\t()",
+			"contents": "${1:top} = ${2:ScenarioPOIFrame}:GetTop()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:GetWidth\t()",
+			"contents": "${1:width} = ${2:ScenarioPOIFrame}:GetWidth()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:HasScript\t(\"scriptType\")",
+			"contents": "${1:hasScript} = ${2:ScenarioPOIFrame}:HasScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:IsClampedToScreen\t()",
+			"contents": "${1:enabled} = ${2:ScenarioPOIFrame}:IsClampedToScreen()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:IsDragging\t()",
+			"contents": "${1:isDragging} = ${2:ScenarioPOIFrame}:IsDragging()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:IsEventRegistered\t(\"event\")",
+			"contents": "${1:registered} = ${2:ScenarioPOIFrame}:IsEventRegistered(\"${3:event}\")$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:IsForbidden\t()",
+			"contents": "${1:isForbidden} = ${2:ScenarioPOIFrame}:IsForbidden()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:IsIgnoringDepth\t()",
+			"contents": "${1:enabled} = ${2:ScenarioPOIFrame}:IsIgnoringDepth()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:IsIgnoringParentAlpha\t()",
+			"contents": "${1:isIgnoring} = ${2:ScenarioPOIFrame}:IsIgnoringParentAlpha()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:IsIgnoringParentScale\t()",
+			"contents": "${1:isIgnoring} = ${2:ScenarioPOIFrame}:IsIgnoringParentScale()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:IsJoystickEnabled\t()",
+			"contents": "${1:enabled} = ${2:ScenarioPOIFrame}:IsJoystickEnabled()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:IsKeyboardEnabled\t()",
+			"contents": "${1:enabled} = ${2:ScenarioPOIFrame}:IsKeyboardEnabled()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:IsMouseClickEnabled\t()",
+			"contents": "${1:enabled} = ${2:ScenarioPOIFrame}:IsMouseClickEnabled()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:IsMouseEnabled\t()",
+			"contents": "${1:enabled} = ${2:ScenarioPOIFrame}:IsMouseEnabled()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:IsMouseMotionEnabled\t()",
+			"contents": "${1:enabled} = ${2:ScenarioPOIFrame}:IsMouseMotionEnabled()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
+			"contents": "${1:isOver} = ${2:ScenarioPOIFrame}:IsMouseOver(${3:[topOffset]}, ${4:[leftOffset]}, ${5:[bottomOffset]}, ${6:[rightOffset]})$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:IsMouseWheelEnabled\t()",
+			"contents": "${1:enabled} = ${2:ScenarioPOIFrame}:IsMouseWheelEnabled()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:IsMovable\t()",
+			"contents": "${1:movable} = ${2:ScenarioPOIFrame}:IsMovable()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:IsObjectLoaded\t()",
+			"contents": "${1:loaded} = ${2:ScenarioPOIFrame}:IsObjectLoaded()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:IsObjectType\t(\"type\")",
+			"contents": "${1:isType} = ${2:ScenarioPOIFrame}:IsObjectType(\"${3:type}\")$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:IsProtected\t()",
+			"contents": "${1:isProtected}, ${2:explicit} = ${3:ScenarioPOIFrame}:IsProtected()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:IsResizable\t()",
+			"contents": "${1:enabled} = ${2:ScenarioPOIFrame}:IsResizable()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:IsShown\t()",
+			"contents": "${1:shown} = ${2:ScenarioPOIFrame}:IsShown()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:IsToplevel\t()",
+			"contents": "${1:enabled} = ${2:ScenarioPOIFrame}:IsToplevel()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:IsUserPlaced\t()",
+			"contents": "${1:enabled} = ${2:ScenarioPOIFrame}:IsUserPlaced()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:IsVisible\t()",
+			"contents": "${1:visible} = ${2:ScenarioPOIFrame}:IsVisible()$0",
+		},
+		{
+			"trigger": "_ScenarioPOIFrame:UpdateMouseOverTooltip\t(mouseX, mouseY)",
+			"contents": "${1:index}, ${2:numObjectives} = ${3:ScenarioPOIFrame}:UpdateMouseOverTooltip(${4:mouseX}, ${5:mouseY})$0",
+		},
+
+
+
+		{
+			"trigger": "_ScenarioPOIFrame\thelp",
+			"contents": "ScenarioPOIFrame = {\n\tinherits = {\n\t\t\"ScenarioPOIFrame\",\n\t\t\"BlobFrame\",\n\t\t\"Frame\",\n\t\t\"ScriptObject\",\n\t\t\"VisibleRegion\",\n\t\t\"Region\",\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\thandlers = {\n\t\t[\"OnAttributeChanged\"] = \"self, name, value\",\n\t\t[\"OnChar\"] = \"self, text\",\n\t\t[\"OnDisable\"] = \"self\",\n\t\t[\"OnDragStart\"] = \"self, button\",\n\t\t[\"OnDragStop\"] = \"self\",\n\t\t[\"OnEnable\"] = \"self\",\n\t\t[\"OnEnter\"] = \"self, motion\",\n\t\t[\"OnEvent\"] = \"self, event, ...\",\n\t\t[\"OnHide\"] = \"self\",\n\t\t[\"OnHyperlinkClick\"] = \"self, link, text, button, region, left, bottom, width, height\",\n\t\t[\"OnHyperlinkEnter\"] = \"self, link, text, region, left, bottom, width, height\",\n\t\t[\"OnHyperlinkLeave\"] = \"self\",\n\t\t[\"OnKeyDown\"] = \"self, key\",\n\t\t[\"OnKeyUp\"] = \"self, key\",\n\t\t[\"OnLeave\"] = \"self, motion\",\n\t\t[\"OnLoad\"] = \"self\",\n\t\t[\"OnMouseDown\"] = \"self, button\",\n\t\t[\"OnMouseUp\"] = \"self, button, upInside\",\n\t\t[\"OnMouseWheel\"] = \"self, delta\",\n\t\t[\"OnReceiveDrag\"] = \"self\",\n\t\t[\"OnShow\"] = \"self\",\n\t\t[\"OnSizeChanged\"] = \"self, width, height\",\n\t\t[\"OnUpdate\"] = \"self, elapsed\",\n\t},\n\tmethods = {\n\t\t\"CanChangeAttribute\",\n\t\t\"CanChangeProtectedState\",\n\t\t\"ClearAllPoints\",\n\t\t\"CreateAnimationGroup\",\n\t\t\"CreateFontString\",\n\t\t\"CreateLine\",\n\t\t\"CreateMaskTexture\",\n\t\t\"CreateTexture\",\n\t\t\"DisableDrawLayer\",\n\t\t\"DoesClipChildren\",\n\t\t\"DrawAll\",\n\t\t\"DrawBlob\",\n\t\t\"DrawNone\",\n\t\t\"EnableDrawLayer\",\n\t\t\"EnableJoystick\",\n\t\t\"EnableKeyboard\",\n\t\t\"EnableMerging\",\n\t\t\"EnableMouse\",\n\t\t\"EnableMouseWheel\",\n\t\t\"EnableSmoothing\",\n\t\t\"GetAlpha\",\n\t\t\"GetAnimationGroups\",\n\t\t\"GetAttribute\",\n\t\t\"GetBackdrop\",\n\t\t\"GetBackdropBorderColor\",\n\t\t\"GetBackdropColor\",\n\t\t\"GetBottom\",\n\t\t\"GetBoundsRect\",\n\t\t\"GetCenter\",\n\t\t\"GetChildren\",\n\t\t\"GetClampRectInsets\",\n\t\t\"GetDebugName\",\n\t\t\"GetDepth\",\n\t\t\"GetDontSavePosition\",\n\t\t\"GetEffectiveAlpha\",\n\t\t\"GetEffectiveDepth\",\n\t\t\"GetEffectivelyFlattensRenderLayers\",\n\t\t\"GetEffectiveScale\",\n\t\t\"GetFlattensRenderLayers\",\n\t\t\"GetFrameLevel\",\n\t\t\"GetFrameStrata\",\n\t\t\"GetHeight\",\n\t\t\"GetHitRectInsets\",\n\t\t\"GetHyperlinksEnabled\",\n\t\t\"GetID\",\n\t\t\"GetLeft\",\n\t\t\"GetMaxResize\",\n\t\t\"GetMinResize\",\n\t\t\"GetName\",\n\t\t\"GetNumChildren\",\n\t\t\"GetNumPoints\",\n\t\t\"GetNumRegions\",\n\t\t\"GetObjectType\",\n\t\t\"GetParent\",\n\t\t\"GetPoint\",\n\t\t\"GetPropagateKeyboardInput\",\n\t\t\"GetRect\",\n\t\t\"GetRegions\",\n\t\t\"GetRight\",\n\t\t\"GetScale\",\n\t\t\"GetScenarioTooltipText\",\n\t\t\"GetScript\",\n\t\t\"GetSize\",\n\t\t\"GetTop\",\n\t\t\"GetWidth\",\n\t\t\"HasScript\",\n\t\t\"Hide\",\n\t\t\"HookScript\",\n\t\t\"IgnoreDepth\",\n\t\t\"IsClampedToScreen\",\n\t\t\"IsDragging\",\n\t\t\"IsEventRegistered\",\n\t\t\"IsForbidden\",\n\t\t\"IsIgnoringDepth\",\n\t\t\"IsIgnoringParentAlpha\",\n\t\t\"IsIgnoringParentScale\",\n\t\t\"IsJoystickEnabled\",\n\t\t\"IsKeyboardEnabled\",\n\t\t\"IsMouseClickEnabled\",\n\t\t\"IsMouseEnabled\",\n\t\t\"IsMouseMotionEnabled\",\n\t\t\"IsMouseOver\",\n\t\t\"IsMouseWheelEnabled\",\n\t\t\"IsMovable\",\n\t\t\"IsObjectLoaded\",\n\t\t\"IsObjectType\",\n\t\t\"IsProtected\",\n\t\t\"IsResizable\",\n\t\t\"IsShown\",\n\t\t\"IsToplevel\",\n\t\t\"IsUserPlaced\",\n\t\t\"IsVisible\",\n\t\t\"Lower\",\n\t\t\"Raise\",\n\t\t\"RegisterAllEvents\",\n\t\t\"RegisterEvent\",\n\t\t\"RegisterForDrag\",\n\t\t\"RegisterUnitEvent\",\n\t\t\"SetAllPoints\",\n\t\t\"SetAlpha\",\n\t\t\"SetAttribute\",\n\t\t\"SetBackdrop\",\n\t\t\"SetBackdropBorderColor\",\n\t\t\"SetBackdropColor\",\n\t\t\"SetBorderAlpha\",\n\t\t\"SetBorderScalar\",\n\t\t\"SetBorderTexture\",\n\t\t\"SetClampedToScreen\",\n\t\t\"SetClampRectInsets\",\n\t\t\"SetClipsChildren\",\n\t\t\"SetDepth\",\n\t\t\"SetDontSavePosition\",\n\t\t\"SetFillAlpha\",\n\t\t\"SetFillTexture\",\n\t\t\"SetFlattensRenderLayers\",\n\t\t\"SetFrameLevel\",\n\t\t\"SetFrameStrata\",\n\t\t\"SetHeight\",\n\t\t\"SetHitRectInsets\",\n\t\t\"SetHyperlinksEnabled\",\n\t\t\"SetID\",\n\t\t\"SetIgnoreParentAlpha\",\n\t\t\"SetIgnoreParentScale\",\n\t\t\"SetMaxResize\",\n\t\t\"SetMergeThreshold\",\n\t\t\"SetMinResize\",\n\t\t\"SetMouseClickEnabled\",\n\t\t\"SetMouseMotionEnabled\",\n\t\t\"SetMovable\",\n\t\t\"SetNumSplinePoints\",\n\t\t\"SetParent\",\n\t\t\"SetPoint\",\n\t\t\"SetPropagateKeyboardInput\",\n\t\t\"SetResizable\",\n\t\t\"SetScale\",\n\t\t\"SetScript\",\n\t\t\"SetShown\",\n\t\t\"SetSize\",\n\t\t\"SetToplevel\",\n\t\t\"SetUserPlaced\",\n\t\t\"SetWidth\",\n\t\t\"Show\",\n\t\t\"StartMoving\",\n\t\t\"StartSizing\",\n\t\t\"StopAnimating\",\n\t\t\"StopMovingOrSizing\",\n\t\t\"UnregisterAllEvents\",\n\t\t\"UnregisterEvent\",\n\t\t\"UpdateMouseOverTooltip\",\n\t},\n}",
+		},
+	]
+}

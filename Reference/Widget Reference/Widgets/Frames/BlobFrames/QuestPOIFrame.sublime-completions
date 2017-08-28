@@ -1,0 +1,923 @@
+{
+	"scope": "source.lua - string",
+	"completions": [
+		{
+			"trigger": "QuestPOIFrame:CanChangeAttribute\t()",
+			"contents": "${1:QuestPOIFrame}:CanChangeAttribute()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:CanChangeProtectedState\t()",
+			"contents": "${1:QuestPOIFrame}:CanChangeProtectedState()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:ClearAllPoints\t()",
+			"contents": "${1:QuestPOIFrame}:ClearAllPoints()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:CreateAnimationGroup\t([\"name\"], [\"inheritsFrom\"])",
+			"contents": "${1:QuestPOIFrame}:CreateAnimationGroup(${2:[\"name\"]}, ${3:[\"inheritsFrom\"]})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:CreateFontString\t([\"name\"], [\"layer\"], [\"inherits\"])",
+			"contents": "${1:QuestPOIFrame}:CreateFontString(${2:[\"name\"]}, ${3:[\"layer\"]}, ${4:[\"inherits\"]})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:CreateLine\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:QuestPOIFrame}:CreateLine(${2:[\"name\"]}, \"${3:[layer]}\", ${4:[\"inherits\"]}, ${5:[sublevel]})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:CreateMaskTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:QuestPOIFrame}:CreateMaskTexture(${2:[\"name\"]}, \"${3:[layer]}\", ${4:[\"inherits\"]}, ${5:[sublevel]})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:CreateTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:QuestPOIFrame}:CreateTexture(${2:[\"name\"]}, \"${3:[layer]}\", ${4:[\"inherits\"]}, ${5:[sublevel]})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:DisableDrawLayer\t(\"layer\")",
+			"contents": "${1:QuestPOIFrame}:DisableDrawLayer(\"${2:layer}\")$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:DrawAll\t()",
+			"contents": "${1:QuestPOIFrame}:DrawAll()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:DrawBlob\t(blobID, draw)",
+			"contents": "${1:QuestPOIFrame}:DrawBlob(${2:blobID}, ${3:draw})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:DrawNone\t()",
+			"contents": "${1:QuestPOIFrame}:DrawNone()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:DoesClipChildren\t()",
+			"contents": "${1:QuestPOIFrame}:DoesClipChildren()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:EnableDrawLayer\t(\"layer\")",
+			"contents": "${1:QuestPOIFrame}:EnableDrawLayer(\"${2:layer}\")$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:EnableJoystick\t(enable)",
+			"contents": "${1:QuestPOIFrame}:EnableJoystick(${2:enable})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:EnableKeyboard\t(enable)",
+			"contents": "${1:QuestPOIFrame}:EnableKeyboard(${2:enable})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:EnableMerging\t(enable)",
+			"contents": "${1:QuestPOIFrame}:EnableMerging(${2:enable})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:EnableMouse\t(enable)",
+			"contents": "${1:QuestPOIFrame}:EnableMouse(${2:enable})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:EnableMouseWheel\t(enable)",
+			"contents": "${1:QuestPOIFrame}:EnableMouseWheel(${2:enable})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:EnableSmoothing\t(enable)",
+			"contents": "${1:QuestPOIFrame}:EnableSmoothing(${2:enable})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetAlpha\t()",
+			"contents": "${1:QuestPOIFrame}:GetAlpha()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetAnimationGroups\t()",
+			"contents": "${1:QuestPOIFrame}:GetAnimationGroups()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetAttribute\t(\"name\")",
+			"contents": "${1:QuestPOIFrame}:GetAttribute(${2:\"name\"})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetBackdrop\t()",
+			"contents": "${1:QuestPOIFrame}:GetBackdrop()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetBackdropBorderColor\t()",
+			"contents": "${1:QuestPOIFrame}:GetBackdropBorderColor()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetBackdropColor\t()",
+			"contents": "${1:QuestPOIFrame}:GetBackdropColor()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetBottom\t()",
+			"contents": "${1:QuestPOIFrame}:GetBottom()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetBoundsRect\t()",
+			"contents": "${1:QuestPOIFrame}:GetBoundsRect()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetCenter\t()",
+			"contents": "${1:QuestPOIFrame}:GetCenter()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetChildren\t()",
+			"contents": "${1:QuestPOIFrame}:GetChildren()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetClampRectInsets\t()",
+			"contents": "${1:QuestPOIFrame}:GetClampRectInsets()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetDebugName\t()",
+			"contents": "${1:QuestPOIFrame}:GetDebugName()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetDepth\t()",
+			"contents": "${1:QuestPOIFrame}:GetDepth()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetDontSavePosition\t()",
+			"contents": "${1:QuestPOIFrame}:GetDontSavePosition()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetEffectiveAlpha\t()",
+			"contents": "${1:QuestPOIFrame}:GetEffectiveAlpha()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetEffectiveDepth\t()",
+			"contents": "${1:QuestPOIFrame}:GetEffectiveDepth()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetEffectivelyFlattensRenderLayers\t()",
+			"contents": "${1:QuestPOIFrame}:GetEffectivelyFlattensRenderLayers()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetEffectiveScale\t()",
+			"contents": "${1:QuestPOIFrame}:GetEffectiveScale()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetFlattensRenderLayers\t()",
+			"contents": "${1:QuestPOIFrame}:GetFlattensRenderLayers()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetFrameLevel\t()",
+			"contents": "${1:QuestPOIFrame}:GetFrameLevel()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetFrameStrata\t()",
+			"contents": "${1:QuestPOIFrame}:GetFrameStrata()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetHeight\t()",
+			"contents": "${1:QuestPOIFrame}:GetHeight()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetHitRectInsets\t()",
+			"contents": "${1:QuestPOIFrame}:GetHitRectInsets()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetHyperlinksEnabled\t()",
+			"contents": "${1:QuestPOIFrame}:GetHyperlinksEnabled()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetID\t()",
+			"contents": "${1:QuestPOIFrame}:GetID()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetLeft\t()",
+			"contents": "${1:QuestPOIFrame}:GetLeft()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetMaxResize\t()",
+			"contents": "${1:QuestPOIFrame}:GetMaxResize()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetMinResize\t()",
+			"contents": "${1:QuestPOIFrame}:GetMinResize()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetName\t()",
+			"contents": "${1:QuestPOIFrame}:GetName()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetNumChildren\t()",
+			"contents": "${1:QuestPOIFrame}:GetNumChildren()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetNumPoints\t()",
+			"contents": "${1:QuestPOIFrame}:GetNumPoints()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetNumRegions\t()",
+			"contents": "${1:QuestPOIFrame}:GetNumRegions()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetNumTooltips\t()",
+			"contents": "${1:QuestPOIFrame}:GetNumTooltips()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetObjectType\t()",
+			"contents": "${1:QuestPOIFrame}:GetObjectType()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetParent\t()",
+			"contents": "${1:QuestPOIFrame}:GetParent()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetPoint\t(index)",
+			"contents": "${1:QuestPOIFrame}:GetPoint(${2:index})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetPropagateKeyboardInput\t()",
+			"contents": "${1:QuestPOIFrame}:GetPropagateKeyboardInput()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetRect\t()",
+			"contents": "${1:QuestPOIFrame}:GetRect()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetRegions\t()",
+			"contents": "${1:QuestPOIFrame}:GetRegions()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetRight\t()",
+			"contents": "${1:QuestPOIFrame}:GetRight()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetScale\t()",
+			"contents": "${1:QuestPOIFrame}:GetScale()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetScript\t(\"scriptType\")",
+			"contents": "${1:QuestPOIFrame}:GetScript(\"${2:scriptType}\")$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetSize\t()",
+			"contents": "${1:QuestPOIFrame}:GetSize()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetTooltipIndex\t()",
+			"contents": "${1:QuestPOIFrame}:GetTooltipIndex()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetTop\t()",
+			"contents": "${1:QuestPOIFrame}:GetTop()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:GetWidth\t()",
+			"contents": "${1:QuestPOIFrame}:GetWidth()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:HasScript\t(\"scriptType\")",
+			"contents": "${1:QuestPOIFrame}:HasScript(\"${2:scriptType}\")$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:Hide\t()",
+			"contents": "${1:QuestPOIFrame}:Hide()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:HookScript\t(\"scriptType\", handler)",
+			"contents": "${1:QuestPOIFrame}:HookScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:IgnoreDepth\t(enable)",
+			"contents": "${1:QuestPOIFrame}:IgnoreDepth(${2:enable})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:IsClampedToScreen\t()",
+			"contents": "${1:QuestPOIFrame}:IsClampedToScreen()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:IsDragging\t()",
+			"contents": "${1:QuestPOIFrame}:IsDragging()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:IsEventRegistered\t(\"event\")",
+			"contents": "${1:QuestPOIFrame}:IsEventRegistered(\"${2:event}\")$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:IsForbidden\t()",
+			"contents": "${1:QuestPOIFrame}:IsForbidden()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:IsIgnoringDepth\t()",
+			"contents": "${1:QuestPOIFrame}:IsIgnoringDepth()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:IsIgnoringParentAlpha\t()",
+			"contents": "${1:QuestPOIFrame}:IsIgnoringParentAlpha()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:IsIgnoringParentScale\t()",
+			"contents": "${1:QuestPOIFrame}:IsIgnoringParentScale()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:IsJoystickEnabled\t()",
+			"contents": "${1:QuestPOIFrame}:IsJoystickEnabled()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:IsKeyboardEnabled\t()",
+			"contents": "${1:QuestPOIFrame}:IsKeyboardEnabled()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:IsMouseClickEnabled\t()",
+			"contents": "${1:QuestPOIFrame}:IsMouseClickEnabled()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:IsMouseEnabled\t()",
+			"contents": "${1:QuestPOIFrame}:IsMouseEnabled()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:IsMouseMotionEnabled\t()",
+			"contents": "${1:QuestPOIFrame}:IsMouseMotionEnabled()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
+			"contents": "${1:QuestPOIFrame}:IsMouseOver(${2:[topOffset]}, ${3:[leftOffset]}, ${4:[bottomOffset]}, ${5:[rightOffset]})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:IsMouseWheelEnabled\t()",
+			"contents": "${1:QuestPOIFrame}:IsMouseWheelEnabled()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:IsMovable\t()",
+			"contents": "${1:QuestPOIFrame}:IsMovable()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:IsObjectLoaded\t()",
+			"contents": "${1:QuestPOIFrame}:IsObjectLoaded()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:IsObjectType\t()",
+			"contents": "${1:QuestPOIFrame}:IsObjectType()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:IsProtected\t()",
+			"contents": "${1:QuestPOIFrame}:IsProtected()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:IsResizable\t()",
+			"contents": "${1:QuestPOIFrame}:IsResizable()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:IsShown\t()",
+			"contents": "${1:QuestPOIFrame}:IsShown()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:IsToplevel\t()",
+			"contents": "${1:QuestPOIFrame}:IsToplevel()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:IsUserPlaced\t()",
+			"contents": "${1:QuestPOIFrame}:IsUserPlaced()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:IsVisible\t()",
+			"contents": "${1:QuestPOIFrame}:IsVisible()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:Lower\t()",
+			"contents": "${1:QuestPOIFrame}:Lower()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:Raise\t()",
+			"contents": "${1:QuestPOIFrame}:Raise()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:RegisterAllEvents\t()",
+			"contents": "${1:QuestPOIFrame}:RegisterAllEvents()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:RegisterEvent\t(\"event\")",
+			"contents": "${1:QuestPOIFrame}:RegisterEvent(\"${2:event}\")$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:RegisterForDrag\t(...)",
+			"contents": "${1:QuestPOIFrame}:RegisterForDrag(${2:...})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:RegisterUnitEvent\t(\"event\", \"unit1\", \"unit2\")",
+			"contents": "${1:QuestPOIFrame}:RegisterUnitEvent(\"${2:event}\", \"${3:unit1}\", \"${4:unit2}\")$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetAllPoints\t([frame])",
+			"contents": "${1:QuestPOIFrame}:SetAllPoints(${2:[frame]})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetAlpha\t(alpha)",
+			"contents": "${1:QuestPOIFrame}:SetAlpha(${2:alpha})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetAttribute\t(\"name\", value)",
+			"contents": "${1:QuestPOIFrame}:SetAttribute(${2:\"name\"}, ${3:value})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetBackdrop\t(backdrop)",
+			"contents": "${1:QuestPOIFrame}:SetBackdrop(${2:backdrop})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetBackdropBorderColor\t(red, green, blue, [alpha])",
+			"contents": "${1:QuestPOIFrame}:SetBackdropBorderColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetBackdropColor\t(red, green, blue, [alpha])",
+			"contents": "${1:QuestPOIFrame}:SetBackdropColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetBorderAlpha\t(alpha)",
+			"contents": "${1:QuestPOIFrame}:SetBorderAlpha(${2:alpha})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetBorderScalar\t(scalar)",
+			"contents": "${1:QuestPOIFrame}:SetBorderScalar(${2:scalar})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetBorderTexture\t(\"texture\")",
+			"contents": "${1:QuestPOIFrame}:SetBorderTexture(\"${2:texture}\")$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetClampedToScreen\t(enable)",
+			"contents": "${1:QuestPOIFrame}:SetClampedToScreen(${2:enable})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetClampRectInsets\t(left, right, top, bottom)",
+			"contents": "${1:QuestPOIFrame}:SetClampRectInsets(${2:left}, ${3:right}, ${4:top}, ${5:bottom})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetClipsChildren\t(enable)",
+			"contents": "${1:QuestPOIFrame}:SetClipsChildren(${2:enable})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetDepth\t(depth)",
+			"contents": "${1:QuestPOIFrame}:SetDepth(${2:depth})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetDontSavePosition\t(enable)",
+			"contents": "${1:QuestPOIFrame}:SetDontSavePosition(${2:enable})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetFillAlpha\t(alpha)",
+			"contents": "${1:QuestPOIFrame}:SetFillAlpha(${2:alpha})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetFillTexture\t(\"texture\")",
+			"contents": "${1:QuestPOIFrame}:SetFillTexture(\"${2:texture}\")$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetFlattensRenderLayers\t(enable)",
+			"contents": "${1:QuestPOIFrame}:SetFlattensRenderLayers(${2:enable})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetFrameLevel\t(level)",
+			"contents": "${1:QuestPOIFrame}:SetFrameLevel(${2:level})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetFrameStrata\t(\"strata\")",
+			"contents": "${1:QuestPOIFrame}:SetFrameStrata(\"${2:strata}\")$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetHeight\t(height)",
+			"contents": "${1:QuestPOIFrame}:SetHeight(${2:height})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetHitRectInsets\t(left, right, top, bottom)",
+			"contents": "${1:QuestPOIFrame}:SetHitRectInsets(${2:left}, ${3:right}, ${4:top}, ${5:bottom})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetHyperlinksEnabled\t(enable)",
+			"contents": "${1:QuestPOIFrame}:SetHyperlinksEnabled(${2:enable})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetID\t(id)",
+			"contents": "${1:QuestPOIFrame}:SetID(${2:id})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetIgnoreParentAlpha\t(enable)",
+			"contents": "${1:QuestPOIFrame}:SetIgnoreParentAlpha(${2:enable})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetIgnoreParentScale\t(enable)",
+			"contents": "${1:QuestPOIFrame}:SetIgnoreParentScale(${2:enable})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetMaxResize\t(maxWidth, maxHeight)",
+			"contents": "${1:QuestPOIFrame}:SetMaxResize(${2:maxWidth}, ${3:maxHeight})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetMergeThreshold\t(threshold)",
+			"contents": "${1:QuestPOIFrame}:SetMergeThreshold(${2:threshold})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetMinResize\t(minWidth, minHeight)",
+			"contents": "${1:QuestPOIFrame}:SetMinResize(${2:minWidth}, ${3:minHeight})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetMouseClickEnabled\t(enable)",
+			"contents": "${1:QuestPOIFrame}:SetMouseClickEnabled(${2:enable})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetMouseMotionEnabled\t(enable)",
+			"contents": "${1:QuestPOIFrame}:SetMouseMotionEnabled(${2:enable})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetMovable\t(enable)",
+			"contents": "${1:QuestPOIFrame}:SetMovable(${2:enable})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetNumSplinePoints\t(numPoints)",
+			"contents": "${1:QuestPOIFrame}:SetNumSplinePoints(${2:numPoints})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetParent\t(frame)",
+			"contents": "${1:QuestPOIFrame}:SetParent(${2:QuestPOIFrame})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetPoint\t(\"point\", [relativeTo], [\"relativePoint\"], [xOffset], [yOffset])",
+			"contents": "${1:QuestPOIFrame}:SetPoint(\"${2:point}\", ${3:[relativeTo]}, \"${4:[relativePoint]}\", ${5:[xOffset]}, ${6:[yOffset]})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetPropagateKeyboardInput\t(enable)",
+			"contents": "${1:QuestPOIFrame}:SetPropagateKeyboardInput(${2:enable})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetResizable\t(enable)",
+			"contents": "${1:QuestPOIFrame}:SetResizable(${2:enable})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetScale\t(scale)",
+			"contents": "${1:QuestPOIFrame}:SetScale(${2:scale})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetScript\t(\"scriptType\", handler)",
+			"contents": "${1:QuestPOIFrame}:SetScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetShown\t(enable)",
+			"contents": "${1:QuestPOIFrame}:SetShown(${2:enable})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetSize\t(width, height)",
+			"contents": "${1:QuestPOIFrame}:SetSize(${2:width}, ${3:height})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetToplevel\t(enable)",
+			"contents": "${1:QuestPOIFrame}:SetToplevel(${2:enable})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetUserPlaced\t(enable)",
+			"contents": "${1:QuestPOIFrame}:SetUserPlaced(${2:enable})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:SetWidth\t(width)",
+			"contents": "${1:QuestPOIFrame}:SetWidth(${2:width})$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:Show\t()",
+			"contents": "${1:QuestPOIFrame}:Show()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:StartMoving\t()",
+			"contents": "${1:QuestPOIFrame}:StartMoving()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:StartSizing\t()",
+			"contents": "${1:QuestPOIFrame}:StartSizing()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:StopAnimating\t()",
+			"contents": "${1:QuestPOIFrame}:StopAnimating()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:StopMovingOrSizing\t()",
+			"contents": "${1:QuestPOIFrame}:StopMovingOrSizing()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:UnregisterAllEvents\t()",
+			"contents": "${1:QuestPOIFrame}:UnregisterAllEvents()$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:UnregisterEvent\t(\"event\")",
+			"contents": "${1:QuestPOIFrame}:UnregisterEvent(\"${2:event}\")$0",
+		},
+		{
+			"trigger": "QuestPOIFrame:UpdateMouseOverTooltip\t(mouseX, mouseY)",
+			"contents": "${1:QuestPOIFrame}:UpdateMouseOverTooltip(${2:mouseX}, ${2:mouseY})$0",
+		},
+
+
+
+		{
+			"trigger": "_QuestPOIFrame:CanChangeAttribute\t()",
+			"contents": "${1:enabled} = ${2:QuestPOIFrame}:CanChangeAttribute()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:CanChangeProtectedState\t()",
+			"contents": "${1:canChange} = ${2:QuestPOIFrame}:CanChangeProtectedState()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:CreateFontString\t([\"name\"], [\"layer\"], [\"inherits\"])",
+			"contents": "${1:fontstring} = ${2:QuestPOIFrame}:CreateFontString(${3:[\"name\"]}, ${4:[\"layer\"]}, ${5:[\"inherits\"]})$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:CreateLine\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:texture} = ${2:QuestPOIFrame}:CreateLine(${3:[\"name\"]}, \"${4:[layer]}\", ${5:[\"inherits\"]}, ${6:[sublevel]})$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:CreateMaskTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:texture} = ${2:QuestPOIFrame}:CreateMaskTexture(${3:[\"name\"]}, \"${4:[layer]}\", ${5:[\"inherits\"]}, ${6:[sublevel]})$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:CreateTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:texture} = ${2:QuestPOIFrame}:CreateTexture(${3:[\"name\"]}, \"${4:[layer]}\", ${5:[\"inherits\"]}, ${6:[sublevel]})$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:DoesClipChildren\t()",
+			"contents": "${1:doesClip} = ${2:QuestPOIFrame}:DoesClipChildren()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetAlpha\t()",
+			"contents": "${1:alpha} = ${2:QuestPOIFrame}:GetAlpha()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetAnimationGroups\t()",
+			"contents": "${1:...} = ${2:QuestPOIFrame}:GetAnimationGroups()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetAttribute\t(\"name\")",
+			"contents": "${1:value} = ${2:QuestPOIFrame}:GetAttribute(${3:\"name\"})$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetBackdrop\t()",
+			"contents": "${1:backdrop} = ${2:QuestPOIFrame}:GetBackdrop()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetBackdropBorderColor\t()",
+			"contents": "${1:red}, ${2:green}, ${3:blue}, ${4:alpha} = ${5:QuestPOIFrame}:GetBackdropBorderColor()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetBackdropColor\t()",
+			"contents": "${1:red}, ${2:green}, ${3:blue}, ${4:alpha} = ${5:QuestPOIFrame}:GetBackdropColor()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetBottom\t()",
+			"contents": "${1:bottom} = ${2:QuestPOIFrame}:GetBottom()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetBoundsRect\t()",
+			"contents": "${1:left}, ${2:bottom}, ${3:width}, ${4:height} = ${5:QuestPOIFrame}:GetBoundsRect()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetCenter\t()",
+			"contents": "${1:x}, ${2:y} = ${3:QuestPOIFrame}:GetCenter()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetChildren\t()",
+			"contents": "${1:...} = ${2:QuestPOIFrame}:GetChildren()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetClampRectInsets\t()",
+			"contents": "${1:left}, ${2:right}, ${3:top}, ${4:bottom} = ${5:QuestPOIFrame}:GetClampRectInsets()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetDebugName\t()",
+			"contents": "${1:name} = ${2:QuestPOIFrame}:GetDebugName()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetDepth\t()",
+			"contents": "${1:depth} = ${2:QuestPOIFrame}:GetDepth()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetDontSavePosition\t()",
+			"contents": "${1:saved} = ${2:QuestPOIFrame}:GetDontSavePosition()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetEffectiveAlpha\t()",
+			"contents": "${1:alpha} = ${2:QuestPOIFrame}:GetEffectiveAlpha()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetEffectiveDepth\t()",
+			"contents": "${1:depth} = ${2:QuestPOIFrame}:GetEffectiveDepth()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetEffectivelyFlattensRenderLayers\t()",
+			"contents": "${1:doesFlattens} = ${2:QuestPOIFrame}:GetEffectivelyFlattensRenderLayers()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetEffectiveScale\t()",
+			"contents": "${1:scale} = ${2:QuestPOIFrame}:GetEffectiveScale()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetFlattensRenderLayers\t()",
+			"contents": "${1:doesFlattens} = ${2:QuestPOIFrame}:GetFlattensRenderLayers()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetFrameLevel\t()",
+			"contents": "${1:level} = ${2:QuestPOIFrame}:GetFrameLevel()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetFrameStrata\t()",
+			"contents": "${1:strata} = ${2:QuestPOIFrame}:GetFrameStrata()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetHeight\t()",
+			"contents": "${1:height} = ${2:QuestPOIFrame}:GetHeight()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetHitRectInsets\t()",
+			"contents": "${1:left}, ${2:right}, ${3:top}, ${4:bottom} = ${5:QuestPOIFrame}:GetHitRectInsets()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetHyperlinksEnabled\t()",
+			"contents": "${1:enabled} = ${2:QuestPOIFrame}:GetHyperlinksEnabled()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetID\t()",
+			"contents": "${1:id} = ${2:QuestPOIFrame}:GetID()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetLeft\t()",
+			"contents": "${1:left} = ${2:QuestPOIFrame}:GetLeft()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetMaxResize\t()",
+			"contents": "${1:maxWidth}, ${2:maxHeight} = ${3:QuestPOIFrame}:GetMaxResize()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetMinResize\t()",
+			"contents": "${1:minWidth}, ${2:minHeight} = ${3:QuestPOIFrame}:GetMinResize()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetName\t()",
+			"contents": "${1:name} = ${2:QuestPOIFrame}:GetName()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetNumChildren\t()",
+			"contents": "${1:numChildren} = ${2:QuestPOIFrame}:GetNumChildren()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetNumPoints\t()",
+			"contents": "${1:numPoints} = ${2:QuestPOIFrame}:GetNumPoints()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetNumRegions\t()",
+			"contents": "${1:numRegions} = ${2:QuestPOIFrame}:GetNumRegions()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetNumTooltips\t()",
+			"contents": "${1:numTooltips} =  ${2:QuestPOIFrame}:GetNumTooltips()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetObjectType\t()",
+			"contents": "${1:type} = ${2:QuestPOIFrame}:GetObjectType()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetPoint\t(index)",
+			"contents": "${1:point}, ${2:relativeTo}, ${3:relativePoint}, ${4:xOffset}, ${5:yOffset} = ${6:QuestPOIFrame}:GetPoint(${7:index})$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetPropagateKeyboardInput\t()",
+			"contents": "${1:propagate} = ${2:QuestPOIFrame}:GetPropagateKeyboardInput()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetRect\t()",
+			"contents": "${1:left}, ${2:bottom}, ${3:width}, ${4:height} = ${5:QuestPOIFrame}:GetRect()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetRegions\t()",
+			"contents": "${1:...} = ${2:QuestPOIFrame}:GetRegions()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetRight\t()",
+			"contents": "${1:right} = ${2:QuestPOIFrame}:GetRight()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetScale\t()",
+			"contents": "${1:scale} = ${2:QuestPOIFrame}:GetScale()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetScript\t(\"scriptType\")",
+			"contents": "${1:handler} = ${2:QuestPOIFrame}:GetScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetSize\t()",
+			"contents": "${1:width}, ${2:height} = ${3:QuestPOIFrame}:GetSize()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetTooltipIndex\t()",
+			"contents": "${1:index} = ${2:QuestPOIFrame}:GetTooltipIndex()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetTop\t()",
+			"contents": "${1:top} = ${2:QuestPOIFrame}:GetTop()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:GetWidth\t()",
+			"contents": "${1:width} = ${2:QuestPOIFrame}:GetWidth()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:HasScript\t(\"scriptType\")",
+			"contents": "${1:hasScript} = ${2:QuestPOIFrame}:HasScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:IsClampedToScreen\t()",
+			"contents": "${1:enabled} = ${2:QuestPOIFrame}:IsClampedToScreen()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:IsDragging\t()",
+			"contents": "${1:isDragging} = ${2:QuestPOIFrame}:IsDragging()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:IsEventRegistered\t(\"event\")",
+			"contents": "${1:registered} = ${2:QuestPOIFrame}:IsEventRegistered(\"${3:event}\")$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:IsForbidden\t()",
+			"contents": "${1:isForbidden} = ${2:QuestPOIFrame}:IsForbidden()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:IsIgnoringDepth\t()",
+			"contents": "${1:enabled} = ${2:QuestPOIFrame}:IsIgnoringDepth()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:IsIgnoringParentAlpha\t()",
+			"contents": "${1:isIgnoring} = ${2:QuestPOIFrame}:IsIgnoringParentAlpha()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:IsIgnoringParentScale\t()",
+			"contents": "${1:isIgnoring} = ${2:QuestPOIFrame}:IsIgnoringParentScale()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:IsJoystickEnabled\t()",
+			"contents": "${1:enabled} = ${2:QuestPOIFrame}:IsJoystickEnabled()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:IsKeyboardEnabled\t()",
+			"contents": "${1:enabled} = ${2:QuestPOIFrame}:IsKeyboardEnabled()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:IsMouseClickEnabled\t()",
+			"contents": "${1:enabled} = ${2:QuestPOIFrame}:IsMouseClickEnabled()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:IsMouseEnabled\t()",
+			"contents": "${1:enabled} = ${2:QuestPOIFrame}:IsMouseEnabled()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:IsMouseMotionEnabled\t()",
+			"contents": "${1:enabled} = ${2:QuestPOIFrame}:IsMouseMotionEnabled()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
+			"contents": "${1:isOver} = ${2:QuestPOIFrame}:IsMouseOver(${3:[topOffset]}, ${4:[leftOffset]}, ${5:[bottomOffset]}, ${6:[rightOffset]})$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:IsMouseWheelEnabled\t()",
+			"contents": "${1:enabled} = ${2:QuestPOIFrame}:IsMouseWheelEnabled()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:IsMovable\t()",
+			"contents": "${1:movable} = ${2:QuestPOIFrame}:IsMovable()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:IsObjectLoaded\t()",
+			"contents": "${1:loaded} = ${2:QuestPOIFrame}:IsObjectLoaded()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:IsObjectType\t(\"type\")",
+			"contents": "${1:isType} = ${2:QuestPOIFrame}:IsObjectType(\"${3:type}\")$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:IsProtected\t()",
+			"contents": "${1:isProtected}, ${2:explicit} = ${3:QuestPOIFrame}:IsProtected()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:IsResizable\t()",
+			"contents": "${1:enabled} = ${2:QuestPOIFrame}:IsResizable()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:IsShown\t()",
+			"contents": "${1:shown} = ${2:QuestPOIFrame}:IsShown()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:IsToplevel\t()",
+			"contents": "${1:enabled} = ${2:QuestPOIFrame}:IsToplevel()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:IsUserPlaced\t()",
+			"contents": "${1:enabled} = ${2:QuestPOIFrame}:IsUserPlaced()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:IsVisible\t()",
+			"contents": "${1:visible} = ${2:QuestPOIFrame}:IsVisible()$0",
+		},
+		{
+			"trigger": "_QuestPOIFrame:UpdateMouseOverTooltip\t(mouseX, mouseY)",
+			"contents": "${1:index}, ${2:numObjectives} = ${3:QuestPOIFrame}:UpdateMouseOverTooltip(${4:mouseX}, ${5:mouseY})$0",
+		},
+
+
+
+		{
+			"trigger": "_QuestPOIFrame\thelp",
+			"contents": "QuestPOIFrame = {\n\tinherits = {\n\t\t\"QuestPOIFrame\",\n\t\t\"BlobFrame\",\n\t\t\"Frame\",\n\t\t\"ScriptObject\",\n\t\t\"VisibleRegion\",\n\t\t\"Region\",\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\thandlers = {\n\t\t[\"OnAttributeChanged\"] = \"self, name, value\",\n\t\t[\"OnChar\"] = \"self, text\",\n\t\t[\"OnDisable\"] = \"self\",\n\t\t[\"OnDragStart\"] = \"self, button\",\n\t\t[\"OnDragStop\"] = \"self\",\n\t\t[\"OnEnable\"] = \"self\",\n\t\t[\"OnEnter\"] = \"self, motion\",\n\t\t[\"OnEvent\"] = \"self, event, ...\",\n\t\t[\"OnHide\"] = \"self\",\n\t\t[\"OnHyperlinkClick\"] = \"self, link, text, button, region, left, bottom, width, height\",\n\t\t[\"OnHyperlinkEnter\"] = \"self, link, text, region, left, bottom, width, height\",\n\t\t[\"OnHyperlinkLeave\"] = \"self\",\n\t\t[\"OnKeyDown\"] = \"self, key\",\n\t\t[\"OnKeyUp\"] = \"self, key\",\n\t\t[\"OnLeave\"] = \"self, motion\",\n\t\t[\"OnLoad\"] = \"self\",\n\t\t[\"OnMouseDown\"] = \"self, button\",\n\t\t[\"OnMouseUp\"] = \"self, button, upInside\",\n\t\t[\"OnMouseWheel\"] = \"self, delta\",\n\t\t[\"OnReceiveDrag\"] = \"self\",\n\t\t[\"OnShow\"] = \"self\",\n\t\t[\"OnSizeChanged\"] = \"self, width, height\",\n\t\t[\"OnUpdate\"] = \"self, elapsed\",\n\t},\n\tmethods = {\n\t\t\"CanChangeAttribute\",\n\t\t\"CanChangeProtectedState\",\n\t\t\"ClearAllPoints\",\n\t\t\"CreateAnimationGroup\",\n\t\t\"CreateFontString\",\n\t\t\"CreateLine\",\n\t\t\"CreateMaskTexture\",\n\t\t\"CreateTexture\",\n\t\t\"DisableDrawLayer\",\n\t\t\"DoesClipChildren\",\n\t\t\"DrawAll\",\n\t\t\"DrawBlob\",\n\t\t\"DrawNone\",\n\t\t\"EnableDrawLayer\",\n\t\t\"EnableJoystick\",\n\t\t\"EnableKeyboard\",\n\t\t\"EnableMerging\",\n\t\t\"EnableMouse\",\n\t\t\"EnableMouseWheel\",\n\t\t\"EnableSmoothing\",\n\t\t\"GetAlpha\",\n\t\t\"GetAnimationGroups\",\n\t\t\"GetAttribute\",\n\t\t\"GetBackdrop\",\n\t\t\"GetBackdropBorderColor\",\n\t\t\"GetBackdropColor\",\n\t\t\"GetBottom\",\n\t\t\"GetBoundsRect\",\n\t\t\"GetCenter\",\n\t\t\"GetChildren\",\n\t\t\"GetClampRectInsets\",\n\t\t\"GetDebugName\",\n\t\t\"GetDepth\",\n\t\t\"GetDontSavePosition\",\n\t\t\"GetEffectiveAlpha\",\n\t\t\"GetEffectiveDepth\",\n\t\t\"GetEffectivelyFlattensRenderLayers\",\n\t\t\"GetEffectiveScale\",\n\t\t\"GetFlattensRenderLayers\",\n\t\t\"GetFrameLevel\",\n\t\t\"GetFrameStrata\",\n\t\t\"GetHeight\",\n\t\t\"GetHitRectInsets\",\n\t\t\"GetHyperlinksEnabled\",\n\t\t\"GetID\",\n\t\t\"GetLeft\",\n\t\t\"GetMaxResize\",\n\t\t\"GetMinResize\",\n\t\t\"GetName\",\n\t\t\"GetNumChildren\",\n\t\t\"GetNumPoints\",\n\t\t\"GetNumRegions\",\n\t\t\"GetNumTooltips\",\n\t\t\"GetObjectType\",\n\t\t\"GetParent\",\n\t\t\"GetPoint\",\n\t\t\"GetPropagateKeyboardInput\",\n\t\t\"GetRect\",\n\t\t\"GetRegions\",\n\t\t\"GetRight\",\n\t\t\"GetScale\",\n\t\t\"GetScript\",\n\t\t\"GetSize\",\n\t\t\"GetTooltipIndex\",\n\t\t\"GetTop\",\n\t\t\"GetWidth\",\n\t\t\"HasScript\",\n\t\t\"Hide\",\n\t\t\"HookScript\",\n\t\t\"IgnoreDepth\",\n\t\t\"IsClampedToScreen\",\n\t\t\"IsDragging\",\n\t\t\"IsEventRegistered\",\n\t\t\"IsForbidden\",\n\t\t\"IsIgnoringDepth\",\n\t\t\"IsIgnoringParentAlpha\",\n\t\t\"IsIgnoringParentScale\",\n\t\t\"IsJoystickEnabled\",\n\t\t\"IsKeyboardEnabled\",\n\t\t\"IsMouseClickEnabled\",\n\t\t\"IsMouseEnabled\",\n\t\t\"IsMouseMotionEnabled\",\n\t\t\"IsMouseOver\",\n\t\t\"IsMouseWheelEnabled\",\n\t\t\"IsMovable\",\n\t\t\"IsObjectLoaded\",\n\t\t\"IsObjectType\",\n\t\t\"IsProtected\",\n\t\t\"IsResizable\",\n\t\t\"IsShown\",\n\t\t\"IsToplevel\",\n\t\t\"IsUserPlaced\",\n\t\t\"IsVisible\",\n\t\t\"Lower\",\n\t\t\"Raise\",\n\t\t\"RegisterAllEvents\",\n\t\t\"RegisterEvent\",\n\t\t\"RegisterForDrag\",\n\t\t\"RegisterUnitEvent\",\n\t\t\"SetAllPoints\",\n\t\t\"SetAlpha\",\n\t\t\"SetAttribute\",\n\t\t\"SetBackdrop\",\n\t\t\"SetBackdropBorderColor\",\n\t\t\"SetBackdropColor\",\n\t\t\"SetBorderAlpha\",\n\t\t\"SetBorderScalar\",\n\t\t\"SetBorderTexture\",\n\t\t\"SetClampedToScreen\",\n\t\t\"SetClampRectInsets\",\n\t\t\"SetClipsChildren\",\n\t\t\"SetDepth\",\n\t\t\"SetDontSavePosition\",\n\t\t\"SetFillAlpha\",\n\t\t\"SetFillTexture\",\n\t\t\"SetFlattensRenderLayers\",\n\t\t\"SetFrameLevel\",\n\t\t\"SetFrameStrata\",\n\t\t\"SetHeight\",\n\t\t\"SetHitRectInsets\",\n\t\t\"SetHyperlinksEnabled\",\n\t\t\"SetID\",\n\t\t\"SetIgnoreParentAlpha\",\n\t\t\"SetIgnoreParentScale\",\n\t\t\"SetMaxResize\",\n\t\t\"SetMergeThreshold\",\n\t\t\"SetMinResize\",\n\t\t\"SetMouseClickEnabled\",\n\t\t\"SetMouseMotionEnabled\",\n\t\t\"SetMovable\",\n\t\t\"SetNumSplinePoints\",\n\t\t\"SetParent\",\n\t\t\"SetPoint\",\n\t\t\"SetPropagateKeyboardInput\",\n\t\t\"SetResizable\",\n\t\t\"SetScale\",\n\t\t\"SetScript\",\n\t\t\"SetShown\",\n\t\t\"SetSize\",\n\t\t\"SetToplevel\",\n\t\t\"SetUserPlaced\",\n\t\t\"SetWidth\",\n\t\t\"Show\",\n\t\t\"StartMoving\",\n\t\t\"StartSizing\",\n\t\t\"StopAnimating\",\n\t\t\"StopMovingOrSizing\",\n\t\t\"UnregisterAllEvents\",\n\t\t\"UnregisterEvent\",\n\t\t\"UpdateMouseOverTooltip\",\n\t},\n}",
+		},
+	]
+}
