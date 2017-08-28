@@ -1,0 +1,907 @@
+{
+	"scope": "source.lua - string",
+	"completions": [
+		{
+			"trigger": "Browser:CanChangeAttribute\t()",
+			"contents": "${1:Browser}:CanChangeAttribute()$0",
+		},
+		{
+			"trigger": "Browser:CanChangeProtectedState\t()",
+			"contents": "${1:Browser}:CanChangeProtectedState()$0",
+		},
+		{
+			"trigger": "Browser:ClearAllPoints\t()",
+			"contents": "${1:Browser}:ClearAllPoints()$0",
+		},
+		{
+			"trigger": "Browser:ClearCache\t()",
+			"contents": "${1:Browser}:ClearCache()$0",
+		},
+		{
+			"trigger": "Browser:ClearFocus\t()",
+			"contents": "${1:Browser}:ClearFocus()$0",
+		},
+		{
+			"trigger": "Browser:CopyExternalLink\t()",
+			"contents": "${1:Browser}:CopyExternalLink()$0",
+		},
+		{
+			"trigger": "Browser:CreateAnimationGroup\t([\"name\"], [\"inheritsFrom\"])",
+			"contents": "${1:Browser}:CreateAnimationGroup(${2:[\"name\"]}, ${3:[\"inheritsFrom\"]})$0",
+		},
+		{
+			"trigger": "Browser:CreateFontString\t([\"name\"], [\"layer\"], [\"inherits\"])",
+			"contents": "${1:Browser}:CreateFontString(${2:[\"name\"]}, ${3:[\"layer\"]}, ${4:[\"inherits\"]})$0",
+		},
+		{
+			"trigger": "Browser:CreateLine\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:Browser}:CreateLine(${2:[\"name\"]}, \"${3:[layer]}\", ${4:[\"inherits\"]}, ${5:[sublevel]})$0",
+		},
+		{
+			"trigger": "Browser:CreateMaskTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:Browser}:CreateMaskTexture(${2:[\"name\"]}, \"${3:[layer]}\", ${4:[\"inherits\"]}, ${5:[sublevel]})$0",
+		},
+		{
+			"trigger": "Browser:CreateTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:Browser}:CreateTexture(${2:[\"name\"]}, \"${3:[layer]}\", ${4:[\"inherits\"]}, ${5:[sublevel]})$0",
+		},
+		{
+			"trigger": "Browser:DeleteCookies\t()",
+			"contents": "${1:Browser}:DeleteCookies()$0",
+		},
+		{
+			"trigger": "Browser:DisableDrawLayer\t(\"layer\")",
+			"contents": "${1:Browser}:DisableDrawLayer(\"${2:layer}\")$0",
+		},
+		{
+			"trigger": "Browser:DoesClipChildren\t()",
+			"contents": "${1:Browser}:DoesClipChildren()$0",
+		},
+		{
+			"trigger": "Browser:EnableDrawLayer\t(\"layer\")",
+			"contents": "${1:Browser}:EnableDrawLayer(\"${2:layer}\")$0",
+		},
+		{
+			"trigger": "Browser:EnableJoystick\t(enable)",
+			"contents": "${1:Browser}:EnableJoystick(${2:enable})$0",
+		},
+		{
+			"trigger": "Browser:EnableKeyboard\t(enable)",
+			"contents": "${1:Browser}:EnableKeyboard(${2:enable})$0",
+		},
+		{
+			"trigger": "Browser:EnableMouse\t(enable)",
+			"contents": "${1:Browser}:EnableMouse(${2:enable})$0",
+		},
+		{
+			"trigger": "Browser:EnableMouseWheel\t(enable)",
+			"contents": "${1:Browser}:EnableMouseWheel(${2:enable})$0",
+		},
+		{
+			"trigger": "Browser:GetAlpha\t()",
+			"contents": "${1:Browser}:GetAlpha()$0",
+		},
+		{
+			"trigger": "Browser:GetAnimationGroups\t()",
+			"contents": "${1:Browser}:GetAnimationGroups()$0",
+		},
+		{
+			"trigger": "Browser:GetAttribute\t(\"name\")",
+			"contents": "${1:Browser}:GetAttribute(${2:\"name\"})$0",
+		},
+		{
+			"trigger": "Browser:GetBackdrop\t()",
+			"contents": "${1:Browser}:GetBackdrop()$0",
+		},
+		{
+			"trigger": "Browser:GetBackdropBorderColor\t()",
+			"contents": "${1:Browser}:GetBackdropBorderColor()$0",
+		},
+		{
+			"trigger": "Browser:GetBackdropColor\t()",
+			"contents": "${1:Browser}:GetBackdropColor()$0",
+		},
+		{
+			"trigger": "Browser:GetBottom\t()",
+			"contents": "${1:Browser}:GetBottom()$0",
+		},
+		{
+			"trigger": "Browser:GetBoundsRect\t()",
+			"contents": "${1:Browser}:GetBoundsRect()$0",
+		},
+		{
+			"trigger": "Browser:GetCenter\t()",
+			"contents": "${1:Browser}:GetCenter()$0",
+		},
+		{
+			"trigger": "Browser:GetChildren\t()",
+			"contents": "${1:Browser}:GetChildren()$0",
+		},
+		{
+			"trigger": "Browser:GetClampRectInsets\t()",
+			"contents": "${1:Browser}:GetClampRectInsets()$0",
+		},
+		{
+			"trigger": "Browser:GetDebugName\t()",
+			"contents": "${1:Browser}:GetDebugName()$0",
+		},
+		{
+			"trigger": "Browser:GetDepth\t()",
+			"contents": "${1:Browser}:GetDepth()$0",
+		},
+		{
+			"trigger": "Browser:GetDontSavePosition\t()",
+			"contents": "${1:Browser}:GetDontSavePosition()$0",
+		},
+		{
+			"trigger": "Browser:GetEffectiveAlpha\t()",
+			"contents": "${1:Browser}:GetEffectiveAlpha()$0",
+		},
+		{
+			"trigger": "Browser:GetEffectiveDepth\t()",
+			"contents": "${1:Browser}:GetEffectiveDepth()$0",
+		},
+		{
+			"trigger": "Browser:GetEffectivelyFlattensRenderLayers\t()",
+			"contents": "${1:Browser}:GetEffectivelyFlattensRenderLayers()$0",
+		},
+		{
+			"trigger": "Browser:GetEffectiveScale\t()",
+			"contents": "${1:Browser}:GetEffectiveScale()$0",
+		},
+		{
+			"trigger": "Browser:GetFlattensRenderLayers\t()",
+			"contents": "${1:Browser}:GetFlattensRenderLayers()$0",
+		},
+		{
+			"trigger": "Browser:GetFrameLevel\t()",
+			"contents": "${1:Browser}:GetFrameLevel()$0",
+		},
+		{
+			"trigger": "Browser:GetFrameStrata\t()",
+			"contents": "${1:Browser}:GetFrameStrata()$0",
+		},
+		{
+			"trigger": "Browser:GetHeight\t()",
+			"contents": "${1:Browser}:GetHeight()$0",
+		},
+		{
+			"trigger": "Browser:GetHitRectInsets\t()",
+			"contents": "${1:Browser}:GetHitRectInsets()$0",
+		},
+		{
+			"trigger": "Browser:GetHyperlinksEnabled\t()",
+			"contents": "${1:Browser}:GetHyperlinksEnabled()$0",
+		},
+		{
+			"trigger": "Browser:GetID\t()",
+			"contents": "${1:Browser}:GetID()$0",
+		},
+		{
+			"trigger": "Browser:GetLeft\t()",
+			"contents": "${1:Browser}:GetLeft()$0",
+		},
+		{
+			"trigger": "Browser:GetMaxResize\t()",
+			"contents": "${1:Browser}:GetMaxResize()$0",
+		},
+		{
+			"trigger": "Browser:GetMinResize\t()",
+			"contents": "${1:Browser}:GetMinResize()$0",
+		},
+		{
+			"trigger": "Browser:GetName\t()",
+			"contents": "${1:Browser}:GetName()$0",
+		},
+		{
+			"trigger": "Browser:GetNumChildren\t()",
+			"contents": "${1:Browser}:GetNumChildren()$0",
+		},
+		{
+			"trigger": "Browser:GetNumPoints\t()",
+			"contents": "${1:Browser}:GetNumPoints()$0",
+		},
+		{
+			"trigger": "Browser:GetNumRegions\t()",
+			"contents": "${1:Browser}:GetNumRegions()$0",
+		},
+		{
+			"trigger": "Browser:GetObjectType\t()",
+			"contents": "${1:Browser}:GetObjectType()$0",
+		},
+		{
+			"trigger": "Browser:GetParent\t()",
+			"contents": "${1:Browser}:GetParent()$0",
+		},
+		{
+			"trigger": "Browser:GetPoint\t(index)",
+			"contents": "${1:Browser}:GetPoint(${2:index})$0",
+		},
+		{
+			"trigger": "Browser:GetPropagateKeyboardInput\t()",
+			"contents": "${1:Browser}:GetPropagateKeyboardInput()$0",
+		},
+		{
+			"trigger": "Browser:GetRect\t()",
+			"contents": "${1:Browser}:GetRect()$0",
+		},
+		{
+			"trigger": "Browser:GetRegions\t()",
+			"contents": "${1:Browser}:GetRegions()$0",
+		},
+		{
+			"trigger": "Browser:GetRight\t()",
+			"contents": "${1:Browser}:GetRight()$0",
+		},
+		{
+			"trigger": "Browser:GetScale\t()",
+			"contents": "${1:Browser}:GetScale()$0",
+		},
+		{
+			"trigger": "Browser:GetScript\t(\"scriptType\")",
+			"contents": "${1:Browser}:GetScript(\"${2:scriptType}\")$0",
+		},
+		{
+			"trigger": "Browser:GetSize\t()",
+			"contents": "${1:Browser}:GetSize()$0",
+		},
+		{
+			"trigger": "Browser:GetTop\t()",
+			"contents": "${1:Browser}:GetTop()$0",
+		},
+		{
+			"trigger": "Browser:GetWidth\t()",
+			"contents": "${1:Browser}:GetWidth()$0",
+		},
+		{
+			"trigger": "Browser:HasConnection\t()",
+			"contents": "${1:Browser}:HasConnection()$0",
+		},
+		{
+			"trigger": "Browser:HasScript\t(\"scriptType\")",
+			"contents": "${1:Browser}:HasScript(\"${2:scriptType}\")$0",
+		},
+		{
+			"trigger": "Browser:Hide\t()",
+			"contents": "${1:Browser}:Hide()$0",
+		},
+		{
+			"trigger": "Browser:HookScript\t(\"scriptType\", handler)",
+			"contents": "${1:Browser}:HookScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "Browser:IgnoreDepth\t(enable)",
+			"contents": "${1:Browser}:IgnoreDepth(${2:enable})$0",
+		},
+		{
+			"trigger": "Browser:IsClampedToScreen\t()",
+			"contents": "${1:Browser}:IsClampedToScreen()$0",
+		},
+		{
+			"trigger": "Browser:IsDragging\t()",
+			"contents": "${1:Browser}:IsDragging()$0",
+		},
+		{
+			"trigger": "Browser:IsEventRegistered\t(\"event\")",
+			"contents": "${1:Browser}:IsEventRegistered(\"${2:event}\")$0",
+		},
+		{
+			"trigger": "Browser:IsForbidden\t()",
+			"contents": "${1:Browser}:IsForbidden()$0",
+		},
+		{
+			"trigger": "Browser:IsIgnoringDepth\t()",
+			"contents": "${1:Browser}:IsIgnoringDepth()$0",
+		},
+		{
+			"trigger": "Browser:IsIgnoringParentAlpha\t()",
+			"contents": "${1:Browser}:IsIgnoringParentAlpha()$0",
+		},
+		{
+			"trigger": "Browser:IsIgnoringParentScale\t()",
+			"contents": "${1:Browser}:IsIgnoringParentScale()$0",
+		},
+		{
+			"trigger": "Browser:IsJoystickEnabled\t()",
+			"contents": "${1:Browser}:IsJoystickEnabled()$0",
+		},
+		{
+			"trigger": "Browser:IsKeyboardEnabled\t()",
+			"contents": "${1:Browser}:IsKeyboardEnabled()$0",
+		},
+		{
+			"trigger": "Browser:IsMouseClickEnabled\t()",
+			"contents": "${1:Browser}:IsMouseClickEnabled()$0",
+		},
+		{
+			"trigger": "Browser:IsMouseEnabled\t()",
+			"contents": "${1:Browser}:IsMouseEnabled()$0",
+		},
+		{
+			"trigger": "Browser:IsMouseMotionEnabled\t()",
+			"contents": "${1:Browser}:IsMouseMotionEnabled()$0",
+		},
+		{
+			"trigger": "Browser:IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
+			"contents": "${1:Browser}:IsMouseOver(${2:[topOffset]}, ${3:[leftOffset]}, ${4:[bottomOffset]}, ${5:[rightOffset]})$0",
+		},
+		{
+			"trigger": "Browser:IsMouseWheelEnabled\t()",
+			"contents": "${1:Browser}:IsMouseWheelEnabled()$0",
+		},
+		{
+			"trigger": "Browser:IsMovable\t()",
+			"contents": "${1:Browser}:IsMovable()$0",
+		},
+		{
+			"trigger": "Browser:IsObjectLoaded\t()",
+			"contents": "${1:Browser}:IsObjectLoaded()$0",
+		},
+		{
+			"trigger": "Browser:IsObjectType\t()",
+			"contents": "${1:Browser}:IsObjectType()$0",
+		},
+		{
+			"trigger": "Browser:IsProtected\t()",
+			"contents": "${1:Browser}:IsProtected()$0",
+		},
+		{
+			"trigger": "Browser:IsResizable\t()",
+			"contents": "${1:Browser}:IsResizable()$0",
+		},
+		{
+			"trigger": "Browser:IsShown\t()",
+			"contents": "${1:Browser}:IsShown()$0",
+		},
+		{
+			"trigger": "Browser:IsToplevel\t()",
+			"contents": "${1:Browser}:IsToplevel()$0",
+		},
+		{
+			"trigger": "Browser:IsUserPlaced\t()",
+			"contents": "${1:Browser}:IsUserPlaced()$0",
+		},
+		{
+			"trigger": "Browser:IsVisible\t()",
+			"contents": "${1:Browser}:IsVisible()$0",
+		},
+		{
+			"trigger": "Browser:Lower\t()",
+			"contents": "${1:Browser}:Lower()$0",
+		},
+		{
+			"trigger": "Browser:NavigateBack\t()",
+			"contents": "${1:Browser}:NavigateBack()$0",
+		},
+		{
+			"trigger": "Browser:NavigateForward\t()",
+			"contents": "${1:Browser}:NavigateForward()$0",
+		},
+		{
+			"trigger": "Browser:NavigateHome\t(\"page\")",
+			"contents": "${1:Browser}:NavigateHome(\"${2:page}\")$0",
+		},
+		{
+			"trigger": "Browser:NavigateReload\t()",
+			"contents": "${1:Browser}:NavigateReload()$0",
+		},
+		{
+			"trigger": "Browser:NavigateStop\t()",
+			"contents": "${1:Browser}:NavigateStop()$0",
+		},
+		{
+			"trigger": "Browser:OpenExternalLink\t()",
+			"contents": "${1:Browser}:OpenExternalLink()$0",
+		},
+		{
+			"trigger": "Browser:OpenTicket\t()",
+			"contents": "${1:Browser}:OpenTicket()$0",
+		},
+		{
+			"trigger": "Browser:Raise\t()",
+			"contents": "${1:Browser}:Raise()$0",
+		},
+		{
+			"trigger": "Browser:RegisterAllEvents\t()",
+			"contents": "${1:Browser}:RegisterAllEvents()$0",
+		},
+		{
+			"trigger": "Browser:RegisterEvent\t(\"event\")",
+			"contents": "${1:Browser}:RegisterEvent(\"${2:event}\")$0",
+		},
+		{
+			"trigger": "Browser:RegisterForDrag\t(...)",
+			"contents": "${1:Browser}:RegisterForDrag(${2:...})$0",
+		},
+		{
+			"trigger": "Browser:RegisterUnitEvent\t(\"event\", \"unit1\", \"unit2\")",
+			"contents": "${1:Browser}:RegisterUnitEvent(\"${2:event}\", \"${3:unit1}\", \"${4:unit2}\")$0",
+		},
+		{
+			"trigger": "Browser:SetAllPoints\t([frame])",
+			"contents": "${1:Browser}:SetAllPoints(${2:[frame]})$0",
+		},
+		{
+			"trigger": "Browser:SetAlpha\t(alpha)",
+			"contents": "${1:Browser}:SetAlpha(${2:alpha})$0",
+		},
+		{
+			"trigger": "Browser:SetAttribute\t(\"name\", value)",
+			"contents": "${1:Browser}:SetAttribute(${2:\"name\"}, ${3:value})$0",
+		},
+		{
+			"trigger": "Browser:SetBackdrop\t(backdrop)",
+			"contents": "${1:Browser}:SetBackdrop(${2:backdrop})$0",
+		},
+		{
+			"trigger": "Browser:SetBackdropBorderColor\t(red, green, blue, [alpha])",
+			"contents": "${1:Browser}:SetBackdropBorderColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+		},
+		{
+			"trigger": "Browser:SetBackdropColor\t(red, green, blue, [alpha])",
+			"contents": "${1:Browser}:SetBackdropColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+		},
+		{
+			"trigger": "Browser:SetClampedToScreen\t(enable)",
+			"contents": "${1:Browser}:SetClampedToScreen(${2:enable})$0",
+		},
+		{
+			"trigger": "Browser:SetClampRectInsets\t(left, right, top, bottom)",
+			"contents": "${1:Browser}:SetClampRectInsets(${2:left}, ${3:right}, ${4:top}, ${5:bottom})$0",
+		},
+		{
+			"trigger": "Browser:SetClipsChildren\t(enable)",
+			"contents": "${1:Browser}:SetClipsChildren(${2:enable})$0",
+		},
+		{
+			"trigger": "Browser:SetDepth\t(depth)",
+			"contents": "${1:Browser}:SetDepth(${2:depth})$0",
+		},
+		{
+			"trigger": "Browser:SetDontSavePosition\t(enable)",
+			"contents": "${1:Browser}:SetDontSavePosition(${2:enable})$0",
+		},
+		{
+			"trigger": "Browser:SetFlattensRenderLayers\t(enable)",
+			"contents": "${1:Browser}:SetFlattensRenderLayers(${2:enable})$0",
+		},
+		{
+			"trigger": "Browser:SetFocus\t()",
+			"contents": "${1:Browser}:SetFocus()$0",
+		},
+		{
+			"trigger": "Browser:SetFrameLevel\t(level)",
+			"contents": "${1:Browser}:SetFrameLevel(${2:level})$0",
+		},
+		{
+			"trigger": "Browser:SetFrameStrata\t(\"strata\")",
+			"contents": "${1:Browser}:SetFrameStrata(\"${2:strata}\")$0",
+		},
+		{
+			"trigger": "Browser:SetHeight\t(height)",
+			"contents": "${1:Browser}:SetHeight(${2:height})$0",
+		},
+		{
+			"trigger": "Browser:SetHitRectInsets\t(left, right, top, bottom)",
+			"contents": "${1:Browser}:SetHitRectInsets(${2:left}, ${3:right}, ${4:top}, ${5:bottom})$0",
+		},
+		{
+			"trigger": "Browser:SetHyperlinksEnabled\t(enable)",
+			"contents": "${1:Browser}:SetHyperlinksEnabled(${2:enable})$0",
+		},
+		{
+			"trigger": "Browser:SetID\t(id)",
+			"contents": "${1:Browser}:SetID(${2:id})$0",
+		},
+		{
+			"trigger": "Browser:SetIgnoreParentAlpha\t(enable)",
+			"contents": "${1:Browser}:SetIgnoreParentAlpha(${2:enable})$0",
+		},
+		{
+			"trigger": "Browser:SetIgnoreParentScale\t(enable)",
+			"contents": "${1:Browser}:SetIgnoreParentScale(${2:enable})$0",
+		},
+		{
+			"trigger": "Browser:SetMaxResize\t(maxWidth, maxHeight)",
+			"contents": "${1:Browser}:SetMaxResize(${2:maxWidth}, ${3:maxHeight})$0",
+		},
+		{
+			"trigger": "Browser:SetMinResize\t(minWidth, minHeight)",
+			"contents": "${1:Browser}:SetMinResize(${2:minWidth}, ${3:minHeight})$0",
+		},
+		{
+			"trigger": "Browser:SetMouseClickEnabled\t(enable)",
+			"contents": "${1:Browser}:SetMouseClickEnabled(${2:enable})$0",
+		},
+		{
+			"trigger": "Browser:SetMouseMotionEnabled\t(enable)",
+			"contents": "${1:Browser}:SetMouseMotionEnabled(${2:enable})$0",
+		},
+		{
+			"trigger": "Browser:SetMovable\t(enable)",
+			"contents": "${1:Browser}:SetMovable(${2:enable})$0",
+		},
+		{
+			"trigger": "Browser:SetParent\t(frame)",
+			"contents": "${1:Browser}:SetParent(${2:Browser})$0",
+		},
+		{
+			"trigger": "Browser:SetPoint\t(\"point\", [relativeTo], [\"relativePoint\"], [xOffset], [yOffset])",
+			"contents": "${1:Browser}:SetPoint(\"${2:point}\", ${3:[relativeTo]}, \"${4:[relativePoint]}\", ${5:[xOffset]}, ${6:[yOffset]})$0",
+		},
+		{
+			"trigger": "Browser:SetPropagateKeyboardInput\t(enable)",
+			"contents": "${1:Browser}:SetPropagateKeyboardInput(${2:enable})$0",
+		},
+		{
+			"trigger": "Browser:SetResizable\t(enable)",
+			"contents": "${1:Browser}:SetResizable(${2:enable})$0",
+		},
+		{
+			"trigger": "Browser:SetScale\t(scale)",
+			"contents": "${1:Browser}:SetScale(${2:scale})$0",
+		},
+		{
+			"trigger": "Browser:SetScript\t(\"scriptType\", handler)",
+			"contents": "${1:Browser}:SetScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "Browser:SetShown\t(enable)",
+			"contents": "${1:Browser}:SetShown(${2:enable})$0",
+		},
+		{
+			"trigger": "Browser:SetSize\t(width, height)",
+			"contents": "${1:Browser}:SetSize(${2:width}, ${3:height})$0",
+		},
+		{
+			"trigger": "Browser:SetToplevel\t(enable)",
+			"contents": "${1:Browser}:SetToplevel(${2:enable})$0",
+		},
+		{
+			"trigger": "Browser:SetUserPlaced\t(enable)",
+			"contents": "${1:Browser}:SetUserPlaced(${2:enable})$0",
+		},
+		{
+			"trigger": "Browser:SetWidth\t(width)",
+			"contents": "${1:Browser}:SetWidth(${2:width})$0",
+		},
+		{
+			"trigger": "Browser:SetZoom\t(value)",
+			"contents": "${1:Browser}:SetZoom(${2:value})$0",
+		},
+		{
+			"trigger": "Browser:Show\t()",
+			"contents": "${1:Browser}:Show()$0",
+		},
+		{
+			"trigger": "Browser:StartMoving\t()",
+			"contents": "${1:Browser}:StartMoving()$0",
+		},
+		{
+			"trigger": "Browser:StartSizing\t()",
+			"contents": "${1:Browser}:StartSizing()$0",
+		},
+		{
+			"trigger": "Browser:StopAnimating\t()",
+			"contents": "${1:Browser}:StopAnimating()$0",
+		},
+		{
+			"trigger": "Browser:StopMovingOrSizing\t()",
+			"contents": "${1:Browser}:StopMovingOrSizing()$0",
+		},
+		{
+			"trigger": "Browser:UnregisterAllEvents\t()",
+			"contents": "${1:Browser}:UnregisterAllEvents()$0",
+		},
+		{
+			"trigger": "Browser:UnregisterEvent\t(\"event\")",
+			"contents": "${1:Browser}:UnregisterEvent(\"${2:event}\")$0",
+		},
+
+
+
+		{
+			"trigger": "_Browser:CanChangeAttribute\t()",
+			"contents": "${1:enabled} = ${2:Browser}:CanChangeAttribute()$0",
+		},
+		{
+			"trigger": "_Browser:CanChangeProtectedState\t()",
+			"contents": "${1:canChange} = ${2:Browser}:CanChangeProtectedState()$0",
+		},
+		{
+			"trigger": "_Browser:CreateFontString\t([\"name\"], [\"layer\"], [\"inherits\"])",
+			"contents": "${1:fontstring} = ${2:Browser}:CreateFontString(${3:[\"name\"]}, ${4:[\"layer\"]}, ${5:[\"inherits\"]})$0",
+		},
+		{
+			"trigger": "_Browser:CreateLine\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:texture} = ${2:Browser}:CreateLine(${3:[\"name\"]}, \"${4:[layer]}\", ${5:[\"inherits\"]}, ${6:[sublevel]})$0",
+		},
+		{
+			"trigger": "_Browser:CreateMaskTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:texture} = ${2:Browser}:CreateMaskTexture(${3:[\"name\"]}, \"${4:[layer]}\", ${5:[\"inherits\"]}, ${6:[sublevel]})$0",
+		},
+		{
+			"trigger": "_Browser:CreateTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:texture} = ${2:Browser}:CreateTexture(${3:[\"name\"]}, \"${4:[layer]}\", ${5:[\"inherits\"]}, ${6:[sublevel]})$0",
+		},
+		{
+			"trigger": "_Browser:DoesClipChildren\t()",
+			"contents": "${1:doesClip} = ${2:Browser}:DoesClipChildren()$0",
+		},
+		{
+			"trigger": "_Browser:GetAlpha\t()",
+			"contents": "${1:alpha} = ${2:Browser}:GetAlpha()$0",
+		},
+		{
+			"trigger": "_Browser:GetAnimationGroups\t()",
+			"contents": "${1:...} = ${2:Browser}:GetAnimationGroups()$0",
+		},
+		{
+			"trigger": "_Browser:GetAttribute\t(\"name\")",
+			"contents": "${1:value} = ${2:Browser}:GetAttribute(${3:\"name\"})$0",
+		},
+		{
+			"trigger": "_Browser:GetBackdrop\t()",
+			"contents": "${1:backdrop} = ${2:Browser}:GetBackdrop()$0",
+		},
+		{
+			"trigger": "_Browser:GetBackdropBorderColor\t()",
+			"contents": "${1:red}, ${2:green}, ${3:blue}, ${4:alpha} = ${5:Browser}:GetBackdropBorderColor()$0",
+		},
+		{
+			"trigger": "_Browser:GetBackdropColor\t()",
+			"contents": "${1:red}, ${2:green}, ${3:blue}, ${4:alpha} = ${5:Browser}:GetBackdropColor()$0",
+		},
+		{
+			"trigger": "_Browser:GetBottom\t()",
+			"contents": "${1:bottom} = ${2:Browser}:GetBottom()$0",
+		},
+		{
+			"trigger": "_Browser:GetBoundsRect\t()",
+			"contents": "${1:left}, ${2:bottom}, ${3:width}, ${4:height} = ${5:Browser}:GetBoundsRect()$0",
+		},
+		{
+			"trigger": "_Browser:GetCenter\t()",
+			"contents": "${1:x}, ${2:y} = ${3:Browser}:GetCenter()$0",
+		},
+		{
+			"trigger": "_Browser:GetChildren\t()",
+			"contents": "${1:...} = ${2:Browser}:GetChildren()$0",
+		},
+		{
+			"trigger": "_Browser:GetClampRectInsets\t()",
+			"contents": "${1:left}, ${2:right}, ${3:top}, ${4:bottom} = ${5:Browser}:GetClampRectInsets()$0",
+		},
+		{
+			"trigger": "_Browser:GetDebugName\t()",
+			"contents": "${1:name} = ${2:Browser}:GetDebugName()$0",
+		},
+		{
+			"trigger": "_Browser:GetDepth\t()",
+			"contents": "${1:depth} = ${2:Browser}:GetDepth()$0",
+		},
+		{
+			"trigger": "_Browser:GetDontSavePosition\t()",
+			"contents": "${1:saved} = ${2:Browser}:GetDontSavePosition()$0",
+		},
+		{
+			"trigger": "_Browser:GetEffectiveAlpha\t()",
+			"contents": "${1:alpha} = ${2:Browser}:GetEffectiveAlpha()$0",
+		},
+		{
+			"trigger": "_Browser:GetEffectiveDepth\t()",
+			"contents": "${1:depth} = ${2:Browser}:GetEffectiveDepth()$0",
+		},
+		{
+			"trigger": "_Browser:GetEffectivelyFlattensRenderLayers\t()",
+			"contents": "${1:doesFlattens} = ${2:Browser}:GetEffectivelyFlattensRenderLayers()$0",
+		},
+		{
+			"trigger": "_Browser:GetEffectiveScale\t()",
+			"contents": "${1:scale} = ${2:Browser}:GetEffectiveScale()$0",
+		},
+		{
+			"trigger": "_Browser:GetFlattensRenderLayers\t()",
+			"contents": "${1:doesFlattens} = ${2:Browser}:GetFlattensRenderLayers()$0",
+		},
+		{
+			"trigger": "_Browser:GetFrameLevel\t()",
+			"contents": "${1:level} = ${2:Browser}:GetFrameLevel()$0",
+		},
+		{
+			"trigger": "_Browser:GetFrameStrata\t()",
+			"contents": "${1:strata} = ${2:Browser}:GetFrameStrata()$0",
+		},
+		{
+			"trigger": "_Browser:GetHeight\t()",
+			"contents": "${1:height} = ${2:Browser}:GetHeight()$0",
+		},
+		{
+			"trigger": "_Browser:GetHitRectInsets\t()",
+			"contents": "${1:left}, ${2:right}, ${3:top}, ${4:bottom} = ${5:Browser}:GetHitRectInsets()$0",
+		},
+		{
+			"trigger": "_Browser:GetHyperlinksEnabled\t()",
+			"contents": "${1:enabled} = ${2:Browser}:GetHyperlinksEnabled()$0",
+		},
+		{
+			"trigger": "_Browser:GetID\t()",
+			"contents": "${1:id} = ${2:Browser}:GetID()$0",
+		},
+		{
+			"trigger": "_Browser:GetLeft\t()",
+			"contents": "${1:left} = ${2:Browser}:GetLeft()$0",
+		},
+		{
+			"trigger": "_Browser:GetMaxResize\t()",
+			"contents": "${1:maxWidth}, ${2:maxHeight} = ${3:Browser}:GetMaxResize()$0",
+		},
+		{
+			"trigger": "_Browser:GetMinResize\t()",
+			"contents": "${1:minWidth}, ${2:minHeight} = ${3:Browser}:GetMinResize()$0",
+		},
+		{
+			"trigger": "_Browser:GetName\t()",
+			"contents": "${1:name} = ${2:Browser}:GetName()$0",
+		},
+		{
+			"trigger": "_Browser:GetNumChildren\t()",
+			"contents": "${1:numChildren} = ${2:Browser}:GetNumChildren()$0",
+		},
+		{
+			"trigger": "_Browser:GetNumPoints\t()",
+			"contents": "${1:numPoints} = ${2:Browser}:GetNumPoints()$0",
+		},
+		{
+			"trigger": "_Browser:GetNumRegions\t()",
+			"contents": "${1:numRegions} = ${2:Browser}:GetNumRegions()$0",
+		},
+		{
+			"trigger": "_Browser:GetObjectType\t()",
+			"contents": "${1:type} = ${2:Browser}:GetObjectType()$0",
+		},
+		{
+			"trigger": "_Browser:GetPoint\t(index)",
+			"contents": "${1:point}, ${2:relativeTo}, ${3:relativePoint}, ${4:xOffset}, ${5:yOffset} = ${6:Browser}:GetPoint(${7:index})$0",
+		},
+		{
+			"trigger": "_Browser:GetPropagateKeyboardInput\t()",
+			"contents": "${1:propagate} = ${2:Browser}:GetPropagateKeyboardInput()$0",
+		},
+		{
+			"trigger": "_Browser:GetRect\t()",
+			"contents": "${1:left}, ${2:bottom}, ${3:width}, ${4:height} = ${5:Browser}:GetRect()$0",
+		},
+		{
+			"trigger": "_Browser:GetRegions\t()",
+			"contents": "${1:...} = ${2:Browser}:GetRegions()$0",
+		},
+		{
+			"trigger": "_Browser:GetRight\t()",
+			"contents": "${1:right} = ${2:Browser}:GetRight()$0",
+		},
+		{
+			"trigger": "_Browser:GetScale\t()",
+			"contents": "${1:scale} = ${2:Browser}:GetScale()$0",
+		},
+		{
+			"trigger": "_Browser:GetScript\t(\"scriptType\")",
+			"contents": "${1:handler} = ${2:Browser}:GetScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "_Browser:GetSize\t()",
+			"contents": "${1:width}, ${2:height} = ${3:Browser}:GetSize()$0",
+		},
+		{
+			"trigger": "_Browser:GetTop\t()",
+			"contents": "${1:top} = ${2:Browser}:GetTop()$0",
+		},
+		{
+			"trigger": "_Browser:GetWidth\t()",
+			"contents": "${1:width} = ${2:Browser}:GetWidth()$0",
+		},
+		{
+			"trigger": "_Browser:HasScript\t(\"scriptType\")",
+			"contents": "${1:hasScript} = ${2:Browser}:HasScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "_Browser:IsClampedToScreen\t()",
+			"contents": "${1:enabled} = ${2:Browser}:IsClampedToScreen()$0",
+		},
+		{
+			"trigger": "_Browser:IsDragging\t()",
+			"contents": "${1:isDragging} = ${2:Browser}:IsDragging()$0",
+		},
+		{
+			"trigger": "_Browser:IsEventRegistered\t(\"event\")",
+			"contents": "${1:registered} = ${2:Browser}:IsEventRegistered(\"${3:event}\")$0",
+		},
+		{
+			"trigger": "_Browser:IsForbidden\t()",
+			"contents": "${1:isForbidden} = ${2:Browser}:IsForbidden()$0",
+		},
+		{
+			"trigger": "_Browser:IsIgnoringDepth\t()",
+			"contents": "${1:enabled} = ${2:Browser}:IsIgnoringDepth()$0",
+		},
+		{
+			"trigger": "_Browser:IsIgnoringParentAlpha\t()",
+			"contents": "${1:isIgnoring} = ${2:Browser}:IsIgnoringParentAlpha()$0",
+		},
+		{
+			"trigger": "_Browser:IsIgnoringParentScale\t()",
+			"contents": "${1:isIgnoring} = ${2:Browser}:IsIgnoringParentScale()$0",
+		},
+		{
+			"trigger": "_Browser:IsJoystickEnabled\t()",
+			"contents": "${1:enabled} = ${2:Browser}:IsJoystickEnabled()$0",
+		},
+		{
+			"trigger": "_Browser:IsKeyboardEnabled\t()",
+			"contents": "${1:enabled} = ${2:Browser}:IsKeyboardEnabled()$0",
+		},
+		{
+			"trigger": "_Browser:IsMouseClickEnabled\t()",
+			"contents": "${1:enabled} = ${2:Browser}:IsMouseClickEnabled()$0",
+		},
+		{
+			"trigger": "_Browser:IsMouseEnabled\t()",
+			"contents": "${1:enabled} = ${2:Browser}:IsMouseEnabled()$0",
+		},
+		{
+			"trigger": "_Browser:IsMouseMotionEnabled\t()",
+			"contents": "${1:enabled} = ${2:Browser}:IsMouseMotionEnabled()$0",
+		},
+		{
+			"trigger": "_Browser:IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
+			"contents": "${1:isOver} = ${2:Browser}:IsMouseOver(${3:[topOffset]}, ${4:[leftOffset]}, ${5:[bottomOffset]}, ${6:[rightOffset]})$0",
+		},
+		{
+			"trigger": "_Browser:IsMouseWheelEnabled\t()",
+			"contents": "${1:enabled} = ${2:Browser}:IsMouseWheelEnabled()$0",
+		},
+		{
+			"trigger": "_Browser:IsMovable\t()",
+			"contents": "${1:movable} = ${2:Browser}:IsMovable()$0",
+		},
+		{
+			"trigger": "_Browser:IsObjectLoaded\t()",
+			"contents": "${1:loaded} = ${2:Browser}:IsObjectLoaded()$0",
+		},
+		{
+			"trigger": "_Browser:IsObjectType\t(\"type\")",
+			"contents": "${1:isType} = ${2:Browser}:IsObjectType(\"${3:type}\")$0",
+		},
+		{
+			"trigger": "_Browser:IsProtected\t()",
+			"contents": "${1:isProtected}, ${2:explicit} = ${3:Browser}:IsProtected()$0",
+		},
+		{
+			"trigger": "_Browser:IsResizable\t()",
+			"contents": "${1:enabled} = ${2:Browser}:IsResizable()$0",
+		},
+		{
+			"trigger": "_Browser:IsShown\t()",
+			"contents": "${1:shown} = ${2:Browser}:IsShown()$0",
+		},
+		{
+			"trigger": "_Browser:IsToplevel\t()",
+			"contents": "${1:enabled} = ${2:Browser}:IsToplevel()$0",
+		},
+		{
+			"trigger": "_Browser:IsUserPlaced\t()",
+			"contents": "${1:enabled} = ${2:Browser}:IsUserPlaced()$0",
+		},
+		{
+			"trigger": "_Browser:IsVisible\t()",
+			"contents": "${1:visible} = ${2:Browser}:IsVisible()$0",
+		},
+
+
+
+		{
+			"trigger": "_Browser\thelp",
+			"contents": "Browser = {\n\tinherits = {\n\t\t\"Browser\",\n\t\t\"Frame\",\n\t\t\"ScriptObject\",\n\t\t\"VisibleRegion\",\n\t\t\"Region\",\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\thandlers = {\n\t\t[\"OnAttributeChanged\"] = \"self, name, value\",\n\t\t[\"OnButtonUpdate\"] = \"self, action\",\n\t\t[\"OnChar\"] = \"self, text\",\n\t\t[\"OnDisable\"] = \"self\",\n\t\t[\"OnDragStart\"] = \"self, button\",\n\t\t[\"OnDragStop\"] = \"self\",\n\t\t[\"OnEditFocusGained\"] = \"self\",\n\t\t[\"OnEditFocusLost\"] = \"self\",\n\t\t[\"OnEnable\"] = \"self\",\n\t\t[\"OnEnter\"] = \"self, motion\",\n\t\t[\"OnError\"] = \"self, msg\",\n\t\t[\"OnEscapePressed\"] = \"self\",\n\t\t[\"OnEvent\"] = \"self, event, ...\",\n\t\t[\"OnExternalLink\"] = \"self, url\",\n\t\t[\"OnHide\"] = \"self\",\n\t\t[\"OnHyperlinkClick\"] = \"self, link, text, button, region, left, bottom, width, height\",\n\t\t[\"OnHyperlinkEnter\"] = \"self, link, text, region, left, bottom, width, height\",\n\t\t[\"OnHyperlinkLeave\"] = \"self\",\n\t\t[\"OnKeyDown\"] = \"self, key\",\n\t\t[\"OnKeyUp\"] = \"self, key\",\n\t\t[\"OnLeave\"] = \"self, motion\",\n\t\t[\"OnLoad\"] = \"self\",\n\t\t[\"OnMouseDown\"] = \"self, button\",\n\t\t[\"OnMouseUp\"] = \"self, button, upInside\",\n\t\t[\"OnMouseWheel\"] = \"self, delta\",\n\t\t[\"OnReceiveDrag\"] = \"self\",\n\t\t[\"OnShow\"] = \"self\",\n\t\t[\"OnSizeChanged\"] = \"self, width, height\",\n\t\t[\"OnUpdate\"] = \"self, elapsed\",\n\t},\n\tmethods = {\n\t\t\"CanChangeAttribute\",\n\t\t\"CanChangeProtectedState\",\n\t\t\"ClearAllPoints\",\n\t\t\"ClearCache\",\n\t\t\"ClearFocus\",\n\t\t\"CopyExternalLink\",\n\t\t\"CreateAnimationGroup\",\n\t\t\"CreateFontString\",\n\t\t\"CreateLine\",\n\t\t\"CreateMaskTexture\",\n\t\t\"CreateTexture\",\n\t\t\"DeleteCookies\",\n\t\t\"DisableDrawLayer\",\n\t\t\"DoesClipChildren\",\n\t\t\"EnableDrawLayer\",\n\t\t\"EnableJoystick\",\n\t\t\"EnableKeyboard\",\n\t\t\"EnableMouse\",\n\t\t\"EnableMouseWheel\",\n\t\t\"GetAlpha\",\n\t\t\"GetAnimationGroups\",\n\t\t\"GetAttribute\",\n\t\t\"GetBackdrop\",\n\t\t\"GetBackdropBorderColor\",\n\t\t\"GetBackdropColor\",\n\t\t\"GetBottom\",\n\t\t\"GetBoundsRect\",\n\t\t\"GetCenter\",\n\t\t\"GetChildren\",\n\t\t\"GetClampRectInsets\",\n\t\t\"GetDebugName\",\n\t\t\"GetDepth\",\n\t\t\"GetDontSavePosition\",\n\t\t\"GetEffectiveAlpha\",\n\t\t\"GetEffectiveDepth\",\n\t\t\"GetEffectivelyFlattensRenderLayers\",\n\t\t\"GetEffectiveScale\",\n\t\t\"GetFlattensRenderLayers\",\n\t\t\"GetFrameLevel\",\n\t\t\"GetFrameStrata\",\n\t\t\"GetHeight\",\n\t\t\"GetHitRectInsets\",\n\t\t\"GetHyperlinksEnabled\",\n\t\t\"GetID\",\n\t\t\"GetLeft\",\n\t\t\"GetMaxResize\",\n\t\t\"GetMinResize\",\n\t\t\"GetName\",\n\t\t\"GetNumChildren\",\n\t\t\"GetNumPoints\",\n\t\t\"GetNumRegions\",\n\t\t\"GetObjectType\",\n\t\t\"GetParent\",\n\t\t\"GetPoint\",\n\t\t\"GetPropagateKeyboardInput\",\n\t\t\"GetRect\",\n\t\t\"GetRegions\",\n\t\t\"GetRight\",\n\t\t\"GetScale\",\n\t\t\"GetScript\",\n\t\t\"GetSize\",\n\t\t\"GetTop\",\n\t\t\"GetWidth\",\n\t\t\"HasConnection\",\n\t\t\"HasScript\",\n\t\t\"Hide\",\n\t\t\"HookScript\",\n\t\t\"IgnoreDepth\",\n\t\t\"IsClampedToScreen\",\n\t\t\"IsDragging\",\n\t\t\"IsEventRegistered\",\n\t\t\"IsForbidden\",\n\t\t\"IsIgnoringDepth\",\n\t\t\"IsIgnoringParentAlpha\",\n\t\t\"IsIgnoringParentScale\",\n\t\t\"IsJoystickEnabled\",\n\t\t\"IsKeyboardEnabled\",\n\t\t\"IsMouseClickEnabled\",\n\t\t\"IsMouseEnabled\",\n\t\t\"IsMouseMotionEnabled\",\n\t\t\"IsMouseOver\",\n\t\t\"IsMouseWheelEnabled\",\n\t\t\"IsMovable\",\n\t\t\"IsObjectLoaded\",\n\t\t\"IsObjectType\",\n\t\t\"IsProtected\",\n\t\t\"IsResizable\",\n\t\t\"IsShown\",\n\t\t\"IsToplevel\",\n\t\t\"IsUserPlaced\",\n\t\t\"IsVisible\",\n\t\t\"Lower\",\n\t\t\"NavigateBack\",\n\t\t\"NavigateForward\",\n\t\t\"NavigateHome\",\n\t\t\"NavigateReload\",\n\t\t\"NavigateStop\",\n\t\t\"OpenExternalLink\",\n\t\t\"OpenTicket\",\n\t\t\"Raise\",\n\t\t\"RegisterAllEvents\",\n\t\t\"RegisterEvent\",\n\t\t\"RegisterForDrag\",\n\t\t\"RegisterUnitEvent\",\n\t\t\"SetAllPoints\",\n\t\t\"SetAlpha\",\n\t\t\"SetAttribute\",\n\t\t\"SetBackdrop\",\n\t\t\"SetBackdropBorderColor\",\n\t\t\"SetBackdropColor\",\n\t\t\"SetClampedToScreen\",\n\t\t\"SetClampRectInsets\",\n\t\t\"SetClipsChildren\",\n\t\t\"SetDepth\",\n\t\t\"SetDontSavePosition\",\n\t\t\"SetFlattensRenderLayers\",\n\t\t\"SetFocus\",\n\t\t\"SetFrameLevel\",\n\t\t\"SetFrameStrata\",\n\t\t\"SetHeight\",\n\t\t\"SetHitRectInsets\",\n\t\t\"SetHyperlinksEnabled\",\n\t\t\"SetID\",\n\t\t\"SetIgnoreParentAlpha\",\n\t\t\"SetIgnoreParentScale\",\n\t\t\"SetMaxResize\",\n\t\t\"SetMinResize\",\n\t\t\"SetMouseClickEnabled\",\n\t\t\"SetMouseMotionEnabled\",\n\t\t\"SetMovable\",\n\t\t\"SetParent\",\n\t\t\"SetPoint\",\n\t\t\"SetPropagateKeyboardInput\",\n\t\t\"SetResizable\",\n\t\t\"SetScale\",\n\t\t\"SetScript\",\n\t\t\"SetShown\",\n\t\t\"SetSize\",\n\t\t\"SetToplevel\",\n\t\t\"SetUserPlaced\",\n\t\t\"SetWidth\",\n\t\t\"SetZoom\",\n\t\t\"Show\",\n\t\t\"StartMoving\",\n\t\t\"StartSizing\",\n\t\t\"StopAnimating\",\n\t\t\"StopMovingOrSizing\",\n\t\t\"UnregisterAllEvents\",\n\t\t\"UnregisterEvent\",\n\t},\n}",
+		},
+	]
+}

@@ -273,7 +273,7 @@
 		<!-- Frame types -->
 		<dict>
 			<key>match</key>
-			<string>(CreateFrame)\s*(\()\s*(['"](Button|ColorSelect|Cooldown|EditBox|Frame|GameTooltip|MessageFrame|Minimap|Model|ScrollFrame|ScrollingMessageFrame|SimpleHTML|Slider|StatusBar)['"])</string>
+			<string>(CreateFrame)\s*(\()\s*(['"](ArchaeologyDigSiteFrame|QuestPOIFrame|ScenarioPOIFrame|Browser|Button|CheckButton|ColorSelect|Cooldown|EditBox|Frame|GameTooltip|MessageFrame|Minimap|Model|ModelFFX|PlayerModel|CinematicModel|DressUpModel|TabardModel|ModelScene|MovieFrame|OffScreenFrame|ScrollFrame|ScrollingMessageFrame|SimpleHTML|Slider|StatusBar|UnitPositionFrame)['"])</string>
 			<key>captures</key>
 			<dict>
 				<key>1</key>
