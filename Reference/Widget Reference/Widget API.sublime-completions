@@ -42,18 +42,6 @@
 			"contents": "AppendText(\"${1:text}\")$0",
 		},
 		{
-			"trigger": "ArchaeologyDigSiteFrame:DrawBlob\t(blobId, draw)",
-			"contents": "${1:ArchaeologyDigSiteFrame}:DrawBlob(${2:blobId}, ${3:draw})$0",
-		},
-		{
-			"trigger": "ArchaeologyDigSiteFrame:DrawNone\t()",
-			"contents": "${1:ArchaeologyDigSiteFrame}:DrawNone()$0",
-		},
-		{
-			"trigger": "ArchaeologyDigSiteFrame:SetNumSplinePoints\t(points)",
-			"contents": "${1:ArchaeologyDigSiteFrame}:SetNumSplinePoints(${2:points})$0",
-		},
-		{
 			"trigger": "AtBottom\t()",
 			"contents": "AtBottom()$0",
 		},
@@ -2028,34 +2016,6 @@
 		{
 			"trigger": "PlayerModel:SetUnit\t(\"unit\")",
 			"contents": "${1:PlayerModel}:SetUnit(\"${2:unit}\")$0",
-		},
-		{
-			"trigger": "QuestPOIFrame:DrawBlob\t(questID, Draw)",
-			"contents": "${1:QuestPOIFrame}:DrawBlob(${2:questID}, ${3:Draw})$0",
-		},
-		{
-			"trigger": "QuestPOIFrame:EnableSmoothing\t(enable)",
-			"contents": "${1:QuestPOIFrame}:EnableSmoothing(${2:enable})$0",
-		},
-		{
-			"trigger": "QuestPOIFrame:SetBorderAlpha\t(Alpha)",
-			"contents": "${1:QuestPOIFrame}:SetBorderAlpha(${2:Alpha})$0",
-		},
-		{
-			"trigger": "QuestPOIFrame:SetBorderScalar\t(Scalar)",
-			"contents": "${1:QuestPOIFrame}:SetBorderScalar(${2:Scalar})$0",
-		},
-		{
-			"trigger": "QuestPOIFrame:SetBorderTexture\t(\"Texture\")",
-			"contents": "${1:QuestPOIFrame}:SetBorderTexture(\"${2:Texture}\")$0",
-		},
-		{
-			"trigger": "QuestPOIFrame:SetFillAlpha\t(Alpha)",
-			"contents": "${1:QuestPOIFrame}:SetFillAlpha(${2:Alpha})$0",
-		},
-		{
-			"trigger": "QuestPOIFrame:SetFillTexture\t(\"Texture\")",
-			"contents": "${1:QuestPOIFrame}:SetFillTexture(\"${2:Texture}\")$0",
 		},
 		{
 			"trigger": "Raise\t()",

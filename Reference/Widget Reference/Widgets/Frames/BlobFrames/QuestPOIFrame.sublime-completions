@@ -19,7 +19,7 @@
 		},
 		{
 			"trigger": "QuestPOIFrame:CreateFontString\t([\"name\"], [\"layer\"], [\"inherits\"])",
-			"contents": "${1:QuestPOIFrame}:CreateFontString(${2:[\"name\"]}, ${3:[\"layer\"]}, ${4:[\"inherits\"]})$0",
+			"contents": "${1:QuestPOIFrame}:CreateFontString(${2:[\"name\"]}, \"${3:[layer]}\", ${4:[\"inherits\"]})$0",
 		},
 		{
 			"trigger": "QuestPOIFrame:CreateLine\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",

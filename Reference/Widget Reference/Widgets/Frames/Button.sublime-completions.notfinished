@@ -1,0 +1,855 @@
+{
+	"scope": "source.lua - string",
+	"completions": [
+		{
+			"trigger": "Button:CanChangeAttribute\t()",
+			"contents": "${1:Button}:CanChangeAttribute()$0",
+		},
+		{
+			"trigger": "Button:CanChangeProtectedState\t()",
+			"contents": "${1:Button}:CanChangeProtectedState()$0",
+		},
+		{
+			"trigger": "Button:ClearAllPoints\t()",
+			"contents": "${1:Button}:ClearAllPoints()$0",
+		},
+		{
+			"trigger": "Button:Click\t(\"button\", down)",
+			"contents": "${1:Button}:Click(${2:[\"button\"]}, ${3:[down]})$0",
+		},
+		{
+			"trigger": "Button:CreateAnimationGroup\t([\"name\"], [\"inheritsFrom\"])",
+			"contents": "${1:Button}:CreateAnimationGroup(${2:[\"name\"]}, ${3:[\"inheritsFrom\"]})$0",
+		},
+		{
+			"trigger": "Button:CreateFontString\t([\"name\"], [\"layer\"], [\"inherits\"])",
+			"contents": "${1:Button}:CreateFontString(${2:[\"name\"]}, \"${3:[layer]}\", ${4:[\"inherits\"]})$0",
+		},
+		{
+			"trigger": "Button:CreateLine\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:Button}:CreateLine(${2:[\"name\"]}, \"${3:[layer]}\", ${4:[\"inherits\"]}, ${5:[sublevel]})$0",
+		},
+		{
+			"trigger": "Button:CreateMaskTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:Button}:CreateMaskTexture(${2:[\"name\"]}, \"${3:[layer]}\", ${4:[\"inherits\"]}, ${5:[sublevel]})$0",
+		},
+		{
+			"trigger": "Button:CreateTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:Button}:CreateTexture(${2:[\"name\"]}, \"${3:[layer]}\", ${4:[\"inherits\"]}, ${5:[sublevel]})$0",
+		},
+		{
+			"trigger": "Button:DisableDrawLayer\t(\"layer\")",
+			"contents": "${1:Button}:DisableDrawLayer(\"${2:layer}\")$0",
+		},
+		{
+			"trigger": "Button:DoesClipChildren\t()",
+			"contents": "${1:Button}:DoesClipChildren()$0",
+		},
+		{
+			"trigger": "Button:EnableDrawLayer\t(\"layer\")",
+			"contents": "${1:Button}:EnableDrawLayer(\"${2:layer}\")$0",
+		},
+		{
+			"trigger": "Button:EnableJoystick\t(enable)",
+			"contents": "${1:Button}:EnableJoystick(${2:enable})$0",
+		},
+		{
+			"trigger": "Button:EnableKeyboard\t(enable)",
+			"contents": "${1:Button}:EnableKeyboard(${2:enable})$0",
+		},
+		{
+			"trigger": "Button:EnableMouse\t(enable)",
+			"contents": "${1:Button}:EnableMouse(${2:enable})$0",
+		},
+		{
+			"trigger": "Button:EnableMouseWheel\t(enable)",
+			"contents": "${1:Button}:EnableMouseWheel(${2:enable})$0",
+		},
+		{
+			"trigger": "Button:GetAlpha\t()",
+			"contents": "${1:Button}:GetAlpha()$0",
+		},
+		{
+			"trigger": "Button:GetAnimationGroups\t()",
+			"contents": "${1:Button}:GetAnimationGroups()$0",
+		},
+		{
+			"trigger": "Button:GetAttribute\t(\"name\")",
+			"contents": "${1:Button}:GetAttribute(${2:\"name\"})$0",
+		},
+		{
+			"trigger": "Button:GetBackdrop\t()",
+			"contents": "${1:Button}:GetBackdrop()$0",
+		},
+		{
+			"trigger": "Button:GetBackdropBorderColor\t()",
+			"contents": "${1:Button}:GetBackdropBorderColor()$0",
+		},
+		{
+			"trigger": "Button:GetBackdropColor\t()",
+			"contents": "${1:Button}:GetBackdropColor()$0",
+		},
+		{
+			"trigger": "Button:GetBottom\t()",
+			"contents": "${1:Button}:GetBottom()$0",
+		},
+		{
+			"trigger": "Button:GetBoundsRect\t()",
+			"contents": "${1:Button}:GetBoundsRect()$0",
+		},
+		{
+			"trigger": "Button:GetCenter\t()",
+			"contents": "${1:Button}:GetCenter()$0",
+		},
+		{
+			"trigger": "Button:GetChildren\t()",
+			"contents": "${1:Button}:GetChildren()$0",
+		},
+		{
+			"trigger": "Button:GetClampRectInsets\t()",
+			"contents": "${1:Button}:GetClampRectInsets()$0",
+		},
+		{
+			"trigger": "Button:GetDebugName\t()",
+			"contents": "${1:Button}:GetDebugName()$0",
+		},
+		{
+			"trigger": "Button:GetDepth\t()",
+			"contents": "${1:Button}:GetDepth()$0",
+		},
+		{
+			"trigger": "Button:GetDontSavePosition\t()",
+			"contents": "${1:Button}:GetDontSavePosition()$0",
+		},
+		{
+			"trigger": "Button:GetEffectiveAlpha\t()",
+			"contents": "${1:Button}:GetEffectiveAlpha()$0",
+		},
+		{
+			"trigger": "Button:GetEffectiveDepth\t()",
+			"contents": "${1:Button}:GetEffectiveDepth()$0",
+		},
+		{
+			"trigger": "Button:GetEffectivelyFlattensRenderLayers\t()",
+			"contents": "${1:Button}:GetEffectivelyFlattensRenderLayers()$0",
+		},
+		{
+			"trigger": "Button:GetEffectiveScale\t()",
+			"contents": "${1:Button}:GetEffectiveScale()$0",
+		},
+		{
+			"trigger": "Button:GetFlattensRenderLayers\t()",
+			"contents": "${1:Button}:GetFlattensRenderLayers()$0",
+		},
+		{
+			"trigger": "Button:GetFrameLevel\t()",
+			"contents": "${1:Button}:GetFrameLevel()$0",
+		},
+		{
+			"trigger": "Button:GetFrameStrata\t()",
+			"contents": "${1:Button}:GetFrameStrata()$0",
+		},
+		{
+			"trigger": "Button:GetHeight\t()",
+			"contents": "${1:Button}:GetHeight()$0",
+		},
+		{
+			"trigger": "Button:GetHitRectInsets\t()",
+			"contents": "${1:Button}:GetHitRectInsets()$0",
+		},
+		{
+			"trigger": "Button:GetHyperlinksEnabled\t()",
+			"contents": "${1:Button}:GetHyperlinksEnabled()$0",
+		},
+		{
+			"trigger": "Button:GetID\t()",
+			"contents": "${1:Button}:GetID()$0",
+		},
+		{
+			"trigger": "Button:GetLeft\t()",
+			"contents": "${1:Button}:GetLeft()$0",
+		},
+		{
+			"trigger": "Button:GetMaxResize\t()",
+			"contents": "${1:Button}:GetMaxResize()$0",
+		},
+		{
+			"trigger": "Button:GetMinResize\t()",
+			"contents": "${1:Button}:GetMinResize()$0",
+		},
+		{
+			"trigger": "Button:GetName\t()",
+			"contents": "${1:Button}:GetName()$0",
+		},
+		{
+			"trigger": "Button:GetNumChildren\t()",
+			"contents": "${1:Button}:GetNumChildren()$0",
+		},
+		{
+			"trigger": "Button:GetNumPoints\t()",
+			"contents": "${1:Button}:GetNumPoints()$0",
+		},
+		{
+			"trigger": "Button:GetNumRegions\t()",
+			"contents": "${1:Button}:GetNumRegions()$0",
+		},
+		{
+			"trigger": "Button:GetObjectType\t()",
+			"contents": "${1:Button}:GetObjectType()$0",
+		},
+		{
+			"trigger": "Button:GetParent\t()",
+			"contents": "${1:Button}:GetParent()$0",
+		},
+		{
+			"trigger": "Button:GetPoint\t(index)",
+			"contents": "${1:Button}:GetPoint(${2:index})$0",
+		},
+		{
+			"trigger": "Button:GetPropagateKeyboardInput\t()",
+			"contents": "${1:Button}:GetPropagateKeyboardInput()$0",
+		},
+		{
+			"trigger": "Button:GetRect\t()",
+			"contents": "${1:Button}:GetRect()$0",
+		},
+		{
+			"trigger": "Button:GetRegions\t()",
+			"contents": "${1:Button}:GetRegions()$0",
+		},
+		{
+			"trigger": "Button:GetRight\t()",
+			"contents": "${1:Button}:GetRight()$0",
+		},
+		{
+			"trigger": "Button:GetScale\t()",
+			"contents": "${1:Button}:GetScale()$0",
+		},
+		{
+			"trigger": "Button:GetScript\t(\"scriptType\")",
+			"contents": "${1:Button}:GetScript(\"${2:scriptType}\")$0",
+		},
+		{
+			"trigger": "Button:GetSize\t()",
+			"contents": "${1:Button}:GetSize()$0",
+		},
+		{
+			"trigger": "Button:GetTop\t()",
+			"contents": "${1:Button}:GetTop()$0",
+		},
+		{
+			"trigger": "Button:GetWidth\t()",
+			"contents": "${1:Button}:GetWidth()$0",
+		},
+		{
+			"trigger": "Button:HasScript\t(\"scriptType\")",
+			"contents": "${1:Button}:HasScript(\"${2:scriptType}\")$0",
+		},
+		{
+			"trigger": "Button:Hide\t()",
+			"contents": "${1:Button}:Hide()$0",
+		},
+		{
+			"trigger": "Button:HookScript\t(\"scriptType\", handler)",
+			"contents": "${1:Button}:HookScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "Button:IgnoreDepth\t(enable)",
+			"contents": "${1:Button}:IgnoreDepth(${2:enable})$0",
+		},
+		{
+			"trigger": "Button:IsClampedToScreen\t()",
+			"contents": "${1:Button}:IsClampedToScreen()$0",
+		},
+		{
+			"trigger": "Button:IsDragging\t()",
+			"contents": "${1:Button}:IsDragging()$0",
+		},
+		{
+			"trigger": "Button:IsEventRegistered\t(\"event\")",
+			"contents": "${1:Button}:IsEventRegistered(\"${2:event}\")$0",
+		},
+		{
+			"trigger": "Button:IsForbidden\t()",
+			"contents": "${1:Button}:IsForbidden()$0",
+		},
+		{
+			"trigger": "Button:IsIgnoringDepth\t()",
+			"contents": "${1:Button}:IsIgnoringDepth()$0",
+		},
+		{
+			"trigger": "Button:IsIgnoringParentAlpha\t()",
+			"contents": "${1:Button}:IsIgnoringParentAlpha()$0",
+		},
+		{
+			"trigger": "Button:IsIgnoringParentScale\t()",
+			"contents": "${1:Button}:IsIgnoringParentScale()$0",
+		},
+		{
+			"trigger": "Button:IsJoystickEnabled\t()",
+			"contents": "${1:Button}:IsJoystickEnabled()$0",
+		},
+		{
+			"trigger": "Button:IsKeyboardEnabled\t()",
+			"contents": "${1:Button}:IsKeyboardEnabled()$0",
+		},
+		{
+			"trigger": "Button:IsMouseClickEnabled\t()",
+			"contents": "${1:Button}:IsMouseClickEnabled()$0",
+		},
+		{
+			"trigger": "Button:IsMouseEnabled\t()",
+			"contents": "${1:Button}:IsMouseEnabled()$0",
+		},
+		{
+			"trigger": "Button:IsMouseMotionEnabled\t()",
+			"contents": "${1:Button}:IsMouseMotionEnabled()$0",
+		},
+		{
+			"trigger": "Button:IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
+			"contents": "${1:Button}:IsMouseOver(${2:[topOffset]}, ${3:[leftOffset]}, ${4:[bottomOffset]}, ${5:[rightOffset]})$0",
+		},
+		{
+			"trigger": "Button:IsMouseWheelEnabled\t()",
+			"contents": "${1:Button}:IsMouseWheelEnabled()$0",
+		},
+		{
+			"trigger": "Button:IsMovable\t()",
+			"contents": "${1:Button}:IsMovable()$0",
+		},
+		{
+			"trigger": "Button:IsObjectLoaded\t()",
+			"contents": "${1:Button}:IsObjectLoaded()$0",
+		},
+		{
+			"trigger": "Button:IsObjectType\t()",
+			"contents": "${1:Button}:IsObjectType()$0",
+		},
+		{
+			"trigger": "Button:IsProtected\t()",
+			"contents": "${1:Button}:IsProtected()$0",
+		},
+		{
+			"trigger": "Button:IsResizable\t()",
+			"contents": "${1:Button}:IsResizable()$0",
+		},
+		{
+			"trigger": "Button:IsShown\t()",
+			"contents": "${1:Button}:IsShown()$0",
+		},
+		{
+			"trigger": "Button:IsToplevel\t()",
+			"contents": "${1:Button}:IsToplevel()$0",
+		},
+		{
+			"trigger": "Button:IsUserPlaced\t()",
+			"contents": "${1:Button}:IsUserPlaced()$0",
+		},
+		{
+			"trigger": "Button:IsVisible\t()",
+			"contents": "${1:Button}:IsVisible()$0",
+		},
+		{
+			"trigger": "Button:Lower\t()",
+			"contents": "${1:Button}:Lower()$0",
+		},
+		{
+			"trigger": "Button:Raise\t()",
+			"contents": "${1:Button}:Raise()$0",
+		},
+		{
+			"trigger": "Button:RegisterAllEvents\t()",
+			"contents": "${1:Button}:RegisterAllEvents()$0",
+		},
+		{
+			"trigger": "Button:RegisterEvent\t(\"event\")",
+			"contents": "${1:Button}:RegisterEvent(\"${2:event}\")$0",
+		},
+		{
+			"trigger": "Button:RegisterForDrag\t(...)",
+			"contents": "${1:Button}:RegisterForDrag(${2:...})$0",
+		},
+		{
+			"trigger": "Button:RegisterUnitEvent\t(\"event\", \"unit1\", \"unit2\")",
+			"contents": "${1:Button}:RegisterUnitEvent(\"${2:event}\", \"${3:unit1}\", \"${4:unit2}\")$0",
+		},
+		{
+			"trigger": "Button:SetAllPoints\t([frame])",
+			"contents": "${1:Button}:SetAllPoints(${2:[frame]})$0",
+		},
+		{
+			"trigger": "Button:SetAlpha\t(alpha)",
+			"contents": "${1:Button}:SetAlpha(${2:alpha})$0",
+		},
+		{
+			"trigger": "Button:SetAttribute\t(\"name\", value)",
+			"contents": "${1:Button}:SetAttribute(${2:\"name\"}, ${3:value})$0",
+		},
+		{
+			"trigger": "Button:SetBackdrop\t(backdrop)",
+			"contents": "${1:Button}:SetBackdrop(${2:backdrop})$0",
+		},
+		{
+			"trigger": "Button:SetBackdropBorderColor\t(red, green, blue, [alpha])",
+			"contents": "${1:Button}:SetBackdropBorderColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+		},
+		{
+			"trigger": "Button:SetBackdropColor\t(red, green, blue, [alpha])",
+			"contents": "${1:Button}:SetBackdropColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+		},
+		{
+			"trigger": "Button:SetClampedToScreen\t(enable)",
+			"contents": "${1:Button}:SetClampedToScreen(${2:enable})$0",
+		},
+		{
+			"trigger": "Button:SetClampRectInsets\t(left, right, top, bottom)",
+			"contents": "${1:Button}:SetClampRectInsets(${2:left}, ${3:right}, ${4:top}, ${5:bottom})$0",
+		},
+		{
+			"trigger": "Button:SetClipsChildren\t(enable)",
+			"contents": "${1:Button}:SetClipsChildren(${2:enable})$0",
+		},
+		{
+			"trigger": "Button:SetDepth\t(depth)",
+			"contents": "${1:Button}:SetDepth(${2:depth})$0",
+		},
+		{
+			"trigger": "Button:SetDontSavePosition\t(enable)",
+			"contents": "${1:Button}:SetDontSavePosition(${2:enable})$0",
+		},
+		{
+			"trigger": "Button:SetFlattensRenderLayers\t(enable)",
+			"contents": "${1:Button}:SetFlattensRenderLayers(${2:enable})$0",
+		},
+		{
+			"trigger": "Button:SetFrameLevel\t(level)",
+			"contents": "${1:Button}:SetFrameLevel(${2:level})$0",
+		},
+		{
+			"trigger": "Button:SetFrameStrata\t(\"strata\")",
+			"contents": "${1:Button}:SetFrameStrata(\"${2:strata}\")$0",
+		},
+		{
+			"trigger": "Button:SetHeight\t(height)",
+			"contents": "${1:Button}:SetHeight(${2:height})$0",
+		},
+		{
+			"trigger": "Button:SetHitRectInsets\t(left, right, top, bottom)",
+			"contents": "${1:Button}:SetHitRectInsets(${2:left}, ${3:right}, ${4:top}, ${5:bottom})$0",
+		},
+		{
+			"trigger": "Button:SetHyperlinksEnabled\t(enable)",
+			"contents": "${1:Button}:SetHyperlinksEnabled(${2:enable})$0",
+		},
+		{
+			"trigger": "Button:SetID\t(id)",
+			"contents": "${1:Button}:SetID(${2:id})$0",
+		},
+		{
+			"trigger": "Button:SetIgnoreParentAlpha\t(enable)",
+			"contents": "${1:Button}:SetIgnoreParentAlpha(${2:enable})$0",
+		},
+		{
+			"trigger": "Button:SetIgnoreParentScale\t(enable)",
+			"contents": "${1:Button}:SetIgnoreParentScale(${2:enable})$0",
+		},
+		{
+			"trigger": "Button:SetMaxResize\t(maxWidth, maxHeight)",
+			"contents": "${1:Button}:SetMaxResize(${2:maxWidth}, ${3:maxHeight})$0",
+		},
+		{
+			"trigger": "Button:SetMinResize\t(minWidth, minHeight)",
+			"contents": "${1:Button}:SetMinResize(${2:minWidth}, ${3:minHeight})$0",
+		},
+		{
+			"trigger": "Button:SetMouseClickEnabled\t(enable)",
+			"contents": "${1:Button}:SetMouseClickEnabled(${2:enable})$0",
+		},
+		{
+			"trigger": "Button:SetMouseMotionEnabled\t(enable)",
+			"contents": "${1:Button}:SetMouseMotionEnabled(${2:enable})$0",
+		},
+		{
+			"trigger": "Button:SetMovable\t(enable)",
+			"contents": "${1:Button}:SetMovable(${2:enable})$0",
+		},
+		{
+			"trigger": "Button:SetParent\t(frame)",
+			"contents": "${1:Button}:SetParent(${2:Button})$0",
+		},
+		{
+			"trigger": "Button:SetPoint\t(\"point\", [relativeTo], [\"relativePoint\"], [xOffset], [yOffset])",
+			"contents": "${1:Button}:SetPoint(\"${2:point}\", ${3:[relativeTo]}, \"${4:[relativePoint]}\", ${5:[xOffset]}, ${6:[yOffset]})$0",
+		},
+		{
+			"trigger": "Button:SetPropagateKeyboardInput\t(enable)",
+			"contents": "${1:Button}:SetPropagateKeyboardInput(${2:enable})$0",
+		},
+		{
+			"trigger": "Button:SetResizable\t(enable)",
+			"contents": "${1:Button}:SetResizable(${2:enable})$0",
+		},
+		{
+			"trigger": "Button:SetScale\t(scale)",
+			"contents": "${1:Button}:SetScale(${2:scale})$0",
+		},
+		{
+			"trigger": "Button:SetScript\t(\"scriptType\", handler)",
+			"contents": "${1:Button}:SetScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "Button:SetShown\t(enable)",
+			"contents": "${1:Button}:SetShown(${2:enable})$0",
+		},
+		{
+			"trigger": "Button:SetSize\t(width, height)",
+			"contents": "${1:Button}:SetSize(${2:width}, ${3:height})$0",
+		},
+		{
+			"trigger": "Button:SetToplevel\t(enable)",
+			"contents": "${1:Button}:SetToplevel(${2:enable})$0",
+		},
+		{
+			"trigger": "Button:SetUserPlaced\t(enable)",
+			"contents": "${1:Button}:SetUserPlaced(${2:enable})$0",
+		},
+		{
+			"trigger": "Button:SetWidth\t(width)",
+			"contents": "${1:Button}:SetWidth(${2:width})$0",
+		},
+		{
+			"trigger": "Button:Show\t()",
+			"contents": "${1:Button}:Show()$0",
+		},
+		{
+			"trigger": "Button:StartMoving\t()",
+			"contents": "${1:Button}:StartMoving()$0",
+		},
+		{
+			"trigger": "Button:StartSizing\t()",
+			"contents": "${1:Button}:StartSizing()$0",
+		},
+		{
+			"trigger": "Button:StopAnimating\t()",
+			"contents": "${1:Button}:StopAnimating()$0",
+		},
+		{
+			"trigger": "Button:StopMovingOrSizing\t()",
+			"contents": "${1:Button}:StopMovingOrSizing()$0",
+		},
+		{
+			"trigger": "Button:UnregisterAllEvents\t()",
+			"contents": "${1:Button}:UnregisterAllEvents()$0",
+		},
+		{
+			"trigger": "Button:UnregisterEvent\t(\"event\")",
+			"contents": "${1:Button}:UnregisterEvent(\"${2:event}\")$0",
+		},
+
+
+
+		{
+			"trigger": "_Button:CanChangeAttribute\t()",
+			"contents": "${1:enabled} = ${2:Button}:CanChangeAttribute()$0",
+		},
+		{
+			"trigger": "_Button:CanChangeProtectedState\t()",
+			"contents": "${1:canChange} = ${2:Button}:CanChangeProtectedState()$0",
+		},
+		{
+			"trigger": "_Button:CreateFontString\t([\"name\"], [\"layer\"], [\"inherits\"])",
+			"contents": "${1:fontstring} = ${2:Button}:CreateFontString(${3:[\"name\"]}, ${4:[\"layer\"]}, ${5:[\"inherits\"]})$0",
+		},
+		{
+			"trigger": "_Button:CreateLine\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:texture} = ${2:Button}:CreateLine(${3:[\"name\"]}, \"${4:[layer]}\", ${5:[\"inherits\"]}, ${6:[sublevel]})$0",
+		},
+		{
+			"trigger": "_Button:CreateMaskTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:texture} = ${2:Button}:CreateMaskTexture(${3:[\"name\"]}, \"${4:[layer]}\", ${5:[\"inherits\"]}, ${6:[sublevel]})$0",
+		},
+		{
+			"trigger": "_Button:CreateTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:texture} = ${2:Button}:CreateTexture(${3:[\"name\"]}, \"${4:[layer]}\", ${5:[\"inherits\"]}, ${6:[sublevel]})$0",
+		},
+		{
+			"trigger": "_Button:DoesClipChildren\t()",
+			"contents": "${1:doesClip} = ${2:Button}:DoesClipChildren()$0",
+		},
+		{
+			"trigger": "_Button:GetAlpha\t()",
+			"contents": "${1:alpha} = ${2:Button}:GetAlpha()$0",
+		},
+		{
+			"trigger": "_Button:GetAnimationGroups\t()",
+			"contents": "${1:...} = ${2:Button}:GetAnimationGroups()$0",
+		},
+		{
+			"trigger": "_Button:GetAttribute\t(\"name\")",
+			"contents": "${1:value} = ${2:Button}:GetAttribute(${3:\"name\"})$0",
+		},
+		{
+			"trigger": "_Button:GetBackdrop\t()",
+			"contents": "${1:backdrop} = ${2:Button}:GetBackdrop()$0",
+		},
+		{
+			"trigger": "_Button:GetBackdropBorderColor\t()",
+			"contents": "${1:red}, ${2:green}, ${3:blue}, ${4:alpha} = ${5:Button}:GetBackdropBorderColor()$0",
+		},
+		{
+			"trigger": "_Button:GetBackdropColor\t()",
+			"contents": "${1:red}, ${2:green}, ${3:blue}, ${4:alpha} = ${5:Button}:GetBackdropColor()$0",
+		},
+		{
+			"trigger": "_Button:GetBottom\t()",
+			"contents": "${1:bottom} = ${2:Button}:GetBottom()$0",
+		},
+		{
+			"trigger": "_Button:GetBoundsRect\t()",
+			"contents": "${1:left}, ${2:bottom}, ${3:width}, ${4:height} = ${5:Button}:GetBoundsRect()$0",
+		},
+		{
+			"trigger": "_Button:GetCenter\t()",
+			"contents": "${1:x}, ${2:y} = ${3:Button}:GetCenter()$0",
+		},
+		{
+			"trigger": "_Button:GetChildren\t()",
+			"contents": "${1:...} = ${2:Button}:GetChildren()$0",
+		},
+		{
+			"trigger": "_Button:GetClampRectInsets\t()",
+			"contents": "${1:left}, ${2:right}, ${3:top}, ${4:bottom} = ${5:Button}:GetClampRectInsets()$0",
+		},
+		{
+			"trigger": "_Button:GetDebugName\t()",
+			"contents": "${1:name} = ${2:Button}:GetDebugName()$0",
+		},
+		{
+			"trigger": "_Button:GetDepth\t()",
+			"contents": "${1:depth} = ${2:Button}:GetDepth()$0",
+		},
+		{
+			"trigger": "_Button:GetDontSavePosition\t()",
+			"contents": "${1:saved} = ${2:Button}:GetDontSavePosition()$0",
+		},
+		{
+			"trigger": "_Button:GetEffectiveAlpha\t()",
+			"contents": "${1:alpha} = ${2:Button}:GetEffectiveAlpha()$0",
+		},
+		{
+			"trigger": "_Button:GetEffectiveDepth\t()",
+			"contents": "${1:depth} = ${2:Button}:GetEffectiveDepth()$0",
+		},
+		{
+			"trigger": "_Button:GetEffectivelyFlattensRenderLayers\t()",
+			"contents": "${1:doesFlattens} = ${2:Button}:GetEffectivelyFlattensRenderLayers()$0",
+		},
+		{
+			"trigger": "_Button:GetEffectiveScale\t()",
+			"contents": "${1:scale} = ${2:Button}:GetEffectiveScale()$0",
+		},
+		{
+			"trigger": "_Button:GetFlattensRenderLayers\t()",
+			"contents": "${1:doesFlattens} = ${2:Button}:GetFlattensRenderLayers()$0",
+		},
+		{
+			"trigger": "_Button:GetFrameLevel\t()",
+			"contents": "${1:level} = ${2:Button}:GetFrameLevel()$0",
+		},
+		{
+			"trigger": "_Button:GetFrameStrata\t()",
+			"contents": "${1:strata} = ${2:Button}:GetFrameStrata()$0",
+		},
+		{
+			"trigger": "_Button:GetHeight\t()",
+			"contents": "${1:height} = ${2:Button}:GetHeight()$0",
+		},
+		{
+			"trigger": "_Button:GetHitRectInsets\t()",
+			"contents": "${1:left}, ${2:right}, ${3:top}, ${4:bottom} = ${5:Button}:GetHitRectInsets()$0",
+		},
+		{
+			"trigger": "_Button:GetHyperlinksEnabled\t()",
+			"contents": "${1:enabled} = ${2:Button}:GetHyperlinksEnabled()$0",
+		},
+		{
+			"trigger": "_Button:GetID\t()",
+			"contents": "${1:id} = ${2:Button}:GetID()$0",
+		},
+		{
+			"trigger": "_Button:GetLeft\t()",
+			"contents": "${1:left} = ${2:Button}:GetLeft()$0",
+		},
+		{
+			"trigger": "_Button:GetMaxResize\t()",
+			"contents": "${1:maxWidth}, ${2:maxHeight} = ${3:Button}:GetMaxResize()$0",
+		},
+		{
+			"trigger": "_Button:GetMinResize\t()",
+			"contents": "${1:minWidth}, ${2:minHeight} = ${3:Button}:GetMinResize()$0",
+		},
+		{
+			"trigger": "_Button:GetName\t()",
+			"contents": "${1:name} = ${2:Button}:GetName()$0",
+		},
+		{
+			"trigger": "_Button:GetNumChildren\t()",
+			"contents": "${1:numChildren} = ${2:Button}:GetNumChildren()$0",
+		},
+		{
+			"trigger": "_Button:GetNumPoints\t()",
+			"contents": "${1:numPoints} = ${2:Button}:GetNumPoints()$0",
+		},
+		{
+			"trigger": "_Button:GetNumRegions\t()",
+			"contents": "${1:numRegions} = ${2:Button}:GetNumRegions()$0",
+		},
+		{
+			"trigger": "_Button:GetObjectType\t()",
+			"contents": "${1:type} = ${2:Button}:GetObjectType()$0",
+		},
+		{
+			"trigger": "_Button:GetPoint\t(index)",
+			"contents": "${1:point}, ${2:relativeTo}, ${3:relativePoint}, ${4:xOffset}, ${5:yOffset} = ${6:Button}:GetPoint(${7:index})$0",
+		},
+		{
+			"trigger": "_Button:GetPropagateKeyboardInput\t()",
+			"contents": "${1:propagate} = ${2:Button}:GetPropagateKeyboardInput()$0",
+		},
+		{
+			"trigger": "_Button:GetRect\t()",
+			"contents": "${1:left}, ${2:bottom}, ${3:width}, ${4:height} = ${5:Button}:GetRect()$0",
+		},
+		{
+			"trigger": "_Button:GetRegions\t()",
+			"contents": "${1:...} = ${2:Button}:GetRegions()$0",
+		},
+		{
+			"trigger": "_Button:GetRight\t()",
+			"contents": "${1:right} = ${2:Button}:GetRight()$0",
+		},
+		{
+			"trigger": "_Button:GetScale\t()",
+			"contents": "${1:scale} = ${2:Button}:GetScale()$0",
+		},
+		{
+			"trigger": "_Button:GetScript\t(\"scriptType\")",
+			"contents": "${1:handler} = ${2:Button}:GetScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "_Button:GetSize\t()",
+			"contents": "${1:width}, ${2:height} = ${3:Button}:GetSize()$0",
+		},
+		{
+			"trigger": "_Button:GetTop\t()",
+			"contents": "${1:top} = ${2:Button}:GetTop()$0",
+		},
+		{
+			"trigger": "_Button:GetWidth\t()",
+			"contents": "${1:width} = ${2:Button}:GetWidth()$0",
+		},
+		{
+			"trigger": "_Button:HasScript\t(\"scriptType\")",
+			"contents": "${1:hasScript} = ${2:Button}:HasScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "_Button:IsClampedToScreen\t()",
+			"contents": "${1:enabled} = ${2:Button}:IsClampedToScreen()$0",
+		},
+		{
+			"trigger": "_Button:IsDragging\t()",
+			"contents": "${1:isDragging} = ${2:Button}:IsDragging()$0",
+		},
+		{
+			"trigger": "_Button:IsEventRegistered\t(\"event\")",
+			"contents": "${1:registered} = ${2:Button}:IsEventRegistered(\"${3:event}\")$0",
+		},
+		{
+			"trigger": "_Button:IsForbidden\t()",
+			"contents": "${1:isForbidden} = ${2:Button}:IsForbidden()$0",
+		},
+		{
+			"trigger": "_Button:IsIgnoringDepth\t()",
+			"contents": "${1:enabled} = ${2:Button}:IsIgnoringDepth()$0",
+		},
+		{
+			"trigger": "_Button:IsIgnoringParentAlpha\t()",
+			"contents": "${1:isIgnoring} = ${2:Button}:IsIgnoringParentAlpha()$0",
+		},
+		{
+			"trigger": "_Button:IsIgnoringParentScale\t()",
+			"contents": "${1:isIgnoring} = ${2:Button}:IsIgnoringParentScale()$0",
+		},
+		{
+			"trigger": "_Button:IsJoystickEnabled\t()",
+			"contents": "${1:enabled} = ${2:Button}:IsJoystickEnabled()$0",
+		},
+		{
+			"trigger": "_Button:IsKeyboardEnabled\t()",
+			"contents": "${1:enabled} = ${2:Button}:IsKeyboardEnabled()$0",
+		},
+		{
+			"trigger": "_Button:IsMouseClickEnabled\t()",
+			"contents": "${1:enabled} = ${2:Button}:IsMouseClickEnabled()$0",
+		},
+		{
+			"trigger": "_Button:IsMouseEnabled\t()",
+			"contents": "${1:enabled} = ${2:Button}:IsMouseEnabled()$0",
+		},
+		{
+			"trigger": "_Button:IsMouseMotionEnabled\t()",
+			"contents": "${1:enabled} = ${2:Button}:IsMouseMotionEnabled()$0",
+		},
+		{
+			"trigger": "_Button:IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
+			"contents": "${1:isOver} = ${2:Button}:IsMouseOver(${3:[topOffset]}, ${4:[leftOffset]}, ${5:[bottomOffset]}, ${6:[rightOffset]})$0",
+		},
+		{
+			"trigger": "_Button:IsMouseWheelEnabled\t()",
+			"contents": "${1:enabled} = ${2:Button}:IsMouseWheelEnabled()$0",
+		},
+		{
+			"trigger": "_Button:IsMovable\t()",
+			"contents": "${1:movable} = ${2:Button}:IsMovable()$0",
+		},
+		{
+			"trigger": "_Button:IsObjectLoaded\t()",
+			"contents": "${1:loaded} = ${2:Button}:IsObjectLoaded()$0",
+		},
+		{
+			"trigger": "_Button:IsObjectType\t(\"type\")",
+			"contents": "${1:isType} = ${2:Button}:IsObjectType(\"${3:type}\")$0",
+		},
+		{
+			"trigger": "_Button:IsProtected\t()",
+			"contents": "${1:isProtected}, ${2:explicit} = ${3:Button}:IsProtected()$0",
+		},
+		{
+			"trigger": "_Button:IsResizable\t()",
+			"contents": "${1:enabled} = ${2:Button}:IsResizable()$0",
+		},
+		{
+			"trigger": "_Button:IsShown\t()",
+			"contents": "${1:shown} = ${2:Button}:IsShown()$0",
+		},
+		{
+			"trigger": "_Button:IsToplevel\t()",
+			"contents": "${1:enabled} = ${2:Button}:IsToplevel()$0",
+		},
+		{
+			"trigger": "_Button:IsUserPlaced\t()",
+			"contents": "${1:enabled} = ${2:Button}:IsUserPlaced()$0",
+		},
+		{
+			"trigger": "_Button:IsVisible\t()",
+			"contents": "${1:visible} = ${2:Button}:IsVisible()$0",
+		},
+
+
+
+		{
+			"trigger": "_Button\thelp",
+			"contents": "Button = {\n\tinherits = {\n\t\t\"Button\",\n\t\t\"Frame\",\n\t\t\"ScriptObject\",\n\t\t\"VisibleRegion\",\n\t\t\"Region\",\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\thandlers = {\n\t\t[\"OnAttributeChanged\"] = \"self, name, value\",\n\t\t[\"OnChar\"] = \"self, text\",\n\t\t[\"OnClick\"] = \"self, button, down\",\n\t\t[\"OnDisable\"] = \"self\",\n\t\t[\"OnDoubleClick\"] = \"self, button\",\n\t\t[\"OnDragStart\"] = \"self, button\",\n\t\t[\"OnDragStop\"] = \"self\",\n\t\t[\"OnEnable\"] = \"self\",\n\t\t[\"OnEnter\"] = \"self, motion\",\n\t\t[\"OnEvent\"] = \"self, event, ...\",\n\t\t[\"OnHide\"] = \"self\",\n\t\t[\"OnHyperlinkClick\"] = \"self, link, text, button, region, left, bottom, width, height\",\n\t\t[\"OnHyperlinkEnter\"] = \"self, link, text, region, left, bottom, width, height\",\n\t\t[\"OnHyperlinkLeave\"] = \"self\",\n\t\t[\"OnKeyDown\"] = \"self, key\",\n\t\t[\"OnKeyUp\"] = \"self, key\",\n\t\t[\"OnLeave\"] = \"self, motion\",\n\t\t[\"OnLoad\"] = \"self\",\n\t\t[\"OnMouseDown\"] = \"self, button\",\n\t\t[\"OnMouseUp\"] = \"self, button, upInside\",\n\t\t[\"OnMouseWheel\"] = \"self, delta\",\n\t\t[\"OnReceiveDrag\"] = \"self\",\n\t\t[\"OnShow\"] = \"self\",\n\t\t[\"OnSizeChanged\"] = \"self, width, height\",\n\t\t[\"OnUpdate\"] = \"self, elapsed\",\n\t\t[\"PostClick\"] = \"self, button, down\",\n\t\t[\"PreClick\"] = \"self, button, down\",\n\t},\n\tmethods = {\n\t\t\"CanChangeAttribute\",\n\t\t\"CanChangeProtectedState\",\n\t\t\"ClearAllPoints\",\n\t\t\"Click\",\n\t\t\"CreateAnimationGroup\",\n\t\t\"CreateFontString\",\n\t\t\"CreateLine\",\n\t\t\"CreateMaskTexture\",\n\t\t\"CreateTexture\",\n\t\t\"Disable\",\n\t\t\"DisableDrawLayer\",\n\t\t\"DoesClipChildren\",\n\t\t\"Enable\",\n\t\t\"EnableDrawLayer\",\n\t\t\"EnableJoystick\",\n\t\t\"EnableKeyboard\",\n\t\t\"EnableMouse\",\n\t\t\"EnableMouseWheel\",\n\t\t\"GetAlpha\",\n\t\t\"GetAnimationGroups\",\n\t\t\"GetAttribute\",\n\t\t\"GetBackdrop\",\n\t\t\"GetBackdropBorderColor\",\n\t\t\"GetBackdropColor\",\n\t\t\"GetBottom\",\n\t\t\"GetBoundsRect\",\n\t\t\"GetButtonState\",\n\t\t\"GetCenter\",\n\t\t\"GetChildren\",\n\t\t\"GetClampRectInsets\",\n\t\t\"GetDebugName\",\n\t\t\"GetDepth\",\n\t\t\"GetDisabledFontObject\",\n\t\t\"GetDisabledTexture\",\n\t\t\"GetDontSavePosition\",\n\t\t\"GetEffectiveAlpha\",\n\t\t\"GetEffectiveDepth\",\n\t\t\"GetEffectivelyFlattensRenderLayers\",\n\t\t\"GetEffectiveScale\",\n\t\t\"GetFlattensRenderLayers\",\n\t\t\"GetFontString\",\n\t\t\"GetFrameLevel\",\n\t\t\"GetFrameStrata\",\n\t\t\"GetHeight\",\n\t\t\"GetHighlightFontObject\",\n\t\t\"GetHighlightTexture\",\n\t\t\"GetHitRectInsets\",\n\t\t\"GetHyperlinksEnabled\",\n\t\t\"GetID\",\n\t\t\"GetLeft\",\n\t\t\"GetMaxResize\",\n\t\t\"GetMinResize\",\n\t\t\"GetMotionScriptsWhileDisabled\",\n\t\t\"GetName\",\n\t\t\"GetNormalFontObject\",\n\t\t\"GetNormalTexture\",\n\t\t\"GetNumChildren\",\n\t\t\"GetNumPoints\",\n\t\t\"GetNumRegions\",\n\t\t\"GetObjectType\",\n\t\t\"GetParent\",\n\t\t\"GetPoint\",\n\t\t\"GetPropagateKeyboardInput\",\n\t\t\"GetPushedTextOffset\",\n\t\t\"GetPushedTexture\",\n\t\t\"GetRect\",\n\t\t\"GetRegions\",\n\t\t\"GetRight\",\n\t\t\"GetScale\",\n\t\t\"GetScript\",\n\t\t\"GetSize\",\n\t\t\"GetText\",\n\t\t\"GetTextHeight\",\n\t\t\"GetTextWidth\",\n\t\t\"GetTop\",\n\t\t\"GetWidth\",\n\t\t\"HasScript\",\n\t\t\"Hide\",\n\t\t\"HookScript\",\n\t\t\"IgnoreDepth\",\n\t\t\"IsClampedToScreen\",\n\t\t\"IsDragging\",\n\t\t\"IsEnabled\",\n\t\t\"IsEventRegistered\",\n\t\t\"IsForbidden\",\n\t\t\"IsIgnoringDepth\",\n\t\t\"IsIgnoringParentAlpha\",\n\t\t\"IsIgnoringParentScale\",\n\t\t\"IsJoystickEnabled\",\n\t\t\"IsKeyboardEnabled\",\n\t\t\"IsMouseClickEnabled\",\n\t\t\"IsMouseEnabled\",\n\t\t\"IsMouseMotionEnabled\",\n\t\t\"IsMouseOver\",\n\t\t\"IsMouseWheelEnabled\",\n\t\t\"IsMovable\",\n\t\t\"IsObjectLoaded\",\n\t\t\"IsObjectType\",\n\t\t\"IsProtected\",\n\t\t\"IsResizable\",\n\t\t\"IsShown\",\n\t\t\"IsToplevel\",\n\t\t\"IsUserPlaced\",\n\t\t\"IsVisible\",\n\t\t\"LockHighlight\",\n\t\t\"Lower\",\n\t\t\"Raise\",\n\t\t\"RegisterAllEvents\",\n\t\t\"RegisterEvent\",\n\t\t\"RegisterForClicks\",\n\t\t\"RegisterForDrag\",\n\t\t\"RegisterUnitEvent\",\n\t\t\"SetAllPoints\",\n\t\t\"SetAlpha\",\n\t\t\"SetAttribute\",\n\t\t\"SetBackdrop\",\n\t\t\"SetBackdropBorderColor\",\n\t\t\"SetBackdropColor\",\n\t\t\"SetButtonState\",\n\t\t\"SetClampedToScreen\",\n\t\t\"SetClampRectInsets\",\n\t\t\"SetClipsChildren\",\n\t\t\"SetDepth\",\n\t\t\"SetDisabledAtlas\",\n\t\t\"SetDisabledFontObject\",\n\t\t\"SetDisabledTexture\",\n\t\t\"SetDontSavePosition\",\n\t\t\"SetEnabled\",\n\t\t\"SetFlattensRenderLayers\",\n\t\t\"SetFontString\",\n\t\t\"SetFormattedText\",\n\t\t\"SetFrameLevel\",\n\t\t\"SetFrameStrata\",\n\t\t\"SetHeight\",\n\t\t\"SetHighlightAtlas\",\n\t\t\"SetHighlightFontObject\",\n\t\t\"SetHighlightTexture\",\n\t\t\"SetHitRectInsets\",\n\t\t\"SetHyperlinksEnabled\",\n\t\t\"SetID\",\n\t\t\"SetIgnoreParentAlpha\",\n\t\t\"SetIgnoreParentScale\",\n\t\t\"SetMaxResize\",\n\t\t\"SetMinResize\",\n\t\t\"SetMotionScriptsWhileDisabled\",\n\t\t\"SetMouseClickEnabled\",\n\t\t\"SetMouseMotionEnabled\",\n\t\t\"SetMovable\",\n\t\t\"SetNormalAtlas\",\n\t\t\"SetNormalFontObject\",\n\t\t\"SetNormalTexture\",\n\t\t\"SetParent\",\n\t\t\"SetPoint\",\n\t\t\"SetPropagateKeyboardInput\",\n\t\t\"SetPushedAtlas\",\n\t\t\"SetPushedTextOffset\",\n\t\t\"SetPushedTexture\",\n\t\t\"SetResizable\",\n\t\t\"SetScale\",\n\t\t\"SetScript\",\n\t\t\"SetShown\",\n\t\t\"SetSize\",\n\t\t\"SetText\",\n\t\t\"SetToplevel\",\n\t\t\"SetUserPlaced\",\n\t\t\"SetWidth\",\n\t\t\"Show\",\n\t\t\"StartMoving\",\n\t\t\"StartSizing\",\n\t\t\"StopAnimating\",\n\t\t\"StopMovingOrSizing\",\n\t\t\"UnlockHighlight\",\n\t\t\"UnregisterAllEvents\",\n\t\t\"UnregisterEvent\",\n\t},\n}",
+		},
+	]
+}

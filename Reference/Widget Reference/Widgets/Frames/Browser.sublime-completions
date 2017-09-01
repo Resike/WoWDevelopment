@@ -31,7 +31,7 @@
 		},
 		{
 			"trigger": "Browser:CreateFontString\t([\"name\"], [\"layer\"], [\"inherits\"])",
-			"contents": "${1:Browser}:CreateFontString(${2:[\"name\"]}, ${3:[\"layer\"]}, ${4:[\"inherits\"]})$0",
+			"contents": "${1:Browser}:CreateFontString(${2:[\"name\"]}, \"${3:[layer]}\", ${4:[\"inherits\"]})$0",
 		},
 		{
 			"trigger": "Browser:CreateLine\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",

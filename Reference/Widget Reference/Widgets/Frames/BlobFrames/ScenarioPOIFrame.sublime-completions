@@ -19,7 +19,7 @@
 		},
 		{
 			"trigger": "ScenarioPOIFrame:CreateFontString\t([\"name\"], [\"layer\"], [\"inherits\"])",
-			"contents": "${1:ScenarioPOIFrame}:CreateFontString(${2:[\"name\"]}, ${3:[\"layer\"]}, ${4:[\"inherits\"]})$0",
+			"contents": "${1:ScenarioPOIFrame}:CreateFontString(${2:[\"name\"]}, \"${3:[layer]}\", ${4:[\"inherits\"]})$0",
 		},
 		{
 			"trigger": "ScenarioPOIFrame:CreateLine\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
