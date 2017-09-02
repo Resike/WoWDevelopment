@@ -23,15 +23,15 @@
 		},
 		{
 			"trigger": "Frame:CreateLine\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
-			"contents": "${1:Frame}:CreateLine(${2:[\"name\"]}, \"${3:[layer]}\", ${4:[\"inherits\"]}, ${5:[sublevel]})$0",
+			"contents": "${1:Frame}:CreateLine(${2:[\"name\"]}, ${3:[\"layer\"]}, ${4:[\"inherits\"]}, ${5:[sublevel]})$0",
 		},
 		{
 			"trigger": "Frame:CreateMaskTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
-			"contents": "${1:Frame}:CreateMaskTexture(${2:[\"name\"]}, \"${3:[layer]}\", ${4:[\"inherits\"]}, ${5:[sublevel]})$0",
+			"contents": "${1:Frame}:CreateMaskTexture(${2:[\"name\"]}, ${3:[\"layer\"]}, ${4:[\"inherits\"]}, ${5:[sublevel]})$0",
 		},
 		{
 			"trigger": "Frame:CreateTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
-			"contents": "${1:Frame}:CreateTexture(${2:[\"name\"]}, \"${3:[layer]}\", ${4:[\"inherits\"]}, ${5:[sublevel]})$0",
+			"contents": "${1:Frame}:CreateTexture(${2:[\"name\"]}, ${3:[\"layer\"]}, ${4:[\"inherits\"]}, ${5:[sublevel]})$0",
 		},
 		{
 			"trigger": "Frame:DisableDrawLayer\t(\"layer\")",

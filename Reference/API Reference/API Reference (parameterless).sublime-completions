@@ -1206,10 +1206,6 @@
 			"contents": "BuyReagentBank($1)$0",
 		},
 		{
-			"trigger": "C_ActionBar\t(...)",
-			"contents": "C_ActionBar($1)$0",
-		},
-		{
 			"trigger": "C_ActionBar.FindFlyoutActionButtons\t(...)",
 			"contents": "C_ActionBar.FindFlyoutActionButtons($1)$0",
 		},
@@ -1258,8 +1254,8 @@
 			"contents": "C_ActionBar.ToggleAutoCastPetAction($1)$0",
 		},
 		{
-			"trigger": "C_AdventureJournal\t(...)",
-			"contents": "C_AdventureJournal($1)$0",
+			"trigger": "C_ActionBar\t(...)",
+			"contents": "C_ActionBar($1)$0",
 		},
 		{
 			"trigger": "C_AdventureJournal.ActivateEntry\t(...)",
@@ -1294,8 +1290,8 @@
 			"contents": "C_AdventureJournal.UpdateSuggestions($1)$0",
 		},
 		{
-			"trigger": "C_AdventureMap\t(...)",
-			"contents": "C_AdventureMap($1)$0",
+			"trigger": "C_AdventureJournal\t(...)",
+			"contents": "C_AdventureJournal($1)$0",
 		},
 		{
 			"trigger": "C_AdventureMap.Close\t(...)",
@@ -1346,8 +1342,8 @@
 			"contents": "C_AdventureMap.StartQuest($1)$0",
 		},
 		{
-			"trigger": "C_ArtifactUI\t(...)",
-			"contents": "C_ArtifactUI($1)$0",
+			"trigger": "C_AdventureMap\t(...)",
+			"contents": "C_AdventureMap($1)$0",
 		},
 		{
 			"trigger": "C_ArtifactUI.AddPower\t(...)",
@@ -1590,8 +1586,8 @@
 			"contents": "C_ArtifactUI.ShouldSuppressForgeRotation($1)$0",
 		},
 		{
-			"trigger": "C_BlackMarket\t(...)",
-			"contents": "C_BlackMarket($1)$0",
+			"trigger": "C_ArtifactUI\t(...)",
+			"contents": "C_ArtifactUI($1)$0",
 		},
 		{
 			"trigger": "C_BlackMarket.Close\t(...)",
@@ -1626,8 +1622,8 @@
 			"contents": "C_BlackMarket.RequestItems($1)$0",
 		},
 		{
-			"trigger": "C_Calendar\t(...)",
-			"contents": "C_Calendar($1)$0",
+			"trigger": "C_BlackMarket\t(...)",
+			"contents": "C_BlackMarket($1)$0",
 		},
 		{
 			"trigger": "C_Calendar.GetDayEvent\t(...)",
@@ -1638,8 +1634,8 @@
 			"contents": "C_Calendar.GetHolidayInfo($1)$0",
 		},
 		{
-			"trigger": "C_ChallengeMode\t(...)",
-			"contents": "C_ChallengeMode($1)$0",
+			"trigger": "C_Calendar\t(...)",
+			"contents": "C_Calendar($1)$0",
 		},
 		{
 			"trigger": "C_ChallengeMode.ClearKeystone\t(...)",
@@ -1742,24 +1738,24 @@
 			"contents": "C_ChallengeMode.StartChallengeMode($1)$0",
 		},
 		{
-			"trigger": "C_CharacterServicesPublic\t(...)",
-			"contents": "C_CharacterServicesPublic($1)$0",
+			"trigger": "C_ChallengeMode\t(...)",
+			"contents": "C_ChallengeMode($1)$0",
 		},
 		{
 			"trigger": "C_CharacterServicesPublic.ShouldSeeControlPopup\t(...)",
 			"contents": "C_CharacterServicesPublic.ShouldSeeControlPopup($1)$0",
 		},
 		{
-			"trigger": "C_ChatBubbles\t(...)",
-			"contents": "C_ChatBubbles($1)$0",
+			"trigger": "C_CharacterServicesPublic\t(...)",
+			"contents": "C_CharacterServicesPublic($1)$0",
 		},
 		{
 			"trigger": "C_ChatBubbles.GetAllChatBubbles\t(...)",
 			"contents": "C_ChatBubbles.GetAllChatBubbles($1)$0",
 		},
 		{
-			"trigger": "C_ClassTrial\t(...)",
-			"contents": "C_ClassTrial($1)$0",
+			"trigger": "C_ChatBubbles\t(...)",
+			"contents": "C_ChatBubbles($1)$0",
 		},
 		{
 			"trigger": "C_ClassTrial.GetClassTrialLogoutTimeSeconds\t(...)",
@@ -1770,8 +1766,8 @@
 			"contents": "C_ClassTrial.IsClassTrialCharacter($1)$0",
 		},
 		{
-			"trigger": "C_Commentator\t(...)",
-			"contents": "C_Commentator($1)$0",
+			"trigger": "C_ClassTrial\t(...)",
+			"contents": "C_ClassTrial($1)$0",
 		},
 		{
 			"trigger": "C_Commentator.AddPlayerOverrideName\t(...)",
@@ -2202,8 +2198,8 @@
 			"contents": "C_Commentator.ZoomOut($1)$0",
 		},
 		{
-			"trigger": "C_ContributionCollector\t(...)",
-			"contents": "C_ContributionCollector($1)$0",
+			"trigger": "C_Commentator\t(...)",
+			"contents": "C_Commentator($1)$0",
 		},
 		{
 			"trigger": "C_ContributionCollector.Close\t(...)",
@@ -2266,8 +2262,8 @@
 			"contents": "C_ContributionCollector.IsAwaitingRewardQuestData($1)$0",
 		},
 		{
-			"trigger": "C_EquipmentSet\t(...)",
-			"contents": "C_EquipmentSet($1)$0",
+			"trigger": "C_ContributionCollector\t(...)",
+			"contents": "C_ContributionCollector($1)$0",
 		},
 		{
 			"trigger": "C_EquipmentSet.AssignSpecToEquipmentSet\t(...)",
@@ -2362,8 +2358,8 @@
 			"contents": "C_EquipmentSet.UseEquipmentSet($1)$0",
 		},
 		{
-			"trigger": "C_Garrison\t(...)",
-			"contents": "C_Garrison($1)$0",
+			"trigger": "C_EquipmentSet\t(...)",
+			"contents": "C_EquipmentSet($1)$0",
 		},
 		{
 			"trigger": "C_Garrison.AddFollowerToMission\t(...)",
@@ -3154,8 +3150,8 @@
 			"contents": "C_Garrison.UpgradeGarrison($1)$0",
 		},
 		{
-			"trigger": "C_Heirloom\t(...)",
-			"contents": "C_Heirloom($1)$0",
+			"trigger": "C_Garrison\t(...)",
+			"contents": "C_Garrison($1)$0",
 		},
 		{
 			"trigger": "C_Heirloom.CanHeirloomUpgradeFromPending\t(...)",
@@ -3258,8 +3254,8 @@
 			"contents": "C_Heirloom.UpgradeHeirloom($1)$0",
 		},
 		{
-			"trigger": "C_LFGList\t(...)",
-			"contents": "C_LFGList($1)$0",
+			"trigger": "C_Heirloom\t(...)",
+			"contents": "C_Heirloom($1)$0",
 		},
 		{
 			"trigger": "C_LFGList.AcceptInvite\t(...)",
@@ -3462,8 +3458,8 @@
 			"contents": "C_LFGList.UpdateListing($1)$0",
 		},
 		{
-			"trigger": "C_LootHistory\t(...)",
-			"contents": "C_LootHistory($1)$0",
+			"trigger": "C_LFGList\t(...)",
+			"contents": "C_LFGList($1)$0",
 		},
 		{
 			"trigger": "C_LootHistory.CanMasterLoot\t(...)",
@@ -3494,8 +3490,8 @@
 			"contents": "C_LootHistory.SetExpiration($1)$0",
 		},
 		{
-			"trigger": "C_LootJournal\t(...)",
-			"contents": "C_LootJournal($1)$0",
+			"trigger": "C_LootHistory\t(...)",
+			"contents": "C_LootHistory($1)$0",
 		},
 		{
 			"trigger": "C_LootJournal.GetClassAndSpecFilters\t(...)",
@@ -3530,8 +3526,8 @@
 			"contents": "C_LootJournal.SetLegendaryInventoryTypeFilter($1)$0",
 		},
 		{
-			"trigger": "C_LossOfControl\t(...)",
-			"contents": "C_LossOfControl($1)$0",
+			"trigger": "C_LootJournal\t(...)",
+			"contents": "C_LootJournal($1)$0",
 		},
 		{
 			"trigger": "C_LossOfControl.GetEventInfo\t(...)",
@@ -3542,8 +3538,8 @@
 			"contents": "C_LossOfControl.GetNumEvents($1)$0",
 		},
 		{
-			"trigger": "C_Mail\t(...)",
-			"contents": "C_Mail($1)$0",
+			"trigger": "C_LossOfControl\t(...)",
+			"contents": "C_LossOfControl($1)$0",
 		},
 		{
 			"trigger": "C_Mail.HasInboxMoney\t(...)",
@@ -3554,8 +3550,8 @@
 			"contents": "C_Mail.IsCommandPending($1)$0",
 		},
 		{
-			"trigger": "C_MapBar\t(...)",
-			"contents": "C_MapBar($1)$0",
+			"trigger": "C_Mail\t(...)",
+			"contents": "C_Mail($1)$0",
 		},
 		{
 			"trigger": "C_MapBar.BarIsShown\t(...)",
@@ -3582,8 +3578,8 @@
 			"contents": "C_MapBar.GetTag($1)$0",
 		},
 		{
-			"trigger": "C_MapCanvas\t(...)",
-			"contents": "C_MapCanvas($1)$0",
+			"trigger": "C_MapBar\t(...)",
+			"contents": "C_MapBar($1)$0",
 		},
 		{
 			"trigger": "C_MapCanvas.FindZoneAtPosition\t(...)",
@@ -3622,16 +3618,16 @@
 			"contents": "C_MapCanvas.PreloadTextures($1)$0",
 		},
 		{
-			"trigger": "C_MerchantFrame\t(...)",
-			"contents": "C_MerchantFrame($1)$0",
+			"trigger": "C_MapCanvas\t(...)",
+			"contents": "C_MapCanvas($1)$0",
 		},
 		{
 			"trigger": "C_MerchantFrame.GetBuybackItemID\t(...)",
 			"contents": "C_MerchantFrame.GetBuybackItemID($1)$0",
 		},
 		{
-			"trigger": "C_ModelInfo\t(...)",
-			"contents": "C_ModelInfo($1)$0",
+			"trigger": "C_MerchantFrame\t(...)",
+			"contents": "C_MerchantFrame($1)$0",
 		},
 		{
 			"trigger": "C_ModelInfo.AddActiveModelScene\t(...)",
@@ -3666,8 +3662,8 @@
 			"contents": "C_ModelInfo.GetModelSceneInfoByID($1)$0",
 		},
 		{
-			"trigger": "C_MountJournal\t(...)",
-			"contents": "C_MountJournal($1)$0",
+			"trigger": "C_ModelInfo\t(...)",
+			"contents": "C_ModelInfo($1)$0",
 		},
 		{
 			"trigger": "C_MountJournal.ClearFanfare\t(...)",
@@ -3770,8 +3766,8 @@
 			"contents": "C_MountJournal.SummonByID($1)$0",
 		},
 		{
-			"trigger": "C_NamePlate\t(...)",
-			"contents": "C_NamePlate($1)$0",
+			"trigger": "C_MountJournal\t(...)",
+			"contents": "C_MountJournal($1)$0",
 		},
 		{
 			"trigger": "C_NamePlate.GetNamePlateEnemyClickThrough\t(...)",
@@ -3866,8 +3862,8 @@
 			"contents": "C_NamePlate.SetTargetClampingInsets($1)$0",
 		},
 		{
-			"trigger": "C_NewItems\t(...)",
-			"contents": "C_NewItems($1)$0",
+			"trigger": "C_NamePlate\t(...)",
+			"contents": "C_NamePlate($1)$0",
 		},
 		{
 			"trigger": "C_NewItems.ClearAll\t(...)",
@@ -3882,16 +3878,16 @@
 			"contents": "C_NewItems.RemoveNewItem($1)$0",
 		},
 		{
-			"trigger": "C_PartyInfo\t(...)",
-			"contents": "C_PartyInfo($1)$0",
+			"trigger": "C_NewItems\t(...)",
+			"contents": "C_NewItems($1)$0",
 		},
 		{
 			"trigger": "C_PartyInfo.GetInviteConfirmationInvalidQueues\t(...)",
 			"contents": "C_PartyInfo.GetInviteConfirmationInvalidQueues($1)$0",
 		},
 		{
-			"trigger": "C_PetBattles\t(...)",
-			"contents": "C_PetBattles($1)$0",
+			"trigger": "C_PartyInfo\t(...)",
+			"contents": "C_PartyInfo($1)$0",
 		},
 		{
 			"trigger": "C_PetBattles.AcceptPVPDuel\t(...)",
@@ -4118,8 +4114,8 @@
 			"contents": "C_PetBattles.UseTrap($1)$0",
 		},
 		{
-			"trigger": "C_PetJournal\t(...)",
-			"contents": "C_PetJournal($1)$0",
+			"trigger": "C_PetBattles\t(...)",
+			"contents": "C_PetBattles($1)$0",
 		},
 		{
 			"trigger": "C_PetJournal.CagePetByID\t(...)",
@@ -4346,8 +4342,8 @@
 			"contents": "C_PetJournal.SummonRandomPet($1)$0",
 		},
 		{
-			"trigger": "C_ProductChoice\t(...)",
-			"contents": "C_ProductChoice($1)$0",
+			"trigger": "C_PetJournal\t(...)",
+			"contents": "C_PetJournal($1)$0",
 		},
 		{
 			"trigger": "C_ProductChoice.GetChoices\t(...)",
@@ -4366,8 +4362,8 @@
 			"contents": "C_ProductChoice.MakeSelection($1)$0",
 		},
 		{
-			"trigger": "C_PvP\t(...)",
-			"contents": "C_PvP($1)$0",
+			"trigger": "C_ProductChoice\t(...)",
+			"contents": "C_ProductChoice($1)$0",
 		},
 		{
 			"trigger": "C_PvP.GetArenaCrowdControlInfo\t(...)",
@@ -4426,8 +4422,8 @@
 			"contents": "C_PvP.RequestCrowdControlSpell($1)$0",
 		},
 		{
-			"trigger": "C_Questline\t(...)",
-			"contents": "C_Questline($1)$0",
+			"trigger": "C_PvP\t(...)",
+			"contents": "C_PvP($1)$0",
 		},
 		{
 			"trigger": "C_Questline.GetNumAvailableQuestlines\t(...)",
@@ -4438,8 +4434,8 @@
 			"contents": "C_Questline.GetQuestlineInfoByIndex($1)$0",
 		},
 		{
-			"trigger": "C_RecruitAFriend\t(...)",
-			"contents": "C_RecruitAFriend($1)$0",
+			"trigger": "C_Questline\t(...)",
+			"contents": "C_Questline($1)$0",
 		},
 		{
 			"trigger": "C_RecruitAFriend.CheckEmailEnabled\t(...)",
@@ -4458,8 +4454,8 @@
 			"contents": "C_RecruitAFriend.SendRecruit($1)$0",
 		},
 		{
-			"trigger": "C_Reputation\t(...)",
-			"contents": "C_Reputation($1)$0",
+			"trigger": "C_RecruitAFriend\t(...)",
+			"contents": "C_RecruitAFriend($1)$0",
 		},
 		{
 			"trigger": "C_Reputation.GetFactionParagonInfo\t(...)",
@@ -4474,8 +4470,8 @@
 			"contents": "C_Reputation.RequestFactionParagonPreloadRewardData($1)$0",
 		},
 		{
-			"trigger": "C_Scenario\t(...)",
-			"contents": "C_Scenario($1)$0",
+			"trigger": "C_Reputation\t(...)",
+			"contents": "C_Reputation($1)$0",
 		},
 		{
 			"trigger": "C_Scenario.GetBonusStepRewardQuestID\t(...)",
@@ -4526,8 +4522,8 @@
 			"contents": "C_Scenario.TreatScenarioAsDungeon($1)$0",
 		},
 		{
-			"trigger": "C_Social\t(...)",
-			"contents": "C_Social($1)$0",
+			"trigger": "C_Scenario\t(...)",
+			"contents": "C_Scenario($1)$0",
 		},
 		{
 			"trigger": "C_Social.GetLastAchievement\t(...)",
@@ -4594,8 +4590,8 @@
 			"contents": "C_Social.TwitterPostScreenshot($1)$0",
 		},
 		{
-			"trigger": "C_SocialQueue\t(...)",
-			"contents": "C_SocialQueue($1)$0",
+			"trigger": "C_Social\t(...)",
+			"contents": "C_Social($1)$0",
 		},
 		{
 			"trigger": "C_SocialQueue.GetAllGroups\t(...)",
@@ -4630,8 +4626,8 @@
 			"contents": "C_SocialQueue.SignalToastDisplayed($1)$0",
 		},
 		{
-			"trigger": "C_StorePublic\t(...)",
-			"contents": "C_StorePublic($1)$0",
+			"trigger": "C_SocialQueue\t(...)",
+			"contents": "C_SocialQueue($1)$0",
 		},
 		{
 			"trigger": "C_StorePublic.IsDisabledByParentalControls\t(...)",
@@ -4642,8 +4638,8 @@
 			"contents": "C_StorePublic.IsEnabled($1)$0",
 		},
 		{
-			"trigger": "C_TalkingHead\t(...)",
-			"contents": "C_TalkingHead($1)$0",
+			"trigger": "C_StorePublic\t(...)",
+			"contents": "C_StorePublic($1)$0",
 		},
 		{
 			"trigger": "C_TalkingHead.GetConversationsDeferred\t(...)",
@@ -4670,8 +4666,8 @@
 			"contents": "C_TalkingHead.SetConversationsDeferred($1)$0",
 		},
 		{
-			"trigger": "C_TaskQuest\t(...)",
-			"contents": "C_TaskQuest($1)$0",
+			"trigger": "C_TalkingHead\t(...)",
+			"contents": "C_TalkingHead($1)$0",
 		},
 		{
 			"trigger": "C_TaskQuest.GetDistanceSqToQuest\t(...)",
@@ -4710,8 +4706,8 @@
 			"contents": "C_TaskQuest.RequestPreloadRewardData($1)$0",
 		},
 		{
-			"trigger": "C_Timer\t(...)",
-			"contents": "C_Timer($1)$0",
+			"trigger": "C_TaskQuest\t(...)",
+			"contents": "C_TaskQuest($1)$0",
 		},
 		{
 			"trigger": "C_Timer.After\t(...)",
@@ -4726,8 +4722,8 @@
 			"contents": "C_Timer.NewTimer($1)$0",
 		},
 		{
-			"trigger": "C_ToyBox\t(...)",
-			"contents": "C_ToyBox($1)$0",
+			"trigger": "C_Timer\t(...)",
+			"contents": "C_Timer($1)$0",
 		},
 		{
 			"trigger": "C_ToyBox.ForceToyRefilter\t(...)",
@@ -4814,8 +4810,8 @@
 			"contents": "C_ToyBox.SetUncollectedShown($1)$0",
 		},
 		{
-			"trigger": "C_TradeSkillUI\t(...)",
-			"contents": "C_TradeSkillUI($1)$0",
+			"trigger": "C_ToyBox\t(...)",
+			"contents": "C_ToyBox($1)$0",
 		},
 		{
 			"trigger": "C_TradeSkillUI.AnyRecipeCategoriesFiltered\t(...)",
@@ -5098,8 +5094,8 @@
 			"contents": "C_TradeSkillUI.StopRecipeRepeat($1)$0",
 		},
 		{
-			"trigger": "C_Transmog\t(...)",
-			"contents": "C_Transmog($1)$0",
+			"trigger": "C_TradeSkillUI\t(...)",
+			"contents": "C_TradeSkillUI($1)$0",
 		},
 		{
 			"trigger": "C_Transmog.ApplyAllPending\t(...)",
@@ -5162,8 +5158,8 @@
 			"contents": "C_Transmog.ValidateAllPending($1)$0",
 		},
 		{
-			"trigger": "C_TransmogCollection\t(...)",
-			"contents": "C_TransmogCollection($1)$0",
+			"trigger": "C_Transmog\t(...)",
+			"contents": "C_Transmog($1)$0",
 		},
 		{
 			"trigger": "C_TransmogCollection.CanSetFavoriteInCategory\t(...)",
@@ -5390,8 +5386,8 @@
 			"contents": "C_TransmogCollection.UpdateUsableAppearances($1)$0",
 		},
 		{
-			"trigger": "C_TransmogSets\t(...)",
-			"contents": "C_TransmogSets($1)$0",
+			"trigger": "C_TransmogCollection\t(...)",
+			"contents": "C_TransmogCollection($1)$0",
 		},
 		{
 			"trigger": "C_TransmogSets.ClearLatestSource\t(...)",
@@ -5510,8 +5506,8 @@
 			"contents": "C_TransmogSets.SetIsFavorite($1)$0",
 		},
 		{
-			"trigger": "C_Trophy\t(...)",
-			"contents": "C_Trophy($1)$0",
+			"trigger": "C_TransmogSets\t(...)",
+			"contents": "C_TransmogSets($1)$0",
 		},
 		{
 			"trigger": "C_Trophy.MonumentChangeAppearanceToTrophyID\t(...)",
@@ -5550,16 +5546,16 @@
 			"contents": "C_Trophy.MonumentSaveSelection($1)$0",
 		},
 		{
-			"trigger": "C_UI\t(...)",
-			"contents": "C_UI($1)$0",
+			"trigger": "C_Trophy\t(...)",
+			"contents": "C_Trophy($1)$0",
 		},
 		{
 			"trigger": "C_UI.Reload\t(...)",
 			"contents": "C_UI.Reload($1)$0",
 		},
 		{
-			"trigger": "C_Vignettes\t(...)",
-			"contents": "C_Vignettes($1)$0",
+			"trigger": "C_UI\t(...)",
+			"contents": "C_UI($1)$0",
 		},
 		{
 			"trigger": "C_Vignettes.GetNumVignettes\t(...)",
@@ -5574,8 +5570,8 @@
 			"contents": "C_Vignettes.GetVignetteInfoFromInstanceID($1)$0",
 		},
 		{
-			"trigger": "C_WorldMap\t(...)",
-			"contents": "C_WorldMap($1)$0",
+			"trigger": "C_Vignettes\t(...)",
+			"contents": "C_Vignettes($1)$0",
 		},
 		{
 			"trigger": "C_WorldMap.GetAreaPOITimeLeft\t(...)",
@@ -5586,8 +5582,8 @@
 			"contents": "C_WorldMap.GetMapLandmarkInfo($1)$0",
 		},
 		{
-			"trigger": "C_WowTokenPublic\t(...)",
-			"contents": "C_WowTokenPublic($1)$0",
+			"trigger": "C_WorldMap\t(...)",
+			"contents": "C_WorldMap($1)$0",
 		},
 		{
 			"trigger": "C_WowTokenPublic.BuyToken\t(...)",
@@ -5638,8 +5634,20 @@
 			"contents": "C_WowTokenPublic.UpdateTokenCount($1)$0",
 		},
 		{
+			"trigger": "C_WowTokenPublic\t(...)",
+			"contents": "C_WowTokenPublic($1)$0",
+		},
+		{
 			"trigger": "CalculateScreenshotSize\t(...)",
 			"contents": "CalculateScreenshotSize($1)$0",
+		},
+		{
+			"trigger": "CalculateStringEditDistance\t(...)",
+			"contents": "CalculateStringEditDistance",
+		},
+		{
+			"trigger": "CalculateStringEditDistance\t(...)",
+			"contents": "CalculateStringEditDistance",
 		},
 		{
 			"trigger": "CalculateTotalNumberOfFreeBagSlots\t(...)",
@@ -7738,12 +7746,12 @@
 			"contents": "ChatFrame_RemovePrivateMessageTarget($1)$0",
 		},
 		{
-			"trigger": "ChatFrame_ReplyTell\t(...)",
-			"contents": "ChatFrame_ReplyTell($1)$0",
-		},
-		{
 			"trigger": "ChatFrame_ReplyTell2\t(...)",
 			"contents": "ChatFrame_ReplyTell2($1)$0",
+		},
+		{
+			"trigger": "ChatFrame_ReplyTell\t(...)",
+			"contents": "ChatFrame_ReplyTell($1)$0",
 		},
 		{
 			"trigger": "ChatFrame_ScrollDown\t(...)",
@@ -9186,6 +9194,14 @@
 			"contents": "ComputePetBonus($1)$0",
 		},
 		{
+			"trigger": "ConfirmNoRefundOnUse\t(...)",
+			"contents": "ConfirmNoRefundOnUse",
+		},
+		{
+			"trigger": "ConfirmNoRefundOnUse\t(...)",
+			"contents": "ConfirmNoRefundOnUse",
+		},
+		{
 			"trigger": "ConfirmOnUse\t(...)",
 			"contents": "ConfirmOnUse($1)$0",
 		},
@@ -9386,6 +9402,10 @@
 			"contents": "ControlSetValue($1)$0",
 		},
 		{
+			"trigger": "ConvertPixelsToUI\t(...)",
+			"contents": "ConvertPixelsToUI",
+		},
+		{
 			"trigger": "ConvertRGBtoColorString\t(...)",
 			"contents": "ConvertRGBtoColorString($1)$0",
 		},
@@ -9400,6 +9420,10 @@
 		{
 			"trigger": "CopyTable\t(...)",
 			"contents": "CopyTable($1)$0",
+		},
+		{
+			"trigger": "CopyToClipboard\t(...)",
+			"contents": "CopyToClipboard",
 		},
 		{
 			"trigger": "CounterBar_GetDigit\t(...)",
@@ -9492,6 +9516,10 @@
 		{
 			"trigger": "CreateObjectPool\t(...)",
 			"contents": "CreateObjectPool($1)$0",
+		},
+		{
+			"trigger": "CreatePoolCollection\t(...)",
+			"contents": "CreatePoolCollection",
 		},
 		{
 			"trigger": "CreateRectangle\t(...)",
@@ -9754,6 +9782,10 @@
 			"contents": "DisplayChannelOwner($1)$0",
 		},
 		{
+			"trigger": "DisplayTableInspectorWindow\t(...)",
+			"contents": "DisplayTableInspectorWindow",
+		},
+		{
 			"trigger": "DoesFollowerMatchCurrentGarrisonType\t(...)",
 			"contents": "DoesFollowerMatchCurrentGarrisonType($1)$0",
 		},
@@ -9864,6 +9896,14 @@
 		{
 			"trigger": "DurationDropDown_OnShow\t(...)",
 			"contents": "DurationDropDown_OnShow($1)$0",
+		},
+		{
+			"trigger": "FrameStackTooltip_OnHide\t(...)",
+			"contents": "FrameStackTooltip_OnHide",
+		},
+		{
+			"trigger": "FrameStackTooltip_OnTooltipCleared\t(...)",
+			"contents": "FrameStackTooltip_OnTooltipCleared",
 		},
 		{
 			"trigger": "GameLimitedMode_IsActive\t(...)",
@@ -12526,6 +12566,10 @@
 			"contents": "GetLifesteal($1)$0",
 		},
 		{
+			"trigger": "GetLocalGameTime\t(...)",
+			"contents": "GetLocalGameTime",
+		},
+		{
 			"trigger": "GetLookingForGuildComment\t(...)",
 			"contents": "GetLookingForGuildComment($1)$0",
 		},
@@ -13464,6 +13508,10 @@
 		{
 			"trigger": "GetTickTime\t(...)",
 			"contents": "GetTickTime($1)$0",
+		},
+		{
+			"trigger": "GetTimePreciseSec\t(...)",
+			"contents": "GetTimePreciseSec",
 		},
 		{
 			"trigger": "GetTimeStringFromSeconds\t(...)",
@@ -14958,10 +15006,6 @@
 			"contents": "HelpFrame_SetReportPlayerByUnitTag($1)$0",
 		},
 		{
-			"trigger": "HelpFrame_SetReportPlayerNameSelection\t(...)",
-			"contents": "HelpFrame_SetReportPlayerNameSelection($1)$0",
-		},
-		{
 			"trigger": "HelpFrame_SetSelectedButton\t(...)",
 			"contents": "HelpFrame_SetSelectedButton($1)$0",
 		},
@@ -14978,16 +15022,8 @@
 			"contents": "HelpFrame_ShowReportCheatingDialog($1)$0",
 		},
 		{
-			"trigger": "HelpFrame_ShowReportPlayerNameDialog\t(...)",
-			"contents": "HelpFrame_ShowReportPlayerNameDialog($1)$0",
-		},
-		{
 			"trigger": "HelpFrame_UpdateQuickTicketSystemStatus\t(...)",
 			"contents": "HelpFrame_UpdateQuickTicketSystemStatus($1)$0",
-		},
-		{
-			"trigger": "HelpFrame_UpdateReportPlayerNameDialog\t(...)",
-			"contents": "HelpFrame_UpdateReportPlayerNameDialog($1)$0",
 		},
 		{
 			"trigger": "HelpFrame_UpdateSubsystemStatus\t(...)",
@@ -16266,6 +16302,10 @@
 			"contents": "IsInGuildGroup($1)$0",
 		},
 		{
+			"trigger": "IsInLFDBattlefield\t(...)",
+			"contents": "IsInLFDBattlefield",
+		},
+		{
 			"trigger": "IsInLFGDungeon\t(...)",
 			"contents": "IsInLFGDungeon($1)$0",
 		},
@@ -16712,6 +16752,14 @@
 		{
 			"trigger": "ItemUpgradeFrame_UpgradeClick\t(...)",
 			"contents": "ItemUpgradeFrame_UpgradeClick($1)$0",
+		},
+		{
+			"trigger": "LeaveInstanceParty\t(...)",
+			"contents": "LeaveInstanceParty",
+		},
+		{
+			"trigger": "LFDFrame_OnHide\t(...)",
+			"contents": "LFDFrame_OnHide",
 		},
 		{
 			"trigger": "MacKeyboardOptionsFrame_OnLoad\t(...)",
@@ -17646,6 +17694,14 @@
 			"contents": "MountJournal_Select($1)$0",
 		},
 		{
+			"trigger": "MountJournal_SelectByMountID\t(...)",
+			"contents": "MountJournal_SelectByMountID",
+		},
+		{
+			"trigger": "MountJournal_SetSelected\t(...)",
+			"contents": "MountJournal_SetSelected",
+		},
+		{
 			"trigger": "MountJournal_ShowMountDropdown\t(...)",
 			"contents": "MountJournal_ShowMountDropdown($1)$0",
 		},
@@ -18138,6 +18194,14 @@
 			"contents": "NeutralPlayerSelectFaction($1)$0",
 		},
 		{
+			"trigger": "NewMountAlertFrame_SetUp\t(...)",
+			"contents": "NewMountAlertFrame_SetUp",
+		},
+		{
+			"trigger": "NewPetAlertFrame_SetUp\t(...)",
+			"contents": "NewPetAlertFrame_SetUp",
+		},
+		{
 			"trigger": "NewRecipeLearnedAlertFrame_GetStarTextureFromRank\t(...)",
 			"contents": "NewRecipeLearnedAlertFrame_GetStarTextureFromRank($1)$0",
 		},
@@ -18326,8 +18390,16 @@
 			"contents": "OnGearManagerDialogPopupButtonCreated($1)$0",
 		},
 		{
+			"trigger": "OnMaximize\t(...)",
+			"contents": "OnMaximize",
+		},
+		{
 			"trigger": "OnMenuLoad\t(...)",
 			"contents": "OnMenuLoad($1)$0",
+		},
+		{
+			"trigger": "OnMinimize\t(...)",
+			"contents": "OnMinimize",
 		},
 		{
 			"trigger": "OnPooledAlertFrameQueueHide\t(...)",
@@ -19690,6 +19762,46 @@
 			"contents": "PetJournalSummonButton_OnEnter($1)$0",
 		},
 		{
+			"trigger": "PetJournalSummonRandomFavoritePetButton_OnClick\t(...)",
+			"contents": "PetJournalSummonRandomFavoritePetButton_OnClick",
+		},
+		{
+			"trigger": "PetJournalSummonRandomFavoritePetButton_OnDragStart\t(...)",
+			"contents": "PetJournalSummonRandomFavoritePetButton_OnDragStart",
+		},
+		{
+			"trigger": "PetJournalSummonRandomFavoritePetButton_OnEnter\t(...)",
+			"contents": "PetJournalSummonRandomFavoritePetButton_OnEnter",
+		},
+		{
+			"trigger": "PetJournalSummonRandomFavoritePetButton_OnEvent\t(...)",
+			"contents": "PetJournalSummonRandomFavoritePetButton_OnEvent",
+		},
+		{
+			"trigger": "PetJournalSummonRandomFavoritePetButton_OnHide\t(...)",
+			"contents": "PetJournalSummonRandomFavoritePetButton_OnHide",
+		},
+		{
+			"trigger": "PetJournalSummonRandomFavoritePetButton_OnLeave\t(...)",
+			"contents": "PetJournalSummonRandomFavoritePetButton_OnLeave",
+		},
+		{
+			"trigger": "PetJournalSummonRandomFavoritePetButton_OnLoad\t(...)",
+			"contents": "PetJournalSummonRandomFavoritePetButton_OnLoad",
+		},
+		{
+			"trigger": "PetJournalSummonRandomFavoritePetButton_OnShow\t(...)",
+			"contents": "PetJournalSummonRandomFavoritePetButton_OnShow",
+		},
+		{
+			"trigger": "PetJournalSummonRandomFavoritePetButton_UpdateCooldown\t(...)",
+			"contents": "PetJournalSummonRandomFavoritePetButton_UpdateCooldown",
+		},
+		{
+			"trigger": "PetJournalSummonRandomFavoritePetButton_UpdateSpellUsability\t(...)",
+			"contents": "PetJournalSummonRandomFavoritePetButton_UpdateSpellUsability",
+		},
+		{
 			"trigger": "PetJournalUtil_GetDisplayName\t(...)",
 			"contents": "PetJournalUtil_GetDisplayName($1)$0",
 		},
@@ -20300,10 +20412,6 @@
 		{
 			"trigger": "PlayerTitleButton_OnClick\t(...)",
 			"contents": "PlayerTitleButton_OnClick($1)$0",
-		},
-		{
-			"trigger": "PlaySoundKitID\t(...)",
-			"contents": "PlaySoundKitID($1)$0",
 		},
 		{
 			"trigger": "PlayVocalErrorSoundID\t(...)",
@@ -23214,6 +23322,10 @@
 			"contents": "SetClampedTextureRotation($1)$0",
 		},
 		{
+			"trigger": "SetCollectionsJournalShown\t(...)",
+			"contents": "SetCollectionsJournalShown",
+		},
+		{
 			"trigger": "SetConsoleKey\t(...)",
 			"contents": "SetConsoleKey($1)$0",
 		},
@@ -25022,6 +25134,54 @@
 			"contents": "TabardFrame_UpdateTextures($1)$0",
 		},
 		{
+			"trigger": "TableAttributeDisplayDuplicateButton_OnClick\t(...)",
+			"contents": "TableAttributeDisplayDuplicateButton_OnClick",
+		},
+		{
+			"trigger": "TableAttributeDisplayDynamicUpdateButton_OnClick\t(...)",
+			"contents": "TableAttributeDisplayDynamicUpdateButton_OnClick",
+		},
+		{
+			"trigger": "TableAttributeDisplayEditBox_OnEditFocusGained\t(...)",
+			"contents": "TableAttributeDisplayEditBox_OnEditFocusGained",
+		},
+		{
+			"trigger": "TableAttributeDisplayEditBox_OnEnterPressed\t(...)",
+			"contents": "TableAttributeDisplayEditBox_OnEnterPressed",
+		},
+		{
+			"trigger": "TableAttributeDisplayHighlightButton_OnClick\t(...)",
+			"contents": "TableAttributeDisplayHighlightButton_OnClick",
+		},
+		{
+			"trigger": "TableAttributeDisplayNavigateBackwardButton_OnClick\t(...)",
+			"contents": "TableAttributeDisplayNavigateBackwardButton_OnClick",
+		},
+		{
+			"trigger": "TableAttributeDisplayNavigateForwardButton_OnClick\t(...)",
+			"contents": "TableAttributeDisplayNavigateForwardButton_OnClick",
+		},
+		{
+			"trigger": "TableAttributeDisplayParentButton_OnClick\t(...)",
+			"contents": "TableAttributeDisplayParentButton_OnClick",
+		},
+		{
+			"trigger": "TableAttributeDisplayValueButton_OnMouseDown\t(...)",
+			"contents": "TableAttributeDisplayValueButton_OnMouseDown",
+		},
+		{
+			"trigger": "TableAttributeDisplayVisibilityButton_OnClick\t(...)",
+			"contents": "TableAttributeDisplayVisibilityButton_OnClick",
+		},
+		{
+			"trigger": "TableInspectorFilterBox_OnEnterPressed\t(...)",
+			"contents": "TableInspectorFilterBox_OnEnterPressed",
+		},
+		{
+			"trigger": "TableInspectorFilterBox_OnTextChanged\t(...)",
+			"contents": "TableInspectorFilterBox_OnTextChanged",
+		},
+		{
 			"trigger": "TalentFrame_Clear\t(...)",
 			"contents": "TalentFrame_Clear($1)$0",
 		},
@@ -26168,6 +26328,14 @@
 		{
 			"trigger": "TruncatedButton_OnLeave\t(...)",
 			"contents": "TruncatedButton_OnLeave($1)$0",
+		},
+		{
+			"trigger": "TruncatedTooltipScript_OnEnter\t(...)",
+			"contents": "TruncatedTooltipScript_OnEnter",
+		},
+		{
+			"trigger": "TruncatedTooltipScript_OnLeave\t(...)",
+			"contents": "TruncatedTooltipScript_OnLeave",
 		},
 		{
 			"trigger": "TurnLeftStart\t(...)",
@@ -27656,6 +27824,54 @@
 		{
 			"trigger": "VoidStorageItemButton_OnLoad\t(...)",
 			"contents": "VoidStorageItemButton_OnLoad($1)$0",
+		},
+		{
+			"trigger": "WardrobeTransmogFrame_OnTransmogApplied\t(...)",
+			"contents": "WardrobeTransmogFrame_OnTransmogApplied",
+		},
+		{
+			"trigger": "WorldMap_DoesCurrentMapHideMapIcons\t(...)",
+			"contents": "WorldMap_DoesCurrentMapHideMapIcons",
+		},
+		{
+			"trigger": "WorldMapFrame_IsArgusContinentMap\t(...)",
+			"contents": "WorldMapFrame_IsArgusContinentMap",
+		},
+		{
+			"trigger": "WorldMapFrame_IsBrokenIslesContinentMap\t(...)",
+			"contents": "WorldMapFrame_IsBrokenIslesContinentMap",
+		},
+		{
+			"trigger": "WorldMapFrame_IsCosmicMap\t(...)",
+			"contents": "WorldMapFrame_IsCosmicMap",
+		},
+		{
+			"trigger": "WorldMapFrame_IsMaelstromContinentMap\t(...)",
+			"contents": "WorldMapFrame_IsMaelstromContinentMap",
+		},
+		{
+			"trigger": "WorldMapFrame_IsVindicaarTextureKit\t(...)",
+			"contents": "WorldMapFrame_IsVindicaarTextureKit",
+		},
+		{
+			"trigger": "WorldMapFrame_MaximizeMinimizeFrame_OnLoad\t(...)",
+			"contents": "WorldMapFrame_MaximizeMinimizeFrame_OnLoad",
+		},
+		{
+			"trigger": "WorldMapFrame_SyncMaximizeMinimizeButton\t(...)",
+			"contents": "WorldMapFrame_SyncMaximizeMinimizeButton",
+		},
+		{
+			"trigger": "WorldMapFrame_UpdateCosmicButtons\t(...)",
+			"contents": "WorldMapFrame_UpdateCosmicButtons",
+		},
+		{
+			"trigger": "WorldMapPing_StartPingPOI\t(...)",
+			"contents": "WorldMapPing_StartPingPOI",
+		},
+		{
+			"trigger": "WorldMapPOI_AddPOITimeLeftText\t(...)",
+			"contents": "WorldMapPOI_AddPOITimeLeftText",
 		},
 	]
 }
