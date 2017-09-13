@@ -1,0 +1,13 @@
+{
+	"scope": "source.lua - string",
+	"completions": [
+		{
+			"trigger": "C_ActionBar.FindFlyoutActionButtons\t(flyoutID)",
+			"contents": "C_ActionBar.FindFlyoutActionButtons(${1:flyoutID})$0",
+		},
+		{
+			"trigger": "C_ActionBar.FindPetActionButtons\t(petAction)",
+			"contents": "C_ActionBar.FindPetActionButtons(${1:petAction})$0",
+		},
+	]
+}

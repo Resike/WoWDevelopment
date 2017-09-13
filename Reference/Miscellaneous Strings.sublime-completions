@@ -372,5 +372,14 @@
 			"trigger": "TOOLTIP\t\"strata\"",
 			"contents": "TOOLTIP",
 		},
+
+		{
+			"trigger": "VERTICAL\t\"orientation\"",
+			"contents": "VERTICAL",
+		},
+		{
+			"trigger": "HORIZONTAL\t\"orientation\"",
+			"contents": "HORIZONTAL",
+		},
 	]
 }

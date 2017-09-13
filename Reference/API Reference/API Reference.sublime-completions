@@ -74,44 +74,12 @@
 			"contents": "AcknowledgeAutoAcceptQuest()$0",
 		},
 		{
-			"trigger": "AcknowledgeSurvey\t(caseIndex)",
-			"contents": "AcknowledgeSurvey(${1:caseIndex})$0",
-		},
-		{
 			"trigger": "ActionBarBusy\t()",
 			"contents": "ActionBarBusy()$0",
 		},
 		{
-			"trigger": "ActionBindsItem\t()",
-			"contents": "ActionBindsItem()$0",
-		},
-		{
-			"trigger": "ActionButtonDown\t(id)",
-			"contents": "ActionButtonDown(${1:id})$0",
-		},
-		{
-			"trigger": "ActionButtonUp\t(id)",
-			"contents": "ActionButtonUp(${1:id})$0",
-		},
-		{
 			"trigger": "ActionHasRange\t(slot)",
 			"contents": "ActionHasRange(${1:slot})$0",
-		},
-		{
-			"trigger": "ActionStatus_DisplayMessage\t(\"text\", ignoreNewbieTooltipSetting)",
-			"contents": "ActionStatus_DisplayMessage(\"${1:text}\", ${1:ignoreNewbieTooltipSetting})$0",
-		},
-		{
-			"trigger": "AddAutoQuestPopUp\t(questID, \"type\")",
-			"contents": "AddAutoQuestPopUp(${1:questID}, \"${2:type}\")$0",
-		},
-		{
-			"trigger": "AddChatWindowChannel\t(index, channel)",
-			"contents": "AddChatWindowChannel(${1:index}, ${2:channel})$0",
-		},
-		{
-			"trigger": "AddChatWindowMessages\t(index, \"messageGroup\")",
-			"contents": "AddChatWindowMessages(${1:index}, \"${2:messageGroup}\")$0",
 		},
 		{
 			"trigger": "AddFrameLock\t(\"name\")",
@@ -160,10 +128,6 @@
 		{
 			"trigger": "AnimateTexCoords\t(texture, textureWidth, textureHeight, frameWidth, frameHeight, numFrames, elapsed, throttle)",
 			"contents": "AnimateTexCoords(${1:texture}, ${2:textureWidth}, ${3:textureHeight}, ${4:frameWidth}, ${5:frameHeight}, ${6:numFrames}, ${7:elapsed}, ${8:throttle})$0",
-		},
-		{
-			"trigger": "AntiAliasingSupported\t()",
-			"contents": "AntiAliasingSupported()$0",
 		},
 		{
 			"trigger": "ApplyBarberShopStyle\t()",
@@ -222,16 +186,8 @@
 			"contents": "AreVector3DEqual(${1:left}, ${2:right})$0",
 		},
 		{
-			"trigger": "AscendStop\t()",
-			"contents": "AscendStop()$0",
-		},
-		{
 			"trigger": "AssistUnit\t(\"unit\")",
 			"contents": "AssistUnit(\"${1:unit}\")$0",
-		},
-		{
-			"trigger": "AttachGlyphToSpell\t(spellID)",
-			"contents": "AttachGlyphToSpell(${1:spellID})$0",
 		},
 		{
 			"trigger": "AttackTarget\t()",
@@ -5046,94 +5002,6 @@
 			"contents": "JumpOrAscendStart()$0",
 		},
 		{
-			"trigger": "KBArticle_BeginLoading\t(articleID, searchType)",
-			"contents": "KBArticle_BeginLoading(${1:articleID}, ${2:searchType})$0",
-		},
-		{
-			"trigger": "KBArticle_GetData\t()",
-			"contents": "KBArticle_GetData()$0",
-		},
-		{
-			"trigger": "KBArticle_IsLoaded\t()",
-			"contents": "KBArticle_IsLoaded()$0",
-		},
-		{
-			"trigger": "KBQuery_BeginLoading\t(\"searchText\", categoryIndex, subcategoryIndex, numArticles, page)",
-			"contents": "KBQuery_BeginLoading(\"${1:searchText}\", ${2:categoryIndex}, ${3:subcategoryIndex}, ${4:numArticles}, ${5:page})$0",
-		},
-		{
-			"trigger": "KBQuery_GetArticleHeaderCount\t()",
-			"contents": "KBQuery_GetArticleHeaderCount()$0",
-		},
-		{
-			"trigger": "KBQuery_GetArticleHeaderData\t(index)",
-			"contents": "KBQuery_GetArticleHeaderData(${1:index})$0",
-		},
-		{
-			"trigger": "KBQuery_GetTotalArticleCount\t()",
-			"contents": "KBQuery_GetTotalArticleCount()$0",
-		},
-		{
-			"trigger": "KBQuery_IsLoaded\t()",
-			"contents": "KBQuery_IsLoaded()$0",
-		},
-		{
-			"trigger": "KBSetup_BeginLoading\t(numArticles, currentPage)",
-			"contents": "KBSetup_BeginLoading(${1:numArticles}, ${2:currentPage})$0",
-		},
-		{
-			"trigger": "KBSetup_GetArticleHeaderCount\t()",
-			"contents": "KBSetup_GetArticleHeaderCount()$0",
-		},
-		{
-			"trigger": "KBSetup_GetArticleHeaderData\t(index)",
-			"contents": "KBSetup_GetArticleHeaderData(${1:index})$0",
-		},
-		{
-			"trigger": "KBSetup_GetCategoryCount\t()",
-			"contents": "KBSetup_GetCategoryCount()$0",
-		},
-		{
-			"trigger": "KBSetup_GetCategoryData\t(index)",
-			"contents": "KBSetup_GetCategoryData(${1:index})$0",
-		},
-		{
-			"trigger": "KBSetup_GetLanguageCount\t()",
-			"contents": "KBSetup_GetLanguageCount()$0",
-		},
-		{
-			"trigger": "KBSetup_GetLanguageData\t(index)",
-			"contents": "KBSetup_GetLanguageData(${1:index})$0",
-		},
-		{
-			"trigger": "KBSetup_GetSubCategoryCount\t(index)",
-			"contents": "KBSetup_GetSubCategoryCount(${1:index})$0",
-		},
-		{
-			"trigger": "KBSetup_GetSubCategoryData\t(index, subindex)",
-			"contents": "KBSetup_GetSubCategoryData(${1:index}, ${2:subindex})$0",
-		},
-		{
-			"trigger": "KBSetup_GetTotalArticleCount\t()",
-			"contents": "KBSetup_GetTotalArticleCount()$0",
-		},
-		{
-			"trigger": "KBSetup_IsLoaded\t()",
-			"contents": "KBSetup_IsLoaded()$0",
-		},
-		{
-			"trigger": "KBSystem_GetMOTD\t()",
-			"contents": "KBSystem_GetMOTD()$0",
-		},
-		{
-			"trigger": "KBSystem_GetServerNotice\t()",
-			"contents": "KBSystem_GetServerNotice()$0",
-		},
-		{
-			"trigger": "KBSystem_GetServerStatus\t()",
-			"contents": "KBSystem_GetServerStatus()$0",
-		},
-		{
 			"trigger": "LearnTalent\t(tabIndex, talentIndex, isPet, talentGroup)",
 			"contents": "LearnTalent(${1:tabIndex}, ${2:talentIndex}, ${3:isPet}, ${4:talentGroup})$0",
 		},
@@ -5174,48 +5042,8 @@
 			"contents": "Lerp(${1:startValue}, ${2:endValue}, ${3:interval})$0",
 		},
 		{
-			"trigger": "LFDCheckRolesRestricted\t(dungeonID, tank, healer, dps)",
-			"contents": "LFDCheckRolesRestricted(${1:dungeonID}, ${2:tank}, ${3:healer}, ${4:dps})$0",
-		},
-		{
-			"trigger": "LFDGetNumDungeons\t()",
-			"contents": "LFDGetNumDungeons()$0",
-		},
-		{
-			"trigger": "LFGConstructDeclinedMessage\t(dungeonID)",
-			"contents": "LFGConstructDeclinedMessage(${1:dungeonID})$0",
-		},
-		{
-			"trigger": "LFGDebug\t(\"text\", ...)",
-			"contents": "LFGDebug(\"${1:text}\", ${2:...})$0",
-		},
-		{
-			"trigger": "LFGIsIDHeader\t(id)",
-			"contents": "LFGIsIDHeader(${1:id})$0",
-		},
-		{
-			"trigger": "LFGListFilterChoices\t(list, filterFunc, filterMaxLevelDiff)",
-			"contents": "LFGListFilterChoices(${1:list}, ${2:filterFunc}, ${3:filterMaxLevelDiff})$0",
-		},
-		{
-			"trigger": "LFGListRemoveCollapsedChildren\t(list, hiddenByCollapseList)",
-			"contents": "LFGListRemoveCollapsedChildren(${1:list}, ${2:hiddenByCollapseList})$0",
-		},
-		{
-			"trigger": "LFGListRemoveHeadersWithoutChildren\t(list)",
-			"contents": "LFGListRemoveHeadersWithoutChildren(${1:list})$0",
-		},
-		{
-			"trigger": "LFGListUpdateHeaderEnabledAndLockedStates\t(...)",
-			"contents": "LFGListUpdateHeaderEnabledAndLockedStates($1)$0",
-		},
-		{
 			"trigger": "LFGTeleport\t(portOut)",
 			"contents": "LFGTeleport(${1:portOut})$0",
-		},
-		{
-			"trigger": "LFRGetNumDungeons\t()",
-			"contents": "LFRGetNumDungeons()$0",
 		},
 		{
 			"trigger": "ListChannelByName\t(\"channel\")",
@@ -5238,52 +5066,8 @@
 			"contents": "LoadAddOn(\"${1:name}\")$0",
 		},
 		{
-			"trigger": "LoadBindings\t(set)",
-			"contents": "LoadBindings(${1:set})$0",
-		},
-		{
-			"trigger": "LoadMicroButtonTextures\t(frame, \"name\")",
-			"contents": "LoadMicroButtonTextures(${1:frame}, \"${2:name}\")$0",
-		},
-		{
-			"trigger": "LoadURLIndex\t(index)",
-			"contents": "LoadURLIndex(${1:index})$0",
-		},
-		{
-			"trigger": "Localize\t()",
-			"contents": "Localize()$0",
-		},
-		{
-			"trigger": "LocalizeFrames\t()",
-			"contents": "LocalizeFrames()$0",
-		},
-		{
-			"trigger": "LocalizePost\t()",
-			"contents": "LocalizePost()$0",
-		},
-		{
-			"trigger": "LockMultiCastActionBar\t()",
-			"contents": "LockMultiCastActionBar()$0",
-		},
-		{
-			"trigger": "LockPetActionBar\t()",
-			"contents": "LockPetActionBar()$0",
-		},
-		{
-			"trigger": "LoggingChat\t(toggle)",
-			"contents": "LoggingChat(${1:toggle})$0",
-		},
-		{
-			"trigger": "LoggingCombat\t(toggle)",
-			"contents": "LoggingCombat(${1:toggle})$0",
-		},
-		{
 			"trigger": "Logout\t()",
 			"contents": "Logout()$0",
-		},
-		{
-			"trigger": "LootMoneyNotify\t(amount, shared)",
-			"contents": "LootMoneyNotify(${1:amount}, ${2:[shared]})$0",
 		},
 		{
 			"trigger": "LootSlot\t(slot)",
@@ -5296,10 +5080,6 @@
 		{
 			"trigger": "LowerFrameLevel\t(frame)",
 			"contents": "LowerFrameLevel(${1:frame})$0",
-		},
-		{
-			"trigger": "ModifyEquipmentSet\t(\"oldSetName\", \"newSetName\", [icon])",
-			"contents": "ModifyEquipmentSet(\"${1:oldSetName}\", \"${2:newSetName}\", ${3:[icon]})$0",
 		},
 		{
 			"trigger": "MouselookStart\t()",
@@ -7115,10 +6895,6 @@
 		{
 			"trigger": "_ActionHasRange\t(slot)",
 			"contents": "${1:hasRange} = ActionHasRange(${2:slot})$0",
-		},
-		{
-			"trigger": "_AddChatWindowChannel\t(index, channel)",
-			"contents": "${1:zoneChannel} = AddChatWindowChannel(${2:index}, ${3:channel})$0",
 		},
 		{
 			"trigger": "_Ambiguate\t(\"fullName\", \"context\")",
@@ -10885,104 +10661,8 @@
 			"contents": "${1:zoneChannel}, ${2:channelName} = JoinPermanentChannel(\"${3:name}\", ${4:[\"password\"]}, ${5:[chatFrameIndex]}, ${6:[enableVoice]})$0",
 		},
 		{
-			"trigger": "_KBArticle_GetData\t()",
-			"contents": "${1:id}, ${2:subject}, ${3:subjectAlt}, ${4:text}, ${5:keywords}, ${6:languageId}, ${7:isHot} = KBArticle_GetData()$0",
-		},
-		{
-			"trigger": "_KBArticle_IsLoaded\t()",
-			"contents": "${1:isLoaded} = KBArticle_IsLoaded()$0",
-		},
-		{
-			"trigger": "_KBQuery_GetArticleHeaderCount\t()",
-			"contents": "${1:articleHeaderCount} = KBQuery_GetArticleHeaderCount()$0",
-		},
-		{
-			"trigger": "_KBQuery_GetArticleHeaderData\t(index)",
-			"contents": "${1:articleId}, ${2:title}, ${3:isHotIssue}, ${4:isRecentlyUpdated} = KBQuery_GetArticleHeaderData(${5:index})$0",
-		},
-		{
-			"trigger": "_KBQuery_GetTotalArticleCount\t()",
-			"contents": "${1:totalArticleHeaderCount} = KBQuery_GetTotalArticleCount()$0",
-		},
-		{
-			"trigger": "_KBQuery_IsLoaded\t()",
-			"contents": "${1:isLoaded} = KBQuery_IsLoaded()$0",
-		},
-		{
-			"trigger": "_KBSetup_GetArticleHeaderCount\t()",
-			"contents": "${1:articleHeaderCount} = KBSetup_GetArticleHeaderCount()$0",
-		},
-		{
-			"trigger": "_KBSetup_GetArticleHeaderData\t(index)",
-			"contents": "${1:articleId}, ${2:title}, ${3:isHotIssue}, ${4:isRecentlyUpdated} = KBSetup_GetArticleHeaderData(${5:index})$0",
-		},
-		{
-			"trigger": "_KBSetup_GetCategoryCount\t()",
-			"contents": "${1:numCategories} = KBSetup_GetCategoryCount()$0",
-		},
-		{
-			"trigger": "_KBSetup_GetCategoryData\t(index)",
-			"contents": "${1:categoryId}, ${2:name} = KBSetup_GetCategoryData(${3:index})$0",
-		},
-		{
-			"trigger": "_KBSetup_GetLanguageCount\t()",
-			"contents": "${1:numLanguages} = KBSetup_GetLanguageCount()$0",
-		},
-		{
-			"trigger": "_KBSetup_GetLanguageData\t(index)",
-			"contents": "${1:languageId}, ${2:name} = KBSetup_GetLanguageData(${3:index})$0",
-		},
-		{
-			"trigger": "_KBSetup_GetSubCategoryCount\t(index)",
-			"contents": "${1:numSubCategories} = KBSetup_GetSubCategoryCount(${2:index})$0",
-		},
-		{
-			"trigger": "_KBSetup_GetSubCategoryData\t(index, subindex)",
-			"contents": "${1:categoryId}, ${2:name} = KBSetup_GetSubCategoryData(${3:index}, ${4:subindex})$0",
-		},
-		{
-			"trigger": "_KBSetup_GetTotalArticleCount\t()",
-			"contents": "${1:numArticles} = KBSetup_GetTotalArticleCount()$0",
-		},
-		{
-			"trigger": "_KBSetup_IsLoaded\t()",
-			"contents": "${1:isLoaded} = KBSetup_IsLoaded()$0",
-		},
-		{
-			"trigger": "_KBSystem_GetMOTD\t()",
-			"contents": "${1:text} = KBSystem_GetMOTD()$0",
-		},
-		{
-			"trigger": "_KBSystem_GetServerNotice\t()",
-			"contents": "${1:text} = KBSystem_GetServerNotice()$0",
-		},
-		{
-			"trigger": "_KBSystem_GetServerStatus\t()",
-			"contents": "${1:statusMessage} = KBSystem_GetServerStatus()$0",
-		},
-		{
 			"trigger": "_Lerp\t(startValue, endValue, interval)",
 			"contents": "${1:result} = Lerp(${2:startValue}, ${3:endValue}, ${4:interval})$0",
-		},
-		{
-			"trigger": "_LFDCheckRolesRestricted\t(dungeonID, tank, healer, dps)",
-			"contents": "${1:isRestricted} = LFDCheckRolesRestricted(${1:dungeonID}, ${2:tank}, ${3:healer}, ${4:dps})$0",
-		},
-		{
-			"trigger": "_LFDGetNumDungeons\t()",
-			"contents": "${1:numDungeons} = LFDGetNumDungeons()$0",
-		},
-		{
-			"trigger": "_LFGConstructDeclinedMessage\t(dungeonID)",
-			"contents": "${1:returnVal} = LFGConstructDeclinedMessage(${2:dungeonID})$0",
-		},
-		{
-			"trigger": "_LFGIsIDHeader\t(id)",
-			"contents": "${1:result} = LFGIsIDHeader(${2:id})$0",
-		},
-		{
-			"trigger": "_LFRGetNumDungeons\t()",
-			"contents": "${1:numDungeons} = LFRGetNumDungeons()$0",
 		},
 		{
 			"trigger": "_LoadAddOn\t(index)",
@@ -10991,14 +10671,6 @@
 		{
 			"trigger": "_LoadAddOn\t(\"name\")",
 			"contents": "${1:loaded}, ${2:reason} = LoadAddOn(\"${3:name}\")$0",
-		},
-		{
-			"trigger": "_LoggingChat\t(toggle)",
-			"contents": "${1:isLogging} = LoggingChat(${2:toggle})$0",
-		},
-		{
-			"trigger": "_LoggingCombat\t(toggle)",
-			"contents": "${1:isLogging} = LoggingCombat(${2:toggle})$0",
 		},
 		{
 			"trigger": "_LootSlotHasItem\t(slot)",
@@ -11238,19 +10910,19 @@
 		},
 		{
 			"trigger": "_UnitAura\t(\"unit\", index, [\"filter\"])",
-			"contents": "${1:name}, ${2:rank}, ${3:icon}, ${4:count}, ${5:dispelType}, ${6:duration}, ${7:expires}, ${8:caster}, ${9:isStealable}, ${10:shouldConsolidate}, ${11:spellID}, ${12:canApplyAura}, ${13:isBossDebuff}, ${14:value1}, ${15:value2}, ${16:value3} = UnitAura(\"${17:unit}\", ${18:index}, ${19:[\"filter\"]})$0",
+			"contents": "${1:name}, ${2:rank}, ${3:icon}, ${4:count}, ${5:debuffType}, ${6:duration}, ${7:expirationTime}, ${8:unitCaster}, ${9:canStealOrPurge}, ${10:shouldConsolidate}, ${11:spellID}, ${12:canApplyAura}, ${13:isBossDebuff}, ${14:isCastByPlayer}, ${15:value2}, ${16:value3} = UnitAura(\"${17:unit}\", ${18:index}, ${19:[\"filter\"]})$0",
 		},
 		{
 			"trigger": "_UnitAura\t(\"unit\", \"name\", [\"rank\"], [\"filter\"])",
-			"contents": "${1:name}, ${2:rank}, ${3:icon}, ${4:count}, ${5:dispelType}, ${6:duration}, ${7:expires}, ${8:caster}, ${9:isStealable}, ${10:shouldConsolidate}, ${11:spellID}, ${12:canApplyAura}, ${13:isBossDebuff}, ${14:value1}, ${15:value2}, ${16:value3} = UnitAura(\"${17:unit}\", \"${18:name}\", ${19:[\"rank\"]}, ${20:[\"filter\"]})$0",
+			"contents": "${1:name}, ${2:rank}, ${3:icon}, ${4:count}, ${5:debuffType}, ${6:duration}, ${7:expirationTime}, ${8:unitCaster}, ${9:canStealOrPurge}, ${10:shouldConsolidate}, ${11:spellID}, ${12:canApplyAura}, ${13:isBossDebuff}, ${14:isCastByPlayer}, ${15:value2}, ${16:value3} = UnitAura(\"${17:unit}\", \"${18:name}\", ${19:[\"rank\"]}, ${20:[\"filter\"]})$0",
 		},
 		{
 			"trigger": "_UnitBuff\t(\"unit\", index [, \"filter\"])",
-			"contents": "${1:name}, ${2:rank}, ${3:icon}, ${4:count}, ${5:dispelType}, ${6:duration}, ${7:expires}, ${8:caster}, ${9:isStealable}, ${10:shouldConsolidate}, ${11:spellID}, ${12:canApplyAura}, ${13:isBossDebuff}, ${14:value1}, ${15:value2}, ${16:value3} = UnitBuff(\"unit\", index [, \"filter\"])$0",
+			"contents": "${1:name}, ${2:rank}, ${3:icon}, ${4:count}, ${5:debuffType}, ${6:duration}, ${7:expirationTime}, ${8:unitCaster}, ${9:canStealOrPurge}, ${10:shouldConsolidate}, ${11:spellID}, ${12:canApplyAura}, ${13:isBossDebuff}, ${14:isCastByPlayer}, ${15:value2}, ${16:value3} = UnitBuff(\"unit\", index [, \"filter\"])$0",
 		},
 		{
 			"trigger": "_UnitBuff\t(\"unit\", \"name\", [\"rank\"], [\"filter\"])",
-			"contents": "${1:name}, ${2:rank}, ${3:icon}, ${4:count}, ${5:dispelType}, ${6:duration}, ${7:expires}, ${8:caster}, ${9:isStealable}, ${10:shouldConsolidate}, ${11:spellID}, ${12:canApplyAura}, ${13:isBossDebuff}, ${14:value1}, ${15:value2}, ${16:value3} = UnitBuff(\"${17:unit}\", \"${18:name}\", ${19:[\"rank\"]}, ${20:[\"filter\"]})$0",
+			"contents": "${1:name}, ${2:rank}, ${3:icon}, ${4:count}, ${5:debuffType}, ${6:duration}, ${7:expirationTime}, ${8:unitCaster}, ${9:canStealOrPurge}, ${10:shouldConsolidate}, ${11:spellID}, ${12:canApplyAura}, ${13:isBossDebuff}, ${14:isCastByPlayer}, ${15:value2}, ${16:value3} = UnitBuff(\"${17:unit}\", \"${18:name}\", ${19:[\"rank\"]}, ${20:[\"filter\"]})$0",
 		},
 		{
 			"trigger": "_UnitCanAssist\t(\"unit\", \"unit\")",
