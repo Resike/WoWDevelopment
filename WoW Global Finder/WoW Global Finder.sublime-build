@@ -1,4 +1,4 @@
 {
-  "cmd": ["$packages/WoWDevelopment/WoW Global Finder/WoW Global Finder.bat", "$file"],
-  "selector": "source.lua"
+	"cmd": ["$packages/WoWDevelopment/WoW Global Finder/WoW Global Finder.bat", "$file"],
+	"selector": "source.lua"
 }
