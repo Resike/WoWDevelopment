@@ -2285,7 +2285,7 @@
 		<!-- WoW global enumeration tables -->
 		<dict>
 			<key>match</key>
-			<string>((?&lt;![.:])|(?&lt;=\.\.))\b(Enum)\b(\.)(\b(BattlepayBoostProduct)\b(\.)?(\b(Level90Boost|Level100Boost)\b)?)</string>
+			<string>((?&lt;![.:])|(?&lt;=\.\.))\b(Enum)\b(\.)(\b(BrawlType)\b(\.)?(\b(Arena|Battleground|Lfg|None)\b)?)</string>
 			<key>captures</key>
 			<dict>
 				<key>2</key>
@@ -2312,7 +2312,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>((?&lt;![.:])|(?&lt;=\.\.))\b(Enum)\b(\.)(\b(BattlepayProductDecorator)\b(\.)?(\b(Boost|Expansion|WoWToken|VasService)\b)?)</string>
+			<string>((?&lt;![.:])|(?&lt;=\.\.))\b(Enum)\b(\.)(\b(ConsoleCategory)\b(\.)?(\b(CategoryCombat|CategoryConsole|CategoryDebug|CategoryDefault|CategoryGame|CategoryGm|CategoryGraphics|CategoryNet|CategoryNone|CategorySound)\b)?)</string>
 			<key>captures</key>
 			<dict>
 				<key>2</key>
@@ -2339,7 +2339,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>((?&lt;![.:])|(?&lt;=\.\.))\b(Enum)\b(\.)(\b(BattlepaySpecialProducts)\b(\.)?(\b(Legion)\b)?)</string>
+			<string>((?&lt;![.:])|(?&lt;=\.\.))\b(Enum)\b(\.)(\b(ConsoleColorType)\b(\.)?(\b(AdminColor|BackgroundColor|ClickbufferColor|DefaultColor|EchoColor|ErrorColor|GlobalColor|HighlightColor|InputColor|PrivateColor|WarningColor)\b)?)</string>
 			<key>captures</key>
 			<dict>
 				<key>2</key>
@@ -2366,7 +2366,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>((?&lt;![.:])|(?&lt;=\.\.))\b(Enum)\b(\.)(\b(ContributionResult)\b(\.)?(\b(Success|MustBeNearNpc|IncorrectState|InvalidID|QuestDataMissing|FailedConditionCheck|UnableToCompleteTurnIn|InternalError)\b)?)</string>
+			<string>((?&lt;![.:])|(?&lt;=\.\.))\b(Enum)\b(\.)(\b(ConsoleCommandType)\b(\.)?(\b(Command|Cvar|Script)\b)?)</string>
 			<key>captures</key>
 			<dict>
 				<key>2</key>
@@ -2393,7 +2393,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>((?&lt;![.:])|(?&lt;=\.\.))\b(Enum)\b(\.)(\b(ContributionState)\b(\.)?(\b(None|Building|Active|UnderAttack|Destroyed)\b)?)</string>
+			<string>((?&lt;![.:])|(?&lt;=\.\.))\b(Enum)\b(\.)(\b(ContributionResult)\b(\.)?(\b(FailedConditionCheck|IncorrectState|InternalError|InvalidID|MustBeNearNpc|QuestDataMissing|Success|UnableToCompleteTurnIn)\b)?)</string>
 			<key>captures</key>
 			<dict>
 				<key>2</key>
@@ -2420,7 +2420,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>((?&lt;![.:])|(?&lt;=\.\.))\b(Enum)\b(\.)(\b(PowerType)\b(\.)?(\b(HealthCost|None|Mana|Rage|Focus|Energy|ComboPoints|Runes|RunicPower|SoulShards|LunarPower|HolyPower|Alternate|Maelstrom|Chi|Insanity|Obsolete|Obsolete2|ArcaneCharges|Fury|Pain|NumPowerTypes)\b)?)</string>
+			<string>((?&lt;![.:])|(?&lt;=\.\.))\b(Enum)\b(\.)(\b(ContributionState)\b(\.)?(\b(Active|Building|Destroyed|None|UnderAttack)\b)?)</string>
 			<key>captures</key>
 			<dict>
 				<key>2</key>
@@ -2447,7 +2447,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>((?&lt;![.:])|(?&lt;=\.\.))\b(Enum)\b(\.)(\b(StoreError)\b(\.)?(\b(InvalidPaymentMethod|PaymentFailed|WrongCurrency|BattlepayDisabled|InsufficientBalance|Other|AlreadyOwned|ParentalControlsNoPurchase|PurchaseDenied|ConsumableTokenOwned|TooManyTokens|ItemUnavailable)\b)?)</string>
+			<string>((?&lt;![.:])|(?&lt;=\.\.))\b(Enum)\b(\.)(\b(MapCanvasPosition)\b(\.)?(\b(BottomLeft|BottomRight|TopLeft|TopRight)\b)?)</string>
 			<key>captures</key>
 			<dict>
 				<key>2</key>
@@ -2474,7 +2474,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>((?&lt;![.:])|(?&lt;=\.\.))\b(Enum)\b(\.)(\b(VasError)\b(\.)?(\b(InvalidDestinationAccount|InvalidSourceAccount|DisallowedSourceAccount|DisallowedDestinationAccount|LowerBoxLevel|RealmNotEligible|CannotMoveGuildMaster|MaxCharactersOnServer|DuplicateCharacterName|HasMail|UnderMinLevelReq|CharacterTransferTooSoon|CharLocked|TooMuchMoneyForLevel|HasAuctions|LastSaveTooRecent|NameNotAvailable|LastRenameTooRecent|CustomizeAlreadyRequested|LastCustomizeTooRecent|FactionChangeTooSoon|RaceClassComboIneligible|IneligibleMapID|BattlepayDeliveryPending|HasWoWToken|HasHeirloom|LastSaveTooDistant|HasCagedBattlePet|BoostedTooRecently)\b)?)</string>
+			<string>((?&lt;![.:])|(?&lt;=\.\.))\b(Enum)\b(\.)(\b(MapTransform)\b(\.)?(\b(IsForFlightMap)\b)?)</string>
 			<key>captures</key>
 			<dict>
 				<key>2</key>
@@ -2501,7 +2501,33 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>((?&lt;![.:])|(?&lt;=\.\.))\b(Enum)\b(\.)(\b(VasPurchaseProgress)\b(\.)?(\b(Invalid|PrePurchase|PaymentPending|ApplyingLicense|WaitingOnQueue|Ready|ProcessingFactionChange|Complete)\b)?)</string>
+			<string>((?&lt;![.:])|(?&lt;=\.\.))\b(Enum)\b(\.)(\b(PowerType)\b(\.)?(\b(Alternate|ArcaneCharges|Chi|ComboPoints|Energy|Focus|Fury|HealthCost|HolyPower|Insanity|LunarPower|Maelstrom|Mana|None|NumPowerTypes|Obsolete|Obsolete2|Pain|Rage|Runes|RunicPower|SoulShards)\b)?)</string>
+			<key>captures</key>
+			<dict>
+				<key>2</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
+				<key>3</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
+				<key>5</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
+				<key>7</key>
+				<dict>
+					<key>name</key>
+					<string>constant.numeric.global-enumeration-tables.lua</string>
+				</dict>
+			</dict>
+		</dict>		<dict>
+			<key>match</key>
+			<string>((?&lt;![.:])|(?&lt;=\.\.))\b(Enum)\b(\.)(\b(ModelSceneType)\b(\.)?(\b(ArtifactRelicTalentEffect|ArtifactTier2|ArtifactTier2ForgingScene|ArtifactTier2SlamEffect|CommentatorVictoryFanfare|EncounterJournal|MountJournal|PetJournalCard|PetJournalLoadout|ShopCard)\b)?)</string>
 			<key>captures</key>
 			<dict>
 				<key>2</key>
@@ -2528,7 +2554,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>((?&lt;![.:])|(?&lt;=\.\.))\b(Enum)\b(\.)(\b(VasQueueStatus)\b(\.)?(\b(UnderAnHour|OneToThreeHours|ThreeToSixHours|SixToTwelveHours|OverTwelveHours|Over1Days|Over2Days|Over3Days|Over4Days|Over5Days|Over6Days|Over7Days)\b)?)</string>
+			<string>((?&lt;![.:])|(?&lt;=\.\.))\b(Enum)\b(\.)(\b(PowerType)\b(\.)?(\b(Alternate|ArcaneCharges|Chi|ComboPoints|Energy|Focus|Fury|HealthCost|HolyPower|Insanity|LunarPower|Maelstrom|Mana|None|NumPowerTypes|Obsolete|Obsolete2|Pain|Rage|Runes|RunicPower|SoulShards)\b)?)</string>
 			<key>captures</key>
 			<dict>
 				<key>2</key>
@@ -2555,7 +2581,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>((?&lt;![.:])|(?&lt;=\.\.))\b(Enum)\b(\.)(\b(VasServiceType)\b(\.)?(\b(NameChange|FactionChange|AppearanceChange|RaceChange|CharacterTransfer|FactionTransfer)\b)?)</string>
+			<string>((?&lt;![.:])|(?&lt;=\.\.))\b(Enum)\b(\.)(\b(StoreDeliveryType)\b(\.)?(\b(Battlepet|Collection|Item|Mount)\b)?)</string>
 			<key>captures</key>
 			<dict>
 				<key>2</key>
@@ -2582,7 +2608,88 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>((?&lt;![.:])|(?&lt;=\.\.))(\b(Enum)\b(\.\b(BattlepayBoostProductMeta|BattlepayProductDecoratorMeta|BattlepaySpecialProductsMeta|ContributionResultMeta|ContributionStateMeta|PowerTypeMeta|StoreErrorMeta|VasErrorMeta|VasPurchaseProgressMeta|VasQueueStatusMeta|VasServiceTypeMeta)\b)?)(\.)?(\b(NumValues|MinValue|MaxValue)\b)?</string>
+			<string>((?&lt;![.:])|(?&lt;=\.\.))\b(Enum)\b(\.)(\b(TransmogSource)\b(\.)?(\b(Achievement|CantCollect|HiddenUntilCollected|JournalEncounter|None|NotValidForTransmog|Profession|Quest|Vendor|WorldDrop)\b)?)</string>
+			<key>captures</key>
+			<dict>
+				<key>2</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
+				<key>3</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
+				<key>5</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
+				<key>7</key>
+				<dict>
+					<key>name</key>
+					<string>constant.numeric.global-enumeration-tables.lua</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>((?&lt;![.:])|(?&lt;=\.\.))\b(Enum)\b(\.)(\b(VasPurchaseProgress)\b(\.)?(\b(ApplyingLicense|Complete|Invalid|PaymentPending|PrePurchase|ProcessingFactionChange|Ready|WaitingOnQueue)\b)?)</string>
+			<key>captures</key>
+			<dict>
+				<key>2</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
+				<key>3</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
+				<key>5</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
+				<key>7</key>
+				<dict>
+					<key>name</key>
+					<string>constant.numeric.global-enumeration-tables.lua</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>((?&lt;![.:])|(?&lt;=\.\.))\b(Enum)\b(\.)(\b(ZoneAbilityType)\b(\.)?(\b(Argus|Garrison|OrderHall)\b)?)</string>
+			<key>captures</key>
+			<dict>
+				<key>2</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
+				<key>3</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
+				<key>5</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
+				<key>7</key>
+				<dict>
+					<key>name</key>
+					<string>constant.numeric.global-enumeration-tables.lua</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>((?&lt;![.:])|(?&lt;=\.\.))(\b(Enum)\b(\.\b(BattlepayBoostProductMeta|BattlepayDisplayFlagMeta|BattlepayGroupDisplayTypeMeta|BattlepayProductDecoratorMeta|BattlepayProductGroupFlagMeta|BattlepaySpecialProductsMeta|BrawlTypeMeta|ConsoleCategoryMeta|ConsoleColorTypeMeta|ConsoleCommandTypeMeta|ContributionResultMeta|ContributionStateMeta|MapCanvasPositionMeta|MapTransformMeta|ModelSceneTypeMeta|PowerTypeMeta|StoreDeliveryTypeMeta|StoreErrorMeta|TransmogSourceMeta|VasErrorMeta|VasPurchaseProgressMeta|VasServiceTypeMeta|ZoneAbilityTypeMeta)\b)?)(\.)?(\b(NumValues|MinValue|MaxValue)\b)?</string>
 			<key>captures</key>
 			<dict>
 				<key>2</key>
