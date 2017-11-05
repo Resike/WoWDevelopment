@@ -7,6 +7,7 @@ World of Warcraft syntax highlight, auto-completion and global finder/highlighte
 
 * Full API syntax highlighting for lua, xml and toc files.
 * Global finder build system, which finds any global variables with detailed information for the current lua file.
+* Global highlighter and liter tool with SublimeLinter.
 
 # Installation:
 * Download the package, unzip it then remove the *-master* suffix, and copy the folder into your Sublime Text 2/3 Packages folder.
