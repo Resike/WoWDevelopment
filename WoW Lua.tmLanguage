@@ -434,9 +434,14 @@
 		<!-- C_ActionBar -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_ActionBar)\b(?:(?:(\.)(FindFlyoutActionButtons|FindPetActionButtons|FindSpellActionButtons|GetPetActionPetBarIndices|HasFlyoutActionButtons|HasPetActionButtons|HasPetActionPetBarIndices|HasSpellActionButtons|IsAutoCastPetAction|IsEnabledAutoCastPetAction|IsOnBarOrSpecialBar|ToggleAutoCastPetAction)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_ActionBar)\b(?:(\.)(?:(FindFlyoutActionButtons|FindPetActionButtons|FindSpellActionButtons|GetPetActionPetBarIndices|HasFlyoutActionButtons|HasPetActionButtons|HasPetActionPetBarIndices|HasSpellActionButtons|IsAutoCastPetAction|IsEnabledAutoCastPetAction|IsOnBarOrSpecialBar|ToggleAutoCastPetAction)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -448,11 +453,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -462,9 +462,14 @@
 		<!-- C_AdventureJournal -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_AdventureJournal)\b(?:(?:(\.)(ActivateEntry|CanBeShown|GetNumAvailableSuggestions|GetPrimaryOffset|GetReward|GetSuggestions|SetPrimaryOffset|UpdateSuggestions)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_AdventureJournal)\b(?:(\.)(?:(ActivateEntry|CanBeShown|GetNumAvailableSuggestions|GetPrimaryOffset|GetReward|GetSuggestions|SetPrimaryOffset|UpdateSuggestions)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -476,11 +481,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -490,9 +490,14 @@
 		<!-- C_ArtifactRelicForgeUI -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_ArtifactRelicForgeUI)\b(?:(?:(\.)(AddRelicTalent|AttunePreviewRelic|AttuneSocketedRelic|CanSetPreviewRelicFromCursor|Clear|ClearPreviewRelic|GetPreviewRelicAttuneInfo|GetPreviewRelicItemID|GetPreviewRelicItemLink|GetPreviewRelicTalents|GetSocketedRelicTalents|IsAtForge|PickUpPreviewRelic|SetPreviewRelicFromCursor)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_ArtifactRelicForgeUI)\b(?:(\.)(?:(AddRelicTalent|AttunePreviewRelic|AttuneSocketedRelic|CanSetPreviewRelicFromCursor|Clear|ClearPreviewRelic|GetPreviewRelicAttuneInfo|GetPreviewRelicItemID|GetPreviewRelicItemLink|GetPreviewRelicTalents|GetSocketedRelicTalents|IsAtForge|PickUpPreviewRelic|SetPreviewRelicFromCursor)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -504,11 +509,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -518,9 +518,14 @@
 		<!-- C_AdventureMap -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_AdventureMap)\b(?:(?:(\.)(Close|GetContinentInfo|GetMapID|GetMapInsetDetailTileInfo|GetMapInsetInfo|GetNumMapInsets|GetNumQuestOffers|GetNumZoneChoices|GetQuestInfo|GetQuestOfferInfo|GetZoneChoiceInfo|StartQuest)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_AdventureMap)\b(?:(\.)(?:(Close|GetContinentInfo|GetMapID|GetMapInsetDetailTileInfo|GetMapInsetInfo|GetNumMapInsets|GetNumQuestOffers|GetNumZoneChoices|GetQuestInfo|GetQuestOfferInfo|GetZoneChoiceInfo|StartQuest)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -532,11 +537,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -546,9 +546,14 @@
 		<!-- C_ArtifactUI -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_ArtifactUI)\b(?:(?:(\.)(AddPower|ApplyCursorRelicToSlot|CanApplyArtifactRelic|CanApplyCursorRelicToSlot|CanApplyRelicItemIDToEquippedArtifactSlot|CanApplyRelicItemIDToSlot|CheckRespecNPC|Clear|ClearForgeCamera|ConfirmRespec|DoesEquippedArtifactHaveAnyRelicsSlotted|GetAppearanceInfo|GetAppearanceInfoByID|GetAppearanceSetInfo|GetArtifactArtInfo|GetArtifactInfo|GetArtifactKnowledgeLevel|GetArtifactKnowledgeMultiplier|GetArtifactTier|GetArtifactXPRewardTargetInfo|GetCostForPointAtRank|GetEquippedArtifactArtInfo|GetEquippedArtifactInfo|GetEquippedArtifactNumRelicSlots|GetEquippedArtifactRelicAttuneInfo|GetEquippedArtifactRelicInfo|GetEquippedRelicLockedReason|GetForgeRotation|GetItemLevelIncreaseProvidedByRelic|GetMaxArtifactKnowledgeLevel|GetMetaPowerInfo|GetNumAppearanceSets|GetNumObtainedArtifacts|GetNumRelicSlots|GetPointsRemaining|GetPowerHyperlink|GetPowerInfo|GetPowerLinks|GetPowers|GetPowersAffectedByRelic|GetPowersAffectedByRelicItemLink|GetPreviewAppearance|GetRelicAttuneInfo|GetRelicInfo|GetRelicInfoByItemID|GetRelicLockedReason|GetRelicSlotRankInfo|GetRelicSlotType|GetRespecArtifactArtInfo|GetRespecArtifactInfo|GetRespecCost|GetTotalPowerCost|GetTotalPurchasedRanks|IsAtForge|IsEquippedArtifactMaxed|IsMaxedByRulesOrEffect|IsPowerKnown|IsViewedArtifactEquipped|SetAppearance|SetForgeCamera|SetForgeRotation|SetPreviewAppearance|ShouldSuppressForgeRotation)|(GetPowersAffectedByRelicItemID))\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_ArtifactUI)\b(?:(\.)(?:(AddPower|ApplyCursorRelicToSlot|CanApplyArtifactRelic|CanApplyCursorRelicToSlot|CanApplyRelicItemIDToEquippedArtifactSlot|CanApplyRelicItemIDToSlot|CheckRespecNPC|Clear|ClearForgeCamera|ConfirmRespec|DoesEquippedArtifactHaveAnyRelicsSlotted|GetAppearanceInfo|GetAppearanceInfoByID|GetAppearanceSetInfo|GetArtifactArtInfo|GetArtifactInfo|GetArtifactKnowledgeLevel|GetArtifactKnowledgeMultiplier|GetArtifactTier|GetArtifactXPRewardTargetInfo|GetCostForPointAtRank|GetEquippedArtifactArtInfo|GetEquippedArtifactInfo|GetEquippedArtifactNumRelicSlots|GetEquippedArtifactRelicAttuneInfo|GetEquippedArtifactRelicInfo|GetEquippedRelicLockedReason|GetForgeRotation|GetItemLevelIncreaseProvidedByRelic|GetMaxArtifactKnowledgeLevel|GetMetaPowerInfo|GetNumAppearanceSets|GetNumObtainedArtifacts|GetNumRelicSlots|GetPointsRemaining|GetPowerHyperlink|GetPowerInfo|GetPowerLinks|GetPowers|GetPowersAffectedByRelic|GetPowersAffectedByRelicItemLink|GetPreviewAppearance|GetRelicAttuneInfo|GetRelicInfo|GetRelicInfoByItemID|GetRelicLockedReason|GetRelicSlotRankInfo|GetRelicSlotType|GetRespecArtifactArtInfo|GetRespecArtifactInfo|GetRespecCost|GetTotalPowerCost|GetTotalPurchasedRanks|IsAtForge|IsEquippedArtifactMaxed|IsMaxedByRulesOrEffect|IsPowerKnown|IsViewedArtifactEquipped|SetAppearance|SetForgeCamera|SetForgeRotation|SetPreviewAppearance|ShouldSuppressForgeRotation)|(GetPowersAffectedByRelicItemID))\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -560,11 +565,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -574,9 +574,14 @@
 		<!-- C_AuthChallenge -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_AuthChallenge)\b(?:(?:(\.)(Cancel|DidChallengeSucceed|OnTabPressed|SetFrame|Submit)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_AuthChallenge)\b(?:(\.)(?:(Cancel|DidChallengeSucceed|OnTabPressed|SetFrame|Submit)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -588,11 +593,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -602,9 +602,14 @@
 		<!-- C_BlackMarket -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_BlackMarket)\b(?:(?:(\.)(Close|GetHotItem|GetItemInfoByID|GetItemInfoByIndex|GetNumItems|IsViewOnly|ItemPlaceBid|RequestItems)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_BlackMarket)\b(?:(\.)(?:(Close|GetHotItem|GetItemInfoByID|GetItemInfoByIndex|GetNumItems|IsViewOnly|ItemPlaceBid|RequestItems)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -616,11 +621,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -630,9 +630,14 @@
 		<!-- C_Calendar -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_Calendar)\b(?:(?:(\.)(GetDayEvent|GetHolidayInfo)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_Calendar)\b(?:(\.)(?:(GetDayEvent|GetHolidayInfo)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -644,11 +649,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -658,9 +658,14 @@
 		<!-- C_ChallengeMode -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_ChallengeMode)\b(?:(?:(\.)(ClearKeystone|CloseKeystoneFrame|GetActiveChallengeMapID|GetActiveKeystoneInfo|GetAffixInfo|GetCompletionInfo|GetDeathCount|GetGuildLeaders|GetMapInfo|GetMapPlayerStats|GetMapTable|GetPowerLevelDamageHealthMod|GetRecentBestForMap|GetSlottedKeystoneInfo|HasSlottedKeystone|IsChallengeModeActive|IsWeeklyRewardAvailable|RemoveKeystone|RequestLeaders|RequestMapInfo|RequestRewards|Reset|SetKeystoneTooltip|SlotKeystone|StartChallengeMode)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_ChallengeMode)\b(?:(\.)(?:(ClearKeystone|CloseKeystoneFrame|GetActiveChallengeMapID|GetActiveKeystoneInfo|GetAffixInfo|GetCompletionInfo|GetDeathCount|GetGuildLeaders|GetMapInfo|GetMapPlayerStats|GetMapTable|GetPowerLevelDamageHealthMod|GetRecentBestForMap|GetSlottedKeystoneInfo|HasSlottedKeystone|IsChallengeModeActive|IsWeeklyRewardAvailable|RemoveKeystone|RequestLeaders|RequestMapInfo|RequestRewards|Reset|SetKeystoneTooltip|SlotKeystone|StartChallengeMode)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -672,11 +677,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -686,9 +686,14 @@
 		<!-- C_ChatBubbles -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_ChatBubbles)\b(?:(?:(\.)(GetAllChatBubbles)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_ChatBubbles)\b(?:(\.)(?:(GetAllChatBubbles)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -700,11 +705,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -714,9 +714,14 @@
 		<!-- C_CharacterServicesPublic -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_CharacterServicesPublic)\b(?:(?:(\.)(ShouldSeeControlPopup)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_CharacterServicesPublic)\b(?:(\.)(?:(ShouldSeeControlPopup)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -728,11 +733,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -742,9 +742,14 @@
 		<!-- C_ClassTrial -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_ClassTrial)\b(?:(?:(\.)(GetClassTrialLogoutTimeSeconds|IsClassTrialCharacter)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_ClassTrial)\b(?:(\.)(?:(GetClassTrialLogoutTimeSeconds|IsClassTrialCharacter)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -756,11 +761,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -770,9 +770,14 @@
 		<!-- C_Commentator -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_Commentator)\b(?:(?:(\.)(AddPlayerOverrideName|AddTrackedDefensiveAuras|AddTrackedOffensiveAuras|AreTeamsSwapped|CanUseCommentatorCheats|ClearCameraTarget|ClearFollowTarget|ClearLookAtTarget|EnterInstance|ExitInstance|FollowPlayer|FollowUnit|ForceFollowTransition|GetAdditionalCameraWeight|GetAdditionalCameraWeightByToken|GetAllPlayerOverrideNames|GetCamera|GetCameraCollision|GetCameraPosition|GetCurrentMapID|GetDampeningPercent|GetDistanceBeforeForcedHorizontalConvergence|GetDurationToForceHorizontalConvergence|GetExcludeDistance|GetHardlockWeight|GetHorizontalAngleThresholdToSmooth|GetInstanceInfo|GetLookAtLerpAmount|GetMapInfo|GetMaxNumPlayersPerTeam|GetMaxNumTeams|GetMode|GetMsToHoldForHorizontalMovement|GetMsToHoldForVerticalMovement|GetMsToSmoothHorizontalChange|GetMsToSmoothVerticalChange|GetNumMaps|GetNumPlayers|GetPlayerCooldownInfo|GetPlayerCrowdControlInfo|GetPlayerCrowdControlInfoByUnit|GetPlayerFlagInfo|GetPlayerInfo|GetPlayerOverrideName|GetPlayerSpellCharges|GetPositionLerpAmount|GetSmoothFollowTransitioning|GetSoftlockWeight|GetSpeedFactor|GetStartLocation|GetTimeLeftInMatch|GetTrackedDefensiveCooldowns|GetTrackedOffensiveCooldowns|GetWargameInfo|HasTrackedAuras|IsSmartCameraLocked|IsSpectating|IsTrackedDefensiveAura|IsTrackedDefensiveCooldown|IsTrackedOffensiveAura|IsTrackedOffensiveCooldown|IsUsingSmartCamera|LookAtPlayer|RemoveAllOverrideNames|RemovePlayerOverrideName|RequestPlayerCooldownInfo|ResetFoVTarget|ResetTrackedAuras|SetAdditionalCameraWeight|SetAdditionalCameraWeightByToken|SetBlacklistedAuras|SetBlacklistedCooldowns|SetCamera|SetCameraCollision|SetCameraPosition|SetCheatsEnabled|SetDistanceBeforeForcedHorizontalConvergence|SetDurationToForceHorizontalConvergence|SetExcludeDistance|SetFollowCameraSpeeds|SetHardlockWeight|SetHorizontalAngleThresholdToSmooth|SetLookAtLerpAmount|SetMouseDisabled|SetMapAndInstanceIndex|SetMoveSpeed|SetMsToHoldForHorizontalMovement|SetMsToHoldForVerticalMovement|SetMsToSmoothHorizontalChange|SetMsToSmoothVerticalChange|SetPositionLerpAmount|SetRequestedDefensiveCooldowns|SetRequestedOffensiveCooldowns|SetSmartCameraLocked|SetSmoothFollowTransitioning|SetSoftlockWeight|SetSpeedFactor|SetTargetHeightOffset|SetUseSmartCamera|SnapCameraLookAtPoint|StartWargame|SwapTeamSides|ToggleCheats|UpdateMapInfo|UpdatePlayerInfo|ZoomIn|ZoomOut)|(RemoveAllPlayerOverrideNames|SetMode|ToggleMode))\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_Commentator)\b(?:(\.)(?:(AddPlayerOverrideName|AddTrackedDefensiveAuras|AddTrackedOffensiveAuras|AreTeamsSwapped|CanUseCommentatorCheats|ClearCameraTarget|ClearFollowTarget|ClearLookAtTarget|EnterInstance|ExitInstance|FollowPlayer|FollowUnit|ForceFollowTransition|GetAdditionalCameraWeight|GetAdditionalCameraWeightByToken|GetAllPlayerOverrideNames|GetCamera|GetCameraCollision|GetCameraPosition|GetCurrentMapID|GetDampeningPercent|GetDistanceBeforeForcedHorizontalConvergence|GetDurationToForceHorizontalConvergence|GetExcludeDistance|GetHardlockWeight|GetHorizontalAngleThresholdToSmooth|GetInstanceInfo|GetLookAtLerpAmount|GetMapInfo|GetMaxNumPlayersPerTeam|GetMaxNumTeams|GetMode|GetMsToHoldForHorizontalMovement|GetMsToHoldForVerticalMovement|GetMsToSmoothHorizontalChange|GetMsToSmoothVerticalChange|GetNumMaps|GetNumPlayers|GetPlayerCooldownInfo|GetPlayerCrowdControlInfo|GetPlayerCrowdControlInfoByUnit|GetPlayerFlagInfo|GetPlayerInfo|GetPlayerOverrideName|GetPlayerSpellCharges|GetPositionLerpAmount|GetSmoothFollowTransitioning|GetSoftlockWeight|GetSpeedFactor|GetStartLocation|GetTimeLeftInMatch|GetTrackedDefensiveCooldowns|GetTrackedOffensiveCooldowns|GetWargameInfo|HasTrackedAuras|IsSmartCameraLocked|IsSpectating|IsTrackedDefensiveAura|IsTrackedDefensiveCooldown|IsTrackedOffensiveAura|IsTrackedOffensiveCooldown|IsUsingSmartCamera|LookAtPlayer|RemoveAllOverrideNames|RemovePlayerOverrideName|RequestPlayerCooldownInfo|ResetFoVTarget|ResetTrackedAuras|SetAdditionalCameraWeight|SetAdditionalCameraWeightByToken|SetBlacklistedAuras|SetBlacklistedCooldowns|SetCamera|SetCameraCollision|SetCameraPosition|SetCheatsEnabled|SetDistanceBeforeForcedHorizontalConvergence|SetDurationToForceHorizontalConvergence|SetExcludeDistance|SetFollowCameraSpeeds|SetHardlockWeight|SetHorizontalAngleThresholdToSmooth|SetLookAtLerpAmount|SetMouseDisabled|SetMapAndInstanceIndex|SetMoveSpeed|SetMsToHoldForHorizontalMovement|SetMsToHoldForVerticalMovement|SetMsToSmoothHorizontalChange|SetMsToSmoothVerticalChange|SetPositionLerpAmount|SetRequestedDefensiveCooldowns|SetRequestedOffensiveCooldowns|SetSmartCameraLocked|SetSmoothFollowTransitioning|SetSoftlockWeight|SetSpeedFactor|SetTargetHeightOffset|SetUseSmartCamera|SnapCameraLookAtPoint|StartWargame|SwapTeamSides|ToggleCheats|UpdateMapInfo|UpdatePlayerInfo|ZoomIn|ZoomOut)|(RemoveAllPlayerOverrideNames|SetMode|ToggleMode))\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -784,11 +789,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -798,9 +798,14 @@
 		<!-- C_Console -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_Console)\b(?:(?:(\.)(GetAllCommands|GetColorFromType|GetFontHeight|PrintAllMatchingCommands|SetFontHeight)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_Console)\b(?:(\.)(?:(GetAllCommands|GetColorFromType|GetFontHeight|PrintAllMatchingCommands|SetFontHeight)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -812,11 +817,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -826,9 +826,14 @@
 		<!-- C_ContributionCollector -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_ContributionCollector)\b(?:(?:(\.)(Close|Contribute|GetActive|GetAtlases|GetBuffs|GetContributionResult|GetDescription|GetManagedContributionsForCreatureID|GetName|GetOrderIndex|GetRequiredContributionAmount|GetRewardQuestID|GetState|HasPendingContribution|IsAwaitingRewardQuestData)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_ContributionCollector)\b(?:(\.)(?:(Close|Contribute|GetActive|GetAtlases|GetBuffs|GetContributionResult|GetDescription|GetManagedContributionsForCreatureID|GetName|GetOrderIndex|GetRequiredContributionAmount|GetRewardQuestID|GetState|HasPendingContribution|IsAwaitingRewardQuestData)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -840,11 +845,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -854,9 +854,14 @@
 		<!-- C_EncounterJournal -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_EncounterJournal)\b(?:(?:(\.)(GetCurrentMapEncounters)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_EncounterJournal)\b(?:(\.)(?:(GetCurrentMapEncounters)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -868,11 +873,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -882,9 +882,14 @@
 		<!-- C_EquipmentSet -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_EquipmentSet)\b(?:(?:(\.)(AssignSpecToEquipmentSet|CanUseEquipmentSets|ClearIgnoredSlotsForSave|CreateEquipmentSet|DeleteEquipmentSet|EquipmentSetContainsLockedItems|GetEquipmentSetAssignedSpec|GetEquipmentSetForSpec|GetEquipmentSetID|GetEquipmentSetIDs|GetEquipmentSetInfo|GetIgnoredSlots|GetItemIDs|GetItemLocations|GetNumEquipmentSets|IgnoreSlotForSave|IsSlotIgnoredForSave|ModifyEquipmentSet|PickupEquipmentSet|SaveEquipmentSet|UnassignEquipmentSetSpec|UnignoreSlotForSave|UseEquipmentSet)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_EquipmentSet)\b(?:(\.)(?:(AssignSpecToEquipmentSet|CanUseEquipmentSets|ClearIgnoredSlotsForSave|CreateEquipmentSet|DeleteEquipmentSet|EquipmentSetContainsLockedItems|GetEquipmentSetAssignedSpec|GetEquipmentSetForSpec|GetEquipmentSetID|GetEquipmentSetIDs|GetEquipmentSetInfo|GetIgnoredSlots|GetItemIDs|GetItemLocations|GetNumEquipmentSets|IgnoreSlotForSave|IsSlotIgnoredForSave|ModifyEquipmentSet|PickupEquipmentSet|SaveEquipmentSet|UnassignEquipmentSetSpec|UnignoreSlotForSave|UseEquipmentSet)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -896,11 +901,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -910,9 +910,14 @@
 		<!-- C_Garrison -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_Garrison)\b(?:(?:(\.)(AddFollowerToMission|AllowMissionStartAboveSoftCap|AreMissionFollowerRequirementsMet|AssignFollowerToBuilding|CanGenerateRecruits|CanOpenMissionChest|CanSetRecruitmentPreference|CanSpellTargetFollowerIDWithAddAbility|CanUpgradeGarrison|CancelConstruction|CastItemSpellOnFollowerAbility|CastSpellOnFollower|CastSpellOnFollowerAbility|CastSpellOnMission|ClearCompleteTalent|CloseArchitect|CloseGarrisonTradeskillNPC|CloseMissionNPC|CloseRecruitmentNPC|CloseTalentNPC|CloseTradeskillCrafter|GenerateRecruits|GetAllBonusAbilityEffects|GetAllEncounterThreats|GetAvailableMissions|GetAvailableRecruits|GetBasicMissionInfo|GetBuffedFollowersForMission|GetBuildingInfo|GetBuildingLockInfo|GetBuildingSizes|GetBuildingSpecInfo|GetBuildingTimeRemaining|GetBuildingTooltip|GetBuildingUpgradeInfo|GetBuildings|GetBuildingsForPlot|GetBuildingsForSize|GetClassSpecCategoryInfo|GetCombatAllyMission|GetCompleteMissions|GetCompleteTalent|GetCurrentGarrTalentTreeFriendshipFactionID|GetCurrencyTypes|GetCurrentGarrTalentTreeID|GetFollowerAbilities|GetFollowerAbilityAtIndex|GetFollowerAbilityAtIndexByID|GetFollowerAbilityCounterMechanicInfo|GetFollowerAbilityCountersForMechanicTypes|GetFollowerAbilityDescription|GetFollowerAbilityIcon|GetFollowerAbilityInfo|GetFollowerAbilityIsTrait|GetFollowerAbilityLink|GetFollowerAbilityName|GetFollowerActivationCost|GetFollowerBiasForMission|GetFollowerClassSpec|GetFollowerClassSpecAtlas|GetFollowerClassSpecByID|GetFollowerClassSpecName|GetFollowerDisplayID|GetFollowerInfo|GetFollowerInfoForBuilding|GetFollowerIsTroop|GetFollowerItemLevelAverage|GetFollowerItems|GetFollowerLevel|GetFollowerLevelXP|GetFollowerLink|GetFollowerLinkByID|GetFollowerMissionCompleteInfo|GetFollowerMissionTimeLeft|GetFollowerMissionTimeLeftSeconds|GetFollowerModelItems|GetFollowerName|GetFollowerNameByID|GetFollowerPortraitIconID|GetFollowerPortraitIconIDByID|GetFollowerQuality|GetFollowerQualityTable|GetFollowerRecentlyGainedAbilityIDs|GetFollowerRecentlyGainedTraitIDs|GetFollowerShipments|GetFollowerSoftCap|GetFollowerSourceTextByID|GetFollowerSpecializationAtIndex|GetFollowerStatus|GetFollowerTraitAtIndex|GetFollowerTraitAtIndexByID|GetFollowerTypeByID|GetFollowerTypeByMissionID|GetFollowerUnderBiasReason|GetFollowerXP|GetFollowerXPTable|GetFollowerZoneSupportAbilities|GetFollowers|GetFollowersSpellsForMission|GetFollowersTraitsForMission|GetGarrisonInfo|GetGarrisonUpgradeCost|GetInProgressMissions|GetLandingPageGarrisonType|GetLandingPageItems|GetLandingPageShipmentCount|GetLandingPageShipmentInfo|GetLandingPageShipmentInfoByContainerID|GetLooseShipments|GetMissionBonusAbilityEffects|GetMissionCompleteEncounters|GetMissionCost|GetMissionDisplayIDs|GetMissionInfo|GetMissionLink|GetMissionMaxFollowers|GetMissionName|GetMissionRewardInfo|GetMissionSuccessChance|GetMissionTexture|GetMissionTimes|GetMissionUncounteredMechanics|GetNumActiveFollowers|GetNumFollowerActivationsRemaining|GetNumFollowerDailyActivations|GetNumFollowers|GetNumFollowersForMechanic|GetNumFollowersOnMission|GetNumPendingShipments|GetNumShipmentCurrencies|GetNumShipmentReagents|GetOwnedBuildingInfo|GetOwnedBuildingInfoAbbrev|GetPartyBuffs|GetPartyMentorLevels|GetPartyMissionInfo|GetPendingShipmentInfo|GetPlots|GetPlotsForBuilding|GetPossibleFollowersForBuilding|GetRecruitAbilities|GetRecruiterAbilityCategories|GetRecruiterAbilityList|GetRecruitmentPreferences|GetShipDeathAnimInfo|GetShipmentContainerInfo|GetShipmentItemInfo|GetShipmentReagentCurrencyInfo|GetShipmentReagentInfo|GetShipmentReagentItemLink|GetSpecChangeCost|GetTabForPlot|GetTalent|GetTalentTreeIDsByClassID|GetTalentTreeInfoForID|HasGarrison|HasShipyard|IsAboveFollowerSoftCap|IsFollowerCollected|IsInvasionAvailable|IsMechanicFullyCountered|IsOnGarrisonMap|IsOnShipmentQuestForNPC|IsOnShipyardMap|IsPlayerInGarrison|IsUsingPartyGarrison|IsVisitGarrisonAvailable|MarkMissionComplete|MissionBonusRoll|PlaceBuilding|RecruitFollower|RemoveFollower|RemoveFollowerFromBuilding|RemoveFollowerFromMission|RenameFollower|RequestClassSpecCategoryInfo|RequestGarrisonUpgradeable|RequestLandingPageShipmentInfo|RequestShipmentCreation|RequestShipmentInfo|ResearchTalent|SearchForFollower|SetBuildingActive|SetBuildingSpecialization|SetFollowerFavorite|SetFollowerInactive|SetRecruitmentPreferences|SetUsingPartyGarrison|ShouldShowMapTab|ShowFollowerNameInErrorMessage|StartMission|SwapBuildings|TargetSpellHasFollowerItemLevelUpgrade|TargetSpellHasFollowerReroll|TargetSpellHasFollowerTemporaryAbility|UpgradeBuilding|UpgradeGarrison)|(GetFollowerDisplayIDByID|GetRewardChance|GetTalentTreeForID|GetTalentTrees|IsFollowerUnique))\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_Garrison)\b(?:(\.)(?:(AddFollowerToMission|AllowMissionStartAboveSoftCap|AreMissionFollowerRequirementsMet|AssignFollowerToBuilding|CanGenerateRecruits|CanOpenMissionChest|CanSetRecruitmentPreference|CanSpellTargetFollowerIDWithAddAbility|CanUpgradeGarrison|CancelConstruction|CastItemSpellOnFollowerAbility|CastSpellOnFollower|CastSpellOnFollowerAbility|CastSpellOnMission|ClearCompleteTalent|CloseArchitect|CloseGarrisonTradeskillNPC|CloseMissionNPC|CloseRecruitmentNPC|CloseTalentNPC|CloseTradeskillCrafter|GenerateRecruits|GetAllBonusAbilityEffects|GetAllEncounterThreats|GetAvailableMissions|GetAvailableRecruits|GetBasicMissionInfo|GetBuffedFollowersForMission|GetBuildingInfo|GetBuildingLockInfo|GetBuildingSizes|GetBuildingSpecInfo|GetBuildingTimeRemaining|GetBuildingTooltip|GetBuildingUpgradeInfo|GetBuildings|GetBuildingsForPlot|GetBuildingsForSize|GetClassSpecCategoryInfo|GetCombatAllyMission|GetCompleteMissions|GetCompleteTalent|GetCurrentGarrTalentTreeFriendshipFactionID|GetCurrencyTypes|GetCurrentGarrTalentTreeID|GetFollowerAbilities|GetFollowerAbilityAtIndex|GetFollowerAbilityAtIndexByID|GetFollowerAbilityCounterMechanicInfo|GetFollowerAbilityCountersForMechanicTypes|GetFollowerAbilityDescription|GetFollowerAbilityIcon|GetFollowerAbilityInfo|GetFollowerAbilityIsTrait|GetFollowerAbilityLink|GetFollowerAbilityName|GetFollowerActivationCost|GetFollowerBiasForMission|GetFollowerClassSpec|GetFollowerClassSpecAtlas|GetFollowerClassSpecByID|GetFollowerClassSpecName|GetFollowerDisplayID|GetFollowerInfo|GetFollowerInfoForBuilding|GetFollowerIsTroop|GetFollowerItemLevelAverage|GetFollowerItems|GetFollowerLevel|GetFollowerLevelXP|GetFollowerLink|GetFollowerLinkByID|GetFollowerMissionCompleteInfo|GetFollowerMissionTimeLeft|GetFollowerMissionTimeLeftSeconds|GetFollowerModelItems|GetFollowerName|GetFollowerNameByID|GetFollowerPortraitIconID|GetFollowerPortraitIconIDByID|GetFollowerQuality|GetFollowerQualityTable|GetFollowerRecentlyGainedAbilityIDs|GetFollowerRecentlyGainedTraitIDs|GetFollowerShipments|GetFollowerSoftCap|GetFollowerSourceTextByID|GetFollowerSpecializationAtIndex|GetFollowerStatus|GetFollowerTraitAtIndex|GetFollowerTraitAtIndexByID|GetFollowerTypeByID|GetFollowerTypeByMissionID|GetFollowerUnderBiasReason|GetFollowerXP|GetFollowerXPTable|GetFollowerZoneSupportAbilities|GetFollowers|GetFollowersSpellsForMission|GetFollowersTraitsForMission|GetGarrisonInfo|GetGarrisonUpgradeCost|GetInProgressMissions|GetLandingPageGarrisonType|GetLandingPageItems|GetLandingPageShipmentCount|GetLandingPageShipmentInfo|GetLandingPageShipmentInfoByContainerID|GetLooseShipments|GetMissionBonusAbilityEffects|GetMissionCompleteEncounters|GetMissionCost|GetMissionDisplayIDs|GetMissionInfo|GetMissionLink|GetMissionMaxFollowers|GetMissionName|GetMissionRewardInfo|GetMissionSuccessChance|GetMissionTexture|GetMissionTimes|GetMissionUncounteredMechanics|GetNumActiveFollowers|GetNumFollowerActivationsRemaining|GetNumFollowerDailyActivations|GetNumFollowers|GetNumFollowersForMechanic|GetNumFollowersOnMission|GetNumPendingShipments|GetNumShipmentCurrencies|GetNumShipmentReagents|GetOwnedBuildingInfo|GetOwnedBuildingInfoAbbrev|GetPartyBuffs|GetPartyMentorLevels|GetPartyMissionInfo|GetPendingShipmentInfo|GetPlots|GetPlotsForBuilding|GetPossibleFollowersForBuilding|GetRecruitAbilities|GetRecruiterAbilityCategories|GetRecruiterAbilityList|GetRecruitmentPreferences|GetShipDeathAnimInfo|GetShipmentContainerInfo|GetShipmentItemInfo|GetShipmentReagentCurrencyInfo|GetShipmentReagentInfo|GetShipmentReagentItemLink|GetSpecChangeCost|GetTabForPlot|GetTalent|GetTalentTreeIDsByClassID|GetTalentTreeInfoForID|HasGarrison|HasShipyard|IsAboveFollowerSoftCap|IsFollowerCollected|IsInvasionAvailable|IsMechanicFullyCountered|IsOnGarrisonMap|IsOnShipmentQuestForNPC|IsOnShipyardMap|IsPlayerInGarrison|IsUsingPartyGarrison|IsVisitGarrisonAvailable|MarkMissionComplete|MissionBonusRoll|PlaceBuilding|RecruitFollower|RemoveFollower|RemoveFollowerFromBuilding|RemoveFollowerFromMission|RenameFollower|RequestClassSpecCategoryInfo|RequestGarrisonUpgradeable|RequestLandingPageShipmentInfo|RequestShipmentCreation|RequestShipmentInfo|ResearchTalent|SearchForFollower|SetBuildingActive|SetBuildingSpecialization|SetFollowerFavorite|SetFollowerInactive|SetRecruitmentPreferences|SetUsingPartyGarrison|ShouldShowMapTab|ShowFollowerNameInErrorMessage|StartMission|SwapBuildings|TargetSpellHasFollowerItemLevelUpgrade|TargetSpellHasFollowerReroll|TargetSpellHasFollowerTemporaryAbility|UpgradeBuilding|UpgradeGarrison)|(GetFollowerDisplayIDByID|GetRewardChance|GetTalentTreeForID|GetTalentTrees|IsFollowerUnique))\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -924,11 +929,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -938,9 +938,14 @@
 		<!-- C_Heirloom -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_Heirloom)\b(?:(?:(\.)(CanHeirloomUpgradeFromPending|CreateHeirloom|GetClassAndSpecFilters|GetCollectedHeirloomFilter|GetHeirloomInfo|GetHeirloomItemIDFromDisplayedIndex|GetHeirloomItemIDs|GetHeirloomLink|GetHeirloomMaxUpgradeLevel|GetHeirloomSourceFilter|GetNumDisplayedHeirlooms|GetNumHeirlooms|GetNumKnownHeirlooms|GetUncollectedHeirloomFilter|IsHeirloomSourceValid|IsItemHeirloom|IsPendingHeirloomUpgrade|PlayerHasHeirloom|SetClassAndSpecFilters|SetCollectedHeirloomFilter|SetHeirloomSourceFilter|SetSearch|SetUncollectedHeirloomFilter|ShouldShowHeirloomHelp|UpgradeHeirloom)|(GetHeirloomItemIDFromIndex))\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_Heirloom)\b(?:(\.)(?:(CanHeirloomUpgradeFromPending|CreateHeirloom|GetClassAndSpecFilters|GetCollectedHeirloomFilter|GetHeirloomInfo|GetHeirloomItemIDFromDisplayedIndex|GetHeirloomItemIDs|GetHeirloomLink|GetHeirloomMaxUpgradeLevel|GetHeirloomSourceFilter|GetNumDisplayedHeirlooms|GetNumHeirlooms|GetNumKnownHeirlooms|GetUncollectedHeirloomFilter|IsHeirloomSourceValid|IsItemHeirloom|IsPendingHeirloomUpgrade|PlayerHasHeirloom|SetClassAndSpecFilters|SetCollectedHeirloomFilter|SetHeirloomSourceFilter|SetSearch|SetUncollectedHeirloomFilter|ShouldShowHeirloomHelp|UpgradeHeirloom)|(GetHeirloomItemIDFromIndex))\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -952,11 +957,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -966,9 +966,14 @@
 		<!-- C_LFGList -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_LFGList)\b(?:(?:(\.)(AcceptInvite|ApplyToGroup|CancelApplication|ClearSearchResults|CreateListing|DeclineApplicant|DeclineInvite|GetActiveEntryInfo|GetActivityGroupInfo|GetActivityIDForQuestID|GetActivityInfo|GetActivityInfoExpensive|GetApplicantInfo|GetApplicantMemberInfo|GetApplicantMemberStats|GetApplicants|GetApplicationInfo|GetApplications|GetAvailableActivities|GetAvailableActivityGroups|GetAvailableCategories|GetAvailableLanguageSearchFilter|GetAvailableRoles|GetCategoryInfo|GetDefaultLanguageSearchFilter|GetLanguageSearchFilter|GetNumApplicants|GetNumApplications|GetNumInvitedApplicantMembers|GetNumPendingApplicantMembers|GetRoleCheckInfo|GetSearchResultEncounterInfo|GetSearchResultFriends|GetSearchResultInfo|GetSearchResultMemberCounts|GetSearchResultMemberInfo|GetSearchResults|HasActivityList|InviteApplicant|IsCurrentlyApplying|RefreshApplicants|RemoveApplicant|RemoveListing|ReportApplicant|ReportSearchResult|RequestAvailableActivities|SaveLanguageSearchFilter|Search|SetApplicantMemberRole|UpdateListing)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_LFGList)\b(?:(\.)(?:(AcceptInvite|ApplyToGroup|CancelApplication|ClearSearchResults|CreateListing|DeclineApplicant|DeclineInvite|GetActiveEntryInfo|GetActivityGroupInfo|GetActivityIDForQuestID|GetActivityInfo|GetActivityInfoExpensive|GetApplicantInfo|GetApplicantMemberInfo|GetApplicantMemberStats|GetApplicants|GetApplicationInfo|GetApplications|GetAvailableActivities|GetAvailableActivityGroups|GetAvailableCategories|GetAvailableLanguageSearchFilter|GetAvailableRoles|GetCategoryInfo|GetDefaultLanguageSearchFilter|GetLanguageSearchFilter|GetNumApplicants|GetNumApplications|GetNumInvitedApplicantMembers|GetNumPendingApplicantMembers|GetRoleCheckInfo|GetSearchResultEncounterInfo|GetSearchResultFriends|GetSearchResultInfo|GetSearchResultMemberCounts|GetSearchResultMemberInfo|GetSearchResults|HasActivityList|InviteApplicant|IsCurrentlyApplying|RefreshApplicants|RemoveApplicant|RemoveListing|ReportApplicant|ReportSearchResult|RequestAvailableActivities|SaveLanguageSearchFilter|Search|SetApplicantMemberRole|UpdateListing)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -980,11 +985,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -994,9 +994,14 @@
 		<!-- C_LootHistory -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_LootHistory)\b(?:(?:(\.)(CanMasterLoot|GetExpiration|GetItem|GetNumItems|GetPlayerInfo|GiveMasterLoot|SetExpiration)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_LootHistory)\b(?:(\.)(?:(CanMasterLoot|GetExpiration|GetItem|GetNumItems|GetPlayerInfo|GiveMasterLoot|SetExpiration)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1008,11 +1013,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1022,9 +1022,14 @@
 		<!-- C_LootJournal -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_LootJournal)\b(?:(?:(\.)(GetClassAndSpecFilters|GetFilteredItemSets|GetFilteredLegendaries|GetItemSetItems|GetLegendaryInventoryTypeFilter|GetLegendaryInventoryTypes|SetClassAndSpecFilters|SetLegendaryInventoryTypeFilter)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_LootJournal)\b(?:(\.)(?:(GetClassAndSpecFilters|GetFilteredItemSets|GetFilteredLegendaries|GetItemSetItems|GetLegendaryInventoryTypeFilter|GetLegendaryInventoryTypes|SetClassAndSpecFilters|SetLegendaryInventoryTypeFilter)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1036,11 +1041,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1050,9 +1050,14 @@
 		<!-- C_LossOfControl -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_LossOfControl)\b(?:(?:(\.)(GetEventInfo|GetNumEvents)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_LossOfControl)\b(?:(\.)(?:(GetEventInfo|GetNumEvents)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1064,11 +1069,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1078,9 +1078,14 @@
 		<!-- C_Mail -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_Mail)\b(?:(?:(\.)(HasInboxMoney|IsCommandPending)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_Mail)\b(?:(\.)(?:(HasInboxMoney|IsCommandPending)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1092,11 +1097,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1106,9 +1106,14 @@
 		<!-- C_MapBar -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_MapBar)\b(?:(?:(\.)(BarIsShown|GetCurrentValue|GetMaxValue|GetParticipationPercentage|GetPhaseIndex|GetTag)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_MapBar)\b(?:(\.)(?:(BarIsShown|GetCurrentValue|GetMaxValue|GetParticipationPercentage|GetPhaseIndex|GetTag)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1120,11 +1125,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1134,9 +1134,14 @@
 		<!-- C_MapCanvas -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_MapCanvas)\b(?:(?:(\.)(FindZoneAtPosition|GetBackgroundInfo|GetContinentInfo|GetDetailTileInfo|GetNumDetailLayers|GetNumDetailTiles|GetNumZones|GetPreferredHelpTextPosition|GetScaleExtentsForMap|GetZoneInfo|GetZoneInfoByID|PreloadTextures)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_MapCanvas)\b(?:(\.)(?:(FindZoneAtPosition|GetBackgroundInfo|GetContinentInfo|GetDetailTileInfo|GetNumDetailLayers|GetNumDetailTiles|GetNumZones|GetPreferredHelpTextPosition|GetScaleExtentsForMap|GetZoneInfo|GetZoneInfoByID|PreloadTextures)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1148,11 +1153,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1162,9 +1162,14 @@
 		<!-- C_MerchantFrame -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_MerchantFrame)\b(?:(?:(\.)(GetBuybackItemID)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_MerchantFrame)\b(?:(\.)(?:(GetBuybackItemID)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1176,11 +1181,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1190,9 +1190,14 @@
 		<!-- C_ModelInfo -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_ModelInfo)\b(?:(?:(\.)(AddActiveModelScene|AddActiveModelSceneActor|ClearActiveModelScene|ClearActiveModelSceneActor|GetModelSceneActorDisplayInfoByID|GetModelSceneActorInfoByID|GetModelSceneCameraInfoByID|GetModelSceneInfoByID)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_ModelInfo)\b(?:(\.)(?:(AddActiveModelScene|AddActiveModelSceneActor|ClearActiveModelScene|ClearActiveModelSceneActor|GetModelSceneActorDisplayInfoByID|GetModelSceneActorInfoByID|GetModelSceneCameraInfoByID|GetModelSceneInfoByID)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1204,11 +1209,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1218,9 +1218,14 @@
 		<!-- C_MountJournal -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_MountJournal)\b(?:(?:(\.)(ClearFanfare|ClearRecentFanfares|Dismiss|GetCollectedFilterSetting|GetDisplayedMountAllCreatureDisplayInfo|GetDisplayedMountInfo|GetDisplayedMountInfoExtra|GetIsFavorite|GetMountAllCreatureDisplayInfoByID|GetMountIDs|GetMountInfoByID|GetMountInfoExtraByID|GetNumDisplayedMounts|GetNumMounts|GetNumMountsNeedingFanfare|IsSourceChecked|IsValidSourceFilter|NeedsFanfare|Pickup|SetAllSourceFilters|SetCollectedFilterSetting|SetIsFavorite|SetSearch|SetSourceFilter|SummonByID)|(GetMountInfo|GetMountInfoExtra|Summon))\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_MountJournal)\b(?:(\.)(?:(ClearFanfare|ClearRecentFanfares|Dismiss|GetCollectedFilterSetting|GetDisplayedMountAllCreatureDisplayInfo|GetDisplayedMountInfo|GetDisplayedMountInfoExtra|GetIsFavorite|GetMountAllCreatureDisplayInfoByID|GetMountIDs|GetMountInfoByID|GetMountInfoExtraByID|GetNumDisplayedMounts|GetNumMounts|GetNumMountsNeedingFanfare|IsSourceChecked|IsValidSourceFilter|NeedsFanfare|Pickup|SetAllSourceFilters|SetCollectedFilterSetting|SetIsFavorite|SetSearch|SetSourceFilter|SummonByID)|(GetMountInfo|GetMountInfoExtra|Summon))\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1232,11 +1237,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1246,9 +1246,14 @@
 		<!-- C_NamePlate -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_NamePlate)\b(?:(?:(\.)(GetNamePlateEnemyClickThrough|GetNamePlateEnemyPreferredClickInsets|GetNamePlateEnemySize|GetNamePlateForUnit|GetNamePlateFriendlyClickThrough|GetNamePlateFriendlyPreferredClickInsets|GetNamePlateFriendlySize|GetNamePlateSelfClickThrough|GetNamePlateSelfPreferredClickInsets|GetNamePlateSelfSize|GetNamePlates|GetNumNamePlateMotionTypes|GetTargetClampingInsets|SetNamePlateEnemyClickThrough|SetNamePlateEnemyPreferredClickInsets|SetNamePlateEnemySize|SetNamePlateFriendlyClickThrough|SetNamePlateFriendlyPreferredClickInsets|SetNamePlateFriendlySize|SetNamePlateSelfClickThrough|SetNamePlateSelfPreferredClickInsets|SetNamePlateSelfSize|SetTargetClampingInsets)|(GetNamePlateOtherSize|SetNamePlateOtherSize))\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_NamePlate)\b(?:(\.)(?:(GetNamePlateEnemyClickThrough|GetNamePlateEnemyPreferredClickInsets|GetNamePlateEnemySize|GetNamePlateForUnit|GetNamePlateFriendlyClickThrough|GetNamePlateFriendlyPreferredClickInsets|GetNamePlateFriendlySize|GetNamePlateSelfClickThrough|GetNamePlateSelfPreferredClickInsets|GetNamePlateSelfSize|GetNamePlates|GetNumNamePlateMotionTypes|GetTargetClampingInsets|SetNamePlateEnemyClickThrough|SetNamePlateEnemyPreferredClickInsets|SetNamePlateEnemySize|SetNamePlateFriendlyClickThrough|SetNamePlateFriendlyPreferredClickInsets|SetNamePlateFriendlySize|SetNamePlateSelfClickThrough|SetNamePlateSelfPreferredClickInsets|SetNamePlateSelfSize|SetTargetClampingInsets)|(GetNamePlateOtherSize|SetNamePlateOtherSize))\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1260,11 +1265,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1274,9 +1274,14 @@
 		<!-- C_NewItems -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_NewItems)\b(?:(?:(\.)(ClearAll|IsNewItem|RemoveNewItem)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_NewItems)\b(?:(\.)(?:(ClearAll|IsNewItem|RemoveNewItem)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1288,11 +1293,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1302,9 +1302,14 @@
 		<!-- C_PartyInfo -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_PartyInfo)\b(?:(?:(\.)(GetInviteConfirmationInvalidQueues)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_PartyInfo)\b(?:(\.)(?:(GetInviteConfirmationInvalidQueues)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1316,11 +1321,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1330,9 +1330,14 @@
 		<!-- C_PetBattles -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_PetBattles)\b(?:(?:(\.)(AcceptPVPDuel|AcceptQueuedPVPMatch|CanAcceptQueuedPVPMatch|CanActivePetSwapOut|CanPetSwapIn|CancelPVPDuel|ChangePet|DeclineQueuedPVPMatch|ForfeitGame|GetAbilityEffectInfo|GetAbilityInfo|GetAbilityInfoByID|GetAbilityProcTurnIndex|GetAbilityState|GetAbilityStateModification|GetActivePet|GetAllEffectNames|GetAllStates|GetAttackModifier|GetAuraInfo|GetBattleState|GetBreedQuality|GetDisplayID|GetForfeitPenalty|GetHealth|GetIcon|GetLevel|GetMaxHealth|GetName|GetNumAuras|GetNumPets|GetPVPMatchmakingInfo|GetPetSpeciesID|GetPetType|GetPlayerTrapAbility|GetPower|GetSelectedAction|GetSpeed|GetStateValue|GetTurnTimeInfo|GetXP|IsInBattle|IsPlayerNPC|IsSkipAvailable|IsTrapAvailable|IsWaitingOnOpponent|IsWildBattle|SetPendingReportBattlePetTarget|SetPendingReportTargetFromUnit|ShouldShowPetSelect|SkipTurn|StartPVPDuel|StartPVPMatchmaking|StopPVPMatchmaking|UseAbility|UseTrap)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_PetBattles)\b(?:(\.)(?:(AcceptPVPDuel|AcceptQueuedPVPMatch|CanAcceptQueuedPVPMatch|CanActivePetSwapOut|CanPetSwapIn|CancelPVPDuel|ChangePet|DeclineQueuedPVPMatch|ForfeitGame|GetAbilityEffectInfo|GetAbilityInfo|GetAbilityInfoByID|GetAbilityProcTurnIndex|GetAbilityState|GetAbilityStateModification|GetActivePet|GetAllEffectNames|GetAllStates|GetAttackModifier|GetAuraInfo|GetBattleState|GetBreedQuality|GetDisplayID|GetForfeitPenalty|GetHealth|GetIcon|GetLevel|GetMaxHealth|GetName|GetNumAuras|GetNumPets|GetPVPMatchmakingInfo|GetPetSpeciesID|GetPetType|GetPlayerTrapAbility|GetPower|GetSelectedAction|GetSpeed|GetStateValue|GetTurnTimeInfo|GetXP|IsInBattle|IsPlayerNPC|IsSkipAvailable|IsTrapAvailable|IsWaitingOnOpponent|IsWildBattle|SetPendingReportBattlePetTarget|SetPendingReportTargetFromUnit|ShouldShowPetSelect|SkipTurn|StartPVPDuel|StartPVPMatchmaking|StopPVPMatchmaking|UseAbility|UseTrap)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1344,11 +1349,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1358,9 +1358,14 @@
 		<!-- C_PetJournal -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_PetJournal)\b(?:(?:(\.)(CagePetByID|ClearFanfare|ClearRecentFanfares|ClearSearchFilter|FindPetIDByName|GetBattlePetLink|GetNumCollectedInfo|GetNumMaxPets|GetNumPetSources|GetNumPetTypes|GetNumPets|GetNumPetsNeedingFanfare|GetOwnedBattlePetString|GetPetAbilityInfo|GetPetAbilityList|GetPetCooldownByGUID|GetPetInfoByIndex|GetPetInfoByPetID|GetPetInfoBySpeciesID|GetPetLoadOutInfo|GetPetModelSceneInfoBySpeciesID|GetPetSortParameter|GetPetStats|GetPetTeamAverageLevel|GetSummonBattlePetCooldown|GetSummonedPetGUID|GetSummonRandomFavoritePetGUID|IsFilterChecked|IsFindBattleEnabled|IsJournalReadOnly|IsJournalUnlocked|IsPetSourceChecked|IsPetTypeChecked|PetCanBeReleased|PetIsCapturable|PetIsFavorite|PetIsHurt|PetIsLockedForConvert|PetIsRevoked|PetIsSlotted|PetIsSummonable|PetIsTradable|PetIsUsable|PetNeedsFanfare|PickupPet|PickupSummonRandomPet|ReleasePetByID|SetAbility|SetAllPetSourcesChecked|SetAllPetTypesChecked|SetCustomName|SetFavorite|SetFilterChecked|SetPetLoadOutInfo|SetPetSortParameter|SetPetSourceChecked|SetPetTypeFilter|SetSearchFilter|SummonPetByGUID|SummonRandomPet)|(AddAllPetSourcesFilter|AddAllPetTypesFilter|ClearAllPetSourcesFilter|ClearAllPetTypesFilter|GetSummonedPetID|IsFlagFiltered|IsPetSourceFiltered|IsPetTypeFiltered|SetFlagFilter|SetPetSourceFilter|SummonPetByID))\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_PetJournal)\b(?:(\.)(?:(CagePetByID|ClearFanfare|ClearRecentFanfares|ClearSearchFilter|FindPetIDByName|GetBattlePetLink|GetNumCollectedInfo|GetNumMaxPets|GetNumPetSources|GetNumPetTypes|GetNumPets|GetNumPetsNeedingFanfare|GetOwnedBattlePetString|GetPetAbilityInfo|GetPetAbilityList|GetPetCooldownByGUID|GetPetInfoByIndex|GetPetInfoByPetID|GetPetInfoBySpeciesID|GetPetLoadOutInfo|GetPetModelSceneInfoBySpeciesID|GetPetSortParameter|GetPetStats|GetPetTeamAverageLevel|GetSummonBattlePetCooldown|GetSummonedPetGUID|GetSummonRandomFavoritePetGUID|IsFilterChecked|IsFindBattleEnabled|IsJournalReadOnly|IsJournalUnlocked|IsPetSourceChecked|IsPetTypeChecked|PetCanBeReleased|PetIsCapturable|PetIsFavorite|PetIsHurt|PetIsLockedForConvert|PetIsRevoked|PetIsSlotted|PetIsSummonable|PetIsTradable|PetIsUsable|PetNeedsFanfare|PickupPet|PickupSummonRandomPet|ReleasePetByID|SetAbility|SetAllPetSourcesChecked|SetAllPetTypesChecked|SetCustomName|SetFavorite|SetFilterChecked|SetPetLoadOutInfo|SetPetSortParameter|SetPetSourceChecked|SetPetTypeFilter|SetSearchFilter|SummonPetByGUID|SummonRandomPet)|(AddAllPetSourcesFilter|AddAllPetTypesFilter|ClearAllPetSourcesFilter|ClearAllPetTypesFilter|GetSummonedPetID|IsFlagFiltered|IsPetSourceFiltered|IsPetTypeFiltered|SetFlagFilter|SetPetSourceFilter|SummonPetByID))\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1372,11 +1377,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1386,9 +1386,14 @@
 		<!-- C_ProductChoice -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_ProductChoice)\b(?:(?:(\.)(GetChoices|GetNumSuppressed|GetProducts|MakeSelection)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_ProductChoice)\b(?:(\.)(?:(GetChoices|GetNumSuppressed|GetProducts|MakeSelection)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1400,11 +1405,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1414,9 +1414,14 @@
 		<!-- C_PurchaseAPI -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_PurchaseAPI)\b(?:(?:(\.)(__wow_bundle_api__)|(AckFailure|AssignToTarget|DeliverProduct|GetCharacterInfoByGUID|GetCharactersForRealm|GetConfirmationInfo|GetCurrencyID|GetDeliverStatus|GetDistributionInfo|GetDistributionList|GetEligibleRacesForRaceChange|GetEntryInfo|GetFailureInfo|GetProductGroupInfo|GetProductGroups|GetProductInfo|GetProductList|GetProducts|GetPurchaseList|GetPurchaseStatus|GetRealmList|GetUnrevokedBoostInfo|GetVASCompletionInfo|GetVASErrors|GetVASRealmList|HasDistributionList|HasProductList|HasProductType|HasPurchaseInProgress|HasPurchaseList|IsAvailable|IsRegionLocked|PurchaseProduct|PurchaseProductConfirm|PurchaseVASProduct|SetDisconnectOnLogout|SetVASProductReady))\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_PurchaseAPI)\b(?:(\.)(?:(__wow_bundle_api__)|(AckFailure|AssignToTarget|DeliverProduct|GetCharacterInfoByGUID|GetCharactersForRealm|GetConfirmationInfo|GetCurrencyID|GetDeliverStatus|GetDistributionInfo|GetDistributionList|GetEligibleRacesForRaceChange|GetEntryInfo|GetFailureInfo|GetProductGroupInfo|GetProductGroups|GetProductInfo|GetProductList|GetProducts|GetPurchaseList|GetPurchaseStatus|GetRealmList|GetUnrevokedBoostInfo|GetVASCompletionInfo|GetVASErrors|GetVASRealmList|HasDistributionList|HasProductList|HasProductType|HasPurchaseInProgress|HasPurchaseList|IsAvailable|IsRegionLocked|PurchaseProduct|PurchaseProductConfirm|PurchaseVASProduct|SetDisconnectOnLogout|SetVASProductReady))\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1428,11 +1433,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1442,9 +1442,14 @@
 		<!-- C_PvP -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_PvP)\b(?:(?:(\.)(GetArenaCrowdControlInfo|GetArenaRewards|GetArenaSkirmishRewards|GetBrawlInfo|GetBrawlRewards|GetGlobalPvpScalingInfoForSpecID|GetRandomBGRewards|GetRatedBGRewards|GetSkirmishInfo|HasArenaSkirmishWinToday|IsBattlegroundEnlistmentBonusActive|IsInBrawl|JoinBrawl|RequestCrowdControlSpell)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_PvP)\b(?:(\.)(?:(GetArenaCrowdControlInfo|GetArenaRewards|GetArenaSkirmishRewards|GetBrawlInfo|GetBrawlRewards|GetGlobalPvpScalingInfoForSpecID|GetRandomBGRewards|GetRatedBGRewards|GetSkirmishInfo|HasArenaSkirmishWinToday|IsBattlegroundEnlistmentBonusActive|IsInBrawl|JoinBrawl|RequestCrowdControlSpell)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1456,11 +1461,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1470,9 +1470,14 @@
 		<!-- C_Questline -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_Questline)\b(?:(?:(\.)(GetNumAvailableQuestlines|GetQuestlineInfoByIndex)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_Questline)\b(?:(\.)(?:(GetNumAvailableQuestlines|GetQuestlineInfoByIndex)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1484,11 +1489,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1498,9 +1498,14 @@
 		<!-- C_RecruitAFriend -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_RecruitAFriend)\b(?:(?:(\.)(CheckEmailEnabled|GetRecruitInfo|IsSendingEnabled|SendRecruit)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_RecruitAFriend)\b(?:(\.)(?:(CheckEmailEnabled|GetRecruitInfo|IsSendingEnabled|SendRecruit)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1512,11 +1517,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1526,9 +1526,14 @@
 		<!-- C_Reputation -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_Reputation)\b(?:(?:(\.)(GetFactionParagonInfo|IsFactionParagon|RequestFactionParagonPreloadRewardData)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_Reputation)\b(?:(\.)(?:(GetFactionParagonInfo|IsFactionParagon|RequestFactionParagonPreloadRewardData)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1540,11 +1545,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1554,9 +1554,14 @@
 		<!-- C_Scenario -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_Scenario)\b(?:(?:(\.)(GetBonusStepRewardQuestID|GetBonusSteps|GetCriteriaInfo|GetCriteriaInfoByStep|GetInfo|GetProvingGroundsInfo|GetScenarioIconInfo|GetStepInfo|GetSupersededObjectives|IsInScenario|ShouldShowCriteria|TreatScenarioAsDungeon)|(GetBonusCriteriaInfo|GetBonusStepInfo|IsChallengeMode))\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_Scenario)\b(?:(\.)(?:(GetBonusStepRewardQuestID|GetBonusSteps|GetCriteriaInfo|GetCriteriaInfoByStep|GetInfo|GetProvingGroundsInfo|GetScenarioIconInfo|GetStepInfo|GetSupersededObjectives|IsInScenario|ShouldShowCriteria|TreatScenarioAsDungeon)|(GetBonusCriteriaInfo|GetBonusStepInfo|IsChallengeMode))\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1568,11 +1573,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1582,9 +1582,14 @@
 		<!-- C_SecureTransfer -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_SecureTransfer)\b(?:(?:(\.)(AcceptTrade|Cancel|GetMailInfo|SendMail)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_SecureTransfer)\b(?:(\.)(?:(AcceptTrade|Cancel|GetMailInfo|SendMail)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api-secure</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1596,11 +1601,6 @@
 					<string>support.function.wow-api-secure</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api-secure</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1610,9 +1610,14 @@
 		<!-- C_SharedCharacterServices -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_SharedCharacterServices)\b(?:(?:(\.)(AssignUpgradeDistribution|GetLastSeenUpgradePopup|GetUpgradeDistributions|HasFreePromotionalUpgrade|HasSeenFreePromotionalUpgradePopup|IsPurchaseIDPendingUpgrade|QueryClassTrialBoostResult|SetPopupSeen|SetPromotionalPopupSeen|SetStartAutomatically)|(HasFreeDistribution|HasSeenPopup))\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_SharedCharacterServices)\b(?:(\.)(?:(AssignUpgradeDistribution|GetLastSeenUpgradePopup|GetUpgradeDistributions|HasFreePromotionalUpgrade|HasSeenFreePromotionalUpgradePopup|IsPurchaseIDPendingUpgrade|QueryClassTrialBoostResult|SetPopupSeen|SetPromotionalPopupSeen|SetStartAutomatically)|(HasFreeDistribution|HasSeenPopup))\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1624,11 +1629,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1638,9 +1638,14 @@
 		<!-- C_SocialQueue -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_SocialQueue)\b(?:(?:(\.)(GetAllGroups|GetConfig|GetGroupForPlayer|GetGroupInfo|GetGroupMembers|GetGroupQueues|RequestToJoin|SignalToastDisplayed)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_SocialQueue)\b(?:(\.)(?:(GetAllGroups|GetConfig|GetGroupForPlayer|GetGroupInfo|GetGroupMembers|GetGroupQueues|RequestToJoin|SignalToastDisplayed)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1652,11 +1657,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1666,9 +1666,14 @@
 		<!-- C_Social -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_Social)\b(?:(?:(\.)(GetLastAchievement|GetLastItem|GetLastScreenshot|GetNumCharactersPerMedia|GetScreenshotByIndex|GetTweetLength|IsSocialEnabled|RegisterSocialBrowser|SetTextureToScreenshot|TwitterCheckStatus|TwitterConnect|TwitterDisconnect|TwitterGetMSTillCanPost|TwitterPostAchievement|TwitterPostMessage|TwitterPostScreenshot)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_Social)\b(?:(\.)(?:(GetLastAchievement|GetLastItem|GetLastScreenshot|GetNumCharactersPerMedia|GetScreenshotByIndex|GetTweetLength|IsSocialEnabled|RegisterSocialBrowser|SetTextureToScreenshot|TwitterCheckStatus|TwitterConnect|TwitterDisconnect|TwitterGetMSTillCanPost|TwitterPostAchievement|TwitterPostMessage|TwitterPostScreenshot)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1680,11 +1685,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1694,9 +1694,14 @@
 		<!-- C_StorePublic -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_StorePublic)\b(?:(?:(\.)(IsDisabledByParentalControls|IsEnabled)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_StorePublic)\b(?:(\.)(?:(IsDisabledByParentalControls|IsEnabled)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1708,11 +1713,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1722,9 +1722,14 @@
 		<!-- C_StoreSecure -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_StoreSecure)\b(?:(?:(\.)(AckFailure|GetBnetTransferInfo|GetCharacterInfoByGUID|GetCharactersForRealm|GetConfirmationInfo|GetCurrencyID|GetEligibleRacesForRaceChange|GetEntryInfo|GetFailureInfo|GetProductGroupInfo|GetProductGroups|GetProductInfo|GetProductList|GetProducts|GetPurchaseList|GetRealmList|GetUnrevokedBoostInfo|GetVASCompletionInfo|GetVASErrors|GetVASRealmList|GetWoWAccountGUIDFromName|HasDistributionList|HasProductList|HasProductType|HasPurchaseInProgress|HasPurchaseList|IsAvailable|IsRegionLocked|PurchaseProduct|PurchaseProductConfirm|PurchaseVASProduct|RequestPriceInfo|SetDisconnectOnLogout|SetVASProductReady|ValidateBnetTransfer)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_StoreSecure)\b(?:(\.)(?:(AckFailure|GetBnetTransferInfo|GetCharacterInfoByGUID|GetCharactersForRealm|GetConfirmationInfo|GetCurrencyID|GetEligibleRacesForRaceChange|GetEntryInfo|GetFailureInfo|GetProductGroupInfo|GetProductGroups|GetProductInfo|GetProductList|GetProducts|GetPurchaseList|GetRealmList|GetUnrevokedBoostInfo|GetVASCompletionInfo|GetVASErrors|GetVASRealmList|GetWoWAccountGUIDFromName|HasDistributionList|HasProductList|HasProductType|HasPurchaseInProgress|HasPurchaseList|IsAvailable|IsRegionLocked|PurchaseProduct|PurchaseProductConfirm|PurchaseVASProduct|RequestPriceInfo|SetDisconnectOnLogout|SetVASProductReady|ValidateBnetTransfer)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api-secure</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1736,11 +1741,6 @@
 					<string>support.function.wow-api-secure</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api-secure</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1750,9 +1750,14 @@
 		<!-- C_TalkingHead -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_TalkingHead)\b(?:(?:(\.)(GetConversationsDeferred|GetCurrentLineAnimationInfo|GetCurrentLineInfo|IgnoreCurrentTalkingHead|IsCurrentTalkingHeadIgnored|SetConversationsDeferred)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_TalkingHead)\b(?:(\.)(?:(GetConversationsDeferred|GetCurrentLineAnimationInfo|GetCurrentLineInfo|IgnoreCurrentTalkingHead|IsCurrentTalkingHeadIgnored|SetConversationsDeferred)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1764,11 +1769,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1778,9 +1778,14 @@
 		<!-- C_TaskQuest -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_TaskQuest)\b(?:(?:(\.)(GetDistanceSqToQuest|GetQuestInfoByQuestID|GetQuestLocation|GetQuestProgressBarInfo|GetQuestTimeLeftMinutes|GetQuestZoneID|GetQuestsForPlayerByMapID|IsActive|RequestPreloadRewardData)|(GetQuestObjectiveStrByQuestID|GetQuestProgressBarInfo|GetQuestTitleByQuestID))\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_TaskQuest)\b(?:(\.)(?:(GetDistanceSqToQuest|GetQuestInfoByQuestID|GetQuestLocation|GetQuestProgressBarInfo|GetQuestTimeLeftMinutes|GetQuestZoneID|GetQuestsForPlayerByMapID|IsActive|RequestPreloadRewardData)|(GetQuestObjectiveStrByQuestID|GetQuestProgressBarInfo|GetQuestTitleByQuestID))\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1792,11 +1797,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1806,9 +1806,14 @@
 		<!-- C_Timer -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_Timer)\b(?:(?:(\.)(After|NewTicker|NewTimer)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_Timer)\b(?:(\.)(?:(After|NewTicker|NewTimer)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1820,11 +1825,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1834,9 +1834,14 @@
 		<!-- C_ToyBox -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_ToyBox)\b(?:(?:(\.)(ForceToyRefilter|GetCollectedShown|GetIsFavorite|GetNumFilteredToys|GetNumLearnedDisplayedToys|GetNumTotalDisplayedToys|GetNumToys|GetToyFromIndex|GetToyInfo|GetToyLink|GetUncollectedShown|HasFavorites|IsSourceTypeFilterChecked|IsToyUsable|PickupToyBoxItem|SetAllSourceTypeFilters|SetCollectedShown|SetFilterString|SetIsFavorite|SetSourceTypeFilter|SetUncollectedShown)|(ClearAllSourceTypesFiltered|FilterToys|GetFilterCollected|GetFilterUncollected|IsSourceTypeFiltered|SetAllSourceTypesFiltered|SetFilterCollected|SetFilterSourceType|SetFilterUncollected))\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_ToyBox)\b(?:(\.)(?:(ForceToyRefilter|GetCollectedShown|GetIsFavorite|GetNumFilteredToys|GetNumLearnedDisplayedToys|GetNumTotalDisplayedToys|GetNumToys|GetToyFromIndex|GetToyInfo|GetToyLink|GetUncollectedShown|HasFavorites|IsSourceTypeFilterChecked|IsToyUsable|PickupToyBoxItem|SetAllSourceTypeFilters|SetCollectedShown|SetFilterString|SetIsFavorite|SetSourceTypeFilter|SetUncollectedShown)|(ClearAllSourceTypesFiltered|FilterToys|GetFilterCollected|GetFilterUncollected|IsSourceTypeFiltered|SetAllSourceTypesFiltered|SetFilterCollected|SetFilterSourceType|SetFilterUncollected))\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1848,11 +1853,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1862,9 +1862,14 @@
 		<!-- C_TradeSkillUI -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_TradeSkillUI)\b(?:(?:(\.)(AnyRecipeCategoriesFiltered|AreAnyInventorySlotsFiltered|CanObliterateCursorItem|CanTradeSkillListLink|ClearInventorySlotFilter|ClearPendingObliterateItem|ClearRecipeCategoryFilter|ClearRecipeSourceTypeFilter|CloseObliterumForge|CloseTradeSkill|CraftRecipe|DropPendingObliterateItemFromCursor|GetAllFilterableInventorySlots|GetAllRecipeIDs|GetCategories|GetCategoryInfo|GetFilterableInventorySlots|GetFilteredRecipeIDs|GetObliterateSpellID|GetOnlyShowLearnedRecipes|GetOnlyShowMakeableRecipes|GetOnlyShowSkillUpRecipes|GetOnlyShowUnlearnedRecipes|GetPendingObliterateItemID|GetPendingObliterateItemLink|GetRecipeCooldown|GetRecipeDescription|GetRecipeInfo|GetRecipeItemLevelFilter|GetRecipeItemLink|GetRecipeItemNameFilter|GetRecipeLink|GetRecipeNumItemsProduced|GetRecipeNumReagents|GetRecipeReagentInfo|GetRecipeReagentItemLink|GetRecipeRepeatCount|GetRecipeSourceText|GetRecipeTools|GetSubCategories|GetTradeSkillLine|GetTradeSkillLineForRecipe|GetTradeSkillListLink|GetTradeSkillTexture|IsAnyRecipeFromSource|IsDataSourceChanging|IsInventorySlotFiltered|IsNPCCrafting|IsRecipeCategoryFiltered|IsRecipeFavorite|IsRecipeRepeating|IsRecipeSearchInProgress|IsRecipeSourceTypeFiltered|IsTradeSkillGuild|IsTradeSkillLinked|IsTradeSkillReady|ObliterateItem|OpenTradeSkill|SetInventorySlotFilter|SetOnlyShowLearnedRecipes|SetOnlyShowMakeableRecipes|SetOnlyShowSkillUpRecipes|SetOnlyShowUnlearnedRecipes|SetRecipeCategoryFilter|SetRecipeFavorite|SetRecipeItemLevelFilter|SetRecipeItemNameFilter|SetRecipeRepeatCount|SetRecipeSourceTypeFilter|StopRecipeRepeat)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_TradeSkillUI)\b(?:(\.)(?:(AnyRecipeCategoriesFiltered|AreAnyInventorySlotsFiltered|CanObliterateCursorItem|CanTradeSkillListLink|ClearInventorySlotFilter|ClearPendingObliterateItem|ClearRecipeCategoryFilter|ClearRecipeSourceTypeFilter|CloseObliterumForge|CloseTradeSkill|CraftRecipe|DropPendingObliterateItemFromCursor|GetAllFilterableInventorySlots|GetAllRecipeIDs|GetCategories|GetCategoryInfo|GetFilterableInventorySlots|GetFilteredRecipeIDs|GetObliterateSpellID|GetOnlyShowLearnedRecipes|GetOnlyShowMakeableRecipes|GetOnlyShowSkillUpRecipes|GetOnlyShowUnlearnedRecipes|GetPendingObliterateItemID|GetPendingObliterateItemLink|GetRecipeCooldown|GetRecipeDescription|GetRecipeInfo|GetRecipeItemLevelFilter|GetRecipeItemLink|GetRecipeItemNameFilter|GetRecipeLink|GetRecipeNumItemsProduced|GetRecipeNumReagents|GetRecipeReagentInfo|GetRecipeReagentItemLink|GetRecipeRepeatCount|GetRecipeSourceText|GetRecipeTools|GetSubCategories|GetTradeSkillLine|GetTradeSkillLineForRecipe|GetTradeSkillListLink|GetTradeSkillTexture|IsAnyRecipeFromSource|IsDataSourceChanging|IsInventorySlotFiltered|IsNPCCrafting|IsRecipeCategoryFiltered|IsRecipeFavorite|IsRecipeRepeating|IsRecipeSearchInProgress|IsRecipeSourceTypeFiltered|IsTradeSkillGuild|IsTradeSkillLinked|IsTradeSkillReady|ObliterateItem|OpenTradeSkill|SetInventorySlotFilter|SetOnlyShowLearnedRecipes|SetOnlyShowMakeableRecipes|SetOnlyShowSkillUpRecipes|SetOnlyShowUnlearnedRecipes|SetRecipeCategoryFilter|SetRecipeFavorite|SetRecipeItemLevelFilter|SetRecipeItemNameFilter|SetRecipeRepeatCount|SetRecipeSourceTypeFilter|StopRecipeRepeat)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1876,11 +1881,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1890,9 +1890,14 @@
 		<!-- C_TransmogCollection -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_TransmogCollection)\b(?:(?:(\.)(CanSetFavoriteInCategory|ClearNewAppearance|ClearSearch|DeleteOutfit|EndSearch|GetAllAppearanceSources|GetAppearanceCameraID|GetAppearanceCameraIDBySource|GetAppearanceInfoBySource|GetAppearanceSourceDrops|GetAppearanceSourceInfo|GetAppearanceSources|GetCategoryAppearances|GetCategoryCollectedCount|GetCategoryInfo|GetCategoryTotal|GetCollectedShown|GetIllusionFallbackWeaponSource|GetIllusionSourceInfo|GetIllusions|GetInspectSources|GetIsAppearanceFavorite|GetItemInfo|GetLatestAppearance|GetNumMaxOutfits|GetNumTransmogSources|GetOutfitName|GetOutfitSources|GetOutfits|GetShowMissingSourceInItemTooltips|GetSourceIcon|GetSourceInfo|GetUncollectedShown|HasFavorites|IsCategoryValidForItem|IsNewAppearance|IsSearchDBLoading|IsSearchInProgress|IsSourceTypeFilterChecked|ModifyOutfit|PlayerCanCollectSource|PlayerHasTransmog|PlayerHasTransmogItemModifiedAppearance|PlayerKnowsSource|SaveOutfit|SearchProgress|SearchSize|SetAllSourceTypeFilters|SetCollectedShown|SetIsAppearanceFavorite|SetSearch|SetSearchAndFilterCategory|SetShowMissingSourceInItemTooltips|SetSourceTypeFilter|SetUncollectedShown|UpdateUsableAppearances)|(SetFilterCategory))\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_TransmogCollection)\b(?:(\.)(?:(CanSetFavoriteInCategory|ClearNewAppearance|ClearSearch|DeleteOutfit|EndSearch|GetAllAppearanceSources|GetAppearanceCameraID|GetAppearanceCameraIDBySource|GetAppearanceInfoBySource|GetAppearanceSourceDrops|GetAppearanceSourceInfo|GetAppearanceSources|GetCategoryAppearances|GetCategoryCollectedCount|GetCategoryInfo|GetCategoryTotal|GetCollectedShown|GetIllusionFallbackWeaponSource|GetIllusionSourceInfo|GetIllusions|GetInspectSources|GetIsAppearanceFavorite|GetItemInfo|GetLatestAppearance|GetNumMaxOutfits|GetNumTransmogSources|GetOutfitName|GetOutfitSources|GetOutfits|GetShowMissingSourceInItemTooltips|GetSourceIcon|GetSourceInfo|GetUncollectedShown|HasFavorites|IsCategoryValidForItem|IsNewAppearance|IsSearchDBLoading|IsSearchInProgress|IsSourceTypeFilterChecked|ModifyOutfit|PlayerCanCollectSource|PlayerHasTransmog|PlayerHasTransmogItemModifiedAppearance|PlayerKnowsSource|SaveOutfit|SearchProgress|SearchSize|SetAllSourceTypeFilters|SetCollectedShown|SetIsAppearanceFavorite|SetSearch|SetSearchAndFilterCategory|SetShowMissingSourceInItemTooltips|SetSourceTypeFilter|SetUncollectedShown|UpdateUsableAppearances)|(SetFilterCategory))\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1904,11 +1909,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1918,9 +1918,14 @@
 		<!-- C_TransmogSets -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_TransmogSets)\b(?:(?:(\.)(ClearLatestSource|ClearNewSource|ClearSetNewSourcesForSlot|GetAllSets|GetAllSourceIDs|GetBaseSetID|GetBaseSets|GetBaseSetsCounts|GetBaseSetsFilter|GetCameraIDs|GetIsFavorite|GetLatestSource|GetSetInfo|GetSetNewSources|GetSetSources|GetSetsContainingSourceID|GetSourceIDsForSlot|GetSourcesForSlot|GetUsableSets|HasUsableSets|GetVariantSets|IsBaseSetCollected|IsNewSource|IsSetCollected|IsSetUsable|SetBaseSetsFilter|SetHasNewSources|SetHasNewSourcesForSlot|SetIsFavorite)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_TransmogSets)\b(?:(\.)(?:(ClearLatestSource|ClearNewSource|ClearSetNewSourcesForSlot|GetAllSets|GetAllSourceIDs|GetBaseSetID|GetBaseSets|GetBaseSetsCounts|GetBaseSetsFilter|GetCameraIDs|GetIsFavorite|GetLatestSource|GetSetInfo|GetSetNewSources|GetSetSources|GetSetsContainingSourceID|GetSourceIDsForSlot|GetSourcesForSlot|GetUsableSets|HasUsableSets|GetVariantSets|IsBaseSetCollected|IsNewSource|IsSetCollected|IsSetUsable|SetBaseSetsFilter|SetHasNewSources|SetHasNewSourcesForSlot|SetIsFavorite)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1932,11 +1937,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1946,9 +1946,14 @@
 		<!-- C_Transmog -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_Transmog)\b(?:(?:(\.)(ApplyAllPending|CanTransmogItemWithItem|ClearPending|Close|GetApplyWarnings|GetCost|GetItemInfo|GetSlotForInventoryType|GetSlotInfo|GetSlotUseError|GetSlotVisualInfo|LoadOutfit|LoadSources|SetPending|ValidateAllPending)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_Transmog)\b(?:(\.)(?:(ApplyAllPending|CanTransmogItemWithItem|ClearPending|Close|GetApplyWarnings|GetCost|GetItemInfo|GetSlotForInventoryType|GetSlotInfo|GetSlotUseError|GetSlotVisualInfo|LoadOutfit|LoadSources|SetPending|ValidateAllPending)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1960,11 +1965,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -1974,9 +1974,14 @@
 		<!-- C_Trophy -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_Trophy)\b(?:(?:(\.)(MonumentChangeAppearanceToTrophyID|MonumentCloseMonumentUI|MonumentGetCount|MonumentGetSelectedTrophyID|MonumentGetTrophyInfoByIndex|MonumentLoadList|MonumentLoadSelectedTrophyID|MonumentRevertAppearanceToSaved|MonumentSaveSelection)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_Trophy)\b(?:(\.)(?:(MonumentChangeAppearanceToTrophyID|MonumentCloseMonumentUI|MonumentGetCount|MonumentGetSelectedTrophyID|MonumentGetTrophyInfoByIndex|MonumentLoadList|MonumentLoadSelectedTrophyID|MonumentRevertAppearanceToSaved|MonumentSaveSelection)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -1988,11 +1993,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -2002,9 +2002,14 @@
 		<!-- C_UI -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_UI)\b(?:(?:(\.)(Reload)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_UI)\b(?:(\.)(?:(Reload)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -2016,11 +2021,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -2030,9 +2030,14 @@
 		<!-- C_Vignettes -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_Vignettes)\b(?:(?:(\.)(GetNumVignettes|GetVignetteGUID|GetVignetteInfoFromInstanceID)|(GetVignetteInstanceID))\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_Vignettes)\b(?:(\.)(?:(GetNumVignettes|GetVignetteGUID|GetVignetteInfoFromInstanceID)|(GetVignetteInstanceID))\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -2044,11 +2049,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -2058,9 +2058,14 @@
 		<!-- C_WorldMap -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_WorldMap)\b(?:(?:(\.)(GetAreaPOIForMap|GetAreaPOIInfo|GetAreaPOITimeLeft|GetMapLandmarkInfo|IsAreaPOITimed)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_WorldMap)\b(?:(\.)(?:(GetAreaPOIForMap|GetAreaPOIInfo|GetAreaPOITimeLeft|GetMapLandmarkInfo|IsAreaPOITimed)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -2072,11 +2077,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -2086,9 +2086,14 @@
 		<!-- C_WoWTokenPublic -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_WowTokenPublic)\b(?:(?:(\.)(BuyToken|GetCommerceSystemStatus|GetCurrentMarketPrice|GetGuaranteedPrice|GetListedAuctionableTokenInfo|GetNumListedAuctionableTokens|IsAuctionableWowToken|IsConsumableWowToken|SellToken|UpdateListedAuctionableTokens|UpdateMarketPrice|UpdateTokenCount)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_WowTokenPublic)\b(?:(\.)(?:(BuyToken|GetCommerceSystemStatus|GetCurrentMarketPrice|GetGuaranteedPrice|GetListedAuctionableTokenInfo|GetNumListedAuctionableTokens|IsAuctionableWowToken|IsConsumableWowToken|SellToken|UpdateListedAuctionableTokens|UpdateMarketPrice|UpdateTokenCount)|())\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -2100,11 +2105,6 @@
 					<string>support.function.wow-api</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -2114,9 +2114,14 @@
 		<!-- C_WoWTokenSecure -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_WowTokenSecure)\b(?:(?:(\.)(CanRedeemForBalance|CancelRedeem|ConfirmBuyToken|ConfirmSellToken|GetBalanceRedeemAmount|GetBalanceRedemptionInfo|GetGameTimeRedemptionInfo|GetPriceLockDuration|GetRemainingGameTime|GetTokenCount|GetValidRedemptionTypes|IsRedemptionStillValid|RedeemToken|RedeemTokenConfirm|SetBalanceAmountString|WillKickFromWorld)|(GetRedemptionInfo))\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_WowTokenSecure)\b(?:(\.)(?:(CanRedeemForBalance|CancelRedeem|ConfirmBuyToken|ConfirmSellToken|GetBalanceRedeemAmount|GetBalanceRedemptionInfo|GetGameTimeRedemptionInfo|GetPriceLockDuration|GetRemainingGameTime|GetTokenCount|GetValidRedemptionTypes|IsRedemptionStillValid|RedeemToken|RedeemTokenConfirm|SetBalanceAmountString|WillKickFromWorld)|(GetRedemptionInfo))\b)?</string>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api-secure</string>
+				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
@@ -2128,11 +2133,6 @@
 					<string>support.function.wow-api-secure</string>
 				</dict>
 				<key>4</key>
-				<dict>
-					<key>name</key>
-					<string>support.function.wow-api-secure</string>
-				</dict>
-				<key>5</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
@@ -2156,20 +2156,20 @@
 		<!-- WoW Soundkits -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(SOUNDKIT)\b(?:(?:(\.)(ACHIEVEMENT_MENU_CLOSE|ACHIEVEMENT_MENU_OPEN|ALARM_CLOCK_WARNING_1|ALARM_CLOCK_WARNING_2|ALARM_CLOCK_WARNING_3|AMB_50_GLUESCREEN_ALLIANCE|AMB_50_GLUESCREEN_HORDE|AMB_50_GLUESCREEN_PANDAREN_NEUTRAL|AMB_GLUESCREEN_BLOODELF|AMB_GLUESCREEN_DEATHKNIGHT|AMB_GLUESCREEN_DEMONHUNTER|AMB_GLUESCREEN_DRAENEI|AMB_GLUESCREEN_DWARF|AMB_GLUESCREEN_GNOME|AMB_GLUESCREEN_GOBLIN|AMB_GLUESCREEN_HUMAN|AMB_GLUESCREEN_LEGION|AMB_GLUESCREEN_NIGHTELF|AMB_GLUESCREEN_ORC|AMB_GLUESCREEN_PANDAREN|AMB_GLUESCREEN_TAUREN|AMB_GLUESCREEN_TROLL|AMB_GLUESCREEN_UNDEAD|AMB_GLUESCREEN_WARLORDS_OF_DRAENOR|AMB_GLUESCREEN_WORGEN|AUCTION_WINDOW_CLOSE|AUCTION_WINDOW_OPEN|BARBERSHOP_HAIRCUT|BARBERSHOP_SIT|FISHING_REEL_IN|GLUESCREEN_INTRO|GM_CHAT_WARNING|GS_CATACLYSM|GS_CHARACTER_CREATION_CANCEL|GS_CHARACTER_CREATION_CLASS|GS_CHARACTER_CREATION_CREATE_CHAR|GS_CHARACTER_CREATION_LOOK|GS_CHARACTER_SELECTION_ACCT_OPTIONS|GS_CHARACTER_SELECTION_CREATE_NEW|GS_CHARACTER_SELECTION_DEL_CHARACTER|GS_CHARACTER_SELECTION_ENTER_WORLD|GS_CHARACTER_SELECTION_EXIT|GS_LICH_KING|GS_LOGIN|GS_LOGIN_CHANGE_REALM_CANCEL|GS_LOGIN_CHANGE_REALM_OK|GS_LOGIN_NEW_ACCOUNT|GS_TITLE_CREDITS|GS_TITLE_OPTION_EXIT|GS_TITLE_OPTION_OK|GS_TITLE_OPTIONS|GUILD_BANK_OPEN_BAG|GUILD_VAULT_CLOSE|GUILD_VAULT_OPEN|IG_ABILITY_CLOSE|IG_ABILITY_ICON_DROP|IG_ABILITY_OPEN|IG_ABILITY_PAGE_TURN|IG_BACKPACK_CLOSE|IG_BACKPACK_COIN_CANCEL|IG_BACKPACK_COIN_OK|IG_BACKPACK_COIN_SELECT|IG_BACKPACK_OPEN|IG_CHARACTER_INFO_CLOSE|IG_CHARACTER_INFO_OPEN|IG_CHARACTER_INFO_TAB|IG_CHARACTER_NPC_SELECT|IG_CHAT_BOTTOM|IG_CHAT_EMOTE_BUTTON|IG_CHAT_SCROLL_DOWN|IG_CHAT_SCROLL_UP|IG_CREATURE_AGGRO_SELECT|IG_CREATURE_NEUTRAL_SELECT|IG_INVENTORY_ROTATE_CHARACTER|IG_MAINMENU_CLOSE|IG_MAINMENU_CONTINUE|IG_MAINMENU_LOGOUT|IG_MAINMENU_OPEN|IG_MAINMENU_OPTION|IG_MAINMENU_OPTION_CHECKBOX_OFF|IG_MAINMENU_OPTION_CHECKBOX_ON|IG_MAINMENU_OPTION_FAER_TAB|IG_MAINMENU_QUIT|IG_MINIMAP_CLOSE|IG_MINIMAP_OPEN|IG_MINIMAP_ZOOM_IN|IG_MINIMAP_ZOOM_OUT|IG_PLAYER_INVITE|IG_PVP_UPDATE|IG_QUEST_CANCEL|IG_QUEST_LIST_CLOSE|IG_QUEST_LIST_COMPLETE|IG_QUEST_LIST_OPEN|IG_QUEST_LIST_SELECT|IG_QUEST_LOG_ABANDON_QUEST|IG_QUEST_LOG_CLOSE|IG_QUEST_LOG_OPEN|IG_SPELLBOOK_CLOSE|IG_SPELLBOOK_OPEN|INTERFACE_SOUND_LOST_TARGET_UNIT|ITEM_REPAIR|JEWEL_CRAFTING_FINALIZE|KEY_RING_CLOSE|KEY_RING_OPEN|LFG_DENIED|LFG_REWARDS|LFG_ROLE_CHECK|LOOT_WINDOW_COIN_SOUND|LOOT_WINDOW_OPEN_EMPTY|MAP_PING|MENU_CREDITS01|MENU_CREDITS02|MENU_CREDITS03|MENU_CREDITS04|MENU_CREDITS05|MENU_CREDITS06|MENU_CREDITS07|MONEY_FRAME_CLOSE|MONEY_FRAME_OPEN|MUS_1_0_MAINTITLE_ORIGINAL|MUS_50_HEART_OF_PANDARIA_MAINTITLE|MUS_60_MAIN_TITLE|MUS_70_MAIN_TITLE|PICK_UP_GEMS|PUT_DOWN_GEMS|PUT_DOWN_SMALL_CHAIN|PVP_ENTER_QUEUE|PVP_THROUGH_QUEUE|RAID_BOSS_EMOTE_WARNING|RAID_WARNING|READY_CHECK|TELL_MESSAGE|TUTORIAL_POPUP|U_CHAT_SCROLL_BUTTON|UI_70_ARTIFACT_FORGE_APPEARANCE_APPEARANCE_CHANGE|UI_70_ARTIFACT_FORGE_APPEARANCE_APPEARANCE_UNLOCK|UI_70_ARTIFACT_FORGE_APPEARANCE_COLOR_SELECT|UI_70_ARTIFACT_FORGE_APPEARANCE_LOCKED|UI_70_ARTIFACT_FORGE_RELIC_PLACE|UI_70_ARTIFACT_FORGE_TOAST_TRAIT_AVAILABLE|UI_70_ARTIFACT_FORGE_TRAIT_FINALRANK|UI_70_ARTIFACT_FORGE_TRAIT_FIRST_TRAIT|UI_70_ARTIFACT_FORGE_TRAIT_GOLD_TRAIT|UI_70_ARTIFACT_FORGE_TRAIT_RANKUP|UI_70_BOOST_THANKSFORPLAYING|UI_70_BOOST_THANKSFORPLAYING_SMALLER|UI_70_CHALLENGE_MODE_COMPLETE_NO_UPGRADE|UI_70_CHALLENGE_MODE_KEYSTONE_UPGRADE|UI_70_CHALLENGE_MODE_NEW_RECORD|UI_70_CHALLENGE_MODE_SOCKET_PAGE_ACTIVATE_BUTTON|UI_70_CHALLENGE_MODE_SOCKET_PAGE_CLOSE|UI_70_CHALLENGE_MODE_SOCKET_PAGE_OPEN|UI_70_CHALLENGE_MODE_SOCKET_PAGE_REMOVE_KEYSTONE|UI_70_CHALLENGE_MODE_SOCKET_PAGE_SOCKET|UI_71_SOCIAL_QUEUEING_TOAST|UI_72_ARTIFACT_FORGE_ACTIVATE_FINAL_TIER|UI_72_ARTIFACT_FORGE_FINAL_TRAIT_REFUND_LOOP|UI_72_ARTIFACT_FORGE_FINAL_TRAIT_REFUND_START|UI_72_ARTIFACT_FORGE_FINAL_TRAIT_UNLOCKED|UI_72_BUILDING_CONTRIBUTION_TABLE_OPEN|UI_72_BUILDINGS_CONTRIBUTE_POWER_MENU_CLICK|UI_72_BUILDINGS_CONTRIBUTE_RESOURCES|UI_72_BUILDINGS_CONTRIBUTION_TABLE_CLOSE|UI_73_ARTIFACT_RELICS_TRAIT_REVEAL_ONLY|UI_73_ARTIFACT_RELICS_TRAIT_SELECT_AND_REVEAL|UI_73_ARTIFACT_RELICS_TRAIT_SELECT_ONLY|UI_AUTO_QUEST_COMPLETE|UI_BAG_SORTING_01|UI_BATTLEGROUND_COUNTDOWN_FINISHED|UI_BATTLEGROUND_COUNTDOWN_TIMER|UI_BNET_TOAST|UI_BONUS_EVENT_SYSTEM_VIGNETTES|UI_BONUS_LOOT_ROLL_END|UI_BONUS_LOOT_ROLL_LOOP|UI_BONUS_LOOT_ROLL_START|UI_CHALLENGES_NEW_RECORD|UI_DIG_SITE_COMPLETION_TOAST|UI_EPICLOOT_TOAST|UI_ETHEREAL_WINDOW_CLOSE|UI_ETHEREAL_WINDOW_OPEN|UI_GARRISON_ARCHITECT_TABLE_BUILDING_PLACEMENT|UI_GARRISON_ARCHITECT_TABLE_BUILDING_PLACEMENT_ERROR|UI_GARRISON_ARCHITECT_TABLE_BUILDING_SELECT|UI_GARRISON_ARCHITECT_TABLE_CLOSE|UI_GARRISON_ARCHITECT_TABLE_OPEN|UI_GARRISON_ARCHITECT_TABLE_PLOT_SELECT|UI_GARRISON_ARCHITECT_TABLE_UPGRADE|UI_GARRISON_ARCHITECT_TABLE_UPGRADE_CANCEL|UI_GARRISON_ARCHITECT_TABLE_UPGRADE_START|UI_GARRISON_COMMAND_TABLE_100_SUCCESS|UI_GARRISON_COMMAND_TABLE_ASSIGN_FOLLOWER|UI_GARRISON_COMMAND_TABLE_CHEST_UNLOCK|UI_GARRISON_COMMAND_TABLE_CHEST_UNLOCK_GOLD_SUCCESS|UI_GARRISON_COMMAND_TABLE_CLOSE|UI_GARRISON_COMMAND_TABLE_FOLLOWER_ABILITY_CLOSE|UI_GARRISON_COMMAND_TABLE_FOLLOWER_ABILITY_OPEN|UI_GARRISON_COMMAND_TABLE_FOLLOWER_LEVEL_UP|UI_GARRISON_COMMAND_TABLE_INCREASED_SUCCESS_CHANCE|UI_GARRISON_COMMAND_TABLE_MISSION_CLOSE|UI_GARRISON_COMMAND_TABLE_MISSION_START|UI_GARRISON_COMMAND_TABLE_MISSION_SUCCESS_STINGER|UI_GARRISON_COMMAND_TABLE_NAV_NEXT|UI_GARRISON_COMMAND_TABLE_OPEN|UI_GARRISON_COMMAND_TABLE_REDUCED_SUCCESS_CHANCE|UI_GARRISON_COMMAND_TABLE_SELECT_FOLLOWER|UI_GARRISON_COMMAND_TABLE_SELECT_MISSION|UI_GARRISON_COMMAND_TABLE_SLOT_CHAMPION|UI_GARRISON_COMMAND_TABLE_SLOT_TROOP|UI_GARRISON_COMMAND_TABLE_UNASSIGN_FOLLOWER|UI_GARRISON_COMMAND_TABLE_VIEW_MISSION_REPORT|UI_GARRISON_FOLLOWER_LEARN_TRAIT|UI_GARRISON_GARRISON_REPORT_CLOSE|UI_GARRISON_GARRISON_REPORT_OPEN|UI_GARRISON_MISSION_100_PERCENT_CHANCE_REACHED_NOT_USED|UI_GARRISON_MISSION_COMPLETE_ENCOUNTER_CHANCE|UI_GARRISON_MISSION_COMPLETE_ENCOUNTER_FAIL|UI_GARRISON_MISSION_COMPLETE_MISSION_FAIL_STINGER|UI_GARRISON_MISSION_COMPLETE_MISSION_SUCCESS|UI_GARRISON_MISSION_ENCOUNTER_ANIMATION_GENERIC|UI_GARRISON_MISSION_THREAT_COUNTERED|UI_GARRISON_MONUMENTS_CLOSE|UI_GARRISON_MONUMENTS_NAV|UI_GARRISON_MONUMENTS_OPEN|UI_GARRISON_NAV_TABS|UI_GARRISON_SHIPMENTS_WINDOW_CLOSE|UI_GARRISON_SHIPMENTS_WINDOW_OPEN|UI_GARRISON_SHIPYARD_DECOMISSION_SHIP|UI_GARRISON_SHIPYARD_PLACE_CARRIER|UI_GARRISON_SHIPYARD_PLACE_DREADNOUGHT|UI_GARRISON_SHIPYARD_PLACE_GALLEON|UI_GARRISON_SHIPYARD_PLACE_LANDING_CRAFT|UI_GARRISON_SHIPYARD_PLACE_SUBMARINE|UI_GARRISON_SHIPYARD_START_MISSION|UI_GARRISON_START_WORK_ORDER|UI_GARRISON_TOAST_BUILDING_COMPLETE|UI_GARRISON_TOAST_FOLLOWER_GAINED|UI_GARRISON_TOAST_INVASION_ALERT|UI_GARRISON_TOAST_MISSION_COMPLETE|UI_GROUP_FINDER_RECEIVE_APPLICATION|UI_IG_STORE_BUY_BUTTON|UI_IG_STORE_CANCEL_BUTTON|UI_IG_STORE_CONFIRM_PURCHASE_BUTTON|UI_IG_STORE_PAGE_NAV_BUTTON|UI_IG_STORE_PURCHASE_DELIVERED_TOAST_01|UI_IG_STORE_WINDOW_CLOSE_BUTTON|UI_IG_STORE_WINDOW_OPEN_BUTTON|UI_LEGENDARY_LOOT_TOAST|UI_LOSS_OF_CONTROL_START|UI_MISSION_200_PERCENT|UI_MISSION_MAP_ZOOM|UI_MISSION_SUCCESS_CHEERS|UI_ORDERHALL_TALENT_NUKE_FROM_ORBIT|UI_ORDERHALL_TALENT_READY_CHECK|UI_ORDERHALL_TALENT_READY_TOAST|UI_ORDERHALL_TALENT_SELECT|UI_ORDERHALL_TALENT_WINDOW_CLOSE|UI_ORDERHALL_TALENT_WINDOW_OPEN|UI_PERSONAL_LOOT_BANNER|UI_PET_BATTLE_CAMERA_MOVE_IN|UI_PET_BATTLE_CAMERA_MOVE_OUT|UI_PET_BATTLE_START|UI_PET_BATTLES_PVP_THROUGH_QUEUE|UI_PET_BATTLES_TRAP_READY|UI_POWER_AURA_GENERIC|UI_PROFESSIONS_NEW_RECIPE_LEARNED_TOAST|UI_PROFESSIONS_WINDOW_CLOSE|UI_PROFESSIONS_WINDOW_OPEN|UI_PVP_HONOR_PRESTIGE_OPEN_WINDOW|UI_PVP_HONOR_PRESTIGE_RANK_UP|UI_PVP_HONOR_PRESTIGE_WINDOW_CLOSE|UI_QUEST_ROLLING_FORWARD_01|UI_RAID_BOSS_DEFEATED|UI_RAID_BOSS_WHISPER_WARNING|UI_RAID_LOOT_TOAST_LESSER_ITEM_WON|UI_REFORGING_REFORGE|UI_SCENARIO_ENDING|UI_SCENARIO_STAGE_END|UI_STORE_UNWRAP|UI_TOYBOX_TABS|UI_TRANSMOG_APPLY|UI_TRANSMOG_CLOSE_WINDOW|UI_TRANSMOG_GEAR_SLOT_CLICK|UI_TRANSMOG_ITEM_CLICK|UI_TRANSMOG_OPEN_WINDOW|UI_TRANSMOG_PAGE_TURN|UI_TRANSMOG_REVERTING_GEAR_SLOT|UI_TRANSMOGRIFY_REDO|UI_TRANSMOGRIFY_UNDO|UI_VOID_STORAGE_BOTH|UI_VOID_STORAGE_DEPOSIT|UI_VOID_STORAGE_UNLOCK|UI_VOID_STORAGE_WITHDRAW|UI_WARFORGED_ITEM_LOOT_TOAST|UI_WORLDQUEST_COMPLETE|UI_WORLDQUEST_MAP_SELECT|UI_WORLDQUEST_START)|())\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(SOUNDKIT)\b(?:(\.)(?:(ACHIEVEMENT_MENU_CLOSE|ACHIEVEMENT_MENU_OPEN|ALARM_CLOCK_WARNING_1|ALARM_CLOCK_WARNING_2|ALARM_CLOCK_WARNING_3|AMB_50_GLUESCREEN_ALLIANCE|AMB_50_GLUESCREEN_HORDE|AMB_50_GLUESCREEN_PANDAREN_NEUTRAL|AMB_GLUESCREEN_BLOODELF|AMB_GLUESCREEN_DEATHKNIGHT|AMB_GLUESCREEN_DEMONHUNTER|AMB_GLUESCREEN_DRAENEI|AMB_GLUESCREEN_DWARF|AMB_GLUESCREEN_GNOME|AMB_GLUESCREEN_GOBLIN|AMB_GLUESCREEN_HUMAN|AMB_GLUESCREEN_LEGION|AMB_GLUESCREEN_NIGHTELF|AMB_GLUESCREEN_ORC|AMB_GLUESCREEN_PANDAREN|AMB_GLUESCREEN_TAUREN|AMB_GLUESCREEN_TROLL|AMB_GLUESCREEN_UNDEAD|AMB_GLUESCREEN_WARLORDS_OF_DRAENOR|AMB_GLUESCREEN_WORGEN|AUCTION_WINDOW_CLOSE|AUCTION_WINDOW_OPEN|BARBERSHOP_HAIRCUT|BARBERSHOP_SIT|FISHING_REEL_IN|GLUESCREEN_INTRO|GM_CHAT_WARNING|GS_CATACLYSM|GS_CHARACTER_CREATION_CANCEL|GS_CHARACTER_CREATION_CLASS|GS_CHARACTER_CREATION_CREATE_CHAR|GS_CHARACTER_CREATION_LOOK|GS_CHARACTER_SELECTION_ACCT_OPTIONS|GS_CHARACTER_SELECTION_CREATE_NEW|GS_CHARACTER_SELECTION_DEL_CHARACTER|GS_CHARACTER_SELECTION_ENTER_WORLD|GS_CHARACTER_SELECTION_EXIT|GS_LICH_KING|GS_LOGIN|GS_LOGIN_CHANGE_REALM_CANCEL|GS_LOGIN_CHANGE_REALM_OK|GS_LOGIN_NEW_ACCOUNT|GS_TITLE_CREDITS|GS_TITLE_OPTION_EXIT|GS_TITLE_OPTION_OK|GS_TITLE_OPTIONS|GUILD_BANK_OPEN_BAG|GUILD_VAULT_CLOSE|GUILD_VAULT_OPEN|IG_ABILITY_CLOSE|IG_ABILITY_ICON_DROP|IG_ABILITY_OPEN|IG_ABILITY_PAGE_TURN|IG_BACKPACK_CLOSE|IG_BACKPACK_COIN_CANCEL|IG_BACKPACK_COIN_OK|IG_BACKPACK_COIN_SELECT|IG_BACKPACK_OPEN|IG_CHARACTER_INFO_CLOSE|IG_CHARACTER_INFO_OPEN|IG_CHARACTER_INFO_TAB|IG_CHARACTER_NPC_SELECT|IG_CHAT_BOTTOM|IG_CHAT_EMOTE_BUTTON|IG_CHAT_SCROLL_DOWN|IG_CHAT_SCROLL_UP|IG_CREATURE_AGGRO_SELECT|IG_CREATURE_NEUTRAL_SELECT|IG_INVENTORY_ROTATE_CHARACTER|IG_MAINMENU_CLOSE|IG_MAINMENU_CONTINUE|IG_MAINMENU_LOGOUT|IG_MAINMENU_OPEN|IG_MAINMENU_OPTION|IG_MAINMENU_OPTION_CHECKBOX_OFF|IG_MAINMENU_OPTION_CHECKBOX_ON|IG_MAINMENU_OPTION_FAER_TAB|IG_MAINMENU_QUIT|IG_MINIMAP_CLOSE|IG_MINIMAP_OPEN|IG_MINIMAP_ZOOM_IN|IG_MINIMAP_ZOOM_OUT|IG_PLAYER_INVITE|IG_PVP_UPDATE|IG_QUEST_CANCEL|IG_QUEST_LIST_CLOSE|IG_QUEST_LIST_COMPLETE|IG_QUEST_LIST_OPEN|IG_QUEST_LIST_SELECT|IG_QUEST_LOG_ABANDON_QUEST|IG_QUEST_LOG_CLOSE|IG_QUEST_LOG_OPEN|IG_SPELLBOOK_CLOSE|IG_SPELLBOOK_OPEN|INTERFACE_SOUND_LOST_TARGET_UNIT|ITEM_REPAIR|JEWEL_CRAFTING_FINALIZE|KEY_RING_CLOSE|KEY_RING_OPEN|LFG_DENIED|LFG_REWARDS|LFG_ROLE_CHECK|LOOT_WINDOW_COIN_SOUND|LOOT_WINDOW_OPEN_EMPTY|MAP_PING|MENU_CREDITS01|MENU_CREDITS02|MENU_CREDITS03|MENU_CREDITS04|MENU_CREDITS05|MENU_CREDITS06|MENU_CREDITS07|MONEY_FRAME_CLOSE|MONEY_FRAME_OPEN|MUS_1_0_MAINTITLE_ORIGINAL|MUS_50_HEART_OF_PANDARIA_MAINTITLE|MUS_60_MAIN_TITLE|MUS_70_MAIN_TITLE|PICK_UP_GEMS|PUT_DOWN_GEMS|PUT_DOWN_SMALL_CHAIN|PVP_ENTER_QUEUE|PVP_THROUGH_QUEUE|RAID_BOSS_EMOTE_WARNING|RAID_WARNING|READY_CHECK|TELL_MESSAGE|TUTORIAL_POPUP|U_CHAT_SCROLL_BUTTON|UI_70_ARTIFACT_FORGE_APPEARANCE_APPEARANCE_CHANGE|UI_70_ARTIFACT_FORGE_APPEARANCE_APPEARANCE_UNLOCK|UI_70_ARTIFACT_FORGE_APPEARANCE_COLOR_SELECT|UI_70_ARTIFACT_FORGE_APPEARANCE_LOCKED|UI_70_ARTIFACT_FORGE_RELIC_PLACE|UI_70_ARTIFACT_FORGE_TOAST_TRAIT_AVAILABLE|UI_70_ARTIFACT_FORGE_TRAIT_FINALRANK|UI_70_ARTIFACT_FORGE_TRAIT_FIRST_TRAIT|UI_70_ARTIFACT_FORGE_TRAIT_GOLD_TRAIT|UI_70_ARTIFACT_FORGE_TRAIT_RANKUP|UI_70_BOOST_THANKSFORPLAYING|UI_70_BOOST_THANKSFORPLAYING_SMALLER|UI_70_CHALLENGE_MODE_COMPLETE_NO_UPGRADE|UI_70_CHALLENGE_MODE_KEYSTONE_UPGRADE|UI_70_CHALLENGE_MODE_NEW_RECORD|UI_70_CHALLENGE_MODE_SOCKET_PAGE_ACTIVATE_BUTTON|UI_70_CHALLENGE_MODE_SOCKET_PAGE_CLOSE|UI_70_CHALLENGE_MODE_SOCKET_PAGE_OPEN|UI_70_CHALLENGE_MODE_SOCKET_PAGE_REMOVE_KEYSTONE|UI_70_CHALLENGE_MODE_SOCKET_PAGE_SOCKET|UI_71_SOCIAL_QUEUEING_TOAST|UI_72_ARTIFACT_FORGE_ACTIVATE_FINAL_TIER|UI_72_ARTIFACT_FORGE_FINAL_TRAIT_REFUND_LOOP|UI_72_ARTIFACT_FORGE_FINAL_TRAIT_REFUND_START|UI_72_ARTIFACT_FORGE_FINAL_TRAIT_UNLOCKED|UI_72_BUILDING_CONTRIBUTION_TABLE_OPEN|UI_72_BUILDINGS_CONTRIBUTE_POWER_MENU_CLICK|UI_72_BUILDINGS_CONTRIBUTE_RESOURCES|UI_72_BUILDINGS_CONTRIBUTION_TABLE_CLOSE|UI_73_ARTIFACT_RELICS_TRAIT_REVEAL_ONLY|UI_73_ARTIFACT_RELICS_TRAIT_SELECT_AND_REVEAL|UI_73_ARTIFACT_RELICS_TRAIT_SELECT_ONLY|UI_AUTO_QUEST_COMPLETE|UI_BAG_SORTING_01|UI_BATTLEGROUND_COUNTDOWN_FINISHED|UI_BATTLEGROUND_COUNTDOWN_TIMER|UI_BNET_TOAST|UI_BONUS_EVENT_SYSTEM_VIGNETTES|UI_BONUS_LOOT_ROLL_END|UI_BONUS_LOOT_ROLL_LOOP|UI_BONUS_LOOT_ROLL_START|UI_CHALLENGES_NEW_RECORD|UI_DIG_SITE_COMPLETION_TOAST|UI_EPICLOOT_TOAST|UI_ETHEREAL_WINDOW_CLOSE|UI_ETHEREAL_WINDOW_OPEN|UI_GARRISON_ARCHITECT_TABLE_BUILDING_PLACEMENT|UI_GARRISON_ARCHITECT_TABLE_BUILDING_PLACEMENT_ERROR|UI_GARRISON_ARCHITECT_TABLE_BUILDING_SELECT|UI_GARRISON_ARCHITECT_TABLE_CLOSE|UI_GARRISON_ARCHITECT_TABLE_OPEN|UI_GARRISON_ARCHITECT_TABLE_PLOT_SELECT|UI_GARRISON_ARCHITECT_TABLE_UPGRADE|UI_GARRISON_ARCHITECT_TABLE_UPGRADE_CANCEL|UI_GARRISON_ARCHITECT_TABLE_UPGRADE_START|UI_GARRISON_COMMAND_TABLE_100_SUCCESS|UI_GARRISON_COMMAND_TABLE_ASSIGN_FOLLOWER|UI_GARRISON_COMMAND_TABLE_CHEST_UNLOCK|UI_GARRISON_COMMAND_TABLE_CHEST_UNLOCK_GOLD_SUCCESS|UI_GARRISON_COMMAND_TABLE_CLOSE|UI_GARRISON_COMMAND_TABLE_FOLLOWER_ABILITY_CLOSE|UI_GARRISON_COMMAND_TABLE_FOLLOWER_ABILITY_OPEN|UI_GARRISON_COMMAND_TABLE_FOLLOWER_LEVEL_UP|UI_GARRISON_COMMAND_TABLE_INCREASED_SUCCESS_CHANCE|UI_GARRISON_COMMAND_TABLE_MISSION_CLOSE|UI_GARRISON_COMMAND_TABLE_MISSION_START|UI_GARRISON_COMMAND_TABLE_MISSION_SUCCESS_STINGER|UI_GARRISON_COMMAND_TABLE_NAV_NEXT|UI_GARRISON_COMMAND_TABLE_OPEN|UI_GARRISON_COMMAND_TABLE_REDUCED_SUCCESS_CHANCE|UI_GARRISON_COMMAND_TABLE_SELECT_FOLLOWER|UI_GARRISON_COMMAND_TABLE_SELECT_MISSION|UI_GARRISON_COMMAND_TABLE_SLOT_CHAMPION|UI_GARRISON_COMMAND_TABLE_SLOT_TROOP|UI_GARRISON_COMMAND_TABLE_UNASSIGN_FOLLOWER|UI_GARRISON_COMMAND_TABLE_VIEW_MISSION_REPORT|UI_GARRISON_FOLLOWER_LEARN_TRAIT|UI_GARRISON_GARRISON_REPORT_CLOSE|UI_GARRISON_GARRISON_REPORT_OPEN|UI_GARRISON_MISSION_100_PERCENT_CHANCE_REACHED_NOT_USED|UI_GARRISON_MISSION_COMPLETE_ENCOUNTER_CHANCE|UI_GARRISON_MISSION_COMPLETE_ENCOUNTER_FAIL|UI_GARRISON_MISSION_COMPLETE_MISSION_FAIL_STINGER|UI_GARRISON_MISSION_COMPLETE_MISSION_SUCCESS|UI_GARRISON_MISSION_ENCOUNTER_ANIMATION_GENERIC|UI_GARRISON_MISSION_THREAT_COUNTERED|UI_GARRISON_MONUMENTS_CLOSE|UI_GARRISON_MONUMENTS_NAV|UI_GARRISON_MONUMENTS_OPEN|UI_GARRISON_NAV_TABS|UI_GARRISON_SHIPMENTS_WINDOW_CLOSE|UI_GARRISON_SHIPMENTS_WINDOW_OPEN|UI_GARRISON_SHIPYARD_DECOMISSION_SHIP|UI_GARRISON_SHIPYARD_PLACE_CARRIER|UI_GARRISON_SHIPYARD_PLACE_DREADNOUGHT|UI_GARRISON_SHIPYARD_PLACE_GALLEON|UI_GARRISON_SHIPYARD_PLACE_LANDING_CRAFT|UI_GARRISON_SHIPYARD_PLACE_SUBMARINE|UI_GARRISON_SHIPYARD_START_MISSION|UI_GARRISON_START_WORK_ORDER|UI_GARRISON_TOAST_BUILDING_COMPLETE|UI_GARRISON_TOAST_FOLLOWER_GAINED|UI_GARRISON_TOAST_INVASION_ALERT|UI_GARRISON_TOAST_MISSION_COMPLETE|UI_GROUP_FINDER_RECEIVE_APPLICATION|UI_IG_STORE_BUY_BUTTON|UI_IG_STORE_CANCEL_BUTTON|UI_IG_STORE_CONFIRM_PURCHASE_BUTTON|UI_IG_STORE_PAGE_NAV_BUTTON|UI_IG_STORE_PURCHASE_DELIVERED_TOAST_01|UI_IG_STORE_WINDOW_CLOSE_BUTTON|UI_IG_STORE_WINDOW_OPEN_BUTTON|UI_LEGENDARY_LOOT_TOAST|UI_LOSS_OF_CONTROL_START|UI_MISSION_200_PERCENT|UI_MISSION_MAP_ZOOM|UI_MISSION_SUCCESS_CHEERS|UI_ORDERHALL_TALENT_NUKE_FROM_ORBIT|UI_ORDERHALL_TALENT_READY_CHECK|UI_ORDERHALL_TALENT_READY_TOAST|UI_ORDERHALL_TALENT_SELECT|UI_ORDERHALL_TALENT_WINDOW_CLOSE|UI_ORDERHALL_TALENT_WINDOW_OPEN|UI_PERSONAL_LOOT_BANNER|UI_PET_BATTLE_CAMERA_MOVE_IN|UI_PET_BATTLE_CAMERA_MOVE_OUT|UI_PET_BATTLE_START|UI_PET_BATTLES_PVP_THROUGH_QUEUE|UI_PET_BATTLES_TRAP_READY|UI_POWER_AURA_GENERIC|UI_PROFESSIONS_NEW_RECIPE_LEARNED_TOAST|UI_PROFESSIONS_WINDOW_CLOSE|UI_PROFESSIONS_WINDOW_OPEN|UI_PVP_HONOR_PRESTIGE_OPEN_WINDOW|UI_PVP_HONOR_PRESTIGE_RANK_UP|UI_PVP_HONOR_PRESTIGE_WINDOW_CLOSE|UI_QUEST_ROLLING_FORWARD_01|UI_RAID_BOSS_DEFEATED|UI_RAID_BOSS_WHISPER_WARNING|UI_RAID_LOOT_TOAST_LESSER_ITEM_WON|UI_REFORGING_REFORGE|UI_SCENARIO_ENDING|UI_SCENARIO_STAGE_END|UI_STORE_UNWRAP|UI_TOYBOX_TABS|UI_TRANSMOG_APPLY|UI_TRANSMOG_CLOSE_WINDOW|UI_TRANSMOG_GEAR_SLOT_CLICK|UI_TRANSMOG_ITEM_CLICK|UI_TRANSMOG_OPEN_WINDOW|UI_TRANSMOG_PAGE_TURN|UI_TRANSMOG_REVERTING_GEAR_SLOT|UI_TRANSMOGRIFY_REDO|UI_TRANSMOGRIFY_UNDO|UI_VOID_STORAGE_BOTH|UI_VOID_STORAGE_DEPOSIT|UI_VOID_STORAGE_UNLOCK|UI_VOID_STORAGE_WITHDRAW|UI_WARFORGED_ITEM_LOOT_TOAST|UI_WORLDQUEST_COMPLETE|UI_WORLDQUEST_MAP_SELECT|UI_WORLDQUEST_START)|())\b)?</string>
 			<key>captures</key>
 			<dict>
-				<key>2</key>
+				<key>1</key>
 				<dict>
 					<key>name</key>
 					<string>support.function.wow-api</string>
 				</dict>
-				<key>4</key>
+				<key>3</key>
 				<dict>
 					<key>name</key>
 					<string>constant.numeric.numbers.lua</string>
 				</dict>
-				<key>5</key>
+				<key>4</key>
 				<dict>
 					<key>name</key>
 					<string>invalid.removed</string>
