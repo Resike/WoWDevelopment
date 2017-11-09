@@ -1,5 +1,5 @@
 {
-	"scope": "source.lua - string",
+	"scope": "source.lua - entity - punctuation - keyword - string",
 	"completions": [
 		{
 			"trigger": "AddDoubleLine\t(\"textLeft\", \"textRight\", [rL], [gL], [bL], [rR], [gR], [bR])",
@@ -1822,28 +1822,28 @@
 			"contents": "${1:Minimap}:PingLocation(${2:x}, ${3:y})$0",
 		},
 		{
-			"trigger": "Minimap:SetBlipTexture\t(\"filename\")",
-			"contents": "${1:Minimap}:SetBlipTexture(\"${2:filename}\")$0",
+			"trigger": "Minimap:SetBlipTexture\t(\"fileName\")",
+			"contents": "${1:Minimap}:SetBlipTexture(\"${2:fileName}\")$0",
 		},
 		{
-			"trigger": "Minimap:SetClassBlipTexture\t(\"filename\")",
-			"contents": "${1:Minimap}:SetClassBlipTexture(\"${2:filename}\")$0",
+			"trigger": "Minimap:SetClassBlipTexture\t(\"fileName\")",
+			"contents": "${1:Minimap}:SetClassBlipTexture(\"${2:fileName}\")$0",
 		},
 		{
-			"trigger": "Minimap:SetCorpsePOIArrowTexture\t(\"filename\")",
-			"contents": "${1:Minimap}:SetCorpsePOIArrowTexture(\"${2:filename}\")$0",
+			"trigger": "Minimap:SetCorpsePOIArrowTexture\t(\"fileName\")",
+			"contents": "${1:Minimap}:SetCorpsePOIArrowTexture(\"${2:fileName}\")$0",
 		},
 		{
-			"trigger": "Minimap:SetIconTexture\t(\"filename\")",
-			"contents": "${1:Minimap}:SetIconTexture(\"${2:filename}\")$0",
+			"trigger": "Minimap:SetIconTexture\t(\"fileName\")",
+			"contents": "${1:Minimap}:SetIconTexture(\"${2:fileName}\")$0",
 		},
 		{
-			"trigger": "Minimap:SetMaskTexture\t(\"filename\")",
-			"contents": "${1:Minimap}:SetMaskTexture(\"${2:filename}\")$0",
+			"trigger": "Minimap:SetMaskTexture\t(\"fileName\")",
+			"contents": "${1:Minimap}:SetMaskTexture(\"${2:fileName}\")$0",
 		},
 		{
-			"trigger": "Minimap:SetPlayerTexture\t(\"filename\")",
-			"contents": "${1:Minimap}:SetPlayerTexture(\"${2:filename}\")$0",
+			"trigger": "Minimap:SetPlayerTexture\t(\"fileName\")",
+			"contents": "${1:Minimap}:SetPlayerTexture(\"${2:fileName}\")$0",
 		},
 		{
 			"trigger": "Minimap:SetPlayerTextureHeight\t(height)",
@@ -1854,12 +1854,12 @@
 			"contents": "${1:Minimap}:SetPlayerTextureWidth(${2:width})$0",
 		},
 		{
-			"trigger": "Minimap:SetPOIArrowTexture\t(\"filename\")",
-			"contents": "${1:Minimap}:SetPOIArrowTexture(\"${2:filename}\")$0",
+			"trigger": "Minimap:SetPOIArrowTexture\t(\"fileName\")",
+			"contents": "${1:Minimap}:SetPOIArrowTexture(\"${2:fileName}\")$0",
 		},
 		{
-			"trigger": "Minimap:SetStaticPOIArrowTexture\t(\"filename\")",
-			"contents": "${1:Minimap}:SetStaticPOIArrowTexture(\"${2:filename}\")$0",
+			"trigger": "Minimap:SetStaticPOIArrowTexture\t(\"fileName\")",
+			"contents": "${1:Minimap}:SetStaticPOIArrowTexture(\"${2:fileName}\")$0",
 		},
 		{
 			"trigger": "Minimap:SetZoom\t(zoomLevel)",
@@ -1910,8 +1910,8 @@
 			"contents": "${4:Model}:GetPosition()$0",
 		},
 		{
-			"trigger": "Model:ReplaceIconTexture\t(\"filename\")",
-			"contents": "${1:Model}:ReplaceIconTexture(\"${2:filename}\")$0",
+			"trigger": "Model:ReplaceIconTexture\t(\"fileName\")",
+			"contents": "${1:Model}:ReplaceIconTexture(\"${2:fileName}\")$0",
 		},
 		{
 			"trigger": "Model:SetCamera\t(index)",
@@ -1942,8 +1942,8 @@
 			"contents": "${1:Model}:SetLight(${2:enabled}, ${3:omni}, ${4:dirX}, ${5:dirY}, ${6:dirZ}, ${7:ambIntensity}, ${8:[ambR]}, ${9:[ambG]}, ${10:[ambB]}, ${11:[dirIntensity]}, ${12:[dirR]}, ${13:[dirG]}, ${14:[dirB]})$0",
 		},
 		{
-			"trigger": "Model:SetModel\t(\"filename\")",
-			"contents": "${1:Model}:SetModel(\"${2:filename}\")$0",
+			"trigger": "Model:SetModel\t(\"fileName\")",
+			"contents": "${1:Model}:SetModel(\"${2:fileName}\")$0",
 		},
 		{
 			"trigger": "Model:SetModelScale\t(scale)",
@@ -2046,8 +2046,8 @@
 			"contents": "RegisterUnitEvent(\"${1:event}\", \"${2:unit1}\", \"${3:unit2}\")$0",
 		},
 		{
-			"trigger": "ReplaceIconTexture\t(\"filename\")",
-			"contents": "ReplaceIconTexture(\"${2:filename}\")$0",
+			"trigger": "ReplaceIconTexture\t(\"fileName\")",
+			"contents": "ReplaceIconTexture(\"${2:fileName}\")$0",
 		},
 		{
 			"trigger": "Save\t()",
@@ -2318,8 +2318,8 @@
 			"contents": "SetBlinkSpeed(${2:duration})$0",
 		},
 		{
-			"trigger": "SetBlipTexture\t(\"filename\")",
-			"contents": "SetBlipTexture(\"${2:filename}\")$0",
+			"trigger": "SetBlipTexture\t(\"fileName\")",
+			"contents": "SetBlipTexture(\"${2:fileName}\")$0",
 		},
 		{
 			"trigger": "SetBorderAlpha\t(Alpha)",
@@ -2370,8 +2370,8 @@
 			"contents": "SetClampRectInsets(${2:left}, ${3:right}, ${4:top}, ${5:bottom})$0",
 		},
 		{
-			"trigger": "SetClassBlipTexture\t(\"filename\")",
-			"contents": "SetClassBlipTexture(\"${2:filename}\")$0",
+			"trigger": "SetClassBlipTexture\t(\"fileName\")",
+			"contents": "SetClassBlipTexture(\"${2:fileName}\")$0",
 		},
 		{
 			"trigger": "SetColorHSV\t(hue, saturation, value)",
@@ -2410,8 +2410,8 @@
 			"contents": "SetCooldown(${2:start}, ${3:duration})$0",
 		},
 		{
-			"trigger": "SetCorpsePOIArrowTexture\t(\"filename\")",
-			"contents": "SetCorpsePOIArrowTexture(\"${2:filename}\")$0",
+			"trigger": "SetCorpsePOIArrowTexture\t(\"fileName\")",
+			"contents": "SetCorpsePOIArrowTexture(\"${2:fileName}\")$0",
 		},
 		{
 			"trigger": "SetCreature\t(creature)",
@@ -2522,8 +2522,8 @@
 			"contents": "SetFogNear(${2:distance})$0",
 		},
 		{
-			"trigger": "SetFont\t(\"filename\", fontHeight, \"flags\")",
-			"contents": "SetFont(\"${3:filename}\", ${4:fontHeight}, \"${5:flags}\")$0",
+			"trigger": "SetFont\t(\"fileName\", fontHeight, \"flags\")",
+			"contents": "SetFont(\"${3:fileName}\", ${4:fontHeight}, \"${5:flags}\")$0",
 		},
 		{
 			"trigger": "SetFontObject\t(\"name\")",
@@ -2618,8 +2618,8 @@
 			"contents": "SetHyperlinksEnabled(${2:enable})$0",
 		},
 		{
-			"trigger": "SetIconTexture\t(\"filename\")",
-			"contents": "SetIconTexture(\"${2:filename}\")$0",
+			"trigger": "SetIconTexture\t(\"fileName\")",
+			"contents": "SetIconTexture(\"${2:fileName}\")$0",
 		},
 		{
 			"trigger": "SetID\t(id)",
@@ -2674,8 +2674,8 @@
 			"contents": "SetLootRollItem(${2:id})$0",
 		},
 		{
-			"trigger": "SetMaskTexture\t(\"filename\")",
-			"contents": "SetMaskTexture(\"${2:filename}\")$0",
+			"trigger": "SetMaskTexture\t(\"fileName\")",
+			"contents": "SetMaskTexture(\"${2:fileName}\")$0",
 		},
 		{
 			"trigger": "SetMaxBytes\t(maxBytes)",
@@ -2714,8 +2714,8 @@
 			"contents": "SetMinResize(${2:minWidth}, ${3:minHeight})$0",
 		},
 		{
-			"trigger": "SetModel\t(\"filename\")",
-			"contents": "SetModel(\"${2:filename}\")$0",
+			"trigger": "SetModel\t(\"fileName\")",
+			"contents": "SetModel(\"${2:fileName}\")$0",
 		},
 		{
 			"trigger": "SetModelScale\t(scale)",
@@ -2822,8 +2822,8 @@
 			"contents": "SetPetAction(${2:index})$0",
 		},
 		{
-			"trigger": "SetPlayerTexture\t(\"filename\")",
-			"contents": "SetPlayerTexture(\"${2:filename}\")$0",
+			"trigger": "SetPlayerTexture\t(\"fileName\")",
+			"contents": "SetPlayerTexture(\"${2:fileName}\")$0",
 		},
 		{
 			"trigger": "SetPlayerTextureHeight\t(height)",
@@ -2834,8 +2834,8 @@
 			"contents": "SetPlayerTextureWidth(${2:width})$0",
 		},
 		{
-			"trigger": "SetPOIArrowTexture\t(\"filename\")",
-			"contents": "SetPOIArrowTexture(\"${2:filename}\")$0",
+			"trigger": "SetPOIArrowTexture\t(\"fileName\")",
+			"contents": "SetPOIArrowTexture(\"${2:fileName}\")$0",
 		},
 		{
 			"trigger": "SetPoint\t(\"point\", [relativeTo], [\"relativePoint\"], [xOffset], [yOffset])",
@@ -2982,8 +2982,8 @@
 			"contents": "SetStartDelay(${2:delay})$0",
 		},
 		{
-			"trigger": "SetStaticPOIArrowTexture\t(\"filename\")",
-			"contents": "SetStaticPOIArrowTexture(\"${2:filename}\")$0",
+			"trigger": "SetStaticPOIArrowTexture\t(\"fileName\")",
+			"contents": "SetStaticPOIArrowTexture(\"${2:fileName}\")$0",
 		},
 		{
 			"trigger": "SetStatusBarColor\t(red, green, blue, [alpha])",
@@ -3642,7 +3642,7 @@
 		},
 		{
 			"trigger": "_Model:GetModel\t()",
-			"contents": "${1:filename} = ${2:Model}:GetModel()$0",
+			"contents": "${1:fileName} = ${2:Model}:GetModel()$0",
 		},
 		{
 			"trigger": "_Model:GetModelScale\t()",

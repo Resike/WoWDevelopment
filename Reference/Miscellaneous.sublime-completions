@@ -1,19 +1,6 @@
 {
-	"scope": "source.lua - string",
+	"scope": "source.lua - entity - punctuation - keyword - string",
 	"completions": [
-		"and",
-		"break",
-		"else",
-		"false",
-		"in",
-		"or",
-		"return",
-		"true",
-		"while",
-		"nil",
-
-
-
 		{
 			"trigger": "UIParent\tframe",
 			"contents": "UIParent",

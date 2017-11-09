@@ -1,5 +1,5 @@
 {
-	"scope": "source.lua",
+	"scope": "source.lua - entity - punctuation - keyword - string",
 	"completions": [
 		{
 			"trigger": "7.0_NIGHTMARE_RAID_XAVIUS_NIGHTMARE_CORRUPTION\tstring",

@@ -1,5 +1,5 @@
 {
-	"scope": "source.lua - string",
+	"scope": "source.lua - entity - punctuation - keyword - string",
 	"completions": [
 		{
 			"trigger": "Scale:GetDebugName\t()",

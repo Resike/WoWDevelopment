@@ -3,6 +3,6 @@
 	${1}
 end]]></content>
 	<tabTrigger>then</tabTrigger>
-	<scope>source.lua</scope>
-	<description>then</description>
+	<scope>source.lua - string</scope>
+	<description>then-end</description>
 </snippet>

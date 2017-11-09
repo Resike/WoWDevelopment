@@ -1,0 +1,22 @@
+{
+	"scope": "source.lua - entity - punctuation - string",
+	"completions": [
+		"and",
+		"break",
+		"do",
+		"else",
+		"false",
+		"for",
+		"function",
+		"in",
+		"local",
+		"nil",
+		"or",
+		"repeat",
+		"return",
+		"then",
+		"true",
+		"until",
+		"while",
+	]
+}

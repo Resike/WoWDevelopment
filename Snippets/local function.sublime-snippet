@@ -4,5 +4,5 @@
 end]]></content>
 	<tabTrigger>local function</tabTrigger>
 	<description>(...)</description>
-	<scope>source.lua</scope>
+	<scope>source.lua - string</scope>
 </snippet>

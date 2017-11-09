@@ -1,10 +1,10 @@
 <snippet>
 	<content><![CDATA[
-for ${1:i}, ${2:v} in ipairs(${3:table_name}) do
+for ${1:i}, ${2:v} in ipairs(${3:table}) do
 	${0:}
 end
 ]]></content>
 	<tabTrigger>fori</tabTrigger>
-	<scope>source.lua</scope>
+	<scope>source.lua - string</scope>
 	<description>for i,v in ipairs()</description>
 </snippet>

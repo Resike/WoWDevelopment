@@ -3,6 +3,6 @@
 	${1}
 until ${2:false}$0]]></content>
 	<tabTrigger>repeat</tabTrigger>
-	<scope>source.lua</scope>
-	<description>repeat</description>
+	<scope>source.lua - string</scope>
+	<description>repeat-until</description>
 </snippet>

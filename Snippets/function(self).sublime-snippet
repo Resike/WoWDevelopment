@@ -3,6 +3,6 @@
 	${0:}
 end]]></content>
 	<tabTrigger>function</tabTrigger>
-	<scope>source.lua</scope>
+	<scope>source.lua - string</scope>
 	<description>(self, ...)</description>
 </snippet>

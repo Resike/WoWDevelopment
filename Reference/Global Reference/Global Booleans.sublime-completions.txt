@@ -1,5 +1,5 @@
 {
-	"scope": "source.lua - string",
+	"scope": "source.lua - entity - punctuation - keyword - string",
 	"completions": [
 		{
 			"trigger": "CHAT_SHOW_IME\tfalse",
