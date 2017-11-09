@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PET_BAR_HIDEGRID]]></content>
+	<tabTrigger>PET_BAR_HIDEGRID</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NPC_PVPQUEUE_ANYWHERE]]></content>
+	<tabTrigger>NPC_PVPQUEUE_ANYWHERE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

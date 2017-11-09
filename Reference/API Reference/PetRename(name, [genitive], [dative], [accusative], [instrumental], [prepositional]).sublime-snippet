@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PetRename("${1:name}", ${2:["genitive"]}, ${3:["dative"]}, ${4:["accusative"]}, ${5:["instrumental"]}, ${6:["prepositional"]})$0]]></content>
+	<tabTrigger>PetRename</tabTrigger>
+	<description>("name", ["genitive"], ["dative"], ["accusative"], ["instrumental"], ["prepositional"])</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

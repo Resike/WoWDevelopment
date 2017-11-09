@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AddHistoryLine("${1:text}")$0]]></content>
+	<tabTrigger>AddHistoryLine</tabTrigger>
+	<description>("text")</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

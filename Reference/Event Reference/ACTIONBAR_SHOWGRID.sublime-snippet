@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACTIONBAR_SHOWGRID]]></content>
+	<tabTrigger>ACTIONBAR_SHOWGRID</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

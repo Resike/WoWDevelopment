@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:TextureCoordTranslation}:Play()$0]]></content>
+	<tabTrigger>TextureCoordTranslation:Play</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

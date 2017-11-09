@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UPDATE_CHAT_WINDOWS]]></content>
+	<tabTrigger>UPDATE_CHAT_WINDOWS</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

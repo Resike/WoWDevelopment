@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GARRISON_MISSION_COMPLETE_RESPONSE]]></content>
+	<tabTrigger>GARRISON_MISSION_COMPLETE_RESPONSE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:uiType}, ${2:state}, ${3:hidden}, ${4:text}, ${5:icon}, ${6:dynamicIcon}, ${7:tooltip}, ${8:dynamicTooltip}, ${9:extendedUI}, ${10:extendedUIState1}, ${11:extendedUIState2}, ${12:extendedUIState3} = GetWorldStateUIInfo(${13:index})$0]]></content>
+	<tabTrigger>_GetWorldStateUIInfo</tabTrigger>
+	<description>(index)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

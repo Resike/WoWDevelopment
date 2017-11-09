@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PLAYER_ENTERING_WORLD]]></content>
+	<tabTrigger>PLAYER_ENTERING_WORLD</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

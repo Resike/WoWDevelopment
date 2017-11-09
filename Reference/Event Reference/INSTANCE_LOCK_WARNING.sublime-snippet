@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[INSTANCE_LOCK_WARNING]]></content>
+	<tabTrigger>INSTANCE_LOCK_WARNING</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

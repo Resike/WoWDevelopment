@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BN_SYSTEM_MESSAGE]]></content>
+	<tabTrigger>BN_SYSTEM_MESSAGE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

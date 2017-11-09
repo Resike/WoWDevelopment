@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GOSSIP_CONFIRM_CANCEL]]></content>
+	<tabTrigger>GOSSIP_CONFIRM_CANCEL</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

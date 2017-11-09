@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RECEIVED_ACHIEVEMENT_MEMBER_LIST]]></content>
+	<tabTrigger>RECEIVED_ACHIEVEMENT_MEMBER_LIST</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

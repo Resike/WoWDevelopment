@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ITEM_TEXT_TRANSLATION]]></content>
+	<tabTrigger>ITEM_TEXT_TRANSLATION</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

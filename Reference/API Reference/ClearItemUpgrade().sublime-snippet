@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ClearItemUpgrade()$0]]></content>
+	<tabTrigger>ClearItemUpgrade</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

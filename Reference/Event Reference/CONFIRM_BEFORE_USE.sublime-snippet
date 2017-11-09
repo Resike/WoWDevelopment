@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CONFIRM_BEFORE_USE]]></content>
+	<tabTrigger>CONFIRM_BEFORE_USE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

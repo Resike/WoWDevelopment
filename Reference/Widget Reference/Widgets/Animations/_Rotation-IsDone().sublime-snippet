@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:done} = ${2:Rotation}:IsDone()$0]]></content>
+	<tabTrigger>_Rotation:IsDone</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

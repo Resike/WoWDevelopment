@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LFG_READY_CHECK_SHOW]]></content>
+	<tabTrigger>LFG_READY_CHECK_SHOW</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

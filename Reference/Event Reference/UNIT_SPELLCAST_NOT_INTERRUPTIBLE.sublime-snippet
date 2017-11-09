@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UNIT_SPELLCAST_NOT_INTERRUPTIBLE]]></content>
+	<tabTrigger>UNIT_SPELLCAST_NOT_INTERRUPTIBLE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

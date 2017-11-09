@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CONFIRM_SUMMON]]></content>
+	<tabTrigger>CONFIRM_SUMMON</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

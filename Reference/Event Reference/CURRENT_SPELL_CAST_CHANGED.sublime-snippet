@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CURRENT_SPELL_CAST_CHANGED]]></content>
+	<tabTrigger>CURRENT_SPELL_CAST_CHANGED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

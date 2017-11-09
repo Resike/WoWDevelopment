@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WHO_LIST_UPDATE]]></content>
+	<tabTrigger>WHO_LIST_UPDATE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

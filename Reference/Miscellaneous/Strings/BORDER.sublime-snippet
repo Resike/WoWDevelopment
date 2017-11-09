@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BORDER]]></content>
+	<tabTrigger>BORDER</tabTrigger>
+	<description>"layer"</description>
+	<scope>source.lua string</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EnableMouse(${2:enable})$0]]></content>
+	<tabTrigger>EnableMouse</tabTrigger>
+	<description>(enable)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

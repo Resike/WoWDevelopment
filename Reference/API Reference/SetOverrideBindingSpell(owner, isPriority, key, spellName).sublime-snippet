@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetOverrideBindingSpell(${1:owner}, ${2:isPriority}, "${3:key}", "${4:spellName}")$0]]></content>
+	<tabTrigger>SetOverrideBindingSpell</tabTrigger>
+	<description>(owner, isPriority, "key", "spellName")</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

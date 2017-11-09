@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLOSE_INBOX_ITEM]]></content>
+	<tabTrigger>CLOSE_INBOX_ITEM</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

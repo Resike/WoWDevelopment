@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUSTOM_CLASS_COLORS]]></content>
+	<tabTrigger>CUSTOM_CLASS_COLORS</tabTrigger>
+	<description>table</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

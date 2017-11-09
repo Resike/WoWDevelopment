@@ -1,0 +1,38 @@
+<snippet>
+	<content><![CDATA[Font = {
+	inherits = {
+		"Font",
+		"FontInstance",
+		"UIObject",
+	},
+	methods = {
+		"CopyFontObject",
+		"GetAlpha",
+		"GetFont",
+		"GetFontObject",
+		"GetIndentedWordWrap",
+		"GetJustifyH",
+		"GetJustifyV",
+		"GetName",
+		"GetObjectType",
+		"GetShadowColor",
+		"GetShadowOffset",
+		"GetSpacing",
+		"GetTextColor",
+		"IsObjectType",
+		"SetAlpha",
+		"SetFont",
+		"SetFontObject",
+		"SetIndentedWordWrap",
+		"SetJustifyH",
+		"SetJustifyV",
+		"SetShadowColor",
+		"SetShadowOffset",
+		"SetSpacing",
+		"SetTextColor",
+	},
+}]]></content>
+	<tabTrigger>_Font</tabTrigger>
+	<description>help</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

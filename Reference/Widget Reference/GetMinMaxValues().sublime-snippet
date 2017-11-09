@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetMinMaxValues()$0]]></content>
+	<tabTrigger>GetMinMaxValues</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GARRISON_MISSION_STARTED]]></content>
+	<tabTrigger>GARRISON_MISSION_STARTED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

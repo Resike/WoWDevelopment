@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ZONE_CHANGED]]></content>
+	<tabTrigger>ZONE_CHANGED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

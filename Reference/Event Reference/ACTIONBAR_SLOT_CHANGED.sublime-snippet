@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACTIONBAR_SLOT_CHANGED]]></content>
+	<tabTrigger>ACTIONBAR_SLOT_CHANGED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

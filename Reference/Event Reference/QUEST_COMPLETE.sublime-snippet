@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[QUEST_COMPLETE]]></content>
+	<tabTrigger>QUEST_COMPLETE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

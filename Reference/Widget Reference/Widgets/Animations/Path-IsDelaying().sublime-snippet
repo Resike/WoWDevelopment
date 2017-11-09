@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:Path}:IsDelaying()$0]]></content>
+	<tabTrigger>Path:IsDelaying</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

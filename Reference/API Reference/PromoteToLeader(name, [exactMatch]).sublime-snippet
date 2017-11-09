@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PromoteToLeader("${1:name}", ${2:[exactMatch]})$0]]></content>
+	<tabTrigger>PromoteToLeader</tabTrigger>
+	<description>("name", [exactMatch])</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

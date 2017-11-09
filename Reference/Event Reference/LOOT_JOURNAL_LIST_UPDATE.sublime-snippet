@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LOOT_JOURNAL_LIST_UPDATE]]></content>
+	<tabTrigger>LOOT_JOURNAL_LIST_UPDATE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

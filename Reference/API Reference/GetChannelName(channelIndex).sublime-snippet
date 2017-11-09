@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetChannelName(${1:channelIndex})$0]]></content>
+	<tabTrigger>GetChannelName</tabTrigger>
+	<description>(channelIndex)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

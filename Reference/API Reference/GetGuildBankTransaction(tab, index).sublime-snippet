@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetGuildBankTransaction(${1:tab}, ${2:index})$0]]></content>
+	<tabTrigger>GetGuildBankTransaction</tabTrigger>
+	<description>(tab, index)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

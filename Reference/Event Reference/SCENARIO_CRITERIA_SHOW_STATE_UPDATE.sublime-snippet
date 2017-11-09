@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SCENARIO_CRITERIA_SHOW_STATE_UPDATE]]></content>
+	<tabTrigger>SCENARIO_CRITERIA_SHOW_STATE_UPDATE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

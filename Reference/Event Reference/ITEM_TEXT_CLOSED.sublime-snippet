@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ITEM_TEXT_CLOSED]]></content>
+	<tabTrigger>ITEM_TEXT_CLOSED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

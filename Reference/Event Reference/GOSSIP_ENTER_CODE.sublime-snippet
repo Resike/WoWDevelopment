@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GOSSIP_ENTER_CODE]]></content>
+	<tabTrigger>GOSSIP_ENTER_CODE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[or]]></content>
+	<tabTrigger>or</tabTrigger>
+	<scope>source.lua - entity - punctuation - string</scope>
+	<description>or</description>
+</snippet>

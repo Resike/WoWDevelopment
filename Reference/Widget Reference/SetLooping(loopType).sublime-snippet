@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetLooping("${2:loopType}")$0]]></content>
+	<tabTrigger>SetLooping</tabTrigger>
+	<description>("loopType")</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

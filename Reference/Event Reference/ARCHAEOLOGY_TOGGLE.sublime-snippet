@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ARCHAEOLOGY_TOGGLE]]></content>
+	<tabTrigger>ARCHAEOLOGY_TOGGLE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

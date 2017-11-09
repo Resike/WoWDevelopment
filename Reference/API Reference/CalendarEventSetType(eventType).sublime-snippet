@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CalendarEventSetType(${1:eventType})$0]]></content>
+	<tabTrigger>CalendarEventSetType</tabTrigger>
+	<description>(eventType)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

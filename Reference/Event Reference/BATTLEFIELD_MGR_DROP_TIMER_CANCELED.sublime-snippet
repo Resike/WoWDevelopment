@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BATTLEFIELD_MGR_DROP_TIMER_CANCELED]]></content>
+	<tabTrigger>BATTLEFIELD_MGR_DROP_TIMER_CANCELED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

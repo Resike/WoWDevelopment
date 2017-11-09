@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SECURE_TRANSFER_CONFIRM_SEND_MAIL]]></content>
+	<tabTrigger>SECURE_TRANSFER_CONFIRM_SEND_MAIL</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

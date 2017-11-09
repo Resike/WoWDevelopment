@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:Scale}:SetToScale(${2:scale})$0]]></content>
+	<tabTrigger>Scale:SetToScale</tabTrigger>
+	<description>(key)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

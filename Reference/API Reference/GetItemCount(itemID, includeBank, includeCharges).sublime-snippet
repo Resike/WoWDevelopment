@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetItemCount(${1:itemID}, ${2:includeBank}, ${3:includeCharges})$0]]></content>
+	<tabTrigger>GetItemCount</tabTrigger>
+	<description>(itemID, includeBank, includeCharges)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetDesaturated(${3:desaturate})$0]]></content>
+	<tabTrigger>SetDesaturated</tabTrigger>
+	<description>(desaturate)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACTION_WILL_BIND_ITEM]]></content>
+	<tabTrigger>ACTION_WILL_BIND_ITEM</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

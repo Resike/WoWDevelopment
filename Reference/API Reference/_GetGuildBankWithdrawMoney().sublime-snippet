@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:withdrawLimit} = GetGuildBankWithdrawMoney()$0]]></content>
+	<tabTrigger>_GetGuildBankWithdrawMoney</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

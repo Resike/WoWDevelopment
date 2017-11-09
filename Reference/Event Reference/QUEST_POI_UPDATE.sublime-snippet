@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[QUEST_POI_UPDATE]]></content>
+	<tabTrigger>QUEST_POI_UPDATE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NEUTRAL_FACTION_SELECT_RESULT]]></content>
+	<tabTrigger>NEUTRAL_FACTION_SELECT_RESULT</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

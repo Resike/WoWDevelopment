@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UPDATE_ACTIVE_BATTLEFIELD]]></content>
+	<tabTrigger>UPDATE_ACTIVE_BATTLEFIELD</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

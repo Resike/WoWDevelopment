@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHARACTER_ITEM_FIXUP_NOTIFICATION]]></content>
+	<tabTrigger>CHARACTER_ITEM_FIXUP_NOTIFICATION</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

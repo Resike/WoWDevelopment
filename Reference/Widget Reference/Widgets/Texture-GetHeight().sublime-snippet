@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:Texture}:GetHeight()$0]]></content>
+	<tabTrigger>Texture:GetHeight</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

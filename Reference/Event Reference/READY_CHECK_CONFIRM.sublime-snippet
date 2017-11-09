@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[READY_CHECK_CONFIRM]]></content>
+	<tabTrigger>READY_CHECK_CONFIRM</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IsMacClient()$0]]></content>
+	<tabTrigger>IsMacClient</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

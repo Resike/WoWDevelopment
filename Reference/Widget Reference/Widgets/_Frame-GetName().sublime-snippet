@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:name} = ${2:Frame}:GetName()$0]]></content>
+	<tabTrigger>_Frame:GetName</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

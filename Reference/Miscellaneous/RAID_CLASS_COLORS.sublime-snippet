@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RAID_CLASS_COLORS]]></content>
+	<tabTrigger>RAID_CLASS_COLORS</tabTrigger>
+	<description>table</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

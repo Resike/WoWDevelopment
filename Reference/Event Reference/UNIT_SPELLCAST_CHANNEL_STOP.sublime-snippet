@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UNIT_SPELLCAST_CHANNEL_STOP]]></content>
+	<tabTrigger>UNIT_SPELLCAST_CHANNEL_STOP</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

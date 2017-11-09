@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TALKINGHEAD_CLOSE]]></content>
+	<tabTrigger>TALKINGHEAD_CLOSE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

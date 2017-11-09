@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:MaskTexture}:GetLeft()$0]]></content>
+	<tabTrigger>MaskTexture:GetLeft</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:powerType}, ${2:powerToken}, ${3:altR}, ${4:altG}, ${5:altB} = UnitPowerType("${6:unit}")$0]]></content>
+	<tabTrigger>_UnitPowerType</tabTrigger>
+	<description>("unit")</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

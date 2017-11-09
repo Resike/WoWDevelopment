@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UNIT_QUEST_LOG_CHANGED]]></content>
+	<tabTrigger>UNIT_QUEST_LOG_CHANGED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

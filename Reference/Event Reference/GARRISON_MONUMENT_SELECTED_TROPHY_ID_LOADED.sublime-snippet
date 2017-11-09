@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GARRISON_MONUMENT_SELECTED_TROPHY_ID_LOADED]]></content>
+	<tabTrigger>GARRISON_MONUMENT_SELECTED_TROPHY_ID_LOADED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

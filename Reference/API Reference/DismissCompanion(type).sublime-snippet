@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DismissCompanion("${1:type}")$0]]></content>
+	<tabTrigger>DismissCompanion</tabTrigger>
+	<description>("type")</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

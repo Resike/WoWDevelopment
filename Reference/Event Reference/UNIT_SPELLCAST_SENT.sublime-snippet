@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UNIT_SPELLCAST_SENT]]></content>
+	<tabTrigger>UNIT_SPELLCAST_SENT</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

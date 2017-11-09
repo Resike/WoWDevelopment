@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetBuildInfo()$0]]></content>
+	<tabTrigger>GetBuildInfo</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

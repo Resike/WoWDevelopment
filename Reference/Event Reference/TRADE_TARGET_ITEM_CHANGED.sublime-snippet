@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TRADE_TARGET_ITEM_CHANGED]]></content>
+	<tabTrigger>TRADE_TARGET_ITEM_CHANGED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

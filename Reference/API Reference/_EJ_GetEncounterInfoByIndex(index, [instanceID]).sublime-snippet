@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:name}, ${2:description}, ${3:encounterID}, ${4:rootSectionID}, ${5:link} = EJ_GetEncounterInfoByIndex(${6:index}, ${7:[instanceID]})$0]]></content>
+	<tabTrigger>_EJ_GetEncounterInfoByIndex</tabTrigger>
+	<description>(index, [instanceID])</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

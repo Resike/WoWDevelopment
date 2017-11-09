@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:EditBox}:SetNumeric(${2:enable})$0]]></content>
+	<tabTrigger>EditBox:SetNumeric</tabTrigger>
+	<description>(enable)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

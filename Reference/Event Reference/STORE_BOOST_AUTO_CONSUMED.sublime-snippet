@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[STORE_BOOST_AUTO_CONSUMED]]></content>
+	<tabTrigger>STORE_BOOST_AUTO_CONSUMED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

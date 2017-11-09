@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SCREENSHOT_FAILED]]></content>
+	<tabTrigger>SCREENSHOT_FAILED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

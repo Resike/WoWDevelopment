@@ -1,0 +1,57 @@
+<snippet>
+	<content><![CDATA[AnimationGroup = {
+	inherits = {
+		"AnimationGroup",
+		"ScriptObject",
+		"ParentedObject",
+		"UIObject",
+	},
+	handlers = {
+		["OnFinished"] = "self, requested",
+		["OnLoad"] = "self",
+		["OnLoop"] = "self, loopState",
+		["OnPause"] = "self",
+		["OnPlay"] = "self",
+		["OnStop"] = "self, requested",
+		["OnUpdate"] = "self, elapsed",
+	},
+	methods = {
+		"CreateAnimation",
+		"Finish",
+		"GetAnimations",
+		"GetDebugName",
+		"GetDuration",
+		"GetLooping",
+		"GetLoopState",
+		"GetName",
+		"GetObjectType",
+		"GetObjectType",
+		"GetProgress",
+		"GetScript",
+		"GetScript",
+		"HasScript",
+		"HasScript",
+		"HookScript",
+		"HookScript",
+		"IsDone",
+		"IsForbidden",
+		"IsObjectType",
+		"IsObjectType",
+		"IsPaused",
+		"IsPendingFinish",
+		"IsPlaying",
+		"IsSetToFinalAlpha",
+		"Pause",
+		"Play",
+		"Restart",
+		"SetLooping",
+		"SetScript",
+		"SetScript",
+		"SetToFinalAlpha",
+		"Stop",
+	},
+}]]></content>
+	<tabTrigger>_AnimationGroup</tabTrigger>
+	<description>help</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

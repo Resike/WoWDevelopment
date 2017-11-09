@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BLACK_MARKET_ITEM_UPDATE]]></content>
+	<tabTrigger>BLACK_MARKET_ITEM_UPDATE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

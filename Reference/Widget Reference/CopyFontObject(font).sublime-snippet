@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CopyFontObject(${1:font})$0]]></content>
+	<tabTrigger>CopyFontObject</tabTrigger>
+	<description>(font)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

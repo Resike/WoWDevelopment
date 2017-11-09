@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:leader}, ${2:tank}, ${3:healer}, ${4:damage} = GetLFGRoles()$0]]></content>
+	<tabTrigger>_GetLFGRoles</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

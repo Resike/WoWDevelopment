@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TRANSMOG_OUTFITS_CHANGED]]></content>
+	<tabTrigger>TRANSMOG_OUTFITS_CHANGED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

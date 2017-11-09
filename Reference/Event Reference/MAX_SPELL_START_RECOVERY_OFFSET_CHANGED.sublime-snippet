@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MAX_SPELL_START_RECOVERY_OFFSET_CHANGED]]></content>
+	<tabTrigger>MAX_SPELL_START_RECOVERY_OFFSET_CHANGED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

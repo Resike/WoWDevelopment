@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BARBER_SHOP_APPEARANCE_APPLIED]]></content>
+	<tabTrigger>BARBER_SHOP_APPEARANCE_APPLIED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

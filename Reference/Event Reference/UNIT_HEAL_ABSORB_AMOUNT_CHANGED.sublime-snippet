@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UNIT_HEAL_ABSORB_AMOUNT_CHANGED]]></content>
+	<tabTrigger>UNIT_HEAL_ABSORB_AMOUNT_CHANGED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

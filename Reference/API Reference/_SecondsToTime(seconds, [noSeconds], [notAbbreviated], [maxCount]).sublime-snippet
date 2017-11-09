@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:time} = SecondsToTime(${2:seconds}, ${3:[noSeconds]}, ${4:[notAbbreviated]}, ${5:[maxCount]})$0]]></content>
+	<tabTrigger>_SecondsToTime</tabTrigger>
+	<description>(seconds, [noSeconds], [notAbbreviated], [maxCount])</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

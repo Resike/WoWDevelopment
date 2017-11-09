@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetLFGDungeonInfo(${1:id})$0]]></content>
+	<tabTrigger>GetLFGDungeonInfo</tabTrigger>
+	<description>(id)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[REAGENTBANK_PURCHASED]]></content>
+	<tabTrigger>REAGENTBANK_PURCHASED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

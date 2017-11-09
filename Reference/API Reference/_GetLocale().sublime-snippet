@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:locale} = GetLocale()$0]]></content>
+	<tabTrigger>_GetLocale</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

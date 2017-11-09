@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ENABLE_LOW_LEVEL_RAID]]></content>
+	<tabTrigger>ENABLE_LOW_LEVEL_RAID</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

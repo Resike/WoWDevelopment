@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UNIT_RANGED_ATTACK_POWER]]></content>
+	<tabTrigger>UNIT_RANGED_ATTACK_POWER</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

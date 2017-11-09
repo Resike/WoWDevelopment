@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:GameTooltip}:SetAction(${2:slot})$0]]></content>
+	<tabTrigger>GameTooltip:SetAction</tabTrigger>
+	<description>(slot)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

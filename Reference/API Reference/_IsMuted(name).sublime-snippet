@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:muted} = IsMuted("${2:name}")$0]]></content>
+	<tabTrigger>_IsMuted</tabTrigger>
+	<description>("name")</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

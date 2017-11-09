@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VOICE_START]]></content>
+	<tabTrigger>VOICE_START</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[nil]]></content>
+	<tabTrigger>nil</tabTrigger>
+	<scope>source.lua - entity - punctuation - string</scope>
+	<description>nil</description>
+</snippet>

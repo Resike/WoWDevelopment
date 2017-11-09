@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TOPLEFT]]></content>
+	<tabTrigger>TL</tabTrigger>
+	<description>"TOPLEFT"</description>
+	<scope>source.lua string</scope>
+</snippet>

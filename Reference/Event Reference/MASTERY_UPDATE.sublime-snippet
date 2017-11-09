@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MASTERY_UPDATE]]></content>
+	<tabTrigger>MASTERY_UPDATE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PLAYER_ALIVE]]></content>
+	<tabTrigger>PLAYER_ALIVE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CENTER]]></content>
+	<tabTrigger>C</tabTrigger>
+	<description>"CENTER"</description>
+	<scope>source.lua string</scope>
+</snippet>

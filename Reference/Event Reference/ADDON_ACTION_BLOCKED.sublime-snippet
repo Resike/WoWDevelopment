@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ADDON_ACTION_BLOCKED]]></content>
+	<tabTrigger>ADDON_ACTION_BLOCKED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

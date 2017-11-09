@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetCombatRating(${1:ratingIndex})$0]]></content>
+	<tabTrigger>GetCombatRating</tabTrigger>
+	<description>(ratingIndex)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:Line}:SetEndPoint("${2:point}", ${3:[relativeTo]}, "${4:[relativePoint]}", ${5:[xOffset]}, ${6:[yOffset]})$0]]></content>
+	<tabTrigger>Line:SetEndPoint</tabTrigger>
+	<description>("point", [relativeTo], ["relativePoint"], [xOffset], [yOffset])</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RIGHT]]></content>
+	<tabTrigger>R</tabTrigger>
+	<description>"RIGHT"</description>
+	<scope>source.lua string</scope>
+</snippet>

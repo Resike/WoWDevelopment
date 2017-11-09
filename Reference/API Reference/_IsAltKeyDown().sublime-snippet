@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:isDown} = IsAltKeyDown()$0]]></content>
+	<tabTrigger>_IsAltKeyDown</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

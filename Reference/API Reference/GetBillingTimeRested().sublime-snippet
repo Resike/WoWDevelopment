@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetBillingTimeRested()$0]]></content>
+	<tabTrigger>GetBillingTimeRested</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

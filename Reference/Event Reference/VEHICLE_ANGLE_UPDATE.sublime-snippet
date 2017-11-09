@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VEHICLE_ANGLE_UPDATE]]></content>
+	<tabTrigger>VEHICLE_ANGLE_UPDATE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

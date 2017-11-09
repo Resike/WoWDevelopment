@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PLAYER_CHARACTER_UPGRADE_TALENT_COUNT_CHANGED]]></content>
+	<tabTrigger>PLAYER_CHARACTER_UPGRADE_TALENT_COUNT_CHANGED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

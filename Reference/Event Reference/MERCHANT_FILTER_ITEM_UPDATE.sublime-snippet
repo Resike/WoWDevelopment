@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MERCHANT_FILTER_ITEM_UPDATE]]></content>
+	<tabTrigger>MERCHANT_FILTER_ITEM_UPDATE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GARRISON_INVASION_UNAVAILABLE]]></content>
+	<tabTrigger>GARRISON_INVASION_UNAVAILABLE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

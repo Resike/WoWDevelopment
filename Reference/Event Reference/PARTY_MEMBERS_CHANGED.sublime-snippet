@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PARTY_MEMBERS_CHANGED]]></content>
+	<tabTrigger>PARTY_MEMBERS_CHANGED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NPE_TUTORIAL_UPDATE]]></content>
+	<tabTrigger>NPE_TUTORIAL_UPDATE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

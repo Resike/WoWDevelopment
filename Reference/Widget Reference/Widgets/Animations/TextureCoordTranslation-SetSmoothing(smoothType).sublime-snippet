@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:TextureCoordTranslation}:SetSmoothing("${2:smoothType}")$0]]></content>
+	<tabTrigger>TextureCoordTranslation:SetSmoothing</tabTrigger>
+	<description>("smoothType")</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

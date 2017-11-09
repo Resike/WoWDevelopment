@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[STORE_PRODUCT_DELIVERED]]></content>
+	<tabTrigger>STORE_PRODUCT_DELIVERED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

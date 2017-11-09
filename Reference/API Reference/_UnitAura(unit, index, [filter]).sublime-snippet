@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:name}, ${2:rank}, ${3:icon}, ${4:count}, ${5:debuffType}, ${6:duration}, ${7:expirationTime}, ${8:unitCaster}, ${9:canStealOrPurge}, ${10:shouldConsolidate}, ${11:spellID}, ${12:canApplyAura}, ${13:isBossDebuff}, ${14:isCastByPlayer}, ${15:value2}, ${16:value3} = UnitAura("${17:unit}", ${18:index}, ${19:["filter"]})$0]]></content>
+	<tabTrigger>_UnitAura</tabTrigger>
+	<description>("unit", index, ["filter"])</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[REPLACE_ENCHANT]]></content>
+	<tabTrigger>REPLACE_ENCHANT</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

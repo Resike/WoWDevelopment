@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[COMMENTATOR_PARTY_INFO_REQUEST]]></content>
+	<tabTrigger>COMMENTATOR_PARTY_INFO_REQUEST</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

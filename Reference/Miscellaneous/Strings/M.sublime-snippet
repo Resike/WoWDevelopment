@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MIDDLE]]></content>
+	<tabTrigger>M</tabTrigger>
+	<description>"MIDDLE"</description>
+	<scope>source.lua string</scope>
+</snippet>

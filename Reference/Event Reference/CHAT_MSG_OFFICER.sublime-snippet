@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHAT_MSG_OFFICER]]></content>
+	<tabTrigger>CHAT_MSG_OFFICER</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

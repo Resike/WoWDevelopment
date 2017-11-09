@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WARGAME_REQUESTED]]></content>
+	<tabTrigger>WARGAME_REQUESTED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

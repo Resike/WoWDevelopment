@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SKILL_LINES_CHANGED]]></content>
+	<tabTrigger>SKILL_LINES_CHANGED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

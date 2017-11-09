@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TWITTER_LINK_RESULT]]></content>
+	<tabTrigger>TWITTER_LINK_RESULT</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

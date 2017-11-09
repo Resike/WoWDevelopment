@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UPDATE_EXHAUSTION]]></content>
+	<tabTrigger>UPDATE_EXHAUSTION</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

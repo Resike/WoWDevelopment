@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VEHICLE_POWER_SHOW]]></content>
+	<tabTrigger>VEHICLE_POWER_SHOW</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

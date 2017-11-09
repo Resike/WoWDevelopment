@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TOKEN_MARKET_PRICE_UPDATED]]></content>
+	<tabTrigger>TOKEN_MARKET_PRICE_UPDATED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

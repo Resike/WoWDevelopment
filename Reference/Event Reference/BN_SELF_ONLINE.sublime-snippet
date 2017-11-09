@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BN_SELF_ONLINE]]></content>
+	<tabTrigger>BN_SELF_ONLINE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

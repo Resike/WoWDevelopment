@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetSpellLink(${1:index}, "${2:bookType}")$0]]></content>
+	<tabTrigger>GetSpellLink</tabTrigger>
+	<description>(index, "bookType")</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

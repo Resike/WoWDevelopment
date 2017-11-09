@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACHIEVEMENT_SEARCH_UPDATED]]></content>
+	<tabTrigger>ACHIEVEMENT_SEARCH_UPDATED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

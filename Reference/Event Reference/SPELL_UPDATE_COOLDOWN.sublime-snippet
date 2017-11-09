@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SPELL_UPDATE_COOLDOWN]]></content>
+	<tabTrigger>SPELL_UPDATE_COOLDOWN</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

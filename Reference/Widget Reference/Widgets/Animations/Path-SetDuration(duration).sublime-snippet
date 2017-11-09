@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:Path}:SetDuration(${2:duration})$0]]></content>
+	<tabTrigger>Path:SetDuration</tabTrigger>
+	<description>(duration)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

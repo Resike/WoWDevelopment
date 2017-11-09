@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PETITION_CLOSED]]></content>
+	<tabTrigger>PETITION_CLOSED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

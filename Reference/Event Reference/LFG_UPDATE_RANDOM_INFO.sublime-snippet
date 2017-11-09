@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LFG_UPDATE_RANDOM_INFO]]></content>
+	<tabTrigger>LFG_UPDATE_RANDOM_INFO</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

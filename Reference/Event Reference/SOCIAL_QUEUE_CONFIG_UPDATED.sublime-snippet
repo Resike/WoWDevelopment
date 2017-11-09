@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SOCIAL_QUEUE_CONFIG_UPDATED]]></content>
+	<tabTrigger>SOCIAL_QUEUE_CONFIG_UPDATED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

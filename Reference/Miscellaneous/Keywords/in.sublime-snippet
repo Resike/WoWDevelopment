@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[in]]></content>
+	<tabTrigger>in</tabTrigger>
+	<scope>source.lua - entity - punctuation - string</scope>
+	<description>in</description>
+</snippet>

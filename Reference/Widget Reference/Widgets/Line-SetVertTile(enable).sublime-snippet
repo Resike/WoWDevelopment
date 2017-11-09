@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:Line}:SetVertTile(${2:enable})$0]]></content>
+	<tabTrigger>Line:SetVertTile</tabTrigger>
+	<description>(enable)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

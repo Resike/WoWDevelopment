@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetOverrideBindingClick(${1:owner}, ${2:isPriority}, "${3:key}", "${4:buttonName}", ${5:["mouseButton"]})$0]]></content>
+	<tabTrigger>SetOverrideBindingClick</tabTrigger>
+	<description>(owner, isPriority, "key", "buttonName", ["mouseButton"])</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

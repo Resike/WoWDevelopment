@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ExpandAllFactionHeaders()$0]]></content>
+	<tabTrigger>ExpandAllFactionHeaders</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

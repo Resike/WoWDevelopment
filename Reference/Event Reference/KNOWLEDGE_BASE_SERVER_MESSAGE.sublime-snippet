@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[KNOWLEDGE_BASE_SERVER_MESSAGE]]></content>
+	<tabTrigger>KNOWLEDGE_BASE_SERVER_MESSAGE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

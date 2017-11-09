@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:progress} = ${2:TextureCoordTranslation}:GetSmoothProgress()$0]]></content>
+	<tabTrigger>_TextureCoordTranslation:GetSmoothProgress</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

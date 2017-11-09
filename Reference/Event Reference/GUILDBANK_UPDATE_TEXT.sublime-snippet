@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILDBANK_UPDATE_TEXT]]></content>
+	<tabTrigger>GUILDBANK_UPDATE_TEXT</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

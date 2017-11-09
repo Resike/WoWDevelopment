@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GARRISON_RECRUITMENT_NPC_OPENED]]></content>
+	<tabTrigger>GARRISON_RECRUITMENT_NPC_OPENED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

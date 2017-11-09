@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetFrameStack(${2:includeHidden})$0]]></content>
+	<tabTrigger>SetFrameStack</tabTrigger>
+	<description>(includeHidden)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

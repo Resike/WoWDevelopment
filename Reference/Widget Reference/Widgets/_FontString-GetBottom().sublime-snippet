@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:bottom} = ${2:FontString}:GetBottom()$0]]></content>
+	<tabTrigger>_FontString:GetBottom</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

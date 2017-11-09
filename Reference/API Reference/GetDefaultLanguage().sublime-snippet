@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetDefaultLanguage()$0]]></content>
+	<tabTrigger>GetDefaultLanguage</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

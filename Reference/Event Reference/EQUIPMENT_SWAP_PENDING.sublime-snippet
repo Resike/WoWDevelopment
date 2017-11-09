@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EQUIPMENT_SWAP_PENDING]]></content>
+	<tabTrigger>EQUIPMENT_SWAP_PENDING</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

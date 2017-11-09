@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScenarioPOIFrame]]></content>
+	<tabTrigger>ScenarioPOIFrame</tabTrigger>
+	<description>"frameType"</description>
+	<scope>source.lua string</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:name} = ${2:FontString}:GetDebugName()$0]]></content>
+	<tabTrigger>_FontString:GetDebugName</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

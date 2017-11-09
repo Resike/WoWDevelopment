@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[STORE_STATUS_CHANGED]]></content>
+	<tabTrigger>STORE_STATUS_CHANGED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EJ_SetLootFilter(${1:classID}, ${2:specID})$0]]></content>
+	<tabTrigger>EJ_SetLootFilter</tabTrigger>
+	<description>(classID, specID)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

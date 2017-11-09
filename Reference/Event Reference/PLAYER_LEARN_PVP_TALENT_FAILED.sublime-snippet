@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PLAYER_LEARN_PVP_TALENT_FAILED]]></content>
+	<tabTrigger>PLAYER_LEARN_PVP_TALENT_FAILED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

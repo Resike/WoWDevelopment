@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BN_CHAT_WHISPER_UNDELIVERABLE]]></content>
+	<tabTrigger>BN_CHAT_WHISPER_UNDELIVERABLE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

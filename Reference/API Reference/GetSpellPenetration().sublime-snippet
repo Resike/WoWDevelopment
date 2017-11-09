@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetSpellPenetration()$0]]></content>
+	<tabTrigger>GetSpellPenetration</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[STORE_CHARACTER_LIST_RECEIVED]]></content>
+	<tabTrigger>STORE_CHARACTER_LIST_RECEIVED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

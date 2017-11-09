@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetContainerItemPurchaseItem(${1:container}, ${2:slot}, ${3:index})$0]]></content>
+	<tabTrigger>GetContainerItemPurchaseItem</tabTrigger>
+	<description>(container, slot, index)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

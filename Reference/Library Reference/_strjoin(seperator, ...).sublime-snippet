@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:text} = strjoin("${2:seperator}", ${3:...})$0]]></content>
+	<tabTrigger>_strjoin</tabTrigger>
+	<description>("seperator", ...)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

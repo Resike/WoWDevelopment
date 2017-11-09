@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:Rotation}:GetSmoothing()$0]]></content>
+	<tabTrigger>Rotation:GetSmoothing</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

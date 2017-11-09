@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BATTLEPET_FORCE_NAME_DECLENSION]]></content>
+	<tabTrigger>BATTLEPET_FORCE_NAME_DECLENSION</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

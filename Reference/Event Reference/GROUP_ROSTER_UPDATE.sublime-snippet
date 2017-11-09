@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GROUP_ROSTER_UPDATE]]></content>
+	<tabTrigger>GROUP_ROSTER_UPDATE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

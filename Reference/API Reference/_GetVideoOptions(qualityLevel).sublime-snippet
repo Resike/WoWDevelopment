@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:name}, ${2:value}, ${3:...} = GetVideoOptions(${4:qualityLevel})$0]]></content>
+	<tabTrigger>_GetVideoOptions</tabTrigger>
+	<description>(qualityLevel)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

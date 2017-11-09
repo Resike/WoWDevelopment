@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UNIT_SPELLCAST_DELAYED]]></content>
+	<tabTrigger>UNIT_SPELLCAST_DELAYED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

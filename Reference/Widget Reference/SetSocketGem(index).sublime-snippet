@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetSocketGem(${2:index})$0]]></content>
+	<tabTrigger>SetSocketGem</tabTrigger>
+	<description>(index)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

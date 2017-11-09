@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:name} = GetMonitorName(${2:monitorIndex})$0]]></content>
+	<tabTrigger>_GetMonitorName</tabTrigger>
+	<description>(monitorIndex)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

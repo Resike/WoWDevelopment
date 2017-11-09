@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CONFIRM_TALENT_WIPE]]></content>
+	<tabTrigger>CONFIRM_TALENT_WIPE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EquipItemByName("${1:itemLink}")$0]]></content>
+	<tabTrigger>EquipItemByName</tabTrigger>
+	<description>("itemLink")</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

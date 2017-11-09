@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BN_FRIEND_ACCOUNT_OFFLINE]]></content>
+	<tabTrigger>BN_FRIEND_ACCOUNT_OFFLINE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

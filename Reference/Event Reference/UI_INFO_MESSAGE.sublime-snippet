@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UI_INFO_MESSAGE]]></content>
+	<tabTrigger>UI_INFO_MESSAGE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EQUIP_BIND_CONFIRM]]></content>
+	<tabTrigger>EQUIP_BIND_CONFIRM</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

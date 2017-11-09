@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UNIT_MAXPOWER]]></content>
+	<tabTrigger>UNIT_MAXPOWER</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

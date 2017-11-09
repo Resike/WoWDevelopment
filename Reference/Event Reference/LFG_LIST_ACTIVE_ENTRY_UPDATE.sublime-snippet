@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LFG_LIST_ACTIVE_ENTRY_UPDATE]]></content>
+	<tabTrigger>LFG_LIST_ACTIVE_ENTRY_UPDATE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

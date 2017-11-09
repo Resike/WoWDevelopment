@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CONFIRM_XP_LOSS]]></content>
+	<tabTrigger>CONFIRM_XP_LOSS</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

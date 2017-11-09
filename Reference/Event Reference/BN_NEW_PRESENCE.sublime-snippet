@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BN_NEW_PRESENCE]]></content>
+	<tabTrigger>BN_NEW_PRESENCE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

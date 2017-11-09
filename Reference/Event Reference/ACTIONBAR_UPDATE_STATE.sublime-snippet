@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACTIONBAR_UPDATE_STATE]]></content>
+	<tabTrigger>ACTIONBAR_UPDATE_STATE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

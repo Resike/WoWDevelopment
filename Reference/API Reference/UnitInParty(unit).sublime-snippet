@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnitInParty("${1:unit}")$0]]></content>
+	<tabTrigger>UnitInParty</tabTrigger>
+	<description>("unit")</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

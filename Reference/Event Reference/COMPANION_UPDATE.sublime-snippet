@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[COMPANION_UPDATE]]></content>
+	<tabTrigger>COMPANION_UPDATE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

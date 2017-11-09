@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PLAYER_EQUIPMENT_CHANGED]]></content>
+	<tabTrigger>PLAYER_EQUIPMENT_CHANGED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

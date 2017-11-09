@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnKeyUp]]></content>
+	<tabTrigger>OnKeyUp</tabTrigger>
+	<description>"scriptType"</description>
+	<scope>source.lua string</scope>
+</snippet>

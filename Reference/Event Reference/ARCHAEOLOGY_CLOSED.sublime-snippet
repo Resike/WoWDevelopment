@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ARCHAEOLOGY_CLOSED]]></content>
+	<tabTrigger>ARCHAEOLOGY_CLOSED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

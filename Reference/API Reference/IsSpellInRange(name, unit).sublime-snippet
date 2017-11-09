@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IsSpellInRange("${1:name}", "${2:unit}")$0]]></content>
+	<tabTrigger>IsSpellInRange</tabTrigger>
+	<description>("name", "unit")</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

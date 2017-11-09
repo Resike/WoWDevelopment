@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OffScreenFrame]]></content>
+	<tabTrigger>OffScreenFrame</tabTrigger>
+	<description>"frameType"</description>
+	<scope>source.lua string</scope>
+</snippet>

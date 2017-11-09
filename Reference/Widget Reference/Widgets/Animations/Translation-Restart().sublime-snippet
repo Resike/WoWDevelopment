@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:Translation}:Restart()$0]]></content>
+	<tabTrigger>Translation:Restart</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

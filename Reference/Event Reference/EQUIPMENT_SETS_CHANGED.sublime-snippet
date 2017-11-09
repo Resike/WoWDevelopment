@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EQUIPMENT_SETS_CHANGED]]></content>
+	<tabTrigger>EQUIPMENT_SETS_CHANGED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

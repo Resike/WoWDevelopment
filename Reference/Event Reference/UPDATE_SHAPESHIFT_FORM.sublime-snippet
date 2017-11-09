@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UPDATE_SHAPESHIFT_FORM]]></content>
+	<tabTrigger>UPDATE_SHAPESHIFT_FORM</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

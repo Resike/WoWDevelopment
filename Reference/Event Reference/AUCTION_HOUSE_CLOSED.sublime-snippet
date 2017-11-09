@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AUCTION_HOUSE_CLOSED]]></content>
+	<tabTrigger>AUCTION_HOUSE_CLOSED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

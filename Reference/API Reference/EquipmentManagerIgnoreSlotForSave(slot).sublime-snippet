@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EquipmentManagerIgnoreSlotForSave(${1:slot})$0]]></content>
+	<tabTrigger>EquipmentManagerIgnoreSlotForSave</tabTrigger>
+	<description>(slot)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

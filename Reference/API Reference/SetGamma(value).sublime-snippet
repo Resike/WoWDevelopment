@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetGamma(${1:value})$0]]></content>
+	<tabTrigger>SetGamma</tabTrigger>
+	<description>(value)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

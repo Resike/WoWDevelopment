@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BANKFRAME_OPENED]]></content>
+	<tabTrigger>BANKFRAME_OPENED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CanEditGuildInfo()$0]]></content>
+	<tabTrigger>CanEditGuildInfo</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

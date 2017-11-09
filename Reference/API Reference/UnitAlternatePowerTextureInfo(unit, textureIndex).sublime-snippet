@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnitAlternatePowerTextureInfo("${1:unit}", ${2:textureIndex})$0]]></content>
+	<tabTrigger>UnitAlternatePowerTextureInfo</tabTrigger>
+	<description>("unit", textureIndex)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

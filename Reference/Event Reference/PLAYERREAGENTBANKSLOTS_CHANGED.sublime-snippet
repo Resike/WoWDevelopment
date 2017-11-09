@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PLAYERREAGENTBANKSLOTS_CHANGED]]></content>
+	<tabTrigger>PLAYERREAGENTBANKSLOTS_CHANGED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

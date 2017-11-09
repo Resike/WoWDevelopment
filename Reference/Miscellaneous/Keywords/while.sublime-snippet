@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[while]]></content>
+	<tabTrigger>while</tabTrigger>
+	<scope>source.lua - entity - punctuation - string</scope>
+	<description>while</description>
+</snippet>

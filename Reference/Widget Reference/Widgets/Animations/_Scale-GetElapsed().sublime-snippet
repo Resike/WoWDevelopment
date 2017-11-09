@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:elapsed} = ${2:Scale}:GetElapsed()$0]]></content>
+	<tabTrigger>_Scale:GetElapsed</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

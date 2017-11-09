@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnTextSet]]></content>
+	<tabTrigger>OnTextSet</tabTrigger>
+	<description>"scriptType"</description>
+	<scope>source.lua string</scope>
+</snippet>

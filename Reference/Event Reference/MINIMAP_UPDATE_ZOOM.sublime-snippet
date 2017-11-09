@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MINIMAP_UPDATE_ZOOM]]></content>
+	<tabTrigger>MINIMAP_UPDATE_ZOOM</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

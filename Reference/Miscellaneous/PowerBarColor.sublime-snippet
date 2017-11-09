@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PowerBarColor]]></content>
+	<tabTrigger>PowerBarColor</tabTrigger>
+	<description>table</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

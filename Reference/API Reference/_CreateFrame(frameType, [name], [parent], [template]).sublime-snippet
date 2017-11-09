@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:frame} = CreateFrame("${2:frameType}", ${3:["name"]}, ${4:[parent]}${5:, ${6:["template"]}})$0]]></content>
+	<tabTrigger>_CreateFrame</tabTrigger>
+	<description>("frameType", ["name"], [parent], ["template"])</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

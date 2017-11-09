@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:name}, ${2:rank}, ${3:rankIndex}, ${4:level}, ${5:class}, ${6:zone}, ${7:note}, ${8:officernote}, ${9:online}, ${10:status}, ${11:classFileName}, ${12:achievementPoints}, ${13:achievementRank}, ${14:isMobile}, ${15:canSoR} = GetGuildRosterInfo(${16:index})$0]]></content>
+	<tabTrigger>_GetGuildRosterInfo</tabTrigger>
+	<description>(index)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

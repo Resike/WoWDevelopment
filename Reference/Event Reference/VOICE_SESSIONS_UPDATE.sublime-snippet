@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VOICE_SESSIONS_UPDATE]]></content>
+	<tabTrigger>VOICE_SESSIONS_UPDATE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

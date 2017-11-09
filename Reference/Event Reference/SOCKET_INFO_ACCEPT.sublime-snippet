@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SOCKET_INFO_ACCEPT]]></content>
+	<tabTrigger>SOCKET_INFO_ACCEPT</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

@@ -1,0 +1,25 @@
+<snippet>
+	<content><![CDATA[ControlPoint = {
+	inherits = {
+		"ControlPoint",
+		"ParentedObject",
+		"UIObject",
+	},
+	methods = {
+		"GetDebugName",
+		"GetName",
+		"GetObjectType",
+		"GetOffset",
+		"GetOrder",
+		"GetParent",
+		"IsForbidden",
+		"IsObjectType",
+		"SetOffset",
+		"SetOrder",
+		"SetParent",
+	},
+}]]></content>
+	<tabTrigger>_ControlPoint</tabTrigger>
+	<description>help</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

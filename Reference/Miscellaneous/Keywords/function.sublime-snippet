@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[function]]></content>
+	<tabTrigger>function</tabTrigger>
+	<scope>source.lua - entity - punctuation - string</scope>
+	<description>function</description>
+</snippet>

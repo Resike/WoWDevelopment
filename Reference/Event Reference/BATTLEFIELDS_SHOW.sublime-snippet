@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BATTLEFIELDS_SHOW]]></content>
+	<tabTrigger>BATTLEFIELDS_SHOW</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

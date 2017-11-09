@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:bossName}, ${2:texture}, ${3:isKilled}, ${4:result4} = GetLFGDungeonEncounterInfo(${5:dungeonId}, ${6:encounterIndex})$0]]></content>
+	<tabTrigger>_GetLFGDungeonEncounterInfo</tabTrigger>
+	<description>(dungeonId, encounterIndex)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

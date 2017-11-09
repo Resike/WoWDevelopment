@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnChar]]></content>
+	<tabTrigger>OnChar</tabTrigger>
+	<description>"scriptType"</description>
+	<scope>source.lua string</scope>
+</snippet>

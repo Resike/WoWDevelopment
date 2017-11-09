@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DrawBlob(${1:questID}, ${2:Draw})$0]]></content>
+	<tabTrigger>DrawBlob</tabTrigger>
+	<description>(questID, Draw)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

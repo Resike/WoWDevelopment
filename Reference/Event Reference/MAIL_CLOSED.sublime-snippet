@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MAIL_CLOSED]]></content>
+	<tabTrigger>MAIL_CLOSED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

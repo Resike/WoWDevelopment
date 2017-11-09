@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILD_CHALLENGE_COMPLETED]]></content>
+	<tabTrigger>GUILD_CHALLENGE_COMPLETED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

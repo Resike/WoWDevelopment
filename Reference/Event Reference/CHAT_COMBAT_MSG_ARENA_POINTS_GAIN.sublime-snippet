@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHAT_COMBAT_MSG_ARENA_POINTS_GAIN]]></content>
+	<tabTrigger>CHAT_COMBAT_MSG_ARENA_POINTS_GAIN</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

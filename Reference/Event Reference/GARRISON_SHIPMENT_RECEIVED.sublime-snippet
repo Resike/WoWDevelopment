@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GARRISON_SHIPMENT_RECEIVED]]></content>
+	<tabTrigger>GARRISON_SHIPMENT_RECEIVED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

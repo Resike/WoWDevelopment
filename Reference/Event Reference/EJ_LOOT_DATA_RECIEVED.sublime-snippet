@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EJ_LOOT_DATA_RECIEVED]]></content>
+	<tabTrigger>EJ_LOOT_DATA_RECIEVED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

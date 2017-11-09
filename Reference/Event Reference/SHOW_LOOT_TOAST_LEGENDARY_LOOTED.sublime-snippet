@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SHOW_LOOT_TOAST_LEGENDARY_LOOTED]]></content>
+	<tabTrigger>SHOW_LOOT_TOAST_LEGENDARY_LOOTED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

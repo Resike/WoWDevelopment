@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OPEN_MASTER_LOOT_LIST]]></content>
+	<tabTrigger>OPEN_MASTER_LOOT_LIST</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

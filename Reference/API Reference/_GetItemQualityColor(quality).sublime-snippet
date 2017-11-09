@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:redComponent}, ${2:greenComponent}, ${3:blueComponent}, ${4:hexColor} = GetItemQualityColor(${5:quality})$0]]></content>
+	<tabTrigger>_GetItemQualityColor</tabTrigger>
+	<description>(quality)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

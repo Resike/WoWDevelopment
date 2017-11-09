@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:name}, ${2:guild}, ${3:level}, ${4:race}, ${5:class}, ${6:zone}, ${7:classFileName}, ${8:sex} = GetWhoInfo(${9:index})$0]]></content>
+	<tabTrigger>_GetWhoInfo</tabTrigger>
+	<description>(index)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

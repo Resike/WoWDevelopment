@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:formattedValue} = AbbreviateNumbers("${2:value}")$0]]></content>
+	<tabTrigger>_AbbreviateNumbers</tabTrigger>
+	<description>("value")</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

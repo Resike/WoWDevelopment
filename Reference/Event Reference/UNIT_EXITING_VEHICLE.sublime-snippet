@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UNIT_EXITING_VEHICLE]]></content>
+	<tabTrigger>UNIT_EXITING_VEHICLE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

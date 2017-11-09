@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:LineScale}:SetOrigin("${2:point}", ${3:xOffset}, ${4:yOffset})$0]]></content>
+	<tabTrigger>LineScale:SetOrigin</tabTrigger>
+	<description>("point", xOffset, yOffset)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

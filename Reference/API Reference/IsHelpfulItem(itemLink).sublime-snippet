@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IsHelpfulItem("${1:itemLink}")$0]]></content>
+	<tabTrigger>IsHelpfulItem</tabTrigger>
+	<description>("itemLink")</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

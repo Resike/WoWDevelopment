@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:done} = ${2:TextureCoordTranslation}:IsDone()$0]]></content>
+	<tabTrigger>_TextureCoordTranslation:IsDone</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

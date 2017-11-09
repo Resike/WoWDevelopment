@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLOSE_TABARD_FRAME]]></content>
+	<tabTrigger>CLOSE_TABARD_FRAME</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string</scope>
+</snippet>

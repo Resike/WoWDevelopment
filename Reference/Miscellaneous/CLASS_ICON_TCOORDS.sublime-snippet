@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLASS_ICON_TCOORDS]]></content>
+	<tabTrigger>CLASS_ICON_TCOORDS</tabTrigger>
+	<description>table</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

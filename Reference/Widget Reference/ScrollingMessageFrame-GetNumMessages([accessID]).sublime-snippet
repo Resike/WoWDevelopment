@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${2:ScrollingMessageFrame}:GetNumMessages(${3:[accessID]})$0]]></content>
+	<tabTrigger>ScrollingMessageFrame:GetNumMessages</tabTrigger>
+	<description>([accessID])</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

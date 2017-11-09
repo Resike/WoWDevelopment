@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:Texture}:CreateAnimationGroup(${2:["name"]}, ${3:["inheritsFrom"]})$0]]></content>
+	<tabTrigger>Texture:CreateAnimationGroup</tabTrigger>
+	<description>(["name"], ["inheritsFrom"])</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

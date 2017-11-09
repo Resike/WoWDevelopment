@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:Translation}:SetSmoothing("${2:smoothType}")$0]]></content>
+	<tabTrigger>Translation:SetSmoothing</tabTrigger>
+	<description>("smoothType")</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>
