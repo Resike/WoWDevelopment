@@ -2410,8 +2410,8 @@
 			"contents": "GetFriendInfo(${1:index})$0",
 		},
 		{
-			"trigger": "GetFunctionCPUUsage\t(function, includeSubroutines)",
-			"contents": "GetFunctionCPUUsage(${1:function}, ${2:includeSubroutines})$0",
+			"trigger": "GetFunctionCPUUsage\t(func, includeSubroutines)",
+			"contents": "GetFunctionCPUUsage(${1:func}, ${2:includeSubroutines})$0",
 		},
 		{
 			"trigger": "GetGameTime\t()",
@@ -8258,8 +8258,8 @@
 			"contents": "${1:name}, ${2:level}, ${3:class}, ${4:area}, ${5:connected}, ${6:status}, ${7:note}, ${8:RAF} = GetFriendInfo(${9:index})$0",
 		},
 		{
-			"trigger": "_GetFunctionCPUUsage\t(function, includeSubroutines)",
-			"contents": "${1:usage}, ${2:calls} = GetFunctionCPUUsage(${3:function}, ${4:includeSubroutines})$0",
+			"trigger": "_GetFunctionCPUUsage\t(func, includeSubroutines)",
+			"contents": "${1:usage}, ${2:calls} = GetFunctionCPUUsage(${3:func}, ${4:includeSubroutines})$0",
 		},
 		{
 			"trigger": "_GetGameTime\t()",
