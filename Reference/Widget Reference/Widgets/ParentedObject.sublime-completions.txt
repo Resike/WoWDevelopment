@@ -28,6 +28,7 @@
 
 
 
+
 		{
 			"trigger": "_ParentedObject:GetDebugName\t()",
 			"contents": "${1:name} = ${2:ParentedObject}:GetDebugName()$0",
@@ -52,6 +53,7 @@
 			"trigger": "_ParentedObject:IsObjectType\t(\"type\")",
 			"contents": "${1:isType} = ${2:ParentedObject}:IsObjectType(\"${3:type}\")$0",
 		},
+
 
 
 

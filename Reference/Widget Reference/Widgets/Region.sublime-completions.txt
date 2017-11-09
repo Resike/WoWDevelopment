@@ -128,6 +128,7 @@
 
 
 
+
 		{
 			"trigger": "_Region:CanChangeProtectedState\t()",
 			"contents": "${1:canChange} = ${2:Region}:CanChangeProtectedState()$0",
@@ -216,6 +217,7 @@
 			"trigger": "_Region:IsProtected\t()",
 			"contents": "${1:isProtected}, ${2:explicit} = ${3:Region}:IsProtected()$0",
 		},
+
 
 
 

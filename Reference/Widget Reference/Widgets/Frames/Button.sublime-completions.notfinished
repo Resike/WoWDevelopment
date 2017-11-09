@@ -548,6 +548,7 @@
 
 
 
+
 		{
 			"trigger": "_Button:CanChangeAttribute\t()",
 			"contents": "${1:enabled} = ${2:Button}:CanChangeAttribute()$0",
@@ -844,6 +845,7 @@
 			"trigger": "_Button:IsVisible\t()",
 			"contents": "${1:visible} = ${2:Button}:IsVisible()$0",
 		},
+
 
 
 

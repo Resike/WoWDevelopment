@@ -5,6 +5,6 @@ for ${1:i}, ${2:v} in ipairs(${3:table}) do
 end
 ]]></content>
 	<tabTrigger>fori</tabTrigger>
-	<scope>source.lua - string</scope>
+	<scope>source.lua - entity - punctuation - string</scope>
 	<description>for i,v in ipairs()</description>
 </snippet>

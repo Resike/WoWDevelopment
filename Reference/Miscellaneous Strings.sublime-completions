@@ -147,6 +147,7 @@
 
 
 
+
 		{
 			"trigger": "Button4\t\"button\"",
 			"contents": "Button4",
@@ -208,6 +209,7 @@
 			"trigger": "RightButtonUp\t\"button\"",
 			"contents": "RightButtonUp",
 		},
+
 
 
 
@@ -294,6 +296,7 @@
 
 
 
+
 		{
 			"trigger": "ADD\t\"blend\"",
 			"contents": "ADD",
@@ -317,6 +320,7 @@
 
 
 
+
 		{
 			"trigger": "ARTWORK\t\"layer\"",
 			"contents": "ARTWORK",
@@ -337,6 +341,7 @@
 			"trigger": "OVERLAY\t\"layer\"",
 			"contents": "OVERLAY",
 		},
+
 
 
 

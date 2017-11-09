@@ -372,6 +372,7 @@
 
 
 
+
 		{
 			"trigger": "_abs\t(x)",
 			"contents": "${1:absoluteValue} = abs(${2:x})$0",

@@ -604,6 +604,7 @@
 
 
 
+
 		{
 			"trigger": "_QuestPOIFrame:CanChangeAttribute\t()",
 			"contents": "${1:enabled} = ${2:QuestPOIFrame}:CanChangeAttribute()$0",
@@ -912,6 +913,7 @@
 			"trigger": "_QuestPOIFrame:UpdateMouseOverTooltip\t(mouseX, mouseY)",
 			"contents": "${1:index}, ${2:numObjectives} = ${3:QuestPOIFrame}:UpdateMouseOverTooltip(${4:mouseX}, ${5:mouseY})$0",
 		},
+
 
 
 

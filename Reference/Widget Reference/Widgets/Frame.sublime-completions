@@ -544,6 +544,7 @@
 
 
 
+
 		{
 			"trigger": "_Frame:CanChangeAttribute\t()",
 			"contents": "${1:enabled} = ${2:Frame}:CanChangeAttribute()$0",
@@ -840,6 +841,7 @@
 			"trigger": "_Frame:IsVisible\t()",
 			"contents": "${1:visible} = ${2:Frame}:IsVisible()$0",
 		},
+
 
 
 

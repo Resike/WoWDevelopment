@@ -88,6 +88,7 @@
 
 
 
+
 		{
 			"trigger": "_FontInstance:GetDebugName\t()",
 			"contents": "${1:name} = ${2:FontInstance}:GetDebugName()$0",
@@ -144,6 +145,7 @@
 			"trigger": "_FontInstance:SetFont\t(\"filename\", fontHeight, \"flags\")",
 			"contents": "${1:isValid} = ${2:FontInstance}:SetFont(\"${3:filename}\", ${4:fontHeight}, \"${5:flags}\")$0",
 		},
+
 
 
 

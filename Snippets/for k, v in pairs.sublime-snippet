@@ -5,6 +5,6 @@ for ${1:k}, ${2:v} in pairs(${3:table}) do
 end
 ]]></content>
 	<tabTrigger>forp</tabTrigger>
-	<scope>source.lua - string</scope>
+	<scope>source.lua - entity - punctuation - string</scope>
 	<description>for k,v in pairs()</description>
 </snippet>

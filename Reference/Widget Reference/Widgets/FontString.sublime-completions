@@ -332,6 +332,7 @@
 
 
 
+
 		{
 			"trigger": "_FontString:CanChangeProtectedState\t()",
 			"contents": "${1:canChange} = ${2:FontString}:CanChangeProtectedState()$0",
@@ -524,6 +525,7 @@
 			"trigger": "_FontString:SetFont\t(\"filename\", fontHeight, \"flags\")",
 			"contents": "${1:isValid} = ${2:FontString}:SetFont(\"${3:filename}\", ${4:fontHeight}, \"${5:flags}\")$0",
 		},
+
 
 
 

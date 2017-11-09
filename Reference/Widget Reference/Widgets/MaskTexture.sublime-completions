@@ -300,6 +300,7 @@
 
 
 
+
 		{
 			"trigger": "_MaskTexture:CanChangeProtectedState\t()",
 			"contents": "${1:canChange} = ${2:MaskTexture}:CanChangeProtectedState()$0",
@@ -456,6 +457,7 @@
 			"trigger": "_MaskTexture:IsVisible\t()",
 			"contents": "${1:visible} = ${2:MaskTexture}:IsVisible()$0",
 		},
+
 
 
 

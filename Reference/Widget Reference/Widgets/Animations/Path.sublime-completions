@@ -180,6 +180,7 @@
 
 
 
+
 		{
 			"trigger": "_Path:CreateControlPoint\t([\"name\"], [\"template\"], [order])",
 			"contents": "${1:controlPoint} = ${2:Path}:CreateControlPoint(${3:[\"name\"]}, ${4:[\"template\"]}, ${5:[order]})$0",
@@ -288,6 +289,7 @@
 			"trigger": "_Path:IsStopped\t()",
 			"contents": "${1:stopped} = ${2:Path}:IsStopped()$0",
 		},
+
 
 
 

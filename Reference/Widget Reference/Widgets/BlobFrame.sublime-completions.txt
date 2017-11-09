@@ -592,6 +592,7 @@
 
 
 
+
 		{
 			"trigger": "_BlobFrame:CanChangeAttribute\t()",
 			"contents": "${1:enabled} = ${2:BlobFrame}:CanChangeAttribute()$0",
@@ -888,6 +889,7 @@
 			"trigger": "_BlobFrame:IsVisible\t()",
 			"contents": "${1:visible} = ${2:BlobFrame}:IsVisible()$0",
 		},
+
 
 
 

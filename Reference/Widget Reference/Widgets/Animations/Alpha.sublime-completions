@@ -176,6 +176,7 @@
 
 
 
+
 		{
 			"trigger": "_Alpha:GetDebugName\t()",
 			"contents": "${1:name} = ${2:Alpha}:GetDebugName()$0",
@@ -276,6 +277,7 @@
 			"trigger": "_Alpha:IsStopped\t()",
 			"contents": "${1:stopped} = ${2:Alpha}:IsStopped()$0",
 		},
+
 
 
 

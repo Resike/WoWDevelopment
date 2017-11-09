@@ -3,6 +3,6 @@
 	${1}
 end]]></content>
 	<tabTrigger>then</tabTrigger>
-	<scope>source.lua - string</scope>
+	<scope>source.lua - entity - punctuation - string</scope>
 	<description>then-end</description>
 </snippet>

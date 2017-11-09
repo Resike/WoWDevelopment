@@ -48,6 +48,7 @@
 
 
 
+
 		{
 			"trigger": "_ControlPoint:GetDebugName\t()",
 			"contents": "${1:name} = ${2:ControlPoint}:GetDebugName()$0",
@@ -80,6 +81,7 @@
 			"trigger": "_ControlPoint:IsObjectType\t(\"type\")",
 			"contents": "${1:isType} = ${2:ControlPoint}:IsObjectType(\"${3:type}\")$0",
 		},
+
 
 
 

@@ -600,6 +600,7 @@
 
 
 
+
 		{
 			"trigger": "_ScenarioPOIFrame:CanChangeAttribute\t()",
 			"contents": "${1:enabled} = ${2:ScenarioPOIFrame}:CanChangeAttribute()$0",
@@ -904,6 +905,7 @@
 			"trigger": "_ScenarioPOIFrame:UpdateMouseOverTooltip\t(mouseX, mouseY)",
 			"contents": "${1:index}, ${2:numObjectives} = ${3:ScenarioPOIFrame}:UpdateMouseOverTooltip(${4:mouseX}, ${5:mouseY})$0",
 		},
+
 
 
 

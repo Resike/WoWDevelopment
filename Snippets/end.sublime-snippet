@@ -2,6 +2,6 @@
 	<content><![CDATA[end
 ${1}]]></content>
 	<tabTrigger>end</tabTrigger>
-	<scope>source.lua - string</scope>
+	<scope>source.lua - entity - punctuation - string</scope>
 	<description>end</description>
 </snippet>

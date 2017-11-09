@@ -308,6 +308,7 @@
 
 
 
+
 		{
 			"trigger": "_Texture:CanChangeProtectedState\t()",
 			"contents": "${1:canChange} = ${2:Texture}:CanChangeProtectedState()$0",
@@ -464,6 +465,7 @@
 			"trigger": "_Texture:IsVisible\t()",
 			"contents": "${1:visible} = ${2:Texture}:IsVisible()$0",
 		},
+
 
 
 

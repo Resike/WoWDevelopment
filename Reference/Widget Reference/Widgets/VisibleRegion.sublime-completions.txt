@@ -152,6 +152,7 @@
 
 
 
+
 		{
 			"trigger": "_VisibleRegion:CanChangeProtectedState\t()",
 			"contents": "${1:canChange} = ${2:VisibleRegion}:CanChangeProtectedState()$0",
@@ -248,6 +249,7 @@
 			"trigger": "_VisibleRegion:IsVisible\t()",
 			"contents": "${1:visible} = ${2:VisibleRegion}:IsVisible()$0",
 		},
+
 
 
 

@@ -160,6 +160,7 @@
 
 
 
+
 		{
 			"trigger": "_TextureCoordTranslation:GetDebugName\t()",
 			"contents": "${1:name} = ${2:TextureCoordTranslation}:GetDebugName()$0",
@@ -252,6 +253,7 @@
 			"trigger": "_TextureCoordTranslation:IsStopped\t()",
 			"contents": "${1:stopped} = ${2:TextureCoordTranslation}:IsStopped()$0",
 		},
+
 
 
 

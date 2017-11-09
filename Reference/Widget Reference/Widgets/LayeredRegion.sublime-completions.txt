@@ -164,6 +164,7 @@
 
 
 
+
 		{
 			"trigger": "_LayeredRegion:CanChangeProtectedState\t()",
 			"contents": "${1:canChange} = ${2:LayeredRegion}:CanChangeProtectedState()$0",
@@ -264,6 +265,7 @@
 			"trigger": "_LayeredRegion:IsVisible\t()",
 			"contents": "${1:visible} = ${2:LayeredRegion}:IsVisible()$0",
 		},
+
 
 
 

@@ -6884,6 +6884,7 @@
 
 
 
+
 		{
 			"trigger": "_AbbreviateLargeNumbers\t(\"value\")",
 			"contents": "${1:formattedValue} = AbbreviateLargeNumbers(\"${2:value}\")$0",

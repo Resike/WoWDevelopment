@@ -24,6 +24,7 @@
 
 
 
+
 		{
 			"trigger": "_UIObject:GetDebugName\t()",
 			"contents": "${1:name} = ${2:UIObject}:GetDebugName()$0",
@@ -44,6 +45,7 @@
 			"trigger": "_UIObject:IsObjectType\t(\"type\")",
 			"contents": "${1:isType} = ${2:UIObject}:IsObjectType(\"${3:type}\")$0",
 		},
+
 
 
 

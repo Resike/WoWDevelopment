@@ -116,6 +116,7 @@
 
 
 
+
 		{
 			"trigger": "_AnimationGroup:CreateAnimation\t(\"animationType\", [\"name\"], [\"inheritsFrom\"])",
 			"contents": "${1:animation} = ${2:AnimationGroup}:CreateAnimation(\"${3:animationType}\", ${4:[\"name\"]}, ${5:[\"inheritsFrom\"]})$0",
@@ -192,6 +193,7 @@
 			"trigger": "_AnimationGroup:IsSetToFinalAlpha\t()",
 			"contents": "${1:isSet} = ${2:AnimationGroup}:IsSetToFinalAlpha()$0",
 		},
+
 
 
 

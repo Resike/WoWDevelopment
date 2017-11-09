@@ -184,6 +184,7 @@
 
 
 
+
 		{
 			"trigger": "_Rotation:GetDebugName\t()",
 			"contents": "${1:name} = ${2:Rotation}:GetDebugName()$0",
@@ -288,6 +289,7 @@
 			"trigger": "_Rotation:IsStopped\t()",
 			"contents": "${1:stopped} = ${2:Rotation}:IsStopped()$0",
 		},
+
 
 
 

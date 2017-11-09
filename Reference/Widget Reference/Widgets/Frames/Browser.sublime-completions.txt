@@ -600,6 +600,7 @@
 
 
 
+
 		{
 			"trigger": "_Browser:CanChangeAttribute\t()",
 			"contents": "${1:enabled} = ${2:Browser}:CanChangeAttribute()$0",
@@ -896,6 +897,7 @@
 			"trigger": "_Browser:IsVisible\t()",
 			"contents": "${1:visible} = ${2:Browser}:IsVisible()$0",
 		},
+
 
 
 

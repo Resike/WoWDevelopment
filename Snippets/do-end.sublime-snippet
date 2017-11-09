@@ -3,6 +3,6 @@
 	${1}
 end]]></content>
 	<tabTrigger>do</tabTrigger>
-	<scope>source.lua - string</scope>
+	<scope>source.lua - entity - punctuation - string</scope>
 	<description>do-end</description>
 </snippet>

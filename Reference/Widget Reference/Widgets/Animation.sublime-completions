@@ -160,6 +160,7 @@
 
 
 
+
 		{
 			"trigger": "_Animation:GetDebugName\t()",
 			"contents": "${1:name} = ${2:Animation}:GetDebugName()$0",
@@ -252,6 +253,7 @@
 			"trigger": "_Animation:IsStopped\t()",
 			"contents": "${1:stopped} = ${2:Animation}:IsStopped()$0",
 		},
+
 
 
 

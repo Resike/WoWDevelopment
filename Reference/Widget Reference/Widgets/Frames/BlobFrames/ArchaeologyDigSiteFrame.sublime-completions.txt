@@ -592,6 +592,7 @@
 
 
 
+
 		{
 			"trigger": "_ArchaeologyDigSiteFrame:CanChangeAttribute\t()",
 			"contents": "${1:enabled} = ${2:ArchaeologyDigSiteFrame}:CanChangeAttribute()$0",
@@ -888,6 +889,7 @@
 			"trigger": "_ArchaeologyDigSiteFrame:IsVisible\t()",
 			"contents": "${1:visible} = ${2:ArchaeologyDigSiteFrame}:IsVisible()$0",
 		},
+
 
 
 
