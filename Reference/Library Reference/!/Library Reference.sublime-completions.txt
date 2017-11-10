@@ -90,8 +90,8 @@
 			"contents": "geterrorhandler()$0",
 		},
 		{
-			"trigger": "getfenv\t([function])",
-			"contents": "getfenv(${1:[function]})$0",
+			"trigger": "getfenv\t([func])",
+			"contents": "getfenv(${1:[func]})$0",
 		},
 		{
 			"trigger": "getfenv\t([stackLevel])",
@@ -190,8 +190,8 @@
 			"contents": "pairs(${1:table})$0",
 		},
 		{
-			"trigger": "pcall\t(function, ...)",
-			"contents": "pcall(${1:function}, ${2:...})$0",
+			"trigger": "pcall\t(func, ...)",
+			"contents": "pcall(${1:func}, ${2:...})$0",
 		},
 		{
 			"trigger": "print\t(...)",
@@ -222,8 +222,8 @@
 			"contents": "scrub(${1:...})$0",
 		},
 		{
-			"trigger": "securecall\t(function, ...)",
-			"contents": "securecall(${1:function}, ${2:...})$0",
+			"trigger": "securecall\t(func, ...)",
+			"contents": "securecall(${1:func}, ${2:...})$0",
 		},
 		{
 			"trigger": "select\t(\"#\", ...)",
@@ -238,8 +238,8 @@
 			"contents": "seterrorhandler(${1:errHandler})$0",
 		},
 		{
-			"trigger": "setfenv\t([function], table)",
-			"contents": "setfenv(${1:[function]}, ${2:table})$0",
+			"trigger": "setfenv\t([func], table)",
+			"contents": "setfenv(${1:[func]}, ${2:table})$0",
 		},
 		{
 			"trigger": "setglobal\t(\"name\", value)",
@@ -366,8 +366,8 @@
 			"contents": "wipe(${1:table})$0",
 		},
 		{
-			"trigger": "xpcall\t(function, errHandler)",
-			"contents": "xpcall(${1:function}, ${2:errHandler})$0",
+			"trigger": "xpcall\t(func, errHandler)",
+			"contents": "xpcall(${1:func}, ${2:errHandler})$0",
 		},
 
 
@@ -430,8 +430,8 @@
 			"contents": "${1:handler} = geterrorhandler()$0",
 		},
 		{
-			"trigger": "_getfenv\t([function])",
-			"contents": "${1:env} = getfenv(${2:[function]})$0",
+			"trigger": "_getfenv\t([func])",
+			"contents": "${1:env} = getfenv(${2:[func]})$0",
 		},
 		{
 			"trigger": "_getfenv\t([stackLevel])",
@@ -522,8 +522,8 @@
 			"contents": "${1:iterator}, ${2:table}, ${3:index} = pairs(${4:table})$0",
 		},
 		{
-			"trigger": "_pcall\t(function, ...)",
-			"contents": "${1:status}, ${2:...} = pcall(${3:function}, ${4:...})$0",
+			"trigger": "_pcall\t(func, ...)",
+			"contents": "${1:status}, ${2:...} = pcall(${3:func}, ${4:...})$0",
 		},
 		{
 			"trigger": "_rad\t(degrees)",
@@ -546,8 +546,8 @@
 			"contents": "${1:...} = scrub(${2:...})$0",
 		},
 		{
-			"trigger": "_securecall\t(function, ...)",
-			"contents": "${1:...} = securecall(${2:function}, ${3:...})$0",
+			"trigger": "_securecall\t(func, ...)",
+			"contents": "${1:...} = securecall(${2:func}, ${3:...})$0",
 		},
 		{
 			"trigger": "_select\t(\"#\", ...)",
@@ -558,8 +558,8 @@
 			"contents": "${1:...} = select(${2:index}, ${3:...})$0",
 		},
 		{
-			"trigger": "_setfenv\t([function], table)",
-			"contents": "${1:function} = setfenv(${2:[function]}, ${3:table})$0",
+			"trigger": "_setfenv\t([func], table)",
+			"contents": "${1:func} = setfenv(${2:[func]}, ${3:table})$0",
 		},
 		{
 			"trigger": "_setmetatable\t(table, metatable)",
@@ -662,8 +662,8 @@
 			"contents": "${1:emptyTable} = wipe(${2:table})$0",
 		},
 		{
-			"trigger": "_xpcall\t(function, errHandler)",
-			"contents": "${1:status}, ${2:...} = xpcall(${3:function}, ${4:errHandler})$0",
+			"trigger": "_xpcall\t(func, errHandler)",
+			"contents": "${1:status}, ${2:...} = xpcall(${3:func}, ${4:errHandler})$0",
 		},
 	]
 }

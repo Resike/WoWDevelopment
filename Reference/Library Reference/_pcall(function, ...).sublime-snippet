@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:status}, ${2:...} = pcall(${3:function}, ${4:...})$0]]></content>
-	<tabTrigger>_pcall</tabTrigger>
-	<description>(function, ...)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
-</snippet>
