@@ -42,3 +42,5 @@ Ignored globals:
 * Global Strings: *Reference\Global Reference\Global Strings.sublime-completions.txt*
 
 If you would like to enable autocomplete for these, just change the *.txt* extension to: *.sublime-completions*.
+
+Update: Currnetly had I to roll back to using *.sublime-snippet* files instead of *.sublime-autocomplete* ones, since sublime currently has mutiple issues if any *autocomplete* files gets loaded for your current syntax. Hopefully it's gonna be fixed soon, and I can go back for *autocomplete* files to reduce the clutter.
