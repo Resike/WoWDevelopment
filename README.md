@@ -2,10 +2,12 @@
 World of Warcraft syntax highlight, auto-completion and global finder/highlighter for Sublime Text 2/3.
 
 ![](http://i.imgur.com/UyQqaab.png)
+![](https://i.imgur.com/hNLXunH.png)
 
 # Features:
 
 * Full API syntax highlighting for lua, xml and toc files.
+* Highlight invalid/removed/deprecated api functions and events.
 * Global finder build system, which finds any global variables with detailed information for the current lua file.
 * Global highlighter and liter tool with SublimeLinter.
 
