@@ -9979,7 +9979,7 @@
 		},
 		{
 			"trigger": "_GetWatchedFactionInfo\t()",
-			"contents": "${1:name}, ${2:standingID}, ${3:barMin}, ${4:barMax}, ${5:barValue} = GetWatchedFactionInfo()$0",
+			"contents": "${1:name}, ${2:standing}, ${3:min}, ${4:max}, ${5:value}, ${6:factionID} = GetWatchedFactionInfo()$0",
 		},
 		{
 			"trigger": "_GetWeaponEnchantInfo\t()",

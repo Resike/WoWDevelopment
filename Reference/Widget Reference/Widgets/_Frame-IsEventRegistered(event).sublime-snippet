@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[${1:registered} = ${2:Frame}:IsEventRegistered("${3:event}")$0]]></content>
+	<content><![CDATA[${1:registered}, ${2:unit1}, ${3:unit2} = ${4:Frame}:IsEventRegistered("${5:event}")$0]]></content>
 	<tabTrigger>_Frame:IsEventRegistered</tabTrigger>
 	<description>("event")</description>
 	<scope>source.lua - entity - punctuation - keyword - string</scope>

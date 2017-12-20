@@ -759,7 +759,7 @@
 		},
 		{
 			"trigger": "_Frame:IsEventRegistered\t(\"event\")",
-			"contents": "${1:registered} = ${2:Frame}:IsEventRegistered(\"${3:event}\")$0",
+			"contents": "${1:registered}, ${2:unit1}, ${3:unit2} = ${4:Frame}:IsEventRegistered(\"${5:event}\")$0",
 		},
 		{
 			"trigger": "_Frame:IsForbidden\t()",
