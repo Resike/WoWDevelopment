@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[repeat
-	${1}
-until ${2:false}$0]]></content>
+	${2}
+until ${1:false}$0]]></content>
 	<tabTrigger>repeat</tabTrigger>
 	<scope>source.lua - entity - punctuation - string</scope>
-	<description>repeat-until</description>
+	<description>repeat until false</description>
 </snippet>

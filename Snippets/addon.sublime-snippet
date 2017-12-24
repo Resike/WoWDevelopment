@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[local ${1:AddonName}, ${2:AddonTable} = ...${0:}]]></content>
+	<content><![CDATA[local ${1:AddonName}, ${2:AddonTable} = ...${0}]]></content>
 	<tabTrigger>addon</tabTrigger>
 	<description>local AddonName, AddonTable = ...</description>
 	<scope>source.lua - entity - punctuation - string</scope>

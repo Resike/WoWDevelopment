@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[function ${1:FunctionName}(${2:...})
-	${0:}
+	${0}
 end]]></content>
 	<tabTrigger>function</tabTrigger>
 	<description>(...)</description>

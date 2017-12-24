@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[function(${1:self}, ${2:...})
-	${0:}
+	${0}
 end]]></content>
 	<tabTrigger>function</tabTrigger>
 	<scope>source.lua - entity - punctuation - string</scope>

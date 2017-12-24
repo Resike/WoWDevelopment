@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ = ${TM_CURRENT_LINE/(\s*|--.*)//g} + 1]]></content>
+	<tabTrigger>++</tabTrigger>
+	<scope>source.lua - string</scope>
+	<description>x = x + 1</description>
+</snippet>

@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 for ${1:k}, ${2:v} in pairs(${3:table}) do
-	${0:}
+	${0}
 end
 ]]></content>
 	<tabTrigger>forp</tabTrigger>
