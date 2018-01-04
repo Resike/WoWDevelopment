@@ -173,7 +173,7 @@
 		<!-- Frame types -->
 		<dict>
 			<key>match</key>
-			<string>\b(CreateFrame)\b\s*(\()\s*(['"](ArchaeologyDigSiteFrame|QuestPOIFrame|ScenarioPOIFrame|Browser|Button|CheckButton|ColorSelect|Cooldown|EditBox|Frame|GameTooltip|MessageFrame|Minimap|Model|ModelFFX|PlayerModel|CinematicModel|DressUpModel|TabardModel|ModelScene|MovieFrame|OffScreenFrame|ScrollFrame|ScrollingMessageFrame|SimpleHTML|Slider|StatusBar|UnitPositionFrame)['"])</string>
+			<string>\b(CreateFrame)\b\s*(\()\s*(['"](ArchaeologyDigSiteFrame|QuestPOIFrame|ScenarioPOIFrame|Browser|Button|CheckButton|ColorSelect|Cooldown|EditBox|Frame|GameTooltip|MessageFrame|Minimap|Model|ModelFFX|PlayerModel|CinematicModel|DressUpModel|TabardModel|ModelScene|MovieFrame|OffScreenFrame|ScrollFrame|ScrollingMessageFrame|SimpleHTML|Slider|StatusBar|UnitPositionFrame|ARCHAEOLOGYDIGSITEFRAME|QUESTPOIFRAME|SCENARIOPOIFRAME|BROWSER|BUTTON|CHECKBUTTON|COLORSELECT|COOLDOWN|EDITBOX|FRAME|GAMETOOLTIP|MESSAGEFRAME|MINIMAP|MODEL|MODELFFX|PLAYERMODEL|CINEMATICMODEL|DRESSUPMODEL|TABARDMODEL|MODELSCENE|MOVIEFRAME|OFFSCREENFRAME|SCROLLFRAME|SCROLLINGMESSAGEFRAME|SIMPLEHTML|SLIDER|STATUSBAR|UNITPOSITIONFRAME|archaeologydigsiteframe|questpoiframe|scenariopoiframe|browser|button|checkbutton|colorselect|cooldown|editbox|frame|gametooltip|messageframe|minimap|model|modelffx|playermodel|cinematicmodel|dressupmodel|tabardmodel|modelscene|movieframe|offscreenframe|scrollframe|scrollingmessageframe|simplehtml|slider|statusbar|unitpositionframe)['"])</string>
 			<key>captures</key>
 			<dict>
 				<key>1</key>

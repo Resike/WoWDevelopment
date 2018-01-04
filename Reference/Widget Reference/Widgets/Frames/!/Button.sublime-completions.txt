@@ -38,12 +38,20 @@
 			"contents": "${1:Button}:CreateTexture(${2:[\"name\"]}, \"${3:[layer]}\", ${4:[\"inherits\"]}, ${5:[sublevel]})$0",
 		},
 		{
+			"trigger": "Button:Disable\t()",
+			"contents": "${1:Button}:Disable()$0",
+		},
+		{
 			"trigger": "Button:DisableDrawLayer\t(\"layer\")",
 			"contents": "${1:Button}:DisableDrawLayer(\"${2:layer}\")$0",
 		},
 		{
 			"trigger": "Button:DoesClipChildren\t()",
 			"contents": "${1:Button}:DoesClipChildren()$0",
+		},
+		{
+			"trigger": "Button:Enable\t()",
+			"contents": "${1:Button}:Enable()$0",
 		},
 		{
 			"trigger": "Button:EnableDrawLayer\t(\"layer\")",
