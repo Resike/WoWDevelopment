@@ -296,6 +296,20 @@
 
 
 
+		{
+			"trigger": "MONOCHROME\t\"fontFlag\"",
+			"contents": "MONOCHROME ",
+		},
+		{
+			"trigger": "OUTLINE\t\"fontFlag\"",
+			"contents": "OUTLINE",
+		},
+		{
+			"trigger": "THICKOUTLINE\t\"fontFlag\"",
+			"contents": "THICKOUTLINE",
+		},
+
+
 
 		{
 			"trigger": "ADD\t\"blend\"",
@@ -377,6 +391,8 @@
 			"trigger": "TOOLTIP\t\"strata\"",
 			"contents": "TOOLTIP",
 		},
+
+
 
 		{
 			"trigger": "VERTICAL\t\"orientation\"",

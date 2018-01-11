@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OUTLINE]]></content>
+	<tabTrigger>OUTLINE</tabTrigger>
+	<description>"fontFlag"</description>
+	<scope>source.lua string</scope>
+</snippet>
