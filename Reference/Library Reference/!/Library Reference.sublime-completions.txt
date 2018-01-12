@@ -130,6 +130,10 @@
 			"contents": "hooksecurefunc(${1:[table]}, \"${2:function}\", ${3:hookfunc})$0",
 		},
 		{
+			"trigger": "hooksecurefunc\t(\"function\", hookfunc)",
+			"contents": "hooksecurefunc(\"${1:function}\", ${2:hookfunc})$0",
+		},
+		{
 			"trigger": "ipairs\t(t)",
 			"contents": "ipairs(${1:table})$0",
 		},
