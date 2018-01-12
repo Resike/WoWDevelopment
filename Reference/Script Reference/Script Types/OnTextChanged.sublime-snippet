@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnTextChanged]]></content>
-	<tabTrigger>OnTextChanged</tabTrigger>
-	<description>"scriptType"</description>
-	<scope>source.lua string</scope>
-</snippet>

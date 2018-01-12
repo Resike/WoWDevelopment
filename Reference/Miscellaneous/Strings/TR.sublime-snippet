@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TOPRIGHT]]></content>
-	<tabTrigger>TR</tabTrigger>
-	<description>"TOPRIGHT"</description>
-	<scope>source.lua string</scope>
-</snippet>

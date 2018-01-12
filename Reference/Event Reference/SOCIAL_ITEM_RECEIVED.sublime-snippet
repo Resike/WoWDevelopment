@@ -2,5 +2,5 @@
 	<content><![CDATA[SOCIAL_ITEM_RECEIVED]]></content>
 	<tabTrigger>SOCIAL_ITEM_RECEIVED</tabTrigger>
 	<description>"event"</description>
-	<scope>source.lua string</scope>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
 </snippet>

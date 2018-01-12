@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnMouseWheel]]></content>
-	<tabTrigger>OnMouseWheel</tabTrigger>
-	<description>"scriptType"</description>
-	<scope>source.lua string</scope>
-</snippet>

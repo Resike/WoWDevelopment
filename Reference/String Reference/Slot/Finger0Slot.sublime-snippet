@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Finger0Slot]]></content>
+	<tabTrigger>Finger0Slot</tabTrigger>
+	<description>"slotType"</description>
+	<scope>source.lua string.slottype</scope>
+</snippet>

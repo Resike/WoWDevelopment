@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[statebindings]]></content>
+	<tabTrigger>statebindings</tabTrigger>
+	<description>"attribute"</description>
+	<scope>source.lua string.attribtype</scope>
+</snippet>

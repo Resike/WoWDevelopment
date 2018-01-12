@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[roleFilter]]></content>
+	<tabTrigger>roleFilter</tabTrigger>
+	<description>"attribute"</description>
+	<scope>source.lua string.attribtype</scope>
+</snippet>

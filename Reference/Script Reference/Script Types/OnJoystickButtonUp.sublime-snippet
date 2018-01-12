@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnJoystickButtonUp]]></content>
-	<tabTrigger>OnJoystickButtonUp</tabTrigger>
-	<description>"scriptType"</description>
-	<scope>source.lua string</scope>
-</snippet>

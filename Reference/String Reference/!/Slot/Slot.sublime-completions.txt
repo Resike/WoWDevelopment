@@ -1,0 +1,97 @@
+{
+	"scope": "source.lua string.slottype",
+	"completions": [
+		{
+			"trigger": "BackSlot\t\"slotType\"",
+			"contents": "BackSlot",
+		},
+		{
+			"trigger": "Bag0Slot\t\"slotType\"",
+			"contents": "Bag0Slot",
+		},
+		{
+			"trigger": "Bag1Slot\t\"slotType\"",
+			"contents": "Bag1Slot",
+		},
+		{
+			"trigger": "Bag2Slot\t\"slotType\"",
+			"contents": "Bag2Slot",
+		},
+		{
+			"trigger": "Bag3Slot\t\"slotType\"",
+			"contents": "Bag3Slot",
+		},
+		{
+			"trigger": "ChestSlot\t\"slotType\"",
+			"contents": "ChestSlot",
+		},
+		{
+			"trigger": "FeetSlot\t\"slotType\"",
+			"contents": "FeetSlot",
+		},
+		{
+			"trigger": "Finger0Slot\t\"slotType\"",
+			"contents": "Finger0Slot",
+		},
+		{
+			"trigger": "Finger1Slot\t\"slotType\"",
+			"contents": "Finger1Slot",
+		},
+		{
+			"trigger": "HandsSlot\t\"slotType\"",
+			"contents": "HandsSlot",
+		},
+		{
+			"trigger": "HeadSlot\t\"slotType\"",
+			"contents": "HeadSlot",
+		},
+		{
+			"trigger": "LegsSlot\t\"slotType\"",
+			"contents": "LegsSlot",
+		},
+		{
+			"trigger": "MainHandSlot\t\"slotType\"",
+			"contents": "MainHandSlot",
+		},
+		{
+			"trigger": "NeckSlot\t\"slotType\"",
+			"contents": "NeckSlot",
+		},
+		{
+			"trigger": "RangedSlot\t\"slotType\"",
+			"contents": "RangedSlot",
+		},
+		{
+			"trigger": "SecondaryHandSlot\t\"slotType\"",
+			"contents": "SecondaryHandSlot",
+		},
+		{
+			"trigger": "ShirtSlot\t\"slotType\"",
+			"contents": "ShirtSlot",
+		},
+		{
+			"trigger": "ShoulderSlot\t\"slotType\"",
+			"contents": "ShoulderSlot",
+		},
+		{
+			"trigger": "TabardSlot\t\"slotType\"",
+			"contents": "TabardSlot",
+		},
+		{
+			"trigger": "Trinket0Slot\t\"slotType\"",
+			"contents": "Trinket0Slot",
+		},
+		{
+			"trigger": "Trinket1Slot\t\"slotType\"",
+			"contents": "Trinket1Slot",
+		},
+		{
+			"trigger": "WaistSlot\t\"slotType\"",
+			"contents": "WaistSlot",
+		},
+		{
+			"trigger": "WristSlot\t\"slotType\"",
+			"contents": "WristSlot",
+		},
+	]
+}

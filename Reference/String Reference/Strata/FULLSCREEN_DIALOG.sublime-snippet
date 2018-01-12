@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FULLSCREEN_DIALOG]]></content>
+	<tabTrigger>FULLSCREEN_DIALOG</tabTrigger>
+	<description>"strata"</description>
+	<scope>source.lua string.stratatype</scope>
+</snippet>

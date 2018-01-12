@@ -1,0 +1,33 @@
+{
+	"scope": "source.lua string.animtype",
+	"completions": [
+		{
+			"trigger": "Alpha\t\"animationType\"",
+			"contents": "Alpha",
+		},
+		{
+			"trigger": "Path\t\"animationType\"",
+			"contents": "Path",
+		},
+		{
+			"trigger": "Rotation\t\"animationType\"",
+			"contents": "Rotation",
+		},
+		{
+			"trigger": "Scale\t\"animationType\"",
+			"contents": "Scale",
+		},
+		{
+			"trigger": "LineScale\t\"animationType\"",
+			"contents": "LineScale",
+		},
+		{
+			"trigger": "TextureCoordTranslation\t\"animationType\"",
+			"contents": "TextureCoordTranslation",
+		},
+		{
+			"trigger": "Translation\t\"animationType\"",
+			"contents": "Translation",
+		},
+	]
+}

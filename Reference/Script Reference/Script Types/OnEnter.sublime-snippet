@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnEnter]]></content>
-	<tabTrigger>OnEnter</tabTrigger>
-	<description>"scriptType"</description>
-	<scope>source.lua string</scope>
-</snippet>

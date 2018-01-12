@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ColorSelect]]></content>
-	<tabTrigger>ColorSelect</tabTrigger>
-	<description>"frameType"</description>
-	<scope>source.lua string</scope>
-</snippet>

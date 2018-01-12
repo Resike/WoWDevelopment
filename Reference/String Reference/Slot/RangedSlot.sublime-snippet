@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RangedSlot]]></content>
+	<tabTrigger>RangedSlot</tabTrigger>
+	<description>"slotType"</description>
+	<scope>source.lua string.slottype</scope>
+</snippet>

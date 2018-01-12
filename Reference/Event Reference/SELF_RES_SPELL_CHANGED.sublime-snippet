@@ -2,5 +2,5 @@
 	<content><![CDATA[SELF_RES_SPELL_CHANGED]]></content>
 	<tabTrigger>SELF_RES_SPELL_CHANGED</tabTrigger>
 	<description>"event"</description>
-	<scope>source.lua string</scope>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
 </snippet>

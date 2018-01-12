@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[toy]]></content>
+	<tabTrigger>toy</tabTrigger>
+	<description>"attribute"</description>
+	<scope>source.lua string.attribtype</scope>
+</snippet>

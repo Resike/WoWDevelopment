@@ -2,5 +2,5 @@
 	<content><![CDATA[LFG_ROLE_CHECK_DECLINED]]></content>
 	<tabTrigger>LFG_ROLE_CHECK_DECLINED</tabTrigger>
 	<description>"event"</description>
-	<scope>source.lua string</scope>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
 </snippet>

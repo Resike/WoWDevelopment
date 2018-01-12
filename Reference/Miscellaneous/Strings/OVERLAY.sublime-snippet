@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OVERLAY]]></content>
-	<tabTrigger>OVERLAY</tabTrigger>
-	<description>"layer"</description>
-	<scope>source.lua string</scope>
-</snippet>

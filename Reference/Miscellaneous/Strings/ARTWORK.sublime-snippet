@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ARTWORK]]></content>
-	<tabTrigger>ARTWORK</tabTrigger>
-	<description>"layer"</description>
-	<scope>source.lua string</scope>
-</snippet>

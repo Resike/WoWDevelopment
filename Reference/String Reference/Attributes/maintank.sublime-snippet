@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[maintank]]></content>
+	<tabTrigger>maintank</tabTrigger>
+	<description>"attribute"</description>
+	<scope>source.lua string.attribtype</scope>
+</snippet>

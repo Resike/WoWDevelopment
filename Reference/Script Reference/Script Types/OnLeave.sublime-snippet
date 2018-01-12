@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnLeave]]></content>
-	<tabTrigger>OnLeave</tabTrigger>
-	<description>"scriptType"</description>
-	<scope>source.lua string</scope>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[groupFilter]]></content>
+	<tabTrigger>groupFilter</tabTrigger>
+	<description>"attribute"</description>
+	<scope>source.lua string.attribtype</scope>
+</snippet>

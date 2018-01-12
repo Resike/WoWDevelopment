@@ -1,0 +1,665 @@
+{
+	"scope": "source.lua string.attribtype",
+	"completions": [
+		{
+			"trigger": "*type\t\"attribute\"",
+			"contents": "*type",
+		},
+		{
+			"trigger": "*type1\t\"attribute\"",
+			"contents": "*type1",
+		},
+		{
+			"trigger": "*type2\t\"attribute\"",
+			"contents": "*type2",
+		},
+		{
+			"trigger": "_childupdate\t\"attribute\"",
+			"contents": "_childupdate",
+		},
+		{
+			"trigger": "_childupdate-\t\"attribute\"",
+			"contents": "_childupdate-",
+		},
+		{
+			"trigger": "_ignore\t\"attribute\"",
+			"contents": "_ignore",
+		},
+		{
+			"trigger": "_mainEnchanted\t\"attribute\"",
+			"contents": "_mainEnchanted",
+		},
+		{
+			"trigger": "_onattributechanged\t\"attribute\"",
+			"contents": "_onattributechanged",
+		},
+		{
+			"trigger": "_onclick\t\"attribute\"",
+			"contents": "_onclick",
+		},
+		{
+			"trigger": "_ondoubleclick\t\"attribute\"",
+			"contents": "_ondoubleclick",
+		},
+		{
+			"trigger": "_ondragstart\t\"attribute\"",
+			"contents": "_ondragstart",
+		},
+		{
+			"trigger": "_onenter\t\"attribute\"",
+			"contents": "_onenter",
+		},
+		{
+			"trigger": "_onhide\t\"attribute\"",
+			"contents": "_onhide",
+		},
+		{
+			"trigger": "_onleave\t\"attribute\"",
+			"contents": "_onleave",
+		},
+		{
+			"trigger": "_onmousedown\t\"attribute\"",
+			"contents": "_onmousedown",
+		},
+		{
+			"trigger": "_onmouseup\t\"attribute\"",
+			"contents": "_onmouseup",
+		},
+		{
+			"trigger": "_onmousewheel\t\"attribute\"",
+			"contents": "_onmousewheel",
+		},
+		{
+			"trigger": "_onreceivedrag\t\"attribute\"",
+			"contents": "_onreceivedrag",
+		},
+		{
+			"trigger": "_onshow\t\"attribute\"",
+			"contents": "_onshow",
+		},
+		{
+			"trigger": "_onstate-\t\"attribute\"",
+			"contents": "_onstate-",
+		},
+		{
+			"trigger": "_secondaryEnchanted\t\"attribute\"",
+			"contents": "_secondaryEnchanted",
+		},
+		{
+			"trigger": "action\t\"attribute\"",
+			"contents": "action",
+		},
+		{
+			"trigger": "actionbar\t\"attribute\"",
+			"contents": "actionbar",
+		},
+		{
+			"trigger": "actionpage\t\"attribute\"",
+			"contents": "actionpage",
+		},
+		{
+			"trigger": "addchild\t\"attribute\"",
+			"contents": "addchild",
+		},
+		{
+			"trigger": "allowVehicleTarget\t\"attribute\"",
+			"contents": "allowVehicleTarget",
+		},
+		{
+			"trigger": "anchorchild\t\"attribute\"",
+			"contents": "anchorchild",
+		},
+		{
+			"trigger": "assist\t\"attribute\"",
+			"contents": "assist",
+		},
+		{
+			"trigger": "attribute-frame\t\"attribute\"",
+			"contents": "attribute-frame",
+		},
+		{
+			"trigger": "attribute-name\t\"attribute\"",
+			"contents": "attribute-name",
+		},
+		{
+			"trigger": "attribute-value\t\"attribute\"",
+			"contents": "attribute-value",
+		},
+		{
+			"trigger": "bindings-\t\"attribute\"",
+			"contents": "bindings-",
+		},
+		{
+			"trigger": "cancelaura\t\"attribute\"",
+			"contents": "cancelaura",
+		},
+		{
+			"trigger": "checkfocuscast\t\"attribute\"",
+			"contents": "checkfocuscast",
+		},
+		{
+			"trigger": "checkselfcast\t\"attribute\"",
+			"contents": "checkselfcast",
+		},
+		{
+			"trigger": "child\t\"attribute\"",
+			"contents": "child",
+		},
+		{
+			"trigger": "childofsx\t\"attribute\"",
+			"contents": "childofsx",
+		},
+		{
+			"trigger": "childofsy\t\"attribute\"",
+			"contents": "childofsy",
+		},
+		{
+			"trigger": "childpoint\t\"attribute\"",
+			"contents": "childpoint",
+		},
+		{
+			"trigger": "childraise\t\"attribute\"",
+			"contents": "childraise",
+		},
+		{
+			"trigger": "childrelpoint\t\"attribute\"",
+			"contents": "childrelpoint",
+		},
+		{
+			"trigger": "childreparent\t\"attribute\"",
+			"contents": "childreparent",
+		},
+		{
+			"trigger": "childstate\t\"attribute\"",
+			"contents": "childstate",
+		},
+		{
+			"trigger": "childverify\t\"attribute\"",
+			"contents": "childverify",
+		},
+		{
+			"trigger": "click\t\"attribute\"",
+			"contents": "click",
+		},
+		{
+			"trigger": "clickbutton\t\"attribute\"",
+			"contents": "clickbutton",
+		},
+		{
+			"trigger": "columnAnchorPoint\t\"attribute\"",
+			"contents": "columnAnchorPoint",
+		},
+		{
+			"trigger": "columnSpacing\t\"attribute\"",
+			"contents": "columnSpacing",
+		},
+		{
+			"trigger": "consolidateDuration\t\"attribute\"",
+			"contents": "consolidateDuration",
+		},
+		{
+			"trigger": "consolidateFraction\t\"attribute\"",
+			"contents": "consolidateFraction",
+		},
+		{
+			"trigger": "consolidateHeader\t\"attribute\"",
+			"contents": "consolidateHeader",
+		},
+		{
+			"trigger": "consolidateProxy\t\"attribute\"",
+			"contents": "consolidateProxy",
+		},
+		{
+			"trigger": "consolidateThreshold\t\"attribute\"",
+			"contents": "consolidateThreshold",
+		},
+		{
+			"trigger": "consolidateTo\t\"attribute\"",
+			"contents": "consolidateTo",
+		},
+		{
+			"trigger": "delayhover\t\"attribute\"",
+			"contents": "delayhover",
+		},
+		{
+			"trigger": "delayhovermap-\t\"attribute\"",
+			"contents": "delayhovermap-",
+		},
+		{
+			"trigger": "delaystate\t\"attribute\"",
+			"contents": "delaystate",
+		},
+		{
+			"trigger": "delaystatemap-\t\"attribute\"",
+			"contents": "delaystatemap-",
+		},
+		{
+			"trigger": "delaytime\t\"attribute\"",
+			"contents": "delaytime",
+		},
+		{
+			"trigger": "delaytimemap-\t\"attribute\"",
+			"contents": "delaytimemap-",
+		},
+		{
+			"trigger": "downbutton\t\"attribute\"",
+			"contents": "downbutton",
+		},
+		{
+			"trigger": "exportstate\t\"attribute\"",
+			"contents": "exportstate",
+		},
+		{
+			"trigger": "filter\t\"attribute\"",
+			"contents": "filter",
+		},
+		{
+			"trigger": "filterOnPet\t\"attribute\"",
+			"contents": "filterOnPet",
+		},
+		{
+			"trigger": "focus\t\"attribute\"",
+			"contents": "focus",
+		},
+		{
+			"trigger": "frameref-header\t\"attribute\"",
+			"contents": "frameref-header",
+		},
+		{
+			"trigger": "groupBy\t\"attribute\"",
+			"contents": "groupBy",
+		},
+		{
+			"trigger": "groupFilter\t\"attribute\"",
+			"contents": "groupFilter",
+		},
+		{
+			"trigger": "groupingOrder\t\"attribute\"",
+			"contents": "groupingOrder",
+		},
+		{
+			"trigger": "harmbutton\t\"attribute\"",
+			"contents": "harmbutton",
+		},
+		{
+			"trigger": "header\t\"attribute\"",
+			"contents": "header",
+		},
+		{
+			"trigger": "headheight\t\"attribute\"",
+			"contents": "headheight",
+		},
+		{
+			"trigger": "headofspoint\t\"attribute\"",
+			"contents": "headofspoint",
+		},
+		{
+			"trigger": "headofsrelpoint\t\"attribute\"",
+			"contents": "headofsrelpoint",
+		},
+		{
+			"trigger": "headofsx\t\"attribute\"",
+			"contents": "headofsx",
+		},
+		{
+			"trigger": "headofsy\t\"attribute\"",
+			"contents": "headofsy",
+		},
+		{
+			"trigger": "headparent\t\"attribute\"",
+			"contents": "headparent",
+		},
+		{
+			"trigger": "headscale\t\"attribute\"",
+			"contents": "headscale",
+		},
+		{
+			"trigger": "headstateunit\t\"attribute\"",
+			"contents": "headstateunit",
+		},
+		{
+			"trigger": "headwidth\t\"attribute\"",
+			"contents": "headwidth",
+		},
+		{
+			"trigger": "height\t\"attribute\"",
+			"contents": "height",
+		},
+		{
+			"trigger": "helpbutton\t\"attribute\"",
+			"contents": "helpbutton",
+		},
+		{
+			"trigger": "hidestates\t\"attribute\"",
+			"contents": "hidestates",
+		},
+		{
+			"trigger": "includeWeapons\t\"attribute\"",
+			"contents": "includeWeapons",
+		},
+		{
+			"trigger": "index\t\"attribute\"",
+			"contents": "index",
+		},
+		{
+			"trigger": "initial-anchor\t\"attribute\"",
+			"contents": "initial-anchor",
+		},
+		{
+			"trigger": "initial-height\t\"attribute\"",
+			"contents": "initial-height",
+		},
+		{
+			"trigger": "initial-scale\t\"attribute\"",
+			"contents": "initial-scale",
+		},
+		{
+			"trigger": "initial-unitWatch\t\"attribute\"",
+			"contents": "initial-unitWatch",
+		},
+		{
+			"trigger": "initial-width\t\"attribute\"",
+			"contents": "initial-width",
+		},
+		{
+			"trigger": "initialConfigFunction\t\"attribute\"",
+			"contents": "initialConfigFunction",
+		},
+		{
+			"trigger": "item\t\"attribute\"",
+			"contents": "item",
+		},
+		{
+			"trigger": "macro\t\"attribute\"",
+			"contents": "macro",
+		},
+		{
+			"trigger": "macrotext\t\"attribute\"",
+			"contents": "macrotext",
+		},
+		{
+			"trigger": "mainassist\t\"attribute\"",
+			"contents": "mainassist",
+		},
+		{
+			"trigger": "maintank\t\"attribute\"",
+			"contents": "maintank",
+		},
+		{
+			"trigger": "maxColumns\t\"attribute\"",
+			"contents": "maxColumns",
+		},
+		{
+			"trigger": "maxWraps\t\"attribute\"",
+			"contents": "maxWraps",
+		},
+		{
+			"trigger": "minHeight\t\"attribute\"",
+			"contents": "minHeight",
+		},
+		{
+			"trigger": "minWidth\t\"attribute\"",
+			"contents": "minWidth",
+		},
+		{
+			"trigger": "nameList\t\"attribute\"",
+			"contents": "nameList",
+		},
+		{
+			"trigger": "newstate\t\"attribute\"",
+			"contents": "newstate",
+		},
+		{
+			"trigger": "ofspoint\t\"attribute\"",
+			"contents": "ofspoint",
+		},
+		{
+			"trigger": "ofsrelpoint\t\"attribute\"",
+			"contents": "ofsrelpoint",
+		},
+		{
+			"trigger": "ofsx\t\"attribute\"",
+			"contents": "ofsx",
+		},
+		{
+			"trigger": "ofsy\t\"attribute\"",
+			"contents": "ofsy",
+		},
+		{
+			"trigger": "onclickbutton\t\"attribute\"",
+			"contents": "onclickbutton",
+		},
+		{
+			"trigger": "onenterbutton\t\"attribute\"",
+			"contents": "onenterbutton",
+		},
+		{
+			"trigger": "onleavebutton\t\"attribute\"",
+			"contents": "onleavebutton",
+		},
+		{
+			"trigger": "onmousedownbutton\t\"attribute\"",
+			"contents": "onmousedownbutton",
+		},
+		{
+			"trigger": "onmouseupbutton\t\"attribute\"",
+			"contents": "onmouseupbutton",
+		},
+		{
+			"trigger": "pet\t\"attribute\"",
+			"contents": "pet",
+		},
+		{
+			"trigger": "point\t\"attribute\"",
+			"contents": "point",
+		},
+		{
+			"trigger": "raise\t\"attribute\"",
+			"contents": "raise",
+		},
+		{
+			"trigger": "refreshUnitChange\t\"attribute\"",
+			"contents": "refreshUnitChange",
+		},
+		{
+			"trigger": "roleFilter\t\"attribute\"",
+			"contents": "roleFilter",
+		},
+		{
+			"trigger": "roleFiltertemplate\t\"attribute\"",
+			"contents": "roleFiltertemplate",
+		},
+		{
+			"trigger": "scale\t\"attribute\"",
+			"contents": "scale",
+		},
+		{
+			"trigger": "separateOwn\t\"attribute\"",
+			"contents": "separateOwn",
+		},
+		{
+			"trigger": "showParty\t\"attribute\"",
+			"contents": "showParty",
+		},
+		{
+			"trigger": "showPlayer\t\"attribute\"",
+			"contents": "showPlayer",
+		},
+		{
+			"trigger": "showRaid\t\"attribute\"",
+			"contents": "showRaid",
+		},
+		{
+			"trigger": "showSolo\t\"attribute\"",
+			"contents": "showSolo",
+		},
+		{
+			"trigger": "showstates\t\"attribute\"",
+			"contents": "showstates",
+		},
+		{
+			"trigger": "sortDir\t\"attribute\"",
+			"contents": "sortDir",
+		},
+		{
+			"trigger": "sortDirection\t\"attribute\"",
+			"contents": "sortDirection",
+		},
+		{
+			"trigger": "sortMethod\t\"attribute\"",
+			"contents": "sortMethod",
+		},
+		{
+			"trigger": "spell\t\"attribute\"",
+			"contents": "spell",
+		},
+		{
+			"trigger": "startingIndex\t\"attribute\"",
+			"contents": "startingIndex",
+		},
+		{
+			"trigger": "state\t\"attribute\"",
+			"contents": "state",
+		},
+		{
+			"trigger": "state-\t\"attribute\"",
+			"contents": "state-",
+		},
+		{
+			"trigger": "statebindings\t\"attribute\"",
+			"contents": "statebindings",
+		},
+		{
+			"trigger": "statehidden\t\"attribute\"",
+			"contents": "statehidden",
+		},
+		{
+			"trigger": "statemap-\t\"attribute\"",
+			"contents": "statemap-",
+		},
+		{
+			"trigger": "stop\t\"attribute\"",
+			"contents": "stop",
+		},
+		{
+			"trigger": "strictFiltering\t\"attribute\"",
+			"contents": "strictFiltering",
+		},
+		{
+			"trigger": "style-height\t\"attribute\"",
+			"contents": "style-height",
+		},
+		{
+			"trigger": "style-scale\t\"attribute\"",
+			"contents": "style-scale",
+		},
+		{
+			"trigger": "style-width\t\"attribute\"",
+			"contents": "style-width",
+		},
+		{
+			"trigger": "target\t\"attribute\"",
+			"contents": "target",
+		},
+		{
+			"trigger": "target-bag\t\"attribute\"",
+			"contents": "target-bag",
+		},
+		{
+			"trigger": "target-item\t\"attribute\"",
+			"contents": "target-item",
+		},
+		{
+			"trigger": "target-slot\t\"attribute\"",
+			"contents": "target-slot",
+		},
+		{
+			"trigger": "tempEnchant\t\"attribute\"",
+			"contents": "tempEnchant",
+		},
+		{
+			"trigger": "tempEnchant1\t\"attribute\"",
+			"contents": "tempEnchant1",
+		},
+		{
+			"trigger": "tempEnchant2\t\"attribute\"",
+			"contents": "tempEnchant2",
+		},
+		{
+			"trigger": "template\t\"attribute\"",
+			"contents": "template",
+		},
+		{
+			"trigger": "templateType\t\"attribute\"",
+			"contents": "templateType",
+		},
+		{
+			"trigger": "toggleForVehicle\t\"attribute\"",
+			"contents": "toggleForVehicle",
+		},
+		{
+			"trigger": "toy\t\"attribute\"",
+			"contents": "toy",
+		},
+		{
+			"trigger": "type\t\"attribute\"",
+			"contents": "type",
+		},
+		{
+			"trigger": "type1\t\"attribute\"",
+			"contents": "type1",
+		},
+		{
+			"trigger": "type2\t\"attribute\"",
+			"contents": "type2",
+		},
+		{
+			"trigger": "unit\t\"attribute\"",
+			"contents": "unit",
+		},
+		{
+			"trigger": "unitsPerColumn\t\"attribute\"",
+			"contents": "unitsPerColumn",
+		},
+		{
+			"trigger": "unitsuffix\t\"attribute\"",
+			"contents": "unitsuffix",
+		},
+		{
+			"trigger": "useOwnerUnit\t\"attribute\"",
+			"contents": "useOwnerUnit",
+		},
+		{
+			"trigger": "useparent-unit\t\"attribute\"",
+			"contents": "useparent-unit",
+		},
+		{
+			"trigger": "weaponTemplate\t\"attribute\"",
+			"contents": "weaponTemplate",
+		},
+		{
+			"trigger": "width\t\"attribute\"",
+			"contents": "width",
+		},
+		{
+			"trigger": "wrapAfter\t\"attribute\"",
+			"contents": "wrapAfter",
+		},
+		{
+			"trigger": "wrapXOffset\t\"attribute\"",
+			"contents": "wrapXOffset",
+		},
+		{
+			"trigger": "wrapYOffset\t\"attribute\"",
+			"contents": "wrapYOffset",
+		},
+		{
+			"trigger": "xOffset\t\"attribute\"",
+			"contents": "xOffset",
+		},
+		{
+			"trigger": "yOffset\t\"attribute\"",
+			"contents": "yOffset",
+		},
+	]
+}

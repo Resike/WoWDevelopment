@@ -2,5 +2,5 @@
 	<content><![CDATA[CHANNEL_UI_UPDATE]]></content>
 	<tabTrigger>CHANNEL_UI_UPDATE</tabTrigger>
 	<description>"event"</description>
-	<scope>source.lua string</scope>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
 </snippet>

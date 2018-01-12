@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Slider]]></content>
-	<tabTrigger>Slider</tabTrigger>
-	<description>"frameType"</description>
-	<scope>source.lua string</scope>
-</snippet>

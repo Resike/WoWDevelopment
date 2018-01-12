@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[toggleForVehicle]]></content>
+	<tabTrigger>toggleForVehicle</tabTrigger>
+	<description>"attribute"</description>
+	<scope>source.lua string.attribtype</scope>
+</snippet>

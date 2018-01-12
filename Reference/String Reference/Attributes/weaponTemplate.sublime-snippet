@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[weaponTemplate]]></content>
+	<tabTrigger>weaponTemplate</tabTrigger>
+	<description>"attribute"</description>
+	<scope>source.lua string.attribtype</scope>
+</snippet>

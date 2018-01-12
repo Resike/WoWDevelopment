@@ -173,7 +173,7 @@
 		<!-- Frame types -->
 		<dict>
 			<key>match</key>
-			<string>\b(CreateFrame)\b\s*(\()\s*(['"](ArchaeologyDigSiteFrame|QuestPOIFrame|ScenarioPOIFrame|Browser|Button|CheckButton|ColorSelect|Cooldown|EditBox|Frame|GameTooltip|MessageFrame|Minimap|Model|ModelFFX|PlayerModel|CinematicModel|DressUpModel|TabardModel|ModelScene|MovieFrame|OffScreenFrame|ScrollFrame|ScrollingMessageFrame|SimpleHTML|Slider|StatusBar|UnitPositionFrame|ARCHAEOLOGYDIGSITEFRAME|QUESTPOIFRAME|SCENARIOPOIFRAME|BROWSER|BUTTON|CHECKBUTTON|COLORSELECT|COOLDOWN|EDITBOX|FRAME|GAMETOOLTIP|MESSAGEFRAME|MINIMAP|MODEL|MODELFFX|PLAYERMODEL|CINEMATICMODEL|DRESSUPMODEL|TABARDMODEL|MODELSCENE|MOVIEFRAME|OFFSCREENFRAME|SCROLLFRAME|SCROLLINGMESSAGEFRAME|SIMPLEHTML|SLIDER|STATUSBAR|UNITPOSITIONFRAME|archaeologydigsiteframe|questpoiframe|scenariopoiframe|browser|button|checkbutton|colorselect|cooldown|editbox|frame|gametooltip|messageframe|minimap|model|modelffx|playermodel|cinematicmodel|dressupmodel|tabardmodel|modelscene|movieframe|offscreenframe|scrollframe|scrollingmessageframe|simplehtml|slider|statusbar|unitpositionframe)['"])</string>
+			<string>\b(CreateFrame)\b\s*(\()\s*(['"](ARCHAEOLOGYDIGSITEFRAME|QUESTPOIFRAME|SCENARIOPOIFRAME|BROWSER|BUTTON|CHECKBUTTON|COLORSELECT|COOLDOWN|EDITBOX|FRAME|GAMETOOLTIP|MESSAGEFRAME|MINIMAP|MODEL|MODELFFX|PLAYERMODEL|CINEMATICMODEL|DRESSUPMODEL|TABARDMODEL|MODELSCENE|MOVIEFRAME|OFFSCREENFRAME|SCROLLFRAME|SCROLLINGMESSAGEFRAME|SIMPLEHTML|SLIDER|STATUSBAR|UNITPOSITIONFRAME|ArchaeologyDigSiteFrame|QuestPOIFrame|ScenarioPOIFrame|Browser|Button|CheckButton|ColorSelect|Cooldown|EditBox|Frame|GameTooltip|MessageFrame|Minimap|Model|ModelFFX|PlayerModel|CinematicModel|DressUpModel|TabardModel|ModelScene|MovieFrame|OffScreenFrame|ScrollFrame|ScrollingMessageFrame|SimpleHTML|Slider|StatusBar|UnitPositionFrame|archaeologydigsiteframe|questpoiframe|scenariopoiframe|browser|button|checkbutton|colorselect|cooldown|editbox|frame|gametooltip|messageframe|minimap|model|modelffx|playermodel|cinematicmodel|dressupmodel|tabardmodel|modelscene|movieframe|offscreenframe|scrollframe|scrollingmessageframe|simplehtml|slider|statusbar|unitpositionframe)['"])</string>
 			<key>captures</key>
 			<dict>
 				<key>1</key>
@@ -184,7 +184,24 @@
 				<key>3</key>
 				<dict>
 					<key>name</key>
-					<string>variable.parameter.wow.objecttype</string>
+					<string>variable.parameter.wow.frametype</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\b(CreateFrame)\b\s*(\()\s*(['"](\w*)['"])</string>
+			<key>captures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
+				<key>3</key>
+				<dict>
+					<key>name</key>
+					<string>string.frametype</string>
 				</dict>
 			</dict>
 		</dict>
@@ -202,7 +219,24 @@
 				<key>4</key>
 				<dict>
 					<key>name</key>
-					<string>variable.parameter.wow.objecttype</string>
+					<string>variable.parameter.wow.blendtype</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>([.:])\s*\b(SetBlendMode)\b\s*(\()\s*(['"](\w*)['"])</string>
+			<key>captures</key>
+			<dict>
+				<key>2</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
+				<key>4</key>
+				<dict>
+					<key>name</key>
+					<string>string.blendtype</string>
 				</dict>
 			</dict>
 		</dict>
@@ -220,21 +254,13 @@
 				<key>4</key>
 				<dict>
 					<key>name</key>
-					<string>variable.parameter.wow.objecttype</string>
+					<string>variable.parameter.wow.stratatype</string>
 				</dict>
 			</dict>
 		</dict>
-		<!-- Layer types -->
 		<dict>
 			<key>match</key>
-			<string>(['"](BACKGROUND|BORDER|ARTWORK|OVERLAY|HIGHLIGHT|Background|Border|Artwork|Overlay|Highlight|background|border|artwork|overlay|highlight)['"])</string>
-			<key>name</key>
-			<string>variable.parameter.wow.template</string>
-		</dict>
-		<!-- Animation types -->
-		<dict>
-			<key>match</key>
-			<string>([.:])\s*\b(CreateAnimation)\b\s*(\()\s*(['"]\b(Alpha|Path|Rotation|Scale|LineScale|TextureCoordTranslation|Translation)\b['"])</string>
+			<string>([.:])\s*\b(SetFrameStrata)\b\s*(\()\s*(['"](\w*)['"])</string>
 			<key>captures</key>
 			<dict>
 				<key>2</key>
@@ -245,7 +271,84 @@
 				<key>4</key>
 				<dict>
 					<key>name</key>
-					<string>variable.parameter.wow.objecttype</string>
+					<string>string.stratatype</string>
+				</dict>
+			</dict>
+		</dict>
+		<!-- Orientation types -->
+		<dict>
+			<key>match</key>
+			<string>([.:])\s*\b(SetGradient)\b\s*(\()\s*(['"](HORIZONTAL|VERTICAL|Horizontal|Vertical|horizontal|vertical)['"])</string>
+			<key>captures</key>
+			<dict>
+				<key>2</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
+				<key>4</key>
+				<dict>
+					<key>name</key>
+					<string>variable.parameter.wow.orienttype</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>([.:])\s*\b(SetGradient)\b\s*(\()\s*(['"](\w*)['"])</string>
+			<key>captures</key>
+			<dict>
+				<key>2</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
+				<key>4</key>
+				<dict>
+					<key>name</key>
+					<string>string.orienttype</string>
+				</dict>
+			</dict>
+		</dict>
+		<!-- Layer types -->
+		<dict>
+			<key>match</key>
+			<string>(['"](BACKGROUND|BORDER|ARTWORK|OVERLAY|HIGHLIGHT|Background|Border|Artwork|Overlay|Highlight|background|border|artwork|overlay|highlight)['"])</string>
+			<key>name</key>
+			<string>variable.parameter.wow.layertype</string>
+		</dict>
+		<!-- Animation types -->
+		<dict>
+			<key>match</key>
+			<string>([.:])\s*\b(CreateAnimation)\b\s*(\()\s*(['"]\b(Alpha|Path|Rotation|Scale|LineScale|TextureCoordTranslation|Translation)\b['"])</string>
+			<key>captures</key>
+			<dict>
+				<key>2</key>
+				<dict>
+					<key>name</key>
+					<string>support.type.widget-api.lua</string>
+				</dict>
+				<key>4</key>
+				<dict>
+					<key>name</key>
+					<string>variable.parameter.wow.animtype</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>([.:])\s*\b(CreateAnimation)\b\s*(\()\s*(['"]\b(\w*)\b['"])</string>
+			<key>captures</key>
+			<dict>
+				<key>2</key>
+				<dict>
+					<key>name</key>
+					<string>support.type.widget-api.lua</string>
+				</dict>
+				<key>4</key>
+				<dict>
+					<key>name</key>
+					<string>string.animtype</string>
 				</dict>
 			</dict>
 		</dict>
@@ -263,14 +366,31 @@
 				<key>5</key>
 				<dict>
 					<key>name</key>
-					<string>variable.parameter.wow.script.types</string>
+					<string>variable.parameter.wow.scripttype</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>([.:])\s*\b((Get|Has|Hook|Set)Script)\b\s*(\()\s*(['"]\b(\w*)\b['"])</string>
+			<key>captures</key>
+			<dict>
+				<key>2</key>
+				<dict>
+					<key>name</key>
+					<string>support.type.widget-api.lua</string>
+				</dict>
+				<key>5</key>
+				<dict>
+					<key>name</key>
+					<string>string.scripttype</string>
 				</dict>
 			</dict>
 		</dict>
 		<!-- Secure attributes -->
 		<dict>
 			<key>match</key>
-			<string>([.:])\s*\b(SetAttribute|GetAttribute)\b\s*(\()\s*(['"](\*type|\*type1|\*type2|((alt|alt-ctrl|alt-shift|alt-ctrl-shift)|(ctrl|ctrl-shift)|(shift))-type|((alt|alt-ctrl|alt-shift|alt-ctrl-shift)|(ctrl|ctrl-shift)|(shift))-type\*|((alt|alt-ctrl|alt-shift|alt-ctrl-shift)|(ctrl|ctrl-shift)|(shift))-type1|((alt|alt-ctrl|alt-shift|alt-ctrl-shift)|(ctrl|ctrl-shift)|(shift))-type1\*|((alt|alt-ctrl|alt-shift|alt-ctrl-shift)|(ctrl|ctrl-shift)|(shift))-type2|((alt|alt-ctrl|alt-shift|alt-ctrl-shift)|(ctrl|ctrl-shift)|(shift))-type2\*|_childupdate|_childupdate-[A-Za-z0-9]*|_ignore|_mainEnchanted|_onattributechanged|_onclick|_ondoubleclick|_ondragstart|_onenter|_onhide|_onleave|_onmousedown|_onmouseup|_onmousewheel|_onreceivedrag|_onshow|_onstate-[A-Za-z0-9]*|_secondaryEnchanted|action|actionbar|actionpage|addchild|anchorchild|assist|attribute|attribute-frame|attribute-name|attribute-value|bindings-|bindings-[A-Za-z0-9]*|cancelaura|checkselfcast|child|child\d+|childofsx|childofsy|childpoint|childraise|childrelpoint|childreparent|childstate|childverify|click|clickbutton|columnAnchorPoint|columnSpacing|consolidateDuration|consolidateFraction|consolidateHeader|consolidateProxy|consolidateThreshold|consolidateTo|delayhover|delayhovermap-|delayhovermap-[A-Za-z0-9]*|delaystate|delaystatemap-|delaystatemap-[A-Za-z0-9]*|delaytime|delaytimemap-|delaytimemap-[A-Za-z0-9]*|exportstate|filter|filterOnPet|focus|frameref-header|groupBy|groupFilter|groupingOrder|harmbutton|header|headheight|headofspoint|headofsrelpoint|headofsx|headofsy|headparent|headscale|headstateunit|headwidth|height|helpbutton|hidestates|includeWeapons|index|initial-|initial-anchor|initial-height|initial-scale|initial-unitWatch|initial-width|initialConfigFunction|item|macro|macrotext|mainassist|maintank|maxColumns|maxWraps|minHeight|minWidth|nameList|newstate|ofspoint|ofsrelpoint|ofsx|ofsy|onclickbutton|onenterbutton|onleavebutton|onmousedownbutton|onmouseupbutton|pet|point|raise|refreshUnitChange|roleFilter|roleFiltertemplate|scale|separateOwn|showParty|showPlayer|showRaid|showSolo|showstates|sortDir|sortDirection|sortMethod|spell|startingIndex|state|state-|state-[A-Za-z0-9]*|statebindings|statehidden|statemap-|statemap-[A-Za-z0-9]*|stop|strictFiltering|style-|style-height|style-scale|style-width|target|target-|target-bag|target-item|target-slot|tempEnchant|tempEnchant1|tempEnchant2|template|templateType|toy|type|type1|type2|unit|unitsPerColumn|unitsuffix|useOwnerUnit|useparent-unit|weaponTemplate|width|wrapAfter|wrapXOffset|wrapYOffset|xOffset|yOffset)['"])</string>
+			<string>([.:])\s*\b(SetAttribute|GetAttribute)\b\s*(\()\s*(['"](\*type|\*type1|\*type2|((alt|alt-ctrl|alt-shift|alt-ctrl-shift)|(ctrl|ctrl-shift)|(shift))-type|((alt|alt-ctrl|alt-shift|alt-ctrl-shift)|(ctrl|ctrl-shift)|(shift))-type\*|((alt|alt-ctrl|alt-shift|alt-ctrl-shift)|(ctrl|ctrl-shift)|(shift))-type1|((alt|alt-ctrl|alt-shift|alt-ctrl-shift)|(ctrl|ctrl-shift)|(shift))-type1\*|((alt|alt-ctrl|alt-shift|alt-ctrl-shift)|(ctrl|ctrl-shift)|(shift))-type2|((alt|alt-ctrl|alt-shift|alt-ctrl-shift)|(ctrl|ctrl-shift)|(shift))-type2\*|_childupdate|_childupdate-|_childupdate-[A-Za-z0-9]*|_ignore|_mainEnchanted|_onattributechanged|_onclick|_ondoubleclick|_ondragstart|_onenter|_onhide|_onleave|_onmousedown|_onmouseup|_onmousewheel|_onreceivedrag|_onshow|_onstate-|_onstate-[A-Za-z0-9]*|_secondaryEnchanted|action|actionbar|actionpage|addchild|anchorchild|assist|attribute-|attribute-frame|attribute-name|attribute-value|bindings-|bindings-[A-Za-z0-9]*|cancelaura|checkselfcast|child|child\d+|childofsx|childofsy|childpoint|childraise|childrelpoint|childreparent|childstate|childverify|click|clickbutton|columnAnchorPoint|columnSpacing|consolidateDuration|consolidateFraction|consolidateHeader|consolidateProxy|consolidateThreshold|consolidateTo|delayhover|delayhovermap-|delayhovermap-[A-Za-z0-9]*|delaystate|delaystatemap-|delaystatemap-[A-Za-z0-9]*|delaytime|delaytimemap-|delaytimemap-[A-Za-z0-9]*|exportstate|filter|filterOnPet|focus|frameref-header|groupBy|groupFilter|groupingOrder|harmbutton|header|headheight|headofspoint|headofsrelpoint|headofsx|headofsy|headparent|headscale|headstateunit|headwidth|height|helpbutton|hidestates|includeWeapons|index|initial-|initial-anchor|initial-height|initial-scale|initial-unitWatch|initial-width|initialConfigFunction|item|macro|macrotext|mainassist|maintank|maxColumns|maxWraps|minHeight|minWidth|nameList|newstate|ofspoint|ofsrelpoint|ofsx|ofsy|onclickbutton|onenterbutton|onleavebutton|onmousedownbutton|onmouseupbutton|pet|point|raise|refreshUnitChange|roleFilter|roleFiltertemplate|scale|separateOwn|showParty|showPlayer|showRaid|showSolo|showstates|sortDir|sortDirection|sortMethod|spell|startingIndex|state|state-|state-[A-Za-z0-9]*|statebindings|statehidden|statemap-|statemap-[A-Za-z0-9]*|stop|strictFiltering|style-|style-height|style-scale|style-width|target|target-|target-bag|target-item|target-slot|tempEnchant|tempEnchant1|tempEnchant2|template|templateType|toy|type|type1|type2|unit|unitsPerColumn|unitsuffix|useOwnerUnit|useparent-unit|weaponTemplate|width|wrapAfter|wrapXOffset|wrapYOffset|xOffset|yOffset)['"])</string>
 			<key>captures</key>
 			<dict>
 				<key>2</key>
@@ -282,6 +402,23 @@
 				<dict>
 					<key>name</key>
 					<string>variable.parameter.wow.attribute</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>([.:])\s*\b(SetAttribute|GetAttribute)\b\s*(\()\s*(['"]([A-Za-z0-9_*]*)['"])</string>
+			<key>captures</key>
+			<dict>
+				<key>2</key>
+				<dict>
+					<key>name</key>
+					<string>support.type.widget-api.lua</string>
+				</dict>
+				<key>4</key>
+				<dict>
+					<key>name</key>
+					<string>string.attribtype</string>
 				</dict>
 			</dict>
 		</dict>
@@ -299,7 +436,24 @@
 				<key>3</key>
 				<dict>
 					<key>name</key>
-					<string>variable.parameter.wow.objecttype</string>
+					<string>variable.parameter.wow.slottype</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\b(GetInventorySlotInfo)\b\s*(\()\s*(['"]\b(\w*)\b['"])</string>
+			<key>captures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
+				<key>3</key>
+				<dict>
+					<key>name</key>
+					<string>string.slottype</string>
 				</dict>
 			</dict>
 		</dict>

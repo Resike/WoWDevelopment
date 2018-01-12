@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MiddleButtonUp]]></content>
-	<tabTrigger>MiddleButtonUp</tabTrigger>
-	<description>"button"</description>
-	<scope>source.lua string</scope>
-</snippet>

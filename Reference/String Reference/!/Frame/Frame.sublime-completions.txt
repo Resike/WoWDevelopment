@@ -1,0 +1,117 @@
+{
+	"scope": "source.lua string.frametype",
+	"completions": [
+		{
+			"trigger": "ArchaeologyDigSiteFrame\t\"frameType\"",
+			"contents": "ArchaeologyDigSiteFrame",
+		},
+		{
+			"trigger": "QuestPOIFrame\t\"frameType\"",
+			"contents": "QuestPOIFrame",
+		},
+		{
+			"trigger": "ScenarioPOIFrame\t\"frameType\"",
+			"contents": "ScenarioPOIFrame",
+		},
+		{
+			"trigger": "Browser\t\"frameType\"",
+			"contents": "Browser",
+		},
+		{
+			"trigger": "Button\t\"frameType\"",
+			"contents": "Button",
+		},
+			{
+				"trigger": "CheckButton\t\"frameType\"",
+				"contents": "CheckButton",
+			},
+		{
+			"trigger": "ColorSelect\t\"frameType\"",
+			"contents": "ColorSelect",
+		},
+		{
+			"trigger": "Cooldown\t\"frameType\"",
+			"contents": "Cooldown",
+		},
+		{
+			"trigger": "EditBox\t\"frameType\"",
+			"contents": "EditBox",
+		},
+		{
+			"trigger": "Frame\t\"frameType\"",
+			"contents": "Frame",
+		},
+		{
+			"trigger": "GameTooltip\t\"frameType\"",
+			"contents": "GameTooltip",
+		},
+		{
+			"trigger": "MessageFrame\t\"frameType\"",
+			"contents": "MessageFrame",
+		},
+		{
+			"trigger": "Minimap\t\"frameType\"",
+			"contents": "Minimap",
+		},
+		{
+			"trigger": "Model\t\"frameType\"",
+			"contents": "Model",
+		},
+			{
+				"trigger": "ModelFFX\t\"frameType\"",
+				"contents": "ModelFFX",
+			},
+			{
+				"trigger": "PlayerModel\t\"frameType\"",
+				"contents": "PlayerModel",
+			},
+				{
+					"trigger": "CinematicModel\t\"frameType\"",
+					"contents": "CinematicModel",
+				},
+				{
+					"trigger": "DressUpModel\t\"frameType\"",
+					"contents": "DressUpModel",
+				},
+				{
+					"trigger": "TabardModel\t\"frameType\"",
+					"contents": "TabardModel",
+				},
+		{
+			"trigger": "ModelScene\t\"frameType\"",
+			"contents": "ModelScene",
+		},
+		{
+			"trigger": "MovieFrame\t\"frameType\"",
+			"contents": "MovieFrame",
+		},
+		{
+			"trigger": "OffScreenFrame\t\"frameType\"",
+			"contents": "OffScreenFrame",
+		},
+		{
+			"trigger": "ScrollFrame\t\"frameType\"",
+			"contents": "ScrollFrame",
+		},
+		{
+			"trigger": "ScrollingMessageFrame\t\"frameType\"",
+			"contents": "ScrollingMessageFrame",
+		},
+		{
+			"trigger": "SimpleHTML\t\"frameType\"",
+			"contents": "SimpleHTML",
+		},
+		{
+			"trigger": "Slider\t\"frameType\"",
+			"contents": "Slider",
+		},
+		{
+			"trigger": "StatusBar\t\"frameType\"",
+			"contents": "StatusBar",
+		},
+		{
+			"trigger": "UnitPositionFrame\t\"frameType\"",
+			"contents": "UnitPositionFrame",
+		},
+	]
+}

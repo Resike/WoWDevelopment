@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ArchaeologyDigSiteFrame]]></content>
-	<tabTrigger>ArchaeologyDigSiteFrame</tabTrigger>
-	<description>"frameType"</description>
-	<scope>source.lua string</scope>
-</snippet>

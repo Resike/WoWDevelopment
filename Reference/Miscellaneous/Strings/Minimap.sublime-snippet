@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Minimap]]></content>
-	<tabTrigger>Minimap</tabTrigger>
-	<description>"frameType"</description>
-	<scope>source.lua string</scope>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnitPositionFrame]]></content>
+	<tabTrigger>UnitPositionFrame</tabTrigger>
+	<description>"frameType"</description>
+	<scope>source.lua string.frametype</scope>
+</snippet>

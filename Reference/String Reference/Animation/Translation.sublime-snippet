@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Translation]]></content>
+	<tabTrigger>Translation</tabTrigger>
+	<description>"animationType"</description>
+	<scope>source.lua string.animtype</scope>
+</snippet>

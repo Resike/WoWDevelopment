@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BOTTOM]]></content>
-	<tabTrigger>B</tabTrigger>
-	<description>"BOTTOM"</description>
-	<scope>source.lua string</scope>
-</snippet>

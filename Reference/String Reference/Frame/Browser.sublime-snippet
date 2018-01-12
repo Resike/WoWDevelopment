@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Browser]]></content>
+	<tabTrigger>Browser</tabTrigger>
+	<description>"frameType"</description>
+	<scope>source.lua string.frametype</scope>
+</snippet>

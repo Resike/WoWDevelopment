@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Bag1Slot]]></content>
+	<tabTrigger>Bag1Slot</tabTrigger>
+	<description>"slotType"</description>
+	<scope>source.lua string.slottype</scope>
+</snippet>

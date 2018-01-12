@@ -1,0 +1,25 @@
+{
+	"scope": "source.lua string.blendtype",
+	"completions": [
+		{
+			"trigger": "ADD\t\"blend\"",
+			"contents": "ADD",
+		},
+		{
+			"trigger": "ALPHAKEY\t\"blend\"",
+			"contents": "ALPHAKEY",
+		},
+		{
+			"trigger": "BLEND\t\"blend\"",
+			"contents": "BLEND",
+		},
+		{
+			"trigger": "DISABLE\t\"blend\"",
+			"contents": "DISABLE",
+		},
+		{
+			"trigger": "MOD\t\"blend\"",
+			"contents": "MOD",
+		},
+	]
+}

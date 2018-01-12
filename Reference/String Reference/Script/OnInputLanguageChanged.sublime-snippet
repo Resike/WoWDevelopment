@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnInputLanguageChanged]]></content>
+	<tabTrigger>OnInputLanguageChanged</tabTrigger>
+	<description>"scriptType"</description>
+	<scope>source.lua string.scripttype</scope>
+</snippet>

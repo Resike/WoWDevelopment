@@ -2,5 +2,5 @@
 	<content><![CDATA[GUILD_RECIPE_KNOWN_BY_MEMBERS]]></content>
 	<tabTrigger>GUILD_RECIPE_KNOWN_BY_MEMBERS</tabTrigger>
 	<description>"event"</description>
-	<scope>source.lua string</scope>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
 </snippet>

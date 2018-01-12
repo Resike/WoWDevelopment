@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ModelFFX]]></content>
-	<tabTrigger>ModelFFX</tabTrigger>
-	<description>"frameType"</description>
-	<scope>source.lua string</scope>
-</snippet>

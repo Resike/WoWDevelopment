@@ -2,5 +2,5 @@
 	<content><![CDATA[SHIPMENT_CRAFTER_INFO]]></content>
 	<tabTrigger>SHIPMENT_CRAFTER_INFO</tabTrigger>
 	<description>"event"</description>
-	<scope>source.lua string</scope>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
 </snippet>

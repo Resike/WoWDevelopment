@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[initial-anchor]]></content>
+	<tabTrigger>initial-anchor</tabTrigger>
+	<description>"attribute"</description>
+	<scope>source.lua string.attribtype</scope>
+</snippet>

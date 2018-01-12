@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[newstate]]></content>
+	<tabTrigger>newstate</tabTrigger>
+	<description>"attribute"</description>
+	<scope>source.lua string.attribtype</scope>
+</snippet>

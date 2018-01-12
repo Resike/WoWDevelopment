@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[scale]]></content>
+	<tabTrigger>scale</tabTrigger>
+	<description>"attribute"</description>
+	<scope>source.lua string.attribtype</scope>
+</snippet>

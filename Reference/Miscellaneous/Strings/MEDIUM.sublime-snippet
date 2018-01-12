@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MEDIUM]]></content>
-	<tabTrigger>MEDIUM</tabTrigger>
-	<description>"strata"</description>
-	<scope>source.lua string</scope>
-</snippet>

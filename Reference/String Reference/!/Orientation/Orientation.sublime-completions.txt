@@ -1,0 +1,13 @@
+{
+	"scope": "source.lua string.orienttype",
+	"completions": [
+		{
+			"trigger": "HORIZONTAL\t\"orientation\"",
+			"contents": "HORIZONTAL",
+		},
+		{
+			"trigger": "VERTICAL\t\"orientation\"",
+			"contents": "VERTICAL",
+		},
+	]
+}

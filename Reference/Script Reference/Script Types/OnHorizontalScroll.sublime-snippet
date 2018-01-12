@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnHorizontalScroll]]></content>
-	<tabTrigger>OnHorizontalScroll</tabTrigger>
-	<description>"scriptType"</description>
-	<scope>source.lua string</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnClick]]></content>
-	<tabTrigger>OnClick</tabTrigger>
-	<description>"scriptType"</description>
-	<scope>source.lua string</scope>
-</snippet>

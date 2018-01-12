@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerModel]]></content>
+	<tabTrigger>PlayerModel</tabTrigger>
+	<description>"frameType"</description>
+	<scope>source.lua string.frametype</scope>
+</snippet>

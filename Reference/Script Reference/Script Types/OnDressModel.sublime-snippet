@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnDressModel]]></content>
-	<tabTrigger>OnDressModel</tabTrigger>
-	<description>"scriptType"</description>
-	<scope>source.lua string</scope>
-</snippet>

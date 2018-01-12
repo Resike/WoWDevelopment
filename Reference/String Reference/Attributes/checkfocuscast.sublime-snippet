@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[checkfocuscast]]></content>
+	<tabTrigger>checkfocuscast</tabTrigger>
+	<description>"attribute"</description>
+	<scope>source.lua string.attribtype</scope>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HORIZONTAL]]></content>
-	<tabTrigger>HORIZONTAL</tabTrigger>
-	<description>"orientation"</description>
-	<scope>source.lua string</scope>
-</snippet>

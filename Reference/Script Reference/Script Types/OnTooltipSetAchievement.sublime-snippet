@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnTooltipSetAchievement]]></content>
-	<tabTrigger>OnTooltipSetAchievement</tabTrigger>
-	<description>"scriptType"</description>
-	<scope>source.lua string</scope>
-</snippet>

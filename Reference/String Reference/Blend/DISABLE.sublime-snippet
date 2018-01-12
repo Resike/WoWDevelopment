@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DISABLE]]></content>
+	<tabTrigger>DISABLE</tabTrigger>
+	<description>"blend"</description>
+	<scope>source.lua string.blendtype</scope>
+</snippet>

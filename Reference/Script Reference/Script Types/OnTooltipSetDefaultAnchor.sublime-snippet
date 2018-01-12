@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnTooltipSetDefaultAnchor]]></content>
-	<tabTrigger>OnTooltipSetDefaultAnchor</tabTrigger>
-	<description>"scriptType"</description>
-	<scope>source.lua string</scope>
-</snippet>

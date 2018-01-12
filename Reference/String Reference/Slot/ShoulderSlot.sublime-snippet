@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShoulderSlot]]></content>
+	<tabTrigger>ShoulderSlot</tabTrigger>
+	<description>"slotType"</description>
+	<scope>source.lua string.slottype</scope>
+</snippet>

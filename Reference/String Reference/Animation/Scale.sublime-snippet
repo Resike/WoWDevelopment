@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Scale]]></content>
+	<tabTrigger>Scale</tabTrigger>
+	<description>"animationType"</description>
+	<scope>source.lua string.animtype</scope>
+</snippet>

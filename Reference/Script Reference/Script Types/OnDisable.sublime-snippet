@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnDisable]]></content>
-	<tabTrigger>OnDisable</tabTrigger>
-	<description>"scriptType"</description>
-	<scope>source.lua string</scope>
-</snippet>

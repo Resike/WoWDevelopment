@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LOW]]></content>
+	<tabTrigger>LOW</tabTrigger>
+	<description>"strata"</description>
+	<scope>source.lua string.stratatype</scope>
+</snippet>

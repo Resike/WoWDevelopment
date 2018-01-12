@@ -939,7 +939,7 @@
 		},
 		{
 			"trigger": "GetAttribute\t(\"name\")",
-			"contents": "GetAttribute(${3:\"name\"})$0",
+			"contents": "GetAttribute(\"${3:name}\")$0",
 		},
 		{
 			"trigger": "GetBackdrop\t()",
@@ -2275,7 +2275,7 @@
 		},
 		{
 			"trigger": "SetAttribute\t(\"name\", value)",
-			"contents": "SetAttribute(${2:\"name\"}, ${3:value})$0",
+			"contents": "SetAttribute(\"${2:name}\", ${3:value})$0",
 		},
 		{
 			"trigger": "SetAuctionItem\t(\"list\", index)",

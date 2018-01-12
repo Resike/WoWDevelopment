@@ -2,5 +2,5 @@
 	<content><![CDATA[INSTANCE_GROUP_SIZE_CHANGED]]></content>
 	<tabTrigger>INSTANCE_GROUP_SIZE_CHANGED</tabTrigger>
 	<description>"event"</description>
-	<scope>source.lua string</scope>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
 </snippet>

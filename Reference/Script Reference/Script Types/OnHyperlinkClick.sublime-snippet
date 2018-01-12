@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnHyperlinkClick]]></content>
-	<tabTrigger>OnHyperlinkClick</tabTrigger>
-	<description>"scriptType"</description>
-	<scope>source.lua string</scope>
-</snippet>

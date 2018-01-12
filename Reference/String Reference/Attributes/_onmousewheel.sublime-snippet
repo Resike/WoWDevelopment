@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[_onmousewheel]]></content>
+	<tabTrigger>_onmousewheel</tabTrigger>
+	<description>"attribute"</description>
+	<scope>source.lua string.attribtype</scope>
+</snippet>

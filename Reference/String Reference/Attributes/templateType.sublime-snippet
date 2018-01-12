@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[templateType]]></content>
+	<tabTrigger>templateType</tabTrigger>
+	<description>"attribute"</description>
+	<scope>source.lua string.attribtype</scope>
+</snippet>

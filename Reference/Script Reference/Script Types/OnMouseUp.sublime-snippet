@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnMouseUp]]></content>
-	<tabTrigger>OnMouseUp</tabTrigger>
-	<description>"scriptType"</description>
-	<scope>source.lua string</scope>
-</snippet>

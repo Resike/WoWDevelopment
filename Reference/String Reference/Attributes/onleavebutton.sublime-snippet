@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onleavebutton]]></content>
+	<tabTrigger>onleavebutton</tabTrigger>
+	<description>"attribute"</description>
+	<scope>source.lua string.attribtype</scope>
+</snippet>

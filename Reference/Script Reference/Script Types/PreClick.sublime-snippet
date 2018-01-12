@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PreClick]]></content>
-	<tabTrigger>PreClick</tabTrigger>
-	<description>"scriptType"</description>
-	<scope>source.lua string</scope>
-</snippet>

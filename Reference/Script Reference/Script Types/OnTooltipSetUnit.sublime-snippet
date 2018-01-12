@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OnTooltipSetUnit]]></content>
-	<tabTrigger>OnTooltipSetUnit</tabTrigger>
-	<description>"scriptType"</description>
-	<scope>source.lua string</scope>
-</snippet>

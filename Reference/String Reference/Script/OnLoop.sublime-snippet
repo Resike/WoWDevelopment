@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnLoop]]></content>
+	<tabTrigger>OnLoop</tabTrigger>
+	<description>"scriptType"</description>
+	<scope>source.lua string.scripttype</scope>
+</snippet>

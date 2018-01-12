@@ -1,0 +1,37 @@
+{
+	"scope": "source.lua string.stratatype",
+	"completions": [
+		{
+			"trigger": "BACKGROUND\t\"strata\"",
+			"contents": "BACKGROUND",
+		},
+		{
+			"trigger": "DIALOG\t\"strata\"",
+			"contents": "DIALOG",
+		},
+		{
+			"trigger": "FULLSCREEN\t\"strata\"",
+			"contents": "FULLSCREEN",
+		},
+		{
+			"trigger": "FULLSCREEN_DIALOG\t\"strata\"",
+			"contents": "FULLSCREEN_DIALOG",
+		},
+		{
+			"trigger": "HIGH\t\"strata\"",
+			"contents": "HIGH",
+		},
+		{
+			"trigger": "LOW\t\"strata\"",
+			"contents": "LOW",
+		},
+		{
+			"trigger": "MEDIUM\t\"strata\"",
+			"contents": "MEDIUM",
+		},
+		{
+			"trigger": "TOOLTIP\t\"strata\"",
+			"contents": "TOOLTIP",
+		},
+	]
+}

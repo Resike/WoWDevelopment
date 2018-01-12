@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CheckButton]]></content>
+	<tabTrigger>CheckButton</tabTrigger>
+	<description>"frameType"</description>
+	<scope>source.lua string.frametype</scope>
+</snippet>
