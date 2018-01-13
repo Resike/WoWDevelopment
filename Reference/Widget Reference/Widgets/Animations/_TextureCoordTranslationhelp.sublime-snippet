@@ -8,53 +8,53 @@
 		"UIObject",
 	},
 	handlers = {
-		["OnFinished"] = "self, requested",
-		["OnLoad"] = "self",
-		["OnPause"] = "self",
-		["OnPlay"] = "self",
-		["OnStop"] = "self, requested",
-		["OnUpdate"] = "self, elapsed",
+		["OnFinished"] = "self, requested", -- Run when the animation finishes animating
+		["OnLoad"] = "self", -- Run when the frame is created
+		["OnPause"] = "self", -- Run when the animation begins to play
+		["OnPlay"] = "self", -- Run when the animation begins to play
+		["OnStop"] = "self, requested", -- Run when the animation is stopped
+		["OnUpdate"] = "self, elapsed", -- Run each time the screen is drawn by the game engine
 	},
 	methods = {
-		"GetDebugName",
-		"GetDuration",
-		"GetElapsed",
-		"GetEndDelay",
-		"GetName",
-		"GetObjectType",
-		"GetOrder",
-		"GetParent",
-		"GetProgress",
-		"GetRegionParent",
-		"GetScript",
-		"GetSmoothing",
-		"GetSmoothProgress",
-		"GetStartDelay",
-		"GetTarget",
-		"HasScript",
-		"HookScript",
-		"IsDelaying",
-		"IsDone",
-		"IsForbidden",
-		"IsObjectType",
-		"IsPaused",
-		"IsPlaying",
-		"IsStopped",
-		"Pause",
-		"Play",
-		"Restart",
-		"SetChildKey",
-		"SetDuration",
-		"SetEndDelay",
-		"SetOrder",
-		"SetParent",
-		"SetScript",
-		"SetSmoothing",
-		"SetSmoothProgress",
-		"SetStartDelay",
-		"SetTarget",
-		"SetTargetKey",
-		"Stop",
+		"GetDebugName", -- Returns the widget object's debug name
+		"GetDuration", -- Returns the time for the animation to progress from start to finish
+		"GetElapsed", -- Returns the amount of time since the animation began playing
+		"GetEndDelay", -- Returns the amount of time the animation delays after finishing
+		"GetName", -- Returns the widget object's name
+		"GetObjectType", -- Returns the object's widget type
+		"GetOrder", -- Returns the order of the animation within it's parent group
+		"GetParent", -- Returns the object's parent object
+		"GetProgress", -- Returns the progress of an animation, ignoring smoothing effects
+		"GetRegionParent", -- Returns the region object on which the animation operates
+		"GetScript", -- Returns the widget's handler function for a script
+		"GetSmoothing", -- Returns the smoothing type for the animation
+		"GetSmoothProgress", -- Returns the progress of the animation (ignoring start and end delay)
+		"GetStartDelay", -- Returns the amount of time the animation delays before it's progress begins
+		"GetTarget", -- Returns the region affected by this animation
+		"HasScript", -- Returns whether the widget supports a script handler
+		"HookScript", -- Securely hooks a script handler
+		"IsDelaying", -- Returns whether the animation is currently in the middle of a start or end delay
+		"IsDone", -- Returns whether the animation has finished playing
+		"IsForbidden", -- Returns if this widget's methods may only be called from secure execution paths
+		"IsObjectType", -- Returns whether the object belongs to a given widget type
+		"IsPaused", -- Returns whether the animation is currently paused
+		"IsPlaying", -- Returns whether the animation is currently playing
+		"IsStopped", -- Returns whether the animation is currently stopped
+		"Pause", -- Pauses the animation
+		"Play", -- Plays the animation
+		"Restart", -- Restarts the animation
+		"SetChildKey", -- Sets the animation to manipulate a particular child member of it's host frame
+		"SetDuration", -- Sets the time for the animation to progress from start to finish
+		"SetEndDelay", -- Sets the amount of time for the animation to delay after finishing
+		"SetOrder", -- Sets the order for the animation to play within it's parent group
+		"SetParent", -- Sets another frame the parent of this region
+		"SetScript", -- Sets the widget's handler function for a script
+		"SetSmoothing", -- Sets the smoothing type for the animation
+		"SetSmoothProgress", -- Sets the progress of the smoothing type for the animation
+		"SetStartDelay", -- Sets the amount of time for the animation to delay before it's progress begins
+		"SetTarget", -- Sets the region affected by this animation
+		"SetTargetKey", -- Sets the animation to manipulate a particular child member of it's target
+		"Stop", -- Stops the animation
 	},
 }]]></content>
 	<tabTrigger>_TextureCoordTranslation</tabTrigger>

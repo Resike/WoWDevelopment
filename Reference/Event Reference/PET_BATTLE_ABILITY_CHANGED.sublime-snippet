@@ -2,5 +2,5 @@
 	<content><![CDATA[PET_BATTLE_ABILITY_CHANGED]]></content>
 	<tabTrigger>PET_BATTLE_ABILITY_CHANGED</tabTrigger>
 	<description>"event"</description>
-	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate</scope>
 </snippet>

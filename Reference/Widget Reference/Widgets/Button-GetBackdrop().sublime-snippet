@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:Button}:GetBackdrop()$0]]></content>
+	<tabTrigger>Button:GetBackdrop</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

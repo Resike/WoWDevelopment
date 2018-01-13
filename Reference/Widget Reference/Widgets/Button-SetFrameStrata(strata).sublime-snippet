@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:Button}:SetFrameStrata("${2:strata}")$0]]></content>
+	<tabTrigger>Button:SetFrameStrata</tabTrigger>
+	<description>("strata")</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

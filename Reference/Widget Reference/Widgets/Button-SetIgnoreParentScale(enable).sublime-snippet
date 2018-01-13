@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:Button}:SetIgnoreParentScale(${2:enable})$0]]></content>
+	<tabTrigger>Button:SetIgnoreParentScale</tabTrigger>
+	<description>(enable)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

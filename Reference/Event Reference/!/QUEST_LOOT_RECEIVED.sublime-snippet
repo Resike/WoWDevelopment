@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QUEST_LOOT_RECEIVED]]></content>
-	<tabTrigger>QUEST_LOOT_RECEIVED</tabTrigger>
-	<description>"event"</description>
-	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
-</snippet>

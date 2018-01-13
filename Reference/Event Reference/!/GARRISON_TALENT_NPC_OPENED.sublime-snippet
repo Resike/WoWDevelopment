@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GARRISON_TALENT_NPC_OPENED]]></content>
-	<tabTrigger>GARRISON_TALENT_NPC_OPENED</tabTrigger>
-	<description>"event"</description>
-	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
-</snippet>

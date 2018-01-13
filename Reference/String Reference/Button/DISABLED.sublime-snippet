@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DISABLED]]></content>
+	<tabTrigger>DISABLED</tabTrigger>
+	<description>"state"</description>
+	<scope>source.lua string.buttonstate</scope>
+</snippet>

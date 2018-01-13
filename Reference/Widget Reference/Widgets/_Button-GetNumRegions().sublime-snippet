@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:numRegions} = ${2:Button}:GetNumRegions()$0]]></content>
+	<tabTrigger>_Button:GetNumRegions</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

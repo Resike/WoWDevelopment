@@ -1,0 +1,17 @@
+{
+	"scope": "source.lua string.buttonstate",
+	"completions": [
+		{
+			"trigger": "DISABLED\t\"state\"",
+			"contents": "DISABLED",
+		},
+		{
+			"trigger": "NORMAL\t\"state\"",
+			"contents": "NORMAL",
+		},
+		{
+			"trigger": "PUSHED\t\"state\"",
+			"contents": "PUSHED",
+		},
+	]
+}

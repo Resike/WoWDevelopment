@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UNIT_HEAL_ABSORB_AMOUNT_CHANGED]]></content>
-	<tabTrigger>UNIT_HEAL_ABSORB_AMOUNT_CHANGED</tabTrigger>
-	<description>"event"</description>
-	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
-</snippet>

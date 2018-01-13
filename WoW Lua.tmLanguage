@@ -457,6 +457,41 @@
 				</dict>
 			</dict>
 		</dict>
+		<!-- Button states -->
+		<dict>
+			<key>match</key>
+			<string>\b(SetButtonState)\b\s*(\()\s*(['"]\b(DISABLED|NORMAL|PUSHED)\b['"])</string>
+			<key>captures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
+				<key>3</key>
+				<dict>
+					<key>name</key>
+					<string>variable.parameter.wow.buttonstate</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\b(SetButtonState)\b\s*(\()\s*(['"]\b(\w*)\b['"])</string>
+			<key>captures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>support.function.wow-api</string>
+				</dict>
+				<key>3</key>
+				<dict>
+					<key>name</key>
+					<string>string.buttonstate</string>
+				</dict>
+			</dict>
+		</dict>
 		<!-- Secure Handler functions -->
 		<dict>
 			<key>match</key>

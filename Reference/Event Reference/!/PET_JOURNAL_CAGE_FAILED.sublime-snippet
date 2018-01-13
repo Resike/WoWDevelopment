@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PET_JOURNAL_CAGE_FAILED]]></content>
-	<tabTrigger>PET_JOURNAL_CAGE_FAILED</tabTrigger>
-	<description>"event"</description>
-	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
-</snippet>

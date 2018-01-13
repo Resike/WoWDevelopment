@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PVP_ROLE_UPDATE]]></content>
-	<tabTrigger>PVP_ROLE_UPDATE</tabTrigger>
-	<description>"event"</description>
-	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
-</snippet>

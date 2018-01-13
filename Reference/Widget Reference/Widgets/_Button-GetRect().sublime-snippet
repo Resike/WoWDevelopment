@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:left}, ${2:bottom}, ${3:width}, ${4:height} = ${5:Button}:GetRect()$0]]></content>
+	<tabTrigger>_Button:GetRect</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

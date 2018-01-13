@@ -35,7 +35,7 @@
 
 		{
 			"trigger": "_ScriptObject\thelp",
-			"contents": "ScriptObject = {\n\tinherits = {\n\t\t\"ScriptObject\",\n\t},\n\tmethods = {\n\t\t\"GetScript\",\n\t\t\"HasScript\",\n\t\t\"HookScript\",\n\t\t\"SetScript\",\n\t},\n}",
+			"contents": "ScriptObject = {\n\tinherits = {\n\t\t\"ScriptObject\",\n\t},\n\tmethods = {\n\t\t\"GetScript\", -- Returns the widget's handler function for a script\n\t\t\"HasScript\", -- Returns whether the widget supports a script handler\n\t\t\"HookScript\", -- Securely hooks a script handler\n\t\t\"SetScript\", -- Sets the widget's handler function for a script\n\t},\n}",
 		},
 	]
 }

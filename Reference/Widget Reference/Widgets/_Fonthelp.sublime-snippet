@@ -6,30 +6,30 @@
 		"UIObject",
 	},
 	methods = {
-		"CopyFontObject",
-		"GetAlpha",
-		"GetFont",
-		"GetFontObject",
-		"GetIndentedWordWrap",
-		"GetJustifyH",
-		"GetJustifyV",
-		"GetName",
-		"GetObjectType",
-		"GetShadowColor",
-		"GetShadowOffset",
-		"GetSpacing",
-		"GetTextColor",
-		"IsObjectType",
-		"SetAlpha",
-		"SetFont",
-		"SetFontObject",
-		"SetIndentedWordWrap",
-		"SetJustifyH",
-		"SetJustifyV",
-		"SetShadowColor",
-		"SetShadowOffset",
-		"SetSpacing",
-		"SetTextColor",
+		"CopyFontObject", -- Sets the font's properties to match those of another font object
+		"GetAlpha", -- Returns the opacity of the region relative to it's parent
+		"GetFont", -- Returns the font instance's basic font properties
+		"GetFontObject", -- Returns the font object from which the font instance's properties are inherited
+		"GetIndentedWordWrap", -- Returns whether long lines of text are indented when wrapping
+		"GetJustifyH", -- Returns the font instance's horizontal text alignment style
+		"GetJustifyV", -- Returns the font instance's vertical text alignment style
+		"GetName", -- Returns the widget object's name
+		"GetObjectType", -- Returns the object's widget type
+		"GetShadowColor", -- Returns the color of the font's text shadow
+		"GetShadowOffset", -- Returns the offset of the font instance's text shadow from it's text
+		"GetSpacing", -- Returns the font instance's amount of spacing between lines
+		"GetTextColor", -- Returns the font instance's default text color
+		"IsObjectType", -- Returns whether the object belongs to a given widget type
+		"SetAlpha", -- Sets the opacity of the region relative to it's parent
+		"SetFont", -- Sets the font instance's basic font properties
+		"SetFontObject", -- Sets the font object from which the font instance's properties are inherited
+		"SetIndentedWordWrap", -- Sets whether long lines of text are indented when wrapping
+		"SetJustifyH", -- Sets the font instance's horizontal text alignment style
+		"SetJustifyV", -- Sets the font instance's vertical text alignment style
+		"SetShadowColor", -- Sets the color of the font's text shadow
+		"SetShadowOffset", -- Sets the offset of the font instance's text shadow from it's text
+		"SetSpacing", -- Sets the font instance's amount of spacing between lines
+		"SetTextColor", -- Sets the font instance's default text color
 	},
 }]]></content>
 	<tabTrigger>_Font</tabTrigger>

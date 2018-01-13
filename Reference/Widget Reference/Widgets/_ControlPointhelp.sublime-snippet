@@ -6,17 +6,17 @@
 		"UIObject",
 	},
 	methods = {
-		"GetDebugName",
-		"GetName",
-		"GetObjectType",
-		"GetOffset",
-		"GetOrder",
-		"GetParent",
-		"IsForbidden",
-		"IsObjectType",
-		"SetOffset",
-		"SetOrder",
-		"SetParent",
+		"GetDebugName", -- Returns the widget object's debug name
+		"GetName", -- Returns the widget object's name
+		"GetObjectType", -- Returns the object's widget type
+		"GetOffset", -- Returns the offset for the control point
+		"GetOrder", -- Returns the order of the animation within it's parent group
+		"GetParent", -- Returns the object's parent object
+		"IsForbidden", -- Returns if this widget's methods may only be called from secure execution paths
+		"IsObjectType", -- Returns whether the object belongs to a given widget type
+		"SetOffset", -- Sets the offset for the control point
+		"SetOrder", -- Sets the order for the animation to play within it's parent group
+		"SetParent", -- Sets another frame the parent of this region
 	},
 }]]></content>
 	<tabTrigger>_ControlPoint</tabTrigger>

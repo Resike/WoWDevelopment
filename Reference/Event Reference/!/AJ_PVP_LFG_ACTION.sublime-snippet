@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AJ_PVP_LFG_ACTION]]></content>
-	<tabTrigger>AJ_PVP_LFG_ACTION</tabTrigger>
-	<description>"event"</description>
-	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
-</snippet>

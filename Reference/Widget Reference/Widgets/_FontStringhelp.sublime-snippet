@@ -10,88 +10,88 @@
 		"UIObject",
 	},
 	methods = {
-		"CanChangeProtectedState",
-		"CanNonSpaceWrap",
-		"CanWordWrap",
-		"ClearAllPoints",
-		"CreateAnimationGroup",
-		"GetAlpha",
-		"GetAnimationGroups",
-		"GetBottom",
-		"GetCenter",
-		"GetDebugName",
-		"GetDrawLayer",
-		"GetFieldSize",
-		"GetFont",
-		"GetFontObject",
-		"GetHeight",
-		"GetIndentedWordWrap",
-		"GetJustifyH",
-		"GetJustifyV",
-		"GetLeft",
-		"GetLineHeight",
-		"GetMaxLines",
-		"GetName",
-		"GetNumLines",
-		"GetNumPoints",
-		"GetObjectType",
-		"GetParent",
-		"GetPoint",
-		"GetRect",
-		"GetRight",
-		"GetShadowColor",
-		"GetShadowOffset",
-		"GetSize",
-		"GetSpacing",
-		"GetStringHeight",
-		"GetStringWidth",
-		"GetText",
-		"GetTextColor",
-		"GetTop",
-		"GetWidth",
-		"GetWrappedWidth",
-		"Hide",
-		"IsDragging",
-		"IsForbidden",
-		"IsIgnoringParentAlpha",
-		"IsIgnoringParentScale",
-		"IsMouseOver",
-		"IsObjectLoaded",
-		"IsObjectType",
-		"IsProtected",
-		"IsShown",
-		"IsTruncated",
-		"IsVisible",
-		"SetAllPoints",
-		"SetAlpha",
-		"SetAlphaGradient",
-		"SetDrawLayer",
-		"SetFont",
-		"SetFontObject",
-		"SetFormattedText",
-		"SetHeight",
-		"SetIgnoreParentAlpha",
-		"SetIgnoreParentScale",
-		"SetIndentedWordWrap",
-		"SetJustifyH",
-		"SetJustifyV",
-		"SetMaxLines",
-		"SetNonSpaceWrap",
-		"SetParent",
-		"SetPoint",
-		"SetShadowColor",
-		"SetShadowOffset",
-		"SetShown",
-		"SetSize",
-		"SetSpacing",
-		"SetText",
-		"SetTextColor",
-		"SetTextHeight",
-		"SetVertexColor",
-		"SetWidth",
-		"SetWordWrap",
-		"Show",
-		"StopAnimating",
+		"CanChangeProtectedState", -- Returns whether protected properties of the region can be changed by non-secure scripts
+		"CanNonSpaceWrap", -- Returns whether long lines of text will wrap within or between words
+		"CanWordWrap", -- Returns whether long lines of text in the font string can wrap onto
+		"ClearAllPoints", -- Removes all anchor points from the region
+		"CreateAnimationGroup", -- Creates a new animation group as a child of the region
+		"GetAlpha", -- Returns the opacity of the region relative to it's parent
+		"GetAnimationGroups", -- Returns a list of animation groups belonging to the region
+		"GetBottom", -- Returns the distance from the bottom of the screen to the bottom of the region
+		"GetCenter", -- Returns the screen coordinates of the region's center
+		"GetDebugName", -- Returns the widget object's debug name
+		"GetDrawLayer", -- Returns the layer at which the region's graphics are drawn relative to others in it's frame
+		"GetFieldSize", -- Returns the font instance's field size
+		"GetFont", -- Returns the font instance's basic font properties
+		"GetFontObject", -- Returns the font object from which the font instance's properties are inherited
+		"GetHeight", -- Returns the height of the region
+		"GetIndentedWordWrap", -- Returns whether long lines of text are indented when wrapping
+		"GetJustifyH", -- Returns the font instance's horizontal text alignment style
+		"GetJustifyV", -- Returns the font instance's vertical text alignment style
+		"GetLeft", -- Returns the distance from the left edge of the screen to the left edge of the region
+		"GetLineHeight", -- Returns the height of the text displayed in the font string
+		"GetMaxLines", -- Returns the maximum lines of the text displayed in the font string
+		"GetName", -- Returns the widget object's name
+		"GetNumLines", -- Returns the currently displayed lines of the text in the font string
+		"GetNumPoints", -- Returns the number of anchor points defined for the region
+		"GetObjectType", -- Returns the object's widget type
+		"GetParent", -- Returns the object's parent object
+		"GetPoint", -- Returns information about one of the region's anchor points
+		"GetRect", -- Returns the position and dimensions of the region
+		"GetRight", -- Returns the distance from the left edge of the screen to the right edge of the region
+		"GetShadowColor", -- Returns the color of the font's text shadow
+		"GetShadowOffset", -- Returns the offset of the font instance's text shadow from it's text
+		"GetSize", -- Returns the width and height of the region
+		"GetSpacing", -- Returns the font instance's amount of spacing between lines
+		"GetStringHeight", -- Returns the height of the text displayed in the font string
+		"GetStringWidth", -- Returns the width of the text displayed in the font string
+		"GetText", -- Returns the text currently set for display in the font string
+		"GetTextColor", -- Returns the font instance's default text color
+		"GetTop", -- Returns the distance from the bottom of the screen to the top of the region
+		"GetWidth", -- Returns the width of the region
+		"GetWrappedWidth", -- Returns the wrapped width of the font string
+		"Hide", -- Hides the region
+		"IsDragging", -- Returns whether the region is currently being dragged
+		"IsForbidden", -- Returns if this widget's methods may only be called from secure execution paths
+		"IsIgnoringParentAlpha", -- Returns if the region is ignoring it's parent alpha changes
+		"IsIgnoringParentScale", -- Returns if the region is ignoring it's parent scale changes
+		"IsMouseOver", -- Returns whether the mouse cursor is over the given region
+		"IsObjectLoaded", -- Returns whether the region is loaded
+		"IsObjectType", -- Returns whether the object belongs to a given widget type
+		"IsProtected", -- Returns whether the region is protected
+		"IsShown", -- Returns whether the region is shown
+		"IsTruncated",  -- Returns if the text is truncated
+		"IsVisible", -- Returns whether the region is visible
+		"SetAllPoints", -- Sets all anchor points of the region to match those of another region
+		"SetAlpha", -- Sets the opacity of the region relative to it's parent
+		"SetAlphaGradient", -- Creates an opacity gradient over the text in the font string and returns true on success
+		"SetDrawLayer", -- Sets the layer at which the region's graphics are drawn relative to others in it's frame
+		"SetFont", -- Sets the font instance's basic font properties
+		"SetFontObject", -- Sets the font object from which the font instance's properties are inherited
+		"SetFormattedText", -- Sets the text displayed in the font string using format specifiers
+		"SetHeight", -- Sets the region's height
+		"SetIgnoreParentAlpha", -- Sets if the region should ignore it's parent alpha changes
+		"SetIgnoreParentScale", -- Sets if the region should ignore it's parent scale changes
+		"SetIndentedWordWrap", -- Sets whether long lines of text are indented when wrapping
+		"SetJustifyH", -- Sets the font instance's horizontal text alignment style
+		"SetJustifyV", -- Sets the font instance's vertical text alignment style
+		"SetMaxLines", -- Sets the maximum lines of the text displayed in the font string
+		"SetNonSpaceWrap", -- Sets whether long lines of text will wrap within or between words
+		"SetParent", -- Sets another frame the parent of this region
+		"SetPoint", -- Sets an anchor point for the region
+		"SetShadowColor", -- Sets the color of the font's text shadow
+		"SetShadowOffset", -- Sets the offset of the font instance's text shadow from it's text
+		"SetShown", -- Sets whether the region should be visible or hidden
+		"SetSize", -- Sets the size of the region to the specified values
+		"SetSpacing", -- Sets the font instance's amount of spacing between lines
+		"SetText", -- Sets the text to be displayed in the font string
+		"SetTextColor", -- Sets the font instance's default text color
+		"SetTextHeight", -- Scales the font string's rendered text to a different height
+		"SetVertexColor", -- Sets a color shading for the region's graphics
+		"SetWidth", -- Sets the region's width
+		"SetWordWrap", -- Sets whether long lines of text in the font string can wrap onto subsequent lines
+		"Show", -- Shows the region
+		"StopAnimating", -- Stops any active animations involving the region or it's children
 	},
 }]]></content>
 	<tabTrigger>_FontString</tabTrigger>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UPDATE_TRADESKILL_RECAST]]></content>
-	<tabTrigger>UPDATE_TRADESKILL_RECAST</tabTrigger>
-	<description>"event"</description>
-	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
-</snippet>

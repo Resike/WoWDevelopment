@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PARTY_REFER_A_FRIEND_UPDATED]]></content>
-	<tabTrigger>PARTY_REFER_A_FRIEND_UPDATED</tabTrigger>
-	<description>"event"</description>
-	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
-</snippet>

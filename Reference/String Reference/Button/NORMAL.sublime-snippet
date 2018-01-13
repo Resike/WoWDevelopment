@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NORMAL]]></content>
+	<tabTrigger>NORMAL</tabTrigger>
+	<description>"state"</description>
+	<scope>source.lua string.buttonstate</scope>
+</snippet>

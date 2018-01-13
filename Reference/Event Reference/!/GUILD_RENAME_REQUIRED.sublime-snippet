@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILD_RENAME_REQUIRED]]></content>
-	<tabTrigger>GUILD_RENAME_REQUIRED</tabTrigger>
-	<description>"event"</description>
-	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
-</snippet>

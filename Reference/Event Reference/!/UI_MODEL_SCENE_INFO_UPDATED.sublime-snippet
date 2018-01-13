@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UI_MODEL_SCENE_INFO_UPDATED]]></content>
-	<tabTrigger>UI_MODEL_SCENE_INFO_UPDATED</tabTrigger>
-	<description>"event"</description>
-	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
-</snippet>

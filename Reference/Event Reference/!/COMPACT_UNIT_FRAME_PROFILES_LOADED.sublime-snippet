@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[COMPACT_UNIT_FRAME_PROFILES_LOADED]]></content>
-	<tabTrigger>COMPACT_UNIT_FRAME_PROFILES_LOADED</tabTrigger>
-	<description>"event"</description>
-	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
-</snippet>

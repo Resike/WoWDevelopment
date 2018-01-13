@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:Button}:GetAttribute(${2:"name"})$0]]></content>
+	<tabTrigger>Button:GetAttribute</tabTrigger>
+	<description>("name")</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

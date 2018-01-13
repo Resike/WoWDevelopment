@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:minWidth}, ${2:minHeight} = ${3:Button}:GetMinResize()$0]]></content>
+	<tabTrigger>_Button:GetMinResize</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

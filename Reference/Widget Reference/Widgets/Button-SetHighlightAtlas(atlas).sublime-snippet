@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:Button}:SetHighlightAtlas("${2:atlas}")$0]]></content>
+	<tabTrigger>Button:SetHighlightAtlas</tabTrigger>
+	<description>("atlas")</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

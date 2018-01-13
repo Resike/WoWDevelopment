@@ -2,5 +2,5 @@
 	<content><![CDATA[AUCTION_MULTISELL_FAILURE]]></content>
 	<tabTrigger>AUCTION_MULTISELL_FAILURE</tabTrigger>
 	<description>"event"</description>
-	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate</scope>
 </snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UNIT_POWER_BAR_SHOW]]></content>
-	<tabTrigger>UNIT_POWER_BAR_SHOW</tabTrigger>
-	<description>"event"</description>
-	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
-</snippet>

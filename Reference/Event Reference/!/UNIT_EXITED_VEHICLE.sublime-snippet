@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UNIT_EXITED_VEHICLE]]></content>
-	<tabTrigger>UNIT_EXITED_VEHICLE</tabTrigger>
-	<description>"event"</description>
-	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
-</snippet>

@@ -10,78 +10,78 @@
 		"UIObject",
 	},
 	methods = {
-		"CanChangeProtectedState",
-		"ClearAllPoints",
-		"CreateAnimationGroup",
-		"GetAlpha",
-		"GetAnimationGroups",
-		"GetAtlas",
-		"GetBlendMode",
-		"GetBottom",
-		"GetCenter",
-		"GetDebugName",
-		"GetDesaturation",
-		"GetDrawLayer",
-		"GetHeight",
-		"GetHorizTile",
-		"GetLeft",
-		"GetName",
-		"GetNonBlocking",
-		"GetNumPoints",
-		"GetObjectType",
-		"GetParent",
-		"GetPoint",
-		"GetRect",
-		"GetRight",
-		"GetSize",
-		"GetTexCoord",
-		"GetTexture",
-		"GetTop",
-		"GetVertexColor",
-		"GetVertexOffset",
-		"GetVertTile",
-		"GetWidth",
-		"Hide",
-		"IsDesaturated",
-		"IsDragging",
-		"IsForbidden",
-		"IsIgnoringParentAlpha",
-		"IsIgnoringParentScale",
-		"IsMouseOver",
-		"IsObjectLoaded",
-		"IsObjectType",
-		"IsProtected",
-		"IsShown",
-		"IsVisible",
-		"SetAllPoints",
-		"SetAlpha",
-		"SetAtlas",
-		"SetBlendMode",
-		"SetColorTexture",
-		"SetDesaturated",
-		"SetDesaturation",
-		"SetDrawLayer",
-		"SetGradient",
-		"SetGradientAlpha",
-		"SetHeight",
-		"SetHorizTile",
-		"SetIgnoreParentAlpha",
-		"SetIgnoreParentScale",
-		"SetMask",
-		"SetNonBlocking",
-		"SetParent",
-		"SetPoint",
-		"SetRotation",
-		"SetShown",
-		"SetSize",
-		"SetTexCoord",
-		"SetTexture",
-		"SetVertexColor",
-		"SetVertexOffset",
-		"SetVertTile",
-		"SetWidth",
-		"Show",
-		"StopAnimating",
+		"CanChangeProtectedState", -- Returns whether protected properties of the region can be changed by non-secure scripts
+		"ClearAllPoints", -- Removes all anchor points from the region
+		"CreateAnimationGroup", -- Creates a new animation group as a child of the region
+		"GetAlpha", -- Returns the opacity of the region relative to it's parent
+		"GetAnimationGroups", -- Returns a list of animation groups belonging to the region
+		"GetAtlas", -- Returns the currently set atlas table's name
+		"GetBlendMode", -- Returns the blend mode of the texture
+		"GetBottom", -- Returns the distance from the bottom of the screen to the bottom of the region
+		"GetCenter", -- Returns the screen coordinates of the region's center
+		"GetDebugName", -- Returns the widget object's debug name
+		"GetDesaturation", -- Returns whether the texture image should be displayed with zero saturation
+		"GetDrawLayer", -- Returns the layer at which the region's graphics are drawn relative to others in it's frame
+		"GetHeight", -- Returns the height of the region
+		"GetHorizTile", -- Returns the horizonal tiling behaviour of the texture
+		"GetLeft", -- Returns the distance from the left edge of the screen to the left edge of the region
+		"GetName", -- Returns the widget object's name
+		"GetNonBlocking", -- Returns whether the texture object loads it's image file in the background
+		"GetNumPoints", -- Returns the number of anchor points defined for the region
+		"GetObjectType", -- Returns the object's widget type
+		"GetParent", -- Returns the object's parent object
+		"GetPoint", -- Returns information about one of the region's anchor points
+		"GetRect", -- Returns the position and dimensions of the region
+		"GetRight", -- Returns the distance from the left edge of the screen to the right edge of the region
+		"GetSize", -- Returns the width and height of the region
+		"GetTexCoord", -- Returns corner coordinates for scaling or cropping the texture image
+		"GetTexture", -- Returns the path to the texture's image file
+		"GetTop", -- Returns the distance from the bottom of the screen to the top of the region
+		"GetVertexColor", -- Returns the shading color of the texture
+		"GetVertexOffset", -- Returns the offset parameters for the texture's shading color
+		"GetVertTile", -- Returns the vertical tiling behaviour of the texture
+		"GetWidth", -- Returns the width of the region
+		"Hide", -- Hides the region
+		"IsDesaturated", -- Returns whether the texture image should be displayed with zero saturation
+		"IsDragging", -- Returns whether the region is currently being dragged
+		"IsForbidden", -- Returns if this widget's methods may only be called from secure execution paths
+		"IsIgnoringParentAlpha", -- Returns if the region is ignoring it's parent alpha changes
+		"IsIgnoringParentScale", -- Returns if the region is ignoring it's parent scale changes
+		"IsMouseOver", -- Returns whether the mouse cursor is over the given region
+		"IsObjectLoaded", -- Returns whether the region is loaded
+		"IsObjectType", -- Returns whether the object belongs to a given widget type
+		"IsProtected", -- Returns whether the region is protected
+		"IsShown", -- Returns whether the region is shown
+		"IsVisible", -- Returns whether the region is visible
+		"SetAllPoints", -- Sets all anchor points of the region to match those of another region
+		"SetAlpha", -- Sets the opacity of the region relative to it's parent
+		"SetAtlas", -- Sets corner coordinates for scaling or cropping the texture image based on a predefined atlas table's values
+		"SetBlendMode", -- Sets the blend mode of the texture
+		"SetColorTexture", -- Sets the color of the texture
+		"SetDesaturated", -- Sets whether the texture image should be displayed with zero saturation
+		"SetDesaturation", -- Sets whether the texture image should be displayed with zero saturation
+		"SetDrawLayer", -- Sets the layer at which the region's graphics are drawn relative to others in it's frame
+		"SetGradient", -- Sets a gradient color shading for the texture
+		"SetGradientAlpha", -- Sets a gradient color shading and their opacity values for the texture
+		"SetHeight", -- Sets the region's height
+		"SetHorizTile", -- Sets horizontal tiling behaviour for the texture
+		"SetIgnoreParentAlpha", -- Sets if the region should ignore it's parent alpha changes
+		"SetIgnoreParentScale", -- Sets if the region should ignore it's parent scale changes
+		"SetMask", -- Applies alpha channel from one texture to another texture
+		"SetNonBlocking", -- Sets whether the texture object loads it's image file in the background
+		"SetParent", -- Sets another frame the parent of this region
+		"SetPoint", -- Sets an anchor point for the region
+		"SetRotation", -- Rotates the texture image
+		"SetShown", -- Sets whether the region should be visible or hidden
+		"SetSize", -- Sets the size of the region to the specified values
+		"SetTexCoord", -- Sets corner coordinates for scaling or cropping the texture image
+		"SetTexture", -- Sets the texture object's image
+		"SetVertexColor", -- Sets a color shading for the region's graphics
+		"SetVertexOffset", -- Sets the offset parameters for the texture's shading color
+		"SetVertTile", -- Sets the vertical tiling behaviour for the texture
+		"SetWidth", -- Sets the region's width
+		"Show", -- Shows the region
+		"StopAnimating", -- Stops any active animations involving the region or it's children
 	},
 }]]></content>
 	<tabTrigger>_MaskTexture</tabTrigger>

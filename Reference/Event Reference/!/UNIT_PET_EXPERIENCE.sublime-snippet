@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UNIT_PET_EXPERIENCE]]></content>
-	<tabTrigger>UNIT_PET_EXPERIENCE</tabTrigger>
-	<description>"event"</description>
-	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
-</snippet>

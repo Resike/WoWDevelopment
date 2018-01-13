@@ -2,5 +2,5 @@
 	<content><![CDATA[SIMPLE_BROWSER_WEB_PROXY_FAILED]]></content>
 	<tabTrigger>SIMPLE_BROWSER_WEB_PROXY_FAILED</tabTrigger>
 	<description>"event"</description>
-	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate</scope>
 </snippet>

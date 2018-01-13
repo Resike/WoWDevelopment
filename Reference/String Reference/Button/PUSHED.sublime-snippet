@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PUSHED]]></content>
+	<tabTrigger>PUSHED</tabTrigger>
+	<description>"state"</description>
+	<scope>source.lua string.buttonstate</scope>
+</snippet>

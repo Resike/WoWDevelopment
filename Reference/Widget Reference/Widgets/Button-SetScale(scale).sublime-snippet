@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:Button}:SetScale(${2:scale})$0]]></content>
+	<tabTrigger>Button:SetScale</tabTrigger>
+	<description>(scale)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

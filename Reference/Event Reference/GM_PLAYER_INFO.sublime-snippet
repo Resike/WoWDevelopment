@@ -2,5 +2,5 @@
 	<content><![CDATA[GM_PLAYER_INFO]]></content>
 	<tabTrigger>GM_PLAYER_INFO</tabTrigger>
 	<description>"event"</description>
-	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate</scope>
 </snippet>

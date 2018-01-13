@@ -2,5 +2,5 @@
 	<content><![CDATA[BN_CHAT_MSG_ADDON]]></content>
 	<tabTrigger>BN_CHAT_MSG_ADDON</tabTrigger>
 	<description>"event"</description>
-	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate</scope>
 </snippet>

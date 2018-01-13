@@ -59,7 +59,7 @@
 
 		{
 			"trigger": "_ParentedObject\thelp",
-			"contents": "ParentedObject = {\n\tinherits = {\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\tmethods = {\n\t\t\"GetDebugName\",\n\t\t\"GetName\",\n\t\t\"GetObjectType\",\n\t\t\"GetParent\",\n\t\t\"IsForbidden\",\n\t\t\"IsObjectType\",\n\t},\n}",
+			"contents": "ParentedObject = {\n\tinherits = {\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\tmethods = {\n\t\t\"GetDebugName\", -- Returns the widget object's debug name\n\t\t\"GetName\", -- Returns the widget object's name\n\t\t\"GetObjectType\", -- Returns the object's widget type\n\t\t\"GetParent\", -- Returns the object's parent object\n\t\t\"IsForbidden\", -- Returns if this widget's methods may only be called from secure execution paths\n\t\t\"IsObjectType\", -- Returns whether the object belongs to a given widget type\n\t},\n}",
 		},
 	]
 }

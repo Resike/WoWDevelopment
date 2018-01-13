@@ -2,5 +2,5 @@
 	<content><![CDATA[SPELL_PUSHED_TO_ACTIONBAR]]></content>
 	<tabTrigger>SPELL_PUSHED_TO_ACTIONBAR</tabTrigger>
 	<description>"event"</description>
-	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate</scope>
 </snippet>

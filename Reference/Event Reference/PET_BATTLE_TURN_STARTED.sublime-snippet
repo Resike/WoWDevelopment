@@ -2,5 +2,5 @@
 	<content><![CDATA[PET_BATTLE_TURN_STARTED]]></content>
 	<tabTrigger>PET_BATTLE_TURN_STARTED</tabTrigger>
 	<description>"event"</description>
-	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate</scope>
 </snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFG_PROPOSAL_UPDATE]]></content>
-	<tabTrigger>LFG_PROPOSAL_UPDATE</tabTrigger>
-	<description>"event"</description>
-	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
-</snippet>
