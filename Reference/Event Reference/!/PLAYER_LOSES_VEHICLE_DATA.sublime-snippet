@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PLAYER_LOSES_VEHICLE_DATA]]></content>
+	<tabTrigger>PLAYER_LOSES_VEHICLE_DATA</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
+</snippet>

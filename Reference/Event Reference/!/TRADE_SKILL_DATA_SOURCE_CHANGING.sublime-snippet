@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TRADE_SKILL_DATA_SOURCE_CHANGING]]></content>
+	<tabTrigger>TRADE_SKILL_DATA_SOURCE_CHANGING</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
+</snippet>

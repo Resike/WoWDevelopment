@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnButtonUpdate]]></content>
+	<tabTrigger>onbuttonupdate</tabTrigger>
+	<description>"scriptType"</description>
+	<scope>source.lua string.scripttype</scope>
+</snippet>

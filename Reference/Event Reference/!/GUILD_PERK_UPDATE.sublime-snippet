@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILD_PERK_UPDATE]]></content>
+	<tabTrigger>GUILD_PERK_UPDATE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
+</snippet>

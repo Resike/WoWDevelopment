@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ZONE_CHANGED_INDOORS]]></content>
+	<tabTrigger>ZONE_CHANGED_INDOORS</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
+</snippet>

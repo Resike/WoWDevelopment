@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnTooltipSetQuest]]></content>
+	<tabTrigger>ontooltipsetquest</tabTrigger>
+	<description>"scriptType"</description>
+	<scope>source.lua string.scripttype</scope>
+</snippet>

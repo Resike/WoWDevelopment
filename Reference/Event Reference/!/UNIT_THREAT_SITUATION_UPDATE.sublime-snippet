@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UNIT_THREAT_SITUATION_UPDATE]]></content>
+	<tabTrigger>UNIT_THREAT_SITUATION_UPDATE</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
+</snippet>

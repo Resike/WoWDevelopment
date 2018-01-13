@@ -278,13 +278,13 @@
 		<!-- Orientation types -->
 		<dict>
 			<key>match</key>
-			<string>([.:])\s*\b(SetGradient)\b\s*(\()\s*(['"](HORIZONTAL|VERTICAL|Horizontal|Vertical|horizontal|vertical)['"])</string>
+			<string>([.:])\s*\b(SetGradient|SetGradientAlpha)\b\s*(\()\s*(['"](HORIZONTAL|VERTICAL|Horizontal|Vertical|horizontal|vertical)['"])</string>
 			<key>captures</key>
 			<dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
-					<string>support.function.wow-api</string>
+					<string>support.type.widget-api.lua</string>
 				</dict>
 				<key>4</key>
 				<dict>
@@ -295,13 +295,13 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>([.:])\s*\b(SetGradient)\b\s*(\()\s*(['"](\w*)['"])</string>
+			<string>([.:])\s*\b(SetGradient|SetGradientAlpha)\b\s*(\()\s*(['"](\w*)['"])</string>
 			<key>captures</key>
 			<dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
-					<string>support.function.wow-api</string>
+					<string>support.type.widget-api.lua</string>
 				</dict>
 				<key>4</key>
 				<dict>

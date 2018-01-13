@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnFinished]]></content>
+	<tabTrigger>onfinished</tabTrigger>
+	<description>"scriptType"</description>
+	<scope>source.lua string.scripttype</scope>
+</snippet>

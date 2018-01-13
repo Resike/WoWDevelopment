@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnDragStop]]></content>
+	<tabTrigger>ondragstop</tabTrigger>
+	<description>"scriptType"</description>
+	<scope>source.lua string.scripttype</scope>
+</snippet>

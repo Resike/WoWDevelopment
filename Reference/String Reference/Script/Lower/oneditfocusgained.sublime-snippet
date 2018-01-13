@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnEditFocusGained]]></content>
+	<tabTrigger>oneditfocusgained</tabTrigger>
+	<description>"scriptType"</description>
+	<scope>source.lua string.scripttype</scope>
+</snippet>

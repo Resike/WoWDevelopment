@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnHide]]></content>
+	<tabTrigger>onhide</tabTrigger>
+	<description>"scriptType"</description>
+	<scope>source.lua string.scripttype</scope>
+</snippet>

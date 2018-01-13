@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ACTIVE_TALENT_GROUP_CHANGED]]></content>
+	<tabTrigger>ACTIVE_TALENT_GROUP_CHANGED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
+</snippet>

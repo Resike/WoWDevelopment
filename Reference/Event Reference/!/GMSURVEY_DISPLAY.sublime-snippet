@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GMSURVEY_DISPLAY]]></content>
+	<tabTrigger>GMSURVEY_DISPLAY</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
+</snippet>

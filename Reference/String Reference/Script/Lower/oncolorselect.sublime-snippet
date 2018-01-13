@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnColorSelect]]></content>
+	<tabTrigger>oncolorselect</tabTrigger>
+	<description>"scriptType"</description>
+	<scope>source.lua string.scripttype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnMovieShowSubtitle]]></content>
+	<tabTrigger>onmovieshowsubtitle</tabTrigger>
+	<description>"scriptType"</description>
+	<scope>source.lua string.scripttype</scope>
+</snippet>

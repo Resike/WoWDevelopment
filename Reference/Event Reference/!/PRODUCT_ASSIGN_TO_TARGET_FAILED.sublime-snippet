@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PRODUCT_ASSIGN_TO_TARGET_FAILED]]></content>
+	<tabTrigger>PRODUCT_ASSIGN_TO_TARGET_FAILED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
+</snippet>

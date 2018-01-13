@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnError]]></content>
+	<tabTrigger>onerror</tabTrigger>
+	<description>"scriptType"</description>
+	<scope>source.lua string.scripttype</scope>
+</snippet>

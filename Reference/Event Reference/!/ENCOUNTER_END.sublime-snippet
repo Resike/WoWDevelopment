@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ENCOUNTER_END]]></content>
+	<tabTrigger>ENCOUNTER_END</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
+</snippet>

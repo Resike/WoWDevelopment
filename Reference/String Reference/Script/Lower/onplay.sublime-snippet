@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnPlay]]></content>
+	<tabTrigger>onplay</tabTrigger>
+	<description>"scriptType"</description>
+	<scope>source.lua string.scripttype</scope>
+</snippet>

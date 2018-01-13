@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnArrowPressed]]></content>
+	<tabTrigger>onarrowpressed</tabTrigger>
+	<description>"scriptType"</description>
+	<scope>source.lua string.scripttype</scope>
+</snippet>

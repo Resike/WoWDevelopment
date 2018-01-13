@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnScrollRangeChanged]]></content>
+	<tabTrigger>onscrollrangechanged</tabTrigger>
+	<description>"scriptType"</description>
+	<scope>source.lua string.scripttype</scope>
+</snippet>

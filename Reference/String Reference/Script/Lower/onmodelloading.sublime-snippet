@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnModelLoading]]></content>
+	<tabTrigger>onmodelloading</tabTrigger>
+	<description>"scriptType"</description>
+	<scope>source.lua string.scripttype</scope>
+</snippet>

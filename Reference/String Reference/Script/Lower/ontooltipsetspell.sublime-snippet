@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnTooltipSetSpell]]></content>
+	<tabTrigger>ontooltipsetspell</tabTrigger>
+	<description>"scriptType"</description>
+	<scope>source.lua string.scripttype</scope>
+</snippet>

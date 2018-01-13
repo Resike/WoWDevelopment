@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RECRUIT_A_FRIEND_SYSTEM_STATUS]]></content>
+	<tabTrigger>RECRUIT_A_FRIEND_SYSTEM_STATUS</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype</scope>
+</snippet>

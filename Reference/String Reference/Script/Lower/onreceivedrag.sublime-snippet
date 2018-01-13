@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnReceiveDrag]]></content>
+	<tabTrigger>onreceivedrag</tabTrigger>
+	<description>"scriptType"</description>
+	<scope>source.lua string.scripttype</scope>
+</snippet>
