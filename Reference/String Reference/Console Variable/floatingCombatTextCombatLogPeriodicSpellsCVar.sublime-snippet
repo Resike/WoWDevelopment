@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[floatingCombatTextCombatLogPeriodicSpells]]></content>
+	<tabTrigger>floatingCombatTextCombatLogPeriodicSpells</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

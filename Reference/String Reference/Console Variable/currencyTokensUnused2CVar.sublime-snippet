@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[currencyTokensUnused2]]></content>
+	<tabTrigger>currencyTokensUnused2</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

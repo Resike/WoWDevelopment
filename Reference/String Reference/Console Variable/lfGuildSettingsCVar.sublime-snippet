@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[lfGuildSettings]]></content>
+	<tabTrigger>lfGuildSettings</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnitNameHostleNPC]]></content>
+	<tabTrigger>UnitNameHostleNPC</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[gxFullscreenResolution]]></content>
+	<tabTrigger>gxFullscreenResolution</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

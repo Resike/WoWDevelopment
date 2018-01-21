@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[gxStereoEnabled]]></content>
+	<tabTrigger>gxStereoEnabled</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[trackedWorldQuests]]></content>
+	<tabTrigger>trackedWorldQuests</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[graphicsSSAO]]></content>
+	<tabTrigger>graphicsSSAO</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

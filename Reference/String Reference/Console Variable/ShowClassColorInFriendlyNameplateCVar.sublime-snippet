@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShowClassColorInFriendlyNameplate]]></content>
+	<tabTrigger>ShowClassColorInFriendlyNameplate</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

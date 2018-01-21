@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[gxAdapter]]></content>
+	<tabTrigger>gxAdapter</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

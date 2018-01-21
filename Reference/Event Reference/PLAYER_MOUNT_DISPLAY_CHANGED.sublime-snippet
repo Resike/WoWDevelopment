@@ -2,5 +2,5 @@
 	<content><![CDATA[PLAYER_MOUNT_DISPLAY_CHANGED]]></content>
 	<tabTrigger>PLAYER_MOUNT_DISPLAY_CHANGED</tabTrigger>
 	<description>"event"</description>
-	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate</scope>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate - string.cvartype</scope>
 </snippet>

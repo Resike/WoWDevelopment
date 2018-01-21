@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[autoClearAFK]]></content>
+	<tabTrigger>autoClearAFK</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

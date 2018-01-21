@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[lastCharacterIndex]]></content>
+	<tabTrigger>lastCharacterIndex</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cameraTerrainTiltSmarterFearDelay]]></content>
+	<tabTrigger>cameraTerrainTiltSmarterFearDelay</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

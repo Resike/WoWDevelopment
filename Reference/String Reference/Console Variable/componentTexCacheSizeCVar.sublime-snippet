@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[componentTexCacheSize]]></content>
+	<tabTrigger>componentTexCacheSize</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

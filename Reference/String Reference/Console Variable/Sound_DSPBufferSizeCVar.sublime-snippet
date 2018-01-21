@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Sound_DSPBufferSize]]></content>
+	<tabTrigger>Sound_DSPBufferSize</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

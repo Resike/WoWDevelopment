@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[showTargetOfTarget]]></content>
+	<tabTrigger>showTargetOfTarget</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

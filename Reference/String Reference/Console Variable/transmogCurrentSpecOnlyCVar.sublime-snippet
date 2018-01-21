@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[transmogCurrentSpecOnly]]></content>
+	<tabTrigger>transmogCurrentSpecOnly</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[worldQuestFilterArtifactPower]]></content>
+	<tabTrigger>worldQuestFilterArtifactPower</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

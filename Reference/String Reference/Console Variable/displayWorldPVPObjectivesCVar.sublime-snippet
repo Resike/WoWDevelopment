@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[displayWorldPVPObjectives]]></content>
+	<tabTrigger>displayWorldPVPObjectives</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

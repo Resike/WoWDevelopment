@@ -1,0 +1,4257 @@
+{
+	"scope": "source.lua string.cvartype",
+	"completions": [
+		{
+			"trigger": "ActionButtonUseKeyDown\t\"CVar\"",
+			"contents": "ActionButtonUseKeyDown",
+		},
+		{
+			"trigger": "actionedAdventureJournalEntries\t\"CVar\"",
+			"contents": "actionedAdventureJournalEntries",
+		},
+		{
+			"trigger": "activeCUFProfile\t\"CVar\"",
+			"contents": "activeCUFProfile",
+		},
+		{
+			"trigger": "addFriendInfoShown\t\"CVar\"",
+			"contents": "addFriendInfoShown",
+		},
+		{
+			"trigger": "advancedCombatLogging\t\"CVar\"",
+			"contents": "advancedCombatLogging",
+		},
+		{
+			"trigger": "advancedWatchFrame\t\"CVar\"",
+			"contents": "advancedWatchFrame",
+		},
+		{
+			"trigger": "advJournalLastOpened\t\"CVar\"",
+			"contents": "advJournalLastOpened",
+		},
+		{
+			"trigger": "agentUID\t\"CVar\"",
+			"contents": "agentUID",
+		},
+		{
+			"trigger": "AimingStrafeLeftUsesMoveBackwards\t\"CVar\"",
+			"contents": "AimingStrafeLeftUsesMoveBackwards",
+		},
+		{
+			"trigger": "allowCompareWithToggle\t\"CVar\"",
+			"contents": "allowCompareWithToggle",
+		},
+		{
+			"trigger": "allowD3D9BackingStore\t\"CVar\"",
+			"contents": "allowD3D9BackingStore",
+		},
+		{
+			"trigger": "alwaysCompareItems\t\"CVar\"",
+			"contents": "alwaysCompareItems",
+		},
+		{
+			"trigger": "alwaysShowActionBars\t\"CVar\"",
+			"contents": "alwaysShowActionBars",
+		},
+		{
+			"trigger": "animFrameSkipLOD\t\"CVar\"",
+			"contents": "animFrameSkipLOD",
+		},
+		{
+			"trigger": "assistAttack\t\"CVar\"",
+			"contents": "assistAttack",
+		},
+		{
+			"trigger": "asyncHandlerTimeout\t\"CVar\"",
+			"contents": "asyncHandlerTimeout",
+		},
+		{
+			"trigger": "asyncThreadSleep\t\"CVar\"",
+			"contents": "asyncThreadSleep",
+		},
+		{
+			"trigger": "auctionDisplayOnCharacter\t\"CVar\"",
+			"contents": "auctionDisplayOnCharacter",
+		},
+		{
+			"trigger": "audioLocale\t\"CVar\"",
+			"contents": "audioLocale",
+		},
+		{
+			"trigger": "autoAcceptQuickJoinRequests\t\"CVar\"",
+			"contents": "autoAcceptQuickJoinRequests",
+		},
+		{
+			"trigger": "autoClearAFK\t\"CVar\"",
+			"contents": "autoClearAFK",
+		},
+		{
+			"trigger": "autoCompleteResortNamesOnRecency\t\"CVar\"",
+			"contents": "autoCompleteResortNamesOnRecency",
+		},
+		{
+			"trigger": "autoCompleteUseContext\t\"CVar\"",
+			"contents": "autoCompleteUseContext",
+		},
+		{
+			"trigger": "autoCompleteWhenEditingFromCenter\t\"CVar\"",
+			"contents": "autoCompleteWhenEditingFromCenter",
+		},
+		{
+			"trigger": "autoDismount\t\"CVar\"",
+			"contents": "autoDismount",
+		},
+		{
+			"trigger": "autoDismountFlying\t\"CVar\"",
+			"contents": "autoDismountFlying",
+		},
+		{
+			"trigger": "autoFilledMultiCastSlots\t\"CVar\"",
+			"contents": "autoFilledMultiCastSlots",
+		},
+		{
+			"trigger": "autoInteract\t\"CVar\"",
+			"contents": "autoInteract",
+		},
+		{
+			"trigger": "autojoinBGVoice\t\"CVar\"",
+			"contents": "autojoinBGVoice",
+		},
+		{
+			"trigger": "autojoinPartyVoice\t\"CVar\"",
+			"contents": "autojoinPartyVoice",
+		},
+		{
+			"trigger": "autoLootDefault\t\"CVar\"",
+			"contents": "autoLootDefault",
+		},
+		{
+			"trigger": "autoLootRate\t\"CVar\"",
+			"contents": "autoLootRate",
+		},
+		{
+			"trigger": "autoOpenLootHistory\t\"CVar\"",
+			"contents": "autoOpenLootHistory",
+		},
+		{
+			"trigger": "autoQuestPopUps\t\"CVar\"",
+			"contents": "autoQuestPopUps",
+		},
+		{
+			"trigger": "autoQuestProgress\t\"CVar\"",
+			"contents": "autoQuestProgress",
+		},
+		{
+			"trigger": "autoQuestWatch\t\"CVar\"",
+			"contents": "autoQuestWatch",
+		},
+		{
+			"trigger": "autoSelfCast\t\"CVar\"",
+			"contents": "autoSelfCast",
+		},
+		{
+			"trigger": "autoStand\t\"CVar\"",
+			"contents": "autoStand",
+		},
+		{
+			"trigger": "autoUnshift\t\"CVar\"",
+			"contents": "autoUnshift",
+		},
+		{
+			"trigger": "blockChannelInvites\t\"CVar\"",
+			"contents": "blockChannelInvites",
+		},
+		{
+			"trigger": "blockTrades\t\"CVar\"",
+			"contents": "blockTrades",
+		},
+		{
+			"trigger": "bodyQuota\t\"CVar\"",
+			"contents": "bodyQuota",
+		},
+		{
+			"trigger": "breakUpLargeNumbers\t\"CVar\"",
+			"contents": "breakUpLargeNumbers",
+		},
+		{
+			"trigger": "BrowserNavigateLog\t\"CVar\"",
+			"contents": "BrowserNavigateLog",
+		},
+		{
+			"trigger": "bspcache\t\"CVar\"",
+			"contents": "bspcache",
+		},
+		{
+			"trigger": "buffDurations\t\"CVar\"",
+			"contents": "buffDurations",
+		},
+		{
+			"trigger": "calendarShowBattlegrounds\t\"CVar\"",
+			"contents": "calendarShowBattlegrounds",
+		},
+		{
+			"trigger": "calendarShowDarkmoon\t\"CVar\"",
+			"contents": "calendarShowDarkmoon",
+		},
+		{
+			"trigger": "calendarShowLockouts\t\"CVar\"",
+			"contents": "calendarShowLockouts",
+		},
+		{
+			"trigger": "calendarShowResets\t\"CVar\"",
+			"contents": "calendarShowResets",
+		},
+		{
+			"trigger": "calendarShowWeeklyHolidays\t\"CVar\"",
+			"contents": "calendarShowWeeklyHolidays",
+		},
+		{
+			"trigger": "cameraBobbing\t\"CVar\"",
+			"contents": "cameraBobbing",
+		},
+		{
+			"trigger": "cameraBobbingSmoothSpeed\t\"CVar\"",
+			"contents": "cameraBobbingSmoothSpeed",
+		},
+		{
+			"trigger": "cameraCustomViewSmoothing\t\"CVar\"",
+			"contents": "cameraCustomViewSmoothing",
+		},
+		{
+			"trigger": "cameraDistanceMaxZoomFactor\t\"CVar\"",
+			"contents": "cameraDistanceMaxZoomFactor",
+		},
+		{
+			"trigger": "cameraDistanceRateMult\t\"CVar\"",
+			"contents": "cameraDistanceRateMult",
+		},
+		{
+			"trigger": "cameraDive\t\"CVar\"",
+			"contents": "cameraDive",
+		},
+		{
+			"trigger": "cameraFoVSmoothSpeed\t\"CVar\"",
+			"contents": "cameraFoVSmoothSpeed",
+		},
+		{
+			"trigger": "cameraGroundSmoothSpeed\t\"CVar\"",
+			"contents": "cameraGroundSmoothSpeed",
+		},
+		{
+			"trigger": "cameraHeightIgnoreStandState\t\"CVar\"",
+			"contents": "cameraHeightIgnoreStandState",
+		},
+		{
+			"trigger": "cameraPitchMoveSpeed\t\"CVar\"",
+			"contents": "cameraPitchMoveSpeed",
+		},
+		{
+			"trigger": "cameraPitchSmoothMax\t\"CVar\"",
+			"contents": "cameraPitchSmoothMax",
+		},
+		{
+			"trigger": "cameraPitchSmoothMin\t\"CVar\"",
+			"contents": "cameraPitchSmoothMin",
+		},
+		{
+			"trigger": "cameraPitchSmoothSpeed\t\"CVar\"",
+			"contents": "cameraPitchSmoothSpeed",
+		},
+		{
+			"trigger": "cameraPivot\t\"CVar\"",
+			"contents": "cameraPivot",
+		},
+		{
+			"trigger": "cameraPivotDXMax\t\"CVar\"",
+			"contents": "cameraPivotDXMax",
+		},
+		{
+			"trigger": "cameraPivotDYMin\t\"CVar\"",
+			"contents": "cameraPivotDYMin",
+		},
+		{
+			"trigger": "cameraSavedDistance\t\"CVar\"",
+			"contents": "cameraSavedDistance",
+		},
+		{
+			"trigger": "cameraSavedPetBattleDistance\t\"CVar\"",
+			"contents": "cameraSavedPetBattleDistance",
+		},
+		{
+			"trigger": "cameraSavedPitch\t\"CVar\"",
+			"contents": "cameraSavedPitch",
+		},
+		{
+			"trigger": "cameraSavedVehicleDistance\t\"CVar\"",
+			"contents": "cameraSavedVehicleDistance",
+		},
+		{
+			"trigger": "cameraSmooth\t\"CVar\"",
+			"contents": "cameraSmooth",
+		},
+		{
+			"trigger": "cameraSmoothAlwaysFearDelay\t\"CVar\"",
+			"contents": "cameraSmoothAlwaysFearDelay",
+		},
+		{
+			"trigger": "cameraSmoothAlwaysFearFactor\t\"CVar\"",
+			"contents": "cameraSmoothAlwaysFearFactor",
+		},
+		{
+			"trigger": "cameraSmoothAlwaysIdleDelay\t\"CVar\"",
+			"contents": "cameraSmoothAlwaysIdleDelay",
+		},
+		{
+			"trigger": "cameraSmoothAlwaysIdleFactor\t\"CVar\"",
+			"contents": "cameraSmoothAlwaysIdleFactor",
+		},
+		{
+			"trigger": "cameraSmoothAlwaysMoveDelay\t\"CVar\"",
+			"contents": "cameraSmoothAlwaysMoveDelay",
+		},
+		{
+			"trigger": "cameraSmoothAlwaysMoveFactor\t\"CVar\"",
+			"contents": "cameraSmoothAlwaysMoveFactor",
+		},
+		{
+			"trigger": "cameraSmoothAlwaysStopDelay\t\"CVar\"",
+			"contents": "cameraSmoothAlwaysStopDelay",
+		},
+		{
+			"trigger": "cameraSmoothAlwaysStopFactor\t\"CVar\"",
+			"contents": "cameraSmoothAlwaysStopFactor",
+		},
+		{
+			"trigger": "cameraSmoothAlwaysStrafeDelay\t\"CVar\"",
+			"contents": "cameraSmoothAlwaysStrafeDelay",
+		},
+		{
+			"trigger": "cameraSmoothAlwaysStrafeFactor\t\"CVar\"",
+			"contents": "cameraSmoothAlwaysStrafeFactor",
+		},
+		{
+			"trigger": "cameraSmoothAlwaysTrackDelay\t\"CVar\"",
+			"contents": "cameraSmoothAlwaysTrackDelay",
+		},
+		{
+			"trigger": "cameraSmoothAlwaysTrackFactor\t\"CVar\"",
+			"contents": "cameraSmoothAlwaysTrackFactor",
+		},
+		{
+			"trigger": "cameraSmoothAlwaysTurnDelay\t\"CVar\"",
+			"contents": "cameraSmoothAlwaysTurnDelay",
+		},
+		{
+			"trigger": "cameraSmoothAlwaysTurnFactor\t\"CVar\"",
+			"contents": "cameraSmoothAlwaysTurnFactor",
+		},
+		{
+			"trigger": "cameraSmoothNeverFearDelay\t\"CVar\"",
+			"contents": "cameraSmoothNeverFearDelay",
+		},
+		{
+			"trigger": "cameraSmoothNeverFearFactor\t\"CVar\"",
+			"contents": "cameraSmoothNeverFearFactor",
+		},
+		{
+			"trigger": "cameraSmoothNeverIdleDelay\t\"CVar\"",
+			"contents": "cameraSmoothNeverIdleDelay",
+		},
+		{
+			"trigger": "cameraSmoothNeverIdleFactor\t\"CVar\"",
+			"contents": "cameraSmoothNeverIdleFactor",
+		},
+		{
+			"trigger": "cameraSmoothNeverMoveDelay\t\"CVar\"",
+			"contents": "cameraSmoothNeverMoveDelay",
+		},
+		{
+			"trigger": "cameraSmoothNeverMoveFactor\t\"CVar\"",
+			"contents": "cameraSmoothNeverMoveFactor",
+		},
+		{
+			"trigger": "cameraSmoothNeverStopDelay\t\"CVar\"",
+			"contents": "cameraSmoothNeverStopDelay",
+		},
+		{
+			"trigger": "cameraSmoothNeverStopFactor\t\"CVar\"",
+			"contents": "cameraSmoothNeverStopFactor",
+		},
+		{
+			"trigger": "cameraSmoothNeverStrafeDelay\t\"CVar\"",
+			"contents": "cameraSmoothNeverStrafeDelay",
+		},
+		{
+			"trigger": "cameraSmoothNeverStrafeFactor\t\"CVar\"",
+			"contents": "cameraSmoothNeverStrafeFactor",
+		},
+		{
+			"trigger": "cameraSmoothNeverTrackDelay\t\"CVar\"",
+			"contents": "cameraSmoothNeverTrackDelay",
+		},
+		{
+			"trigger": "cameraSmoothNeverTrackFactor\t\"CVar\"",
+			"contents": "cameraSmoothNeverTrackFactor",
+		},
+		{
+			"trigger": "cameraSmoothNeverTurnDelay\t\"CVar\"",
+			"contents": "cameraSmoothNeverTurnDelay",
+		},
+		{
+			"trigger": "cameraSmoothNeverTurnFactor\t\"CVar\"",
+			"contents": "cameraSmoothNeverTurnFactor",
+		},
+		{
+			"trigger": "cameraSmoothPitch\t\"CVar\"",
+			"contents": "cameraSmoothPitch",
+		},
+		{
+			"trigger": "cameraSmoothSmarterFearDelay\t\"CVar\"",
+			"contents": "cameraSmoothSmarterFearDelay",
+		},
+		{
+			"trigger": "cameraSmoothSmarterFearFactor\t\"CVar\"",
+			"contents": "cameraSmoothSmarterFearFactor",
+		},
+		{
+			"trigger": "cameraSmoothSmarterIdleDelay\t\"CVar\"",
+			"contents": "cameraSmoothSmarterIdleDelay",
+		},
+		{
+			"trigger": "cameraSmoothSmarterIdleFactor\t\"CVar\"",
+			"contents": "cameraSmoothSmarterIdleFactor",
+		},
+		{
+			"trigger": "cameraSmoothSmarterMoveDelay\t\"CVar\"",
+			"contents": "cameraSmoothSmarterMoveDelay",
+		},
+		{
+			"trigger": "cameraSmoothSmarterMoveFactor\t\"CVar\"",
+			"contents": "cameraSmoothSmarterMoveFactor",
+		},
+		{
+			"trigger": "cameraSmoothSmarterStopDelay\t\"CVar\"",
+			"contents": "cameraSmoothSmarterStopDelay",
+		},
+		{
+			"trigger": "cameraSmoothSmarterStopFactor\t\"CVar\"",
+			"contents": "cameraSmoothSmarterStopFactor",
+		},
+		{
+			"trigger": "cameraSmoothSmarterStrafeDelay\t\"CVar\"",
+			"contents": "cameraSmoothSmarterStrafeDelay",
+		},
+		{
+			"trigger": "cameraSmoothSmarterStrafeFactor\t\"CVar\"",
+			"contents": "cameraSmoothSmarterStrafeFactor",
+		},
+		{
+			"trigger": "cameraSmoothSmarterTrackDelay\t\"CVar\"",
+			"contents": "cameraSmoothSmarterTrackDelay",
+		},
+		{
+			"trigger": "cameraSmoothSmarterTrackFactor\t\"CVar\"",
+			"contents": "cameraSmoothSmarterTrackFactor",
+		},
+		{
+			"trigger": "cameraSmoothSmarterTurnDelay\t\"CVar\"",
+			"contents": "cameraSmoothSmarterTurnDelay",
+		},
+		{
+			"trigger": "cameraSmoothSmarterTurnFactor\t\"CVar\"",
+			"contents": "cameraSmoothSmarterTurnFactor",
+		},
+		{
+			"trigger": "cameraSmoothSmartFearDelay\t\"CVar\"",
+			"contents": "cameraSmoothSmartFearDelay",
+		},
+		{
+			"trigger": "cameraSmoothSmartFearFactor\t\"CVar\"",
+			"contents": "cameraSmoothSmartFearFactor",
+		},
+		{
+			"trigger": "cameraSmoothSmartIdleDelay\t\"CVar\"",
+			"contents": "cameraSmoothSmartIdleDelay",
+		},
+		{
+			"trigger": "cameraSmoothSmartIdleFactor\t\"CVar\"",
+			"contents": "cameraSmoothSmartIdleFactor",
+		},
+		{
+			"trigger": "cameraSmoothSmartMoveDelay\t\"CVar\"",
+			"contents": "cameraSmoothSmartMoveDelay",
+		},
+		{
+			"trigger": "cameraSmoothSmartMoveFactor\t\"CVar\"",
+			"contents": "cameraSmoothSmartMoveFactor",
+		},
+		{
+			"trigger": "cameraSmoothSmartStopDelay\t\"CVar\"",
+			"contents": "cameraSmoothSmartStopDelay",
+		},
+		{
+			"trigger": "cameraSmoothSmartStopFactor\t\"CVar\"",
+			"contents": "cameraSmoothSmartStopFactor",
+		},
+		{
+			"trigger": "cameraSmoothSmartStrafeDelay\t\"CVar\"",
+			"contents": "cameraSmoothSmartStrafeDelay",
+		},
+		{
+			"trigger": "cameraSmoothSmartStrafeFactor\t\"CVar\"",
+			"contents": "cameraSmoothSmartStrafeFactor",
+		},
+		{
+			"trigger": "cameraSmoothSmartTrackDelay\t\"CVar\"",
+			"contents": "cameraSmoothSmartTrackDelay",
+		},
+		{
+			"trigger": "cameraSmoothSmartTrackFactor\t\"CVar\"",
+			"contents": "cameraSmoothSmartTrackFactor",
+		},
+		{
+			"trigger": "cameraSmoothSmartTurnDelay\t\"CVar\"",
+			"contents": "cameraSmoothSmartTurnDelay",
+		},
+		{
+			"trigger": "cameraSmoothSmartTurnFactor\t\"CVar\"",
+			"contents": "cameraSmoothSmartTurnFactor",
+		},
+		{
+			"trigger": "cameraSmoothSplineFearDelay\t\"CVar\"",
+			"contents": "cameraSmoothSplineFearDelay",
+		},
+		{
+			"trigger": "cameraSmoothSplineFearFactor\t\"CVar\"",
+			"contents": "cameraSmoothSplineFearFactor",
+		},
+		{
+			"trigger": "cameraSmoothSplineIdleDelay\t\"CVar\"",
+			"contents": "cameraSmoothSplineIdleDelay",
+		},
+		{
+			"trigger": "cameraSmoothSplineIdleFactor\t\"CVar\"",
+			"contents": "cameraSmoothSplineIdleFactor",
+		},
+		{
+			"trigger": "cameraSmoothSplineMoveDelay\t\"CVar\"",
+			"contents": "cameraSmoothSplineMoveDelay",
+		},
+		{
+			"trigger": "cameraSmoothSplineMoveFactor\t\"CVar\"",
+			"contents": "cameraSmoothSplineMoveFactor",
+		},
+		{
+			"trigger": "cameraSmoothSplineStopDelay\t\"CVar\"",
+			"contents": "cameraSmoothSplineStopDelay",
+		},
+		{
+			"trigger": "cameraSmoothSplineStopFactor\t\"CVar\"",
+			"contents": "cameraSmoothSplineStopFactor",
+		},
+		{
+			"trigger": "cameraSmoothSplineStrafeDelay\t\"CVar\"",
+			"contents": "cameraSmoothSplineStrafeDelay",
+		},
+		{
+			"trigger": "cameraSmoothSplineStrafeFactor\t\"CVar\"",
+			"contents": "cameraSmoothSplineStrafeFactor",
+		},
+		{
+			"trigger": "cameraSmoothSplineTrackDelay\t\"CVar\"",
+			"contents": "cameraSmoothSplineTrackDelay",
+		},
+		{
+			"trigger": "cameraSmoothSplineTrackFactor\t\"CVar\"",
+			"contents": "cameraSmoothSplineTrackFactor",
+		},
+		{
+			"trigger": "cameraSmoothSplineTurnDelay\t\"CVar\"",
+			"contents": "cameraSmoothSplineTurnDelay",
+		},
+		{
+			"trigger": "cameraSmoothSplineTurnFactor\t\"CVar\"",
+			"contents": "cameraSmoothSplineTurnFactor",
+		},
+		{
+			"trigger": "cameraSmoothStyle\t\"CVar\"",
+			"contents": "cameraSmoothStyle",
+		},
+		{
+			"trigger": "cameraSmoothTimeMax\t\"CVar\"",
+			"contents": "cameraSmoothTimeMax",
+		},
+		{
+			"trigger": "cameraSmoothTimeMin\t\"CVar\"",
+			"contents": "cameraSmoothTimeMin",
+		},
+		{
+			"trigger": "cameraSmoothTrackingStyle\t\"CVar\"",
+			"contents": "cameraSmoothTrackingStyle",
+		},
+		{
+			"trigger": "cameraSmoothViewDataAlwaysDistanceDelay\t\"CVar\"",
+			"contents": "cameraSmoothViewDataAlwaysDistanceDelay",
+		},
+		{
+			"trigger": "cameraSmoothViewDataAlwaysDistanceFactor\t\"CVar\"",
+			"contents": "cameraSmoothViewDataAlwaysDistanceFactor",
+		},
+		{
+			"trigger": "cameraSmoothViewDataAlwaysPitchDelay\t\"CVar\"",
+			"contents": "cameraSmoothViewDataAlwaysPitchDelay",
+		},
+		{
+			"trigger": "cameraSmoothViewDataAlwaysPitchFactor\t\"CVar\"",
+			"contents": "cameraSmoothViewDataAlwaysPitchFactor",
+		},
+		{
+			"trigger": "cameraSmoothViewDataAlwaysYawDelay\t\"CVar\"",
+			"contents": "cameraSmoothViewDataAlwaysYawDelay",
+		},
+		{
+			"trigger": "cameraSmoothViewDataAlwaysYawFactor\t\"CVar\"",
+			"contents": "cameraSmoothViewDataAlwaysYawFactor",
+		},
+		{
+			"trigger": "cameraSmoothViewDataNeverDistanceDelay\t\"CVar\"",
+			"contents": "cameraSmoothViewDataNeverDistanceDelay",
+		},
+		{
+			"trigger": "cameraSmoothViewDataNeverDistanceFactor\t\"CVar\"",
+			"contents": "cameraSmoothViewDataNeverDistanceFactor",
+		},
+		{
+			"trigger": "cameraSmoothViewDataNeverPitchDelay\t\"CVar\"",
+			"contents": "cameraSmoothViewDataNeverPitchDelay",
+		},
+		{
+			"trigger": "cameraSmoothViewDataNeverPitchFactor\t\"CVar\"",
+			"contents": "cameraSmoothViewDataNeverPitchFactor",
+		},
+		{
+			"trigger": "cameraSmoothViewDataNeverYawDelay\t\"CVar\"",
+			"contents": "cameraSmoothViewDataNeverYawDelay",
+		},
+		{
+			"trigger": "cameraSmoothViewDataNeverYawFactor\t\"CVar\"",
+			"contents": "cameraSmoothViewDataNeverYawFactor",
+		},
+		{
+			"trigger": "cameraSmoothViewDataSmartDistanceDelay\t\"CVar\"",
+			"contents": "cameraSmoothViewDataSmartDistanceDelay",
+		},
+		{
+			"trigger": "cameraSmoothViewDataSmartDistanceFactor\t\"CVar\"",
+			"contents": "cameraSmoothViewDataSmartDistanceFactor",
+		},
+		{
+			"trigger": "cameraSmoothViewDataSmarterDistanceDelay\t\"CVar\"",
+			"contents": "cameraSmoothViewDataSmarterDistanceDelay",
+		},
+		{
+			"trigger": "cameraSmoothViewDataSmarterDistanceFactor\t\"CVar\"",
+			"contents": "cameraSmoothViewDataSmarterDistanceFactor",
+		},
+		{
+			"trigger": "cameraSmoothViewDataSmarterPitchDelay\t\"CVar\"",
+			"contents": "cameraSmoothViewDataSmarterPitchDelay",
+		},
+		{
+			"trigger": "cameraSmoothViewDataSmarterPitchFactor\t\"CVar\"",
+			"contents": "cameraSmoothViewDataSmarterPitchFactor",
+		},
+		{
+			"trigger": "cameraSmoothViewDataSmarterYawDelay\t\"CVar\"",
+			"contents": "cameraSmoothViewDataSmarterYawDelay",
+		},
+		{
+			"trigger": "cameraSmoothViewDataSmarterYawFactor\t\"CVar\"",
+			"contents": "cameraSmoothViewDataSmarterYawFactor",
+		},
+		{
+			"trigger": "cameraSmoothViewDataSmartPitchDelay\t\"CVar\"",
+			"contents": "cameraSmoothViewDataSmartPitchDelay",
+		},
+		{
+			"trigger": "cameraSmoothViewDataSmartPitchFactor\t\"CVar\"",
+			"contents": "cameraSmoothViewDataSmartPitchFactor",
+		},
+		{
+			"trigger": "cameraSmoothViewDataSmartYawDelay\t\"CVar\"",
+			"contents": "cameraSmoothViewDataSmartYawDelay",
+		},
+		{
+			"trigger": "cameraSmoothViewDataSmartYawFactor\t\"CVar\"",
+			"contents": "cameraSmoothViewDataSmartYawFactor",
+		},
+		{
+			"trigger": "cameraSmoothViewDataSplineDistanceDelay\t\"CVar\"",
+			"contents": "cameraSmoothViewDataSplineDistanceDelay",
+		},
+		{
+			"trigger": "cameraSmoothViewDataSplineDistanceFactor\t\"CVar\"",
+			"contents": "cameraSmoothViewDataSplineDistanceFactor",
+		},
+		{
+			"trigger": "cameraSmoothViewDataSplinePitchDelay\t\"CVar\"",
+			"contents": "cameraSmoothViewDataSplinePitchDelay",
+		},
+		{
+			"trigger": "cameraSmoothViewDataSplinePitchFactor\t\"CVar\"",
+			"contents": "cameraSmoothViewDataSplinePitchFactor",
+		},
+		{
+			"trigger": "cameraSmoothViewDataSplineYawDelay\t\"CVar\"",
+			"contents": "cameraSmoothViewDataSplineYawDelay",
+		},
+		{
+			"trigger": "cameraSmoothViewDataSplineYawFactor\t\"CVar\"",
+			"contents": "cameraSmoothViewDataSplineYawFactor",
+		},
+		{
+			"trigger": "cameraSmoothYaw\t\"CVar\"",
+			"contents": "cameraSmoothYaw",
+		},
+		{
+			"trigger": "cameraSubmergePitch\t\"CVar\"",
+			"contents": "cameraSubmergePitch",
+		},
+		{
+			"trigger": "cameraSurfacePitch\t\"CVar\"",
+			"contents": "cameraSurfacePitch",
+		},
+		{
+			"trigger": "cameraTargetSmoothSpeed\t\"CVar\"",
+			"contents": "cameraTargetSmoothSpeed",
+		},
+		{
+			"trigger": "cameraTerrainTilt\t\"CVar\"",
+			"contents": "cameraTerrainTilt",
+		},
+		{
+			"trigger": "cameraTerrainTiltAlwaysFallAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltAlwaysFallAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltAlwaysFallDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltAlwaysFallDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltAlwaysFallFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltAlwaysFallFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltAlwaysFearAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltAlwaysFearAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltAlwaysFearDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltAlwaysFearDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltAlwaysFearFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltAlwaysFearFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltAlwaysIdleAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltAlwaysIdleAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltAlwaysIdleDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltAlwaysIdleDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltAlwaysIdleFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltAlwaysIdleFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltAlwaysJumpAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltAlwaysJumpAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltAlwaysJumpDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltAlwaysJumpDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltAlwaysJumpFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltAlwaysJumpFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltAlwaysMoveAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltAlwaysMoveAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltAlwaysMoveDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltAlwaysMoveDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltAlwaysMoveFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltAlwaysMoveFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltAlwaysStrafeAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltAlwaysStrafeAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltAlwaysStrafeDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltAlwaysStrafeDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltAlwaysStrafeFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltAlwaysStrafeFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltAlwaysSwimAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltAlwaysSwimAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltAlwaysSwimDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltAlwaysSwimDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltAlwaysSwimFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltAlwaysSwimFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltAlwaysTaxiAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltAlwaysTaxiAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltAlwaysTaxiDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltAlwaysTaxiDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltAlwaysTaxiFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltAlwaysTaxiFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltAlwaysTrackAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltAlwaysTrackAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltAlwaysTrackDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltAlwaysTrackDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltAlwaysTrackFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltAlwaysTrackFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltAlwaysTurnAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltAlwaysTurnAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltAlwaysTurnDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltAlwaysTurnDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltAlwaysTurnFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltAlwaysTurnFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltNeverFallAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltNeverFallAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltNeverFallDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltNeverFallDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltNeverFallFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltNeverFallFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltNeverFearAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltNeverFearAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltNeverFearDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltNeverFearDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltNeverFearFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltNeverFearFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltNeverIdleAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltNeverIdleAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltNeverIdleDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltNeverIdleDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltNeverIdleFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltNeverIdleFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltNeverJumpAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltNeverJumpAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltNeverJumpDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltNeverJumpDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltNeverJumpFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltNeverJumpFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltNeverMoveAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltNeverMoveAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltNeverMoveDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltNeverMoveDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltNeverMoveFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltNeverMoveFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltNeverStrafeAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltNeverStrafeAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltNeverStrafeDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltNeverStrafeDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltNeverStrafeFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltNeverStrafeFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltNeverSwimAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltNeverSwimAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltNeverSwimDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltNeverSwimDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltNeverSwimFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltNeverSwimFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltNeverTaxiAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltNeverTaxiAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltNeverTaxiDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltNeverTaxiDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltNeverTaxiFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltNeverTaxiFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltNeverTrackAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltNeverTrackAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltNeverTrackDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltNeverTrackDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltNeverTrackFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltNeverTrackFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltNeverTurnAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltNeverTurnAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltNeverTurnDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltNeverTurnDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltNeverTurnFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltNeverTurnFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmarterFallAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmarterFallAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmarterFallDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmarterFallDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmarterFallFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmarterFallFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmarterFearAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmarterFearAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmarterFearDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmarterFearDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmarterFearFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmarterFearFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmarterIdleAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmarterIdleAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmarterIdleDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmarterIdleDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmarterIdleFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmarterIdleFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmarterJumpAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmarterJumpAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmarterJumpDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmarterJumpDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmarterJumpFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmarterJumpFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmarterMoveAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmarterMoveAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmarterMoveDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmarterMoveDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmarterMoveFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmarterMoveFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmarterStrafeAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmarterStrafeAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmarterStrafeDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmarterStrafeDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmarterStrafeFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmarterStrafeFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmarterSwimAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmarterSwimAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmarterSwimDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmarterSwimDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmarterSwimFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmarterSwimFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmarterTaxiAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmarterTaxiAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmarterTaxiDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmarterTaxiDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmarterTaxiFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmarterTaxiFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmarterTrackAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmarterTrackAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmarterTrackDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmarterTrackDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmarterTrackFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmarterTrackFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmarterTurnAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmarterTurnAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmarterTurnDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmarterTurnDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmarterTurnFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmarterTurnFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmartFallAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmartFallAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmartFallDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmartFallDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmartFallFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmartFallFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmartFearAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmartFearAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmartFearDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmartFearDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmartFearFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmartFearFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmartIdleAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmartIdleAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmartIdleDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmartIdleDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmartIdleFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmartIdleFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmartJumpAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmartJumpAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmartJumpDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmartJumpDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmartJumpFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmartJumpFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmartMoveAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmartMoveAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmartMoveDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmartMoveDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmartMoveFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmartMoveFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmartStrafeAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmartStrafeAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmartStrafeDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmartStrafeDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmartStrafeFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmartStrafeFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmartSwimAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmartSwimAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmartSwimDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmartSwimDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmartSwimFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmartSwimFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmartTaxiAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmartTaxiAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmartTaxiDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmartTaxiDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmartTaxiFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmartTaxiFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmartTrackAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmartTrackAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmartTrackDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmartTrackDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmartTrackFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmartTrackFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmartTurnAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmartTurnAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmartTurnDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmartTurnDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltSmartTurnFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltSmartTurnFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltSplineFallAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltSplineFallAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltSplineFallDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltSplineFallDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltSplineFallFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltSplineFallFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltSplineFearAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltSplineFearAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltSplineFearDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltSplineFearDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltSplineFearFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltSplineFearFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltSplineIdleAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltSplineIdleAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltSplineIdleDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltSplineIdleDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltSplineIdleFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltSplineIdleFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltSplineJumpAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltSplineJumpAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltSplineJumpDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltSplineJumpDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltSplineJumpFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltSplineJumpFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltSplineMoveAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltSplineMoveAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltSplineMoveDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltSplineMoveDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltSplineMoveFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltSplineMoveFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltSplineStrafeAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltSplineStrafeAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltSplineStrafeDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltSplineStrafeDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltSplineStrafeFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltSplineStrafeFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltSplineSwimAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltSplineSwimAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltSplineSwimDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltSplineSwimDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltSplineSwimFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltSplineSwimFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltSplineTaxiAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltSplineTaxiAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltSplineTaxiDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltSplineTaxiDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltSplineTaxiFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltSplineTaxiFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltSplineTrackAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltSplineTrackAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltSplineTrackDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltSplineTrackDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltSplineTrackFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltSplineTrackFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltSplineTurnAbsorb\t\"CVar\"",
+			"contents": "cameraTerrainTiltSplineTurnAbsorb",
+		},
+		{
+			"trigger": "cameraTerrainTiltSplineTurnDelay\t\"CVar\"",
+			"contents": "cameraTerrainTiltSplineTurnDelay",
+		},
+		{
+			"trigger": "cameraTerrainTiltSplineTurnFactor\t\"CVar\"",
+			"contents": "cameraTerrainTiltSplineTurnFactor",
+		},
+		{
+			"trigger": "cameraTerrainTiltTimeMax\t\"CVar\"",
+			"contents": "cameraTerrainTiltTimeMax",
+		},
+		{
+			"trigger": "cameraTerrainTiltTimeMin\t\"CVar\"",
+			"contents": "cameraTerrainTiltTimeMin",
+		},
+		{
+			"trigger": "cameraView\t\"CVar\"",
+			"contents": "cameraView",
+		},
+		{
+			"trigger": "cameraViewBlendStyle\t\"CVar\"",
+			"contents": "cameraViewBlendStyle",
+		},
+		{
+			"trigger": "cameraWaterCollision\t\"CVar\"",
+			"contents": "cameraWaterCollision",
+		},
+		{
+			"trigger": "cameraYawMoveSpeed\t\"CVar\"",
+			"contents": "cameraYawMoveSpeed",
+		},
+		{
+			"trigger": "cameraYawSmoothMax\t\"CVar\"",
+			"contents": "cameraYawSmoothMax",
+		},
+		{
+			"trigger": "cameraYawSmoothMin\t\"CVar\"",
+			"contents": "cameraYawSmoothMin",
+		},
+		{
+			"trigger": "cameraYawSmoothSpeed\t\"CVar\"",
+			"contents": "cameraYawSmoothSpeed",
+		},
+		{
+			"trigger": "cameraZDamp\t\"CVar\"",
+			"contents": "cameraZDamp",
+		},
+		{
+			"trigger": "cameraZoomSpeed\t\"CVar\"",
+			"contents": "cameraZoomSpeed",
+		},
+		{
+			"trigger": "ChatAmbienceVolume\t\"CVar\"",
+			"contents": "ChatAmbienceVolume",
+		},
+		{
+			"trigger": "chatBubbles\t\"CVar\"",
+			"contents": "chatBubbles",
+		},
+		{
+			"trigger": "chatBubblesParty\t\"CVar\"",
+			"contents": "chatBubblesParty",
+		},
+		{
+			"trigger": "chatMouseScroll\t\"CVar\"",
+			"contents": "chatMouseScroll",
+		},
+		{
+			"trigger": "ChatMusicVolume\t\"CVar\"",
+			"contents": "ChatMusicVolume",
+		},
+		{
+			"trigger": "ChatSoundVolume\t\"CVar\"",
+			"contents": "ChatSoundVolume",
+		},
+		{
+			"trigger": "chatStyle\t\"CVar\"",
+			"contents": "chatStyle",
+		},
+		{
+			"trigger": "checkAddonVersion\t\"CVar\"",
+			"contents": "checkAddonVersion",
+		},
+		{
+			"trigger": "ClientCastDebug\t\"CVar\"",
+			"contents": "ClientCastDebug",
+		},
+		{
+			"trigger": "cloakFixEnabled\t\"CVar\"",
+			"contents": "cloakFixEnabled",
+		},
+		{
+			"trigger": "closedInfoFrames\t\"CVar\"",
+			"contents": "closedInfoFrames",
+		},
+		{
+			"trigger": "colorblindMode\t\"CVar\"",
+			"contents": "colorblindMode",
+		},
+		{
+			"trigger": "colorblindSimulator\t\"CVar\"",
+			"contents": "colorblindSimulator",
+		},
+		{
+			"trigger": "colorblindWeaknessFactor\t\"CVar\"",
+			"contents": "colorblindWeaknessFactor",
+		},
+		{
+			"trigger": "colorChatNamesByClass\t\"CVar\"",
+			"contents": "colorChatNamesByClass",
+		},
+		{
+			"trigger": "combatLogReducedRetentionTime\t\"CVar\"",
+			"contents": "combatLogReducedRetentionTime",
+		},
+		{
+			"trigger": "combatLogRetentionTime\t\"CVar\"",
+			"contents": "combatLogRetentionTime",
+		},
+		{
+			"trigger": "comboPointLocation\t\"CVar\"",
+			"contents": "comboPointLocation",
+		},
+		{
+			"trigger": "componentCompress\t\"CVar\"",
+			"contents": "componentCompress",
+		},
+		{
+			"trigger": "componentEmissive\t\"CVar\"",
+			"contents": "componentEmissive",
+		},
+		{
+			"trigger": "componentSpecular\t\"CVar\"",
+			"contents": "componentSpecular",
+		},
+		{
+			"trigger": "componentTexCacheSize\t\"CVar\"",
+			"contents": "componentTexCacheSize",
+		},
+		{
+			"trigger": "componentTexLoadLimit\t\"CVar\"",
+			"contents": "componentTexLoadLimit",
+		},
+		{
+			"trigger": "componentTextureLevel\t\"CVar\"",
+			"contents": "componentTextureLevel",
+		},
+		{
+			"trigger": "componentThread\t\"CVar\"",
+			"contents": "componentThread",
+		},
+		{
+			"trigger": "countdownForCooldowns\t\"CVar\"",
+			"contents": "countdownForCooldowns",
+		},
+		{
+			"trigger": "currencyCategoriesCollapsed\t\"CVar\"",
+			"contents": "currencyCategoriesCollapsed",
+		},
+		{
+			"trigger": "currencyTokensBackpack1\t\"CVar\"",
+			"contents": "currencyTokensBackpack1",
+		},
+		{
+			"trigger": "currencyTokensBackpack2\t\"CVar\"",
+			"contents": "currencyTokensBackpack2",
+		},
+		{
+			"trigger": "currencyTokensUnused1\t\"CVar\"",
+			"contents": "currencyTokensUnused1",
+		},
+		{
+			"trigger": "currencyTokensUnused2\t\"CVar\"",
+			"contents": "currencyTokensUnused2",
+		},
+		{
+			"trigger": "cursorSizePreferred\t\"CVar\"",
+			"contents": "cursorSizePreferred",
+		},
+		{
+			"trigger": "daltonize\t\"CVar\"",
+			"contents": "daltonize",
+		},
+		{
+			"trigger": "dangerousShipyardMissionWarningAlreadyShown\t\"CVar\"",
+			"contents": "dangerousShipyardMissionWarningAlreadyShown",
+		},
+		{
+			"trigger": "DebugTorsoTwist\t\"CVar\"",
+			"contents": "DebugTorsoTwist",
+		},
+		{
+			"trigger": "DepthBasedOpacity\t\"CVar\"",
+			"contents": "DepthBasedOpacity",
+		},
+		{
+			"trigger": "deselectOnClick\t\"CVar\"",
+			"contents": "deselectOnClick",
+		},
+		{
+			"trigger": "DesktopGamma\t\"CVar\"",
+			"contents": "DesktopGamma",
+		},
+		{
+			"trigger": "detailDoodadInstancing\t\"CVar\"",
+			"contents": "detailDoodadInstancing",
+		},
+		{
+			"trigger": "digSites\t\"CVar\"",
+			"contents": "digSites",
+		},
+		{
+			"trigger": "disableAutoRealmSelect\t\"CVar\"",
+			"contents": "disableAutoRealmSelect",
+		},
+		{
+			"trigger": "disableServerNagle\t\"CVar\"",
+			"contents": "disableServerNagle",
+		},
+		{
+			"trigger": "displayedRAFFriendInfo\t\"CVar\"",
+			"contents": "displayedRAFFriendInfo",
+		},
+		{
+			"trigger": "displayFreeBagSlots\t\"CVar\"",
+			"contents": "displayFreeBagSlots",
+		},
+		{
+			"trigger": "displaySpellActivationOverlays\t\"CVar\"",
+			"contents": "displaySpellActivationOverlays",
+		},
+		{
+			"trigger": "displayWorldPVPObjectives\t\"CVar\"",
+			"contents": "displayWorldPVPObjectives",
+		},
+		{
+			"trigger": "doNotFlashLowHealthWarning\t\"CVar\"",
+			"contents": "doNotFlashLowHealthWarning",
+		},
+		{
+			"trigger": "dontShowEquipmentSetsOnItems\t\"CVar\"",
+			"contents": "dontShowEquipmentSetsOnItems",
+		},
+		{
+			"trigger": "doodadLodDist\t\"CVar\"",
+			"contents": "doodadLodDist",
+		},
+		{
+			"trigger": "EJDungeonDifficulty\t\"CVar\"",
+			"contents": "EJDungeonDifficulty",
+		},
+		{
+			"trigger": "EJLootClass\t\"CVar\"",
+			"contents": "EJLootClass",
+		},
+		{
+			"trigger": "EJLootSpec\t\"CVar\"",
+			"contents": "EJLootSpec",
+		},
+		{
+			"trigger": "EJRaidDifficulty\t\"CVar\"",
+			"contents": "EJRaidDifficulty",
+		},
+		{
+			"trigger": "EmitterCombatRange\t\"CVar\"",
+			"contents": "EmitterCombatRange",
+		},
+		{
+			"trigger": "emphasizeMySpellEffects\t\"CVar\"",
+			"contents": "emphasizeMySpellEffects",
+		},
+		{
+			"trigger": "enableBGDL\t\"CVar\"",
+			"contents": "enableBGDL",
+		},
+		{
+			"trigger": "EnableBlinkApplicationIcon\t\"CVar\"",
+			"contents": "EnableBlinkApplicationIcon",
+		},
+		{
+			"trigger": "enableFloatingCombatText\t\"CVar\"",
+			"contents": "enableFloatingCombatText",
+		},
+		{
+			"trigger": "enableMouseSpeed\t\"CVar\"",
+			"contents": "enableMouseSpeed",
+		},
+		{
+			"trigger": "enableMovePad\t\"CVar\"",
+			"contents": "enableMovePad",
+		},
+		{
+			"trigger": "enablePetBattleFloatingCombatText\t\"CVar\"",
+			"contents": "enablePetBattleFloatingCombatText",
+		},
+		{
+			"trigger": "enablePVPNotifyAFK\t\"CVar\"",
+			"contents": "enablePVPNotifyAFK",
+		},
+		{
+			"trigger": "enableRuneSpentAnim\t\"CVar\"",
+			"contents": "enableRuneSpentAnim",
+		},
+		{
+			"trigger": "enableTwitter\t\"CVar\"",
+			"contents": "enableTwitter",
+		},
+		{
+			"trigger": "enableWowMouse\t\"CVar\"",
+			"contents": "enableWowMouse",
+		},
+		{
+			"trigger": "engineSurvey\t\"CVar\"",
+			"contents": "engineSurvey",
+		},
+		{
+			"trigger": "entityLodDist\t\"CVar\"",
+			"contents": "entityLodDist",
+		},
+		{
+			"trigger": "ErrorFilter\t\"CVar\"",
+			"contents": "ErrorFilter",
+		},
+		{
+			"trigger": "ErrorLevelMax\t\"CVar\"",
+			"contents": "ErrorLevelMax",
+		},
+		{
+			"trigger": "ErrorLevelMin\t\"CVar\"",
+			"contents": "ErrorLevelMin",
+		},
+		{
+			"trigger": "Errors\t\"CVar\"",
+			"contents": "Errors",
+		},
+		{
+			"trigger": "expandUpgradePanel\t\"CVar\"",
+			"contents": "expandUpgradePanel",
+		},
+		{
+			"trigger": "farclip\t\"CVar\"",
+			"contents": "farclip",
+		},
+		{
+			"trigger": "ffxAntiAliasingMode\t\"CVar\"",
+			"contents": "ffxAntiAliasingMode",
+		},
+		{
+			"trigger": "ffxDeath\t\"CVar\"",
+			"contents": "ffxDeath",
+		},
+		{
+			"trigger": "ffxGlow\t\"CVar\"",
+			"contents": "ffxGlow",
+		},
+		{
+			"trigger": "ffxNether\t\"CVar\"",
+			"contents": "ffxNether",
+		},
+		{
+			"trigger": "findYourselfAnywhere\t\"CVar\"",
+			"contents": "findYourselfAnywhere",
+		},
+		{
+			"trigger": "findYourselfAnywhereOnlyInCombat\t\"CVar\"",
+			"contents": "findYourselfAnywhereOnlyInCombat",
+		},
+		{
+			"trigger": "findYourselfInBG\t\"CVar\"",
+			"contents": "findYourselfInBG",
+		},
+		{
+			"trigger": "findYourselfInBGOnlyInCombat\t\"CVar\"",
+			"contents": "findYourselfInBGOnlyInCombat",
+		},
+		{
+			"trigger": "findYourselfInRaid\t\"CVar\"",
+			"contents": "findYourselfInRaid",
+		},
+		{
+			"trigger": "findYourselfInRaidOnlyInCombat\t\"CVar\"",
+			"contents": "findYourselfInRaidOnlyInCombat",
+		},
+		{
+			"trigger": "findYourselfMode\t\"CVar\"",
+			"contents": "findYourselfMode",
+		},
+		{
+			"trigger": "flaggedTutorials\t\"CVar\"",
+			"contents": "flaggedTutorials",
+		},
+		{
+			"trigger": "flashErrorMessageRepeats\t\"CVar\"",
+			"contents": "flashErrorMessageRepeats",
+		},
+		{
+			"trigger": "flightAngleLookAhead\t\"CVar\"",
+			"contents": "flightAngleLookAhead",
+		},
+		{
+			"trigger": "floatingCombatTextAllSpellMechanics\t\"CVar\"",
+			"contents": "floatingCombatTextAllSpellMechanics",
+		},
+		{
+			"trigger": "floatingCombatTextAuras\t\"CVar\"",
+			"contents": "floatingCombatTextAuras",
+		},
+		{
+			"trigger": "floatingCombatTextCombatDamage\t\"CVar\"",
+			"contents": "floatingCombatTextCombatDamage",
+		},
+		{
+			"trigger": "floatingCombatTextCombatDamageAllAutos\t\"CVar\"",
+			"contents": "floatingCombatTextCombatDamageAllAutos",
+		},
+		{
+			"trigger": "floatingCombatTextCombatDamageDirectionalOffset\t\"CVar\"",
+			"contents": "floatingCombatTextCombatDamageDirectionalOffset",
+		},
+		{
+			"trigger": "floatingCombatTextCombatDamageDirectionalScale\t\"CVar\"",
+			"contents": "floatingCombatTextCombatDamageDirectionalScale",
+		},
+		{
+			"trigger": "floatingCombatTextCombatDamageStyle\t\"CVar\"",
+			"contents": "floatingCombatTextCombatDamageStyle",
+		},
+		{
+			"trigger": "floatingCombatTextCombatHealing\t\"CVar\"",
+			"contents": "floatingCombatTextCombatHealing",
+		},
+		{
+			"trigger": "floatingCombatTextCombatHealingAbsorbSelf\t\"CVar\"",
+			"contents": "floatingCombatTextCombatHealingAbsorbSelf",
+		},
+		{
+			"trigger": "floatingCombatTextCombatHealingAbsorbTarget\t\"CVar\"",
+			"contents": "floatingCombatTextCombatHealingAbsorbTarget",
+		},
+		{
+			"trigger": "floatingCombatTextCombatLogPeriodicSpells\t\"CVar\"",
+			"contents": "floatingCombatTextCombatLogPeriodicSpells",
+		},
+		{
+			"trigger": "floatingCombatTextCombatState\t\"CVar\"",
+			"contents": "floatingCombatTextCombatState",
+		},
+		{
+			"trigger": "floatingCombatTextComboPoints\t\"CVar\"",
+			"contents": "floatingCombatTextComboPoints",
+		},
+		{
+			"trigger": "floatingCombatTextDamageReduction\t\"CVar\"",
+			"contents": "floatingCombatTextDamageReduction",
+		},
+		{
+			"trigger": "floatingCombatTextDodgeParryMiss\t\"CVar\"",
+			"contents": "floatingCombatTextDodgeParryMiss",
+		},
+		{
+			"trigger": "floatingCombatTextEnergyGains\t\"CVar\"",
+			"contents": "floatingCombatTextEnergyGains",
+		},
+		{
+			"trigger": "floatingCombatTextFloatMode\t\"CVar\"",
+			"contents": "floatingCombatTextFloatMode",
+		},
+		{
+			"trigger": "floatingCombatTextFriendlyHealers\t\"CVar\"",
+			"contents": "floatingCombatTextFriendlyHealers",
+		},
+		{
+			"trigger": "floatingCombatTextHonorGains\t\"CVar\"",
+			"contents": "floatingCombatTextHonorGains",
+		},
+		{
+			"trigger": "floatingCombatTextLowManaHealth\t\"CVar\"",
+			"contents": "floatingCombatTextLowManaHealth",
+		},
+		{
+			"trigger": "floatingCombatTextPeriodicEnergyGains\t\"CVar\"",
+			"contents": "floatingCombatTextPeriodicEnergyGains",
+		},
+		{
+			"trigger": "floatingCombatTextPetMeleeDamage\t\"CVar\"",
+			"contents": "floatingCombatTextPetMeleeDamage",
+		},
+		{
+			"trigger": "floatingCombatTextPetSpellDamage\t\"CVar\"",
+			"contents": "floatingCombatTextPetSpellDamage",
+		},
+		{
+			"trigger": "floatingCombatTextReactives\t\"CVar\"",
+			"contents": "floatingCombatTextReactives",
+		},
+		{
+			"trigger": "floatingCombatTextRepChanges\t\"CVar\"",
+			"contents": "floatingCombatTextRepChanges",
+		},
+		{
+			"trigger": "floatingCombatTextSpellMechanics\t\"CVar\"",
+			"contents": "floatingCombatTextSpellMechanics",
+		},
+		{
+			"trigger": "floatingCombatTextSpellMechanicsOther\t\"CVar\"",
+			"contents": "floatingCombatTextSpellMechanicsOther",
+		},
+		{
+			"trigger": "FootstepSounds\t\"CVar\"",
+			"contents": "FootstepSounds",
+		},
+		{
+			"trigger": "forceEnglishNames\t\"CVar\"",
+			"contents": "forceEnglishNames",
+		},
+		{
+			"trigger": "forceLODCheck\t\"CVar\"",
+			"contents": "forceLODCheck",
+		},
+		{
+			"trigger": "friendInvitesCollapsed\t\"CVar\"",
+			"contents": "friendInvitesCollapsed",
+		},
+		{
+			"trigger": "friendsSmallView\t\"CVar\"",
+			"contents": "friendsSmallView",
+		},
+		{
+			"trigger": "friendsViewButtons\t\"CVar\"",
+			"contents": "friendsViewButtons",
+		},
+		{
+			"trigger": "fullDump\t\"CVar\"",
+			"contents": "fullDump",
+		},
+		{
+			"trigger": "fullSizeFocusFrame\t\"CVar\"",
+			"contents": "fullSizeFocusFrame",
+		},
+		{
+			"trigger": "gameTip\t\"CVar\"",
+			"contents": "gameTip",
+		},
+		{
+			"trigger": "Gamma\t\"CVar\"",
+			"contents": "Gamma",
+		},
+		{
+			"trigger": "garrisonCompleteTalent\t\"CVar\"",
+			"contents": "garrisonCompleteTalent",
+		},
+		{
+			"trigger": "garrisonCompleteTalentType\t\"CVar\"",
+			"contents": "garrisonCompleteTalentType",
+		},
+		{
+			"trigger": "graphicsDepthEffects\t\"CVar\"",
+			"contents": "graphicsDepthEffects",
+		},
+		{
+			"trigger": "graphicsEnvironmentDetail\t\"CVar\"",
+			"contents": "graphicsEnvironmentDetail",
+		},
+		{
+			"trigger": "graphicsGroundClutter\t\"CVar\"",
+			"contents": "graphicsGroundClutter",
+		},
+		{
+			"trigger": "graphicsLightingQuality\t\"CVar\"",
+			"contents": "graphicsLightingQuality",
+		},
+		{
+			"trigger": "graphicsLiquidDetail\t\"CVar\"",
+			"contents": "graphicsLiquidDetail",
+		},
+		{
+			"trigger": "graphicsOutlineMode\t\"CVar\"",
+			"contents": "graphicsOutlineMode",
+		},
+		{
+			"trigger": "graphicsParticleDensity\t\"CVar\"",
+			"contents": "graphicsParticleDensity",
+		},
+		{
+			"trigger": "graphicsProjectedTextures\t\"CVar\"",
+			"contents": "graphicsProjectedTextures",
+		},
+		{
+			"trigger": "graphicsQuality\t\"CVar\"",
+			"contents": "graphicsQuality",
+		},
+		{
+			"trigger": "graphicsShadowQuality\t\"CVar\"",
+			"contents": "graphicsShadowQuality",
+		},
+		{
+			"trigger": "graphicsSSAO\t\"CVar\"",
+			"contents": "graphicsSSAO",
+		},
+		{
+			"trigger": "graphicsSunshafts\t\"CVar\"",
+			"contents": "graphicsSunshafts",
+		},
+		{
+			"trigger": "graphicsTextureFiltering\t\"CVar\"",
+			"contents": "graphicsTextureFiltering",
+		},
+		{
+			"trigger": "graphicsTextureResolution\t\"CVar\"",
+			"contents": "graphicsTextureResolution",
+		},
+		{
+			"trigger": "graphicsViewDistance\t\"CVar\"",
+			"contents": "graphicsViewDistance",
+		},
+		{
+			"trigger": "groundEffectDensity\t\"CVar\"",
+			"contents": "groundEffectDensity",
+		},
+		{
+			"trigger": "groundEffectDist\t\"CVar\"",
+			"contents": "groundEffectDist",
+		},
+		{
+			"trigger": "groundEffectFade\t\"CVar\"",
+			"contents": "groundEffectFade",
+		},
+		{
+			"trigger": "guildMemberNotify\t\"CVar\"",
+			"contents": "guildMemberNotify",
+		},
+		{
+			"trigger": "guildNewsFilter\t\"CVar\"",
+			"contents": "guildNewsFilter",
+		},
+		{
+			"trigger": "guildRewardsCategory\t\"CVar\"",
+			"contents": "guildRewardsCategory",
+		},
+		{
+			"trigger": "guildRewardsUsable\t\"CVar\"",
+			"contents": "guildRewardsUsable",
+		},
+		{
+			"trigger": "guildRosterView\t\"CVar\"",
+			"contents": "guildRosterView",
+		},
+		{
+			"trigger": "guildShowOffline\t\"CVar\"",
+			"contents": "guildShowOffline",
+		},
+		{
+			"trigger": "gxAdapter\t\"CVar\"",
+			"contents": "gxAdapter",
+		},
+		{
+			"trigger": "gxAFRDevicesCount\t\"CVar\"",
+			"contents": "gxAFRDevicesCount",
+		},
+		{
+			"trigger": "gxApi\t\"CVar\"",
+			"contents": "gxApi",
+		},
+		{
+			"trigger": "gxAspect\t\"CVar\"",
+			"contents": "gxAspect",
+		},
+		{
+			"trigger": "gxCursor\t\"CVar\"",
+			"contents": "gxCursor",
+		},
+		{
+			"trigger": "gxDepthResolveHandleCaching\t\"CVar\"",
+			"contents": "gxDepthResolveHandleCaching",
+		},
+		{
+			"trigger": "gxFixLag\t\"CVar\"",
+			"contents": "gxFixLag",
+		},
+		{
+			"trigger": "gxFullscreenResolution\t\"CVar\"",
+			"contents": "gxFullscreenResolution",
+		},
+		{
+			"trigger": "gxMaxFrameLatency\t\"CVar\"",
+			"contents": "gxMaxFrameLatency",
+		},
+		{
+			"trigger": "gxMaximize\t\"CVar\"",
+			"contents": "gxMaximize",
+		},
+		{
+			"trigger": "gxMonitor\t\"CVar\"",
+			"contents": "gxMonitor",
+		},
+		{
+			"trigger": "gxNewResolution\t\"CVar\"",
+			"contents": "gxNewResolution",
+		},
+		{
+			"trigger": "gxPreferWindowedFullscreen\t\"CVar\"",
+			"contents": "gxPreferWindowedFullscreen",
+		},
+		{
+			"trigger": "gxRefresh\t\"CVar\"",
+			"contents": "gxRefresh",
+		},
+		{
+			"trigger": "gxStereoConvergence\t\"CVar\"",
+			"contents": "gxStereoConvergence",
+		},
+		{
+			"trigger": "gxStereoEnabled\t\"CVar\"",
+			"contents": "gxStereoEnabled",
+		},
+		{
+			"trigger": "gxStereoSeparation\t\"CVar\"",
+			"contents": "gxStereoSeparation",
+		},
+		{
+			"trigger": "gxTextureCacheSize\t\"CVar\"",
+			"contents": "gxTextureCacheSize",
+		},
+		{
+			"trigger": "gxTripleBuffer\t\"CVar\"",
+			"contents": "gxTripleBuffer",
+		},
+		{
+			"trigger": "gxVSync\t\"CVar\"",
+			"contents": "gxVSync",
+		},
+		{
+			"trigger": "gxWindow\t\"CVar\"",
+			"contents": "gxWindow",
+		},
+		{
+			"trigger": "gxWindowedResolution\t\"CVar\"",
+			"contents": "gxWindowedResolution",
+		},
+		{
+			"trigger": "hardTrackedQuests\t\"CVar\"",
+			"contents": "hardTrackedQuests",
+		},
+		{
+			"trigger": "hardTrackedWorldQuests\t\"CVar\"",
+			"contents": "hardTrackedWorldQuests",
+		},
+		{
+			"trigger": "hbaoBias\t\"CVar\"",
+			"contents": "hbaoBias",
+		},
+		{
+			"trigger": "hbaoBlurSharp\t\"CVar\"",
+			"contents": "hbaoBlurSharp",
+		},
+		{
+			"trigger": "hbaoNormals\t\"CVar\"",
+			"contents": "hbaoNormals",
+		},
+		{
+			"trigger": "hbaoPowerExp\t\"CVar\"",
+			"contents": "hbaoPowerExp",
+		},
+		{
+			"trigger": "hbaoRadius\t\"CVar\"",
+			"contents": "hbaoRadius",
+		},
+		{
+			"trigger": "hdPlayerModels\t\"CVar\"",
+			"contents": "hdPlayerModels",
+		},
+		{
+			"trigger": "heirloomCollectedFilters\t\"CVar\"",
+			"contents": "heirloomCollectedFilters",
+		},
+		{
+			"trigger": "heirloomSourceFilters\t\"CVar\"",
+			"contents": "heirloomSourceFilters",
+		},
+		{
+			"trigger": "hideAdventureJournalAlerts\t\"CVar\"",
+			"contents": "hideAdventureJournalAlerts",
+		},
+		{
+			"trigger": "horizonStart\t\"CVar\"",
+			"contents": "horizonStart",
+		},
+		{
+			"trigger": "hotReloadModels\t\"CVar\"",
+			"contents": "hotReloadModels",
+		},
+		{
+			"trigger": "hwDetect\t\"CVar\"",
+			"contents": "hwDetect",
+		},
+		{
+			"trigger": "hwPCF\t\"CVar\"",
+			"contents": "hwPCF",
+		},
+		{
+			"trigger": "incompleteQuestPriorityThresholdDelta\t\"CVar\"",
+			"contents": "incompleteQuestPriorityThresholdDelta",
+		},
+		{
+			"trigger": "initialRealmListTimeout\t\"CVar\"",
+			"contents": "initialRealmListTimeout",
+		},
+		{
+			"trigger": "interactOnLeftClick\t\"CVar\"",
+			"contents": "interactOnLeftClick",
+		},
+		{
+			"trigger": "lastAddonVersion\t\"CVar\"",
+			"contents": "lastAddonVersion",
+		},
+		{
+			"trigger": "lastCharacterIndex\t\"CVar\"",
+			"contents": "lastCharacterIndex",
+		},
+		{
+			"trigger": "lastGarrisonMissionTutorial\t\"CVar\"",
+			"contents": "lastGarrisonMissionTutorial",
+		},
+		{
+			"trigger": "lastTalkedToGM\t\"CVar\"",
+			"contents": "lastTalkedToGM",
+		},
+		{
+			"trigger": "lastTransmogOutfitIDSpec1\t\"CVar\"",
+			"contents": "lastTransmogOutfitIDSpec1",
+		},
+		{
+			"trigger": "lastTransmogOutfitIDSpec2\t\"CVar\"",
+			"contents": "lastTransmogOutfitIDSpec2",
+		},
+		{
+			"trigger": "lastTransmogOutfitIDSpec3\t\"CVar\"",
+			"contents": "lastTransmogOutfitIDSpec3",
+		},
+		{
+			"trigger": "lastTransmogOutfitIDSpec4\t\"CVar\"",
+			"contents": "lastTransmogOutfitIDSpec4",
+		},
+		{
+			"trigger": "lastVoidStorageTutorial\t\"CVar\"",
+			"contents": "lastVoidStorageTutorial",
+		},
+		{
+			"trigger": "latestTransmogSetSource\t\"CVar\"",
+			"contents": "latestTransmogSetSource",
+		},
+		{
+			"trigger": "launchAgent\t\"CVar\"",
+			"contents": "launchAgent",
+		},
+		{
+			"trigger": "legacyBankSwap\t\"CVar\"",
+			"contents": "legacyBankSwap",
+		},
+		{
+			"trigger": "lfdCollapsedHeaders\t\"CVar\"",
+			"contents": "lfdCollapsedHeaders",
+		},
+		{
+			"trigger": "lfdSelectedDungeons\t\"CVar\"",
+			"contents": "lfdSelectedDungeons",
+		},
+		{
+			"trigger": "lfgAutoFill\t\"CVar\"",
+			"contents": "lfgAutoFill",
+		},
+		{
+			"trigger": "lfgAutoJoin\t\"CVar\"",
+			"contents": "lfgAutoJoin",
+		},
+		{
+			"trigger": "lfgListSearchLanguages\t\"CVar\"",
+			"contents": "lfgListSearchLanguages",
+		},
+		{
+			"trigger": "lfgSelectedRoles\t\"CVar\"",
+			"contents": "lfgSelectedRoles",
+		},
+		{
+			"trigger": "lfGuildComment\t\"CVar\"",
+			"contents": "lfGuildComment",
+		},
+		{
+			"trigger": "lfGuildSettings\t\"CVar\"",
+			"contents": "lfGuildSettings",
+		},
+		{
+			"trigger": "lightMode\t\"CVar\"",
+			"contents": "lightMode",
+		},
+		{
+			"trigger": "locale\t\"CVar\"",
+			"contents": "locale",
+		},
+		{
+			"trigger": "lockActionBars\t\"CVar\"",
+			"contents": "lockActionBars",
+		},
+		{
+			"trigger": "lockedWorldMap\t\"CVar\"",
+			"contents": "lockedWorldMap",
+		},
+		{
+			"trigger": "lodObjectCullDist\t\"CVar\"",
+			"contents": "lodObjectCullDist",
+		},
+		{
+			"trigger": "lodObjectCullSize\t\"CVar\"",
+			"contents": "lodObjectCullSize",
+		},
+		{
+			"trigger": "lodObjectFadeScale\t\"CVar\"",
+			"contents": "lodObjectFadeScale",
+		},
+		{
+			"trigger": "lodObjectMinSize\t\"CVar\"",
+			"contents": "lodObjectMinSize",
+		},
+		{
+			"trigger": "lodTerrainDiv\t\"CVar\"",
+			"contents": "lodTerrainDiv",
+		},
+		{
+			"trigger": "lootUnderMouse\t\"CVar\"",
+			"contents": "lootUnderMouse",
+		},
+		{
+			"trigger": "lossOfControl\t\"CVar\"",
+			"contents": "lossOfControl",
+		},
+		{
+			"trigger": "lossOfControlDisarm\t\"CVar\"",
+			"contents": "lossOfControlDisarm",
+		},
+		{
+			"trigger": "lossOfControlFull\t\"CVar\"",
+			"contents": "lossOfControlFull",
+		},
+		{
+			"trigger": "lossOfControlInterrupt\t\"CVar\"",
+			"contents": "lossOfControlInterrupt",
+		},
+		{
+			"trigger": "lossOfControlRoot\t\"CVar\"",
+			"contents": "lossOfControlRoot",
+		},
+		{
+			"trigger": "lossOfControlSilence\t\"CVar\"",
+			"contents": "lossOfControlSilence",
+		},
+		{
+			"trigger": "M2ForceAdditiveParticleSort\t\"CVar\"",
+			"contents": "M2ForceAdditiveParticleSort",
+		},
+		{
+			"trigger": "M2UseInstancing\t\"CVar\"",
+			"contents": "M2UseInstancing",
+		},
+		{
+			"trigger": "M2UseLOD\t\"CVar\"",
+			"contents": "M2UseLOD",
+		},
+		{
+			"trigger": "M2UseThreads\t\"CVar\"",
+			"contents": "M2UseThreads",
+		},
+		{
+			"trigger": "mapAnimDuration\t\"CVar\"",
+			"contents": "mapAnimDuration",
+		},
+		{
+			"trigger": "mapAnimMinAlpha\t\"CVar\"",
+			"contents": "mapAnimMinAlpha",
+		},
+		{
+			"trigger": "mapAnimStartDelay\t\"CVar\"",
+			"contents": "mapAnimStartDelay",
+		},
+		{
+			"trigger": "mapFade\t\"CVar\"",
+			"contents": "mapFade",
+		},
+		{
+			"trigger": "maxFPS\t\"CVar\"",
+			"contents": "maxFPS",
+		},
+		{
+			"trigger": "maxFPSBk\t\"CVar\"",
+			"contents": "maxFPSBk",
+		},
+		{
+			"trigger": "maxFPSLoading\t\"CVar\"",
+			"contents": "maxFPSLoading",
+		},
+		{
+			"trigger": "maxLightCount\t\"CVar\"",
+			"contents": "maxLightCount",
+		},
+		{
+			"trigger": "maxLightDist\t\"CVar\"",
+			"contents": "maxLightDist",
+		},
+		{
+			"trigger": "MaxObservedPetBattles\t\"CVar\"",
+			"contents": "MaxObservedPetBattles",
+		},
+		{
+			"trigger": "miniDressUpFrame\t\"CVar\"",
+			"contents": "miniDressUpFrame",
+		},
+		{
+			"trigger": "minimapAltitudeHintMode\t\"CVar\"",
+			"contents": "minimapAltitudeHintMode",
+		},
+		{
+			"trigger": "minimapInsideZoom\t\"CVar\"",
+			"contents": "minimapInsideZoom",
+		},
+		{
+			"trigger": "minimapPortalMax\t\"CVar\"",
+			"contents": "minimapPortalMax",
+		},
+		{
+			"trigger": "minimapShapeshiftTracking\t\"CVar\"",
+			"contents": "minimapShapeshiftTracking",
+		},
+		{
+			"trigger": "minimapShowArchBlobs\t\"CVar\"",
+			"contents": "minimapShowArchBlobs",
+		},
+		{
+			"trigger": "minimapShowQuestBlobs\t\"CVar\"",
+			"contents": "minimapShowQuestBlobs",
+		},
+		{
+			"trigger": "minimapTrackedInfov2\t\"CVar\"",
+			"contents": "minimapTrackedInfov2",
+		},
+		{
+			"trigger": "minimapZoom\t\"CVar\"",
+			"contents": "minimapZoom",
+		},
+		{
+			"trigger": "miniWorldMap\t\"CVar\"",
+			"contents": "miniWorldMap",
+		},
+		{
+			"trigger": "missingTransmogSourceInItemTooltips\t\"CVar\"",
+			"contents": "missingTransmogSourceInItemTooltips",
+		},
+		{
+			"trigger": "mountJournalGeneralFilters\t\"CVar\"",
+			"contents": "mountJournalGeneralFilters",
+		},
+		{
+			"trigger": "mountJournalSourcesFilter\t\"CVar\"",
+			"contents": "mountJournalSourcesFilter",
+		},
+		{
+			"trigger": "mouseInvertPitch\t\"CVar\"",
+			"contents": "mouseInvertPitch",
+		},
+		{
+			"trigger": "mouseInvertYaw\t\"CVar\"",
+			"contents": "mouseInvertYaw",
+		},
+		{
+			"trigger": "mouseSpeed\t\"CVar\"",
+			"contents": "mouseSpeed",
+		},
+		{
+			"trigger": "movieSubtitle\t\"CVar\"",
+			"contents": "movieSubtitle",
+		},
+		{
+			"trigger": "MSAAAlphaTest\t\"CVar\"",
+			"contents": "MSAAAlphaTest",
+		},
+		{
+			"trigger": "MSAAQuality\t\"CVar\"",
+			"contents": "MSAAQuality",
+		},
+		{
+			"trigger": "mtParticles\t\"CVar\"",
+			"contents": "mtParticles",
+		},
+		{
+			"trigger": "nameplateClassResourceTopInset\t\"CVar\"",
+			"contents": "nameplateClassResourceTopInset",
+		},
+		{
+			"trigger": "nameplateGlobalScale\t\"CVar\"",
+			"contents": "nameplateGlobalScale",
+		},
+		{
+			"trigger": "NamePlateHorizontalScale\t\"CVar\"",
+			"contents": "NamePlateHorizontalScale",
+		},
+		{
+			"trigger": "nameplateLargeBottomInset\t\"CVar\"",
+			"contents": "nameplateLargeBottomInset",
+		},
+		{
+			"trigger": "nameplateLargerScale\t\"CVar\"",
+			"contents": "nameplateLargerScale",
+		},
+		{
+			"trigger": "nameplateLargeTopInset\t\"CVar\"",
+			"contents": "nameplateLargeTopInset",
+		},
+		{
+			"trigger": "nameplateMaxAlpha\t\"CVar\"",
+			"contents": "nameplateMaxAlpha",
+		},
+		{
+			"trigger": "nameplateMaxAlphaDistance\t\"CVar\"",
+			"contents": "nameplateMaxAlphaDistance",
+		},
+		{
+			"trigger": "nameplateMaxDistance\t\"CVar\"",
+			"contents": "nameplateMaxDistance",
+		},
+		{
+			"trigger": "nameplateMaxScale\t\"CVar\"",
+			"contents": "nameplateMaxScale",
+		},
+		{
+			"trigger": "nameplateMaxScaleDistance\t\"CVar\"",
+			"contents": "nameplateMaxScaleDistance",
+		},
+		{
+			"trigger": "nameplateMinAlpha\t\"CVar\"",
+			"contents": "nameplateMinAlpha",
+		},
+		{
+			"trigger": "nameplateMinAlphaDistance\t\"CVar\"",
+			"contents": "nameplateMinAlphaDistance",
+		},
+		{
+			"trigger": "nameplateMinScale\t\"CVar\"",
+			"contents": "nameplateMinScale",
+		},
+		{
+			"trigger": "nameplateMinScaleDistance\t\"CVar\"",
+			"contents": "nameplateMinScaleDistance",
+		},
+		{
+			"trigger": "nameplateMotion\t\"CVar\"",
+			"contents": "nameplateMotion",
+		},
+		{
+			"trigger": "nameplateMotionSpeed\t\"CVar\"",
+			"contents": "nameplateMotionSpeed",
+		},
+		{
+			"trigger": "nameplateOccludedAlphaMult\t\"CVar\"",
+			"contents": "nameplateOccludedAlphaMult",
+		},
+		{
+			"trigger": "nameplateOtherAtBase\t\"CVar\"",
+			"contents": "nameplateOtherAtBase",
+		},
+		{
+			"trigger": "nameplateOtherBottomInset\t\"CVar\"",
+			"contents": "nameplateOtherBottomInset",
+		},
+		{
+			"trigger": "nameplateOtherTopInset\t\"CVar\"",
+			"contents": "nameplateOtherTopInset",
+		},
+		{
+			"trigger": "nameplateOverlapH\t\"CVar\"",
+			"contents": "nameplateOverlapH",
+		},
+		{
+			"trigger": "nameplateOverlapV\t\"CVar\"",
+			"contents": "nameplateOverlapV",
+		},
+		{
+			"trigger": "NameplatePersonalHideDelayAlpha\t\"CVar\"",
+			"contents": "NameplatePersonalHideDelayAlpha",
+		},
+		{
+			"trigger": "NameplatePersonalHideDelaySeconds\t\"CVar\"",
+			"contents": "NameplatePersonalHideDelaySeconds",
+		},
+		{
+			"trigger": "NameplatePersonalShowAlways\t\"CVar\"",
+			"contents": "NameplatePersonalShowAlways",
+		},
+		{
+			"trigger": "NameplatePersonalShowInCombat\t\"CVar\"",
+			"contents": "NameplatePersonalShowInCombat",
+		},
+		{
+			"trigger": "NameplatePersonalShowWithTarget\t\"CVar\"",
+			"contents": "NameplatePersonalShowWithTarget",
+		},
+		{
+			"trigger": "nameplateResourceOnTarget\t\"CVar\"",
+			"contents": "nameplateResourceOnTarget",
+		},
+		{
+			"trigger": "nameplateSelectedAlpha\t\"CVar\"",
+			"contents": "nameplateSelectedAlpha",
+		},
+		{
+			"trigger": "nameplateSelectedScale\t\"CVar\"",
+			"contents": "nameplateSelectedScale",
+		},
+		{
+			"trigger": "nameplateSelfAlpha\t\"CVar\"",
+			"contents": "nameplateSelfAlpha",
+		},
+		{
+			"trigger": "nameplateSelfBottomInset\t\"CVar\"",
+			"contents": "nameplateSelfBottomInset",
+		},
+		{
+			"trigger": "nameplateSelfScale\t\"CVar\"",
+			"contents": "nameplateSelfScale",
+		},
+		{
+			"trigger": "nameplateSelfTopInset\t\"CVar\"",
+			"contents": "nameplateSelfTopInset",
+		},
+		{
+			"trigger": "nameplateShowAll\t\"CVar\"",
+			"contents": "nameplateShowAll",
+		},
+		{
+			"trigger": "nameplateShowDebuffsOnFriendly\t\"CVar\"",
+			"contents": "nameplateShowDebuffsOnFriendly",
+		},
+		{
+			"trigger": "nameplateShowEnemies\t\"CVar\"",
+			"contents": "nameplateShowEnemies",
+		},
+		{
+			"trigger": "nameplateShowEnemyGuardians\t\"CVar\"",
+			"contents": "nameplateShowEnemyGuardians",
+		},
+		{
+			"trigger": "nameplateShowEnemyMinions\t\"CVar\"",
+			"contents": "nameplateShowEnemyMinions",
+		},
+		{
+			"trigger": "nameplateShowEnemyMinus\t\"CVar\"",
+			"contents": "nameplateShowEnemyMinus",
+		},
+		{
+			"trigger": "nameplateShowEnemyPets\t\"CVar\"",
+			"contents": "nameplateShowEnemyPets",
+		},
+		{
+			"trigger": "nameplateShowEnemyTotems\t\"CVar\"",
+			"contents": "nameplateShowEnemyTotems",
+		},
+		{
+			"trigger": "nameplateShowFriendlyGuardians\t\"CVar\"",
+			"contents": "nameplateShowFriendlyGuardians",
+		},
+		{
+			"trigger": "nameplateShowFriendlyMinions\t\"CVar\"",
+			"contents": "nameplateShowFriendlyMinions",
+		},
+		{
+			"trigger": "nameplateShowFriendlyNPCs\t\"CVar\"",
+			"contents": "nameplateShowFriendlyNPCs",
+		},
+		{
+			"trigger": "nameplateShowFriendlyPets\t\"CVar\"",
+			"contents": "nameplateShowFriendlyPets",
+		},
+		{
+			"trigger": "nameplateShowFriendlyTotems\t\"CVar\"",
+			"contents": "nameplateShowFriendlyTotems",
+		},
+		{
+			"trigger": "nameplateShowFriends\t\"CVar\"",
+			"contents": "nameplateShowFriends",
+		},
+		{
+			"trigger": "nameplateShowOnlyNames\t\"CVar\"",
+			"contents": "nameplateShowOnlyNames",
+		},
+		{
+			"trigger": "nameplateShowSelf\t\"CVar\"",
+			"contents": "nameplateShowSelf",
+		},
+		{
+			"trigger": "nameplateTargetBehindMaxDistance\t\"CVar\"",
+			"contents": "nameplateTargetBehindMaxDistance",
+		},
+		{
+			"trigger": "nameplateTargetRadialPosition\t\"CVar\"",
+			"contents": "nameplateTargetRadialPosition",
+		},
+		{
+			"trigger": "NamePlateVerticalScale\t\"CVar\"",
+			"contents": "NamePlateVerticalScale",
+		},
+		{
+			"trigger": "nearclip\t\"CVar\"",
+			"contents": "nearclip",
+		},
+		{
+			"trigger": "noBuffDebuffFilterOnTarget\t\"CVar\"",
+			"contents": "noBuffDebuffFilterOnTarget",
+		},
+		{
+			"trigger": "NonEmitterCombatRange\t\"CVar\"",
+			"contents": "NonEmitterCombatRange",
+		},
+		{
+			"trigger": "ObjectSelectionCircle\t\"CVar\"",
+			"contents": "ObjectSelectionCircle",
+		},
+		{
+			"trigger": "orderHallMissionTutorial\t\"CVar\"",
+			"contents": "orderHallMissionTutorial",
+		},
+		{
+			"trigger": "outdoorMinAltitudeDistance\t\"CVar\"",
+			"contents": "outdoorMinAltitudeDistance",
+		},
+		{
+			"trigger": "Outline\t\"CVar\"",
+			"contents": "Outline",
+		},
+		{
+			"trigger": "OutlineEngineMode\t\"CVar\"",
+			"contents": "OutlineEngineMode",
+		},
+		{
+			"trigger": "outlineMouseOverFadeDuration\t\"CVar\"",
+			"contents": "outlineMouseOverFadeDuration",
+		},
+		{
+			"trigger": "outlineSelectionFadeDuration\t\"CVar\"",
+			"contents": "outlineSelectionFadeDuration",
+		},
+		{
+			"trigger": "overrideArchive\t\"CVar\"",
+			"contents": "overrideArchive",
+		},
+		{
+			"trigger": "particleDensity\t\"CVar\"",
+			"contents": "particleDensity",
+		},
+		{
+			"trigger": "particleMTDensity\t\"CVar\"",
+			"contents": "particleMTDensity",
+		},
+		{
+			"trigger": "partyBackgroundOpacity\t\"CVar\"",
+			"contents": "partyBackgroundOpacity",
+		},
+		{
+			"trigger": "pathSmoothing\t\"CVar\"",
+			"contents": "pathSmoothing",
+		},
+		{
+			"trigger": "pendingInviteInfoShown\t\"CVar\"",
+			"contents": "pendingInviteInfoShown",
+		},
+		{
+			"trigger": "persistMoveLogOnTransfer\t\"CVar\"",
+			"contents": "persistMoveLogOnTransfer",
+		},
+		{
+			"trigger": "petJournalFilters\t\"CVar\"",
+			"contents": "petJournalFilters",
+		},
+		{
+			"trigger": "petJournalSort\t\"CVar\"",
+			"contents": "petJournalSort",
+		},
+		{
+			"trigger": "petJournalSourceFilters\t\"CVar\"",
+			"contents": "petJournalSourceFilters",
+		},
+		{
+			"trigger": "petJournalTab\t\"CVar\"",
+			"contents": "petJournalTab",
+		},
+		{
+			"trigger": "petJournalTypeFilters\t\"CVar\"",
+			"contents": "petJournalTypeFilters",
+		},
+		{
+			"trigger": "physicsLevel\t\"CVar\"",
+			"contents": "physicsLevel",
+		},
+		{
+			"trigger": "playerStatLeftDropdown\t\"CVar\"",
+			"contents": "playerStatLeftDropdown",
+		},
+		{
+			"trigger": "playerStatRightDropdown\t\"CVar\"",
+			"contents": "playerStatRightDropdown",
+		},
+		{
+			"trigger": "playIntroMovie\t\"CVar\"",
+			"contents": "playIntroMovie",
+		},
+		{
+			"trigger": "POIShiftComplete\t\"CVar\"",
+			"contents": "POIShiftComplete",
+		},
+		{
+			"trigger": "portal\t\"CVar\"",
+			"contents": "portal",
+		},
+		{
+			"trigger": "PraiseTheSun\t\"CVar\"",
+			"contents": "PraiseTheSun",
+		},
+		{
+			"trigger": "predictedHealth\t\"CVar\"",
+			"contents": "predictedHealth",
+		},
+		{
+			"trigger": "PreemptiveCastEnable\t\"CVar\"",
+			"contents": "PreemptiveCastEnable",
+		},
+		{
+			"trigger": "preloadLoadingDistObject\t\"CVar\"",
+			"contents": "preloadLoadingDistObject",
+		},
+		{
+			"trigger": "preloadLoadingDistTerrain\t\"CVar\"",
+			"contents": "preloadLoadingDistTerrain",
+		},
+		{
+			"trigger": "preloadPlayerModels\t\"CVar\"",
+			"contents": "preloadPlayerModels",
+		},
+		{
+			"trigger": "preloadStreamingDistObject\t\"CVar\"",
+			"contents": "preloadStreamingDistObject",
+		},
+		{
+			"trigger": "preloadStreamingDistTerrain\t\"CVar\"",
+			"contents": "preloadStreamingDistTerrain",
+		},
+		{
+			"trigger": "primaryProfessionsFilter\t\"CVar\"",
+			"contents": "primaryProfessionsFilter",
+		},
+		{
+			"trigger": "processAffinityMask\t\"CVar\"",
+			"contents": "processAffinityMask",
+		},
+		{
+			"trigger": "profanityFilter\t\"CVar\"",
+			"contents": "profanityFilter",
+		},
+		{
+			"trigger": "projectedTextures\t\"CVar\"",
+			"contents": "projectedTextures",
+		},
+		{
+			"trigger": "PushToTalkSound\t\"CVar\"",
+			"contents": "PushToTalkSound",
+		},
+		{
+			"trigger": "pvpBlacklistMaps0\t\"CVar\"",
+			"contents": "pvpBlacklistMaps0",
+		},
+		{
+			"trigger": "pvpBlacklistMaps1\t\"CVar\"",
+			"contents": "pvpBlacklistMaps1",
+		},
+		{
+			"trigger": "pvpSelectedRoles\t\"CVar\"",
+			"contents": "pvpSelectedRoles",
+		},
+		{
+			"trigger": "questLogOpen\t\"CVar\"",
+			"contents": "questLogOpen",
+		},
+		{
+			"trigger": "questPOI\t\"CVar\"",
+			"contents": "questPOI",
+		},
+		{
+			"trigger": "RAIDcomponentTextureLevel\t\"CVar\"",
+			"contents": "RAIDcomponentTextureLevel",
+		},
+		{
+			"trigger": "RAIDDepthBasedOpacity\t\"CVar\"",
+			"contents": "RAIDDepthBasedOpacity",
+		},
+		{
+			"trigger": "RAIDfarclip\t\"CVar\"",
+			"contents": "RAIDfarclip",
+		},
+		{
+			"trigger": "raidFramesDisplayAggroHighlight\t\"CVar\"",
+			"contents": "raidFramesDisplayAggroHighlight",
+		},
+		{
+			"trigger": "raidFramesDisplayClassColor\t\"CVar\"",
+			"contents": "raidFramesDisplayClassColor",
+		},
+		{
+			"trigger": "raidFramesDisplayOnlyDispellableDebuffs\t\"CVar\"",
+			"contents": "raidFramesDisplayOnlyDispellableDebuffs",
+		},
+		{
+			"trigger": "raidFramesDisplayPowerBars\t\"CVar\"",
+			"contents": "raidFramesDisplayPowerBars",
+		},
+		{
+			"trigger": "raidFramesHealthText\t\"CVar\"",
+			"contents": "raidFramesHealthText",
+		},
+		{
+			"trigger": "raidFramesHeight\t\"CVar\"",
+			"contents": "raidFramesHeight",
+		},
+		{
+			"trigger": "raidFramesPosition\t\"CVar\"",
+			"contents": "raidFramesPosition",
+		},
+		{
+			"trigger": "raidFramesWidth\t\"CVar\"",
+			"contents": "raidFramesWidth",
+		},
+		{
+			"trigger": "raidGraphicsDepthEffects\t\"CVar\"",
+			"contents": "raidGraphicsDepthEffects",
+		},
+		{
+			"trigger": "raidGraphicsEnvironmentDetail\t\"CVar\"",
+			"contents": "raidGraphicsEnvironmentDetail",
+		},
+		{
+			"trigger": "raidGraphicsGroundClutter\t\"CVar\"",
+			"contents": "raidGraphicsGroundClutter",
+		},
+		{
+			"trigger": "raidGraphicsLightingQuality\t\"CVar\"",
+			"contents": "raidGraphicsLightingQuality",
+		},
+		{
+			"trigger": "raidGraphicsLiquidDetail\t\"CVar\"",
+			"contents": "raidGraphicsLiquidDetail",
+		},
+		{
+			"trigger": "raidGraphicsOutlineMode\t\"CVar\"",
+			"contents": "raidGraphicsOutlineMode",
+		},
+		{
+			"trigger": "raidGraphicsParticleDensity\t\"CVar\"",
+			"contents": "raidGraphicsParticleDensity",
+		},
+		{
+			"trigger": "raidGraphicsProjectedTextures\t\"CVar\"",
+			"contents": "raidGraphicsProjectedTextures",
+		},
+		{
+			"trigger": "RAIDgraphicsQuality\t\"CVar\"",
+			"contents": "RAIDgraphicsQuality",
+		},
+		{
+			"trigger": "raidGraphicsShadowQuality\t\"CVar\"",
+			"contents": "raidGraphicsShadowQuality",
+		},
+		{
+			"trigger": "raidGraphicsSSAO\t\"CVar\"",
+			"contents": "raidGraphicsSSAO",
+		},
+		{
+			"trigger": "raidGraphicsSunshafts\t\"CVar\"",
+			"contents": "raidGraphicsSunshafts",
+		},
+		{
+			"trigger": "raidGraphicsTextureFiltering\t\"CVar\"",
+			"contents": "raidGraphicsTextureFiltering",
+		},
+		{
+			"trigger": "raidGraphicsTextureResolution\t\"CVar\"",
+			"contents": "raidGraphicsTextureResolution",
+		},
+		{
+			"trigger": "raidGraphicsViewDistance\t\"CVar\"",
+			"contents": "raidGraphicsViewDistance",
+		},
+		{
+			"trigger": "RAIDgroundEffectDensity\t\"CVar\"",
+			"contents": "RAIDgroundEffectDensity",
+		},
+		{
+			"trigger": "RAIDgroundEffectDist\t\"CVar\"",
+			"contents": "RAIDgroundEffectDist",
+		},
+		{
+			"trigger": "RAIDgroundEffectFade\t\"CVar\"",
+			"contents": "RAIDgroundEffectFade",
+		},
+		{
+			"trigger": "RAIDhorizonStart\t\"CVar\"",
+			"contents": "RAIDhorizonStart",
+		},
+		{
+			"trigger": "RAIDLightMode\t\"CVar\"",
+			"contents": "RAIDLightMode",
+		},
+		{
+			"trigger": "RAIDlodObjectCullDist\t\"CVar\"",
+			"contents": "RAIDlodObjectCullDist",
+		},
+		{
+			"trigger": "RAIDlodObjectCullSize\t\"CVar\"",
+			"contents": "RAIDlodObjectCullSize",
+		},
+		{
+			"trigger": "RAIDlodObjectFadeScale\t\"CVar\"",
+			"contents": "RAIDlodObjectFadeScale",
+		},
+		{
+			"trigger": "RAIDlodObjectMinSize\t\"CVar\"",
+			"contents": "RAIDlodObjectMinSize",
+		},
+		{
+			"trigger": "raidOptionDisplayMainTankAndAssist\t\"CVar\"",
+			"contents": "raidOptionDisplayMainTankAndAssist",
+		},
+		{
+			"trigger": "raidOptionDisplayPets\t\"CVar\"",
+			"contents": "raidOptionDisplayPets",
+		},
+		{
+			"trigger": "raidOptionIsShown\t\"CVar\"",
+			"contents": "raidOptionIsShown",
+		},
+		{
+			"trigger": "raidOptionKeepGroupsTogether\t\"CVar\"",
+			"contents": "raidOptionKeepGroupsTogether",
+		},
+		{
+			"trigger": "raidOptionLocked\t\"CVar\"",
+			"contents": "raidOptionLocked",
+		},
+		{
+			"trigger": "raidOptionShowBorders\t\"CVar\"",
+			"contents": "raidOptionShowBorders",
+		},
+		{
+			"trigger": "raidOptionSortMode\t\"CVar\"",
+			"contents": "raidOptionSortMode",
+		},
+		{
+			"trigger": "raidOrBattleCount\t\"CVar\"",
+			"contents": "raidOrBattleCount",
+		},
+		{
+			"trigger": "RAIDOutlineEngineMode\t\"CVar\"",
+			"contents": "RAIDOutlineEngineMode",
+		},
+		{
+			"trigger": "RAIDparticleDensity\t\"CVar\"",
+			"contents": "RAIDparticleDensity",
+		},
+		{
+			"trigger": "RAIDparticleMTDensity\t\"CVar\"",
+			"contents": "RAIDparticleMTDensity",
+		},
+		{
+			"trigger": "RAIDprojectedTextures\t\"CVar\"",
+			"contents": "RAIDprojectedTextures",
+		},
+		{
+			"trigger": "RAIDreflectionMode\t\"CVar\"",
+			"contents": "RAIDreflectionMode",
+		},
+		{
+			"trigger": "RAIDrefraction\t\"CVar\"",
+			"contents": "RAIDrefraction",
+		},
+		{
+			"trigger": "RAIDrippleDetail\t\"CVar\"",
+			"contents": "RAIDrippleDetail",
+		},
+		{
+			"trigger": "RAIDsettingsEnabled\t\"CVar\"",
+			"contents": "RAIDsettingsEnabled",
+		},
+		{
+			"trigger": "RAIDshadowMode\t\"CVar\"",
+			"contents": "RAIDshadowMode",
+		},
+		{
+			"trigger": "RAIDshadowSoft\t\"CVar\"",
+			"contents": "RAIDshadowSoft",
+		},
+		{
+			"trigger": "RAIDshadowTextureSize\t\"CVar\"",
+			"contents": "RAIDshadowTextureSize",
+		},
+		{
+			"trigger": "RAIDSSAO\t\"CVar\"",
+			"contents": "RAIDSSAO",
+		},
+		{
+			"trigger": "RAIDSSAOBlur\t\"CVar\"",
+			"contents": "RAIDSSAOBlur",
+		},
+		{
+			"trigger": "RAIDsunShafts\t\"CVar\"",
+			"contents": "RAIDsunShafts",
+		},
+		{
+			"trigger": "RAIDterrainLodDist\t\"CVar\"",
+			"contents": "RAIDterrainLodDist",
+		},
+		{
+			"trigger": "RAIDterrainMipLevel\t\"CVar\"",
+			"contents": "RAIDterrainMipLevel",
+		},
+		{
+			"trigger": "RAIDtextureFilteringMode\t\"CVar\"",
+			"contents": "RAIDtextureFilteringMode",
+		},
+		{
+			"trigger": "RAIDWaterDetail\t\"CVar\"",
+			"contents": "RAIDWaterDetail",
+		},
+		{
+			"trigger": "RAIDweatherDensity\t\"CVar\"",
+			"contents": "RAIDweatherDensity",
+		},
+		{
+			"trigger": "RAIDwmoLodDist\t\"CVar\"",
+			"contents": "RAIDwmoLodDist",
+		},
+		{
+			"trigger": "RAIDworldBaseMip\t\"CVar\"",
+			"contents": "RAIDworldBaseMip",
+		},
+		{
+			"trigger": "rawMouseAccelerationEnable\t\"CVar\"",
+			"contents": "rawMouseAccelerationEnable",
+		},
+		{
+			"trigger": "rawMouseEnable\t\"CVar\"",
+			"contents": "rawMouseEnable",
+		},
+		{
+			"trigger": "rawMouseRate\t\"CVar\"",
+			"contents": "rawMouseRate",
+		},
+		{
+			"trigger": "rawMouseResolution\t\"CVar\"",
+			"contents": "rawMouseResolution",
+		},
+		{
+			"trigger": "reflectionDownscale\t\"CVar\"",
+			"contents": "reflectionDownscale",
+		},
+		{
+			"trigger": "reflectionMode\t\"CVar\"",
+			"contents": "reflectionMode",
+		},
+		{
+			"trigger": "refraction\t\"CVar\"",
+			"contents": "refraction",
+		},
+		{
+			"trigger": "removeChatDelay\t\"CVar\"",
+			"contents": "removeChatDelay",
+		},
+		{
+			"trigger": "RenderScale\t\"CVar\"",
+			"contents": "RenderScale",
+		},
+		{
+			"trigger": "reputationsCollapsed\t\"CVar\"",
+			"contents": "reputationsCollapsed",
+		},
+		{
+			"trigger": "ResampleQuality\t\"CVar\"",
+			"contents": "ResampleQuality",
+		},
+		{
+			"trigger": "rippleDetail\t\"CVar\"",
+			"contents": "rippleDetail",
+		},
+		{
+			"trigger": "rotateMinimap\t\"CVar\"",
+			"contents": "rotateMinimap",
+		},
+		{
+			"trigger": "runeFadeTime\t\"CVar\"",
+			"contents": "runeFadeTime",
+		},
+		{
+			"trigger": "runeSpentFadeTime\t\"CVar\"",
+			"contents": "runeSpentFadeTime",
+		},
+		{
+			"trigger": "runeSpentFlashTime\t\"CVar\"",
+			"contents": "runeSpentFlashTime",
+		},
+		{
+			"trigger": "sceneOcclusionEnable\t\"CVar\"",
+			"contents": "sceneOcclusionEnable",
+		},
+		{
+			"trigger": "screenEdgeFlash\t\"CVar\"",
+			"contents": "screenEdgeFlash",
+		},
+		{
+			"trigger": "screenshotFormat\t\"CVar\"",
+			"contents": "screenshotFormat",
+		},
+		{
+			"trigger": "screenshotQuality\t\"CVar\"",
+			"contents": "screenshotQuality",
+		},
+		{
+			"trigger": "scriptErrors\t\"CVar\"",
+			"contents": "scriptErrors",
+		},
+		{
+			"trigger": "scriptProfile\t\"CVar\"",
+			"contents": "scriptProfile",
+		},
+		{
+			"trigger": "scriptWarnings\t\"CVar\"",
+			"contents": "scriptWarnings",
+		},
+		{
+			"trigger": "secondaryProfessionsFilter\t\"CVar\"",
+			"contents": "secondaryProfessionsFilter",
+		},
+		{
+			"trigger": "secureAbilityToggle\t\"CVar\"",
+			"contents": "secureAbilityToggle",
+		},
+		{
+			"trigger": "seenAsiaCharacterUpgradePopup\t\"CVar\"",
+			"contents": "seenAsiaCharacterUpgradePopup",
+		},
+		{
+			"trigger": "seenCharacterUpgradePopup\t\"CVar\"",
+			"contents": "seenCharacterUpgradePopup",
+		},
+		{
+			"trigger": "seenConfigurationWarnings\t\"CVar\"",
+			"contents": "seenConfigurationWarnings",
+		},
+		{
+			"trigger": "serverAlert\t\"CVar\"",
+			"contents": "serverAlert",
+		},
+		{
+			"trigger": "serviceTypeFilter\t\"CVar\"",
+			"contents": "serviceTypeFilter",
+		},
+		{
+			"trigger": "shadowCull\t\"CVar\"",
+			"contents": "shadowCull",
+		},
+		{
+			"trigger": "shadowInstancing\t\"CVar\"",
+			"contents": "shadowInstancing",
+		},
+		{
+			"trigger": "shadowMode\t\"CVar\"",
+			"contents": "shadowMode",
+		},
+		{
+			"trigger": "shadowScissor\t\"CVar\"",
+			"contents": "shadowScissor",
+		},
+		{
+			"trigger": "shadowSoft\t\"CVar\"",
+			"contents": "shadowSoft",
+		},
+		{
+			"trigger": "shadowTextureSize\t\"CVar\"",
+			"contents": "shadowTextureSize",
+		},
+		{
+			"trigger": "shipyardMissionTutorialAreaBuff\t\"CVar\"",
+			"contents": "shipyardMissionTutorialAreaBuff",
+		},
+		{
+			"trigger": "shipyardMissionTutorialBlockade\t\"CVar\"",
+			"contents": "shipyardMissionTutorialBlockade",
+		},
+		{
+			"trigger": "shipyardMissionTutorialFirst\t\"CVar\"",
+			"contents": "shipyardMissionTutorialFirst",
+		},
+		{
+			"trigger": "showArenaEnemyCastbar\t\"CVar\"",
+			"contents": "showArenaEnemyCastbar",
+		},
+		{
+			"trigger": "showArenaEnemyFrames\t\"CVar\"",
+			"contents": "showArenaEnemyFrames",
+		},
+		{
+			"trigger": "showArenaEnemyPets\t\"CVar\"",
+			"contents": "showArenaEnemyPets",
+		},
+		{
+			"trigger": "showArtifactXPBar\t\"CVar\"",
+			"contents": "showArtifactXPBar",
+		},
+		{
+			"trigger": "showBattlefieldMinimap\t\"CVar\"",
+			"contents": "showBattlefieldMinimap",
+		},
+		{
+			"trigger": "showBuilderFeedback\t\"CVar\"",
+			"contents": "showBuilderFeedback",
+		},
+		{
+			"trigger": "showCastableBuffs\t\"CVar\"",
+			"contents": "showCastableBuffs",
+		},
+		{
+			"trigger": "ShowClassColorInFriendlyNameplate\t\"CVar\"",
+			"contents": "ShowClassColorInFriendlyNameplate",
+		},
+		{
+			"trigger": "ShowClassColorInNameplate\t\"CVar\"",
+			"contents": "ShowClassColorInNameplate",
+		},
+		{
+			"trigger": "showDispelDebuffs\t\"CVar\"",
+			"contents": "showDispelDebuffs",
+		},
+		{
+			"trigger": "showErrors\t\"CVar\"",
+			"contents": "showErrors",
+		},
+		{
+			"trigger": "showfootprintparticles\t\"CVar\"",
+			"contents": "showfootprintparticles",
+		},
+		{
+			"trigger": "showHonorAsExperience\t\"CVar\"",
+			"contents": "showHonorAsExperience",
+		},
+		{
+			"trigger": "ShowNamePlateLoseAggroFlash\t\"CVar\"",
+			"contents": "ShowNamePlateLoseAggroFlash",
+		},
+		{
+			"trigger": "showNPETutorials\t\"CVar\"",
+			"contents": "showNPETutorials",
+		},
+		{
+			"trigger": "showPartyBackground\t\"CVar\"",
+			"contents": "showPartyBackground",
+		},
+		{
+			"trigger": "showPartyPets\t\"CVar\"",
+			"contents": "showPartyPets",
+		},
+		{
+			"trigger": "showQuestObjectivesOnMap\t\"CVar\"",
+			"contents": "showQuestObjectivesOnMap",
+		},
+		{
+			"trigger": "showQuestTrackingTooltips\t\"CVar\"",
+			"contents": "showQuestTrackingTooltips",
+		},
+		{
+			"trigger": "ShowQuestUnitCircles\t\"CVar\"",
+			"contents": "ShowQuestUnitCircles",
+		},
+		{
+			"trigger": "showSpectatorTeamCircles\t\"CVar\"",
+			"contents": "showSpectatorTeamCircles",
+		},
+		{
+			"trigger": "showSpenderFeedback\t\"CVar\"",
+			"contents": "showSpenderFeedback",
+		},
+		{
+			"trigger": "showTamers\t\"CVar\"",
+			"contents": "showTamers",
+		},
+		{
+			"trigger": "showTargetCastbar\t\"CVar\"",
+			"contents": "showTargetCastbar",
+		},
+		{
+			"trigger": "showTargetOfTarget\t\"CVar\"",
+			"contents": "showTargetOfTarget",
+		},
+		{
+			"trigger": "showTimestamps\t\"CVar\"",
+			"contents": "showTimestamps",
+		},
+		{
+			"trigger": "showToastBroadcast\t\"CVar\"",
+			"contents": "showToastBroadcast",
+		},
+		{
+			"trigger": "showToastConversation\t\"CVar\"",
+			"contents": "showToastConversation",
+		},
+		{
+			"trigger": "showToastFriendRequest\t\"CVar\"",
+			"contents": "showToastFriendRequest",
+		},
+		{
+			"trigger": "showToastOffline\t\"CVar\"",
+			"contents": "showToastOffline",
+		},
+		{
+			"trigger": "showToastOnline\t\"CVar\"",
+			"contents": "showToastOnline",
+		},
+		{
+			"trigger": "showToastWindow\t\"CVar\"",
+			"contents": "showToastWindow",
+		},
+		{
+			"trigger": "showTokenFrame\t\"CVar\"",
+			"contents": "showTokenFrame",
+		},
+		{
+			"trigger": "showTokenFrameHonor\t\"CVar\"",
+			"contents": "showTokenFrameHonor",
+		},
+		{
+			"trigger": "showTutorials\t\"CVar\"",
+			"contents": "showTutorials",
+		},
+		{
+			"trigger": "showVKeyCastbar\t\"CVar\"",
+			"contents": "showVKeyCastbar",
+		},
+		{
+			"trigger": "showVKeyCastbarOnlyOnTarget\t\"CVar\"",
+			"contents": "showVKeyCastbarOnlyOnTarget",
+		},
+		{
+			"trigger": "showVKeyCastbarSpellName\t\"CVar\"",
+			"contents": "showVKeyCastbarSpellName",
+		},
+		{
+			"trigger": "simd\t\"CVar\"",
+			"contents": "simd",
+		},
+		{
+			"trigger": "skipStartGear\t\"CVar\"",
+			"contents": "skipStartGear",
+		},
+		{
+			"trigger": "SkyCloudLOD\t\"CVar\"",
+			"contents": "SkyCloudLOD",
+		},
+		{
+			"trigger": "smoothUnitPhasing\t\"CVar\"",
+			"contents": "smoothUnitPhasing",
+		},
+		{
+			"trigger": "smoothUnitPhasingActorPurgatoryTimeMs\t\"CVar\"",
+			"contents": "smoothUnitPhasingActorPurgatoryTimeMs",
+		},
+		{
+			"trigger": "smoothUnitPhasingAliveTimeoutMs\t\"CVar\"",
+			"contents": "smoothUnitPhasingAliveTimeoutMs",
+		},
+		{
+			"trigger": "smoothUnitPhasingDestroyedPurgatoryTimeMs\t\"CVar\"",
+			"contents": "smoothUnitPhasingDestroyedPurgatoryTimeMs",
+		},
+		{
+			"trigger": "smoothUnitPhasingDistThreshold\t\"CVar\"",
+			"contents": "smoothUnitPhasingDistThreshold",
+		},
+		{
+			"trigger": "smoothUnitPhasingEnableAlive\t\"CVar\"",
+			"contents": "smoothUnitPhasingEnableAlive",
+		},
+		{
+			"trigger": "smoothUnitPhasingUnseenPurgatoryTimeMs\t\"CVar\"",
+			"contents": "smoothUnitPhasingUnseenPurgatoryTimeMs",
+		},
+		{
+			"trigger": "smoothUnitPhasingVehicleExtraTimeoutMs\t\"CVar\"",
+			"contents": "smoothUnitPhasingVehicleExtraTimeoutMs",
+		},
+		{
+			"trigger": "sortDiskReads\t\"CVar\"",
+			"contents": "sortDiskReads",
+		},
+		{
+			"trigger": "Sound_AlternateListener\t\"CVar\"",
+			"contents": "Sound_AlternateListener",
+		},
+		{
+			"trigger": "Sound_AmbienceVolume\t\"CVar\"",
+			"contents": "Sound_AmbienceVolume",
+		},
+		{
+			"trigger": "Sound_DialogVolume\t\"CVar\"",
+			"contents": "Sound_DialogVolume",
+		},
+		{
+			"trigger": "Sound_DSPBufferSize\t\"CVar\"",
+			"contents": "Sound_DSPBufferSize",
+		},
+		{
+			"trigger": "Sound_EnableAllSound\t\"CVar\"",
+			"contents": "Sound_EnableAllSound",
+		},
+		{
+			"trigger": "Sound_EnableAmbience\t\"CVar\"",
+			"contents": "Sound_EnableAmbience",
+		},
+		{
+			"trigger": "Sound_EnableArmorFoleySoundForOthers\t\"CVar\"",
+			"contents": "Sound_EnableArmorFoleySoundForOthers",
+		},
+		{
+			"trigger": "Sound_EnableArmorFoleySoundForSelf\t\"CVar\"",
+			"contents": "Sound_EnableArmorFoleySoundForSelf",
+		},
+		{
+			"trigger": "Sound_EnableDialog\t\"CVar\"",
+			"contents": "Sound_EnableDialog",
+		},
+		{
+			"trigger": "Sound_EnableDSPEffects\t\"CVar\"",
+			"contents": "Sound_EnableDSPEffects",
+		},
+		{
+			"trigger": "Sound_EnableEmoteSounds\t\"CVar\"",
+			"contents": "Sound_EnableEmoteSounds",
+		},
+		{
+			"trigger": "Sound_EnableErrorSpeech\t\"CVar\"",
+			"contents": "Sound_EnableErrorSpeech",
+		},
+		{
+			"trigger": "Sound_EnableMixMode2\t\"CVar\"",
+			"contents": "Sound_EnableMixMode2",
+		},
+		{
+			"trigger": "Sound_EnableMusic\t\"CVar\"",
+			"contents": "Sound_EnableMusic",
+		},
+		{
+			"trigger": "Sound_EnablePetBattleMusic\t\"CVar\"",
+			"contents": "Sound_EnablePetBattleMusic",
+		},
+		{
+			"trigger": "Sound_EnablePetSounds\t\"CVar\"",
+			"contents": "Sound_EnablePetSounds",
+		},
+		{
+			"trigger": "Sound_EnablePositionalLowPassFilter\t\"CVar\"",
+			"contents": "Sound_EnablePositionalLowPassFilter",
+		},
+		{
+			"trigger": "Sound_EnableReverb\t\"CVar\"",
+			"contents": "Sound_EnableReverb",
+		},
+		{
+			"trigger": "Sound_EnableSFX\t\"CVar\"",
+			"contents": "Sound_EnableSFX",
+		},
+		{
+			"trigger": "Sound_EnableSoundWhenGameIsInBG\t\"CVar\"",
+			"contents": "Sound_EnableSoundWhenGameIsInBG",
+		},
+		{
+			"trigger": "Sound_ListenerAtCharacter\t\"CVar\"",
+			"contents": "Sound_ListenerAtCharacter",
+		},
+		{
+			"trigger": "Sound_MasterVolume\t\"CVar\"",
+			"contents": "Sound_MasterVolume",
+		},
+		{
+			"trigger": "Sound_MaxCacheableSizeInBytes\t\"CVar\"",
+			"contents": "Sound_MaxCacheableSizeInBytes",
+		},
+		{
+			"trigger": "Sound_MaxCacheSizeInBytes\t\"CVar\"",
+			"contents": "Sound_MaxCacheSizeInBytes",
+		},
+		{
+			"trigger": "Sound_MusicVolume\t\"CVar\"",
+			"contents": "Sound_MusicVolume",
+		},
+		{
+			"trigger": "Sound_NumChannels\t\"CVar\"",
+			"contents": "Sound_NumChannels",
+		},
+		{
+			"trigger": "Sound_OutputDriverIndex\t\"CVar\"",
+			"contents": "Sound_OutputDriverIndex",
+		},
+		{
+			"trigger": "Sound_OutputDriverName\t\"CVar\"",
+			"contents": "Sound_OutputDriverName",
+		},
+		{
+			"trigger": "Sound_OutputSampleRate\t\"CVar\"",
+			"contents": "Sound_OutputSampleRate",
+		},
+		{
+			"trigger": "Sound_SFXVolume\t\"CVar\"",
+			"contents": "Sound_SFXVolume",
+		},
+		{
+			"trigger": "Sound_VoiceChatInputDriverIndex\t\"CVar\"",
+			"contents": "Sound_VoiceChatInputDriverIndex",
+		},
+		{
+			"trigger": "Sound_VoiceChatInputDriverName\t\"CVar\"",
+			"contents": "Sound_VoiceChatInputDriverName",
+		},
+		{
+			"trigger": "Sound_VoiceChatOutputDriverIndex\t\"CVar\"",
+			"contents": "Sound_VoiceChatOutputDriverIndex",
+		},
+		{
+			"trigger": "Sound_VoiceChatOutputDriverName\t\"CVar\"",
+			"contents": "Sound_VoiceChatOutputDriverName",
+		},
+		{
+			"trigger": "Sound_ZoneMusicNoDelay\t\"CVar\"",
+			"contents": "Sound_ZoneMusicNoDelay",
+		},
+		{
+			"trigger": "SoundPerf_VariationCap\t\"CVar\"",
+			"contents": "SoundPerf_VariationCap",
+		},
+		{
+			"trigger": "spamFilter\t\"CVar\"",
+			"contents": "spamFilter",
+		},
+		{
+			"trigger": "spellActivationOverlayOpacity\t\"CVar\"",
+			"contents": "spellActivationOverlayOpacity",
+		},
+		{
+			"trigger": "spellBookSort\t\"CVar\"",
+			"contents": "spellBookSort",
+		},
+		{
+			"trigger": "spellClutter\t\"CVar\"",
+			"contents": "spellClutter",
+		},
+		{
+			"trigger": "spellClutterDefaultTargetScalar\t\"CVar\"",
+			"contents": "spellClutterDefaultTargetScalar",
+		},
+		{
+			"trigger": "spellClutterHostileScalar\t\"CVar\"",
+			"contents": "spellClutterHostileScalar",
+		},
+		{
+			"trigger": "spellClutterMinSpellCount\t\"CVar\"",
+			"contents": "spellClutterMinSpellCount",
+		},
+		{
+			"trigger": "spellClutterPartySizeScalar\t\"CVar\"",
+			"contents": "spellClutterPartySizeScalar",
+		},
+		{
+			"trigger": "spellClutterPlayerScalarMultiplier\t\"CVar\"",
+			"contents": "spellClutterPlayerScalarMultiplier",
+		},
+		{
+			"trigger": "spellClutterRangeConstant\t\"CVar\"",
+			"contents": "spellClutterRangeConstant",
+		},
+		{
+			"trigger": "spellClutterRangeConstantRaid\t\"CVar\"",
+			"contents": "spellClutterRangeConstantRaid",
+		},
+		{
+			"trigger": "SpellQueueWindow\t\"CVar\"",
+			"contents": "SpellQueueWindow",
+		},
+		{
+			"trigger": "splashScreenBoost\t\"CVar\"",
+			"contents": "splashScreenBoost",
+		},
+		{
+			"trigger": "splashScreenNormal\t\"CVar\"",
+			"contents": "splashScreenNormal",
+		},
+		{
+			"trigger": "SplineOpt\t\"CVar\"",
+			"contents": "SplineOpt",
+		},
+		{
+			"trigger": "SSAO\t\"CVar\"",
+			"contents": "SSAO",
+		},
+		{
+			"trigger": "SSAOBlur\t\"CVar\"",
+			"contents": "SSAOBlur",
+		},
+		{
+			"trigger": "SSAODistance\t\"CVar\"",
+			"contents": "SSAODistance",
+		},
+		{
+			"trigger": "statusText\t\"CVar\"",
+			"contents": "statusText",
+		},
+		{
+			"trigger": "statusTextDisplay\t\"CVar\"",
+			"contents": "statusTextDisplay",
+		},
+		{
+			"trigger": "stopAutoAttackOnTargetChange\t\"CVar\"",
+			"contents": "stopAutoAttackOnTargetChange",
+		},
+		{
+			"trigger": "streamingCameraLookAheadTime\t\"CVar\"",
+			"contents": "streamingCameraLookAheadTime",
+		},
+		{
+			"trigger": "streamingCameraMaxRadius\t\"CVar\"",
+			"contents": "streamingCameraMaxRadius",
+		},
+		{
+			"trigger": "streamingCameraRadius\t\"CVar\"",
+			"contents": "streamingCameraRadius",
+		},
+		{
+			"trigger": "streamStatusMessage\t\"CVar\"",
+			"contents": "streamStatusMessage",
+		},
+		{
+			"trigger": "sunShafts\t\"CVar\"",
+			"contents": "sunShafts",
+		},
+		{
+			"trigger": "superTrackerDist\t\"CVar\"",
+			"contents": "superTrackerDist",
+		},
+		{
+			"trigger": "synchronizeBindings\t\"CVar\"",
+			"contents": "synchronizeBindings",
+		},
+		{
+			"trigger": "synchronizeChatFrames\t\"CVar\"",
+			"contents": "synchronizeChatFrames",
+		},
+		{
+			"trigger": "synchronizeConfig\t\"CVar\"",
+			"contents": "synchronizeConfig",
+		},
+		{
+			"trigger": "synchronizeMacros\t\"CVar\"",
+			"contents": "synchronizeMacros",
+		},
+		{
+			"trigger": "synchronizeSettings\t\"CVar\"",
+			"contents": "synchronizeSettings",
+		},
+		{
+			"trigger": "taintLog\t\"CVar\"",
+			"contents": "taintLog",
+		},
+		{
+			"trigger": "talentFrameShown\t\"CVar\"",
+			"contents": "talentFrameShown",
+		},
+		{
+			"trigger": "talentPointsSpent\t\"CVar\"",
+			"contents": "talentPointsSpent",
+		},
+		{
+			"trigger": "TargetNearestUseNew\t\"CVar\"",
+			"contents": "TargetNearestUseNew",
+		},
+		{
+			"trigger": "TargetPriorityCombatLock\t\"CVar\"",
+			"contents": "TargetPriorityCombatLock",
+		},
+		{
+			"trigger": "TargetPriorityCombatLockContextualRelaxation\t\"CVar\"",
+			"contents": "TargetPriorityCombatLockContextualRelaxation",
+		},
+		{
+			"trigger": "TargetPriorityCombatLockHighlight\t\"CVar\"",
+			"contents": "TargetPriorityCombatLockHighlight",
+		},
+		{
+			"trigger": "TargetPriorityPvp\t\"CVar\"",
+			"contents": "TargetPriorityPvp",
+		},
+		{
+			"trigger": "TargetPriorityValueBank\t\"CVar\"",
+			"contents": "TargetPriorityValueBank",
+		},
+		{
+			"trigger": "terrainAlphaBitDepth\t\"CVar\"",
+			"contents": "terrainAlphaBitDepth",
+		},
+		{
+			"trigger": "terrainHoles\t\"CVar\"",
+			"contents": "terrainHoles",
+		},
+		{
+			"trigger": "terrainLodDist\t\"CVar\"",
+			"contents": "terrainLodDist",
+		},
+		{
+			"trigger": "terrainMipLevel\t\"CVar\"",
+			"contents": "terrainMipLevel",
+		},
+		{
+			"trigger": "test_cameraDynamicPitch\t\"CVar\"",
+			"contents": "test_cameraDynamicPitch",
+		},
+		{
+			"trigger": "test_cameraDynamicPitchBaseFovPad\t\"CVar\"",
+			"contents": "test_cameraDynamicPitchBaseFovPad",
+		},
+		{
+			"trigger": "test_cameraDynamicPitchBaseFovPadDownScale\t\"CVar\"",
+			"contents": "test_cameraDynamicPitchBaseFovPadDownScale",
+		},
+		{
+			"trigger": "test_cameraDynamicPitchBaseFovPadFlying\t\"CVar\"",
+			"contents": "test_cameraDynamicPitchBaseFovPadFlying",
+		},
+		{
+			"trigger": "test_cameraDynamicPitchSmartPivotCutoffDist\t\"CVar\"",
+			"contents": "test_cameraDynamicPitchSmartPivotCutoffDist",
+		},
+		{
+			"trigger": "test_cameraHeadMovementDeadZone\t\"CVar\"",
+			"contents": "test_cameraHeadMovementDeadZone",
+		},
+		{
+			"trigger": "test_cameraHeadMovementFirstPersonDampRate\t\"CVar\"",
+			"contents": "test_cameraHeadMovementFirstPersonDampRate",
+		},
+		{
+			"trigger": "test_cameraHeadMovementMovingDampRate\t\"CVar\"",
+			"contents": "test_cameraHeadMovementMovingDampRate",
+		},
+		{
+			"trigger": "test_cameraHeadMovementMovingStrength\t\"CVar\"",
+			"contents": "test_cameraHeadMovementMovingStrength",
+		},
+		{
+			"trigger": "test_cameraHeadMovementRangeScale\t\"CVar\"",
+			"contents": "test_cameraHeadMovementRangeScale",
+		},
+		{
+			"trigger": "test_cameraHeadMovementStandingDampRate\t\"CVar\"",
+			"contents": "test_cameraHeadMovementStandingDampRate",
+		},
+		{
+			"trigger": "test_cameraHeadMovementStandingStrength\t\"CVar\"",
+			"contents": "test_cameraHeadMovementStandingStrength",
+		},
+		{
+			"trigger": "test_cameraHeadMovementStrength\t\"CVar\"",
+			"contents": "test_cameraHeadMovementStrength",
+		},
+		{
+			"trigger": "test_cameraOverShoulder\t\"CVar\"",
+			"contents": "test_cameraOverShoulder",
+		},
+		{
+			"trigger": "test_cameraTargetFocusEnemyEnable\t\"CVar\"",
+			"contents": "test_cameraTargetFocusEnemyEnable",
+		},
+		{
+			"trigger": "test_cameraTargetFocusEnemyStrengthPitch\t\"CVar\"",
+			"contents": "test_cameraTargetFocusEnemyStrengthPitch",
+		},
+		{
+			"trigger": "test_cameraTargetFocusEnemyStrengthYaw\t\"CVar\"",
+			"contents": "test_cameraTargetFocusEnemyStrengthYaw",
+		},
+		{
+			"trigger": "test_cameraTargetFocusInteractEnable\t\"CVar\"",
+			"contents": "test_cameraTargetFocusInteractEnable",
+		},
+		{
+			"trigger": "test_cameraTargetFocusInteractStrengthPitch\t\"CVar\"",
+			"contents": "test_cameraTargetFocusInteractStrengthPitch",
+		},
+		{
+			"trigger": "test_cameraTargetFocusInteractStrengthYaw\t\"CVar\"",
+			"contents": "test_cameraTargetFocusInteractStrengthYaw",
+		},
+		{
+			"trigger": "textLocale\t\"CVar\"",
+			"contents": "textLocale",
+		},
+		{
+			"trigger": "textureFilteringMode\t\"CVar\"",
+			"contents": "textureFilteringMode",
+		},
+		{
+			"trigger": "threatPlaySounds\t\"CVar\"",
+			"contents": "threatPlaySounds",
+		},
+		{
+			"trigger": "threatShowNumeric\t\"CVar\"",
+			"contents": "threatShowNumeric",
+		},
+		{
+			"trigger": "threatWarning\t\"CVar\"",
+			"contents": "threatWarning",
+		},
+		{
+			"trigger": "threatWorldText\t\"CVar\"",
+			"contents": "threatWorldText",
+		},
+		{
+			"trigger": "timeMgrAlarmEnabled\t\"CVar\"",
+			"contents": "timeMgrAlarmEnabled",
+		},
+		{
+			"trigger": "timeMgrAlarmMessage\t\"CVar\"",
+			"contents": "timeMgrAlarmMessage",
+		},
+		{
+			"trigger": "timeMgrAlarmTime\t\"CVar\"",
+			"contents": "timeMgrAlarmTime",
+		},
+		{
+			"trigger": "timeMgrUseLocalTime\t\"CVar\"",
+			"contents": "timeMgrUseLocalTime",
+		},
+		{
+			"trigger": "timeMgrUseMilitaryTime\t\"CVar\"",
+			"contents": "timeMgrUseMilitaryTime",
+		},
+		{
+			"trigger": "timingMethod\t\"CVar\"",
+			"contents": "timingMethod",
+		},
+		{
+			"trigger": "timingTestError\t\"CVar\"",
+			"contents": "timingTestError",
+		},
+		{
+			"trigger": "toastDuration\t\"CVar\"",
+			"contents": "toastDuration",
+		},
+		{
+			"trigger": "toyBoxCollectedFilters\t\"CVar\"",
+			"contents": "toyBoxCollectedFilters",
+		},
+		{
+			"trigger": "toyBoxExpansionFilters\t\"CVar\"",
+			"contents": "toyBoxExpansionFilters",
+		},
+		{
+			"trigger": "toyBoxSourceFilters\t\"CVar\"",
+			"contents": "toyBoxSourceFilters",
+		},
+		{
+			"trigger": "trackedAchievements\t\"CVar\"",
+			"contents": "trackedAchievements",
+		},
+		{
+			"trigger": "trackedQuests\t\"CVar\"",
+			"contents": "trackedQuests",
+		},
+		{
+			"trigger": "trackedWorldQuests\t\"CVar\"",
+			"contents": "trackedWorldQuests",
+		},
+		{
+			"trigger": "trackQuestSorting\t\"CVar\"",
+			"contents": "trackQuestSorting",
+		},
+		{
+			"trigger": "transmogCurrentSpecOnly\t\"CVar\"",
+			"contents": "transmogCurrentSpecOnly",
+		},
+		{
+			"trigger": "transmogrifyShowCollected\t\"CVar\"",
+			"contents": "transmogrifyShowCollected",
+		},
+		{
+			"trigger": "transmogrifyShowUncollected\t\"CVar\"",
+			"contents": "transmogrifyShowUncollected",
+		},
+		{
+			"trigger": "transmogrifySourceFilters\t\"CVar\"",
+			"contents": "transmogrifySourceFilters",
+		},
+		{
+			"trigger": "twitterCharactersPerMedia\t\"CVar\"",
+			"contents": "twitterCharactersPerMedia",
+		},
+		{
+			"trigger": "twitterGetConfigTime\t\"CVar\"",
+			"contents": "twitterGetConfigTime",
+		},
+		{
+			"trigger": "twitterShortUrlLength\t\"CVar\"",
+			"contents": "twitterShortUrlLength",
+		},
+		{
+			"trigger": "twitterShortUrlLengthHttps\t\"CVar\"",
+			"contents": "twitterShortUrlLengthHttps",
+		},
+		{
+			"trigger": "UberTooltips\t\"CVar\"",
+			"contents": "UberTooltips",
+		},
+		{
+			"trigger": "uiScale\t\"CVar\"",
+			"contents": "uiScale",
+		},
+		{
+			"trigger": "uiScaleMultiplier\t\"CVar\"",
+			"contents": "uiScaleMultiplier",
+		},
+		{
+			"trigger": "unitClutter\t\"CVar\"",
+			"contents": "unitClutter",
+		},
+		{
+			"trigger": "unitClutterInstancesOnly\t\"CVar\"",
+			"contents": "unitClutterInstancesOnly",
+		},
+		{
+			"trigger": "unitClutterPlayerThreshold\t\"CVar\"",
+			"contents": "unitClutterPlayerThreshold",
+		},
+		{
+			"trigger": "UnitNameEnemyGuardianName\t\"CVar\"",
+			"contents": "UnitNameEnemyGuardianName",
+		},
+		{
+			"trigger": "UnitNameEnemyMinionName\t\"CVar\"",
+			"contents": "UnitNameEnemyMinionName",
+		},
+		{
+			"trigger": "UnitNameEnemyPetName\t\"CVar\"",
+			"contents": "UnitNameEnemyPetName",
+		},
+		{
+			"trigger": "UnitNameEnemyPlayerName\t\"CVar\"",
+			"contents": "UnitNameEnemyPlayerName",
+		},
+		{
+			"trigger": "UnitNameEnemyTotemName\t\"CVar\"",
+			"contents": "UnitNameEnemyTotemName",
+		},
+		{
+			"trigger": "UnitNameForceHideMinus\t\"CVar\"",
+			"contents": "UnitNameForceHideMinus",
+		},
+		{
+			"trigger": "UnitNameFriendlyGuardianName\t\"CVar\"",
+			"contents": "UnitNameFriendlyGuardianName",
+		},
+		{
+			"trigger": "UnitNameFriendlyMinionName\t\"CVar\"",
+			"contents": "UnitNameFriendlyMinionName",
+		},
+		{
+			"trigger": "UnitNameFriendlyPetName\t\"CVar\"",
+			"contents": "UnitNameFriendlyPetName",
+		},
+		{
+			"trigger": "UnitNameFriendlyPlayerName\t\"CVar\"",
+			"contents": "UnitNameFriendlyPlayerName",
+		},
+		{
+			"trigger": "UnitNameFriendlySpecialNPCName\t\"CVar\"",
+			"contents": "UnitNameFriendlySpecialNPCName",
+		},
+		{
+			"trigger": "UnitNameFriendlyTotemName\t\"CVar\"",
+			"contents": "UnitNameFriendlyTotemName",
+		},
+		{
+			"trigger": "UnitNameGuildTitle\t\"CVar\"",
+			"contents": "UnitNameGuildTitle",
+		},
+		{
+			"trigger": "UnitNameHostleNPC\t\"CVar\"",
+			"contents": "UnitNameHostleNPC",
+		},
+		{
+			"trigger": "UnitNameInteractiveNPC\t\"CVar\"",
+			"contents": "UnitNameInteractiveNPC",
+		},
+		{
+			"trigger": "UnitNameNonCombatCreatureName\t\"CVar\"",
+			"contents": "UnitNameNonCombatCreatureName",
+		},
+		{
+			"trigger": "UnitNameNPC\t\"CVar\"",
+			"contents": "UnitNameNPC",
+		},
+		{
+			"trigger": "UnitNameOwn\t\"CVar\"",
+			"contents": "UnitNameOwn",
+		},
+		{
+			"trigger": "UnitNamePlayerGuild\t\"CVar\"",
+			"contents": "UnitNamePlayerGuild",
+		},
+		{
+			"trigger": "UnitNamePlayerPVPTitle\t\"CVar\"",
+			"contents": "UnitNamePlayerPVPTitle",
+		},
+		{
+			"trigger": "useCompactPartyFrames\t\"CVar\"",
+			"contents": "useCompactPartyFrames",
+		},
+		{
+			"trigger": "useIPv6\t\"CVar\"",
+			"contents": "useIPv6",
+		},
+		{
+			"trigger": "useNewConsole\t\"CVar\"",
+			"contents": "useNewConsole",
+		},
+		{
+			"trigger": "useUiScale\t\"CVar\"",
+			"contents": "useUiScale",
+		},
+		{
+			"trigger": "videoOptionsVersion\t\"CVar\"",
+			"contents": "videoOptionsVersion",
+		},
+		{
+			"trigger": "violenceLevel\t\"CVar\"",
+			"contents": "violenceLevel",
+		},
+		{
+			"trigger": "wardrobeSetsFilters\t\"CVar\"",
+			"contents": "wardrobeSetsFilters",
+		},
+		{
+			"trigger": "wardrobeShowCollected\t\"CVar\"",
+			"contents": "wardrobeShowCollected",
+		},
+		{
+			"trigger": "wardrobeShowUncollected\t\"CVar\"",
+			"contents": "wardrobeShowUncollected",
+		},
+		{
+			"trigger": "wardrobeSourceFilters\t\"CVar\"",
+			"contents": "wardrobeSourceFilters",
+		},
+		{
+			"trigger": "warp\t\"CVar\"",
+			"contents": "warp",
+		},
+		{
+			"trigger": "warpScreenSize\t\"CVar\"",
+			"contents": "warpScreenSize",
+		},
+		{
+			"trigger": "warpViewDistance\t\"CVar\"",
+			"contents": "warpViewDistance",
+		},
+		{
+			"trigger": "warpViewTilt\t\"CVar\"",
+			"contents": "warpViewTilt",
+		},
+		{
+			"trigger": "watchFrameBaseAlpha\t\"CVar\"",
+			"contents": "watchFrameBaseAlpha",
+		},
+		{
+			"trigger": "watchFrameIgnoreCursor\t\"CVar\"",
+			"contents": "watchFrameIgnoreCursor",
+		},
+		{
+			"trigger": "watchFrameState\t\"CVar\"",
+			"contents": "watchFrameState",
+		},
+		{
+			"trigger": "waterDetail\t\"CVar\"",
+			"contents": "waterDetail",
+		},
+		{
+			"trigger": "weatherDensity\t\"CVar\"",
+			"contents": "weatherDensity",
+		},
+		{
+			"trigger": "webChallengeURLTimeout\t\"CVar\"",
+			"contents": "webChallengeURLTimeout",
+		},
+		{
+			"trigger": "whisperMode\t\"CVar\"",
+			"contents": "whisperMode",
+		},
+		{
+			"trigger": "wholeChatWindowClickable\t\"CVar\"",
+			"contents": "wholeChatWindowClickable",
+		},
+		{
+			"trigger": "windowResizeLock\t\"CVar\"",
+			"contents": "windowResizeLock",
+		},
+		{
+			"trigger": "wmoDoodadDist\t\"CVar\"",
+			"contents": "wmoDoodadDist",
+		},
+		{
+			"trigger": "wmoLodDist\t\"CVar\"",
+			"contents": "wmoLodDist",
+		},
+		{
+			"trigger": "wmoLodDistScale\t\"CVar\"",
+			"contents": "wmoLodDistScale",
+		},
+		{
+			"trigger": "worldBaseMip\t\"CVar\"",
+			"contents": "worldBaseMip",
+		},
+		{
+			"trigger": "worldLoadSort\t\"CVar\"",
+			"contents": "worldLoadSort",
+		},
+		{
+			"trigger": "worldMapOpacity\t\"CVar\"",
+			"contents": "worldMapOpacity",
+		},
+		{
+			"trigger": "worldMaxMipLevel\t\"CVar\"",
+			"contents": "worldMaxMipLevel",
+		},
+		{
+			"trigger": "worldPreloadHighResTextures\t\"CVar\"",
+			"contents": "worldPreloadHighResTextures",
+		},
+		{
+			"trigger": "worldPreloadNonCritical\t\"CVar\"",
+			"contents": "worldPreloadNonCritical",
+		},
+		{
+			"trigger": "worldPreloadSort\t\"CVar\"",
+			"contents": "worldPreloadSort",
+		},
+		{
+			"trigger": "worldQuestFilterArtifactPower\t\"CVar\"",
+			"contents": "worldQuestFilterArtifactPower",
+		},
+		{
+			"trigger": "worldQuestFilterEquipment\t\"CVar\"",
+			"contents": "worldQuestFilterEquipment",
+		},
+		{
+			"trigger": "worldQuestFilterGold\t\"CVar\"",
+			"contents": "worldQuestFilterGold",
+		},
+		{
+			"trigger": "worldQuestFilterOrderResources\t\"CVar\"",
+			"contents": "worldQuestFilterOrderResources",
+		},
+		{
+			"trigger": "worldQuestFilterProfessionMaterials\t\"CVar\"",
+			"contents": "worldQuestFilterProfessionMaterials",
+		},
+		{
+			"trigger": "WorldTextCritScreenY\t\"CVar\"",
+			"contents": "WorldTextCritScreenY",
+		},
+		{
+			"trigger": "WorldTextGravity\t\"CVar\"",
+			"contents": "WorldTextGravity",
+		},
+		{
+			"trigger": "WorldTextNonRandomZ\t\"CVar\"",
+			"contents": "WorldTextNonRandomZ",
+		},
+		{
+			"trigger": "WorldTextRampDuration\t\"CVar\"",
+			"contents": "WorldTextRampDuration",
+		},
+		{
+			"trigger": "WorldTextRampPow\t\"CVar\"",
+			"contents": "WorldTextRampPow",
+		},
+		{
+			"trigger": "WorldTextRampPowCrit\t\"CVar\"",
+			"contents": "WorldTextRampPowCrit",
+		},
+		{
+			"trigger": "WorldTextRandomXY\t\"CVar\"",
+			"contents": "WorldTextRandomXY",
+		},
+		{
+			"trigger": "WorldTextRandomZMax\t\"CVar\"",
+			"contents": "WorldTextRandomZMax",
+		},
+		{
+			"trigger": "WorldTextRandomZMin\t\"CVar\"",
+			"contents": "WorldTextRandomZMin",
+		},
+		{
+			"trigger": "WorldTextScale\t\"CVar\"",
+			"contents": "WorldTextScale",
+		},
+		{
+			"trigger": "WorldTextScreenY\t\"CVar\"",
+			"contents": "WorldTextScreenY",
+		},
+		{
+			"trigger": "WorldTextStartPosRandomness\t\"CVar\"",
+			"contents": "WorldTextStartPosRandomness",
+		},
+		{
+			"trigger": "xpBarText\t\"CVar\"",
+			"contents": "xpBarText",
+		},
+	]
+}

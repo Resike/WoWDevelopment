@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[autoFilledMultiCastSlots]]></content>
+	<tabTrigger>autoFilledMultiCastSlots</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

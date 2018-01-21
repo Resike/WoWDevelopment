@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cameraTerrainTiltSmarterFallAbsorb]]></content>
+	<tabTrigger>cameraTerrainTiltSmarterFallAbsorb</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

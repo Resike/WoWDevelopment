@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[engineSurvey]]></content>
+	<tabTrigger>engineSurvey</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[locale]]></content>
+	<tabTrigger>locale</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

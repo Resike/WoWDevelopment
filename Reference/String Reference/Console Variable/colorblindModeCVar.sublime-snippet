@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[colorblindMode]]></content>
+	<tabTrigger>colorblindMode</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

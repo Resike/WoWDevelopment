@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cameraTerrainTiltSmartIdleDelay]]></content>
+	<tabTrigger>cameraTerrainTiltSmartIdleDelay</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

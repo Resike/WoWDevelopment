@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sceneOcclusionEnable]]></content>
+	<tabTrigger>sceneOcclusionEnable</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

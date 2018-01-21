@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[test_cameraOverShoulder]]></content>
+	<tabTrigger>test_cameraOverShoulder</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

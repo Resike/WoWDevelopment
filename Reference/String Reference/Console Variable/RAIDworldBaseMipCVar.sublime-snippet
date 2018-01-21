@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RAIDworldBaseMip]]></content>
+	<tabTrigger>RAIDworldBaseMip</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

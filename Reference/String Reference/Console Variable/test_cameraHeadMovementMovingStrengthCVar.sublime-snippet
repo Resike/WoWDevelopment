@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[test_cameraHeadMovementMovingStrength]]></content>
+	<tabTrigger>test_cameraHeadMovementMovingStrength</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[rippleDetail]]></content>
+	<tabTrigger>rippleDetail</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

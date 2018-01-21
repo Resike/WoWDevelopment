@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MSAAAlphaTest]]></content>
+	<tabTrigger>MSAAAlphaTest</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

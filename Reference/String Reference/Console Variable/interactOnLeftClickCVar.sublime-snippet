@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[interactOnLeftClick]]></content>
+	<tabTrigger>interactOnLeftClick</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

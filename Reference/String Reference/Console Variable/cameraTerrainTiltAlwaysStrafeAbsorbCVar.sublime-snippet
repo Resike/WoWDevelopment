@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cameraTerrainTiltAlwaysStrafeAbsorb]]></content>
+	<tabTrigger>cameraTerrainTiltAlwaysStrafeAbsorb</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

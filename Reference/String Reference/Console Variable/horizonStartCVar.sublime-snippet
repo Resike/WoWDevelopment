@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[horizonStart]]></content>
+	<tabTrigger>horizonStart</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

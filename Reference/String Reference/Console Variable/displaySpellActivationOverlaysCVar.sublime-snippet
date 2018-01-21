@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[displaySpellActivationOverlays]]></content>
+	<tabTrigger>displaySpellActivationOverlays</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

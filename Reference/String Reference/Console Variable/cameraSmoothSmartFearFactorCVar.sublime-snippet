@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cameraSmoothSmartFearFactor]]></content>
+	<tabTrigger>cameraSmoothSmartFearFactor</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

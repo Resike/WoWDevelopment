@@ -2,5 +2,5 @@
 	<content><![CDATA[VOICE_LEFT_SESSION]]></content>
 	<tabTrigger>VOICE_LEFT_SESSION</tabTrigger>
 	<description>"event"</description>
-	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate</scope>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate - string.cvartype</scope>
 </snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cameraTerrainTiltSmartTurnFactor]]></content>
+	<tabTrigger>cameraTerrainTiltSmartTurnFactor</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

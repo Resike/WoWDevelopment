@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[autoSelfCast]]></content>
+	<tabTrigger>autoSelfCast</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[smoothUnitPhasingAliveTimeoutMs]]></content>
+	<tabTrigger>smoothUnitPhasingAliveTimeoutMs</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

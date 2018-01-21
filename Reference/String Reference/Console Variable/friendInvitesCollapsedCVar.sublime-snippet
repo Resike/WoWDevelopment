@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[friendInvitesCollapsed]]></content>
+	<tabTrigger>friendInvitesCollapsed</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

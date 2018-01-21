@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[flightAngleLookAhead]]></content>
+	<tabTrigger>flightAngleLookAhead</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

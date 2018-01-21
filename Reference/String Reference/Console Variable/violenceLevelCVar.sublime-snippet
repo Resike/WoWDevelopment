@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[violenceLevel]]></content>
+	<tabTrigger>violenceLevel</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

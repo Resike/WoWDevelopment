@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RAIDterrainMipLevel]]></content>
+	<tabTrigger>RAIDterrainMipLevel</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

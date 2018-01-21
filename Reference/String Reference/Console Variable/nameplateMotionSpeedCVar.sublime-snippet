@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[nameplateMotionSpeed]]></content>
+	<tabTrigger>nameplateMotionSpeed</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

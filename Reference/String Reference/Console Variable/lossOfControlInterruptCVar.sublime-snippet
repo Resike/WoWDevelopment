@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[lossOfControlInterrupt]]></content>
+	<tabTrigger>lossOfControlInterrupt</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

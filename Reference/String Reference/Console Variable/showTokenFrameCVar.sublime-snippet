@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[showTokenFrame]]></content>
+	<tabTrigger>showTokenFrame</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

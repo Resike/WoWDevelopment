@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cameraSavedPitch]]></content>
+	<tabTrigger>cameraSavedPitch</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cameraPivotDXMax]]></content>
+	<tabTrigger>cameraPivotDXMax</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

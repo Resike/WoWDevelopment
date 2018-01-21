@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[runeFadeTime]]></content>
+	<tabTrigger>runeFadeTime</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

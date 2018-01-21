@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cameraTerrainTiltSplineTrackAbsorb]]></content>
+	<tabTrigger>cameraTerrainTiltSplineTrackAbsorb</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

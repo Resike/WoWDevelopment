@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[webChallengeURLTimeout]]></content>
+	<tabTrigger>webChallengeURLTimeout</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

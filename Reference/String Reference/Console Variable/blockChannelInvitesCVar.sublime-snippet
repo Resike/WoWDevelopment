@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[blockChannelInvites]]></content>
+	<tabTrigger>blockChannelInvites</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

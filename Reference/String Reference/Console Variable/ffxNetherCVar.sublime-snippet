@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ffxNether]]></content>
+	<tabTrigger>ffxNether</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Sound_ZoneMusicNoDelay]]></content>
+	<tabTrigger>Sound_ZoneMusicNoDelay</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

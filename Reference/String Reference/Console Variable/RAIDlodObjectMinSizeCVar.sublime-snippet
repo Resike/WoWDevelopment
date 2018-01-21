@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RAIDlodObjectMinSize]]></content>
+	<tabTrigger>RAIDlodObjectMinSize</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

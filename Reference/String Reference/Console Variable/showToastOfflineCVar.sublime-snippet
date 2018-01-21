@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[showToastOffline]]></content>
+	<tabTrigger>showToastOffline</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

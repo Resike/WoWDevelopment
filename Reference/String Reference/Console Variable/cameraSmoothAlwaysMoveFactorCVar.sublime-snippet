@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cameraSmoothAlwaysMoveFactor]]></content>
+	<tabTrigger>cameraSmoothAlwaysMoveFactor</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

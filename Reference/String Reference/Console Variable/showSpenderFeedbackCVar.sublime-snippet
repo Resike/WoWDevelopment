@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[showSpenderFeedback]]></content>
+	<tabTrigger>showSpenderFeedback</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

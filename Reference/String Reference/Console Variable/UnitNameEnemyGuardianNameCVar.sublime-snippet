@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnitNameEnemyGuardianName]]></content>
+	<tabTrigger>UnitNameEnemyGuardianName</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

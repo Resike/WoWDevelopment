@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[wardrobeShowCollected]]></content>
+	<tabTrigger>wardrobeShowCollected</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

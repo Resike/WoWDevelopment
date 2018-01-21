@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[petJournalSourceFilters]]></content>
+	<tabTrigger>petJournalSourceFilters</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Sound_EnableMixMode2]]></content>
+	<tabTrigger>Sound_EnableMixMode2</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[enableRuneSpentAnim]]></content>
+	<tabTrigger>enableRuneSpentAnim</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[allowD3D9BackingStore]]></content>
+	<tabTrigger>allowD3D9BackingStore</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

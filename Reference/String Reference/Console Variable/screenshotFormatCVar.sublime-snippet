@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[screenshotFormat]]></content>
+	<tabTrigger>screenshotFormat</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

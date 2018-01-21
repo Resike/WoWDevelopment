@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[colorblindWeaknessFactor]]></content>
+	<tabTrigger>colorblindWeaknessFactor</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

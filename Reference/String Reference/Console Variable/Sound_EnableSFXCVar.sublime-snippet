@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Sound_EnableSFX]]></content>
+	<tabTrigger>Sound_EnableSFX</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

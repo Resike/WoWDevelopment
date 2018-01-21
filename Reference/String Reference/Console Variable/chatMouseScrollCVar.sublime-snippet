@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[chatMouseScroll]]></content>
+	<tabTrigger>chatMouseScroll</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

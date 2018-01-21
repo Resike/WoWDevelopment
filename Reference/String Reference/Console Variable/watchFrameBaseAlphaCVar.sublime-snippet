@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[watchFrameBaseAlpha]]></content>
+	<tabTrigger>watchFrameBaseAlpha</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

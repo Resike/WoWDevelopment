@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[combatLogReducedRetentionTime]]></content>
+	<tabTrigger>combatLogReducedRetentionTime</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

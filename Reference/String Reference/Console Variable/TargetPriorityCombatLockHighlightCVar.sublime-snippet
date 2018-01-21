@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TargetPriorityCombatLockHighlight]]></content>
+	<tabTrigger>TargetPriorityCombatLockHighlight</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

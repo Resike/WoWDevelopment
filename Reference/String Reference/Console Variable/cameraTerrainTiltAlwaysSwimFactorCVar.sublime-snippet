@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cameraTerrainTiltAlwaysSwimFactor]]></content>
+	<tabTrigger>cameraTerrainTiltAlwaysSwimFactor</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

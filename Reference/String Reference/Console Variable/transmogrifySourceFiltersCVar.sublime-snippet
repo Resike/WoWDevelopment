@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[transmogrifySourceFilters]]></content>
+	<tabTrigger>transmogrifySourceFilters</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

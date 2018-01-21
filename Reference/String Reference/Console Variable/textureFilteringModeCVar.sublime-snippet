@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[textureFilteringMode]]></content>
+	<tabTrigger>textureFilteringMode</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

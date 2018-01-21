@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SSAOBlur]]></content>
+	<tabTrigger>SSAOBlur</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[physicsLevel]]></content>
+	<tabTrigger>physicsLevel</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

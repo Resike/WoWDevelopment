@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cameraSmoothAlwaysFearDelay]]></content>
+	<tabTrigger>cameraSmoothAlwaysFearDelay</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

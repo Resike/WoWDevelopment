@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[blockTrades]]></content>
+	<tabTrigger>blockTrades</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

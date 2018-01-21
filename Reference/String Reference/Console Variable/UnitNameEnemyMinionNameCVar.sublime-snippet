@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnitNameEnemyMinionName]]></content>
+	<tabTrigger>UnitNameEnemyMinionName</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

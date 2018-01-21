@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[playerStatLeftDropdown]]></content>
+	<tabTrigger>playerStatLeftDropdown</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

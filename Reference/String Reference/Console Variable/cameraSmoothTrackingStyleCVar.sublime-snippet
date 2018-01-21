@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cameraSmoothTrackingStyle]]></content>
+	<tabTrigger>cameraSmoothTrackingStyle</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[chatBubbles]]></content>
+	<tabTrigger>chatBubbles</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

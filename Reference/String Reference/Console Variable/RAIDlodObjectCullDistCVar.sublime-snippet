@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RAIDlodObjectCullDist]]></content>
+	<tabTrigger>RAIDlodObjectCullDist</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

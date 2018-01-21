@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[autoAcceptQuickJoinRequests]]></content>
+	<tabTrigger>autoAcceptQuickJoinRequests</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[scriptProfile]]></content>
+	<tabTrigger>scriptProfile</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

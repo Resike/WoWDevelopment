@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[nameplateSelfAlpha]]></content>
+	<tabTrigger>nameplateSelfAlpha</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

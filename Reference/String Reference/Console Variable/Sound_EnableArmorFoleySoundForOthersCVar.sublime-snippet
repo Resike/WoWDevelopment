@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Sound_EnableArmorFoleySoundForOthers]]></content>
+	<tabTrigger>Sound_EnableArmorFoleySoundForOthers</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

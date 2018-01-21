@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:isAlliedRace}, ${2:hasHeritageArmorUnlocked} = UnitAlliedRaceInfo("${3:unit}")$0]]></content>
+	<tabTrigger>_UnitAlliedRaceInfo</tabTrigger>
+	<description>("unit")</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

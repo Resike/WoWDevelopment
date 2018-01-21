@@ -2,5 +2,5 @@
 	<content><![CDATA[TOKEN_BUY_CONFIRM_REQUIRED]]></content>
 	<tabTrigger>TOKEN_BUY_CONFIRM_REQUIRED</tabTrigger>
 	<description>"event"</description>
-	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate</scope>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate - string.cvartype</scope>
 </snippet>

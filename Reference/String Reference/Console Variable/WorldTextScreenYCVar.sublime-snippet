@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WorldTextScreenY]]></content>
+	<tabTrigger>WorldTextScreenY</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

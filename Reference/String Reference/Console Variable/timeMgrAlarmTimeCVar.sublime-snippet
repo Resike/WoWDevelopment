@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[timeMgrAlarmTime]]></content>
+	<tabTrigger>timeMgrAlarmTime</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

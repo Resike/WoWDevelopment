@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[calendarShowDarkmoon]]></content>
+	<tabTrigger>calendarShowDarkmoon</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

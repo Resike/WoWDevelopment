@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[showfootprintparticles]]></content>
+	<tabTrigger>showfootprintparticles</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

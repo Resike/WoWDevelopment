@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[wholeChatWindowClickable]]></content>
+	<tabTrigger>wholeChatWindowClickable</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

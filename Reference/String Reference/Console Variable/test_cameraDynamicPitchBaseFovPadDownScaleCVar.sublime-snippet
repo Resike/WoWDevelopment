@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[test_cameraDynamicPitchBaseFovPadDownScale]]></content>
+	<tabTrigger>test_cameraDynamicPitchBaseFovPadDownScale</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

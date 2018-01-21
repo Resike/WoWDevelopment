@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[preloadPlayerModels]]></content>
+	<tabTrigger>preloadPlayerModels</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

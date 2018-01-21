@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[guildRewardsUsable]]></content>
+	<tabTrigger>guildRewardsUsable</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

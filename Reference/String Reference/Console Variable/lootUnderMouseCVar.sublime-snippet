@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[lootUnderMouse]]></content>
+	<tabTrigger>lootUnderMouse</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

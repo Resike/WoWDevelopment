@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[timingTestError]]></content>
+	<tabTrigger>timingTestError</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

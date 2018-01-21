@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[shadowInstancing]]></content>
+	<tabTrigger>shadowInstancing</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

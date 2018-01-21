@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[partyBackgroundOpacity]]></content>
+	<tabTrigger>partyBackgroundOpacity</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

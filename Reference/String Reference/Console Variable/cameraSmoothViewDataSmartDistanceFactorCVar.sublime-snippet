@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cameraSmoothViewDataSmartDistanceFactor]]></content>
+	<tabTrigger>cameraSmoothViewDataSmartDistanceFactor</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cameraSmoothViewDataSplineYawFactor]]></content>
+	<tabTrigger>cameraSmoothViewDataSplineYawFactor</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

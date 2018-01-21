@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[nameplateMaxScaleDistance]]></content>
+	<tabTrigger>nameplateMaxScaleDistance</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

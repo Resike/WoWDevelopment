@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[minimapTrackedInfov2]]></content>
+	<tabTrigger>minimapTrackedInfov2</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

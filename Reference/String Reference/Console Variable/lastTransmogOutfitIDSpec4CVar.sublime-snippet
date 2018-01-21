@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[lastTransmogOutfitIDSpec4]]></content>
+	<tabTrigger>lastTransmogOutfitIDSpec4</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[autoLootDefault]]></content>
+	<tabTrigger>autoLootDefault</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

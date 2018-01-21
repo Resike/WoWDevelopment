@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[enableFloatingCombatText]]></content>
+	<tabTrigger>enableFloatingCombatText</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[profanityFilter]]></content>
+	<tabTrigger>profanityFilter</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

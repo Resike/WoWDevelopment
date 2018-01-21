@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[minimapShapeshiftTracking]]></content>
+	<tabTrigger>minimapShapeshiftTracking</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

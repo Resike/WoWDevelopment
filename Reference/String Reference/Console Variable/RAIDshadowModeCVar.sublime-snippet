@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RAIDshadowMode]]></content>
+	<tabTrigger>RAIDshadowMode</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

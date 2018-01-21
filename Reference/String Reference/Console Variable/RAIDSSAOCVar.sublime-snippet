@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RAIDSSAO]]></content>
+	<tabTrigger>RAIDSSAO</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

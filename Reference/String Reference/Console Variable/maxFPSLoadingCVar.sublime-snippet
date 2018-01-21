@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[maxFPSLoading]]></content>
+	<tabTrigger>maxFPSLoading</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

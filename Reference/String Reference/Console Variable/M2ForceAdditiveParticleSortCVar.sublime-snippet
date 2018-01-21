@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[M2ForceAdditiveParticleSort]]></content>
+	<tabTrigger>M2ForceAdditiveParticleSort</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

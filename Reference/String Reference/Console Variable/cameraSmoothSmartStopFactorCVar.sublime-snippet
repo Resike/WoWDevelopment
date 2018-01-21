@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cameraSmoothSmartStopFactor]]></content>
+	<tabTrigger>cameraSmoothSmartStopFactor</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

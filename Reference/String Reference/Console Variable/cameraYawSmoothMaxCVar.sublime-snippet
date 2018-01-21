@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cameraYawSmoothMax]]></content>
+	<tabTrigger>cameraYawSmoothMax</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnitNameForceHideMinus]]></content>
+	<tabTrigger>UnitNameForceHideMinus</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[calendarShowLockouts]]></content>
+	<tabTrigger>calendarShowLockouts</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

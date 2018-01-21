@@ -2,5 +2,5 @@
 	<content><![CDATA[ENABLE_LOW_LEVEL_RAID]]></content>
 	<tabTrigger>ENABLE_LOW_LEVEL_RAID</tabTrigger>
 	<description>"event"</description>
-	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate</scope>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate - string.cvartype</scope>
 </snippet>

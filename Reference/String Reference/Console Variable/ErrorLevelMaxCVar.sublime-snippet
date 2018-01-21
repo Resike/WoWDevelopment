@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ErrorLevelMax]]></content>
+	<tabTrigger>ErrorLevelMax</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

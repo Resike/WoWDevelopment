@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Sound_MasterVolume]]></content>
+	<tabTrigger>Sound_MasterVolume</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ObjectSelectionCircle]]></content>
+	<tabTrigger>ObjectSelectionCircle</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

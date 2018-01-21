@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NameplatePersonalShowInCombat]]></content>
+	<tabTrigger>NameplatePersonalShowInCombat</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

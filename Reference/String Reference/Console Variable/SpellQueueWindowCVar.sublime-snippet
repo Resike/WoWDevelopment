@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpellQueueWindow]]></content>
+	<tabTrigger>SpellQueueWindow</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

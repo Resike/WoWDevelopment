@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[shadowSoft]]></content>
+	<tabTrigger>shadowSoft</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

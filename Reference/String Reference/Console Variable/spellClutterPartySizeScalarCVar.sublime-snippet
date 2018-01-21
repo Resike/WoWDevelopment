@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[spellClutterPartySizeScalar]]></content>
+	<tabTrigger>spellClutterPartySizeScalar</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

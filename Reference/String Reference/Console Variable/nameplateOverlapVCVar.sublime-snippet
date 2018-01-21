@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[nameplateOverlapV]]></content>
+	<tabTrigger>nameplateOverlapV</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

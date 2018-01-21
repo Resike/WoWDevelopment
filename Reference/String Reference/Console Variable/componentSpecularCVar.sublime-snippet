@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[componentSpecular]]></content>
+	<tabTrigger>componentSpecular</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

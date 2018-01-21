@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[synchronizeMacros]]></content>
+	<tabTrigger>synchronizeMacros</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

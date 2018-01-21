@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[smoothUnitPhasingDestroyedPurgatoryTimeMs]]></content>
+	<tabTrigger>smoothUnitPhasingDestroyedPurgatoryTimeMs</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

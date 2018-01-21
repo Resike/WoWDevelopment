@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cameraSmoothViewDataSmartYawDelay]]></content>
+	<tabTrigger>cameraSmoothViewDataSmartYawDelay</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

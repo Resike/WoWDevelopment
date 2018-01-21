@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[lastAddonVersion]]></content>
+	<tabTrigger>lastAddonVersion</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

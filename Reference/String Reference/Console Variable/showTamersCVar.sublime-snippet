@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[showTamers]]></content>
+	<tabTrigger>showTamers</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

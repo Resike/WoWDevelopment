@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[findYourselfInBG]]></content>
+	<tabTrigger>findYourselfInBG</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

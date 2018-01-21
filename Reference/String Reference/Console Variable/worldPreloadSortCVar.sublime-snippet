@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[worldPreloadSort]]></content>
+	<tabTrigger>worldPreloadSort</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

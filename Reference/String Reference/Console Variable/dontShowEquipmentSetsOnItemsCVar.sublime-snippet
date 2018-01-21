@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[dontShowEquipmentSetsOnItems]]></content>
+	<tabTrigger>dontShowEquipmentSetsOnItems</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

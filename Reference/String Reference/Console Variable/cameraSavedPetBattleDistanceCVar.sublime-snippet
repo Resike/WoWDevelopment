@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cameraSavedPetBattleDistance]]></content>
+	<tabTrigger>cameraSavedPetBattleDistance</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[actionedAdventureJournalEntries]]></content>
+	<tabTrigger>actionedAdventureJournalEntries</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

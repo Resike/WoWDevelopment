@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[nameplateShowEnemyPets]]></content>
+	<tabTrigger>nameplateShowEnemyPets</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

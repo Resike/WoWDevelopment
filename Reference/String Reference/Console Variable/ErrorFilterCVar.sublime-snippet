@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ErrorFilter]]></content>
+	<tabTrigger>ErrorFilter</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

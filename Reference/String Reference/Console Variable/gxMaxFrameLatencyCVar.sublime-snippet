@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[gxMaxFrameLatency]]></content>
+	<tabTrigger>gxMaxFrameLatency</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

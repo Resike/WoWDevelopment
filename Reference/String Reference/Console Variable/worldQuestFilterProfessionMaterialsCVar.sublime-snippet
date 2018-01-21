@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[worldQuestFilterProfessionMaterials]]></content>
+	<tabTrigger>worldQuestFilterProfessionMaterials</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnitNameFriendlyTotemName]]></content>
+	<tabTrigger>UnitNameFriendlyTotemName</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

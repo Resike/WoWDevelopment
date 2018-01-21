@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Sound_NumChannels]]></content>
+	<tabTrigger>Sound_NumChannels</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

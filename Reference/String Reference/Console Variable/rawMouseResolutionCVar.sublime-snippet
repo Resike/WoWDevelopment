@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[rawMouseResolution]]></content>
+	<tabTrigger>rawMouseResolution</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

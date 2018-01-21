@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[M2UseThreads]]></content>
+	<tabTrigger>M2UseThreads</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Sound_OutputSampleRate]]></content>
+	<tabTrigger>Sound_OutputSampleRate</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

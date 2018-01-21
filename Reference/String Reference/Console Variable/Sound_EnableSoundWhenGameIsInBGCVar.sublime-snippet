@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Sound_EnableSoundWhenGameIsInBG]]></content>
+	<tabTrigger>Sound_EnableSoundWhenGameIsInBG</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[nameplateTargetRadialPosition]]></content>
+	<tabTrigger>nameplateTargetRadialPosition</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

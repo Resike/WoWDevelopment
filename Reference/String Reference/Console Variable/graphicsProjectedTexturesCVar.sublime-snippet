@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[graphicsProjectedTextures]]></content>
+	<tabTrigger>graphicsProjectedTextures</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

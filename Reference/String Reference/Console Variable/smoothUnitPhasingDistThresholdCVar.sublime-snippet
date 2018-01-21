@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[smoothUnitPhasingDistThreshold]]></content>
+	<tabTrigger>smoothUnitPhasingDistThreshold</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

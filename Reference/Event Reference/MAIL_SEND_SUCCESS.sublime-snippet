@@ -2,5 +2,5 @@
 	<content><![CDATA[MAIL_SEND_SUCCESS]]></content>
 	<tabTrigger>MAIL_SEND_SUCCESS</tabTrigger>
 	<description>"event"</description>
-	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate</scope>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate - string.cvartype</scope>
 </snippet>

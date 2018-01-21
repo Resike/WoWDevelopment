@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[nameplateMinAlphaDistance]]></content>
+	<tabTrigger>nameplateMinAlphaDistance</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[nameplateMaxAlpha]]></content>
+	<tabTrigger>nameplateMaxAlpha</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

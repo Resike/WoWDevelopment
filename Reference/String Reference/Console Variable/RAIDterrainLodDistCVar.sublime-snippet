@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RAIDterrainLodDist]]></content>
+	<tabTrigger>RAIDterrainLodDist</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

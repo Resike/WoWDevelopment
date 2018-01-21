@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[activeCUFProfile]]></content>
+	<tabTrigger>activeCUFProfile</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

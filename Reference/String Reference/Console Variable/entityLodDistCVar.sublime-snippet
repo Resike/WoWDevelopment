@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[entityLodDist]]></content>
+	<tabTrigger>entityLodDist</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

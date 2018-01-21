@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Sound_EnableErrorSpeech]]></content>
+	<tabTrigger>Sound_EnableErrorSpeech</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

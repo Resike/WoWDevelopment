@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ResampleQuality]]></content>
+	<tabTrigger>ResampleQuality</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

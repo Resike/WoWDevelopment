@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[shipyardMissionTutorialFirst]]></content>
+	<tabTrigger>shipyardMissionTutorialFirst</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

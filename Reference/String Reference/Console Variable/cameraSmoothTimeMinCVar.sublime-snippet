@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cameraSmoothTimeMin]]></content>
+	<tabTrigger>cameraSmoothTimeMin</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[rotateMinimap]]></content>
+	<tabTrigger>rotateMinimap</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[useNewConsole]]></content>
+	<tabTrigger>useNewConsole</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

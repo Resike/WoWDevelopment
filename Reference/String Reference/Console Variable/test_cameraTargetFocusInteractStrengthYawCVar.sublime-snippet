@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[test_cameraTargetFocusInteractStrengthYaw]]></content>
+	<tabTrigger>test_cameraTargetFocusInteractStrengthYaw</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

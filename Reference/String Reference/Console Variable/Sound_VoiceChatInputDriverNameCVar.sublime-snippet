@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Sound_VoiceChatInputDriverName]]></content>
+	<tabTrigger>Sound_VoiceChatInputDriverName</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

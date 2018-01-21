@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NEW_PET_ADDED]]></content>
+	<tabTrigger>NEW_PET_ADDED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate - string.cvartype</scope>
+</snippet>

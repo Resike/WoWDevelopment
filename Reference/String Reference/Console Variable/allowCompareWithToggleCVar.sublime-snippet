@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[allowCompareWithToggle]]></content>
+	<tabTrigger>allowCompareWithToggle</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

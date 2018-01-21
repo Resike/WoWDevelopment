@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[showToastWindow]]></content>
+	<tabTrigger>showToastWindow</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

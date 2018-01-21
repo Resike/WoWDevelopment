@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SIMPLE_CHECKOUT_CLOSED]]></content>
+	<tabTrigger>SIMPLE_CHECKOUT_CLOSED</tabTrigger>
+	<description>"event"</description>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate - string.cvartype</scope>
+</snippet>

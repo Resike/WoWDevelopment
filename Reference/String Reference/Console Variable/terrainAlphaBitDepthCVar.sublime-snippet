@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[terrainAlphaBitDepth]]></content>
+	<tabTrigger>terrainAlphaBitDepth</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

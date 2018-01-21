@@ -170,16 +170,8 @@
 			"contents": "BarberShop_UpdateCost($1)$0",
 		},
 		{
-			"trigger": "BarberShop_UpdateCustomDisplays\t(...)",
-			"contents": "BarberShop_UpdateCustomDisplays($1)$0",
-		},
-		{
-			"trigger": "BarberShop_UpdateFacialHairCustomization\t(...)",
-			"contents": "BarberShop_UpdateFacialHairCustomization($1)$0",
-		},
-		{
-			"trigger": "BarberShop_UpdateHairCustomization\t(...)",
-			"contents": "BarberShop_UpdateHairCustomization($1)$0",
+			"trigger": "BarberShop_UpdateCustomizationOptions\t(...)",
+			"contents": "BarberShop_UpdateCustomizationOptions($1)$0",
 		},
 		{
 			"trigger": "BarberShop_UpdateSelector\t(...)",
@@ -7606,6 +7598,10 @@
 			"contents": "ChatFrame_AddSingleMessageType($1)$0",
 		},
 		{
+			"trigger": "ChatFrame_CanChatGroupPerformExpressionExpansion\t(...)",
+			"contents": "ChatFrame_CanChatGroupPerformExpressionExpansion($1)$0",
+		},
+		{
 			"trigger": "ChatFrame_ChatPageDown\t(...)",
 			"contents": "ChatFrame_ChatPageDown($1)$0",
 		},
@@ -7744,6 +7740,10 @@
 		{
 			"trigger": "ChatFrame_RemovePrivateMessageTarget\t(...)",
 			"contents": "ChatFrame_RemovePrivateMessageTarget($1)$0",
+		},
+		{
+			"trigger": "ChatFrame_ReplaceIconAndGroupExpressions\t(...)",
+			"contents": "ChatFrame_ReplaceIconAndGroupExpressions($1)$0",
 		},
 		{
 			"trigger": "ChatFrame_ReplyTell2\t(...)",
@@ -9262,6 +9262,10 @@
 			"contents": "ContainerFrame_ConsiderItemButtonForRelicTutorial($1)$0",
 		},
 		{
+			"trigger": "ContainerFrame_GetContainerNumSlots\t(...)",
+			"contents": "ContainerFrame_GetContainerNumSlots($1)$0",
+		},
+		{
 			"trigger": "ContainerFrame_GenerateFrame\t(...)",
 			"contents": "ContainerFrame_GenerateFrame($1)$0",
 		},
@@ -9322,12 +9326,20 @@
 			"contents": "ContainerFrame_UpdateSearchResults($1)$0",
 		},
 		{
+			"trigger": "ContainerFrame_SetBackpackForceExtended\t(...)",
+			"contents": "ContainerFrame_SetBackpackForceExtended($1)$0",
+		},
+		{
 			"trigger": "ContainerFrameFilterDropDown_Initialize\t(...)",
 			"contents": "ContainerFrameFilterDropDown_Initialize($1)$0",
 		},
 		{
 			"trigger": "ContainerFrameFilterDropDown_OnLoad\t(...)",
 			"contents": "ContainerFrameFilterDropDown_OnLoad($1)$0",
+		},
+		{
+			"trigger": "ContainerFrameItemButton_BagStatic_AnimateUpdate\t(...)",
+			"contents": "ContainerFrameItemButton_BagStatic_AnimateUpdate($1)$0",
 		},
 		{
 			"trigger": "ContainerFrameItemButton_CalculateItemTooltipAnchors\t(...)",
@@ -9364,6 +9376,10 @@
 		{
 			"trigger": "ContainerFrameItemButton_UpdateItemUpgradeIcon\t(...)",
 			"contents": "ContainerFrameItemButton_UpdateItemUpgradeIcon($1)$0",
+		},
+		{
+			"trigger": "ContainerFrameItemButton_SetForceExtended\t(...)",
+			"contents": "ContainerFrameItemButton_SetForceExtended($1)$0",
 		},
 		{
 			"trigger": "ContainerFramePortraitButton_OnEnter\t(...)",
@@ -16934,6 +16950,10 @@
 			"contents": "MailFrame_OnMouseWheel($1)$0",
 		},
 		{
+			"trigger": "MailFrame_UpdateTrialState\t(...)",
+			"contents": "MailFrame_UpdateTrialState($1)$0",
+		},
+		{
 			"trigger": "MailFrameTab_OnClick\t(...)",
 			"contents": "MailFrameTab_OnClick($1)$0",
 		},
@@ -17270,6 +17290,10 @@
 			"contents": "MicroButton_OnEnter($1)$0",
 		},
 		{
+			"trigger": "MicroButton_KioskModeDisable\t(...)",
+			"contents": "MicroButton_KioskModeDisable($1)$0",
+		},
+		{
 			"trigger": "MicroButtonAlert_CreateAlert\t(...)",
 			"contents": "MicroButtonAlert_CreateAlert($1)$0",
 		},
@@ -17510,6 +17534,10 @@
 			"contents": "Model_StopPanning($1)$0",
 		},
 		{
+			"trigger": "Model_UpdateRotation\t(...)",
+			"contents": "Model_UpdateRotation($1)$0",
+		},
+		{
 			"trigger": "ModelControlButton_OnMouseDown\t(...)",
 			"contents": "ModelControlButton_OnMouseDown($1)$0",
 		},
@@ -17564,6 +17592,10 @@
 		{
 			"trigger": "MoneyFrame_UpdateMoney\t(...)",
 			"contents": "MoneyFrame_UpdateMoney($1)$0",
+		},
+		{
+			"trigger": "MoneyFrame_UpdateTrialErrorButton\t(...)",
+			"contents": "MoneyFrame_UpdateTrialErrorButton($1)$0",
 		},
 		{
 			"trigger": "MoneyInputFrame_ClearFocus\t(...)",
@@ -20574,6 +20606,10 @@
 			"contents": "ProductChoiceItemDisplay_OnMouseUp($1)$0",
 		},
 		{
+			"trigger": "PropagateForbiddenToReferencedFrames\t(...)",
+			"contents": "PropagateForbiddenToReferencedFrames($1)$0",
+		},
+		{
 			"trigger": "PVEFrame_HideLeftInset\t(...)",
 			"contents": "PVEFrame_HideLeftInset($1)$0",
 		},
@@ -20920,58 +20956,6 @@
 		{
 			"trigger": "QuestChoice_LoadUI\t(...)",
 			"contents": "QuestChoice_LoadUI($1)$0",
-		},
-		{
-			"trigger": "QuestChoiceFrame_OnEvent\t(...)",
-			"contents": "QuestChoiceFrame_OnEvent($1)$0",
-		},
-		{
-			"trigger": "QuestChoiceFrame_OnItemEnter\t(...)",
-			"contents": "QuestChoiceFrame_OnItemEnter($1)$0",
-		},
-		{
-			"trigger": "QuestChoiceFrame_OnItemModifiedClick\t(...)",
-			"contents": "QuestChoiceFrame_OnItemModifiedClick($1)$0",
-		},
-		{
-			"trigger": "QuestChoiceFrame_OnItemUpdate\t(...)",
-			"contents": "QuestChoiceFrame_OnItemUpdate($1)$0",
-		},
-		{
-			"trigger": "QuestChoiceFrame_OnLoad\t(...)",
-			"contents": "QuestChoiceFrame_OnLoad($1)$0",
-		},
-		{
-			"trigger": "QuestChoiceFrame_OnUpdate\t(...)",
-			"contents": "QuestChoiceFrame_OnUpdate($1)$0",
-		},
-		{
-			"trigger": "QuestChoiceFrame_SetPendingUpdate\t(...)",
-			"contents": "QuestChoiceFrame_SetPendingUpdate($1)$0",
-		},
-		{
-			"trigger": "QuestChoiceFrame_Show\t(...)",
-			"contents": "QuestChoiceFrame_Show($1)$0",
-		},
-		{
-			"trigger": "QuestChoiceFrame_ShowRewards\t(...)",
-			"contents": "QuestChoiceFrame_ShowRewards($1)$0",
-		},
-		{
-			"trigger": "QuestChoiceFrame_Update\t(...)",
-			"contents": "QuestChoiceFrame_Update($1)$0",
-		},
-		{
-			"trigger": "QuestChoiceFrameOptionButton_OnClick\t(...)",
-			"contents": "QuestChoiceFrameOptionButton_OnClick($1)$0",
-		},
-		{
-			"trigger": "QuestChoiceFrameOptionButton_OnEnter\t(...)",
-			"contents": "QuestChoiceFrameOptionButton_OnEnter($1)$0",
-		},
-		{
-			"trigger": "QuestChoiceFrameOptionButton_OnLeave\t(...)",
-			"contents": "QuestChoiceFrameOptionButton_OnLeave($1)$0",
 		},
 		{
 			"trigger": "QuestDetailAcceptButton_OnClick\t(...)",
@@ -22316,10 +22300,6 @@
 		{
 			"trigger": "RefreshLFGList\t(...)",
 			"contents": "RefreshLFGList($1)$0",
-		},
-		{
-			"trigger": "RefreshMoneyFrame\t(...)",
-			"contents": "RefreshMoneyFrame($1)$0",
 		},
 		{
 			"trigger": "RefreshPlayerSpellIconInfo\t(...)",
@@ -24982,12 +24962,12 @@
 			"contents": "StoreFrame_PreviewFrameIsShown($1)$0",
 		},
 		{
-			"trigger": "StoreFrame_SelectLevel100BoostProduct\t(...)",
-			"contents": "StoreFrame_SelectLevel100BoostProduct($1)$0",
+			"trigger": "StoreFrame_SelectBoost\t(...)",
+			"contents": "StoreFrame_SelectBoost($1)$0",
 		},
 		{
-			"trigger": "StoreFrame_SelectUnrevokeBoostProduct\t(...)",
-			"contents": "StoreFrame_SelectUnrevokeBoostProduct($1)$0",
+			"trigger": "StoreFrame_SelectGameTimeProduct\t(...)",
+			"contents": "StoreFrame_SelectGameTimeProduct($1)$0",
 		},
 		{
 			"trigger": "StoreFrame_SetGamesCategory\t(...)",
@@ -25004,6 +24984,14 @@
 		{
 			"trigger": "StoreFrame_SetTokenCategory\t(...)",
 			"contents": "StoreFrame_SetTokenCategory($1)$0",
+		},
+		{
+			"trigger": "StoreMicroButton_OnEvent\t(...)",
+			"contents": "StoreMicroButton_OnEvent($1)$0",
+		},
+		{
+			"trigger": "StoreMicroButton_OnLoad\t(...)",
+			"contents": "StoreMicroButton_OnLoad($1)$0",
 		},
 		{
 			"trigger": "StorePreviewFrame_OnHide\t(...)",
@@ -26180,6 +26168,10 @@
 		{
 			"trigger": "ToyBoxOptionsMenu_Init\t(...)",
 			"contents": "ToyBoxOptionsMenu_Init($1)$0",
+		},
+		{
+			"trigger": "ToyBoxUpdateFilteredInformation\t(...)",
+			"contents": "ToyBoxUpdateFilteredInformation($1)$0",
 		},
 		{
 			"trigger": "ToySpellButton_OnClick\t(...)",
@@ -27450,6 +27442,10 @@
 			"contents": "Vector3D_CalculateNormalFromYawPitch($1)$0",
 		},
 		{
+			"trigger": "Vector3D_CalculateYawPitchFromNormal\t(...)",
+			"contents": "Vector3D_CalculateYawPitchFromNormal($1)$0",
+		},
+		{
 			"trigger": "Vector3D_Cross\t(...)",
 			"contents": "Vector3D_Cross($1)$0",
 		},
@@ -27824,6 +27820,10 @@
 		{
 			"trigger": "VoidStorageItemButton_OnLoad\t(...)",
 			"contents": "VoidStorageItemButton_OnLoad($1)$0",
+		},
+		{
+			"trigger": "WarboardQuestChoice_LoadUI\t(...)",
+			"contents": "WarboardQuestChoice_LoadUI($1)$0",
 		},
 		{
 			"trigger": "WardrobeTransmogFrame_OnTransmogApplied\t(...)",

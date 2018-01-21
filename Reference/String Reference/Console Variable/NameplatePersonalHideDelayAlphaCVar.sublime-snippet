@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NameplatePersonalHideDelayAlpha]]></content>
+	<tabTrigger>NameplatePersonalHideDelayAlpha</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

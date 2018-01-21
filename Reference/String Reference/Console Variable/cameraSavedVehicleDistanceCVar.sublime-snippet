@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cameraSavedVehicleDistance]]></content>
+	<tabTrigger>cameraSavedVehicleDistance</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

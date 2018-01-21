@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NamePlateHorizontalScale]]></content>
+	<tabTrigger>NamePlateHorizontalScale</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

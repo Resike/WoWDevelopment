@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EJDungeonDifficulty]]></content>
+	<tabTrigger>EJDungeonDifficulty</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

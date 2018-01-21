@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderScale]]></content>
+	<tabTrigger>RenderScale</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

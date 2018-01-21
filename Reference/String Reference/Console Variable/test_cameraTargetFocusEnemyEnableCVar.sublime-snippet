@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[test_cameraTargetFocusEnemyEnable]]></content>
+	<tabTrigger>test_cameraTargetFocusEnemyEnable</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

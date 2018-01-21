@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[orderHallMissionTutorial]]></content>
+	<tabTrigger>orderHallMissionTutorial</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

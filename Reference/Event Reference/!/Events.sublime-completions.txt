@@ -1,5 +1,5 @@
 {
-	"scope": "source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate",
+	"scope": "source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate - string.cvartype",
 	"completions": [
 		{
 			"trigger": "ACHIEVEMENT_EARNED\t\"event\"",
@@ -10,10 +10,6 @@
 			"contents": "ACHIEVEMENT_SEARCH_UPDATED",
 		},
 		{
-			"trigger": "ACTION_WILL_BIND_ITEM\t\"event\"",
-			"contents": "ACTION_WILL_BIND_ITEM",
-		},
-		{
 			"trigger": "ACTIONBAR_HIDEGRID\t\"event\"",
 			"contents": "ACTIONBAR_HIDEGRID",
 		},
@@ -22,12 +18,12 @@
 			"contents": "ACTIONBAR_PAGE_CHANGED",
 		},
 		{
-			"trigger": "ACTIONBAR_SHOW_BOTTOMLEFT\t\"event\"",
-			"contents": "ACTIONBAR_SHOW_BOTTOMLEFT",
-		},
-		{
 			"trigger": "ACTIONBAR_SHOWGRID\t\"event\"",
 			"contents": "ACTIONBAR_SHOWGRID",
+		},
+		{
+			"trigger": "ACTIONBAR_SHOW_BOTTOMLEFT\t\"event\"",
+			"contents": "ACTIONBAR_SHOW_BOTTOMLEFT",
 		},
 		{
 			"trigger": "ACTIONBAR_SLOT_CHANGED\t\"event\"",
@@ -46,12 +42,20 @@
 			"contents": "ACTIONBAR_UPDATE_USABLE",
 		},
 		{
+			"trigger": "ACTION_WILL_BIND_ITEM\t\"event\"",
+			"contents": "ACTION_WILL_BIND_ITEM",
+		},
+		{
 			"trigger": "ACTIVATE_GLYPH\t\"event\"",
 			"contents": "ACTIVATE_GLYPH",
 		},
 		{
 			"trigger": "ACTIVE_TALENT_GROUP_CHANGED\t\"event\"",
 			"contents": "ACTIVE_TALENT_GROUP_CHANGED",
+		},
+		{
+			"trigger": "ADDONS_UNLOADING\t\"event\"",
+			"contents": "ADDONS_UNLOADING",
 		},
 		{
 			"trigger": "ADDON_ACTION_BLOCKED\t\"event\"",
@@ -130,6 +134,14 @@
 			"contents": "AJ_REWARD_DATA_RECEIVED",
 		},
 		{
+			"trigger": "ALLIED_RACE_CLOSE\t\"event\"",
+			"contents": "ALLIED_RACE_CLOSE",
+		},
+		{
+			"trigger": "ALLIED_RACE_OPEN\t\"event\"",
+			"contents": "ALLIED_RACE_OPEN",
+		},
+		{
 			"trigger": "ALTERNATIVE_DEFAULT_LANGUAGE_CHANGED\t\"event\"",
 			"contents": "ALTERNATIVE_DEFAULT_LANGUAGE_CHANGED",
 		},
@@ -188,6 +200,18 @@
 		{
 			"trigger": "ARTIFACT_ENDGAME_REFUND\t\"event\"",
 			"contents": "ARTIFACT_ENDGAME_REFUND",
+		},
+		{
+			"trigger": "ARTIFACT_RELIC_FORGE_CLOSE\t\"event\"",
+			"contents": "ARTIFACT_RELIC_FORGE_CLOSE",
+		},
+		{
+			"trigger": "ARTIFACT_RELIC_FORGE_PREVIEW_RELIC_CHANGED\t\"event\"",
+			"contents": "ARTIFACT_RELIC_FORGE_PREVIEW_RELIC_CHANGED",
+		},
+		{
+			"trigger": "ARTIFACT_RELIC_FORGE_UPDATE\t\"event\"",
+			"contents": "ARTIFACT_RELIC_FORGE_UPDATE",
 		},
 		{
 			"trigger": "ARTIFACT_RELIC_INFO_RECEIVED\t\"event\"",
@@ -278,6 +302,10 @@
 			"contents": "BAG_OPEN",
 		},
 		{
+			"trigger": "BAG_OVERFLOW_WITH_FULL_INVENTORY\t\"event\"",
+			"contents": "BAG_OVERFLOW_WITH_FULL_INVENTORY",
+		},
+		{
 			"trigger": "BAG_SLOT_FLAGS_UPDATED\t\"event\"",
 			"contents": "BAG_SLOT_FLAGS_UPDATED",
 		},
@@ -294,16 +322,16 @@
 			"contents": "BAG_UPDATE_DELAYED",
 		},
 		{
-			"trigger": "BANK_BAG_SLOT_FLAGS_UPDATED\t\"event\"",
-			"contents": "BANK_BAG_SLOT_FLAGS_UPDATED",
-		},
-		{
 			"trigger": "BANKFRAME_CLOSED\t\"event\"",
 			"contents": "BANKFRAME_CLOSED",
 		},
 		{
 			"trigger": "BANKFRAME_OPENED\t\"event\"",
 			"contents": "BANKFRAME_OPENED",
+		},
+		{
+			"trigger": "BANK_BAG_SLOT_FLAGS_UPDATED\t\"event\"",
+			"contents": "BANK_BAG_SLOT_FLAGS_UPDATED",
 		},
 		{
 			"trigger": "BARBER_SHOP_APPEARANCE_APPLIED\t\"event\"",
@@ -326,8 +354,12 @@
 			"contents": "BARBER_SHOP_SUCCESS",
 		},
 		{
-			"trigger": "BATTLE_PET_CURSOR_CLEAR\t\"event\"",
-			"contents": "BATTLE_PET_CURSOR_CLEAR",
+			"trigger": "BATTLEFIELDS_CLOSED\t\"event\"",
+			"contents": "BATTLEFIELDS_CLOSED",
+		},
+		{
+			"trigger": "BATTLEFIELDS_SHOW\t\"event\"",
+			"contents": "BATTLEFIELDS_SHOW",
 		},
 		{
 			"trigger": "BATTLEFIELD_MGR_DROP_TIMER_CANCELED\t\"event\"",
@@ -338,12 +370,12 @@
 			"contents": "BATTLEFIELD_MGR_DROP_TIMER_STARTED",
 		},
 		{
-			"trigger": "BATTLEFIELD_MGR_EJECT_PENDING\t\"event\"",
-			"contents": "BATTLEFIELD_MGR_EJECT_PENDING",
-		},
-		{
 			"trigger": "BATTLEFIELD_MGR_EJECTED\t\"event\"",
 			"contents": "BATTLEFIELD_MGR_EJECTED",
+		},
+		{
+			"trigger": "BATTLEFIELD_MGR_EJECT_PENDING\t\"event\"",
+			"contents": "BATTLEFIELD_MGR_EJECT_PENDING",
 		},
 		{
 			"trigger": "BATTLEFIELD_MGR_ENTERED\t\"event\"",
@@ -374,14 +406,6 @@
 			"contents": "BATTLEFIELD_QUEUE_TIMEOUT",
 		},
 		{
-			"trigger": "BATTLEFIELDS_CLOSED\t\"event\"",
-			"contents": "BATTLEFIELDS_CLOSED",
-		},
-		{
-			"trigger": "BATTLEFIELDS_SHOW\t\"event\"",
-			"contents": "BATTLEFIELDS_SHOW",
-		},
-		{
 			"trigger": "BATTLEGROUND_OBJECTIVES_UPDATE\t\"event\"",
 			"contents": "BATTLEGROUND_OBJECTIVES_UPDATE",
 		},
@@ -396,6 +420,10 @@
 		{
 			"trigger": "BATTLETAG_INVITE_SHOW\t\"event\"",
 			"contents": "BATTLETAG_INVITE_SHOW",
+		},
+		{
+			"trigger": "BATTLE_PET_CURSOR_CLEAR\t\"event\"",
+			"contents": "BATTLE_PET_CURSOR_CLEAR",
 		},
 		{
 			"trigger": "BILLING_NAG_DIALOG\t\"event\"",
@@ -1046,6 +1074,22 @@
 			"contents": "CONFIRM_XP_LOSS",
 		},
 		{
+			"trigger": "CONSOLE_CLEAR\t\"event\"",
+			"contents": "CONSOLE_CLEAR",
+		},
+		{
+			"trigger": "CONSOLE_COLORS_CHANGED\t\"event\"",
+			"contents": "CONSOLE_COLORS_CHANGED",
+		},
+		{
+			"trigger": "CONSOLE_FONT_SIZE_CHANGED\t\"event\"",
+			"contents": "CONSOLE_FONT_SIZE_CHANGED",
+		},
+		{
+			"trigger": "CONSOLE_MESSAGE\t\"event\"",
+			"contents": "CONSOLE_MESSAGE",
+		},
+		{
 			"trigger": "CONTRIBUTION_COLLECTOR_CLOSE\t\"event\"",
 			"contents": "CONTRIBUTION_COLLECTOR_CLOSE",
 		},
@@ -1194,14 +1238,6 @@
 			"contents": "ENTERED_DIFFERENT_INSTANCE_FROM_PARTY",
 		},
 		{
-			"trigger": "EQUIP_BIND_CONFIRM\t\"event\"",
-			"contents": "EQUIP_BIND_CONFIRM",
-		},
-		{
-			"trigger": "EQUIP_BIND_TRADEABLE_CONFIRM\t\"event\"",
-			"contents": "EQUIP_BIND_TRADEABLE_CONFIRM",
-		},
-		{
 			"trigger": "EQUIPMENT_SETS_CHANGED\t\"event\"",
 			"contents": "EQUIPMENT_SETS_CHANGED",
 		},
@@ -1212,6 +1248,14 @@
 		{
 			"trigger": "EQUIPMENT_SWAP_PENDING\t\"event\"",
 			"contents": "EQUIPMENT_SWAP_PENDING",
+		},
+		{
+			"trigger": "EQUIP_BIND_CONFIRM\t\"event\"",
+			"contents": "EQUIP_BIND_CONFIRM",
+		},
+		{
+			"trigger": "EQUIP_BIND_TRADEABLE_CONFIRM\t\"event\"",
+			"contents": "EQUIP_BIND_TRADEABLE_CONFIRM",
 		},
 		{
 			"trigger": "EVENT_CLASS_TRIAL_TIMER_START\t\"event\"",
@@ -1262,6 +1306,10 @@
 			"contents": "GARRISON_ARCHITECT_OPENED",
 		},
 		{
+			"trigger": "GARRISON_BUILDINGS_SWAPPED\t\"event\"",
+			"contents": "GARRISON_BUILDINGS_SWAPPED",
+		},
+		{
 			"trigger": "GARRISON_BUILDING_ACTIVATABLE\t\"event\"",
 			"contents": "GARRISON_BUILDING_ACTIVATABLE",
 		},
@@ -1288,10 +1336,6 @@
 		{
 			"trigger": "GARRISON_BUILDING_UPDATE\t\"event\"",
 			"contents": "GARRISON_BUILDING_UPDATE",
-		},
-		{
-			"trigger": "GARRISON_BUILDINGS_SWAPPED\t\"event\"",
-			"contents": "GARRISON_BUILDINGS_SWAPPED",
 		},
 		{
 			"trigger": "GARRISON_FOLLOWER_ADDED\t\"event\"",
@@ -1410,10 +1454,6 @@
 			"contents": "GARRISON_RECALL_PORTAL_USED",
 		},
 		{
-			"trigger": "GARRISON_RECRUIT_FOLLOWER_RESULT\t\"event\"",
-			"contents": "GARRISON_RECRUIT_FOLLOWER_RESULT",
-		},
-		{
 			"trigger": "GARRISON_RECRUITMENT_FOLLOWERS_GENERATED\t\"event\"",
 			"contents": "GARRISON_RECRUITMENT_FOLLOWERS_GENERATED",
 		},
@@ -1428,6 +1468,10 @@
 		{
 			"trigger": "GARRISON_RECRUITMENT_READY\t\"event\"",
 			"contents": "GARRISON_RECRUITMENT_READY",
+		},
+		{
+			"trigger": "GARRISON_RECRUIT_FOLLOWER_RESULT\t\"event\"",
+			"contents": "GARRISON_RECRUIT_FOLLOWER_RESULT",
 		},
 		{
 			"trigger": "GARRISON_SHIPMENT_RECEIVED\t\"event\"",
@@ -1502,16 +1546,16 @@
 			"contents": "GLYPH_UPDATED",
 		},
 		{
-			"trigger": "GM_PLAYER_INFO\t\"event\"",
-			"contents": "GM_PLAYER_INFO",
-		},
-		{
 			"trigger": "GMRESPONSE_RECEIVED\t\"event\"",
 			"contents": "GMRESPONSE_RECEIVED",
 		},
 		{
 			"trigger": "GMSURVEY_DISPLAY\t\"event\"",
 			"contents": "GMSURVEY_DISPLAY",
+		},
+		{
+			"trigger": "GM_PLAYER_INFO\t\"event\"",
+			"contents": "GM_PLAYER_INFO",
 		},
 		{
 			"trigger": "GOSSIP_CLOSED\t\"event\"",
@@ -1548,6 +1592,50 @@
 		{
 			"trigger": "GROUP_ROSTER_UPDATE\t\"event\"",
 			"contents": "GROUP_ROSTER_UPDATE",
+		},
+		{
+			"trigger": "GUILDBANKBAGSLOTS_CHANGED\t\"event\"",
+			"contents": "GUILDBANKBAGSLOTS_CHANGED",
+		},
+		{
+			"trigger": "GUILDBANKFRAME_CLOSED\t\"event\"",
+			"contents": "GUILDBANKFRAME_CLOSED",
+		},
+		{
+			"trigger": "GUILDBANKFRAME_OPENED\t\"event\"",
+			"contents": "GUILDBANKFRAME_OPENED",
+		},
+		{
+			"trigger": "GUILDBANKLOG_UPDATE\t\"event\"",
+			"contents": "GUILDBANKLOG_UPDATE",
+		},
+		{
+			"trigger": "GUILDBANK_ITEM_LOCK_CHANGED\t\"event\"",
+			"contents": "GUILDBANK_ITEM_LOCK_CHANGED",
+		},
+		{
+			"trigger": "GUILDBANK_TEXT_CHANGED\t\"event\"",
+			"contents": "GUILDBANK_TEXT_CHANGED",
+		},
+		{
+			"trigger": "GUILDBANK_UPDATE_MONEY\t\"event\"",
+			"contents": "GUILDBANK_UPDATE_MONEY",
+		},
+		{
+			"trigger": "GUILDBANK_UPDATE_TABS\t\"event\"",
+			"contents": "GUILDBANK_UPDATE_TABS",
+		},
+		{
+			"trigger": "GUILDBANK_UPDATE_TEXT\t\"event\"",
+			"contents": "GUILDBANK_UPDATE_TEXT",
+		},
+		{
+			"trigger": "GUILDBANK_UPDATE_WITHDRAWMONEY\t\"event\"",
+			"contents": "GUILDBANK_UPDATE_WITHDRAWMONEY",
+		},
+		{
+			"trigger": "GUILDTABARD_UPDATE\t\"event\"",
+			"contents": "GUILDTABARD_UPDATE",
 		},
 		{
 			"trigger": "GUILD_CHALLENGE_COMPLETED\t\"event\"",
@@ -1626,60 +1714,16 @@
 			"contents": "GUILD_XP_UPDATE",
 		},
 		{
-			"trigger": "GUILDBANK_ITEM_LOCK_CHANGED\t\"event\"",
-			"contents": "GUILDBANK_ITEM_LOCK_CHANGED",
-		},
-		{
-			"trigger": "GUILDBANK_TEXT_CHANGED\t\"event\"",
-			"contents": "GUILDBANK_TEXT_CHANGED",
-		},
-		{
-			"trigger": "GUILDBANK_UPDATE_MONEY\t\"event\"",
-			"contents": "GUILDBANK_UPDATE_MONEY",
-		},
-		{
-			"trigger": "GUILDBANK_UPDATE_TABS\t\"event\"",
-			"contents": "GUILDBANK_UPDATE_TABS",
-		},
-		{
-			"trigger": "GUILDBANK_UPDATE_TEXT\t\"event\"",
-			"contents": "GUILDBANK_UPDATE_TEXT",
-		},
-		{
-			"trigger": "GUILDBANK_UPDATE_WITHDRAWMONEY\t\"event\"",
-			"contents": "GUILDBANK_UPDATE_WITHDRAWMONEY",
-		},
-		{
-			"trigger": "GUILDBANKBAGSLOTS_CHANGED\t\"event\"",
-			"contents": "GUILDBANKBAGSLOTS_CHANGED",
-		},
-		{
-			"trigger": "GUILDBANKFRAME_CLOSED\t\"event\"",
-			"contents": "GUILDBANKFRAME_CLOSED",
-		},
-		{
-			"trigger": "GUILDBANKFRAME_OPENED\t\"event\"",
-			"contents": "GUILDBANKFRAME_OPENED",
-		},
-		{
-			"trigger": "GUILDBANKLOG_UPDATE\t\"event\"",
-			"contents": "GUILDBANKLOG_UPDATE",
-		},
-		{
-			"trigger": "GUILDTABARD_UPDATE\t\"event\"",
-			"contents": "GUILDTABARD_UPDATE",
-		},
-		{
 			"trigger": "HEARTHSTONE_BOUND\t\"event\"",
 			"contents": "HEARTHSTONE_BOUND",
 		},
 		{
-			"trigger": "HEIRLOOM_UPGRADE_TARGETING_CHANGED\t\"event\"",
-			"contents": "HEIRLOOM_UPGRADE_TARGETING_CHANGED",
-		},
-		{
 			"trigger": "HEIRLOOMS_UPDATED\t\"event\"",
 			"contents": "HEIRLOOMS_UPDATED",
+		},
+		{
+			"trigger": "HEIRLOOM_UPGRADE_TARGETING_CHANGED\t\"event\"",
+			"contents": "HEIRLOOM_UPGRADE_TARGETING_CHANGED",
 		},
 		{
 			"trigger": "HONOR_LEVEL_UPDATE\t\"event\"",
@@ -1750,12 +1794,12 @@
 			"contents": "INVENTORY_SEARCH_UPDATE",
 		},
 		{
-			"trigger": "ITEM_LOCK_CHANGED\t\"event\"",
-			"contents": "ITEM_LOCK_CHANGED",
-		},
-		{
 			"trigger": "ITEM_LOCKED\t\"event\"",
 			"contents": "ITEM_LOCKED",
+		},
+		{
+			"trigger": "ITEM_LOCK_CHANGED\t\"event\"",
+			"contents": "ITEM_LOCK_CHANGED",
 		},
 		{
 			"trigger": "ITEM_PUSH\t\"event\"",
@@ -1850,30 +1894,6 @@
 			"contents": "LEVEL_GRANT_PROPOSED",
 		},
 		{
-			"trigger": "LF_GUILD_BROWSE_UPDATED\t\"event\"",
-			"contents": "LF_GUILD_BROWSE_UPDATED",
-		},
-		{
-			"trigger": "LF_GUILD_MEMBERSHIP_LIST_CHANGED\t\"event\"",
-			"contents": "LF_GUILD_MEMBERSHIP_LIST_CHANGED",
-		},
-		{
-			"trigger": "LF_GUILD_MEMBERSHIP_LIST_UPDATED\t\"event\"",
-			"contents": "LF_GUILD_MEMBERSHIP_LIST_UPDATED",
-		},
-		{
-			"trigger": "LF_GUILD_POST_UPDATED\t\"event\"",
-			"contents": "LF_GUILD_POST_UPDATED",
-		},
-		{
-			"trigger": "LF_GUILD_RECRUIT_LIST_CHANGED\t\"event\"",
-			"contents": "LF_GUILD_RECRUIT_LIST_CHANGED",
-		},
-		{
-			"trigger": "LF_GUILD_RECRUITS_UPDATED\t\"event\"",
-			"contents": "LF_GUILD_RECRUITS_UPDATED",
-		},
-		{
 			"trigger": "LFG_BONUS_FACTION_ID_UPDATED\t\"event\"",
 			"contents": "LFG_BONUS_FACTION_ID_UPDATED",
 		},
@@ -1930,12 +1950,12 @@
 			"contents": "LFG_LIST_SEARCH_FAILED",
 		},
 		{
-			"trigger": "LFG_LIST_SEARCH_RESULT_UPDATED\t\"event\"",
-			"contents": "LFG_LIST_SEARCH_RESULT_UPDATED",
-		},
-		{
 			"trigger": "LFG_LIST_SEARCH_RESULTS_RECEIVED\t\"event\"",
 			"contents": "LFG_LIST_SEARCH_RESULTS_RECEIVED",
+		},
+		{
+			"trigger": "LFG_LIST_SEARCH_RESULT_UPDATED\t\"event\"",
+			"contents": "LFG_LIST_SEARCH_RESULT_UPDATED",
 		},
 		{
 			"trigger": "LFG_LOCK_INFO_RECEIVED\t\"event\"",
@@ -2024,6 +2044,30 @@
 		{
 			"trigger": "LFG_UPDATE_RANDOM_INFO\t\"event\"",
 			"contents": "LFG_UPDATE_RANDOM_INFO",
+		},
+		{
+			"trigger": "LF_GUILD_BROWSE_UPDATED\t\"event\"",
+			"contents": "LF_GUILD_BROWSE_UPDATED",
+		},
+		{
+			"trigger": "LF_GUILD_MEMBERSHIP_LIST_CHANGED\t\"event\"",
+			"contents": "LF_GUILD_MEMBERSHIP_LIST_CHANGED",
+		},
+		{
+			"trigger": "LF_GUILD_MEMBERSHIP_LIST_UPDATED\t\"event\"",
+			"contents": "LF_GUILD_MEMBERSHIP_LIST_UPDATED",
+		},
+		{
+			"trigger": "LF_GUILD_POST_UPDATED\t\"event\"",
+			"contents": "LF_GUILD_POST_UPDATED",
+		},
+		{
+			"trigger": "LF_GUILD_RECRUITS_UPDATED\t\"event\"",
+			"contents": "LF_GUILD_RECRUITS_UPDATED",
+		},
+		{
+			"trigger": "LF_GUILD_RECRUIT_LIST_CHANGED\t\"event\"",
+			"contents": "LF_GUILD_RECRUIT_LIST_CHANGED",
 		},
 		{
 			"trigger": "LIFESTEAL_UPDATE\t\"event\"",
@@ -2166,6 +2210,10 @@
 			"contents": "MASTERY_UPDATE",
 		},
 		{
+			"trigger": "MAX_EXPANSION_LEVEL_UPDATED\t\"event\"",
+			"contents": "MAX_EXPANSION_LEVEL_UPDATED",
+		},
+		{
 			"trigger": "MAX_SPELL_START_RECOVERY_OFFSET_CHANGED\t\"event\"",
 			"contents": "MAX_SPELL_START_RECOVERY_OFFSET_CHANGED",
 		},
@@ -2200,6 +2248,10 @@
 		{
 			"trigger": "MINIMAP_UPDATE_ZOOM\t\"event\"",
 			"contents": "MINIMAP_UPDATE_ZOOM",
+		},
+		{
+			"trigger": "MIN_EXPANSION_LEVEL_UPDATED\t\"event\"",
+			"contents": "MIN_EXPANSION_LEVEL_UPDATED",
 		},
 		{
 			"trigger": "MIRROR_TIMER_PAUSE\t\"event\"",
@@ -2264,6 +2316,14 @@
 		{
 			"trigger": "NEW_AUCTION_UPDATE\t\"event\"",
 			"contents": "NEW_AUCTION_UPDATE",
+		},
+		{
+			"trigger": "NEW_MOUNT_ADDED\t\"event\"",
+			"contents": "NEW_MOUNT_ADDED",
+		},
+		{
+			"trigger": "NEW_PET_ADDED\t\"event\"",
+			"contents": "NEW_PET_ADDED",
 		},
 		{
 			"trigger": "NEW_RECIPE_LEARNED\t\"event\"",
@@ -2334,6 +2394,10 @@
 			"contents": "PARTY_LOOT_METHOD_CHANGED",
 		},
 		{
+			"trigger": "PARTY_MEMBERS_CHANGED\t\"event\"",
+			"contents": "PARTY_MEMBERS_CHANGED",
+		},
+		{
 			"trigger": "PARTY_MEMBER_DISABLE\t\"event\"",
 			"contents": "PARTY_MEMBER_DISABLE",
 		},
@@ -2342,12 +2406,28 @@
 			"contents": "PARTY_MEMBER_ENABLE",
 		},
 		{
-			"trigger": "PARTY_MEMBERS_CHANGED\t\"event\"",
-			"contents": "PARTY_MEMBERS_CHANGED",
-		},
-		{
 			"trigger": "PARTY_REFER_A_FRIEND_UPDATED\t\"event\"",
 			"contents": "PARTY_REFER_A_FRIEND_UPDATED",
+		},
+		{
+			"trigger": "PETITION_CLOSED\t\"event\"",
+			"contents": "PETITION_CLOSED",
+		},
+		{
+			"trigger": "PETITION_SHOW\t\"event\"",
+			"contents": "PETITION_SHOW",
+		},
+		{
+			"trigger": "PETITION_VENDOR_CLOSED\t\"event\"",
+			"contents": "PETITION_VENDOR_CLOSED",
+		},
+		{
+			"trigger": "PETITION_VENDOR_SHOW\t\"event\"",
+			"contents": "PETITION_VENDOR_SHOW",
+		},
+		{
+			"trigger": "PETITION_VENDOR_UPDATE\t\"event\"",
+			"contents": "PETITION_VENDOR_UPDATE",
 		},
 		{
 			"trigger": "PET_ATTACK_START\t\"event\"",
@@ -2458,12 +2538,12 @@
 			"contents": "PET_BATTLE_PET_TYPE_CHANGED",
 		},
 		{
-			"trigger": "PET_BATTLE_PVP_DUEL_REQUEST_CANCEL\t\"event\"",
-			"contents": "PET_BATTLE_PVP_DUEL_REQUEST_CANCEL",
-		},
-		{
 			"trigger": "PET_BATTLE_PVP_DUEL_REQUESTED\t\"event\"",
 			"contents": "PET_BATTLE_PVP_DUEL_REQUESTED",
+		},
+		{
+			"trigger": "PET_BATTLE_PVP_DUEL_REQUEST_CANCEL\t\"event\"",
+			"contents": "PET_BATTLE_PVP_DUEL_REQUEST_CANCEL",
 		},
 		{
 			"trigger": "PET_BATTLE_QUEUE_PROPOSAL_ACCEPTED\t\"event\"",
@@ -2514,6 +2594,10 @@
 			"contents": "PET_JOURNAL_NEW_BATTLE_SLOT",
 		},
 		{
+			"trigger": "PET_JOURNAL_PETS_HEALED\t\"event\"",
+			"contents": "PET_JOURNAL_PETS_HEALED",
+		},
+		{
 			"trigger": "PET_JOURNAL_PET_DELETED\t\"event\"",
 			"contents": "PET_JOURNAL_PET_DELETED",
 		},
@@ -2524,10 +2608,6 @@
 		{
 			"trigger": "PET_JOURNAL_PET_REVOKED\t\"event\"",
 			"contents": "PET_JOURNAL_PET_REVOKED",
-		},
-		{
-			"trigger": "PET_JOURNAL_PETS_HEALED\t\"event\"",
-			"contents": "PET_JOURNAL_PETS_HEALED",
 		},
 		{
 			"trigger": "PET_JOURNAL_TRAP_LEVEL_SET\t\"event\"",
@@ -2570,28 +2650,16 @@
 			"contents": "PET_UI_UPDATE",
 		},
 		{
-			"trigger": "PETITION_CLOSED\t\"event\"",
-			"contents": "PETITION_CLOSED",
+			"trigger": "PLAYERBANKBAGSLOTS_CHANGED\t\"event\"",
+			"contents": "PLAYERBANKBAGSLOTS_CHANGED",
 		},
 		{
-			"trigger": "PETITION_SHOW\t\"event\"",
-			"contents": "PETITION_SHOW",
+			"trigger": "PLAYERBANKSLOTS_CHANGED\t\"event\"",
+			"contents": "PLAYERBANKSLOTS_CHANGED",
 		},
 		{
-			"trigger": "PETITION_VENDOR_CLOSED\t\"event\"",
-			"contents": "PETITION_VENDOR_CLOSED",
-		},
-		{
-			"trigger": "PETITION_VENDOR_SHOW\t\"event\"",
-			"contents": "PETITION_VENDOR_SHOW",
-		},
-		{
-			"trigger": "PETITION_VENDOR_UPDATE\t\"event\"",
-			"contents": "PETITION_VENDOR_UPDATE",
-		},
-		{
-			"trigger": "PLAY_MOVIE\t\"event\"",
-			"contents": "PLAY_MOVIE",
+			"trigger": "PLAYERREAGENTBANKSLOTS_CHANGED\t\"event\"",
+			"contents": "PLAYERREAGENTBANKSLOTS_CHANGED",
 		},
 		{
 			"trigger": "PLAYER_ALIVE\t\"event\"",
@@ -2634,16 +2702,16 @@
 			"contents": "PLAYER_DIFFICULTY_CHANGED",
 		},
 		{
-			"trigger": "PLAYER_ENTER_COMBAT\t\"event\"",
-			"contents": "PLAYER_ENTER_COMBAT",
-		},
-		{
 			"trigger": "PLAYER_ENTERING_BATTLEGROUND\t\"event\"",
 			"contents": "PLAYER_ENTERING_BATTLEGROUND",
 		},
 		{
 			"trigger": "PLAYER_ENTERING_WORLD\t\"event\"",
 			"contents": "PLAYER_ENTERING_WORLD",
+		},
+		{
+			"trigger": "PLAYER_ENTER_COMBAT\t\"event\"",
+			"contents": "PLAYER_ENTER_COMBAT",
 		},
 		{
 			"trigger": "PLAYER_EQUIPMENT_CHANGED\t\"event\"",
@@ -2782,6 +2850,10 @@
 			"contents": "PLAYER_TRADE_MONEY",
 		},
 		{
+			"trigger": "PLAYER_TRIAL_XP_UPDATE\t\"event\"",
+			"contents": "PLAYER_TRIAL_XP_UPDATE",
+		},
+		{
 			"trigger": "PLAYER_UNGHOST\t\"event\"",
 			"contents": "PLAYER_UNGHOST",
 		},
@@ -2794,20 +2866,12 @@
 			"contents": "PLAYER_XP_UPDATE",
 		},
 		{
-			"trigger": "PLAYERBANKBAGSLOTS_CHANGED\t\"event\"",
-			"contents": "PLAYERBANKBAGSLOTS_CHANGED",
-		},
-		{
-			"trigger": "PLAYERBANKSLOTS_CHANGED\t\"event\"",
-			"contents": "PLAYERBANKSLOTS_CHANGED",
-		},
-		{
-			"trigger": "PLAYERREAGENTBANKSLOTS_CHANGED\t\"event\"",
-			"contents": "PLAYERREAGENTBANKSLOTS_CHANGED",
-		},
-		{
 			"trigger": "PLAYTIME_CHANGED\t\"event\"",
 			"contents": "PLAYTIME_CHANGED",
+		},
+		{
+			"trigger": "PLAY_MOVIE\t\"event\"",
+			"contents": "PLAY_MOVIE",
 		},
 		{
 			"trigger": "PRESTIGE_AND_HONOR_INVOLUNTARILY_CHANGED\t\"event\"",
@@ -2836,6 +2900,14 @@
 		{
 			"trigger": "PROVING_GROUNDS_SCORE_UPDATE\t\"event\"",
 			"contents": "PROVING_GROUNDS_SCORE_UPDATE",
+		},
+		{
+			"trigger": "PVPQUEUE_ANYWHERE_SHOW\t\"event\"",
+			"contents": "PVPQUEUE_ANYWHERE_SHOW",
+		},
+		{
+			"trigger": "PVPQUEUE_ANYWHERE_UPDATE_AVAILABLE\t\"event\"",
+			"contents": "PVPQUEUE_ANYWHERE_UPDATE_AVAILABLE",
 		},
 		{
 			"trigger": "PVP_BRAWL_INFO_UPDATED\t\"event\"",
@@ -2870,20 +2942,16 @@
 			"contents": "PVP_WORLDSTATE_UPDATE",
 		},
 		{
-			"trigger": "PVPQUEUE_ANYWHERE_SHOW\t\"event\"",
-			"contents": "PVPQUEUE_ANYWHERE_SHOW",
-		},
-		{
-			"trigger": "PVPQUEUE_ANYWHERE_UPDATE_AVAILABLE\t\"event\"",
-			"contents": "PVPQUEUE_ANYWHERE_UPDATE_AVAILABLE",
-		},
-		{
-			"trigger": "QUEST_ACCEPT_CONFIRM\t\"event\"",
-			"contents": "QUEST_ACCEPT_CONFIRM",
+			"trigger": "QUESTLINE_UPDATE\t\"event\"",
+			"contents": "QUESTLINE_UPDATE",
 		},
 		{
 			"trigger": "QUEST_ACCEPTED\t\"event\"",
 			"contents": "QUEST_ACCEPTED",
+		},
+		{
+			"trigger": "QUEST_ACCEPT_CONFIRM\t\"event\"",
+			"contents": "QUEST_ACCEPT_CONFIRM",
 		},
 		{
 			"trigger": "QUEST_AUTOCOMPLETE\t\"event\"",
@@ -2960,10 +3028,6 @@
 		{
 			"trigger": "QUEST_WATCH_UPDATE\t\"event\"",
 			"contents": "QUEST_WATCH_UPDATE",
-		},
-		{
-			"trigger": "QUESTLINE_UPDATE\t\"event\"",
-			"contents": "QUESTLINE_UPDATE",
 		},
 		{
 			"trigger": "QUICK_TICKET_SYSTEM_STATUS\t\"event\"",
@@ -3222,6 +3286,10 @@
 			"contents": "SIMPLE_BROWSER_WEB_PROXY_FAILED",
 		},
 		{
+			"trigger": "SIMPLE_CHECKOUT_CLOSED\t\"event\"",
+			"contents": "SIMPLE_CHECKOUT_CLOSED",
+		},
+		{
 			"trigger": "SKILL_LINES_CHANGED\t\"event\"",
 			"contents": "SKILL_LINES_CHANGED",
 		},
@@ -3270,12 +3338,12 @@
 			"contents": "SOR_START_EXPERIENCE_INCOMPLETE",
 		},
 		{
-			"trigger": "SOUND_DEVICE_UPDATE\t\"event\"",
-			"contents": "SOUND_DEVICE_UPDATE",
-		},
-		{
 			"trigger": "SOUNDKIT_FINISHED\t\"event\"",
 			"contents": "SOUNDKIT_FINISHED",
+		},
+		{
+			"trigger": "SOUND_DEVICE_UPDATE\t\"event\"",
+			"contents": "SOUND_DEVICE_UPDATE",
 		},
 		{
 			"trigger": "SPEC_INVOLUNTARILY_CHANGED\t\"event\"",
@@ -3284,6 +3352,10 @@
 		{
 			"trigger": "SPEED_UPDATE\t\"event\"",
 			"contents": "SPEED_UPDATE",
+		},
+		{
+			"trigger": "SPELLS_CHANGED\t\"event\"",
+			"contents": "SPELLS_CHANGED",
 		},
 		{
 			"trigger": "SPELL_ACTIVATION_OVERLAY_GLOW_HIDE\t\"event\"",
@@ -3338,10 +3410,6 @@
 			"contents": "SPELL_UPDATE_USABLE",
 		},
 		{
-			"trigger": "SPELLS_CHANGED\t\"event\"",
-			"contents": "SPELLS_CHANGED",
-		},
-		{
 			"trigger": "START_AUTOREPEAT_SPELL\t\"event\"",
 			"contents": "START_AUTOREPEAT_SPELL",
 		},
@@ -3366,20 +3434,28 @@
 			"contents": "STORE_CHARACTER_LIST_RECEIVED",
 		},
 		{
+			"trigger": "STORE_CLOSE_SIMPLE_CHECKOUT\t\"event\"",
+			"contents": "STORE_CLOSE_SIMPLE_CHECKOUT",
+		},
+		{
 			"trigger": "STORE_CONFIRM_PURCHASE\t\"event\"",
 			"contents": "STORE_CONFIRM_PURCHASE",
+		},
+		{
+			"trigger": "STORE_OPEN_SIMPLE_CHECKOUT\t\"event\"",
+			"contents": "STORE_OPEN_SIMPLE_CHECKOUT",
 		},
 		{
 			"trigger": "STORE_ORDER_INITIATION_FAILED\t\"event\"",
 			"contents": "STORE_ORDER_INITIATION_FAILED",
 		},
 		{
-			"trigger": "STORE_PRODUCT_DELIVERED\t\"event\"",
-			"contents": "STORE_PRODUCT_DELIVERED",
-		},
-		{
 			"trigger": "STORE_PRODUCTS_UPDATED\t\"event\"",
 			"contents": "STORE_PRODUCTS_UPDATED",
+		},
+		{
+			"trigger": "STORE_PRODUCT_DELIVERED\t\"event\"",
+			"contents": "STORE_PRODUCT_DELIVERED",
 		},
 		{
 			"trigger": "STORE_PURCHASE_ERROR\t\"event\"",
@@ -3412,6 +3488,10 @@
 		{
 			"trigger": "STURDINESS_UPDATE\t\"event\"",
 			"contents": "STURDINESS_UPDATE",
+		},
+		{
+			"trigger": "SUBSCRIPTION_CHANGED_KICK_IMMINENT\t\"event\"",
+			"contents": "SUBSCRIPTION_CHANGED_KICK_IMMINENT",
 		},
 		{
 			"trigger": "SUPER_TRACKED_QUEST_CHANGED\t\"event\"",
@@ -3460,6 +3540,10 @@
 		{
 			"trigger": "TIME_PLAYED_MSG\t\"event\"",
 			"contents": "TIME_PLAYED_MSG",
+		},
+		{
+			"trigger": "TOGGLE_CONSOLE\t\"event\"",
+			"contents": "TOGGLE_CONSOLE",
 		},
 		{
 			"trigger": "TOKEN_AUCTION_SOLD\t\"event\"",
@@ -3626,6 +3710,26 @@
 			"contents": "TRAINER_UPDATE",
 		},
 		{
+			"trigger": "TRANSMOGRIFY_CLOSE\t\"event\"",
+			"contents": "TRANSMOGRIFY_CLOSE",
+		},
+		{
+			"trigger": "TRANSMOGRIFY_ITEM_UPDATE\t\"event\"",
+			"contents": "TRANSMOGRIFY_ITEM_UPDATE",
+		},
+		{
+			"trigger": "TRANSMOGRIFY_OPEN\t\"event\"",
+			"contents": "TRANSMOGRIFY_OPEN",
+		},
+		{
+			"trigger": "TRANSMOGRIFY_SUCCESS\t\"event\"",
+			"contents": "TRANSMOGRIFY_SUCCESS",
+		},
+		{
+			"trigger": "TRANSMOGRIFY_UPDATE\t\"event\"",
+			"contents": "TRANSMOGRIFY_UPDATE",
+		},
+		{
 			"trigger": "TRANSMOG_COLLECTION_CAMERA_UPDATE\t\"event\"",
 			"contents": "TRANSMOG_COLLECTION_CAMERA_UPDATE",
 		},
@@ -3666,32 +3770,16 @@
 			"contents": "TRANSMOG_SOURCE_COLLECTABILITY_UPDATE",
 		},
 		{
-			"trigger": "TRANSMOGRIFY_CLOSE\t\"event\"",
-			"contents": "TRANSMOGRIFY_CLOSE",
-		},
-		{
-			"trigger": "TRANSMOGRIFY_ITEM_UPDATE\t\"event\"",
-			"contents": "TRANSMOGRIFY_ITEM_UPDATE",
-		},
-		{
-			"trigger": "TRANSMOGRIFY_OPEN\t\"event\"",
-			"contents": "TRANSMOGRIFY_OPEN",
-		},
-		{
-			"trigger": "TRANSMOGRIFY_SUCCESS\t\"event\"",
-			"contents": "TRANSMOGRIFY_SUCCESS",
-		},
-		{
-			"trigger": "TRANSMOGRIFY_UPDATE\t\"event\"",
-			"contents": "TRANSMOGRIFY_UPDATE",
-		},
-		{
 			"trigger": "TRIAL_CAP_REACHED_LEVEL\t\"event\"",
 			"contents": "TRIAL_CAP_REACHED_LEVEL",
 		},
 		{
 			"trigger": "TRIAL_CAP_REACHED_MONEY\t\"event\"",
 			"contents": "TRIAL_CAP_REACHED_MONEY",
+		},
+		{
+			"trigger": "TRIAL_STATUS_UPDATE\t\"event\"",
+			"contents": "TRIAL_STATUS_UPDATE",
 		},
 		{
 			"trigger": "TUTORIAL_TRIGGER\t\"event\"",
@@ -3794,20 +3882,20 @@
 			"contents": "UNIT_FLAGS",
 		},
 		{
-			"trigger": "UNIT_HEAL_ABSORB_AMOUNT_CHANGED\t\"event\"",
-			"contents": "UNIT_HEAL_ABSORB_AMOUNT_CHANGED",
-		},
-		{
-			"trigger": "UNIT_HEAL_PREDICTION\t\"event\"",
-			"contents": "UNIT_HEAL_PREDICTION",
-		},
-		{
 			"trigger": "UNIT_HEALTH\t\"event\"",
 			"contents": "UNIT_HEALTH",
 		},
 		{
 			"trigger": "UNIT_HEALTH_FREQUENT\t\"event\"",
 			"contents": "UNIT_HEALTH_FREQUENT",
+		},
+		{
+			"trigger": "UNIT_HEAL_ABSORB_AMOUNT_CHANGED\t\"event\"",
+			"contents": "UNIT_HEAL_ABSORB_AMOUNT_CHANGED",
+		},
+		{
+			"trigger": "UNIT_HEAL_PREDICTION\t\"event\"",
+			"contents": "UNIT_HEAL_PREDICTION",
 		},
 		{
 			"trigger": "UNIT_INVENTORY_CHANGED\t\"event\"",
@@ -3882,20 +3970,16 @@
 			"contents": "UNIT_QUEST_LOG_CHANGED",
 		},
 		{
-			"trigger": "UNIT_RANGED_ATTACK_POWER\t\"event\"",
-			"contents": "UNIT_RANGED_ATTACK_POWER",
-		},
-		{
 			"trigger": "UNIT_RANGEDDAMAGE\t\"event\"",
 			"contents": "UNIT_RANGEDDAMAGE",
 		},
 		{
-			"trigger": "UNIT_RESISTANCES\t\"event\"",
-			"contents": "UNIT_RESISTANCES",
+			"trigger": "UNIT_RANGED_ATTACK_POWER\t\"event\"",
+			"contents": "UNIT_RANGED_ATTACK_POWER",
 		},
 		{
-			"trigger": "UNIT_SPELL_HASTE\t\"event\"",
-			"contents": "UNIT_SPELL_HASTE",
+			"trigger": "UNIT_RESISTANCES\t\"event\"",
+			"contents": "UNIT_RESISTANCES",
 		},
 		{
 			"trigger": "UNIT_SPELLCAST_CHANNEL_START\t\"event\"",
@@ -3948,6 +4032,10 @@
 		{
 			"trigger": "UNIT_SPELLCAST_SUCCEEDED\t\"event\"",
 			"contents": "UNIT_SPELLCAST_SUCCEEDED",
+		},
+		{
+			"trigger": "UNIT_SPELL_HASTE\t\"event\"",
+			"contents": "UNIT_SPELL_HASTE",
 		},
 		{
 			"trigger": "UNIT_STATS\t\"event\"",
@@ -4128,6 +4216,10 @@
 		{
 			"trigger": "USE_GLYPH\t\"event\"",
 			"contents": "USE_GLYPH",
+		},
+		{
+			"trigger": "USE_NO_REFUND_CONFIRM\t\"event\"",
+			"contents": "USE_NO_REFUND_CONFIRM",
 		},
 		{
 			"trigger": "VARIABLES_LOADED\t\"event\"",

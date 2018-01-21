@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NonEmitterCombatRange]]></content>
+	<tabTrigger>NonEmitterCombatRange</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

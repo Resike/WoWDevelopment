@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RAIDsunShafts]]></content>
+	<tabTrigger>RAIDsunShafts</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -106,6 +106,10 @@
 			"contents": "AddQuestWatch(${1:questIndex})$0",
 		},
 		{
+			"trigger": "AddReferencedFrame\t(frame)",
+			"contents": "AddReferencedFrame(${1:frame})$0",
+		},
+		{
 			"trigger": "AddToAutoHide\t(frame, child)",
 			"contents": "AddToAutoHide(${1:frame}, ${2:child})$0",
 		},
@@ -2298,6 +2302,10 @@
 			"contents": "GetCursorPosition()$0",
 		},
 		{
+			"trigger": "GetCustomizationDetails\t(ID)",
+			"contents": "GetCustomizationDetails(${1:ID})$0",
+		},
+		{
 			"trigger": "GetCVar\t(\"CVar\")",
 			"contents": "GetCVar(\"${1:CVar}\")$0",
 		},
@@ -2368,10 +2376,6 @@
 		{
 			"trigger": "GetExpertise\t()",
 			"contents": "GetExpertise()$0",
-		},
-		{
-			"trigger": "GetFacialHairCustomization\t()",
-			"contents": "GetFacialHairCustomization()$0",
 		},
 		{
 			"trigger": "GetFactionInfo\t(index)",
@@ -2536,10 +2540,6 @@
 		{
 			"trigger": "GetGuildTradeSkillInfo\t(index)",
 			"contents": "GetGuildTradeSkillInfo(${1:index})$0",
-		},
-		{
-			"trigger": "GetHairCustomization\t()",
-			"contents": "GetHairCustomization()$0",
 		},
 		{
 			"trigger": "GetIgnoreName\t(\"index\")",
@@ -3116,6 +3116,10 @@
 		{
 			"trigger": "GetNumEquipmentSets\t()",
 			"contents": "GetNumEquipmentSets()$0",
+		},
+		{
+			"trigger": "GetNumExpansions\t()",
+			"contents": "GetNumExpansions()$0",
 		},
 		{
 			"trigger": "GetNumFactions\t()",
@@ -3738,6 +3742,14 @@
 			"contents": "GetSavedInstanceInfo(${1:index})$0",
 		},
 		{
+			"trigger": "GetScalingQuestDifficultyColor\t(level)",
+			"contents": "GetScalingQuestDifficultyColor(${1:level})$0",
+		},
+		{
+			"trigger": "GetScalingQuestGreenRange\t()",
+			"contents": "GetScalingQuestGreenRange()$0",
+		},
+		{
 			"trigger": "GetScreenHeight\t()",
 			"contents": "GetScreenHeight()$0",
 		},
@@ -3836,6 +3848,10 @@
 		{
 			"trigger": "GetSocketTypes\t(index)",
 			"contents": "GetSocketTypes(${1:index})$0",
+		},
+		{
+			"trigger": "GetSortedSelfResurrectOptions\t()",
+			"contents": "GetSortedSelfResurrectOptions()$0",
 		},
 		{
 			"trigger": "GetSpecialization\t()",
@@ -4130,6 +4146,10 @@
 			"contents": "GetTrainerServiceTypeFilter(\"${1:type}\")$0",
 		},
 		{
+			"trigger": "GetUITextureKitInfo\t(textureKitID)",
+			"contents": "GetUITextureKitInfo(${1:textureKitID})$0",
+		},
+		{
 			"trigger": "GetUnitHealthModifier\t(\"unit\")",
 			"contents": "GetUnitHealthModifier(\"${1:unit}\")$0",
 		},
@@ -4402,6 +4422,10 @@
 			"contents": "IsActiveQuestTrivial(${1:index})$0",
 		},
 		{
+			"trigger": "IsAccountSecured\t()",
+			"contents": "IsAccountSecured()$0",
+		},
+		{
 			"trigger": "IsAddOnLoaded\t(index)",
 			"contents": "IsAddOnLoaded(${1:index})$0",
 		},
@@ -4536,6 +4560,10 @@
 		{
 			"trigger": "IsDressableItem\t(\"itemName\")",
 			"contents": "IsDressableItem(\"${1:itemName}\")$0",
+		},
+		{
+			"trigger": "IsEncounterLimitingResurrections\t()",
+			"contents": "IsEncounterLimitingResurrections()$0",
 		},
 		{
 			"trigger": "IsEquippableItem\t(itemID)",
@@ -4868,6 +4896,10 @@
 		{
 			"trigger": "IsTrackedAchievement\t(id)",
 			"contents": "IsTrackedAchievement(${1:id})$0",
+		},
+		{
+			"trigger": "IsTrackingHiddenQuests\t()",
+			"contents": "IsTrackingHiddenQuests()$0",
 		},
 		{
 			"trigger": "IsTradeskillTrainer\t()",
@@ -5406,8 +5438,8 @@
 			"contents": "RegisterAddonMessagePrefix(\"${1:prefix}\")$0",
 		},
 		{
-			"trigger": "RegisterCVar\t(\"cvar\", \"default\")",
-			"contents": "RegisterCVar(\"${1:cvar}\", \"${2:default}\")$0",
+			"trigger": "RegisterCVar\t(\"CVar\", \"default\")",
+			"contents": "RegisterCVar(\"${1:CVar}\", \"${2:default}\")$0",
 		},
 		{
 			"trigger": "RejectProposal\t()",
@@ -6050,6 +6082,10 @@
 			"contents": "SetupFullscreenScale(${1:frame})$0",
 		},
 		{
+			"trigger": "SetupTextureKits\t(textureKitID, frame, regions)",
+			"contents": "SetupTextureKits(${1:textureKitID}, ${2:frame}, ${3:regions})$0",
+		},
+		{
 			"trigger": "SetView\t(index)",
 			"contents": "SetView(${1:index})$0",
 		},
@@ -6312,6 +6348,10 @@
 		{
 			"trigger": "UnitAffectingCombat\t(\"unit\")",
 			"contents": "UnitAffectingCombat(\"${1:unit}\")$0",
+		},
+		{
+			"trigger": "UnitAlliedRaceInfo\t(\"unit\")",
+			"contents": "UnitAlliedRaceInfo(\"${1:unit}\")$0",
 		},
 		{
 			"trigger": "UnitAlternatePowerInfo\t(\"name\")",
@@ -6762,8 +6802,16 @@
 			"contents": "UnitThreatSituation(\"${1:name}\", ${2:[mobUnit]})$0",
 		},
 		{
-			"trigger": "UnitThreatSituation\t(unit, [mobUnit])",
-			"contents": "UnitThreatSituation(${1:unit}, ${2:[mobUnit]})$0",
+			"trigger": "UnitThreatSituation\t(\"unit\", [mobUnit])",
+			"contents": "UnitThreatSituation(\"${1:unit}\", ${2:[mobUnit]})$0",
+		},
+		{
+			"trigger": "UnitTrialBankedLevels\t(\"unit\")",
+			"contents": "UnitTrialBankedLevels(\"${1:unit}\")$0",
+		},
+		{
+			"trigger": "UnitTrialXP\t(\"unit\")",
+			"contents": "UnitTrialXP(\"${1:unit}\")$0",
 		},
 		{
 			"trigger": "UnitUsingVehicle\t(\"unit\")",
@@ -8146,6 +8194,10 @@
 			"contents": "${1:cursorX}, ${2:cursorY} = GetCursorPosition()$0",
 		},
 		{
+			"trigger": "_GetCustomizationDetails\t(ID)",
+			"contents": "${1:text} = GetCustomizationDetails(${2:ID})$0",
+		},
+		{
 			"trigger": "_GetCVar\t(\"CVar\")",
 			"contents": "${1:string} = GetCVar(\"${2:CVar}\")$0",
 		},
@@ -8216,10 +8268,6 @@
 		{
 			"trigger": "_GetExpertise\t()",
 			"contents": "${1:expertise} = GetExpertise()$0",
-		},
-		{
-			"trigger": "_GetFacialHairCustomization\t()",
-			"contents": "${1:token} = GetFacialHairCustomization()$0",
 		},
 		{
 			"trigger": "_GetFactionInfo\t(index)",
@@ -8380,10 +8428,6 @@
 		{
 			"trigger": "_GetGuildTradeSkillInfo\t(index)",
 			"contents": "${1:professionID}, ${2:isCollapsed}, ${3:iconTexture}, ${4:headerName}, ${5:numOnline}, ${6:numVisible}, ${7:numPlayers}, ${8:playerName}, ${9:class}, ${10:online}, ${11:zone}, ${12:skill}, ${13:classFileName}, ${14:isMobile} = GetGuildTradeSkillInfo(${15:index})$0",
-		},
-		{
-			"trigger": "_GetHairCustomization\t()",
-			"contents": "${1:token} = GetHairCustomization()$0",
 		},
 		{
 			"trigger": "_GetIgnoreName\t(\"index\")",
@@ -8952,6 +8996,10 @@
 		{
 			"trigger": "_GetNumEquipmentSets\t()",
 			"contents": "${1:numSets} = GetNumEquipmentSets()$0",
+		},
+		{
+			"trigger": "_GetNumExpansions\t()",
+			"contents": "${1:numExpansions} = GetNumExpansions()$0",
 		},
 		{
 			"trigger": "_GetNumFactions\t()",
@@ -9558,6 +9606,14 @@
 			"contents": "${1:instanceName}, ${2:instanceID}, ${3:instanceReset}, ${4:instanceDifficulty}, ${5:locked}, ${6:extended}, ${7:instanceIDMostSig}, ${8:isRaid}, ${9:maxPlayers}, ${10:difficultyName}, ${11:maxBosses}, ${12:defeatedBosses} = GetSavedInstanceInfo(${13:index})$0",
 		},
 		{
+			"trigger": "_GetScalingQuestDifficultyColor\t(level)",
+			"contents": "${1:color}, ${2:colorHighlight} = GetScalingQuestDifficultyColor(${3:level})$0",
+		},
+		{
+			"trigger": "_GetScalingQuestGreenRange\t()",
+			"contents": "${1:levelDiff} = GetScalingQuestGreenRange()$0",
+		},
+		{
 			"trigger": "_GetScreenHeight\t()",
 			"contents": "${1:height} = GetScreenHeight()$0",
 		},
@@ -9656,6 +9712,10 @@
 		{
 			"trigger": "_GetSocketTypes\t(index)",
 			"contents": "${1:gemColor} = GetSocketTypes(${2:index})$0",
+		},
+		{
+			"trigger": "_GetSortedSelfResurrectOptions\t()",
+			"contents": "${1:resOptions} = GetSortedSelfResurrectOptions()$0",
 		},
 		{
 			"trigger": "_GetSpecialization\t()",
@@ -9950,6 +10010,10 @@
 			"contents": "${1:isEnabled} = GetTrainerServiceTypeFilter(\"${2:type}\")$0",
 		},
 		{
+			"trigger": "_GetUITextureKitInfo\t(textureKitID)",
+			"contents": "${1:textureKit} = GetUITextureKitInfo(${2:textureKitID})$0",
+		},
+		{
 			"trigger": "_GetUnitHealthModifier\t(\"unit\")",
 			"contents": "${1:modifier} = GetUnitHealthModifier(\"${2:unit}\")$0",
 		},
@@ -10106,6 +10170,10 @@
 			"contents": "${1:trivial} = IsActiveQuestTrivial(${2:index})$0",
 		},
 		{
+			"trigger": "_IsAccountSecured\t()",
+			"contents": "${1:secured} = IsAccountSecured()$0",
+		},
+		{
 			"trigger": "_IsAddOnLoaded\t(index)",
 			"contents": "${1:loaded} = IsAddOnLoaded(${2:index})$0",
 		},
@@ -10240,6 +10308,10 @@
 		{
 			"trigger": "_IsDressableItem\t(\"itemName\")",
 			"contents": "${1:isDressable} = IsDressableItem(\"${2:itemName}\")$0",
+		},
+		{
+			"trigger": "_IsEncounterLimitingResurrections\t()",
+			"contents": "${1:isLimiting} = IsEncounterLimitingResurrections()$0",
 		},
 		{
 			"trigger": "_IsEquippableItem\t(itemID)",
@@ -10570,6 +10642,10 @@
 			"contents": "${1:isTracked} = IsTrackedAchievement(${2:id})$0",
 		},
 		{
+			"trigger": "_IsTrackingHiddenQuests\t()",
+			"contents": "${1:isTracking} = IsTrackingHiddenQuests()$0",
+		},
+		{
 			"trigger": "_IsTradeskillTrainer\t()",
 			"contents": "${1:isTradeskill} = IsTradeskillTrainer()$0",
 		},
@@ -10880,6 +10956,10 @@
 		{
 			"trigger": "_UnitAffectingCombat\t(\"unit\")",
 			"contents": "${1:inCombat} = UnitAffectingCombat(\"${2:unit}\")$0",
+		},
+		{
+			"trigger": "_UnitAlliedRaceInfo\t(\"unit\")",
+			"contents": "${1:isAlliedRace}, ${2:hasHeritageArmorUnlocked} = UnitAlliedRaceInfo(\"${3:unit}\")$0",
 		},
 		{
 			"trigger": "_UnitAlternatePowerInfo\t(\"name\")",
@@ -11314,8 +11394,16 @@
 			"contents": "${1:status} = UnitThreatSituation(\"${2:name}\", ${3:[mobUnit]})$0",
 		},
 		{
-			"trigger": "_UnitThreatSituation\t(unit, [mobUnit])",
-			"contents": "${1:status} = UnitThreatSituation(${2:unit}, ${3:[mobUnit]})$0",
+			"trigger": "_UnitThreatSituation\t(\"unit\", [mobUnit])",
+			"contents": "${1:status} = UnitThreatSituation(\"${1:unit}\", ${3:[mobUnit]})$0",
+		},
+		{
+			"trigger": "_UnitTrialBankedLevels\t(\"unit\")",
+			"contents": "${1:bankedLevels} = UnitTrialBankedLevels(\"${2:unit}\")$0",
+		},
+		{
+			"trigger": "_UnitTrialXP\t(\"unit\")",
+			"contents": "${1:trialXP} = UnitTrialXP(\"${2:unit}\")$0",
 		},
 		{
 			"trigger": "_UnitUsingVehicle\t(\"unit\")",

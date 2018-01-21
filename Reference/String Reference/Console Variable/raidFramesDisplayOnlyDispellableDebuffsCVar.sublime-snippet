@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[raidFramesDisplayOnlyDispellableDebuffs]]></content>
+	<tabTrigger>raidFramesDisplayOnlyDispellableDebuffs</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

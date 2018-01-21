@@ -1086,6 +1086,10 @@
 			"contents": "AlertFrameTemplate_OnLoad($1)$0",
 		},
 		{
+			"trigger": "AlliedRaces_LoadUI\t(...)",
+			"contents": "AlliedRaces_LoadUI($1)$0",
+		},
+		{
 			"trigger": "AltCurrencyFrame_Update\t(...)",
 			"contents": "AltCurrencyFrame_Update($1)$0",
 		},
@@ -2166,6 +2170,10 @@
 			"contents": "EncounterJournal_EnableTierDropDown($1)$0",
 		},
 		{
+			"trigger": "EncounterJournal_FindCreatureButtonForDisplayInfo\t(...)",
+			"contents": "EncounterJournal_FindCreatureButtonForDisplayInfo($1)$0",
+		},
+		{
 			"trigger": "EncounterJournal_FixSearchPreviewBottomBorder\t(...)",
 			"contents": "EncounterJournal_FixSearchPreviewBottomBorder($1)$0",
 		},
@@ -2694,8 +2702,16 @@
 			"contents": "ExpandWarGameHeader($1)$0",
 		},
 		{
+			"trigger": "ExpBar_OnEnter\t(...)",
+			"contents": "ExpBar_OnEnter($1)$0",
+		},
+		{
 			"trigger": "ExpBar_Update\t(...)",
 			"contents": "ExpBar_Update($1)$0",
+		},
+		{
+			"trigger": "ExpBar_UpdateTextString\t(...)",
+			"contents": "ExpBar_UpdateTextString($1)$0",
 		},
 		{
 			"trigger": "ExtraActionBar_OnHide\t(...)",
@@ -4910,6 +4926,10 @@
 			"contents": "LFGListSearchEntryUtil_GetFriendList($1)$0",
 		},
 		{
+			"trigger": "LFGListSearchPanel_AddFilteredID\t(...)",
+			"contents": "LFGListSearchPanel_AddFilteredID($1)$0",
+		},
+		{
 			"trigger": "LFGListSearchPanel_AutoCompleteAdvance\t(...)",
 			"contents": "LFGListSearchPanel_AutoCompleteAdvance($1)$0",
 		},
@@ -5012,6 +5032,10 @@
 		{
 			"trigger": "LFGListUtil_FilterApplicants\t(...)",
 			"contents": "LFGListUtil_FilterApplicants($1)$0",
+		},
+		{
+			"trigger": "LFGListUtil_FilterSearchResults\t(...)",
+			"contents": "LFGListUtil_FilterSearchResults($1)$0",
 		},
 		{
 			"trigger": "LFGListUtil_FindQuestGroup\t(...)",
@@ -6586,6 +6610,18 @@
 			"contents": "WowToken_IsWowTokenAuctionDialogShown()$0",
 		},
 		{
+			"trigger": "WowTokenGameTimeTutorialStoreButton_OnEvent\t(...)",
+			"contents": "WowTokenGameTimeTutorialStoreButton_OnEvent($1)$0",
+		},
+		{
+			"trigger": "WowTokenGameTimeTutorialStoreButton_OnLoad\t(...)",
+			"contents": "WowTokenGameTimeTutorialStoreButton_OnLoad($1)$0",
+		},
+		{
+			"trigger": "WowTokenGameTimeTutorialStoreButton_UpdateState\t(...)",
+			"contents": "WowTokenGameTimeTutorialStoreButton_UpdateState($1)$0",
+		},
+		{
 			"trigger": "WowTokenRedemptionFrame_EscapePressed\t()",
 			"contents": "WowTokenRedemptionFrame_EscapePressed()$0",
 		},
@@ -6625,6 +6661,7 @@
 			"trigger": "ZoneText_OnLoad\t(frame)",
 			"contents": "ZoneText_OnLoad(${1:frame})$0",
 		},
+
 
 
 
@@ -6848,6 +6885,7 @@
 			"trigger": "ModifyEquipmentSet\t(\"oldSetName\", \"newSetName\", [icon])",
 			"contents": "ModifyEquipmentSet(\"${1:oldSetName}\", \"${2:newSetName}\", ${3:[icon]})$0",
 		},
+
 
 
 

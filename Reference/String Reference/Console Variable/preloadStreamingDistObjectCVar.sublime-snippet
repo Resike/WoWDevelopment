@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[preloadStreamingDistObject]]></content>
+	<tabTrigger>preloadStreamingDistObject</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

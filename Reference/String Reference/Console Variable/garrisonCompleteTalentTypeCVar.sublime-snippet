@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[garrisonCompleteTalentType]]></content>
+	<tabTrigger>garrisonCompleteTalentType</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

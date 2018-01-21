@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[threatWarning]]></content>
+	<tabTrigger>threatWarning</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

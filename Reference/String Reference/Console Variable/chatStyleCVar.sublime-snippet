@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[chatStyle]]></content>
+	<tabTrigger>chatStyle</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[minimapPortalMax]]></content>
+	<tabTrigger>minimapPortalMax</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

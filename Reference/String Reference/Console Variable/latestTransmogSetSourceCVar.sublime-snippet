@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[latestTransmogSetSource]]></content>
+	<tabTrigger>latestTransmogSetSource</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

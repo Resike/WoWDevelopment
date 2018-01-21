@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[spellBookSort]]></content>
+	<tabTrigger>spellBookSort</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

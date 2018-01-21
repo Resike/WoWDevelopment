@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RAIDDepthBasedOpacity]]></content>
+	<tabTrigger>RAIDDepthBasedOpacity</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

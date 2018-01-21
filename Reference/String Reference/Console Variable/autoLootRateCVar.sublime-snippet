@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[autoLootRate]]></content>
+	<tabTrigger>autoLootRate</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[particleMTDensity]]></content>
+	<tabTrigger>particleMTDensity</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

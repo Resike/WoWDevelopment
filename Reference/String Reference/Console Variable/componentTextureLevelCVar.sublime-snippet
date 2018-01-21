@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[componentTextureLevel]]></content>
+	<tabTrigger>componentTextureLevel</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

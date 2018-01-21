@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[seenCharacterUpgradePopup]]></content>
+	<tabTrigger>seenCharacterUpgradePopup</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

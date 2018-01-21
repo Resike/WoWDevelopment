@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[xpBarText]]></content>
+	<tabTrigger>xpBarText</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

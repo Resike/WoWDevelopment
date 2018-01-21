@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SoundPerf_VariationCap]]></content>
+	<tabTrigger>SoundPerf_VariationCap</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

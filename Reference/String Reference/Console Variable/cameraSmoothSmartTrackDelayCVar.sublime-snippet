@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cameraSmoothSmartTrackDelay]]></content>
+	<tabTrigger>cameraSmoothSmartTrackDelay</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

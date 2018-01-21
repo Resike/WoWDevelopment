@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[showTargetCastbar]]></content>
+	<tabTrigger>showTargetCastbar</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

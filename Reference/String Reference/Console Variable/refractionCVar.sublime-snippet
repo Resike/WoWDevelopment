@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[refraction]]></content>
+	<tabTrigger>refraction</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

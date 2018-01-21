@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[terrainHoles]]></content>
+	<tabTrigger>terrainHoles</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

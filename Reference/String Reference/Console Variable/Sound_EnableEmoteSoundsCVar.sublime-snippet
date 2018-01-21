@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Sound_EnableEmoteSounds]]></content>
+	<tabTrigger>Sound_EnableEmoteSounds</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

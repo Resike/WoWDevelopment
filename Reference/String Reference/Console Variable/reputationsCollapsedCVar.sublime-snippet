@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[reputationsCollapsed]]></content>
+	<tabTrigger>reputationsCollapsed</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

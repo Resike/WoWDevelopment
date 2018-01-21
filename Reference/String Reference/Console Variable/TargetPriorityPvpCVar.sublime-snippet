@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TargetPriorityPvp]]></content>
+	<tabTrigger>TargetPriorityPvp</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

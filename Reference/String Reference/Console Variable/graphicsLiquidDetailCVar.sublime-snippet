@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[graphicsLiquidDetail]]></content>
+	<tabTrigger>graphicsLiquidDetail</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

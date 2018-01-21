@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[disableAutoRealmSelect]]></content>
+	<tabTrigger>disableAutoRealmSelect</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

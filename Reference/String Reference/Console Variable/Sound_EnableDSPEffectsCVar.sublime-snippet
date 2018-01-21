@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Sound_EnableDSPEffects]]></content>
+	<tabTrigger>Sound_EnableDSPEffects</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

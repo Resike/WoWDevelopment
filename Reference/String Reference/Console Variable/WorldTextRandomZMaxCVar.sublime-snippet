@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WorldTextRandomZMax]]></content>
+	<tabTrigger>WorldTextRandomZMax</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[nearclip]]></content>
+	<tabTrigger>nearclip</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

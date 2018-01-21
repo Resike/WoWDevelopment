@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cameraDistanceRateMult]]></content>
+	<tabTrigger>cameraDistanceRateMult</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

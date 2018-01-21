@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[showVKeyCastbarOnlyOnTarget]]></content>
+	<tabTrigger>showVKeyCastbarOnlyOnTarget</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

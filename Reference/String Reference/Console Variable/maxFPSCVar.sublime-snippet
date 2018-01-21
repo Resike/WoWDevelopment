@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[maxFPS]]></content>
+	<tabTrigger>maxFPS</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

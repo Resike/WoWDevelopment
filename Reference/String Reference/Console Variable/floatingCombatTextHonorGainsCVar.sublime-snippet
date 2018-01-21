@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[floatingCombatTextHonorGains]]></content>
+	<tabTrigger>floatingCombatTextHonorGains</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

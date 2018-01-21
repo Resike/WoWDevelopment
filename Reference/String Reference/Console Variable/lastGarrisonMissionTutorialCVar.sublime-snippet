@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[lastGarrisonMissionTutorial]]></content>
+	<tabTrigger>lastGarrisonMissionTutorial</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

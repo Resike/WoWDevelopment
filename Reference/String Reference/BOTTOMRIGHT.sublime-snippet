@@ -2,5 +2,5 @@
 	<content><![CDATA[BOTTOMRIGHT]]></content>
 	<tabTrigger>BOTTOMRIGHT</tabTrigger>
 	<description>"anchor"</description>
-	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate</scope>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate - string.cvartype</scope>
 </snippet>

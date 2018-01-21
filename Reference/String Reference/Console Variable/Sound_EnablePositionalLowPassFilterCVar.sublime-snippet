@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Sound_EnablePositionalLowPassFilter]]></content>
+	<tabTrigger>Sound_EnablePositionalLowPassFilter</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>
