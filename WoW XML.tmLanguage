@@ -208,7 +208,7 @@
 		<!-- Blend types -->
 		<dict>
 			<key>match</key>
-			<string>([.:])\s*\b(SetBlendMode)\b\s*(\()\s*(['"](ADD|ALPHAKEY|BLEND|DISABLE|MOD|Add|AlphaKey|Alend|Disable|Mod|add|alphakey|blend|disable|mod)['"])</string>
+			<string>([.:])\s*\b(SetBlendMode)\b\s*(\()\s*(['"](ADD|ALPHAKEY|BLEND|DISABLE|MOD|Add|AlphaKey|Blend|Disable|Mod|add|alphakey|blend|disable|mod)['"])</string>
 			<key>captures</key>
 			<dict>
 				<key>2</key>

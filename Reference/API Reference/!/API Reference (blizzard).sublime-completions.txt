@@ -3438,12 +3438,20 @@
 			"contents": "FrameStackTooltip_OnEvent($1)$0",
 		},
 		{
+			"trigger": "FrameStackTooltip_OnHide\t(...)",
+			"contents": "FrameStackTooltip_OnHide",
+		},
+		{
 			"trigger": "FrameStackTooltip_OnLoad\t(...)",
 			"contents": "FrameStackTooltip_OnLoad($1)$0",
 		},
 		{
 			"trigger": "FrameStackTooltip_OnShow\t(...)",
 			"contents": "FrameStackTooltip_OnShow($1)$0",
+		},
+		{
+			"trigger": "FrameStackTooltip_OnTooltipCleared\t(...)",
+			"contents": "FrameStackTooltip_OnTooltipCleared",
 		},
 		{
 			"trigger": "FrameStackTooltip_OnTooltipSetFrameStack\t(...)",
@@ -5634,6 +5642,10 @@
 			"contents": "LowHealth_OnUpdate($1)$0",
 		},
 		{
+			"trigger": "WarboardQuestChoice_LoadUI\t(...)",
+			"contents": "WarboardQuestChoice_LoadUI($1)$0",
+		},
+		{
 			"trigger": "WardrobeCollectionFrame_CanEnchantSource\t(...)",
 			"contents": "WardrobeCollectionFrame_CanEnchantSource($1)$0",
 		},
@@ -5882,6 +5894,10 @@
 			"contents": "WardrobeTransmogFrame_OnShow($1)$0",
 		},
 		{
+			"trigger": "WardrobeTransmogFrame_OnTransmogApplied\t(...)",
+			"contents": "WardrobeTransmogFrame_OnTransmogApplied",
+		},
+		{
 			"trigger": "WardrobeTransmogFrame_OnUpdate\t(...)",
 			"contents": "WardrobeTransmogFrame_OnUpdate($1)$0",
 		},
@@ -6060,6 +6076,10 @@
 		{
 			"trigger": "WorldMap_CreateWorldEffectPOI\t(index)",
 			"contents": "WorldMap_CreateWorldEffectPOI(${1:index})$0",
+		},
+		{
+			"trigger": "WorldMap_DoesCurrentMapHideMapIcons\t(...)",
+			"contents": "WorldMap_DoesCurrentMapHideMapIcons",
 		},
 		{
 			"trigger": "WorldMap_DoesLandMarkTypeShowHighlights\t(landmarkType)",
@@ -6258,6 +6278,30 @@
 			"contents": "WorldMapFrame_InWindowedMode()$0",
 		},
 		{
+			"trigger": "WorldMapFrame_IsArgusContinentMap\t(...)",
+			"contents": "WorldMapFrame_IsArgusContinentMap",
+		},
+		{
+			"trigger": "WorldMapFrame_IsBrokenIslesContinentMap\t(...)",
+			"contents": "WorldMapFrame_IsBrokenIslesContinentMap",
+		},
+		{
+			"trigger": "WorldMapFrame_IsCosmicMap\t(...)",
+			"contents": "WorldMapFrame_IsCosmicMap",
+		},
+		{
+			"trigger": "WorldMapFrame_IsMaelstromContinentMap\t(...)",
+			"contents": "WorldMapFrame_IsMaelstromContinentMap",
+		},
+		{
+			"trigger": "WorldMapFrame_IsVindicaarTextureKit\t(...)",
+			"contents": "WorldMapFrame_IsVindicaarTextureKit",
+		},
+		{
+			"trigger": "WorldMapFrame_MaximizeMinimizeFrame_OnLoad\t(...)",
+			"contents": "WorldMapFrame_MaximizeMinimizeFrame_OnLoad",
+		},
+		{
 			"trigger": "WorldMapFrame_OnAreaPOIBannerVisibilityChanged\t(visible)",
 			"contents": "WorldMapFrame_OnAreaPOIBannerVisibilityChanged(${1:visible})$0",
 		},
@@ -6318,6 +6362,10 @@
 			"contents": "WorldMapFrame_SetOverlayLocation(${1:frame}, ${2:location})$0",
 		},
 		{
+			"trigger": "WorldMapFrame_SyncMaximizeMinimizeButton\t(...)",
+			"contents": "WorldMapFrame_SyncMaximizeMinimizeButton",
+		},
+		{
 			"trigger": "WorldMapFrame_ToggleTutorial\t()",
 			"contents": "WorldMapFrame_ToggleTutorial()$0",
 		},
@@ -6328,6 +6376,10 @@
 		{
 			"trigger": "WorldMapFrame_Update\t()",
 			"contents": "WorldMapFrame_Update()$0",
+		},
+		{
+			"trigger": "WorldMapFrame_UpdateCosmicButtons\t(...)",
+			"contents": "WorldMapFrame_UpdateCosmicButtons",
 		},
 		{
 			"trigger": "WorldMapFrame_UpdateInvasion\t()",
@@ -6378,6 +6430,10 @@
 			"contents": "WorldMapNavBar_Update()$0",
 		},
 		{
+			"trigger": "WorldMapPing_StartPingPOI\t(...)",
+			"contents": "WorldMapPing_StartPingPOI",
+		},
+		{
 			"trigger": "WorldMapPing_StartPingQuest\t(questID)",
 			"contents": "WorldMapPing_StartPingQuest(${1:questID})$0",
 		},
@@ -6392,6 +6448,10 @@
 		{
 			"trigger": "WorldMapPOI_AddContributionsToTooltip\t(tooltip, ...)",
 			"contents": "WorldMapPOI_AddContributionsToTooltip(${1:tooltip}, ${2:...})$0",
+		},
+		{
+			"trigger": "WorldMapPOI_AddPOITimeLeftText\t(...)",
+			"contents": "WorldMapPOI_AddPOITimeLeftText",
 		},
 		{
 			"trigger": "WorldMapPOI_OnClick\t(frame, button)",

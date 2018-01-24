@@ -9914,14 +9914,6 @@
 			"contents": "DurationDropDown_OnShow($1)$0",
 		},
 		{
-			"trigger": "FrameStackTooltip_OnHide\t(...)",
-			"contents": "FrameStackTooltip_OnHide",
-		},
-		{
-			"trigger": "FrameStackTooltip_OnTooltipCleared\t(...)",
-			"contents": "FrameStackTooltip_OnTooltipCleared",
-		},
-		{
 			"trigger": "GameLimitedMode_IsActive\t(...)",
 			"contents": "GameLimitedMode_IsActive($1)$0",
 		},
@@ -27820,58 +27812,6 @@
 		{
 			"trigger": "VoidStorageItemButton_OnLoad\t(...)",
 			"contents": "VoidStorageItemButton_OnLoad($1)$0",
-		},
-		{
-			"trigger": "WarboardQuestChoice_LoadUI\t(...)",
-			"contents": "WarboardQuestChoice_LoadUI($1)$0",
-		},
-		{
-			"trigger": "WardrobeTransmogFrame_OnTransmogApplied\t(...)",
-			"contents": "WardrobeTransmogFrame_OnTransmogApplied",
-		},
-		{
-			"trigger": "WorldMap_DoesCurrentMapHideMapIcons\t(...)",
-			"contents": "WorldMap_DoesCurrentMapHideMapIcons",
-		},
-		{
-			"trigger": "WorldMapFrame_IsArgusContinentMap\t(...)",
-			"contents": "WorldMapFrame_IsArgusContinentMap",
-		},
-		{
-			"trigger": "WorldMapFrame_IsBrokenIslesContinentMap\t(...)",
-			"contents": "WorldMapFrame_IsBrokenIslesContinentMap",
-		},
-		{
-			"trigger": "WorldMapFrame_IsCosmicMap\t(...)",
-			"contents": "WorldMapFrame_IsCosmicMap",
-		},
-		{
-			"trigger": "WorldMapFrame_IsMaelstromContinentMap\t(...)",
-			"contents": "WorldMapFrame_IsMaelstromContinentMap",
-		},
-		{
-			"trigger": "WorldMapFrame_IsVindicaarTextureKit\t(...)",
-			"contents": "WorldMapFrame_IsVindicaarTextureKit",
-		},
-		{
-			"trigger": "WorldMapFrame_MaximizeMinimizeFrame_OnLoad\t(...)",
-			"contents": "WorldMapFrame_MaximizeMinimizeFrame_OnLoad",
-		},
-		{
-			"trigger": "WorldMapFrame_SyncMaximizeMinimizeButton\t(...)",
-			"contents": "WorldMapFrame_SyncMaximizeMinimizeButton",
-		},
-		{
-			"trigger": "WorldMapFrame_UpdateCosmicButtons\t(...)",
-			"contents": "WorldMapFrame_UpdateCosmicButtons",
-		},
-		{
-			"trigger": "WorldMapPing_StartPingPOI\t(...)",
-			"contents": "WorldMapPing_StartPingPOI",
-		},
-		{
-			"trigger": "WorldMapPOI_AddPOITimeLeftText\t(...)",
-			"contents": "WorldMapPOI_AddPOITimeLeftText",
 		},
 	]
 }
