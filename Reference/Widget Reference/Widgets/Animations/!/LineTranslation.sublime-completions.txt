@@ -1,0 +1,277 @@
+{
+	"scope": "source.lua - entity - punctuation - keyword - string",
+	"completions": [
+		{
+			"trigger": "LineTranslation:GetDebugName\t()",
+			"contents": "${1:LineScale}:GetDebugName()$0",
+		},
+		{
+			"trigger": "LineTranslation:GetDuration\t()",
+			"contents": "${1:LineScale}:GetDuration()$0",
+		},
+		{
+			"trigger": "LineTranslation:GetElapsed\t()",
+			"contents": "${1:LineScale}:GetElapsed()$0",
+		},
+		{
+			"trigger": "LineTranslation:GetEndDelay\t()",
+			"contents": "${1:LineScale}:GetEndDelay()$0",
+		},
+		{
+			"trigger": "LineTranslation:GetName\t()",
+			"contents": "${1:LineScale}:GetName()$0",
+		},
+		{
+			"trigger": "LineTranslation:GetObjectType\t()",
+			"contents": "${1:LineScale}:GetObjectType()$0",
+		},
+		{
+			"trigger": "LineTranslation:GetOffset\t()",
+			"contents": "${1:LineTranslation}:GetOffset()$0",
+		},
+		{
+			"trigger": "LineTranslation:GetOrder\t()",
+			"contents": "${1:LineScale}:GetOrder()$0",
+		},
+		{
+			"trigger": "LineTranslation:GetParent\t()",
+			"contents": "${1:LineScale}:GetParent()$0",
+		},
+		{
+			"trigger": "LineTranslation:GetProgress\t()",
+			"contents": "${1:LineScale}:GetProgress()$0",
+		},
+		{
+			"trigger": "LineTranslation:GetRegionParent\t()",
+			"contents": "${1:LineScale}:GetRegionParent()$0",
+		},
+		{
+			"trigger": "LineTranslation:GetScript\t(\"scriptType\")",
+			"contents": "${1:LineScale}:GetScript(\"${2:scriptType}\")$0",
+		},
+		{
+			"trigger": "LineTranslation:GetSmoothing\t()",
+			"contents": "${1:LineScale}:GetSmoothing()$0",
+		},
+		{
+			"trigger": "LineTranslation:GetSmoothProgress\t()",
+			"contents": "${1:LineScale}:GetSmoothProgress()$0",
+		},
+		{
+			"trigger": "LineTranslation:GetStartDelay\t()",
+			"contents": "${1:LineScale}:GetStartDelay()$0",
+		},
+		{
+			"trigger": "LineTranslation:GetTarget\t()",
+			"contents": "${1:LineScale}:GetTarget()$0",
+		},
+		{
+			"trigger": "LineTranslation:HasScript\t(\"scriptType\")",
+			"contents": "${1:LineScale}:HasScript(\"${2:scriptType}\")$0",
+		},
+		{
+			"trigger": "LineTranslation:HookScript\t(\"scriptType\", handler)",
+			"contents": "${1:LineScale}:HookScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "LineTranslation:IsDelaying\t()",
+			"contents": "${1:LineScale}:IsDelaying()$0",
+		},
+		{
+			"trigger": "LineTranslation:IsDone\t()",
+			"contents": "${1:LineScale}:IsDone()$0",
+		},
+		{
+			"trigger": "LineTranslation:IsForbidden\t()",
+			"contents": "${1:LineScale}:IsForbidden()$0",
+		},
+		{
+			"trigger": "LineTranslation:IsObjectType\t(\"type\")",
+			"contents": "${1:LineScale}:IsObjectType(\"${2:type}\")$0",
+		},
+		{
+			"trigger": "LineTranslation:IsPaused\t()",
+			"contents": "${1:LineScale}:IsPaused()$0",
+		},
+		{
+			"trigger": "LineTranslation:IsPlaying\t()",
+			"contents": "${1:LineScale}:IsPlaying()$0",
+		},
+		{
+			"trigger": "LineTranslation:IsStopped\t()",
+			"contents": "${1:LineScale}:IsStopped()$0",
+		},
+		{
+			"trigger": "LineTranslation:Pause\t()",
+			"contents": "${1:LineScale}:Pause()$0",
+		},
+		{
+			"trigger": "LineTranslation:Play\t()",
+			"contents": "${1:LineScale}:Play()$0",
+		},
+		{
+			"trigger": "LineTranslation:Restart\t()",
+			"contents": "${1:LineScale}:Restart()$0",
+		},
+		{
+			"trigger": "LineTranslation:SetChildKey\t(key)",
+			"contents": "${1:LineScale}:SetChildKey((${2:key})$0",
+		},
+		{
+			"trigger": "LineTranslation:SetDuration\t(duration)",
+			"contents": "${1:LineScale}:SetDuration(${2:duration})$0",
+		},
+		{
+			"trigger": "LineTranslation:SetEndDelay\t(delay)",
+			"contents": "${1:LineScale}:SetEndDelay(${2:delay})$0",
+		},
+		{
+			"trigger": "LineTranslation:SetOrder\t(order)",
+			"contents": "${1:LineScale}:SetOrder(${2:order})$0",
+		},
+		{
+			"trigger": "LineTranslation:SetOrigin\t(\"point\", xOffset, yOffset)",
+			"contents": "${1:LineScale}:SetOrigin(\"${2:point}\", ${3:xOffset}, ${4:yOffset})$0",
+		},
+		{
+			"trigger": "LineTranslation:SetParent\t(frame)",
+			"contents": "${1:LineScale}:SetParent(${2:frame})$0",
+		},
+		{
+			"trigger": "LineTranslation:SetScript\t(\"scriptType\", handler)",
+			"contents": "${1:LineScale}:SetScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "LineTranslation:SetSmoothing\t(\"smoothType\")",
+			"contents": "${1:LineScale}:SetSmoothing(\"${2:smoothType}\")$0",
+		},
+		{
+			"trigger": "LineTranslation:SetSmoothProgress\t()",
+			"contents": "${1:LineScale}:SetSmoothProgress()$0",
+		},
+		{
+			"trigger": "LineTranslation:SetStartDelay\t(delay)",
+			"contents": "${1:LineScale}:SetStartDelay(${2:delay})$0",
+		},
+		{
+			"trigger": "LineTranslation:SetTarget\t(region)",
+			"contents": "${1:LineScale}:SetTarget(${2:region})$0",
+		},
+		{
+			"trigger": "LineTranslation:SetTargetKey\t(key)",
+			"contents": "${1:LineScale}:SetTargetKey(${2:key})$0",
+		},
+		{
+			"trigger": "LineTranslation:Stop\t()",
+			"contents": "${1:LineScale}:Stop()$0",
+		},
+
+
+
+
+		{
+			"trigger": "_LineTranslation:GetDebugName\t()",
+			"contents": "${1:name} = ${2:LineScale}:GetDebugName()$0",
+		},
+		{
+			"trigger": "_LineTranslation:GetDuration\t()",
+			"contents": "${1:duration} = ${2:LineScale}:GetDuration()$0",
+		},
+		{
+			"trigger": "_LineTranslation:GetElapsed\t()",
+			"contents": "${1:elapsed} = ${2:LineScale}:GetElapsed()$0",
+		},
+		{
+			"trigger": "_LineTranslation:GetEndDelay\t()",
+			"contents": "${1:delay} = ${2:LineScale}:GetEndDelay()$0",
+		},
+		{
+			"trigger": "_LineTranslation:GetName\t()",
+			"contents": "${1:name} = ${2:LineScale}:GetName()$0",
+		},
+		{
+			"trigger": "_LineTranslation:GetObjectType\t()",
+			"contents": "${1:type} = ${2:LineScale}:GetObjectType()$0",
+		},
+		{
+			"trigger": "_LineTranslation:GetOffset\t()",
+			"contents": "${1:xOffset}, ${2:yOffset} = ${3:LineScale}:GetOffset()$0",
+		},
+		{
+			"trigger": "_LineTranslation:GetOrder\t()",
+			"contents": "${1:order} = ${2:LineScale}:GetOrder()$0",
+		},
+		{
+			"trigger": "_LineTranslation:GetParent\t()",
+			"contents": "${1:parent} = ${2:LineScale}:GetParent()$0",
+		},
+		{
+			"trigger": "_LineTranslation:GetProgress\t()",
+			"contents": "${1:progress} = ${2:LineScale}:GetProgress()$0",
+		},
+		{
+			"trigger": "_LineTranslation:GetRegionParent\t()",
+			"contents": "${1:region} = ${2:LineScale}:GetRegionParent()$0",
+		},
+		{
+			"trigger": "_LineTranslation:GetScript\t(\"scriptType\")",
+			"contents": "${1:handler} = ${2:LineScale}:GetScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "_LineTranslation:GetSmoothing\t()",
+			"contents": "${1:smoothType} = ${2:LineScale}:GetSmoothing()$0",
+		},
+		{
+			"trigger": "_LineTranslation:GetSmoothProgress\t()",
+			"contents": "${1:progress} = ${2:LineScale}:GetSmoothProgress()$0",
+		},
+		{
+			"trigger": "_LineTranslation:GetStartDelay\t()",
+			"contents": "${1:delay} = ${2:LineScale}:GetStartDelay()$0",
+		},
+		{
+			"trigger": "_LineTranslation:GetTarget\t()",
+			"contents": "${1:target} = ${2:LineScale}:GetTarget()$0",
+		},
+		{
+			"trigger": "_LineTranslation:HasScript\t(\"scriptType\")",
+			"contents": "${1:hasScript} = ${2:LineScale}:HasScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "_LineTranslation:IsDelaying\t()",
+			"contents": "${1:delaying} = ${2:LineScale}:IsDelaying()$0",
+		},
+		{
+			"trigger": "_LineTranslation:IsDone\t()",
+			"contents": "${1:done} = ${2:LineScale}:IsDone()$0",
+		},
+		{
+			"trigger": "_LineTranslation:IsForbidden\t()",
+			"contents": "${1:isForbidden} = ${2:LineScale}:IsForbidden()$0",
+		},
+		{
+			"trigger": "_LineTranslation:IsObjectType\t(\"type\")",
+			"contents": "${1:isType} = ${2:LineScale}:IsObjectType(\"${3:type}\")$0",
+		},
+		{
+			"trigger": "_LineTranslation:IsPaused\t()",
+			"contents": "${1:paused} = ${2:LineScale}:IsPaused()$0",
+		},
+		{
+			"trigger": "_LineTranslation:IsPlaying\t()",
+			"contents": "${1:playing} = ${2:LineScale}:IsPlaying()$0",
+		},
+		{
+			"trigger": "_LineTranslation:IsStopped\t()",
+			"contents": "${1:stopped} = ${2:LineScale}:IsStopped()$0",
+		},
+
+
+
+
+		{
+			"trigger": "_LineTranslation\thelp",
+			"contents": "LineTranslation = {\n\tinherits = {\n\t\t\"LineTranslation\",\n\t\t\"Scale\",\n\t\t\"Animation\",\n\t\t\"ScriptObject\",\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\thandlers = {\n\t\t[\"OnFinished\"] = \"self, requested\", -- Run when the animation finishes animating\n\t\t[\"OnLoad\"] = \"self\", -- Run when the frame is created\n\t\t[\"OnPause\"] = \"self\", -- Run when the animation begins to play\n\t\t[\"OnPlay\"] = \"self\", -- Run when the animation begins to play\n\t\t[\"OnStop\"] = \"self, requested\", -- Run when the animation is stopped\n\t\t[\"OnUpdate\"] = \"self, elapsed\", -- Run each time the screen is drawn by the game engine\n\t},\n\tmethods = {\n\t\t\"GetDebugName\", -- Returns the widget object's debug name\n\t\t\"GetDuration\", -- Returns the time for the animation to progress from start to finish\n\t\t\"GetElapsed\", -- Returns the amount of time since the animation began playing\n\t\t\"GetEndDelay\", -- Returns the amount of time the animation delays after finishing\n\t\t\"GetName\", -- Returns the widget object's name\n\t\t\"GetObjectType\", -- Returns the object's widget type\n\t\t\"GetOffset\", -- Returns the animation's translation offsets\n\t\t\"GetOrder\", -- Returns the order of the animation within it's parent group\n\t\t\"GetParent\", -- Returns the object's parent object\n\t\t\"GetProgress\", -- Returns the progress of an animation, ignoring smoothing effects\n\t\t\"GetRegionParent\", -- Returns the region object on which the animation operates\n\t\t\"GetScript\", -- Returns the widget's handler function for a script\n\t\t\"GetSmoothing\", -- Returns the smoothing type for the animation\n\t\t\"GetSmoothProgress\", -- Returns the progress of the animation (ignoring start and end delay)\n\t\t\"GetStartDelay\", -- Returns the amount of time the animation delays before it's progress begins\n\t\t\"GetTarget\", -- Returns the region affected by this animation\n\t\t\"HasScript\", -- Returns whether the widget supports a script handler\n\t\t\"HookScript\", -- Securely hooks a script handler\n\t\t\"IsDelaying\", -- Returns whether the animation is currently in the middle of a start or end delay\n\t\t\"IsDone\", -- Returns whether the animation has finished playing\n\t\t\"IsForbidden\", -- Returns if this widget's methods may only be called from secure execution paths\n\t\t\"IsObjectType\", -- Returns whether the object belongs to a given widget type\n\t\t\"IsPaused\", -- Returns whether the animation is currently paused\n\t\t\"IsPlaying\", -- Returns whether the animation is currently playing\n\t\t\"IsStopped\", -- Returns whether the animation is currently stopped\n\t\t\"Pause\", -- Pauses the animation\n\t\t\"Play\", -- Plays the animation\n\t\t\"Restart\", -- Restarts the animation\n\t\t\"SetChildKey\", -- Sets the animation to manipulate a particular child member of it's host frame\n\t\t\"SetDuration\", -- Sets the time for the animation to progress from start to finish\n\t\t\"SetEndDelay\", -- Sets the amount of time for the animation to delay after finishing\n\t\t\"SetForbidden\", -- Sets whether the modification of the object's secure methods are forbidden while in combat\n\t\t\"SetOffset\", -- Sets the animation's translation offsets\n\t\t\"SetOrder\", -- Sets the order for the animation to play within it's parent group\n\t\t\"SetParent\", -- Sets another frame the parent of this region\n\t\t\"SetScript\", -- Sets the widget's handler function for a script\n\t\t\"SetSmoothing\", -- Sets the smoothing type for the animation\n\t\t\"SetSmoothProgress\", -- Sets the progress of the smoothing type for the animation\n\t\t\"SetStartDelay\", -- Sets the amount of time for the animation to delay before it's progress begins\n\t\t\"SetTarget\", -- Sets the region affected by this animation\n\t\t\"SetTargetKey\", -- Sets the animation to manipulate a particular child member of it's target\n\t\t\"Stop\", -- Stops the animation\n\t},\n}",
+		},
+	]
+}

@@ -194,111 +194,111 @@
 
 
 		{
-			"trigger": "_LineLineScale:GetDebugName\t()",
+			"trigger": "_LineScale:GetDebugName\t()",
 			"contents": "${1:name} = ${2:LineScale}:GetDebugName()$0",
 		},
 		{
-			"trigger": "_LineLineScale:GetDuration\t()",
+			"trigger": "_LineScale:GetDuration\t()",
 			"contents": "${1:duration} = ${2:LineScale}:GetDuration()$0",
 		},
 		{
-			"trigger": "_LineLineScale:GetElapsed\t()",
+			"trigger": "_LineScale:GetElapsed\t()",
 			"contents": "${1:elapsed} = ${2:LineScale}:GetElapsed()$0",
 		},
 		{
-			"trigger": "_LineLineScale:GetEndDelay\t()",
+			"trigger": "_LineScale:GetEndDelay\t()",
 			"contents": "${1:delay} = ${2:LineScale}:GetEndDelay()$0",
 		},
 		{
-			"trigger": "_LineLineScale:GetFromScale\t()",
+			"trigger": "_LineScale:GetFromScale\t()",
 			"contents": "${1:scale} = ${2:LineScale}:GetFromScale()$0",
 		},
 		{
-			"trigger": "_LineLineScale:GetName\t()",
+			"trigger": "_LineScale:GetName\t()",
 			"contents": "${1:name} = ${2:LineScale}:GetName()$0",
 		},
 		{
-			"trigger": "_LineLineScale:GetObjectType\t()",
+			"trigger": "_LineScale:GetObjectType\t()",
 			"contents": "${1:type} = ${2:LineScale}:GetObjectType()$0",
 		},
 		{
-			"trigger": "_LineLineScale:GetOrder\t()",
+			"trigger": "_LineScale:GetOrder\t()",
 			"contents": "${1:order} = ${2:LineScale}:GetOrder()$0",
 		},
 		{
-			"trigger": "_LineLineScale:GetOrigin\t()",
+			"trigger": "_LineScale:GetOrigin\t()",
 			"contents": "${1:point}, ${2:xOffset}, ${3:yOffset} = ${4:LineScale}:GetOrigin()$0",
 		},
 		{
-			"trigger": "_LineLineScale:GetScale\t()",
+			"trigger": "_LineScale:GetScale\t()",
 			"contents": "${1:xFactor}, ${2:yFactor} = ${3:LineScale}:GetScale()$0",
 		},
 		{
-			"trigger": "_LineLineScale:GetParent\t()",
+			"trigger": "_LineScale:GetParent\t()",
 			"contents": "${1:parent} = ${2:LineScale}:GetParent()$0",
 		},
 		{
-			"trigger": "_LineLineScale:GetProgress\t()",
+			"trigger": "_LineScale:GetProgress\t()",
 			"contents": "${1:progress} = ${2:LineScale}:GetProgress()$0",
 		},
 		{
-			"trigger": "_LineLineScale:GetRegionParent\t()",
+			"trigger": "_LineScale:GetRegionParent\t()",
 			"contents": "${1:region} = ${2:LineScale}:GetRegionParent()$0",
 		},
 		{
-			"trigger": "_LineLineScale:GetScript\t(\"scriptType\")",
+			"trigger": "_LineScale:GetScript\t(\"scriptType\")",
 			"contents": "${1:handler} = ${2:LineScale}:GetScript(\"${3:scriptType}\")$0",
 		},
 		{
-			"trigger": "_LineLineScale:GetSmoothing\t()",
+			"trigger": "_LineScale:GetSmoothing\t()",
 			"contents": "${1:smoothType} = ${2:LineScale}:GetSmoothing()$0",
 		},
 		{
-			"trigger": "_LineLineScale:GetSmoothProgress\t()",
+			"trigger": "_LineScale:GetSmoothProgress\t()",
 			"contents": "${1:progress} = ${2:LineScale}:GetSmoothProgress()$0",
 		},
 		{
-			"trigger": "_LineLineScale:GetStartDelay\t()",
+			"trigger": "_LineScale:GetStartDelay\t()",
 			"contents": "${1:delay} = ${2:LineScale}:GetStartDelay()$0",
 		},
 		{
-			"trigger": "_LineLineScale:GetTarget\t()",
+			"trigger": "_LineScale:GetTarget\t()",
 			"contents": "${1:target} = ${2:LineScale}:GetTarget()$0",
 		},
 		{
-			"trigger": "_LineLineScale:GetToScale\t()",
+			"trigger": "_LineScale:GetToScale\t()",
 			"contents": "${1:scale} = ${2:LineScale}:GetToScale()$0",
 		},
 		{
-			"trigger": "_LineLineScale:HasScript\t(\"scriptType\")",
+			"trigger": "_LineScale:HasScript\t(\"scriptType\")",
 			"contents": "${1:hasScript} = ${2:LineScale}:HasScript(\"${3:scriptType}\")$0",
 		},
 		{
-			"trigger": "_LineLineScale:IsDelaying\t()",
+			"trigger": "_LineScale:IsDelaying\t()",
 			"contents": "${1:delaying} = ${2:LineScale}:IsDelaying()$0",
 		},
 		{
-			"trigger": "_LineLineScale:IsDone\t()",
+			"trigger": "_LineScale:IsDone\t()",
 			"contents": "${1:done} = ${2:LineScale}:IsDone()$0",
 		},
 		{
-			"trigger": "_LineLineScale:IsForbidden\t()",
+			"trigger": "_LineScale:IsForbidden\t()",
 			"contents": "${1:isForbidden} = ${2:LineScale}:IsForbidden()$0",
 		},
 		{
-			"trigger": "_LineLineScale:IsObjectType\t(\"type\")",
+			"trigger": "_LineScale:IsObjectType\t(\"type\")",
 			"contents": "${1:isType} = ${2:LineScale}:IsObjectType(\"${3:type}\")$0",
 		},
 		{
-			"trigger": "_LineLineScale:IsPaused\t()",
+			"trigger": "_LineScale:IsPaused\t()",
 			"contents": "${1:paused} = ${2:LineScale}:IsPaused()$0",
 		},
 		{
-			"trigger": "_LineLineScale:IsPlaying\t()",
+			"trigger": "_LineScale:IsPlaying\t()",
 			"contents": "${1:playing} = ${2:LineScale}:IsPlaying()$0",
 		},
 		{
-			"trigger": "_LineLineScale:IsStopped\t()",
+			"trigger": "_LineScale:IsStopped\t()",
 			"contents": "${1:stopped} = ${2:LineScale}:IsStopped()$0",
 		},
 

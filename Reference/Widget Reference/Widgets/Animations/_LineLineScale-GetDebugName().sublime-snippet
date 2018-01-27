@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:name} = ${2:LineScale}:GetDebugName()$0]]></content>
-	<tabTrigger>_LineLineScale:GetDebugName</tabTrigger>
-	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
-</snippet>

@@ -22,6 +22,10 @@
 			"contents": "${1:ParentedObject}:IsForbidden()$0",
 		},
 		{
+			"trigger": "ParentedObject:IsObjectLoaded\t()",
+			"contents": "${1:ParentedObject}:IsObjectLoaded()$0",
+		},
+		{
 			"trigger": "ParentedObject:IsObjectType\t()",
 			"contents": "${1:ParentedObject}:IsObjectType()$0",
 		},
@@ -50,6 +54,10 @@
 			"contents": "${1:isForbidden} = ${2:ParentedObject}:IsForbidden()$0",
 		},
 		{
+			"trigger": "_ParentedObject:IsObjectLoaded\t()",
+			"contents": "${1:isLoaded} = ${2:ParentedObject}:IsObjectLoaded()$0",
+		},
+		{
 			"trigger": "_ParentedObject:IsObjectType\t(\"type\")",
 			"contents": "${1:isType} = ${2:ParentedObject}:IsObjectType(\"${3:type}\")$0",
 		},
@@ -59,7 +67,7 @@
 
 		{
 			"trigger": "_ParentedObject\thelp",
-			"contents": "ParentedObject = {\n\tinherits = {\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\tmethods = {\n\t\t\"GetDebugName\", -- Returns the widget object's debug name\n\t\t\"GetName\", -- Returns the widget object's name\n\t\t\"GetObjectType\", -- Returns the object's widget type\n\t\t\"GetParent\", -- Returns the object's parent object\n\t\t\"IsForbidden\", -- Returns if this widget's methods may only be called from secure execution paths\n\t\t\"IsObjectType\", -- Returns whether the object belongs to a given widget type\n\t},\n}",
+			"contents": "ParentedObject = {\n\tinherits = {\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\tmethods = {\n\t\t\"GetDebugName\", -- Returns the widget object's debug name\n\t\t\"GetName\", -- Returns the widget object's name\n\t\t\"GetObjectType\", -- Returns the object's widget type\n\t\t\"GetParent\", -- Returns the object's parent object\n\t\t\"IsForbidden\", -- Returns if this widget's methods may only be called from secure execution paths\n\t\t\"IsObjectLoaded\", -- Returns whether the object is loaded\n\t\t\"IsObjectType\", -- Returns whether the object belongs to a given widget type\n\t},\n}",
 		},
 	]
 }

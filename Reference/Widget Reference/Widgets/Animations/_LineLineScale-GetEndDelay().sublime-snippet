@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:delay} = ${2:LineScale}:GetEndDelay()$0]]></content>
-	<tabTrigger>_LineLineScale:GetEndDelay</tabTrigger>
-	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
-</snippet>
