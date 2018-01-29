@@ -38,6 +38,8 @@
 		</dict>
 		<!-- Local functions -->
 		<dict>
+			<key>match</key>
+			<string>\b(local\s+function)\s+([a-zA-Z_]\w*)(\()?([^()]*)(\))?</string>
 			<key>captures</key>
 			<dict>
 				<key>1</key>
@@ -66,13 +68,13 @@
 					<string>punctuation.definition.parameters.end.lua</string>
 				</dict>
 			</dict>
-			<key>match</key>
-			<string>\b(local\s+function)\s+([a-zA-Z_]\w*)(\()([^()]*)(\))</string>
 			<key>name</key>
 			<string>meta.function.lua</string>
 		</dict>
 		<!-- Functions -->
 		<dict>
+			<key>match</key>
+			<string>(?&lt;!local )\b(function)\b\s*([a-zA-Z_]\w*[.:])?([a-zA-Z_]\w*)?\s*(\()?([^)]*)(\))?</string>
 			<key>captures</key>
 			<dict>
 				<key>1</key>
@@ -106,8 +108,6 @@
 					<string>punctuation.definition.parameters.end.lua</string>
 				</dict>
 			</dict>
-			<key>match</key>
-			<string>(?&lt;!local )\b(function)\b\s*([a-zA-Z_]\w*[.:])?([a-zA-Z_]\w*)?\s*(\()([^)]*)(\))</string>
 			<key>name</key>
 			<string>meta.function.lua</string>
 		</dict>
