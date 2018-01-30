@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:CheckButton}:GetHighlightTexture()$0]]></content>
+	<tabTrigger>CheckButton:GetHighlightTexture</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

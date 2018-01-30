@@ -38,7 +38,7 @@
 		"GetThickness", -- Returns this line's thickness
 		"GetTop", -- Returns the distance from the bottom of the screen to the top of the region
 		"GetVertexColor", -- Returns the shading color of the texture
-		"GetVertexOffset", -- Returns the offset parameters for the texture's shading color
+		"GetVertexOffset", -- Returns the offset parameters for the texture's vertex index
 		"GetVertTile", -- Returns the vertical tiling behaviour of the texture
 		"GetWidth", -- Returns the width of the region
 		"Hide", -- Hides the region
@@ -76,7 +76,7 @@
 		"SetTexture", -- Sets the texture object's image
 		"SetThickness", -- Sets this line's thickness
 		"SetVertexColor", -- Sets a color shading for the region's graphics
-		"SetVertexOffset", -- Sets the offset parameters for the texture's shading color
+		"SetVertexOffset", -- Sets the offset parameters for the texture's vertex index
 		"SetVertTile", -- Sets the vertical tiling behaviour for the texture
 		"Show", -- Shows the region
 		"StopAnimating", -- Stops any active animations involving the region or it's children

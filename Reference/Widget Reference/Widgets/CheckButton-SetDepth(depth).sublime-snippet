@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:CheckButton}:SetDepth(${2:depth})$0]]></content>
+	<tabTrigger>CheckButton:SetDepth</tabTrigger>
+	<description>(depth)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

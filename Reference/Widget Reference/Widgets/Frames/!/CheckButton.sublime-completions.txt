@@ -1,0 +1,1129 @@
+{
+	"scope": "source.lua - entity - punctuation - keyword - string",
+	"completions": [
+		{
+			"trigger": "CheckButton:CanChangeAttribute\t()",
+			"contents": "${1:CheckButton}:CanChangeAttribute()$0",
+		},
+		{
+			"trigger": "CheckButton:CanChangeProtectedState\t()",
+			"contents": "${1:CheckButton}:CanChangeProtectedState()$0",
+		},
+		{
+			"trigger": "CheckButton:ClearAllPoints\t()",
+			"contents": "${1:CheckButton}:ClearAllPoints()$0",
+		},
+		{
+			"trigger": "CheckButton:Click\t(\"button\", down)",
+			"contents": "${1:CheckButton}:Click(${2:[\"button\"]}, ${3:[down]})$0",
+		},
+		{
+			"trigger": "CheckButton:CreateAnimationGroup\t([\"name\"], [\"inheritsFrom\"])",
+			"contents": "${1:CheckButton}:CreateAnimationGroup(${2:[\"name\"]}, ${3:[\"inheritsFrom\"]})$0",
+		},
+		{
+			"trigger": "CheckButton:CreateFontString\t([\"name\"], [\"layer\"], [\"inherits\"])",
+			"contents": "${1:CheckButton}:CreateFontString(${2:[\"name\"]}, \"${3:[layer]}\", ${4:[\"inherits\"]})$0",
+		},
+		{
+			"trigger": "CheckButton:CreateLine\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:CheckButton}:CreateLine(${2:[\"name\"]}, \"${3:[layer]}\", ${4:[\"inherits\"]}, ${5:[sublevel]})$0",
+		},
+		{
+			"trigger": "CheckButton:CreateMaskTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:CheckButton}:CreateMaskTexture(${2:[\"name\"]}, \"${3:[layer]}\", ${4:[\"inherits\"]}, ${5:[sublevel]})$0",
+		},
+		{
+			"trigger": "CheckButton:CreateTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:CheckButton}:CreateTexture(${2:[\"name\"]}, \"${3:[layer]}\", ${4:[\"inherits\"]}, ${5:[sublevel]})$0",
+		},
+		{
+			"trigger": "CheckButton:Disable\t()",
+			"contents": "${1:CheckButton}:Disable()$0",
+		},
+		{
+			"trigger": "CheckButton:DisableDrawLayer\t(\"layer\")",
+			"contents": "${1:CheckButton}:DisableDrawLayer(\"${2:layer}\")$0",
+		},
+		{
+			"trigger": "CheckButton:DoesClipChildren\t()",
+			"contents": "${1:CheckButton}:DoesClipChildren()$0",
+		},
+		{
+			"trigger": "CheckButton:Enable\t()",
+			"contents": "${1:CheckButton}:Enable()$0",
+		},
+		{
+			"trigger": "CheckButton:EnableDrawLayer\t(\"layer\")",
+			"contents": "${1:CheckButton}:EnableDrawLayer(\"${2:layer}\")$0",
+		},
+		{
+			"trigger": "CheckButton:EnableJoystick\t(enable)",
+			"contents": "${1:CheckButton}:EnableJoystick(${2:enable})$0",
+		},
+		{
+			"trigger": "CheckButton:EnableKeyboard\t(enable)",
+			"contents": "${1:CheckButton}:EnableKeyboard(${2:enable})$0",
+		},
+		{
+			"trigger": "CheckButton:EnableMouse\t(enable)",
+			"contents": "${1:CheckButton}:EnableMouse(${2:enable})$0",
+		},
+		{
+			"trigger": "CheckButton:EnableMouseWheel\t(enable)",
+			"contents": "${1:CheckButton}:EnableMouseWheel(${2:enable})$0",
+		},
+		{
+			"trigger": "CheckButton:GetAlpha\t()",
+			"contents": "${1:CheckButton}:GetAlpha()$0",
+		},
+		{
+			"trigger": "CheckButton:GetAnimationGroups\t()",
+			"contents": "${1:CheckButton}:GetAnimationGroups()$0",
+		},
+		{
+			"trigger": "CheckButton:GetAttribute\t(\"name\")",
+			"contents": "${1:CheckButton}:GetAttribute(${2:\"name\"})$0",
+		},
+		{
+			"trigger": "CheckButton:GetBackdrop\t()",
+			"contents": "${1:CheckButton}:GetBackdrop()$0",
+		},
+		{
+			"trigger": "CheckButton:GetBackdropBorderColor\t()",
+			"contents": "${1:CheckButton}:GetBackdropBorderColor()$0",
+		},
+		{
+			"trigger": "CheckButton:GetBackdropColor\t()",
+			"contents": "${1:CheckButton}:GetBackdropColor()$0",
+		},
+		{
+			"trigger": "CheckButton:GetBottom\t()",
+			"contents": "${1:CheckButton}:GetBottom()$0",
+		},
+		{
+			"trigger": "CheckButton:GetBoundsRect\t()",
+			"contents": "${1:CheckButton}:GetBoundsRect()$0",
+		},
+		{
+			"trigger": "CheckButton:GetButtonState\t()",
+			"contents": "${1:CheckButton}:GetButtonState()$0",
+		},
+		{
+			"trigger": "CheckButton:GetCenter\t()",
+			"contents": "${1:CheckButton}:GetCenter()$0",
+		},
+		{
+			"trigger": "CheckButton:GetChecked\t()",
+			"contents": "${1:CheckButton}:GetChecked()$0",
+		},
+		{
+			"trigger": "CheckButton:GetCheckedTexture\t()",
+			"contents": "${1:CheckButton}:GetCheckedTexture()$0",
+		},
+		{
+			"trigger": "CheckButton:GetChildren\t()",
+			"contents": "${1:CheckButton}:GetChildren()$0",
+		},
+		{
+			"trigger": "CheckButton:GetClampRectInsets\t()",
+			"contents": "${1:CheckButton}:GetClampRectInsets()$0",
+		},
+		{
+			"trigger": "CheckButton:GetDebugName\t()",
+			"contents": "${1:CheckButton}:GetDebugName()$0",
+		},
+		{
+			"trigger": "CheckButton:GetDepth\t()",
+			"contents": "${1:CheckButton}:GetDepth()$0",
+		},
+		{
+			"trigger": "CheckButton:GetDisabledCheckedTexture\t()",
+			"contents": "${1:CheckButton}:GetDisabledCheckedTexture()$0",
+		},
+		{
+			"trigger": "CheckButton:GetDisabledFontObject\t()",
+			"contents": "${1:CheckButton}:GetDisabledFontObject()$0",
+		},
+		{
+			"trigger": "CheckButton:GetDisabledTexture\t()",
+			"contents": "${1:CheckButton}:GetDisabledTexture()$0",
+		},
+		{
+			"trigger": "CheckButton:GetDontSavePosition\t()",
+			"contents": "${1:CheckButton}:GetDontSavePosition()$0",
+		},
+		{
+			"trigger": "CheckButton:GetEffectiveAlpha\t()",
+			"contents": "${1:CheckButton}:GetEffectiveAlpha()$0",
+		},
+		{
+			"trigger": "CheckButton:GetEffectiveDepth\t()",
+			"contents": "${1:CheckButton}:GetEffectiveDepth()$0",
+		},
+		{
+			"trigger": "CheckButton:GetEffectivelyFlattensRenderLayers\t()",
+			"contents": "${1:CheckButton}:GetEffectivelyFlattensRenderLayers()$0",
+		},
+		{
+			"trigger": "CheckButton:GetEffectiveScale\t()",
+			"contents": "${1:CheckButton}:GetEffectiveScale()$0",
+		},
+		{
+			"trigger": "CheckButton:GetFlattensRenderLayers\t()",
+			"contents": "${1:CheckButton}:GetFlattensRenderLayers()$0",
+		},
+		{
+			"trigger": "CheckButton:GetFontString\t()",
+			"contents": "${1:CheckButton}:GetFontString()$0",
+		},
+		{
+			"trigger": "CheckButton:GetFrameLevel\t()",
+			"contents": "${1:CheckButton}:GetFrameLevel()$0",
+		},
+		{
+			"trigger": "CheckButton:GetFrameStrata\t()",
+			"contents": "${1:CheckButton}:GetFrameStrata()$0",
+		},
+		{
+			"trigger": "CheckButton:GetHeight\t()",
+			"contents": "${1:CheckButton}:GetHeight()$0",
+		},
+		{
+			"trigger": "CheckButton:GetHighlightFontObject\t()",
+			"contents": "${1:CheckButton}:GetHighlightFontObject()$0",
+		},
+		{
+			"trigger": "CheckButton:GetHighlightTexture\t()",
+			"contents": "${1:CheckButton}:GetHighlightTexture()$0",
+		},
+		{
+			"trigger": "CheckButton:GetHitRectInsets\t()",
+			"contents": "${1:CheckButton}:GetHitRectInsets()$0",
+		},
+		{
+			"trigger": "CheckButton:GetHyperlinksEnabled\t()",
+			"contents": "${1:CheckButton}:GetHyperlinksEnabled()$0",
+		},
+		{
+			"trigger": "CheckButton:GetID\t()",
+			"contents": "${1:CheckButton}:GetID()$0",
+		},
+		{
+			"trigger": "CheckButton:GetLeft\t()",
+			"contents": "${1:CheckButton}:GetLeft()$0",
+		},
+		{
+			"trigger": "CheckButton:GetMaxResize\t()",
+			"contents": "${1:CheckButton}:GetMaxResize()$0",
+		},
+		{
+			"trigger": "CheckButton:GetMinResize\t()",
+			"contents": "${1:CheckButton}:GetMinResize()$0",
+		},
+		{
+			"trigger": "CheckButton:GetMotionScriptsWhileDisabled\t()",
+			"contents": "${1:CheckButton}:GetMotionScriptsWhileDisabled()$0",
+		},
+		{
+			"trigger": "CheckButton:GetName\t()",
+			"contents": "${1:CheckButton}:GetName()$0",
+		},
+		{
+			"trigger": "CheckButton:GetNormalFontObject\t()",
+			"contents": "${1:CheckButton}:GetNormalFontObject()$0",
+		},
+		{
+			"trigger": "CheckButton:GetNormalTexture\t()",
+			"contents": "${1:CheckButton}:GetNormalTexture()$0",
+		},
+		{
+			"trigger": "CheckButton:GetNumChildren\t()",
+			"contents": "${1:CheckButton}:GetNumChildren()$0",
+		},
+		{
+			"trigger": "CheckButton:GetNumPoints\t()",
+			"contents": "${1:CheckButton}:GetNumPoints()$0",
+		},
+		{
+			"trigger": "CheckButton:GetNumRegions\t()",
+			"contents": "${1:CheckButton}:GetNumRegions()$0",
+		},
+		{
+			"trigger": "CheckButton:GetObjectType\t()",
+			"contents": "${1:CheckButton}:GetObjectType()$0",
+		},
+		{
+			"trigger": "CheckButton:GetParent\t()",
+			"contents": "${1:CheckButton}:GetParent()$0",
+		},
+		{
+			"trigger": "CheckButton:GetPoint\t(index)",
+			"contents": "${1:CheckButton}:GetPoint(${2:index})$0",
+		},
+		{
+			"trigger": "CheckButton:GetPropagateKeyboardInput\t()",
+			"contents": "${1:CheckButton}:GetPropagateKeyboardInput()$0",
+		},
+		{
+			"trigger": "CheckButton:GetPushedTextOffset\t()",
+			"contents": "${1:CheckButton}:GetPushedTextOffset()$0",
+		},
+		{
+			"trigger": "CheckButton:GetPushedTexture\t()",
+			"contents": "${1:CheckButton}:GetPushedTexture()$0",
+		},
+		{
+			"trigger": "CheckButton:GetRect\t()",
+			"contents": "${1:CheckButton}:GetRect()$0",
+		},
+		{
+			"trigger": "CheckButton:GetRegions\t()",
+			"contents": "${1:CheckButton}:GetRegions()$0",
+		},
+		{
+			"trigger": "CheckButton:GetRight\t()",
+			"contents": "${1:CheckButton}:GetRight()$0",
+		},
+		{
+			"trigger": "CheckButton:GetScale\t()",
+			"contents": "${1:CheckButton}:GetScale()$0",
+		},
+		{
+			"trigger": "CheckButton:GetScript\t(\"scriptType\")",
+			"contents": "${1:CheckButton}:GetScript(\"${2:scriptType}\")$0",
+		},
+		{
+			"trigger": "CheckButton:GetSize\t()",
+			"contents": "${1:CheckButton}:GetSize()$0",
+		},
+		{
+			"trigger": "CheckButton:GetText\t()",
+			"contents": "${1:CheckButton}:GetText()$0",
+		},
+		{
+			"trigger": "CheckButton:GetTextHeight\t()",
+			"contents": "${1:CheckButton}:GetTextHeight()$0",
+		},
+		{
+			"trigger": "CheckButton:GetTextWidth\t()",
+			"contents": "${1:CheckButton}:GetTextWidth()$0",
+		},
+		{
+			"trigger": "CheckButton:GetTop\t()",
+			"contents": "${1:CheckButton}:GetTop()$0",
+		},
+		{
+			"trigger": "CheckButton:GetWidth\t()",
+			"contents": "${1:CheckButton}:GetWidth()$0",
+		},
+		{
+			"trigger": "CheckButton:HasScript\t(\"scriptType\")",
+			"contents": "${1:CheckButton}:HasScript(\"${2:scriptType}\")$0",
+		},
+		{
+			"trigger": "CheckButton:Hide\t()",
+			"contents": "${1:CheckButton}:Hide()$0",
+		},
+		{
+			"trigger": "CheckButton:HookScript\t(\"scriptType\", handler)",
+			"contents": "${1:CheckButton}:HookScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "CheckButton:IgnoreDepth\t(enable)",
+			"contents": "${1:CheckButton}:IgnoreDepth(${2:enable})$0",
+		},
+		{
+			"trigger": "CheckButton:IsClampedToScreen\t()",
+			"contents": "${1:CheckButton}:IsClampedToScreen()$0",
+		},
+		{
+			"trigger": "CheckButton:IsDragging\t()",
+			"contents": "${1:CheckButton}:IsDragging()$0",
+		},
+		{
+			"trigger": "CheckButton:IsEnabled\t()",
+			"contents": "${1:CheckButton}:IsEnabled()$0",
+		},
+		{
+			"trigger": "CheckButton:IsEventRegistered\t(\"event\")",
+			"contents": "${1:CheckButton}:IsEventRegistered(\"${2:event}\")$0",
+		},
+		{
+			"trigger": "CheckButton:IsForbidden\t()",
+			"contents": "${1:CheckButton}:IsForbidden()$0",
+		},
+		{
+			"trigger": "CheckButton:IsIgnoringDepth\t()",
+			"contents": "${1:CheckButton}:IsIgnoringDepth()$0",
+		},
+		{
+			"trigger": "CheckButton:IsIgnoringParentAlpha\t()",
+			"contents": "${1:CheckButton}:IsIgnoringParentAlpha()$0",
+		},
+		{
+			"trigger": "CheckButton:IsIgnoringParentScale\t()",
+			"contents": "${1:CheckButton}:IsIgnoringParentScale()$0",
+		},
+		{
+			"trigger": "CheckButton:IsJoystickEnabled\t()",
+			"contents": "${1:CheckButton}:IsJoystickEnabled()$0",
+		},
+		{
+			"trigger": "CheckButton:IsKeyboardEnabled\t()",
+			"contents": "${1:CheckButton}:IsKeyboardEnabled()$0",
+		},
+		{
+			"trigger": "CheckButton:IsMouseClickEnabled\t()",
+			"contents": "${1:CheckButton}:IsMouseClickEnabled()$0",
+		},
+		{
+			"trigger": "CheckButton:IsMouseEnabled\t()",
+			"contents": "${1:CheckButton}:IsMouseEnabled()$0",
+		},
+		{
+			"trigger": "CheckButton:IsMouseMotionEnabled\t()",
+			"contents": "${1:CheckButton}:IsMouseMotionEnabled()$0",
+		},
+		{
+			"trigger": "CheckButton:IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
+			"contents": "${1:CheckButton}:IsMouseOver(${2:[topOffset]}, ${3:[leftOffset]}, ${4:[bottomOffset]}, ${5:[rightOffset]})$0",
+		},
+		{
+			"trigger": "CheckButton:IsMouseWheelEnabled\t()",
+			"contents": "${1:CheckButton}:IsMouseWheelEnabled()$0",
+		},
+		{
+			"trigger": "CheckButton:IsMovable\t()",
+			"contents": "${1:CheckButton}:IsMovable()$0",
+		},
+		{
+			"trigger": "CheckButton:IsObjectLoaded\t()",
+			"contents": "${1:CheckButton}:IsObjectLoaded()$0",
+		},
+		{
+			"trigger": "CheckButton:IsObjectType\t()",
+			"contents": "${1:CheckButton}:IsObjectType()$0",
+		},
+		{
+			"trigger": "CheckButton:IsProtected\t()",
+			"contents": "${1:CheckButton}:IsProtected()$0",
+		},
+		{
+			"trigger": "CheckButton:IsResizable\t()",
+			"contents": "${1:CheckButton}:IsResizable()$0",
+		},
+		{
+			"trigger": "CheckButton:IsShown\t()",
+			"contents": "${1:CheckButton}:IsShown()$0",
+		},
+		{
+			"trigger": "CheckButton:IsToplevel\t()",
+			"contents": "${1:CheckButton}:IsToplevel()$0",
+		},
+		{
+			"trigger": "CheckButton:IsUserPlaced\t()",
+			"contents": "${1:CheckButton}:IsUserPlaced()$0",
+		},
+		{
+			"trigger": "CheckButton:IsVisible\t()",
+			"contents": "${1:CheckButton}:IsVisible()$0",
+		},
+		{
+			"trigger": "CheckButton:LockHighlight\t()",
+			"contents": "${1:CheckButton}:LockHighlight()$0",
+		},
+		{
+			"trigger": "CheckButton:Lower\t()",
+			"contents": "${1:CheckButton}:Lower()$0",
+		},
+		{
+			"trigger": "CheckButton:Raise\t()",
+			"contents": "${1:CheckButton}:Raise()$0",
+		},
+		{
+			"trigger": "CheckButton:RegisterAllEvents\t()",
+			"contents": "${1:CheckButton}:RegisterAllEvents()$0",
+		},
+		{
+			"trigger": "CheckButton:RegisterEvent\t(\"event\")",
+			"contents": "${1:CheckButton}:RegisterEvent(\"${2:event}\")$0",
+		},
+		{
+			"trigger": "CheckButton:RegisterForClicks\t(\"button\", ...)",
+			"contents": "${1:CheckButton}:RegisterForClicks(\"${2:CheckButton}\", ${3:...})$0",
+		},
+		{
+			"trigger": "CheckButton:RegisterForDrag\t(...)",
+			"contents": "${1:CheckButton}:RegisterForDrag(${2:...})$0",
+		},
+		{
+			"trigger": "CheckButton:RegisterUnitEvent\t(\"event\", \"unit\", \"unit2\")",
+			"contents": "${1:CheckButton}:RegisterUnitEvent(\"${2:event}\", \"${3:unit1}\", \"${4:unit2}\")$0",
+		},
+		{
+			"trigger": "CheckButton:SetAllPoints\t([frame])",
+			"contents": "${1:CheckButton}:SetAllPoints(${2:[frame]})$0",
+		},
+		{
+			"trigger": "CheckButton:SetAlpha\t(alpha)",
+			"contents": "${1:CheckButton}:SetAlpha(${2:alpha})$0",
+		},
+		{
+			"trigger": "CheckButton:SetAttribute\t(\"name\", value)",
+			"contents": "${1:CheckButton}:SetAttribute(${2:\"name\"}, ${3:value})$0",
+		},
+		{
+			"trigger": "CheckButton:SetBackdrop\t(backdrop)",
+			"contents": "${1:CheckButton}:SetBackdrop(${2:backdrop})$0",
+		},
+		{
+			"trigger": "CheckButton:SetBackdropBorderColor\t(red, green, blue, [alpha])",
+			"contents": "${1:CheckButton}:SetBackdropBorderColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+		},
+		{
+			"trigger": "CheckButton:SetBackdropColor\t(red, green, blue, [alpha])",
+			"contents": "${1:CheckButton}:SetBackdropColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+		},
+		{
+			"trigger": "CheckButton:SetButtonState\t(\"state\", lock)",
+			"contents": "${1:CheckButton}:SetButtonState(\"${2:state}\", ${3:lock})$0",
+		},
+		{
+			"trigger": "CheckButton:SetChecked\t(enable)",
+			"contents": "${1:CheckButton}:SetChecked(${2:enable})$0",
+		},
+		{
+			"trigger": "CheckButton:SetCheckedTexture\t(texture)",
+			"contents": "${1:CheckButton}:SetCheckedTexture(${2:texture})$0",
+		},
+		{
+			"trigger": "CheckButton:SetCheckedTexture\t(\"filePath\")",
+			"contents": "${1:CheckButton}:SetCheckedTexture(\"${2:filePath}\")$0",
+		},
+		{
+			"trigger": "CheckButton:SetClampedToScreen\t(enable)",
+			"contents": "${1:CheckButton}:SetClampedToScreen(${2:enable})$0",
+		},
+		{
+			"trigger": "CheckButton:SetClampRectInsets\t(left, right, top, bottom)",
+			"contents": "${1:CheckButton}:SetClampRectInsets(${2:left}, ${3:right}, ${4:top}, ${5:bottom})$0",
+		},
+		{
+			"trigger": "CheckButton:SetClipsChildren\t(enable)",
+			"contents": "${1:CheckButton}:SetClipsChildren(${2:enable})$0",
+		},
+		{
+			"trigger": "CheckButton:SetDepth\t(depth)",
+			"contents": "${1:CheckButton}:SetDepth(${2:depth})$0",
+		},
+		{
+			"trigger": "CheckButton:SetDisabledAtlas\t(\"atlas\")",
+			"contents": "${1:CheckButton}:SetDisabledAtlas(\"${2:atlas}\")$0",
+		},
+		{
+			"trigger": "CheckButton:SetDisabledCheckedTexture\t(texture)",
+			"contents": "${1:CheckButton}:SetDisabledCheckedTexture(${2:texture})$0",
+		},
+		{
+			"trigger": "CheckButton:SetDisabledCheckedTexture\t(\"filePath\")",
+			"contents": "${1:CheckButton}:SetDisabledCheckedTexture(\"${2:filePath}\")$0",
+		},
+		{
+			"trigger": "CheckButton:SetDisabledFontObject\t(font)",
+			"contents": "${1:CheckButton}:SetDisabledFontObject(${2:font})$0",
+		},
+		{
+			"trigger": "CheckButton:SetDisabledTexture\t(texture)",
+			"contents": "${1:CheckButton}:SetDisabledTexture(${2:texture})$0",
+		},
+		{
+			"trigger": "CheckButton:SetDisabledTexture\t(\"fileName\")",
+			"contents": "${1:CheckButton}:SetDisabledTexture(\"${2:fileName}\")$0",
+		},
+		{
+			"trigger": "CheckButton:SetDontSavePosition\t(enable)",
+			"contents": "${1:CheckButton}:SetDontSavePosition(${2:enable})$0",
+		},
+		{
+			"trigger": "CheckButton:SetEnabled\t()",
+			"contents": "${1:CheckButton}:SetEnabled()$0",
+		},
+		{
+			"trigger": "CheckButton:SetFlattensRenderLayers\t(enable)",
+			"contents": "${1:CheckButton}:SetFlattensRenderLayers(${2:enable})$0",
+		},
+		{
+			"trigger": "CheckButton:SetFontString\t(fontString)",
+			"contents": "${1:CheckButton}:SetFontString(${2:fontString})$0",
+		},
+		{
+			"trigger": "CheckButton:SetFormattedText\t(\"formatString\", ...)",
+			"contents": "${1:CheckButton}:SetFormattedText(\"${2:formatString}\", ${3:...})$0",
+		},
+		{
+			"trigger": "CheckButton:SetFrameLevel\t(level)",
+			"contents": "${1:CheckButton}:SetFrameLevel(${2:level})$0",
+		},
+		{
+			"trigger": "CheckButton:SetFrameStrata\t(\"strata\")",
+			"contents": "${1:CheckButton}:SetFrameStrata(\"${2:strata}\")$0",
+		},
+		{
+			"trigger": "CheckButton:SetHeight\t(height)",
+			"contents": "${1:CheckButton}:SetHeight(${2:height})$0",
+		},
+		{
+			"trigger": "CheckButton:SetHighlightAtlas\t(\"atlas\")",
+			"contents": "${1:CheckButton}:SetHighlightAtlas(\"${2:atlas}\")$0",
+		},
+		{
+			"trigger": "CheckButton:SetHighlightFontObject\t(font)",
+			"contents": "${1:CheckButton}:SetHighlightFontObject(${2:font})$0",
+		},
+		{
+			"trigger": "CheckButton:SetHighlightTexture\t(texture, \"blendMode\")",
+			"contents": "${1:CheckButton}:SetHighlightTexture(${2:texture}, ${3:\"blendMode\"})$0",
+		},
+		{
+			"trigger": "CheckButton:SetHighlightTexture\t(\"filename\", \"blendMode\")",
+			"contents": "${1:CheckButton}:SetHighlightTexture(\"${2:filename}\", ${3:\"blendMode\"})$0",
+		},
+		{
+			"trigger": "CheckButton:SetHitRectInsets\t(left, right, top, bottom)",
+			"contents": "${1:CheckButton}:SetHitRectInsets(${2:left}, ${3:right}, ${4:top}, ${5:bottom})$0",
+		},
+		{
+			"trigger": "CheckButton:SetHyperlinksEnabled\t(enable)",
+			"contents": "${1:CheckButton}:SetHyperlinksEnabled(${2:enable})$0",
+		},
+		{
+			"trigger": "CheckButton:SetID\t(id)",
+			"contents": "${1:CheckButton}:SetID(${2:id})$0",
+		},
+		{
+			"trigger": "CheckButton:SetIgnoreParentAlpha\t(enable)",
+			"contents": "${1:CheckButton}:SetIgnoreParentAlpha(${2:enable})$0",
+		},
+		{
+			"trigger": "CheckButton:SetIgnoreParentScale\t(enable)",
+			"contents": "${1:CheckButton}:SetIgnoreParentScale(${2:enable})$0",
+		},
+		{
+			"trigger": "CheckButton:SetMaxResize\t(maxWidth, maxHeight)",
+			"contents": "${1:CheckButton}:SetMaxResize(${2:maxWidth}, ${3:maxHeight})$0",
+		},
+		{
+			"trigger": "CheckButton:SetMinResize\t(minWidth, minHeight)",
+			"contents": "${1:CheckButton}:SetMinResize(${2:minWidth}, ${3:minHeight})$0",
+		},
+		{
+			"trigger": "CheckButton:SetMotionScriptsWhileDisabled\t(enable)",
+			"contents": "${1:CheckButton}:SetMotionScriptsWhileDisabled(${2:enable})$0",
+		},
+		{
+			"trigger": "CheckButton:SetMouseClickEnabled\t(enable)",
+			"contents": "${1:CheckButton}:SetMouseClickEnabled(${2:enable})$0",
+		},
+		{
+			"trigger": "CheckButton:SetMouseMotionEnabled\t(enable)",
+			"contents": "${1:CheckButton}:SetMouseMotionEnabled(${2:enable})$0",
+		},
+		{
+			"trigger": "CheckButton:SetMovable\t(enable)",
+			"contents": "${1:CheckButton}:SetMovable(${2:enable})$0",
+		},
+		{
+			"trigger": "CheckButton:SetNormalAtlas\t(\"atlas\")",
+			"contents": "${1:CheckButton}:SetNormalAtlas(\"${2:atlas}\")$0",
+		},
+		{
+			"trigger": "CheckButton:SetNormalFontObject\t(font)",
+			"contents": "${1:CheckButton}:SetNormalFontObject(${2:font})$0",
+		},
+		{
+			"trigger": "CheckButton:SetNormalTexture\t(texture)",
+			"contents": "${1:CheckButton}:SetNormalTexture(${2:texture})$0",
+		},
+		{
+			"trigger": "CheckButton:SetNormalTexture\t(\"filename\")",
+			"contents": "${1:CheckButton}:SetNormalTexture(\"${2:filename}\")$0",
+		},
+		{
+			"trigger": "CheckButton:SetParent\t(frame)",
+			"contents": "${1:CheckButton}:SetParent(${2:frame})$0",
+		},
+		{
+			"trigger": "CheckButton:SetPoint\t(\"point\", [relativeTo], [\"relativePoint\"], [xOffset], [yOffset])",
+			"contents": "${1:CheckButton}:SetPoint(\"${2:point}\", ${3:[relativeTo]}, \"${4:[relativePoint]}\", ${5:[xOffset]}, ${6:[yOffset]})$0",
+		},
+		{
+			"trigger": "CheckButton:SetPropagateKeyboardInput\t(enable)",
+			"contents": "${1:CheckButton}:SetPropagateKeyboardInput(${2:enable})$0",
+		},
+		{
+			"trigger": "CheckButton:SetPushedAtlas\t(\"atlas\")",
+			"contents": "${1:CheckButton}:SetPushedAtlas(\"${2:atlas}\")$0",
+		},
+		{
+			"trigger": "CheckButton:SetPushedTextOffset\t(x, y)",
+			"contents": "${1:CheckButton}:SetPushedTextOffset(${2:x}, ${3:y})$0",
+		},
+		{
+			"trigger": "CheckButton:SetPushedTexture\t(texture)",
+			"contents": "${1:CheckButton}:SetPushedTexture(${2:texture})$0",
+		},
+		{
+			"trigger": "CheckButton:SetPushedTexture\t(\"filename\")",
+			"contents": "${1:CheckButton}:SetPushedTexture(\"${2:filename}\")$0",
+		},
+		{
+			"trigger": "CheckButton:SetResizable\t(enable)",
+			"contents": "${1:CheckButton}:SetResizable(${2:enable})$0",
+		},
+		{
+			"trigger": "CheckButton:SetScale\t(scale)",
+			"contents": "${1:CheckButton}:SetScale(${2:scale})$0",
+		},
+		{
+			"trigger": "CheckButton:SetScript\t(\"scriptType\", handler)",
+			"contents": "${1:CheckButton}:SetScript(\"${2:scriptType}\", ${3:handler})$0",
+		},
+		{
+			"trigger": "CheckButton:SetShown\t(enable)",
+			"contents": "${1:CheckButton}:SetShown(${2:enable})$0",
+		},
+		{
+			"trigger": "CheckButton:SetSize\t(width, height)",
+			"contents": "${1:CheckButton}:SetSize(${2:width}, ${3:height})$0",
+		},
+		{
+			"trigger": "CheckButton:SetText\t(\"text\")",
+			"contents": "${1:CheckButton}:SetText(\"${2:text}\")$0",
+		},
+		{
+			"trigger": "CheckButton:SetToplevel\t(enable)",
+			"contents": "${1:CheckButton}:SetToplevel(${2:enable})$0",
+		},
+		{
+			"trigger": "CheckButton:SetUserPlaced\t(enable)",
+			"contents": "${1:CheckButton}:SetUserPlaced(${2:enable})$0",
+		},
+		{
+			"trigger": "CheckButton:SetWidth\t(width)",
+			"contents": "${1:CheckButton}:SetWidth(${2:width})$0",
+		},
+		{
+			"trigger": "CheckButton:Show\t()",
+			"contents": "${1:CheckButton}:Show()$0",
+		},
+		{
+			"trigger": "CheckButton:StartMoving\t()",
+			"contents": "${1:CheckButton}:StartMoving()$0",
+		},
+		{
+			"trigger": "CheckButton:StartSizing\t()",
+			"contents": "${1:CheckButton}:StartSizing()$0",
+		},
+		{
+			"trigger": "CheckButton:StopAnimating\t()",
+			"contents": "${1:CheckButton}:StopAnimating()$0",
+		},
+		{
+			"trigger": "CheckButton:StopMovingOrSizing\t()",
+			"contents": "${1:CheckButton}:StopMovingOrSizing()$0",
+		},
+		{
+			"trigger": "CheckButton:UnlockHighlight\t()",
+			"contents": "${1:CheckButton}:UnlockHighlight()$0",
+		},
+		{
+			"trigger": "CheckButton:UnregisterAllEvents\t()",
+			"contents": "${1:CheckButton}:UnregisterAllEvents()$0",
+		},
+		{
+			"trigger": "CheckButton:UnregisterEvent\t(\"event\")",
+			"contents": "${1:CheckButton}:UnregisterEvent(\"${2:event}\")$0",
+		},
+
+
+
+
+		{
+			"trigger": "_CheckButton:CanChangeAttribute\t()",
+			"contents": "${1:enabled} = ${2:CheckButton}:CanChangeAttribute()$0",
+		},
+		{
+			"trigger": "_CheckButton:CanChangeProtectedState\t()",
+			"contents": "${1:canChange} = ${2:CheckButton}:CanChangeProtectedState()$0",
+		},
+		{
+			"trigger": "_CheckButton:CreateFontString\t([\"name\"], [\"layer\"], [\"inherits\"])",
+			"contents": "${1:fontstring} = ${2:CheckButton}:CreateFontString(${3:[\"name\"]}, ${4:[\"layer\"]}, ${5:[\"inherits\"]})$0",
+		},
+		{
+			"trigger": "_CheckButton:CreateLine\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:texture} = ${2:CheckButton}:CreateLine(${3:[\"name\"]}, \"${4:[layer]}\", ${5:[\"inherits\"]}, ${6:[sublevel]})$0",
+		},
+		{
+			"trigger": "_CheckButton:CreateMaskTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:texture} = ${2:CheckButton}:CreateMaskTexture(${3:[\"name\"]}, \"${4:[layer]}\", ${5:[\"inherits\"]}, ${6:[sublevel]})$0",
+		},
+		{
+			"trigger": "_CheckButton:CreateTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
+			"contents": "${1:texture} = ${2:CheckButton}:CreateTexture(${3:[\"name\"]}, \"${4:[layer]}\", ${5:[\"inherits\"]}, ${6:[sublevel]})$0",
+		},
+		{
+			"trigger": "_CheckButton:DoesClipChildren\t()",
+			"contents": "${1:doesClip} = ${2:CheckButton}:DoesClipChildren()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetAlpha\t()",
+			"contents": "${1:alpha} = ${2:CheckButton}:GetAlpha()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetAnimationGroups\t()",
+			"contents": "${1:...} = ${2:CheckButton}:GetAnimationGroups()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetAttribute\t(\"name\")",
+			"contents": "${1:value} = ${2:CheckButton}:GetAttribute(${3:\"name\"})$0",
+		},
+		{
+			"trigger": "_CheckButton:GetBackdrop\t()",
+			"contents": "${1:backdrop} = ${2:CheckButton}:GetBackdrop()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetBackdropBorderColor\t()",
+			"contents": "${1:red}, ${2:green}, ${3:blue}, ${4:alpha} = ${5:CheckButton}:GetBackdropBorderColor()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetBackdropColor\t()",
+			"contents": "${1:red}, ${2:green}, ${3:blue}, ${4:alpha} = ${5:CheckButton}:GetBackdropColor()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetBottom\t()",
+			"contents": "${1:bottom} = ${2:CheckButton}:GetBottom()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetBoundsRect\t()",
+			"contents": "${1:left}, ${2:bottom}, ${3:width}, ${4:height} = ${5:CheckButton}:GetBoundsRect()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetButtonState\t()",
+			"contents": "${1:state} = ${2:CheckButton}:GetButtonState()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetCenter\t()",
+			"contents": "${1:x}, ${2:y} = ${3:CheckButton}:GetCenter()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetChecked\t()",
+			"contents": "${1:enabled} = ${2:CheckButton}:GetChecked()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetCheckedTexture\t()",
+			"contents": "${1:texture} = ${2:CheckButton}:GetCheckedTexture()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetChildren\t()",
+			"contents": "${1:...} = ${2:CheckButton}:GetChildren()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetClampRectInsets\t()",
+			"contents": "${1:left}, ${2:right}, ${3:top}, ${4:bottom} = ${5:CheckButton}:GetClampRectInsets()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetDebugName\t()",
+			"contents": "${1:name} = ${2:CheckButton}:GetDebugName()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetDepth\t()",
+			"contents": "${1:depth} = ${2:CheckButton}:GetDepth()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetDisabledCheckedTexture\t()",
+			"contents": "${1:texture} = ${2:CheckButton}:GetDisabledCheckedTexture()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetDisabledFontObject\t()",
+			"contents": "${1:font} = ${2:CheckButton}:GetDisabledFontObject()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetDisabledTexture\t()",
+			"contents": "${1:texture} = ${2:CheckButton}:GetDisabledTexture()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetDontSavePosition\t()",
+			"contents": "${1:saved} = ${2:CheckButton}:GetDontSavePosition()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetEffectiveAlpha\t()",
+			"contents": "${1:alpha} = ${2:CheckButton}:GetEffectiveAlpha()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetEffectiveDepth\t()",
+			"contents": "${1:depth} = ${2:CheckButton}:GetEffectiveDepth()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetEffectivelyFlattensRenderLayers\t()",
+			"contents": "${1:doesFlattens} = ${2:CheckButton}:GetEffectivelyFlattensRenderLayers()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetEffectiveScale\t()",
+			"contents": "${1:scale} = ${2:CheckButton}:GetEffectiveScale()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetFlattensRenderLayers\t()",
+			"contents": "${1:doesFlattens} = ${2:CheckButton}:GetFlattensRenderLayers()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetFontString\t()",
+			"contents": "${1:fontstring} = ${2:CheckButton}:GetFontString()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetFrameLevel\t()",
+			"contents": "${1:level} = ${2:CheckButton}:GetFrameLevel()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetFrameStrata\t()",
+			"contents": "${1:strata} = ${2:CheckButton}:GetFrameStrata()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetHeight\t()",
+			"contents": "${1:height} = ${2:CheckButton}:GetHeight()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetHighlightFontObject\t()",
+			"contents": "${1:font} = ${2:CheckButton}:GetHighlightFontObject()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetHighlightTexture\t()",
+			"contents": "${1:texture} = ${2:CheckButton}:GetHighlightTexture()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetHitRectInsets\t()",
+			"contents": "${1:left}, ${2:right}, ${3:top}, ${4:bottom} = ${5:CheckButton}:GetHitRectInsets()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetHyperlinksEnabled\t()",
+			"contents": "${1:enabled} = ${2:CheckButton}:GetHyperlinksEnabled()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetID\t()",
+			"contents": "${1:id} = ${2:CheckButton}:GetID()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetLeft\t()",
+			"contents": "${1:left} = ${2:CheckButton}:GetLeft()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetMaxResize\t()",
+			"contents": "${1:maxWidth}, ${2:maxHeight} = ${3:CheckButton}:GetMaxResize()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetMinResize\t()",
+			"contents": "${1:minWidth}, ${2:minHeight} = ${3:CheckButton}:GetMinResize()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetMotionScriptsWhileDisabled\t()",
+			"contents": "${1:enabled} = ${2:CheckButton}:GetMotionScriptsWhileDisabled()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetName\t()",
+			"contents": "${1:name} = ${2:CheckButton}:GetName()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetNormalFontObject\t()",
+			"contents": "${1:font} = ${2:CheckButton}:GetNormalFontObject()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetNormalTexture\t()",
+			"contents": "${1:texture} = ${2:CheckButton}:GetNormalTexture()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetNumChildren\t()",
+			"contents": "${1:numChildren} = ${2:CheckButton}:GetNumChildren()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetNumPoints\t()",
+			"contents": "${1:numPoints} = ${2:CheckButton}:GetNumPoints()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetNumRegions\t()",
+			"contents": "${1:numRegions} = ${2:CheckButton}:GetNumRegions()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetObjectType\t()",
+			"contents": "${1:type} = ${2:CheckButton}:GetObjectType()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetPoint\t(index)",
+			"contents": "${1:point}, ${2:relativeTo}, ${3:relativePoint}, ${4:xOffset}, ${5:yOffset} = ${6:CheckButton}:GetPoint(${7:index})$0",
+		},
+		{
+			"trigger": "_CheckButton:GetPropagateKeyboardInput\t()",
+			"contents": "${1:propagate} = ${2:CheckButton}:GetPropagateKeyboardInput()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetPushedTextOffset\t()",
+			"contents": "${1:x}, ${2:y} = ${3:CheckButton}:GetPushedTextOffset()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetPushedTexture\t()",
+			"contents": "${1:texture} = ${2:CheckButton}:GetPushedTexture()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetRect\t()",
+			"contents": "${1:left}, ${2:bottom}, ${3:width}, ${4:height} = ${5:CheckButton}:GetRect()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetRegions\t()",
+			"contents": "${1:...} = ${2:CheckButton}:GetRegions()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetRight\t()",
+			"contents": "${1:right} = ${2:CheckButton}:GetRight()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetScale\t()",
+			"contents": "${1:scale} = ${2:CheckButton}:GetScale()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetScript\t(\"scriptType\")",
+			"contents": "${1:handler} = ${2:CheckButton}:GetScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "_CheckButton:GetSize\t()",
+			"contents": "${1:width}, ${2:height} = ${3:CheckButton}:GetSize()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetText\t()",
+			"contents": "${1:text} = ${1:CheckButton}:GetText()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetTextHeight\t()",
+			"contents": "${1:height} = ${1:CheckButton}:GetTextHeight()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetTextWidth\t()",
+			"contents": "${1:width} = ${1:CheckButton}:GetTextWidth()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetTop\t()",
+			"contents": "${1:top} = ${2:CheckButton}:GetTop()$0",
+		},
+		{
+			"trigger": "_CheckButton:GetWidth\t()",
+			"contents": "${1:width} = ${2:CheckButton}:GetWidth()$0",
+		},
+		{
+			"trigger": "_CheckButton:HasScript\t(\"scriptType\")",
+			"contents": "${1:hasScript} = ${2:CheckButton}:HasScript(\"${3:scriptType}\")$0",
+		},
+		{
+			"trigger": "_CheckButton:IsClampedToScreen\t()",
+			"contents": "${1:enabled} = ${2:CheckButton}:IsClampedToScreen()$0",
+		},
+		{
+			"trigger": "_CheckButton:IsDragging\t()",
+			"contents": "${1:isDragging} = ${2:CheckButton}:IsDragging()$0",
+		},
+		{
+			"trigger": "_CheckButton:IsEnabled\t()",
+			"contents": "${1:enabled} = ${1:CheckButton}:IsEnabled()$0",
+		},
+		{
+			"trigger": "_CheckButton:IsEventRegistered\t(\"event\")",
+			"contents": "${1:registered} = ${2:CheckButton}:IsEventRegistered(\"${3:event}\")$0",
+		},
+		{
+			"trigger": "_CheckButton:IsForbidden\t()",
+			"contents": "${1:isForbidden} = ${2:CheckButton}:IsForbidden()$0",
+		},
+		{
+			"trigger": "_CheckButton:IsIgnoringDepth\t()",
+			"contents": "${1:enabled} = ${2:CheckButton}:IsIgnoringDepth()$0",
+		},
+		{
+			"trigger": "_CheckButton:IsIgnoringParentAlpha\t()",
+			"contents": "${1:isIgnoring} = ${2:CheckButton}:IsIgnoringParentAlpha()$0",
+		},
+		{
+			"trigger": "_CheckButton:IsIgnoringParentScale\t()",
+			"contents": "${1:isIgnoring} = ${2:CheckButton}:IsIgnoringParentScale()$0",
+		},
+		{
+			"trigger": "_CheckButton:IsJoystickEnabled\t()",
+			"contents": "${1:enabled} = ${2:CheckButton}:IsJoystickEnabled()$0",
+		},
+		{
+			"trigger": "_CheckButton:IsKeyboardEnabled\t()",
+			"contents": "${1:enabled} = ${2:CheckButton}:IsKeyboardEnabled()$0",
+		},
+		{
+			"trigger": "_CheckButton:IsMouseClickEnabled\t()",
+			"contents": "${1:enabled} = ${2:CheckButton}:IsMouseClickEnabled()$0",
+		},
+		{
+			"trigger": "_CheckButton:IsMouseEnabled\t()",
+			"contents": "${1:enabled} = ${2:CheckButton}:IsMouseEnabled()$0",
+		},
+		{
+			"trigger": "_CheckButton:IsMouseMotionEnabled\t()",
+			"contents": "${1:enabled} = ${2:CheckButton}:IsMouseMotionEnabled()$0",
+		},
+		{
+			"trigger": "_CheckButton:IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
+			"contents": "${1:isOver} = ${2:CheckButton}:IsMouseOver(${3:[topOffset]}, ${4:[leftOffset]}, ${5:[bottomOffset]}, ${6:[rightOffset]})$0",
+		},
+		{
+			"trigger": "_CheckButton:IsMouseWheelEnabled\t()",
+			"contents": "${1:enabled} = ${2:CheckButton}:IsMouseWheelEnabled()$0",
+		},
+		{
+			"trigger": "_CheckButton:IsMovable\t()",
+			"contents": "${1:movable} = ${2:CheckButton}:IsMovable()$0",
+		},
+		{
+			"trigger": "_CheckButton:IsObjectLoaded\t()",
+			"contents": "${1:loaded} = ${2:CheckButton}:IsObjectLoaded()$0",
+		},
+		{
+			"trigger": "_CheckButton:IsObjectType\t(\"type\")",
+			"contents": "${1:isType} = ${2:CheckButton}:IsObjectType(\"${3:type}\")$0",
+		},
+		{
+			"trigger": "_CheckButton:IsProtected\t()",
+			"contents": "${1:isProtected}, ${2:explicit} = ${3:CheckButton}:IsProtected()$0",
+		},
+		{
+			"trigger": "_CheckButton:IsResizable\t()",
+			"contents": "${1:enabled} = ${2:CheckButton}:IsResizable()$0",
+		},
+		{
+			"trigger": "_CheckButton:IsShown\t()",
+			"contents": "${1:shown} = ${2:CheckButton}:IsShown()$0",
+		},
+		{
+			"trigger": "_CheckButton:IsToplevel\t()",
+			"contents": "${1:enabled} = ${2:CheckButton}:IsToplevel()$0",
+		},
+		{
+			"trigger": "_CheckButton:IsUserPlaced\t()",
+			"contents": "${1:enabled} = ${2:CheckButton}:IsUserPlaced()$0",
+		},
+		{
+			"trigger": "_CheckButton:IsVisible\t()",
+			"contents": "${1:visible} = ${2:CheckButton}:IsVisible()$0",
+		},
+
+
+
+
+		{
+			"trigger": "_CheckButton\thelp",
+			"contents": "CheckButton = {\n\tinherits = {\n\t\t\"CheckButton\",\n\t\t\"Frame\",\n\t\t\"ScriptObject\",\n\t\t\"VisibleRegion\",\n\t\t\"Region\",\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\thandlers = {\n\t\t[\"OnAttributeChanged\"] = \"self, name, value\", -- Run when a frame attribute is changed\n\t\t[\"OnChar\"] = \"self, text\", -- Run for each text character typed in the frame\n\t\t[\"OnClick\"] = \"self, button, down\", -- Run when the button is clicked\n\t\t[\"OnDisable\"] = \"self\", -- Run when the frame is disabled\n\t\t[\"OnDoubleClick\"] = \"self, button\", -- Run when the button is double-clicked\n\t\t[\"OnDragStart\"] = \"self, button\", -- Run when the mouse is dragged starting in the frame\n\t\t[\"OnDragStop\"] = \"self\", -- Run when the mouse button is released after a drag started in the frame\n\t\t[\"OnEnable\"] = \"self\", -- Run when the frame is enabled\n\t\t[\"OnEnter\"] = \"self, motion\", -- Run when the mouse cursor enters the frame's interactive area\n\t\t[\"OnEvent\"] = \"self, event, ...\", -- Run whenever an event fires for which the frame is registered\n\t\t[\"OnHide\"] = \"self\", -- Run when the frame's visbility changes to hidden\n\t\t[\"OnHyperlinkClick\"] = \"self, link, text, button, region, left, bottom, width, height\", -- Run when a mouse button is pressed while the cursor is over the hyperlink\n\t\t[\"OnHyperlinkEnter\"] = \"self, link, text, region, left, bottom, width, height\", -- Run when the mouse cursor enters the hyperlink's interactive area\n\t\t[\"OnHyperlinkLeave\"] = \"self\", -- Run when the mouse cursor leaves the hyperlink's interactive area\n\t\t[\"OnKeyDown\"] = \"self, key\", -- Run when a keyboard key is pressed if the frame is keyboard enabled\n\t\t[\"OnKeyUp\"] = \"self, key\", -- Run when a keyboard key is released if the frame is keyboard enabled\n\t\t[\"OnLeave\"] = \"self, motion\", -- Run when the mouse cursor leaves the frame's interactive area\n\t\t[\"OnLoad\"] = \"self\", -- Run when the frame is created\n\t\t[\"OnMouseDown\"] = \"self, button\", -- Run when a mouse button is pressed while the cursor is over the frame\n\t\t[\"OnMouseUp\"] = \"self, button, upInside\", -- Run when the mouse button is released following a mouse down action in the frame\n\t\t[\"OnMouseWheel\"] = \"self, delta\", -- Run when the frame receives a mouse wheel scrolling action\n\t\t[\"OnReceiveDrag\"] = \"self\", -- Run when the mouse button is released after dragging into the frame\n\t\t[\"OnShow\"] = \"self\", -- Run when the frame becomes visible\n\t\t[\"OnSizeChanged\"] = \"self, width, height\", -- Run when a frame's size changes\n\t\t[\"OnUpdate\"] = \"self, elapsed\", -- Run each time the screen is drawn by the game engine\n\t\t[\"PostClick\"] = \"self, button, down\", -- Run immediately following the button's OnClick handler with the same arguments\n\t\t[\"PreClick\"] = \"self, button, down\", -- Run immediately before the button's OnClick handler with the same arguments\n\t},\n\tmethods = {\n\t\t\"CanChangeAttribute\", -- Returns whether secure frame attributes can currently be changed\n\t\t\"CanChangeProtectedState\", -- Returns whether protected properties of the region can be changed by non-secure scripts\n\t\t\"ClearAllPoints\", -- Removes all anchor points from the region\n\t\t\"Click\", -- Performs a (virtual) mouse click on the button\n\t\t\"CreateAnimationGroup\", -- Creates a new animation group as a child of the region\n\t\t\"CreateFontString\", -- Creates a new font string object as a child of the frame\n\t\t\"CreateLine\", -- Creates a new line object as a child of the frame\n\t\t\"CreateMaskTexture\", -- Creates a new mask texture object as a child of the frame\n\t\t\"CreateTexture\", -- Creates a new texture object as a child of the frame\n\t\t\"Disable\", -- Disallows user interaction with the button\n\t\t\"DisableDrawLayer\", -- Prevents display of all child objects of the frame on a specified graphics layer\n\t\t\"DoesClipChildren\", -- Returns whether the frame's childrens are clipped off when exceeding the it's boundaries\n\t\t\"Enable\", -- Allows user interaction with the button\n\t\t\"EnableDrawLayer\", -- Allows display of all child objects of the frame on a specified graphics layer\n\t\t\"EnableJoystick\", -- Enables or disables joystick interactivity for the frame\n\t\t\"EnableKeyboard\", -- Enables or disables keyboard interactivity for the frame\n\t\t\"EnableMouse\", -- Enables or disables mouse interactivity for the frame\n\t\t\"EnableMouseWheel\", -- Enables or disables mouse wheel interactivity for the frame\n\t\t\"GetAlpha\", -- Returns the opacity of the region relative to it's parent\n\t\t\"GetAnimationGroups\", -- Returns a list of animation groups belonging to the region\n\t\t\"GetAttribute\", -- Returns the value of a secure frame attribute\n\t\t\"GetBackdrop\", -- Returns information about the frame's backdrop graphic\n\t\t\"GetBackdropBorderColor\", -- Returns the shading color for the frame's border graphic\n\t\t\"GetBackdropColor\", -- Returns the shading color for the frame's background graphic\n\t\t\"GetBottom\", -- Returns the distance from the bottom of the screen to the bottom of the region\n\t\t\"GetBoundsRect\", -- Returns the position and dimension of the smallest area enclosing the frame and it's childrens\n\t\t\"GetButtonState\", -- Returns the button's current state\n\t\t\"GetCenter\", -- Returns the screen coordinates of the region's center\n\t\t\"GetChecked\", -- Returns whether the check button is checked\n\t\t\"GetCheckedTexture\", -- Returns the texture used when the button is checked\n\t\t\"GetChildren\", -- Returns a list of child frames of the frame\n\t\t\"GetClampRectInsets\", -- Returns offsets from the frame's edges used when limiting user movement or resizing of the frame\n\t\t\"GetDebugName\", -- Returns the widget object's debug name\n\t\t\"GetDepth\", -- Returns the 3D depth of the frame\n\t\t\"GetDisabledCheckedTexture\", -- Returns the texture used when the button is disabled and checked\n\t\t\"GetDisabledFontObject\", -- Returns the font object used for the button's disabled state\n\t\t\"GetDisabledTexture\", -- Returns the texture used when the button is disabled\n\t\t\"GetDontSavePosition\", -- Returns whether the position is included for the automatic saving and restoration\n\t\t\"GetEffectiveAlpha\", -- Returns the overall opacity of the frame\n\t\t\"GetEffectiveDepth\", -- Returns the overall 3D depth of the frame\n\t\t\"GetEffectivelyFlattensRenderLayers\", -- Returns whether the frame's childrens are effectively rendered at the same layer level\n\t\t\"GetEffectiveScale\", -- Returns the overall scale factor of the frame\n\t\t\"GetFlattensRenderLayers\", -- Returns whether the frame's childrens are rendered at the same layer level\n\t\t\"GetFontString\", -- Returns the fontstring object used for the button's label text\n\t\t\"GetFrameLevel\", -- Returns the level at which the frame is layered relative to others in its strata\n\t\t\"GetFrameStrata\", -- Returns the general layering strata of the frame\n\t\t\"GetHeight\", -- Returns the height of the region\n\t\t\"GetHighlightFontObject\", -- Returns the font object used when the button is highlighted\n\t\t\"GetHighlightTexture\", -- Returns the texture used when the button is highlighted\n\t\t\"GetHitRectInsets\", -- Returns the insets from the frame's edges which determine its mouse-interactable area\n\t\t\"GetHyperlinksEnabled\", -- Returns whether hyperlinks in the frame's text are interactive\n\t\t\"GetID\", -- Returns the frame's numeric identifier\n\t\t\"GetLeft\", -- Returns the distance from the left edge of the screen to the left edge of the region\n\t\t\"GetMaxResize\", -- Returns the maximum size of the frame for user resizing\n\t\t\"GetMinResize\", -- Returns the minimum size of the frame for user resizing\n\t\t\"GetMotionScriptsWhileDisabled\", -- Determines whether [OnEnter|OnLeave] scripts will fire while the button is disabled\n\t\t\"GetName\", -- Returns the widget object's name\n\t\t\"GetNormalFontObject\", -- Returns the font object used for the button's normal state\n\t\t\"GetNormalTexture\", -- Returns the texture used for the button's normal state\n\t\t\"GetNumChildren\", -- Returns the number of child frames belonging to the frame\n\t\t\"GetNumPoints\", -- Returns the number of anchor points defined for the region\n\t\t\"GetNumRegions\", -- Returns the number of non-frame child regions belonging to the frame\n\t\t\"GetObjectType\", -- Returns the object's widget type\n\t\t\"GetParent\", -- Returns the object's parent object\n\t\t\"GetPoint\", -- Returns information about one of the region's anchor points\n\t\t\"GetPropagateKeyboardInput\", -- Returns whether the frame propagates keyboard events\n\t\t\"GetPushedTextOffset\", -- Returns the offset for moving the button's label text when pushed\n\t\t\"GetPushedTexture\", -- Returns the texture used when the button is pushed\n\t\t\"GetRect\", -- Returns the position and dimensions of the region\n\t\t\"GetRegions\", -- Returns a list of non-frame child regions belonging to the frame\n\t\t\"GetRight\", -- Returns the distance from the left edge of the screen to the right edge of the region\n\t\t\"GetScale\", -- Returns the frame's scale factor\n\t\t\"GetScript\", -- Returns the widget's handler function for a script\n\t\t\"GetSize\", -- Returns the width and height of the region\n\t\t\"GetText\", -- Returns the text of the button's label\n\t\t\"GetTextHeight\", -- Returns the height of the button's text label\n\t\t\"GetTextWidth\", -- Returns the width of the button's text label\n\t\t\"GetTop\", -- Returns the distance from the bottom of the screen to the top of the region\n\t\t\"GetWidth\", -- Returns the width of the region\n\t\t\"HasScript\", -- Returns whether the widget supports a script handler\n\t\t\"Hide\", -- Hides the region\n\t\t\"HookScript\", -- Securely hooks a script handler\n\t\t\"IgnoreDepth\", -- Sets whether the frame's 3D depth property is ignored\n\t\t\"IsClampedToScreen\", -- Returns whether the frame's boundaries are limited to those of the screen\n\t\t\"IsDragging\", -- Returns whether the region is currently being dragged\n\t\t\"IsEnabled\", -- Returns whether user interaction with the button is allowed\n\t\t\"IsEventRegistered\", -- Returns whether the frame is registered for a given event\n\t\t\"IsForbidden\", -- Returns if this widget's methods may only be called from secure execution paths\n\t\t\"IsIgnoringDepth\", -- Returns whether the frame's depth property is ignored\n\t\t\"IsIgnoringParentAlpha\", -- Returns if the region is ignoring it's parent alpha changes\n\t\t\"IsIgnoringParentScale\", -- Returns if the region is ignoring it's parent scale changes\n\t\t\"IsJoystickEnabled\", -- Returns whether joystick interactivity is enabled for the frame\n\t\t\"IsKeyboardEnabled\", -- Returns whether keyboard interactivity is enabled for the frame\n\t\t\"IsMouseClickEnabled\", -- Returns whether mouse click interactivity is enabled for the frame\n\t\t\"IsMouseEnabled\", -- Returns whether mouse interactivity is enabled for the frame\n\t\t\"IsMouseMotionEnabled\", -- Returns whether mouse motion interactivity is enabled for the frame\n\t\t\"IsMouseOver\", -- Returns whether the mouse cursor is over the given region\n\t\t\"IsMouseWheelEnabled\", -- Returns whether mouse wheel interactivity is enabled for the frame\n\t\t\"IsMovable\", -- Returns whether the frame can be moved by the user\n\t\t\"IsObjectLoaded\", -- Returns whether the object is loaded\n\t\t\"IsObjectType\", -- Returns whether the object belongs to a given widget type\n\t\t\"IsProtected\", -- Returns whether the region is protected\n\t\t\"IsRectValid\", -- Returns whether the region's rect size is valid\n\t\t\"IsResizable\", -- Returns whether the frame can be resized by the user\n\t\t\"IsShown\", -- Returns whether the region is shown\n\t\t\"IsToplevel\", -- Returns whether the frame is automatically raised to the front when clicked\n\t\t\"IsUserPlaced\", -- Returns whether the frame is flagged for automatic saving and restoration of position and dimensions\n\t\t\"IsVisible\", -- Returns whether the region is visible\n\t\t\"LockHighlight\", -- Locks the button in it's highlight state\n\t\t\"Lower\", -- Reduces the frame's frame level below all other frames in its strata\n\t\t\"Raise\", -- Increases the frame's frame level above all other frames in its strata\n\t\t\"RegisterAllEvents\", -- Registers the frame for all events\n\t\t\"RegisterEvent\", -- Registers the frame for an event\n\t\t\"RegisterForClicks\", -- Registers a button to receive mouse clicks\n\t\t\"RegisterForDrag\", -- Registers the frame for dragging\n\t\t\"RegisterUnitEvent\", -- Registers the frame for an event for the specified units\n\t\t\"SetAllPoints\", -- Sets all anchor points of the region to match those of another region\n\t\t\"SetAlpha\", -- Sets the opacity of the region relative to it's parent\n\t\t\"SetAttribute\", -- Sets a secure frame attribute\n\t\t\"SetBackdrop\", -- Sets a backdrop graphic for the frame\n\t\t\"SetBackdropBorderColor\", -- Sets a shading color for the frame's border graphic\n\t\t\"SetBackdropColor\", -- Sets a shading color for the frame's background graphic\n\t\t\"SetButtonState\", -- Sets the button's state\n\t\t\"SetChecked\", -- Sets whether the check button is checked\n\t\t\"SetCheckedTexture\", -- Sets the texture used when the button is checked\n\t\t\"SetClampedToScreen\", -- Sets offsets from the frame's edges used when limiting user movement or resizing of the frame\n\t\t\"SetClampRectInsets\", -- Sets whether the frame's boundaries should be limited to those of the screen\n\t\t\"SetClipsChildren\", -- Sets whether the frame's childrens are clipped off when exceeding the it's boundaries\n\t\t\"SetDepth\", -- Sets the 3D depth of the frame\n\t\t\"SetDisabledAtlas\", -- Sets the atlas used when the button is disabled\n\t\t\"SetDisabledCheckedTexture\", -- Sets the texture used when the button is disabled and checked\n\t\t\"SetDisabledFontObject\", -- Sets the font object used for the button's disabled state\n\t\t\"SetDisabledTexture\", -- Sets the texture used when the button is disabled\n\t\t\"SetDontSavePosition\", -- Set whether the position are included for the automatic saving and restoration\n\t\t\"SetEnabled\", -- Enables or disables the widget, allowing or preventing user interaction\n\t\t\"SetFlattensRenderLayers\", -- Sets the frame's childrens to be rendered at the same layer level\n\t\t\"SetFontString\", -- Sets the fontstring object used for the button's label text\n\t\t\"SetForbidden\", -- Sets whether the modification of the object's secure methods are forbidden while in combat\n\t\t\"SetFormattedText\", -- Sets the button's label text using format specifiers\n\t\t\"SetFrameLevel\", -- Sets the level at which the frame is layered relative to others in its strata\n\t\t\"SetFrameStrata\", -- Sets the general layering strata of the frame\n\t\t\"SetHeight\", -- Sets the region's height\n\t\t\"SetHighlightAtlas\", -- Sets the atlas used when the button is highlighted\n\t\t\"SetHighlightFontObject\", -- Sets the font object used when the button is highlighted\n\t\t\"SetHighlightTexture\", -- Sets the texture used when the button is highlighted\n\t\t\"SetHitRectInsets\", -- Sets the insets from the frame's edges which determine its mouse-interactable area\n\t\t\"SetHyperlinksEnabled\", -- Sets whether the hyperlinks in the frame's text are interactive\n\t\t\"SetID\", -- Sets a numeric identifier for the frame\n\t\t\"SetIgnoreParentAlpha\", -- Sets if the region should ignore it's parent alpha changes\n\t\t\"SetIgnoreParentScale\", -- Sets if the region should ignore it's parent scale changes\n\t\t\"SetMaxResize\", -- Sets the maximum size of the frame for user resizing\n\t\t\"SetMinResize\", -- Sets the minimum size of the frame for user resizing\n\t\t\"SetMotionScriptsWhileDisabled\", -- Sets whether the button should fire [OnEnter|OnLeave] scripts while disabled\n\t\t\"SetMouseClickEnabled\", -- Sets whether the frame can be clicked by the mouse\n\t\t\"SetMouseMotionEnabled\", -- Sets whether the frame's mouse motion is enabled\n\t\t\"SetMovable\", -- Sets whether the frame can be moved by the user\n\t\t\"SetNormalAtlas\", -- Sets the atlas used for the button's normal state\n\t\t\"SetNormalFontObject\", -- Sets the font object used for the button's normal state\n\t\t\"SetNormalTexture\", -- Sets the texture used for the button's normal state\n\t\t\"SetParent\", -- Sets another frame the parent of this region\n\t\t\"SetPoint\", -- Sets an anchor point for the region\n\t\t\"SetPropagateKeyboardInput\", -- Sets whether the frame propagates the keyboard events\n\t\t\"SetPushedAtlas\", -- Sets the atlas used when the button is pushed\n\t\t\"SetPushedTextOffset\", -- Sets the offset for moving the button's label text when pushed\n\t\t\"SetPushedTexture\", -- Sets the texture used when the button is pushed\n\t\t\"SetResizable\", -- Sets whether the frame can be resized by the user\n\t\t\"SetScale\", -- Sets the frame's scale factor\n\t\t\"SetScript\", -- Sets the widget's handler function for a script\n\t\t\"SetShown\", -- Sets whether the region should be visible or hidden\n\t\t\"SetSize\", -- Sets the size of the region to the specified values\n\t\t\"SetText\", -- Sets the text displayed as the button's label\n\t\t\"SetToplevel\", -- Sets whether the frame should automatically come to the front when clicked\n\t\t\"SetUserPlaced\", -- Sets the frame for automatic saving and restoration of position and dimensions\n\t\t\"SetWidth\", -- Sets the region's width\n\t\t\"Show\", -- Shows the region\n\t\t\"StartMoving\", -- Begins repositioning the frame via mouse movement\n\t\t\"StartSizing\", -- Begins resizing the frame via mouse movement\n\t\t\"StopAnimating\", -- Stops any active animations involving the region or it's children\n\t\t\"StopMovingOrSizing\", -- Ends movement or resizing of the frame initiated with\n\t\t\"UnlockHighlight\", -- Unlocks the button's highlight state\n\t\t\"UnregisterAllEvents\", -- Unregisters the frame from any events for which it is registered\n\t\t\"UnregisterEvent\", -- Unregisters the frame for an event\n\t},\n}",
+		},
+	]
+}

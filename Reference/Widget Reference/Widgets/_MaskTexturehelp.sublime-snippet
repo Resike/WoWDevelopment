@@ -38,7 +38,7 @@
 		"GetTexture", -- Returns the path to the texture's image file
 		"GetTop", -- Returns the distance from the bottom of the screen to the top of the region
 		"GetVertexColor", -- Returns the shading color of the texture
-		"GetVertexOffset", -- Returns the offset parameters for the texture's shading color
+		"GetVertexOffset", -- Returns the offset parameters for the texture's vertex index
 		"GetVertTile", -- Returns the vertical tiling behaviour of the texture
 		"GetWidth", -- Returns the width of the region
 		"Hide", -- Hides the region
@@ -77,7 +77,7 @@
 		"SetTexCoord", -- Sets corner coordinates for scaling or cropping the texture image
 		"SetTexture", -- Sets the texture object's image
 		"SetVertexColor", -- Sets a color shading for the region's graphics
-		"SetVertexOffset", -- Sets the offset parameters for the texture's shading color
+		"SetVertexOffset", -- Sets the offset parameters for the texture's vertex index
 		"SetVertTile", -- Sets the vertical tiling behaviour for the texture
 		"SetWidth", -- Sets the region's width
 		"Show", -- Shows the region
