@@ -25,7 +25,7 @@ The autocomplete is based on scopes, so no settings are neccessary.
   * Add a commented line in the *lua* file and list the globals with commas: -- GLOBALS: *math, string, table*
 
 # How to highlight globals with Sublime Linter:
-* First install the SublimeLinter package.
+* First install the [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter) package.
 * Then add the path to *luacheck.exe* to your system PATH table, or to the *paths/windows* setting in the Sublime Linter settings:
 "c:\\Users\\UserName\\AppData\\Roaming\\Sublime Text 3\\Packages\\WoWDevelopment\\WoW Global Finder\\"
 * Add *"wow lua": "lua",* to the *syntax_map* in the Sublime Linter settings.
