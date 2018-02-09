@@ -31,7 +31,7 @@
 		},
 		{
 			"trigger": "ScenarioPOIFrame:CreateTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
-			"contents": "${1:ScenarioPOIFrame}:CreateTexture(${2:[\"name\"]}, \"${3:[layer]}\", ${4:[\"inherits\"]}, ${5:[sublevel]})$0",
+			"contents": "${1:ScenarioPOIFrame}:CreateTexture(${2:[\"name\"]}, \"${3:[layer]}\"${4:, ${5:[\"inherits\"]}, ${6:[sublevel]}})$0",
 		},
 		{
 			"trigger": "ScenarioPOIFrame:DisableDrawLayer\t(\"layer\")",
@@ -623,7 +623,7 @@
 		},
 		{
 			"trigger": "_ScenarioPOIFrame:CreateTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
-			"contents": "${1:texture} = ${2:ScenarioPOIFrame}:CreateTexture(${3:[\"name\"]}, \"${4:[layer]}\", ${5:[\"inherits\"]}, ${6:[sublevel]})$0",
+			"contents": "${1:texture} = ${2:ScenarioPOIFrame}:CreateTexture(${3:[\"name\"]}, \"${4:[layer]}\"${5:, ${6:[\"inherits\"]}, ${7:[sublevel]}})$0",
 		},
 		{
 			"trigger": "_ScenarioPOIFrame:DoesClipChildren\t()",

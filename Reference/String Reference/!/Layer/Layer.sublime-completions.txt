@@ -1,0 +1,25 @@
+{
+	"scope": "source.lua string.layertype",
+	"completions": [
+		{
+			"trigger": "BACKGROUND\t\"layer\"",
+			"contents": "BACKGROUND",
+		},
+		{
+			"trigger": "BORDER\t\"layer\"",
+			"contents": "BORDER",
+		},
+		{
+			"trigger": "ARTWORK\t\"layer\"",
+			"contents": "ARTWORK",
+		},
+		{
+			"trigger": "OVERLAY\t\"layer\"",
+			"contents": "OVERLAY",
+		},
+		{
+			"trigger": "HIGHLIGHT\t\"layer\"",
+			"contents": "HIGHLIGHT",
+		},
+	]
+}

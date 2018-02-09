@@ -35,7 +35,7 @@
 		},
 		{
 			"trigger": "Button:CreateTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
-			"contents": "${1:Button}:CreateTexture(${2:[\"name\"]}, \"${3:[layer]}\", ${4:[\"inherits\"]}, ${5:[sublevel]})$0",
+			"contents": "${1:Button}:CreateTexture(${2:[\"name\"]}, \"${3:[layer]}\"${4:, ${5:[\"inherits\"]}, ${6:[sublevel]}})$0",
 		},
 		{
 			"trigger": "Button:Disable\t()",
@@ -739,7 +739,7 @@
 		},
 		{
 			"trigger": "_Button:CreateTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
-			"contents": "${1:texture} = ${2:Button}:CreateTexture(${3:[\"name\"]}, \"${4:[layer]}\", ${5:[\"inherits\"]}, ${6:[sublevel]})$0",
+			"contents": "${1:texture} = ${2:Button}:CreateTexture(${3:[\"name\"]}, \"${4:[layer]}\"${5:, ${6:[\"inherits\"]}, ${7:[sublevel]}})$0",
 		},
 		{
 			"trigger": "_Button:DoesClipChildren\t()",

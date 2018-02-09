@@ -1750,6 +1750,10 @@
 			"contents": "INCOMING_RESURRECT_CHANGED",
 		},
 		{
+			"trigger": "INITIAL_HOTFIXES_APPLIED\t\"event\"",
+			"contents": "INITIAL_HOTFIXES_APPLIED",
+		},
+		{
 			"trigger": "INSPECT_ACHIEVEMENT_READY\t\"event\"",
 			"contents": "INSPECT_ACHIEVEMENT_READY",
 		},

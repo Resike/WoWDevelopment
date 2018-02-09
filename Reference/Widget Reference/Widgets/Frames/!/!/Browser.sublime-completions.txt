@@ -43,7 +43,7 @@
 		},
 		{
 			"trigger": "Browser:CreateTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
-			"contents": "${1:Browser}:CreateTexture(${2:[\"name\"]}, \"${3:[layer]}\", ${4:[\"inherits\"]}, ${5:[sublevel]})$0",
+			"contents": "${1:Browser}:CreateTexture(${2:[\"name\"]}, \"${3:[layer]}\"${4:, ${5:[\"inherits\"]}, ${6:[sublevel]}})$0",
 		},
 		{
 			"trigger": "Browser:DeleteCookies\t()",
@@ -623,7 +623,7 @@
 		},
 		{
 			"trigger": "_Browser:CreateTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
-			"contents": "${1:texture} = ${2:Browser}:CreateTexture(${3:[\"name\"]}, \"${4:[layer]}\", ${5:[\"inherits\"]}, ${6:[sublevel]})$0",
+			"contents": "${1:texture} = ${2:Browser}:CreateTexture(${3:[\"name\"]}, \"${4:[layer]}\"${5:, ${6:[\"inherits\"]}, ${7:[sublevel]}})$0",
 		},
 		{
 			"trigger": "_Browser:DoesClipChildren\t()",
