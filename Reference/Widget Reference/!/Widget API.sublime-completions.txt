@@ -70,38 +70,6 @@
 			"contents": "CanWordWrap()$0",
 		},
 		{
-			"trigger": "CheckButton:GetChecked\t()",
-			"contents": "${1:CheckButton}:GetChecked()$0",
-		},
-		{
-			"trigger": "CheckButton:GetCheckedTexture\t()",
-			"contents": "${1:CheckButton}:GetCheckedTexture()$0",
-		},
-		{
-			"trigger": "CheckButton:GetDisabledCheckedTexture\t()",
-			"contents": "${1:CheckButton}:GetDisabledCheckedTexture()$0",
-		},
-		{
-			"trigger": "CheckButton:SetChecked\t(enable)",
-			"contents": "${1:CheckButton}:SetChecked(${2:enable})$0",
-		},
-		{
-			"trigger": "CheckButton:SetCheckedTexture\t(\"fileName\")",
-			"contents": "${1:CheckButton}:SetCheckedTexture(\"${2:fileName}\")$0",
-		},
-		{
-			"trigger": "CheckButton:SetCheckedTexture\t(texture)",
-			"contents": "${1:CheckButton}:SetCheckedTexture(${2:texture})$0",
-		},
-		{
-			"trigger": "CheckButton:SetDisabledCheckedTexture\t(\"fileName\")",
-			"contents": "${1:CheckButton}:SetDisabledCheckedTexture(\"${2:fileName}\")$0",
-		},
-		{
-			"trigger": "CheckButton:SetDisabledCheckedTexture\t(texture)",
-			"contents": "${1:CheckButton}:SetDisabledCheckedTexture(${2:texture})$0",
-		},
-		{
 			"trigger": "Clear\t()",
 			"contents": "Clear()$0",
 		},
@@ -3201,18 +3169,6 @@
 
 
 
-		{
-			"trigger": "_CheckButton:GetChecked\t()",
-			"contents": "${1:enabled} = ${2:CheckButton}:GetChecked()$0",
-		},
-		{
-			"trigger": "_CheckButton:GetCheckedTexture\t()",
-			"contents": "${1:texture} = ${2:CheckButton}:GetCheckedTexture()$0",
-		},
-		{
-			"trigger": "_CheckButton:GetDisabledCheckedTexture\t()",
-			"contents": "${1:texture} = ${2:CheckButton}:GetDisabledCheckedTexture()$0",
-		},
 		{
 			"trigger": "_ColorSelect:GetColorHSV\t()",
 			"contents": "${1:hue}, ${2:saturation}, ${3:value} = ${4:ColorSelect}:GetColorHSV()$0",

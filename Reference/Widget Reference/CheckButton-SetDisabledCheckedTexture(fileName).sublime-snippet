@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:CheckButton}:SetDisabledCheckedTexture("${2:fileName}")$0]]></content>
-	<tabTrigger>CheckButton:SetDisabledCheckedTexture</tabTrigger>
-	<description>("fileName")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
-</snippet>
