@@ -313,10 +313,20 @@
 		<!-- Layer types -->
 		<dict>
 			<key>match</key>
-			<string>(\s*(,)\s*(['"](BACKGROUND|BORDER|ARTWORK|OVERLAY|HIGHLIGHT|Background|Border|Artwork|Overlay|Highlight|background|border|artwork|overlay|highlight)['"])\s*(,)?\s*)</string>
+			<string>([.:])\s*\b(CreateTexture)\b\s*(\()\s*\b(nil)\b\s*(,)\s*(['"](BACKGROUND|BORDER|ARTWORK|OVERLAY|HIGHLIGHT|Background|Border|Artwork|Overlay|Highlight|background|border|artwork|overlay|highlight)['"])\s*</string>
 			<key>captures</key>
 			<dict>
-				<key>3</key>
+				<key>2</key>
+				<dict>
+					<key>name</key>
+					<string>support.type.widget-api.lua</string>
+				</dict>
+				<key>4</key>
+				<dict>
+					<key>name</key>
+					<string>constant.language.lua</string>
+				</dict>
+				<key>6</key>
 				<dict>
 					<key>name</key>
 					<string>variable.parameter.wow.layertype</string>
@@ -325,10 +335,42 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>(\s*(,)\s*(['"](\w*)['"])\s*(,)?\s*)</string>
+			<string>([.:])\s*\b(CreateTexture)\b\s*(\()\s*(['"]\s*\w*\s*['"])\s*(,)\s*(['"](BACKGROUND|BORDER|ARTWORK|OVERLAY|HIGHLIGHT|Background|Border|Artwork|Overlay|Highlight|background|border|artwork|overlay|highlight)['"])\s*</string>
 			<key>captures</key>
 			<dict>
-				<key>3</key>
+				<key>2</key>
+				<dict>
+					<key>name</key>
+					<string>support.type.widget-api.lua</string>
+				</dict>
+				<key>4</key>
+				<dict>
+					<key>name</key>
+					<string>string.quoted.lua</string>
+				</dict>
+				<key>6</key>
+				<dict>
+					<key>name</key>
+					<string>variable.parameter.wow.layertype</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>([.:])\s*\b(CreateTexture)\b\s*(\()\s*(['"]?\s*\w*\s*['"]?)\s*(,)\s*(['"](\w*)['"])\s*</string>
+			<key>captures</key>
+			<dict>
+				<key>2</key>
+				<dict>
+					<key>name</key>
+					<string>support.type.widget-api.lua</string>
+				</dict>
+				<key>4</key>
+				<dict>
+					<key>name</key>
+					<string>string.quoted.lua</string>
+				</dict>
+				<key>6</key>
 				<dict>
 					<key>name</key>
 					<string>string.layertype</string>
@@ -595,7 +637,7 @@
 		<!-- WoW invalid/removed events -->
 		<dict>
 			<key>match</key>
-			<string>(['"])\b(ARENA_TEAM_INVITE_REQUEST|ARENA_TEAM_ROSTER_UPDATE|ARENA_TEAM_UPDATE|ARTIFACT_COMPLETE|ARTIFACT_DIG_SITE_UPDATED|ARTIFACT_HISTORY_READY|AUTOEQUIP_BIND_CONFIRM|BN_CHAT_CHANNEL_CLOSED|BN_CHAT_CHANNEL_CREATE_FAILED|BN_CHAT_CHANNEL_CREATE_SUCCEEDED|BN_CHAT_CHANNEL_INVITE_FAILED|BN_CHAT_CHANNEL_INVITE_SUCCEEDED|BN_CHAT_CHANNEL_JOINED|BN_CHAT_CHANNEL_LEFT|BN_CHAT_CHANNEL_MEMBER_JOINED|BN_CHAT_CHANNEL_MEMBER_LEFT|BN_CHAT_CHANNEL_MEMBER_UPDATED|BN_CHAT_CHANNEL_MESSAGE_BLOCKED|BN_CHAT_CHANNEL_MESSAGE_UNDELIVERABLE|BN_FRIEND_TOON_OFFLINE|BN_FRIEND_TOON_ONLINE|BN_MATURE_LANGUAGE_FILTER|BN_TOON_NAME_UPDATED|CHARACTER_UPGRADE_COMPLETE|CHAT_MSG_BATTLEGROUND|CHAT_MSG_BATTLEGROUND_LEADER|CHAT_MSG_BN_CONVERSATION|CHAT_MSG_BN_CONVERSATION_LIST|CHAT_MSG_BN_CONVERSATION_NOTICE|CHAT_MSG_COMBAT_GUILD_XP_GAIN|COMMENTATOR_SKIRMISH_MODE_REQUEST|COMMENTATOR_SKIRMISH_QUEUE_REQUEST|ECLIPSE_DIRECTION_CHANGE|FORGE_MASTER_CLOSED|FORGE_MASTER_ITEM_CHANGED|FORGE_MASTER_OPENED|FORGE_MASTER_SET_ITEM|FRIENDLIST_SHOW|GUILD_ROSTER_SHOW|INELIGIBLE_FOR_LOOT|KNOWN_CURRENCY_TYPES_UPDATE|MINIGAME_UPDATE|MINIMAP_ZONE_CHANGED|MISSING_OUT_ON_LOOT|MULTISTRIKE_UPDATE|PLAYER_AVG_ITEM_LEVEL_READY|START_MINIGAME|TRADE_SKILL_UPDATE|TRANSMOGRIFY_BIND_CONFIRM|UNIT_COMBO_POINTS|UNIT_DIED|UNIT_GUILD_LEVEL|UNIT_SPELLCAST_CHANNEL_INTERRUPTED|ZONE_UNDER_ATTACK)\b(['"])</string>
+			<string>(['"])\b(ARENA_TEAM_INVITE_REQUEST|ARENA_TEAM_ROSTER_UPDATE|ARENA_TEAM_UPDATE|ARTIFACT_COMPLETE|ARTIFACT_DIG_SITE_UPDATED|ARTIFACT_HISTORY_READY|AUTOEQUIP_BIND_CONFIRM|BN_CHAT_CHANNEL_CLOSED|BN_CHAT_CHANNEL_CREATE_FAILED|BN_CHAT_CHANNEL_CREATE_SUCCEEDED|BN_CHAT_CHANNEL_INVITE_FAILED|BN_CHAT_CHANNEL_INVITE_SUCCEEDED|BN_CHAT_CHANNEL_JOINED|BN_CHAT_CHANNEL_LEFT|BN_CHAT_CHANNEL_MEMBER_JOINED|BN_CHAT_CHANNEL_MEMBER_LEFT|BN_CHAT_CHANNEL_MEMBER_UPDATED|BN_CHAT_CHANNEL_MESSAGE_BLOCKED|BN_CHAT_CHANNEL_MESSAGE_UNDELIVERABLE|BN_FRIEND_TOON_OFFLINE|BN_FRIEND_TOON_ONLINE|BN_MATURE_LANGUAGE_FILTER|BN_TOON_NAME_UPDATED|CHARACTER_UPGRADE_COMPLETE|CHAT_MSG_BATTLEGROUND|CHAT_MSG_BATTLEGROUND_LEADER|CHAT_MSG_BN_CONVERSATION|CHAT_MSG_BN_CONVERSATION_LIST|CHAT_MSG_BN_CONVERSATION_NOTICE|CHAT_MSG_COMBAT_GUILD_XP_GAIN|COMMENTATOR_SKIRMISH_MODE_REQUEST|COMMENTATOR_SKIRMISH_QUEUE_REQUEST|ECLIPSE_DIRECTION_CHANGE|FORGE_MASTER_CLOSED|FORGE_MASTER_ITEM_CHANGED|FORGE_MASTER_OPENED|FORGE_MASTER_SET_ITEM|FRIENDLIST_SHOW|GUILD_ROSTER_SHOW|INELIGIBLE_FOR_LOOT|KNOWN_CURRENCY_TYPES_UPDATE|MINIGAME_UPDATE|MINIMAP_ZONE_CHANGED|MISSING_OUT_ON_LOOT|MULTISTRIKE_UPDATE|PLAYER_AVG_ITEM_LEVEL_READY|START_MINIGAME|TRADE_SKILL_UPDATE|TRANSMOGRIFY_BIND_CONFIRM|UNIT_COMBO_POINTS|UNIT_GUILD_LEVEL|UNIT_SPELLCAST_CHANNEL_INTERRUPTED|ZONE_UNDER_ATTACK)\b(['"])</string>
 			<key>name</key>
 			<string>invalid.removed</string>
 		</dict>
