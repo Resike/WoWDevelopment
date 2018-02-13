@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:Button}:SetDisabledTexture("${2:fileName}")$0]]></content>
-	<tabTrigger>Button:SetDisabledTexture</tabTrigger>
-	<description>("fileName")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
-</snippet>

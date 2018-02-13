@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:width} = ${2:ColorSelect}:GetWidth()$0]]></content>
+	<tabTrigger>_ColorSelect:GetWidth</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

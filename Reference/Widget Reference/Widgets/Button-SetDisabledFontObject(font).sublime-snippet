@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:Button}:SetDisabledFontObject(${2:font})$0]]></content>
-	<tabTrigger>Button:SetDisabledFontObject</tabTrigger>
-	<description>(font)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
-</snippet>

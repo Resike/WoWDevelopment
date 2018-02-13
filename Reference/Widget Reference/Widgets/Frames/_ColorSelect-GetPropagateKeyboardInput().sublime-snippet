@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:propagate} = ${2:ColorSelect}:GetPropagateKeyboardInput()$0]]></content>
+	<tabTrigger>_ColorSelect:GetPropagateKeyboardInput</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

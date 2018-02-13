@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:Button}:SetHighlightFontObject(${2:font})$0]]></content>
-	<tabTrigger>Button:SetHighlightFontObject</tabTrigger>
-	<description>(font)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
-</snippet>

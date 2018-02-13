@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:Button}:SetButtonState("${2:state}", ${3:lock})$0]]></content>
-	<tabTrigger>Button:SetButtonState</tabTrigger>
-	<description>("state", lock)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
-</snippet>
