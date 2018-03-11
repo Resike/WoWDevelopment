@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[if ${1:foo} then
+	<content><![CDATA[if ${1:x} then
 	${0}
 ${2:end}]]></content>
 	<tabTrigger>if</tabTrigger>

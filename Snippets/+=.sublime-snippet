@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[${1:foo} = $1 + ${2:1}]]></content>
+	<content><![CDATA[${1:x} = $1 + ${2:1}]]></content>
 	<tabTrigger>+=</tabTrigger>
 	<scope>source.lua - string</scope>
 	<description>x = x + y</description>

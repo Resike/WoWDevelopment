@@ -2221,7 +2221,7 @@
 		<!-- C_ToyBox -->
 		<dict>
 			<key>match</key>
-			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_ToyBox)\b(?:(\.)(?:(ForceToyRefilter|GetCollectedShown|GetIsFavorite|GetNumFilteredToys|GetNumLearnedDisplayedToys|GetNumTotalDisplayedToys|GetNumToys|GetToyFromIndex|GetToyInfo|GetToyLink|GetUncollectedShown|GetUnusableShown|HasFavorites|IsExpansionTypeFilterChecked|IsSourceTypeFilterChecked|IsToyUsable|PickupToyBoxItem|SetAllExpansionTypeFilters|SetAllSourceTypeFilters|SetCollectedShown|SetExpansionTypeFilter|SetFilterString|SetIsFavorite|SetSourceTypeFilter|SetUncollectedShown|SetUnusableShown))\b)?</string>
+			<string>(?&lt;!local |^\.|[^.]\.|:)\b(C_ToyBox)\b(?:(\.)(?:(ForceToyRefilter|GetCollectedShown|GetIsFavorite|GetNumFilteredToys|GetNumLearnedDisplayedToys|GetNumTotalDisplayedToys|GetNumToys|GetToyFromIndex|GetToyInfo|GetToyLink|GetUncollectedShown|GetUnusableShown|HasFavorites|IsExpansionTypeFilterChecked|IsSourceTypeFilterChecked|IsToyUsable|PickupToyBoxItem|SetAllExpansionTypeFilters|SetAllSourceTypeFilters|SetCollectedShown|SetExpansionTypeFilter|SetFilterString|SetIsFavorite|SetSourceTypeFilter|SetUncollectedShown|SetUnusableShown)|(ClearAllSourceTypesFiltered|FilterToys|GetFilterCollected|GetFilterUncollected|IsSourceTypeFiltered|SetAllSourceTypesFiltered|SetFilterCollected|SetFilterSourceType|SetFilterUncollected))\b)?</string>
 			<key>captures</key>
 			<dict>
 				<key>1</key>
