@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[]]></content>
+	<tabTrigger>_Cooldown</tabTrigger>
+	<description>help</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

@@ -350,6 +350,10 @@
 			"contents": "${1:ColorSelect}:IsProtected()$0",
 		},
 		{
+			"trigger": "ColorSelect:IsRectValid\t()",
+			"contents": "${1:ColorSelect}:IsRectValid()$0",
+		},
+		{
 			"trigger": "ColorSelect:IsResizable\t()",
 			"contents": "${1:ColorSelect}:IsResizable()$0",
 		},
@@ -472,6 +476,10 @@
 		{
 			"trigger": "ColorSelect:SetFlattensRenderLayers\t(enable)",
 			"contents": "${1:ColorSelect}:SetFlattensRenderLayers(${2:enable})$0",
+		},
+		{
+			"trigger": "ColorSelect:SetForbidden\t()",
+			"contents": "${1:ColorSelect}:SetForbidden()$0",
 		},
 		{
 			"trigger": "ColorSelect:SetFrameLevel\t(level)",
@@ -900,6 +908,10 @@
 		{
 			"trigger": "_ColorSelect:IsProtected\t()",
 			"contents": "${1:isProtected}, ${2:explicit} = ${3:ColorSelect}:IsProtected()$0",
+		},
+		{
+			"trigger": "_ColorSelect:IsRectValid\t()",
+			"contents": "${1:isValid} = ${2:ColorSelect}:IsRectValid()$0",
 		},
 		{
 			"trigger": "_ColorSelect:IsResizable\t()",

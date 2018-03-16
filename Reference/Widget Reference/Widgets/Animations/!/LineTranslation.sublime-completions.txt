@@ -126,6 +126,10 @@
 			"contents": "${1:LineScale}:SetEndDelay(${2:delay})$0",
 		},
 		{
+			"trigger": "LineTranslation:SetForbidden\t()",
+			"contents": "${1:LineTranslation}:SetForbidden()$0",
+		},
+		{
 			"trigger": "LineTranslation:SetOrder\t(order)",
 			"contents": "${1:LineScale}:SetOrder(${2:order})$0",
 		},

@@ -135,9 +135,10 @@
 		"IsMouseOver", -- Returns whether the mouse cursor is over the given region
 		"IsMouseWheelEnabled", -- Returns whether mouse wheel interactivity is enabled for the frame
 		"IsMovable", -- Returns whether the frame can be moved by the user
-		"IsObjectLoaded", -- Returns whether the region is loaded
+		"IsObjectLoaded", -- Returns whether the object is loaded
 		"IsObjectType", -- Returns whether the object belongs to a given widget type
 		"IsProtected", -- Returns whether the region is protected
+		"IsRectValid", -- Returns whether the region's rect size is valid
 		"IsResizable", -- Returns whether the frame can be resized by the user
 		"IsShown", -- Returns whether the region is shown
 		"IsToplevel", -- Returns whether the frame is automatically raised to the front when clicked
@@ -169,6 +170,7 @@
 		"SetEnabled", -- Enables or disables the widget, allowing or preventing user interaction
 		"SetFlattensRenderLayers", -- Sets the frame's childrens to be rendered at the same layer level
 		"SetFontString", -- Sets the fontstring object used for the button's label text
+		"SetForbidden", -- Sets whether the modification of the object's secure methods are forbidden while in combat
 		"SetFormattedText", -- Sets the button's label text using format specifiers
 		"SetFrameLevel", -- Sets the level at which the frame is layered relative to others in its strata
 		"SetFrameStrata", -- Sets the general layering strata of the frame

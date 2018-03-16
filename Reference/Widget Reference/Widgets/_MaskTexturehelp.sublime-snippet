@@ -48,9 +48,10 @@
 		"IsIgnoringParentAlpha", -- Returns if the region is ignoring it's parent alpha changes
 		"IsIgnoringParentScale", -- Returns if the region is ignoring it's parent scale changes
 		"IsMouseOver", -- Returns whether the mouse cursor is over the given region
-		"IsObjectLoaded", -- Returns whether the region is loaded
+		"IsObjectLoaded", -- Returns whether the object is loaded
 		"IsObjectType", -- Returns whether the object belongs to a given widget type
 		"IsProtected", -- Returns whether the region is protected
+		"IsRectValid", -- Returns whether the region's rect size is valid
 		"IsShown", -- Returns whether the region is shown
 		"IsVisible", -- Returns whether the region is visible
 		"SetAllPoints", -- Sets all anchor points of the region to match those of another region
@@ -61,6 +62,7 @@
 		"SetDesaturated", -- Sets whether the texture image should be displayed with zero saturation
 		"SetDesaturation", -- Sets whether the texture image should be displayed with zero saturation
 		"SetDrawLayer", -- Sets the layer at which the region's graphics are drawn relative to others in it's frame
+		"SetForbidden", -- Sets whether the modification of the object's secure methods are forbidden while in combat
 		"SetGradient", -- Sets a gradient color shading for the texture
 		"SetGradientAlpha", -- Sets a gradient color shading and their opacity values for the texture
 		"SetHeight", -- Sets the region's height

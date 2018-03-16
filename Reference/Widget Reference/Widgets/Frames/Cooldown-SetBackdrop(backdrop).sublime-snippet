@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:Cooldown}:SetBackdrop(${2:backdrop})$0]]></content>
+	<tabTrigger>Cooldown:SetBackdrop</tabTrigger>
+	<description>(backdrop)</description>
+	<scope>source.lua - entity - punctuation - keyword - string</scope>
+</snippet>

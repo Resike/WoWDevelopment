@@ -56,9 +56,10 @@
 		"IsIgnoringParentAlpha", -- Returns if the region is ignoring it's parent alpha changes
 		"IsIgnoringParentScale", -- Returns if the region is ignoring it's parent scale changes
 		"IsMouseOver", -- Returns whether the mouse cursor is over the given region
-		"IsObjectLoaded", -- Returns whether the region is loaded
+		"IsObjectLoaded", -- Returns whether the object is loaded
 		"IsObjectType", -- Returns whether the object belongs to a given widget type
 		"IsProtected", -- Returns whether the region is protected
+		"IsRectValid", -- Returns whether the region's rect size is valid
 		"IsShown", -- Returns whether the region is shown
 		"IsTruncated",  -- Returns if the text is truncated
 		"IsVisible", -- Returns whether the region is visible
@@ -68,6 +69,7 @@
 		"SetDrawLayer", -- Sets the layer at which the region's graphics are drawn relative to others in it's frame
 		"SetFont", -- Sets the font instance's basic font properties
 		"SetFontObject", -- Sets the font object from which the font instance's properties are inherited
+		"SetForbidden", -- Sets whether the modification of the object's secure methods are forbidden while in combat
 		"SetFormattedText", -- Sets the text displayed in the font string using format specifiers
 		"SetHeight", -- Sets the region's height
 		"SetIgnoreParentAlpha", -- Sets if the region should ignore it's parent alpha changes

@@ -410,6 +410,10 @@
 			"contents": "${1:CheckButton}:IsProtected()$0",
 		},
 		{
+			"trigger": "CheckButton:IsRectValid\t()",
+			"contents": "${1:CheckButton}:IsRectValid()$0",
+		},
+		{
 			"trigger": "CheckButton:IsResizable\t()",
 			"contents": "${1:CheckButton}:IsResizable()$0",
 		},
@@ -526,8 +530,8 @@
 			"contents": "${1:CheckButton}:SetDisabledCheckedTexture(${2:texture})$0",
 		},
 		{
-			"trigger": "CheckButton:SetDisabledCheckedTexture\t(\"filePath\")",
-			"contents": "${1:CheckButton}:SetDisabledCheckedTexture(\"${2:filePath}\")$0",
+			"trigger": "CheckButton:SetDisabledCheckedTexture\t(\"fileName\")",
+			"contents": "${1:CheckButton}:SetDisabledCheckedTexture(\"${2:fileName}\")$0",
 		},
 		{
 			"trigger": "CheckButton:SetDisabledFontObject\t(font)",
@@ -1096,6 +1100,10 @@
 		{
 			"trigger": "_CheckButton:IsProtected\t()",
 			"contents": "${1:isProtected}, ${2:explicit} = ${3:CheckButton}:IsProtected()$0",
+		},
+		{
+			"trigger": "_CheckButton:IsRectValid\t()",
+			"contents": "${1:isValid} = ${2:CheckButton}:IsRectValid()$0",
 		},
 		{
 			"trigger": "_CheckButton:IsResizable\t()",

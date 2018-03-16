@@ -40,6 +40,7 @@
 		"Pause", -- Pauses animation of the group
 		"Play", -- Starts animating the group
 		"Restart", -- Restarts animating the group
+		"SetForbidden", -- Sets whether the modification of the object's secure methods are forbidden while in combat
 		"SetLooping", -- Sets the looping behavior of the group
 		"SetScript", -- Sets the widget's handler function for a script
 		"SetToFinalAlpha", -- Applies the animations final resulting alpha to all animating regions

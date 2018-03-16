@@ -51,6 +51,7 @@
 		"SetCurve", -- Sets the curve type for the path animation
 		"SetDuration", -- Sets the time for the animation to progress from start to finish
 		"SetEndDelay", -- Sets the amount of time for the animation to delay after finishing
+		"SetForbidden", -- Sets whether the modification of the object's secure methods are forbidden while in combat
 		"SetOrder", -- Sets the order for the animation to play within it's parent group
 		"SetParent", -- Sets another frame the parent of this region
 		"SetScript", -- Sets the widget's handler function for a script

@@ -94,6 +94,14 @@
 			"contents": "${1:VisibleRegion}:IsForbidden()$0",
 		},
 		{
+			"trigger": "VisibleRegion:IsIgnoringParentAlpha\t()",
+			"contents": "${1:VisibleRegion}:IsIgnoringParentAlpha()$0",
+		},
+		{
+			"trigger": "VisibleRegion:IsIgnoringParentScale\t()",
+			"contents": "${1:VisibleRegion}:IsIgnoringParentScale()$0",
+		},
+		{
 			"trigger": "VisibleRegion:IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
 			"contents": "${1:VisibleRegion}:IsMouseOver(${2:[topOffset]}, ${3:[leftOffset]}, ${4:[bottomOffset]}, ${5:[rightOffset]})$0",
 		},
@@ -108,6 +116,10 @@
 		{
 			"trigger": "VisibleRegion:IsProtected\t()",
 			"contents": "${1:VisibleRegion}:IsProtected()$0",
+		},
+		{
+			"trigger": "VisibleRegion:IsRectValid\t()",
+			"contents": "${1:VisibleRegion}:IsRectValid()$0",
 		},
 		{
 			"trigger": "VisibleRegion:IsShown\t()",
@@ -126,8 +138,20 @@
 			"contents": "${1:VisibleRegion}:SetAlpha(${2:alpha})$0",
 		},
 		{
+			"trigger": "VisibleRegion:SetForbidden\t()",
+			"contents": "${1:VisibleRegion}:SetForbidden()$0",
+		},
+		{
 			"trigger": "VisibleRegion:SetHeight\t(height)",
 			"contents": "${1:VisibleRegion}:SetHeight(${2:height})$0",
+		},
+		{
+			"trigger": "VisibleRegion:SetIgnoreParentAlpha\t(enable)",
+			"contents": "${1:VisibleRegion}:SetIgnoreParentAlpha(${2:enable})$0",
+		},
+		{
+			"trigger": "VisibleRegion:SetIgnoreParentScale\t(enable)",
+			"contents": "${1:VisibleRegion}:SetIgnoreParentScale(${2:enable})$0",
 		},
 		{
 			"trigger": "VisibleRegion:SetParent\t(frame)",
@@ -136,6 +160,10 @@
 		{
 			"trigger": "VisibleRegion:SetPoint\t(\"point\", [relativeTo], [\"relativePoint\"], [xOffset], [yOffset])",
 			"contents": "${1:VisibleRegion}:SetPoint(\"${2:point}\", ${3:[relativeTo]}, \"${4:[relativePoint]}\", ${5:[xOffset]}, ${6:[yOffset]})$0",
+		},
+		{
+			"trigger": "VisibleRegion:SetShown\t(enable)",
+			"contents": "${1:VisibleRegion}:SetShown(${2:enable})$0",
 		},
 		{
 			"trigger": "VisibleRegion:SetSize\t(width, height)",
@@ -234,6 +262,14 @@
 			"contents": "${1:isForbidden} = ${2:VisibleRegion}:IsForbidden()$0",
 		},
 		{
+			"trigger": "_VisibleRegion:IsIgnoringParentAlpha\t()",
+			"contents": "${1:isIgnoring} = ${2:VisibleRegion}:IsIgnoringParentAlpha()$0",
+		},
+		{
+			"trigger": "_VisibleRegion:IsIgnoringParentScale\t()",
+			"contents": "${1:isIgnoring} = ${2:VisibleRegion}:IsIgnoringParentScale()$0",
+		},
+		{
 			"trigger": "_VisibleRegion:IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
 			"contents": "${1:isOver} = ${2:VisibleRegion}:IsMouseOver(${3:[topOffset]}, ${4:[leftOffset]}, ${5:[bottomOffset]}, ${6:[rightOffset]})$0",
 		},
@@ -250,6 +286,10 @@
 			"contents": "${1:isProtected}, ${2:explicit} = ${3:VisibleRegion}:IsProtected()$0",
 		},
 		{
+			"trigger": "_VisibleRegion:IsRectValid\t()",
+			"contents": "${1:isValid} = ${2:VisibleRegion}:IsRectValid()$0",
+		},
+		{
 			"trigger": "_VisibleRegion:IsShown\t()",
 			"contents": "${1:shown} = ${2:VisibleRegion}:IsShown()$0",
 		},
@@ -263,7 +303,7 @@
 
 		{
 			"trigger": "_VisibleRegion\thelp",
-			"contents": "VisibleRegion = {\n\tinherits = {\n\t\t\"VisibleRegion\",\n\t\t\"Region\",\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\tmethods = {\n\t\t\"CanChangeProtectedState\", -- Returns whether protected properties of the region can be changed by non-secure scripts\n\t\t\"ClearAllPoints\", -- Removes all anchor points from the region\n\t\t\"CreateAnimationGroup\", -- Creates a new animation group as a child of the region\n\t\t\"GetAlpha\", -- Returns the opacity of the region relative to it's parent\n\t\t\"GetAnimationGroups\", -- Returns a list of animation groups belonging to the region\n\t\t\"GetBottom\", -- Returns the distance from the bottom of the screen to the bottom of the region\n\t\t\"GetCenter\", -- Returns the screen coordinates of the region's center\n\t\t\"GetDebugName\", -- Returns the widget object's debug name\n\t\t\"GetHeight\", -- Returns the height of the region\n\t\t\"GetLeft\", -- Returns the distance from the left edge of the screen to the left edge of the region\n\t\t\"GetName\", -- Returns the widget object's name\n\t\t\"GetNumPoints\", -- Returns the number of anchor points defined for the region\n\t\t\"GetObjectType\", -- Returns the object's widget type\n\t\t\"GetParent\", -- Returns the object's parent object\n\t\t\"GetPoint\", -- Returns information about one of the region's anchor points\n\t\t\"GetRect\", -- Returns the position and dimensions of the region\n\t\t\"GetRight\", -- Returns the distance from the left edge of the screen to the right edge of the region\n\t\t\"GetSize\", -- Returns the width and height of the region\n\t\t\"GetTop\", -- Returns the distance from the bottom of the screen to the top of the region\n\t\t\"GetWidth\", -- Returns the width of the region\n\t\t\"Hide\", -- Hides the region\n\t\t\"IsDragging\", -- Returns whether the region is currently being dragged\n\t\t\"IsForbidden\", -- Returns if this widget's methods may only be called from secure execution paths\n\t\t\"IsMouseOver\", -- Returns whether the mouse cursor is over the given region\n\t\t\"IsObjectLoaded\", -- Returns whether the object belongs to a given widget type\n\t\t\"IsObjectType\", -- Returns whether the object is loaded\n\t\t\"IsProtected\", -- Returns whether the region is protected\n\t\t\"IsShown\", -- Returns whether the region is shown\n\t\t\"IsVisible\", -- Returns whether the region is visible\n\t\t\"SetAllPoints\", -- Sets all anchor points of the region to match those of another region\n\t\t\"SetAlpha\", -- Sets the opacity of the region relative to it's parent\n\t\t\"SetHeight\", -- Sets the region's height\n\t\t\"SetParent\", -- Sets another frame the parent of this region\n\t\t\"SetPoint\", -- Sets an anchor point for the region\n\t\t\"SetSize\", -- Sets the size of the region to the specified values\n\t\t\"SetWidth\", -- Sets the region's width\n\t\t\"Show\", -- Shows the region\n\t\t\"StopAnimating\", -- Stops any active animations involving the region or it's children\n\t},\n}",
+			"contents": "VisibleRegion = {\n\tinherits = {\n\t\t\"VisibleRegion\",\n\t\t\"Region\",\n\t\t\"ParentedObject\",\n\t\t\"UIObject\",\n\t},\n\tmethods = {\n\t\t\"CanChangeProtectedState\", -- Returns whether protected properties of the region can be changed by non-secure scripts\n\t\t\"ClearAllPoints\", -- Removes all anchor points from the region\n\t\t\"CreateAnimationGroup\", -- Creates a new animation group as a child of the region\n\t\t\"GetAlpha\", -- Returns the opacity of the region relative to it's parent\n\t\t\"GetAnimationGroups\", -- Returns a list of animation groups belonging to the region\n\t\t\"GetBottom\", -- Returns the distance from the bottom of the screen to the bottom of the region\n\t\t\"GetCenter\", -- Returns the screen coordinates of the region's center\n\t\t\"GetDebugName\", -- Returns the widget object's debug name\n\t\t\"GetHeight\", -- Returns the height of the region\n\t\t\"GetLeft\", -- Returns the distance from the left edge of the screen to the left edge of the region\n\t\t\"GetName\", -- Returns the widget object's name\n\t\t\"GetNumPoints\", -- Returns the number of anchor points defined for the region\n\t\t\"GetObjectType\", -- Returns the object's widget type\n\t\t\"GetParent\", -- Returns the object's parent object\n\t\t\"GetPoint\", -- Returns information about one of the region's anchor points\n\t\t\"GetRect\", -- Returns the position and dimensions of the region\n\t\t\"GetRight\", -- Returns the distance from the left edge of the screen to the right edge of the region\n\t\t\"GetSize\", -- Returns the width and height of the region\n\t\t\"GetTop\", -- Returns the distance from the bottom of the screen to the top of the region\n\t\t\"GetWidth\", -- Returns the width of the region\n\t\t\"Hide\", -- Hides the region\n\t\t\"IsDragging\", -- Returns whether the region is currently being dragged\n\t\t\"IsForbidden\", -- Returns if this widget's methods may only be called from secure execution paths\n\t\t\"IsIgnoringParentAlpha\", -- Returns if the region is ignoring it's parent alpha changes\n\t\t\"IsIgnoringParentScale\", -- Returns if the region is ignoring it's parent scale changes\n\t\t\"IsMouseOver\", -- Returns whether the mouse cursor is over the given region\n\t\t\"IsObjectLoaded\", -- Returns whether the object is loaded\n\t\t\"IsObjectType\", -- Returns whether the object belongs to a given widget type\n\t\t\"IsProtected\", -- Returns whether the region is protected\n\t\t\"IsRectValid\", -- Returns whether the region's rect size is valid\n\t\t\"IsShown\", -- Returns whether the region is shown\n\t\t\"IsVisible\", -- Returns whether the region is visible\n\t\t\"SetAllPoints\", -- Sets all anchor points of the region to match those of another region\n\t\t\"SetAlpha\", -- Sets the opacity of the region relative to it's parent\n\t\t\"SetForbidden\", -- Sets whether the modification of the object's secure methods are forbidden while in combat\n\t\t\"SetHeight\", -- Sets the region's height\n\t\t\"SetIgnoreParentAlpha\", -- Sets if the region should ignore it's parent alpha changes\n\t\t\"SetIgnoreParentScale\", -- Sets if the region should ignore it's parent scale changes\n\t\t\"SetParent\", -- Sets another frame the parent of this region\n\t\t\"SetPoint\", -- Sets an anchor point for the region\n\t\t\"SetShown\", -- Sets whether the region should be visible or hidden\n\t\t\"SetSize\", -- Sets the size of the region to the specified values\n\t\t\"SetWidth\", -- Sets the region's width\n\t\t\"Show\", -- Shows the region\n\t\t\"StopAnimating\", -- Stops any active animations involving the region or it's children\n\t},\n}",
 		},
 	]
 }

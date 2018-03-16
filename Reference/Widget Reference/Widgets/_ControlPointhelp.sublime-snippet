@@ -14,6 +14,7 @@
 		"GetParent", -- Returns the object's parent object
 		"IsForbidden", -- Returns if this widget's methods may only be called from secure execution paths
 		"IsObjectType", -- Returns whether the object belongs to a given widget type
+		"SetForbidden", -- Sets whether the modification of the object's secure methods are forbidden while in combat
 		"SetOffset", -- Sets the offset for the control point
 		"SetOrder", -- Sets the order for the animation to play within it's parent group
 		"SetParent", -- Sets another frame the parent of this region
