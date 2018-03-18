@@ -1,0 +1,32 @@
+%YAML 1.2
+---
+# http://www.sublimetext.com/docs/3/syntax.html
+name: WoW TOC
+file_extensions:
+  - toc
+scope: source.toc
+contexts:
+  main:
+    - match: "##"
+      push:
+        - meta_scope: keyword.tag.toc
+        - match: (:|\Z)
+          pop: true
+        - match: "[Xx]-([^:]+)"
+          scope: constant.language.tag.custom.toc
+          captures:
+            1: string.toc
+        - match: (?i)(title-|notes-|description-)(enUS|enGB|frFR|deDE|esES|esMX|itIT|ptBR|ruRU|koKR|zhTW|zhCN)
+          comment: localized title/description strings
+          scope: constant.language.tag.localized.toc
+        - match: '(?i)(interface|title|notes|description|requireddeps|\bdep[^:]+|optionaldeps|loadondemand|loadwith|loadmanagers|savedvariablespercharacter|savedvariables|defaultstate|secure|author|version)'
+          comment: known acceptable tag strings
+          scope: constant.language.tag.known.toc
+        - match: '\S[^:]+'
+          comment: Invalid tags highlight as syntax errors
+          scope: invalid.tag.known.toc
+    - match: "^#[^#]+$"
+      comment: Comments
+      scope: comment.source.toc
+      captures:
+        1: comment.source.toc
