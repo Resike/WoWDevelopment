@@ -51,7 +51,7 @@
 		"SetForbidden", -- Sets whether the modification of the object's secure methods are forbidden while in combat
 		"SetFromAlpha", -- Sets the start value from which the alpha of this animation's parent region changes by
 		"SetOrder", -- Sets the order for the animation to play within it's parent group
-		"SetParent", -- Sets another frame the parent of this regihon
+		"SetParent", -- Sets another frame the parent of this region
 		"SetScript", -- Sets the widget's handler function for a script
 		"SetSmoothing", -- Sets the smoothing type for the animation
 		"SetSmoothProgress", -- Sets the progress of the smoothing type for the animation

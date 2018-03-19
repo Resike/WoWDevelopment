@@ -29,6 +29,8 @@ Directives in the file:
 
 --]]
 
+local File = ...
+
 local strmatch = string.match
 local strgmatch = string.gmatch
 local print = print
@@ -36,7 +38,7 @@ local gsub = string.gsub
 local tonumber = tonumber
 local stdin = io.input()
 
-local source = assert(io.open(arg[1]))
+local source = assert(io.open(File))
 
 -- First we parse the source file
 

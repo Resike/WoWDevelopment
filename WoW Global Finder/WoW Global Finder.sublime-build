@@ -1,4 +1,6 @@
 {
 	"cmd": ["$packages/WoWDevelopment/WoW Global Finder/WoW Global Finder.bat", "$file"],
-	"selector": "source.lua"
+	"selector": "source.lua",
+	//"target": "ansi_color_build",
+	//"syntax": "Packages/ANSIescape/ANSI.tmLanguage"
 }
