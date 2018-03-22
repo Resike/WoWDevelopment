@@ -24,16 +24,18 @@ contexts:
         4: variable.parameter.function.lua
         5: punctuation.definition.parameters.end.lua
     # Functions
-    - match: '(?<!local )\b(function)\b\s*(([a-zA-Z_]\w*\s*[.]\s*)*)?\s*([a-zA-Z_]\w*\s*[:])?\s*([a-zA-Z_]\w*)?\s*(\()([^)]*)(\))?'
+    - match: '(?<!local )\b(function)\b\s*((([a-zA-Z_]\w*)\s*([.])\s*)*)?\s*(([a-zA-Z_]\w*)\s*([:]))?\s*([a-zA-Z_]\w*)?\s*(\()([^)]*)(\))?'
       scope: meta.function.lua
       captures:
         1: keyword.control.lua
-        2: entity.name.function.scope.lua
-        4: entity.name.function.scope.lua
-        5: entity.name.function.lua
-        6: punctuation.definition.parameters.begin.lua
-        7: variable.parameter.function.lua
-        8: punctuation.definition.parameters.end.lua
+        2: entity.name.scope.lua
+        5: punctuation.separator.lua
+        6: entity.name.scope.lua
+        8: punctuation.separator.accessor.lua
+        9: entity.name.function.lua
+        10: punctuation.definition.parameters.begin.lua
+        11: variable.parameter.function.lua
+        12: punctuation.definition.parameters.end.lua
     # Multiline comments
     - match: '--\[(=*)\['
       captures:
