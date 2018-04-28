@@ -2,5 +2,5 @@
 	<content><![CDATA[PutItemInBag(${1:container})$0]]></content>
 	<tabTrigger>PutItemInBag</tabTrigger>
 	<description>(container)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

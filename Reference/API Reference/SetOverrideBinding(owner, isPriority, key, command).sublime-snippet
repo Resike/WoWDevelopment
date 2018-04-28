@@ -2,5 +2,5 @@
 	<content><![CDATA[SetOverrideBinding(${1:owner}, ${2:isPriority}, "${3:key}", "${4:command}")$0]]></content>
 	<tabTrigger>SetOverrideBinding</tabTrigger>
 	<description>(owner, isPriority, "key", "command")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

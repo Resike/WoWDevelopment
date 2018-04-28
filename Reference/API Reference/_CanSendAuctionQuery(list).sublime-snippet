@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:canQuery}, ${2:canMassQuery} = CanSendAuctionQuery("${3:list}")$0]]></content>
 	<tabTrigger>_CanSendAuctionQuery</tabTrigger>
 	<description>("list")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

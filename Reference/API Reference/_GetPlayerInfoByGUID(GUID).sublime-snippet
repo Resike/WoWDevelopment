@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:class}, ${2:classFilename}, ${3:race}, ${4:raceFilename}, ${5:sex}, ${6:name}, ${7:realm} = GetPlayerInfoByGUID("${8:GUID}")$0]]></content>
 	<tabTrigger>_GetPlayerInfoByGUID</tabTrigger>
 	<description>("GUID")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

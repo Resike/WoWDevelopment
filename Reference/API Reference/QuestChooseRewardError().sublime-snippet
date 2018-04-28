@@ -2,5 +2,5 @@
 	<content><![CDATA[QuestChooseRewardError()$0]]></content>
 	<tabTrigger>QuestChooseRewardError</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[CheckInteractDistance("${1:unit}", ${2:distIndex})$0]]></content>
 	<tabTrigger>CheckInteractDistance</tabTrigger>
 	<description>("unit", distIndex)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

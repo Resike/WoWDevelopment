@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:consumable} = IsConsumableItem(${2:itemID})$0]]></content>
 	<tabTrigger>_IsConsumableItem</tabTrigger>
 	<description>(itemID)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

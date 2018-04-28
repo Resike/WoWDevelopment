@@ -2,5 +2,5 @@
 	<content><![CDATA[CancelUnitBuff("${1:unit}", "${2:name}", ${3:["rank"]}, ${4:["filter"]})$0]]></content>
 	<tabTrigger>CancelUnitBuff</tabTrigger>
 	<description>("unit", "name", ["rank"], ["filter"])</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

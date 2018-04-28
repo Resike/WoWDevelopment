@@ -2,5 +2,5 @@
 	<content><![CDATA[FlyoutHasSpell(${1:flyoutID}, ${2:spellID})$0]]></content>
 	<tabTrigger>FlyoutHasSpell</tabTrigger>
 	<description>(flyoutID, spellID)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

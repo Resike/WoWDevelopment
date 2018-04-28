@@ -2,5 +2,5 @@
 	<content><![CDATA[FrameXML_Debug(${1:enable})$0]]></content>
 	<tabTrigger>FrameXML_Debug</tabTrigger>
 	<description>(enable)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

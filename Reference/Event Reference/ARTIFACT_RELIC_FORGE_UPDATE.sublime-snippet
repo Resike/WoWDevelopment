@@ -2,5 +2,5 @@
 	<content><![CDATA[ARTIFACT_RELIC_FORGE_UPDATE]]></content>
 	<tabTrigger>ARTIFACT_RELIC_FORGE_UPDATE</tabTrigger>
 	<description>"event"</description>
-	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate - string.cvartype</scope>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate - string.cvartype - string.layertype - string.anchortype - string.template.texture</scope>
 </snippet>

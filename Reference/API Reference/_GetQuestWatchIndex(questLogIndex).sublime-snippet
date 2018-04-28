@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:questWatchIndex} = GetQuestWatchIndex(${2:questLogIndex})$0]]></content>
 	<tabTrigger>_GetQuestWatchIndex</tabTrigger>
 	<description>(questLogIndex)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

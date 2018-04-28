@@ -2,5 +2,5 @@
 	<content><![CDATA[GetArchaeologyRaceInfo(${1:raceIndex})$0]]></content>
 	<tabTrigger>GetArchaeologyRaceInfo</tabTrigger>
 	<description>(raceIndex)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

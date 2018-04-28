@@ -2,5 +2,5 @@
 	<content><![CDATA[CombatLogGetCurrentEntry(${1:[ignoreFilter]})$0]]></content>
 	<tabTrigger>CombatLogGetCurrentEntry</tabTrigger>
 	<description>([ignoreFilter])</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

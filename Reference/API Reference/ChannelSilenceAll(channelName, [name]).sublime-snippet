@@ -2,5 +2,5 @@
 	<content><![CDATA[ChannelSilenceAll("${1:channelName}", ${2:["name"]})$0]]></content>
 	<tabTrigger>ChannelSilenceAll</tabTrigger>
 	<description>("channelName", ["name"])</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

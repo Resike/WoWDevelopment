@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:presenceID}, ${2:givenName}, ${3:surname}, ${4:toonName}, ${5:toonID}, ${6:client}, ${7:isOnline}, ${8:lastOnline}, ${9:isAFK}, ${10:isDND}, ${11:messageText}, ${12:noteText}, ${13:isRIDFriend}, ${14:broadcastTime}, ${15:canSoR} = BNGetFriendInfoByID(${16:presenceID})$0]]></content>
 	<tabTrigger>_BNGetFriendInfoByID</tabTrigger>
 	<description>(presenceID)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

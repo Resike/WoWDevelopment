@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:base}, ${2:posBuff}, ${3:negBuff} = UnitRangedAttackPower("${4:unit}")$0]]></content>
 	<tabTrigger>_UnitRangedAttackPower</tabTrigger>
 	<description>("unit")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

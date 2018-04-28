@@ -2,5 +2,5 @@
 	<content><![CDATA[SetChatWindowName(${1:index}, "${2:name}")$0]]></content>
 	<tabTrigger>SetChatWindowName</tabTrigger>
 	<description>(index, "name")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

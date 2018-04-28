@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:textureKit} = GetUITextureKitInfo(${2:textureKitID})$0]]></content>
 	<tabTrigger>_GetUITextureKitInfo</tabTrigger>
 	<description>(textureKitID)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

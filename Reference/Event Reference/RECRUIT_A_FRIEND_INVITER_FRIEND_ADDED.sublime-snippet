@@ -2,5 +2,5 @@
 	<content><![CDATA[RECRUIT_A_FRIEND_INVITER_FRIEND_ADDED]]></content>
 	<tabTrigger>RECRUIT_A_FRIEND_INVITER_FRIEND_ADDED</tabTrigger>
 	<description>"event"</description>
-	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate - string.cvartype</scope>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate - string.cvartype - string.layertype - string.anchortype - string.template.texture</scope>
 </snippet>

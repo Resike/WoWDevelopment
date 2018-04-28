@@ -2,5 +2,5 @@
 	<content><![CDATA[WrapTextInColorCode("${1:text}", "${2:colorHexString}")$0]]></content>
 	<tabTrigger>WrapTextInColorCode</tabTrigger>
 	<description>(text, colorHexString)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:instanceID}, ${2:name}, ${3:description}, ${4:bgImage}, ${5:buttonImage}, ${6:loreImage}, ${7:dungeonAreaMapID}, ${8:link} = EJ_GetInstanceByIndex(${9:index}, ${10:isRaid})$0]]></content>
 	<tabTrigger>_EJ_GetInstanceByIndex</tabTrigger>
 	<description>(index, isRaid)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[AnimateTexCoords(${1:texture}, ${2:textureWidth}, ${3:textureHeight}, ${4:frameWidth}, ${5:frameHeight}, ${6:numFrames}, ${7:elapsed}, ${8:throttle})$0]]></content>
 	<tabTrigger>AnimateTexCoords</tabTrigger>
 	<description>(texture, textureWidth, textureHeight, frameWidth, frameHeight, numFrames, elapsed, throttle)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

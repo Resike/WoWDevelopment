@@ -2,5 +2,5 @@
 	<content><![CDATA[CanEjectPassengerFromSeat(${1:seat})$0]]></content>
 	<tabTrigger>CanEjectPassengerFromSeat</tabTrigger>
 	<description>(seat)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

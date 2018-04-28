@@ -2,5 +2,5 @@
 	<content><![CDATA[GetMonitorName(${1:monitorIndex})$0]]></content>
 	<tabTrigger>GetMonitorName</tabTrigger>
 	<description>(monitorIndex)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

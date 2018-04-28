@@ -2,5 +2,5 @@
 	<content><![CDATA[SetGuildBankTabPermissions(${1:tab}, ${2:permission}, ${3:enabled})$0]]></content>
 	<tabTrigger>SetGuildBankTabPermissions</tabTrigger>
 	<description>(tab, permission, enabled)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

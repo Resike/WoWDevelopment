@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:base}, ${2:resistance}, ${3:positive}, ${4:negative} = UnitResistance("${5:unit}", ${6:resistanceIndex})$0]]></content>
 	<tabTrigger>_UnitResistance</tabTrigger>
 	<description>("unit", resistanceIndex)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

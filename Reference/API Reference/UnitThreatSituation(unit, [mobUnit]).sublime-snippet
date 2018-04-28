@@ -2,5 +2,5 @@
 	<content><![CDATA[UnitThreatSituation("${1:unit}", ${2:[mobUnit]})$0]]></content>
 	<tabTrigger>UnitThreatSituation</tabTrigger>
 	<description>("unit", [mobUnit])</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

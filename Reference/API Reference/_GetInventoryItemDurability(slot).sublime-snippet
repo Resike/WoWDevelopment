@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:durability}, ${2:max} = GetInventoryItemDurability(${3:slot})$0]]></content>
 	<tabTrigger>_GetInventoryItemDurability</tabTrigger>
 	<description>(slot)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

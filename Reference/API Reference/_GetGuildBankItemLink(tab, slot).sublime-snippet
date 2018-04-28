@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:item} = GetGuildBankItemLink(${2:tab}, ${3:slot})$0]]></content>
 	<tabTrigger>_GetGuildBankItemLink</tabTrigger>
 	<description>(tab, slot)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

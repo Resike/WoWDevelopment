@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:Name}, ${2:Subtext} = GetSpellBookItemName("${3:spellName}")$0]]></content>
 	<tabTrigger>_GetSpellBookItemName</tabTrigger>
 	<description>("spellName")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[GetBattlefieldPortExpiration(${1:index})$0]]></content>
 	<tabTrigger>GetBattlefieldPortExpiration</tabTrigger>
 	<description>(index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

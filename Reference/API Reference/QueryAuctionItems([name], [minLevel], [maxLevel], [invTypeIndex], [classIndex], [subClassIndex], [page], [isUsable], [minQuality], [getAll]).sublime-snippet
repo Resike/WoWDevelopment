@@ -2,5 +2,5 @@
 	<content><![CDATA[QueryAuctionItems(${1:["name"]}, ${2:[minLevel]}, ${3:[maxLevel]}, ${4:[invTypeIndex]}, ${5:[classIndex]}, ${6:[subClassIndex]}, ${7:[page]}, ${8:[isUsable]}, ${9:[minQuality]}, ${10:[getAll]})$0]]></content>
 	<tabTrigger>QueryAuctionItems</tabTrigger>
 	<description>(["name"], [minLevel], [maxLevel], [invTypeIndex], [classIndex], [subClassIndex], [page], [isUsable], [minQuality], [getAll])</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

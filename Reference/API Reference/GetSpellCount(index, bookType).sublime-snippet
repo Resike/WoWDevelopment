@@ -2,5 +2,5 @@
 	<content><![CDATA[GetSpellCount(${1:index}, "${2:bookType}")$0]]></content>
 	<tabTrigger>GetSpellCount</tabTrigger>
 	<description>(index, "bookType")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

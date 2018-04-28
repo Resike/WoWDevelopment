@@ -2,5 +2,5 @@
 	<content><![CDATA[SetChatWindowDocked(${1:index}, ${2:docked})$0]]></content>
 	<tabTrigger>SetChatWindowDocked</tabTrigger>
 	<description>(index, docked)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

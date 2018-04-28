@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:instanceName}, ${2:instanceDesc}, ${3:backgroundTexture}, ${4:buttonTexture}, ${5:titleBackground}, ${6:mapID}, ${7:instanceLink} = EJ_GetInstanceInfo(${8:instanceID})$0]]></content>
 	<tabTrigger>_EJ_GetInstanceInfo</tabTrigger>
 	<description>(instanceID)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

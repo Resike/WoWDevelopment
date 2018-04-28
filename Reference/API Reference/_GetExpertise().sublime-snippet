@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:expertise} = GetExpertise()$0]]></content>
 	<tabTrigger>_GetExpertise</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

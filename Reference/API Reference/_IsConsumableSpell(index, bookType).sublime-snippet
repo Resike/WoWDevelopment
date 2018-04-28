@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:isConsumable} = IsConsumableSpell(${2:index}, "${3:bookType}")$0]]></content>
 	<tabTrigger>_IsConsumableSpell</tabTrigger>
 	<description>(index, "bookType")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

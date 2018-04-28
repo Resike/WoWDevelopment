@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:icon} = GetCoinIcon(${2:amount})$0]]></content>
 	<tabTrigger>_GetCoinIcon</tabTrigger>
 	<description>(amount)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

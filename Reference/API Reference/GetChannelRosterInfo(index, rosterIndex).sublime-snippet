@@ -2,5 +2,5 @@
 	<content><![CDATA[GetChannelRosterInfo(${1:index}, ${2:rosterIndex})$0]]></content>
 	<tabTrigger>GetChannelRosterInfo</tabTrigger>
 	<description>(index, rosterIndex)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

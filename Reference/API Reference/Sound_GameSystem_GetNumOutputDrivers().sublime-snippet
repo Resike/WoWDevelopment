@@ -2,5 +2,5 @@
 	<content><![CDATA[Sound_GameSystem_GetNumOutputDrivers()$0]]></content>
 	<tabTrigger>Sound_GameSystem_GetNumOutputDrivers</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

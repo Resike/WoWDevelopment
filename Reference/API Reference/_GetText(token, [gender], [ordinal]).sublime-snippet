@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:text} = GetText("${2:token}", ${3:[gender]}, ${4:[ordinal]})$0]]></content>
 	<tabTrigger>_GetText</tabTrigger>
 	<description>("token", [gender], [ordinal])</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

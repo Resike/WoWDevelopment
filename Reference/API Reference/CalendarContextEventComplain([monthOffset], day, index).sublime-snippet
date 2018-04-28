@@ -2,5 +2,5 @@
 	<content><![CDATA[CalendarContextEventComplain([monthOffset], day, index)$0]]></content>
 	<tabTrigger>CalendarContextEventComplain</tabTrigger>
 	<description>([monthOffset], day, index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

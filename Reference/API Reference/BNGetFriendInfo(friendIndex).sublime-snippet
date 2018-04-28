@@ -2,5 +2,5 @@
 	<content><![CDATA[BNGetFriendInfo(${1:friendIndex})$0]]></content>
 	<tabTrigger>BNGetFriendInfo</tabTrigger>
 	<description>(friendIndex)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

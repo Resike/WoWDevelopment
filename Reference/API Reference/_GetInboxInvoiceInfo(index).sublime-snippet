@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:invoiceType}, ${2:itemName}, ${3:playerName}, ${4:bid}, ${5:buyout}, ${6:deposit}, ${7:consignment}, ${8:moneyDelay}, ${9:etaHour}, ${10:etaMin} = GetInboxInvoiceInfo(${11:index})$0]]></content>
 	<tabTrigger>_GetInboxInvoiceInfo</tabTrigger>
 	<description>(index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

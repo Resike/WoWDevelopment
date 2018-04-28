@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:bodyText}, ${2:texture}, ${3:isTakeable}, ${4:isInvoice} = GetInboxText(${5:mailID})$0]]></content>
 	<tabTrigger>_GetInboxText</tabTrigger>
 	<description>(mailID)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

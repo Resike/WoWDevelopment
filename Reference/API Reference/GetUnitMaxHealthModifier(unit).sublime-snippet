@@ -2,5 +2,5 @@
 	<content><![CDATA[GetUnitMaxHealthModifier("${1:unit}")$0]]></content>
 	<tabTrigger>GetUnitMaxHealthModifier</tabTrigger>
 	<description>("unit")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

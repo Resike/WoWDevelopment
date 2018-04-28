@@ -2,5 +2,5 @@
 	<content><![CDATA[GetFlyoutSlotInfo(${1:flyoutID}, ${2:slot})$0]]></content>
 	<tabTrigger>GetFlyoutSlotInfo</tabTrigger>
 	<description>(flyoutID, slot)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[LearnTalent(${1:tabIndex}, ${2:talentIndex}, ${3:isPet}, ${4:talentGroup})$0]]></content>
 	<tabTrigger>LearnTalent</tabTrigger>
 	<description>(tabIndex, talentIndex, isPet, talentGroup)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

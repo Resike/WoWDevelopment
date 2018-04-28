@@ -2,5 +2,5 @@
 	<content><![CDATA[ChannelKick("${1:channel}", "${2:fullname}")$0]]></content>
 	<tabTrigger>ChannelKick</tabTrigger>
 	<description>("channel", "fullname")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

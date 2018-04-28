@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:instanceID}, ${2:encounterID}, ${3:sectionID} = EJ_HandleLinkPath(${4:jtype}, ${5:id})$0]]></content>
 	<tabTrigger>_EJ_HandleLinkPath</tabTrigger>
 	<description>(jtype, id)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:cursorX}, ${2:cursorY} = GetCursorPosition()$0]]></content>
 	<tabTrigger>_GetCursorPosition</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

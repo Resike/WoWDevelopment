@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:name}, ${2:subText}, ${3:text}, ${4:texture}, ${5:startTime}, ${6:endTime}, ${7:isTradeSkill}, ${8:castGUID}, ${9:notInterruptible} = UnitCastingInfo("${10:unit}")$0]]></content>
 	<tabTrigger>_UnitCastingInfo</tabTrigger>
 	<description>("unit")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

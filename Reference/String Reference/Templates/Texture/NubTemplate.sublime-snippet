@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NubTemplate]]></content>
+	<tabTrigger>NubTemplate</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

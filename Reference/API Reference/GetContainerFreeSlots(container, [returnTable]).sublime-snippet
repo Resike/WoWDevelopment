@@ -2,5 +2,5 @@
 	<content><![CDATA[GetContainerFreeSlots(${1:container}, ${2:[returnTable]})$0]]></content>
 	<tabTrigger>GetContainerFreeSlots</tabTrigger>
 	<description>(container, [returnTable])</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

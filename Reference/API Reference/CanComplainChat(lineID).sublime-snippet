@@ -2,5 +2,5 @@
 	<content><![CDATA[CanComplainChat(${1:lineID})$0]]></content>
 	<tabTrigger>CanComplainChat</tabTrigger>
 	<description>(lineID)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

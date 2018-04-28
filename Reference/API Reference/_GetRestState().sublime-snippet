@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:state}, ${2:name}, ${3:multiplier} = GetRestState()$0]]></content>
 	<tabTrigger>_GetRestState</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

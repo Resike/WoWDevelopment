@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:success} = RegisterAddonMessagePrefix("${2:prefix}")$0]]></content>
 	<tabTrigger>_RegisterAddonMessagePrefix</tabTrigger>
 	<description>("prefix")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

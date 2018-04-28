@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:ability}, ${2:hasReq} = GetTrainerServiceAbilityReq(${3:index}, ${4:abilityIndex})$0]]></content>
 	<tabTrigger>_GetTrainerServiceAbilityReq</tabTrigger>
 	<description>(index, abilityIndex)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

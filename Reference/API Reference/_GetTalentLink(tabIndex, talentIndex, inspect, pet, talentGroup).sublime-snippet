@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:link} = GetTalentLink(${2:tabIndex}, ${3:talentIndex}, ${4:inspect}, ${5:pet}, ${6:talentGroup})$0]]></content>
 	<tabTrigger>_GetTalentLink</tabTrigger>
 	<description>(tabIndex, talentIndex, inspect, pet, talentGroup)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

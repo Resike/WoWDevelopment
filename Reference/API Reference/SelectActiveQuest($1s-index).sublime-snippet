@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SelectActiveQuest(${1s:index})$0]]></content>
-	<tabTrigger>SelectActiveQuest</tabTrigger>
-	<description>($1s:index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
-</snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[TaxiGetSrcX(${1:source}, ${2:dest})$0]]></content>
 	<tabTrigger>TaxiGetSrcX</tabTrigger>
 	<description>(source, dest)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

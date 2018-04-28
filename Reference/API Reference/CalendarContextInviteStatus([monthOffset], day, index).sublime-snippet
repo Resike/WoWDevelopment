@@ -2,5 +2,5 @@
 	<content><![CDATA[CalendarContextInviteStatus(${1:[monthOffset]}, ${2:day}, ${3:index})$0]]></content>
 	<tabTrigger>CalendarContextInviteStatus</tabTrigger>
 	<description>([monthOffset], day, index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

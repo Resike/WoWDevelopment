@@ -2,5 +2,5 @@
 	<content><![CDATA[GetAddOnInfo(${1:index})$0]]></content>
 	<tabTrigger>GetAddOnInfo</tabTrigger>
 	<description>(index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

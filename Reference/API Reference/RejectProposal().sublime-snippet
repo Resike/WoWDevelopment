@@ -2,5 +2,5 @@
 	<content><![CDATA[RejectProposal()$0]]></content>
 	<tabTrigger>RejectProposal</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

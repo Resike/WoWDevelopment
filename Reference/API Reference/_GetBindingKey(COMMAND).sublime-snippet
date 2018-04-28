@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:key1}, ${2:...} = GetBindingKey("${3:COMMAND}")$0]]></content>
 	<tabTrigger>_GetBindingKey</tabTrigger>
 	<description>("COMMAND")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

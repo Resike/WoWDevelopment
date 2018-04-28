@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:quality} = GetInventoryItemQuality("${2:unit}", ${3:slot})$0]]></content>
 	<tabTrigger>_GetInventoryItemQuality</tabTrigger>
 	<description>("unit", slot)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

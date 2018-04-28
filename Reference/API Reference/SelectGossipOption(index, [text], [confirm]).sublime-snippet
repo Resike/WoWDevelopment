@@ -2,5 +2,5 @@
 	<content><![CDATA[SelectGossipOption(${1:index}, ${2:["text"]}, ${3:[confirm]})$0]]></content>
 	<tabTrigger>SelectGossipOption</tabTrigger>
 	<description>(index, ["text"], [confirm])</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

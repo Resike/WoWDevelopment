@@ -2,5 +2,5 @@
 	<content><![CDATA[SetLFGDungeon(${1:queueIndex})$0]]></content>
 	<tabTrigger>SetLFGDungeon</tabTrigger>
 	<description>(queueIndex)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

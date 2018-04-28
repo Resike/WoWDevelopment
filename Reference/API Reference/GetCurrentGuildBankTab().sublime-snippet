@@ -2,5 +2,5 @@
 	<content><![CDATA[GetCurrentGuildBankTab()$0]]></content>
 	<tabTrigger>GetCurrentGuildBankTab</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

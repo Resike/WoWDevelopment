@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:speed}, ${:2groundSpeed}, ${3:flightSpeed}, ${4:swimSpeed} = GetUnitSpeed(${5:unitID})$0]]></content>
 	<tabTrigger>_GetUnitSpeed</tabTrigger>
 	<description>(unitID)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

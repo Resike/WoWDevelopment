@@ -2,5 +2,5 @@
 	<content><![CDATA[CalendarEventSetStatus(${1:index}, ${2:inviteStatus})$0]]></content>
 	<tabTrigger>CalendarEventSetStatus</tabTrigger>
 	<description>(index, inviteStatus)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:canRename} = PetCanBeRenamed()$0]]></content>
 	<tabTrigger>_PetCanBeRenamed</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

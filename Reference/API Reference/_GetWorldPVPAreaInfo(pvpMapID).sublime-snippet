@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:pvpID}, ${2:localizedName}, ${3:isActive}, ${4:canQueue}, ${5:waitTime}, ${6:canEnter} = GetWorldPVPAreaInfo(${7:pvpMapID})$0]]></content>
 	<tabTrigger>_GetWorldPVPAreaInfo</tabTrigger>
 	<description>(pvpMapID)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

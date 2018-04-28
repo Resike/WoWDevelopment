@@ -2,5 +2,5 @@
 	<content><![CDATA[IsControlKeyDown()$0]]></content>
 	<tabTrigger>IsControlKeyDown</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

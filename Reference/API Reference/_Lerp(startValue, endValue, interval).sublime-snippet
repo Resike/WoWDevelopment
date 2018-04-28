@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:result} = Lerp(${2:startValue}, ${3:endValue}, ${4:interval})$0]]></content>
 	<tabTrigger>_Lerp</tabTrigger>
 	<description>(startValue, endValue, interval)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

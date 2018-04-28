@@ -1,5 +1,5 @@
 {
-	"scope": "source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate - string.cvartype",
+	"scope": "source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate - string.cvartype - string.layertype - string.anchortype - string.template.texture",
 	"completions": [
 		{
 			"trigger": "ACHIEVEMENT_EARNED\t\"event\"",

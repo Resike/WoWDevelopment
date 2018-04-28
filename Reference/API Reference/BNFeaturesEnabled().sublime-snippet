@@ -2,5 +2,5 @@
 	<content><![CDATA[BNFeaturesEnabled()$0]]></content>
 	<tabTrigger>BNFeaturesEnabled</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

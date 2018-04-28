@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:hasRange} = ActionHasRange(${2:slot})$0]]></content>
 	<tabTrigger>_ActionHasRange</tabTrigger>
 	<description>(slot)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

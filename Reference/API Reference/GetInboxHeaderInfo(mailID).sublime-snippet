@@ -2,5 +2,5 @@
 	<content><![CDATA[GetInboxHeaderInfo(${1:mailID})$0]]></content>
 	<tabTrigger>GetInboxHeaderInfo</tabTrigger>
 	<description>(mailID)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

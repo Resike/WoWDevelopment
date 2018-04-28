@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:text}, ${2:type}, ${3:finished} = GetQuestLogLeaderBoard(${4:objective}, ${5:[questIndex]})$0]]></content>
 	<tabTrigger>_GetQuestLogLeaderBoard</tabTrigger>
 	<description>(objective, [questIndex])</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[FormatPaperDollTooltipStat("${1:name}", ${2:base}, ${3:posBuff}, ${4:negBuff})$0]]></content>
 	<tabTrigger>FormatPaperDollTooltipStat</tabTrigger>
 	<description>("name", base, posBuff, negBuff)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:value} = GetCVarDefault("${2:CVar}")$0]]></content>
 	<tabTrigger>_GetCVarDefault</tabTrigger>
 	<description>("CVar")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -1,0 +1,77 @@
+{
+	"scope": "source.lua string.anchortype",
+	"completions": [
+		{
+			"trigger": "BOTTOM\t\"anchor\"",
+			"contents": "BOTTOM",
+		},
+		{
+			"trigger": "B\t\"BOTTOM\"",
+			"contents": "BOTTOM",
+		},
+		{
+			"trigger": "BOTTOMLEFT\t\"anchor\"",
+			"contents": "BOTTOMLEFT",
+		},
+		{
+			"trigger": "BL\t\"BOTTOMLEFT\"",
+			"contents": "BOTTOMLEFT",
+		},
+		{
+			"trigger": "BOTTOMRIGHT\t\"anchor\"",
+			"contents": "BOTTOMRIGHT",
+		},
+		{
+			"trigger": "BR\t\"BOTTOMRIGHT\"",
+			"contents": "BOTTOMRIGHT",
+		},
+		{
+			"trigger": "CENTER\t\"anchor\"",
+			"contents": "CENTER",
+		},
+		{
+			"trigger": "C\t\"CENTER\"",
+			"contents": "CENTER",
+		},
+		{
+			"trigger": "LEFT\t\"anchor\"",
+			"contents": "LEFT",
+		},
+		{
+			"trigger": "L\t\"LEFT\"",
+			"contents": "LEFT",
+		},
+		{
+			"trigger": "RIGHT\t\"anchor\"",
+			"contents": "RIGHT",
+		},
+		{
+			"trigger": "R\t\"RIGHT\"",
+			"contents": "RIGHT",
+		},
+		{
+			"trigger": "TOP\t\"anchor\"",
+			"contents": "TOP",
+		},
+		{
+			"trigger": "T\t\"TOP\"",
+			"contents": "TOP",
+		},
+		{
+			"trigger": "TOPLEFT\t\"anchor\"",
+			"contents": "TOPLEFT",
+		},
+		{
+			"trigger": "TL\t\"TOPLEFT\"",
+			"contents": "TOPLEFT",
+		},
+		{
+			"trigger": "TOPRIGHT\t\"anchor\"",
+			"contents": "TOPRIGHT",
+		},
+		{
+			"trigger": "TR\t\"TOPRIGHT\"",
+			"contents": "TOPRIGHT",
+		},
+	]
+}

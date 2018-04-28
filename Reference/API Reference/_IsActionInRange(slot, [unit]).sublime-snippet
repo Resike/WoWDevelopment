@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:inRange} = IsActionInRange(${2:slot}, ${3:["unit"]})$0]]></content>
 	<tabTrigger>_IsActionInRange</tabTrigger>
 	<description>(slot, ["unit"])</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

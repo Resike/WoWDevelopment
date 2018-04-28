@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HealAbsorbBarRightShadowTemplate]]></content>
+	<tabTrigger>HealAbsorbBarRightShadowTemplate</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

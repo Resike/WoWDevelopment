@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:vehicleX}, ${2:vehicleY}, ${3:unitName}, ${4:isPossessed}, ${5:vehicleType}, ${6:orientation}, ${7:isPlayer}, ${8:isAlive} = GetBattlefieldVehicleInfo(${9:index})$0]]></content>
 	<tabTrigger>_GetBattlefieldVehicleInfo</tabTrigger>
 	<description>(index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

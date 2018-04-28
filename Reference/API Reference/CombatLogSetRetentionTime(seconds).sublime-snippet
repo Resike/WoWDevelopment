@@ -2,5 +2,5 @@
 	<content><![CDATA[CombatLogSetRetentionTime(${1:seconds})$0]]></content>
 	<tabTrigger>CombatLogSetRetentionTime</tabTrigger>
 	<description>(seconds)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

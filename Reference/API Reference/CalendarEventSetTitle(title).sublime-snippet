@@ -2,5 +2,5 @@
 	<content><![CDATA[CalendarEventSetTitle("${1:title}")$0]]></content>
 	<tabTrigger>CalendarEventSetTitle</tabTrigger>
 	<description>("title")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

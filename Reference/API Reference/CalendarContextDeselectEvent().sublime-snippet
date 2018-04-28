@@ -2,5 +2,5 @@
 	<content><![CDATA[CalendarContextDeselectEvent()$0]]></content>
 	<tabTrigger>CalendarContextDeselectEvent</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

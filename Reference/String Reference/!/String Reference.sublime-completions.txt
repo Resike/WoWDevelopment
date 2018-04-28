@@ -1,5 +1,5 @@
 {
-	"scope": "source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate - string.cvartype",
+	"scope": "source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate - string.cvartype - string.layertype - string.anchortype - string.template.texture",
 	"completions": [
 		{
 			"trigger": "Button4\t\"button\"",
@@ -67,84 +67,12 @@
 
 
 		{
-			"trigger": "BOTTOM\t\"anchor\"",
-			"contents": "BOTTOM",
-		},
-		{
-			"trigger": "B\t\"BOTTOM\"",
-			"contents": "BOTTOM",
-		},
-		{
-			"trigger": "BOTTOMLEFT\t\"anchor\"",
-			"contents": "BOTTOMLEFT",
-		},
-		{
-			"trigger": "BL\t\"BOTTOMLEFT\"",
-			"contents": "BOTTOMLEFT",
-		},
-		{
-			"trigger": "BOTTOMRIGHT\t\"anchor\"",
-			"contents": "BOTTOMRIGHT",
-		},
-		{
-			"trigger": "BR\t\"BOTTOMRIGHT\"",
-			"contents": "BOTTOMRIGHT",
-		},
-		{
-			"trigger": "CENTER\t\"anchor\"",
-			"contents": "CENTER",
-		},
-		{
-			"trigger": "C\t\"CENTER\"",
-			"contents": "CENTER",
-		},
-		{
-			"trigger": "LEFT\t\"anchor\"",
-			"contents": "LEFT",
-		},
-		{
-			"trigger": "L\t\"LEFT\"",
-			"contents": "LEFT",
-		},
-		{
 			"trigger": "MIDDLE\t\"anchor\"",
 			"contents": "MIDDLE",
 		},
 		{
 			"trigger": "M\t\"MIDDLE\"",
 			"contents": "MIDDLE",
-		},
-		{
-			"trigger": "RIGHT\t\"anchor\"",
-			"contents": "RIGHT",
-		},
-		{
-			"trigger": "R\t\"RIGHT\"",
-			"contents": "RIGHT",
-		},
-		{
-			"trigger": "TOP\t\"anchor\"",
-			"contents": "TOP",
-		},
-		{
-			"trigger": "T\t\"TOP\"",
-			"contents": "TOP",
-		},
-		{
-			"trigger": "TOPLEFT\t\"anchor\"",
-			"contents": "TOPLEFT",
-		},
-		{
-			"trigger": "TL\t\"TOPLEFT\"",
-			"contents": "TOPLEFT",
-		},
-		{
-			"trigger": "TOPRIGHT\t\"anchor\"",
-			"contents": "TOPRIGHT",
-		},
-		{
-			"trigger": "TR\t\"TOPRIGHT\"",
-			"contents": "TOPRIGHT",
 		},
 
 
@@ -161,30 +89,6 @@
 		{
 			"trigger": "THICKOUTLINE\t\"fontFlag\"",
 			"contents": "THICKOUTLINE",
-		},
-
-
-
-
-		{
-			"trigger": "ARTWORK\t\"layer\"",
-			"contents": "ARTWORK",
-		},
-		{
-			"trigger": "BACKGROUND\t\"layer\"",
-			"contents": "BACKGROUND",
-		},
-		{
-			"trigger": "BORDER\t\"layer\"",
-			"contents": "BORDER",
-		},
-		{
-			"trigger": "HIGHLIGHT\t\"layer\"",
-			"contents": "HIGHLIGHT",
-		},
-		{
-			"trigger": "OVERLAY\t\"layer\"",
-			"contents": "OVERLAY",
 		},
 	]
 }

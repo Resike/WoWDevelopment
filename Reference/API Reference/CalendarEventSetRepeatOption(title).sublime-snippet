@@ -2,5 +2,5 @@
 	<content><![CDATA[CalendarEventSetRepeatOption(${1:title})$0]]></content>
 	<tabTrigger>CalendarEventSetRepeatOption</tabTrigger>
 	<description>(title)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

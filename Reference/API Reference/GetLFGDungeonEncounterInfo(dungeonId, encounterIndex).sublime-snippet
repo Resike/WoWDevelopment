@@ -2,5 +2,5 @@
 	<content><![CDATA[GetLFGDungeonEncounterInfo(${1:dungeonId}, ${2:encounterIndex})$0]]></content>
 	<tabTrigger>GetLFGDungeonEncounterInfo</tabTrigger>
 	<description>(dungeonId, encounterIndex)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

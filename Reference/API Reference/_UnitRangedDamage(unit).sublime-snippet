@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:rangedAttackSpeed}, ${2:minDamage}, ${3:maxDamage}, ${4:physicalBonusPos}, ${5:physicalBonusNeg}, ${6:percent} = UnitRangedDamage("${7:unit}")$0]]></content>
 	<tabTrigger>_UnitRangedDamage</tabTrigger>
 	<description>("unit")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[SetLootMethod("${1:method}", ${2:["master"]})$0]]></content>
 	<tabTrigger>SetLootMethod</tabTrigger>
 	<description>("method", ["master"])</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

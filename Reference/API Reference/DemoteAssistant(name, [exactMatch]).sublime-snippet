@@ -2,5 +2,5 @@
 	<content><![CDATA[DemoteAssistant("${1:name}", [exactMatch])$0]]></content>
 	<tabTrigger>DemoteAssistant</tabTrigger>
 	<description>("name", [exactMatch])</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

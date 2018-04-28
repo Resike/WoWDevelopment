@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MapCanvasDebugTriggerAreaTemplate]]></content>
+	<tabTrigger>MapCanvasDebugTriggerAreaTemplate</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

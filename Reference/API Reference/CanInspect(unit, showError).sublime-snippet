@@ -2,5 +2,5 @@
 	<content><![CDATA[CanInspect("${1:unit}", ${2:showError})$0]]></content>
 	<tabTrigger>CanInspect</tabTrigger>
 	<description>("unit", showError)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

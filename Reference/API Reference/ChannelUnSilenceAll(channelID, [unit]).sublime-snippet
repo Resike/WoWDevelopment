@@ -2,5 +2,5 @@
 	<content><![CDATA[ChannelUnSilenceAll(${1:channelID}, ${2:["unit"]})$0]]></content>
 	<tabTrigger>ChannelUnSilenceAll</tabTrigger>
 	<description>(channelID, ["unit"])</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

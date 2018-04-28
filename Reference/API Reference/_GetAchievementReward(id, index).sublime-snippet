@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:points} = GetAchievementReward(${2:id}, ${3:index})$0]]></content>
 	<tabTrigger>_GetAchievementReward</tabTrigger>
 	<description>(id, index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

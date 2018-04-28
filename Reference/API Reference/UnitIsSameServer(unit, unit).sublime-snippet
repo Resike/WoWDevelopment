@@ -2,5 +2,5 @@
 	<content><![CDATA[UnitIsSameServer("${1:unit}", "${2:unit}")$0]]></content>
 	<tabTrigger>UnitIsSameServer</tabTrigger>
 	<description>("unit", "unit")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

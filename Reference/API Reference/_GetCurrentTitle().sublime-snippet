@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:currentTitle} = GetCurrentTitle()$0]]></content>
 	<tabTrigger>_GetCurrentTitle</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

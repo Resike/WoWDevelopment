@@ -2,5 +2,5 @@
 	<content><![CDATA[JoinBattlefield(${1:index}, ${2:asGroup})$0]]></content>
 	<tabTrigger>JoinBattlefield</tabTrigger>
 	<description>(index, asGroup)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

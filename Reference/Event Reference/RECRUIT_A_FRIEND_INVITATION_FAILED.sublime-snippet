@@ -2,5 +2,5 @@
 	<content><![CDATA[RECRUIT_A_FRIEND_INVITATION_FAILED]]></content>
 	<tabTrigger>RECRUIT_A_FRIEND_INVITATION_FAILED</tabTrigger>
 	<description>"event"</description>
-	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate - string.cvartype</scope>
+	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate - string.cvartype - string.layertype - string.anchortype - string.template.texture</scope>
 </snippet>

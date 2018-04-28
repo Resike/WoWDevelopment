@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:minDamage}, ${2:maxDamage}, ${3:minOffHandDamage}, ${4:maxOffHandDamage}, ${5:physicalBonusPos}, ${6:physicalBonusNeg}, ${7:percent} = UnitDamage("${8:unit}")$0]]></content>
 	<tabTrigger>_UnitDamage</tabTrigger>
 	<description>("unit")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

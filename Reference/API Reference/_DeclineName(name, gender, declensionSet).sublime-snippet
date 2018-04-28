@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:genitive}, ${2:dative}, ${3:accusative}, ${4:instrumental}, ${5:prepositional} = DeclineName("${6:name}", ${7:gender}, ${8:declensionSet})$0]]></content>
 	<tabTrigger>_DeclineName</tabTrigger>
 	<description>("name", gender, declensionSet)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:questPortrait}, ${2:questPortraitText}, ${3:questPortraitName} = GetQuestPortraitGiver()$0]]></content>
 	<tabTrigger>_GetQuestPortraitGiver</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

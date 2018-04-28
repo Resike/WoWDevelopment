@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:statTable} = GetItemStatDelta("${2:item1Link}", "${3:item2Link}", ${4:[returnTable]})$0]]></content>
 	<tabTrigger>_GetItemStatDelta</tabTrigger>
 	<description>("item1Link", "item2Link", [returnTable])</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

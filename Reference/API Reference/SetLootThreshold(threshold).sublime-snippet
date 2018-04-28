@@ -2,5 +2,5 @@
 	<content><![CDATA[SetLootThreshold(${1:threshold})$0]]></content>
 	<tabTrigger>SetLootThreshold</tabTrigger>
 	<description>(threshold)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

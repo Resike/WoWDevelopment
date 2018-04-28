@@ -2,5 +2,5 @@
 	<content><![CDATA[FormatProfession(${1:frame}, ${2:index})$0]]></content>
 	<tabTrigger>FormatProfession</tabTrigger>
 	<description>(frame, index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

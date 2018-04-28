@@ -1,5 +1,5 @@
 {
-	"scope": "source.lua - entity - punctuation - keyword - string",
+	"scope": "source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua",
 	"completions": [
 		{
 			"trigger": "AbandonQuest\t()",
@@ -5646,8 +5646,8 @@
 			"contents": "SecureCmdOptionParse(\"${1:cmd}\")$0",
 		},
 		{
-			"trigger": "SelectActiveQuest\t($1s:index)",
-			"contents": "SelectActiveQuest(${1s:index})$0",
+			"trigger": "SelectActiveQuest\t(index)",
+			"contents": "SelectActiveQuest(${1:index})$0",
 		},
 		{
 			"trigger": "SelectAvailableQuest\t(index)",

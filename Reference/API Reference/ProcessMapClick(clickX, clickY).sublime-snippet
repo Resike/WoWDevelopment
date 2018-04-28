@@ -2,5 +2,5 @@
 	<content><![CDATA[ProcessMapClick(${1:clickX}, ${2:clickY})$0]]></content>
 	<tabTrigger>ProcessMapClick</tabTrigger>
 	<description>(clickX, clickY)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:success} = SetBindingItem("${2:key}", ${3:itemID})$0]]></content>
 	<tabTrigger>_SetBindingItem</tabTrigger>
 	<description>("key", itemID)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

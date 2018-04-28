@@ -2,5 +2,5 @@
 	<content><![CDATA[GetMerchantItemCostItem(${1:index}, ${2:currency})$0]]></content>
 	<tabTrigger>GetMerchantItemCostItem</tabTrigger>
 	<description>(index, currency)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

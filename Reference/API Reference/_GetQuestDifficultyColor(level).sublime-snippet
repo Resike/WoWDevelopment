@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:color} = GetQuestDifficultyColor(${2:level})$0]]></content>
 	<tabTrigger>_GetQuestDifficultyColor</tabTrigger>
 	<description>(level)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

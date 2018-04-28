@@ -2,5 +2,5 @@
 	<content><![CDATA[GMSurveyAnswerSubmit(${1:question}, ${2:rank}, "${3:comment}")$0]]></content>
 	<tabTrigger>GMSurveyAnswerSubmit</tabTrigger>
 	<description>(question, rank, "comment")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

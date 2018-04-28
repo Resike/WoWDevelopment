@@ -2,5 +2,5 @@
 	<content><![CDATA[CalendarMassInviteGuild(${1:minLevel}, ${2:maxLevel}, ${3:rank})$0]]></content>
 	<tabTrigger>CalendarMassInviteGuild</tabTrigger>
 	<description>(minLevel, maxLevel, rank)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

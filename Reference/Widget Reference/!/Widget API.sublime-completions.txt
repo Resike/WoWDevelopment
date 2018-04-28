@@ -191,7 +191,7 @@
 		},
 		{
 			"trigger": "CreateTexture\t([\"name\"], [\"layer\"], [\"inherits\"], [sublevel])",
-			"contents": "CreateTexture(${1:[\"name\"]}, \"${2:[layer]}\"${3:, ${4:[\"inherits\"]}, ${5:[sublevel]}})$0",
+			"contents": "CreateTexture(${1:[\"name\"]}${2:, \"${3:[layer]}\"${4:, \"${5:[inherits]}\"${6:, ${7:[sublevel]}}}})$0",
 		},
 		{
 			"trigger": "CreateTitleRegion\t()",

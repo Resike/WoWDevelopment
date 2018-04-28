@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:controlType}, ${2:occupantName}, ${3:occupantRealm}, ${4:canEject}, ${5:canSwitchSeats} = UnitVehicleSeatInfo("${6:unit}", ${7:seat})$0]]></content>
 	<tabTrigger>_UnitVehicleSeatInfo</tabTrigger>
 	<description>("unit", seat)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

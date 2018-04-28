@@ -2,5 +2,5 @@
 	<content><![CDATA[GetGuildCharterCost()$0]]></content>
 	<tabTrigger>GetGuildCharterCost</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

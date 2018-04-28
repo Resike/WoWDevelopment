@@ -2,5 +2,5 @@
 	<content><![CDATA[ConfirmReadyCheck(${1:ready})$0]]></content>
 	<tabTrigger>ConfirmReadyCheck</tabTrigger>
 	<description>(ready)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

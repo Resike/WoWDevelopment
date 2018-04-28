@@ -2,5 +2,5 @@
 	<content><![CDATA[IsModifiedClick("${1:type}")$0]]></content>
 	<tabTrigger>IsModifiedClick</tabTrigger>
 	<description>("type")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

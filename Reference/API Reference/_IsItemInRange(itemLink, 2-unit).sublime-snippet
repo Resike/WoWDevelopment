@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:inRange} = IsItemInRange("${1:itemLink}", "2:unit}")$0]]></content>
 	<tabTrigger>_IsItemInRange</tabTrigger>
 	<description>("itemLink", "2:unit")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

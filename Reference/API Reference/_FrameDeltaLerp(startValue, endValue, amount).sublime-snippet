@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:result} = FrameDeltaLerp(${2:startValue}, ${3:endValue}, ${4:amount})$0]]></content>
 	<tabTrigger>_FrameDeltaLerp</tabTrigger>
 	<description>(startValue, endValue, amount)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

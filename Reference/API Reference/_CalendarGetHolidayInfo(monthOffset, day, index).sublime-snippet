@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:name}, ${2:description}, ${3:texture} = CalendarGetHolidayInfo(${4:monthOffset}, ${5:day}, ${6:index})$0]]></content>
 	<tabTrigger>_CalendarGetHolidayInfo</tabTrigger>
 	<description>(monthOffset, day, index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

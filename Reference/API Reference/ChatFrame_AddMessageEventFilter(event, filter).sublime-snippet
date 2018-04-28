@@ -2,5 +2,5 @@
 	<content><![CDATA[ChatFrame_AddMessageEventFilter("${1:event}", ${2:filter})$0]]></content>
 	<tabTrigger>ChatFrame_AddMessageEventFilter</tabTrigger>
 	<description>("event", filter)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

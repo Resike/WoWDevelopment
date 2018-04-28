@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:name}, ${2:rank2}, ${3:icon}, ${4:powerCost}, ${5:isFunnel}, ${6:powerType}, ${7:castingTime}, ${8:minRange}, ${9:maxRange} = GetSpellInfo(${10:id})$0]]></content>
 	<tabTrigger>_GetSpellInfo</tabTrigger>
 	<description>(id)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

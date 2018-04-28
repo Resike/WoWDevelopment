@@ -2,5 +2,5 @@
 	<content><![CDATA[GetSpecializationSpells(${1:specIndex}, ${2:[isInspect]}, ${3:[isPet]})$0]]></content>
 	<tabTrigger>GetSpecializationSpells</tabTrigger>
 	<description>(specIndex, [isInspect], [isPet])</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

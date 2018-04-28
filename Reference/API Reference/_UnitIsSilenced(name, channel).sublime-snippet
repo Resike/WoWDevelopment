@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:silenced} = UnitIsSilenced("${2:name}", "${3:channel}")$0]]></content>
 	<tabTrigger>_UnitIsSilenced</tabTrigger>
 	<description>("name", "channel")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

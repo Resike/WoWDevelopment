@@ -2,5 +2,5 @@
 	<content><![CDATA[ConfirmLootRoll(${1:id}, ${2:rollType})$0]]></content>
 	<tabTrigger>ConfirmLootRoll</tabTrigger>
 	<description>(id, rollType)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

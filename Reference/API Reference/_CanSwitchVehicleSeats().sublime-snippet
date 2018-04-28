@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:canSwitch} = CanSwitchVehicleSeats()$0]]></content>
 	<tabTrigger>_CanSwitchVehicleSeats</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

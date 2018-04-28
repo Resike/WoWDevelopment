@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:x1}, ${2:x2}, ${3:y1}, ${4:y2} = GetPOITextureCoords(${5:textureIndex})$0]]></content>
 	<tabTrigger>_GetPOITextureCoords</tabTrigger>
 	<description>(textureIndex)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[GetFunctionCPUUsage(${1:func}, ${2:includeSubroutines})$0]]></content>
 	<tabTrigger>GetFunctionCPUUsage</tabTrigger>
 	<description>(func, includeSubroutines)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

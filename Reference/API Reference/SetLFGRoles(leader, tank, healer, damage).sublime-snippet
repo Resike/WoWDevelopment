@@ -2,5 +2,5 @@
 	<content><![CDATA[SetLFGRoles(${1:leader}, ${2:tank}, ${3:healer}, ${4:damage})$0]]></content>
 	<tabTrigger>SetLFGRoles</tabTrigger>
 	<description>(leader, tank, healer, damage)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

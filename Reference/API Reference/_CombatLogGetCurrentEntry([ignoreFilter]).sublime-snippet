@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:timestamp}, ${2:event}, ${3:srcGUID}, ${4:srcName}, ${5:srcFlags}, ${6:destGUID}, ${7:destName}, ${8:destFlags}, ${9:...} = CombatLogGetCurrentEntry(${10:[ignoreFilter]})$0]]></content>
 	<tabTrigger>_CombatLogGetCurrentEntry</tabTrigger>
 	<description>([ignoreFilter])</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

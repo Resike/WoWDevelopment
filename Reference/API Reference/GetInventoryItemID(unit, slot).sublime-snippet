@@ -2,5 +2,5 @@
 	<content><![CDATA[GetInventoryItemID("${1:unit}", ${2:slot})$0]]></content>
 	<tabTrigger>GetInventoryItemID</tabTrigger>
 	<description>("unit", slot)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

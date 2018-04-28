@@ -2,5 +2,5 @@
 	<content><![CDATA[GMSurveySubmit()$0]]></content>
 	<tabTrigger>GMSurveySubmit</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:name}, ${2:level}, ${3:areaName}, ${4:className}, ${5:comment}, ${6:partyMembers}, ${7:status}, ${8:class}, ${9:encountersTotal}, ${10:encountersComplete}, ${11:isIneligible}, ${12:isLeader}, ${13:isTank}, ${14:isHealer}, ${15:isDamage} = SearchLFGGetResults(${16:index})$0]]></content>
 	<tabTrigger>_SearchLFGGetResults</tabTrigger>
 	<description>(index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

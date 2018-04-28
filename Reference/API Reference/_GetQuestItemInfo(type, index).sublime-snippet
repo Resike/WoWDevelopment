@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:name}, ${2:texture}, ${3:numItems}, ${4:quality}, ${5:isUsable} = GetQuestItemInfo("${6:type}", ${7:index})$0]]></content>
 	<tabTrigger>_GetQuestItemInfo</tabTrigger>
 	<description>("type", index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

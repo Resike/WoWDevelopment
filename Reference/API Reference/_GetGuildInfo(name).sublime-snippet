@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:guildName}, ${2:guildRankName}, ${3:guildRankIndex} = GetGuildInfo("name")$0]]></content>
 	<tabTrigger>_GetGuildInfo</tabTrigger>
 	<description>("name")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

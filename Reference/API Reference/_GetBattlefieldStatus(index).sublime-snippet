@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:status}, ${2:mapName}, ${3:instanceID}, ${4:bracketMin}, ${5:bracketMax}, ${6:teamSize}, ${7:registeredMatch} = GetBattlefieldStatus(${8:index})$0]]></content>
 	<tabTrigger>_GetBattlefieldStatus</tabTrigger>
 	<description>(index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

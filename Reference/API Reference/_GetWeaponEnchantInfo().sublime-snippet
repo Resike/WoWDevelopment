@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:hasMainHandEnchant}, ${2:mainHandExpiration}, ${3:mainHandCharges}, ${4:hasOffHandEnchant}, ${5:offHandExpiration}, ${6:offHandCharges} = GetWeaponEnchantInfo()$0]]></content>
 	<tabTrigger>_GetWeaponEnchantInfo</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

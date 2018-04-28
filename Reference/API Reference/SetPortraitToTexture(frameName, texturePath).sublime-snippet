@@ -2,5 +2,5 @@
 	<content><![CDATA[SetPortraitToTexture(${1:frameName}, "${2:texturePath}")$0]]></content>
 	<tabTrigger>SetPortraitToTexture</tabTrigger>
 	<description>(frameName, "texturePath")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

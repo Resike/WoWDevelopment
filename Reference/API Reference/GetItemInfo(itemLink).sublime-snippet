@@ -2,5 +2,5 @@
 	<content><![CDATA[GetItemInfo("${1:itemLink}")$0]]></content>
 	<tabTrigger>GetItemInfo</tabTrigger>
 	<description>("itemLink")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

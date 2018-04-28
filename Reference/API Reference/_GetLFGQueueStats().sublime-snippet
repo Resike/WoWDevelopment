@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:hasData}, ${2:leaderNeeds}, ${3:tankNeeds}, ${4:healerNeeds}, ${5:dpsNeeds}, ${6:totalTanks}, ${7:totalHealers}, ${8:totalDPS}, ${9:instanceType}, ${10:instanceSubType}, ${11:instanceName}, ${12:averageWait}, ${13:tankWait}, ${14:healerWait}, ${15:dpsWait}, ${16:myWait}, ${17:queuedTime} = GetLFGQueueStats()$0]]></content>
 	<tabTrigger>_GetLFGQueueStats</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

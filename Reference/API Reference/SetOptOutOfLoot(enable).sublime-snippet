@@ -2,5 +2,5 @@
 	<content><![CDATA[SetOptOutOfLoot(${1:enable})$0]]></content>
 	<tabTrigger>SetOptOutOfLoot</tabTrigger>
 	<description>(enable)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

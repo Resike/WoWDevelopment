@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:name}, ${2:description}, ${3:encounterID}, ${4:firstSection}, ${5:encounterLink} = EJ_GetEncounterInfo(${6:encounterID})$0]]></content>
 	<tabTrigger>_EJ_GetEncounterInfo</tabTrigger>
 	<description>(encounterID)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

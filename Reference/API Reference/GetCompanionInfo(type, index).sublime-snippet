@@ -2,5 +2,5 @@
 	<content><![CDATA[GetCompanionInfo("${1:type}", ${2:index})$0]]></content>
 	<tabTrigger>GetCompanionInfo</tabTrigger>
 	<description>("type", index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

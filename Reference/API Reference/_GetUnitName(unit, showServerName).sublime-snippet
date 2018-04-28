@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:nameString} = GetUnitName("${1:unit}", ${2:showServerName})$0]]></content>
 	<tabTrigger>_GetUnitName</tabTrigger>
 	<description>("unit", showServerName)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

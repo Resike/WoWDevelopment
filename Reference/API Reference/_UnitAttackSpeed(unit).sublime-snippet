@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:speed}, ${2:offhandSpeed} = UnitAttackSpeed("${3:unit}")$0]]></content>
 	<tabTrigger>_UnitAttackSpeed</tabTrigger>
 	<description>("unit")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

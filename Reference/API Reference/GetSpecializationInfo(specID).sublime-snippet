@@ -2,5 +2,5 @@
 	<content><![CDATA[GetSpecializationInfo(${1:specID})$0]]></content>
 	<tabTrigger>GetSpecializationInfo</tabTrigger>
 	<description>(specID)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

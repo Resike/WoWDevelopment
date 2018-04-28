@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:numGuildMembers}, ${2:numOnline}, ${3:numOnlineAndMobile} = GetNumGuildMembers()$0]]></content>
 	<tabTrigger>_GetNumGuildMembers</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

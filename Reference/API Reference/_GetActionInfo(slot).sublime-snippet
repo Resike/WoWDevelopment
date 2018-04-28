@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:type}, ${2:id}, ${3:subType}, ${4:spellID} = GetActionInfo(${5:slot})$0]]></content>
 	<tabTrigger>_GetActionInfo</tabTrigger>
 	<description>(slot)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

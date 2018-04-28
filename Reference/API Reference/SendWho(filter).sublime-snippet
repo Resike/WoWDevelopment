@@ -2,5 +2,5 @@
 	<content><![CDATA[SendWho("${1:filter}")$0]]></content>
 	<tabTrigger>SendWho</tabTrigger>
 	<description>("filter")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:nextFrame} = EnumerateFrames(${2:[currentFrame]})$0]]></content>
 	<tabTrigger>_EnumerateFrames</tabTrigger>
 	<description>([currentFrame])</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>
