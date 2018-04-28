@@ -87,9 +87,8 @@ contexts:
 
   function-declaration:
     - meta_scope: meta.function.lua
-    # - match: \s*(?=(\s*\())
-    #   set: function-arguments
-    #   pop: true
+    - match: \s*(?=(\s*\())
+      set: function-arguments
     - match: (({{valid_identifier}})(?=\s*([:])))
       scope: entity.name.namespace.lua
       set: function-name-separator
