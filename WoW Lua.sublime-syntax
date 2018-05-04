@@ -193,6 +193,40 @@ contexts:
       pop: true
     - include: else-pop
 
+  strings:
+    - match: \'
+      scope: punctuation.definition.string.begin.lua
+      push:
+        - meta_scope: string.quoted.single.lua
+        - match: \'
+          scope: punctuation.definition.string.end.lua
+          pop: true
+        - include: string-escapes
+    - match: \"
+      scope: punctuation.definition.string.begin.lua
+      push:
+        - meta_scope: string.quoted.double.lua
+        - match: \"
+          scope: punctuation.definition.string.end.lua
+          pop: true
+        - include: string-escapes
+    - match: '\[(=*)\['
+      scope: punctuation.definition.string.begin.lua
+      push:
+        - meta_scope: string.quoted.other.multiline.lua
+        - match: '\]\1\]'
+          scope: punctuation.definition.string.end.lua
+          pop: true
+        - include: string-escapes
+
+  string-escapes:
+    - match: '\\([abfnrtv\\"''\[\]]|\d{1,3})'
+      scope: constant.character.escape.lua
+    - match: '\\[xX]\h\h'
+      scope: constant.character.escape.lua
+    - match: '\\u\{\h{,7}\}'
+      scope: constant.character.escape.lua
+
   create-texture:
     - match: '([.:])\s*\b(CreateTexture)\b\s*(\()\s*(?=(.*)\s*(,)\s*(([''"](?i)({{drawlayers}})[''"])|([''"]\w*[''"])))'
       captures:
@@ -218,8 +252,8 @@ contexts:
     - match: '(?<!^\.|[^.]\.|:)\b(__(?:add|call|concat|div|eq|index|len|le|lt|mod|mode|mul|newindex|pow|sub|unm))\b'
       scope: support.function.metamethod.lua
     # Functions
-    - match: '{{identifier}}(?=\s*=\s*function\b)'
-      scope: meta.function.lua entity.name.function.lua
+    # - match: '{{identifier}}(?=\s*=\s*function\b)'
+    #   scope: meta.function.lua entity.name.function.lua
     # - match: '{{identifier}}(?=\s*(?:\.\s*{{identifier}}\s*)*=\s*function\b)'
     #   scope: meta.function.lua entity.name.function.lua
     - match: '\b(function)\b'
@@ -375,40 +409,41 @@ contexts:
     # Deprecated events
     - match: '([''"](ARENA_TEAM_INVITE_REQUEST|ARENA_TEAM_ROSTER_UPDATE|ARENA_TEAM_UPDATE|ARTIFACT_COMPLETE|ARTIFACT_DIG_SITE_UPDATED|ARTIFACT_HISTORY_READY|AUTOEQUIP_BIND_CONFIRM|BN_CHAT_CHANNEL_CLOSED|BN_CHAT_CHANNEL_CREATE_FAILED|BN_CHAT_CHANNEL_CREATE_SUCCEEDED|BN_CHAT_CHANNEL_INVITE_FAILED|BN_CHAT_CHANNEL_INVITE_SUCCEEDED|BN_CHAT_CHANNEL_JOINED|BN_CHAT_CHANNEL_LEFT|BN_CHAT_CHANNEL_MEMBER_JOINED|BN_CHAT_CHANNEL_MEMBER_LEFT|BN_CHAT_CHANNEL_MEMBER_UPDATED|BN_CHAT_CHANNEL_MESSAGE_BLOCKED|BN_CHAT_CHANNEL_MESSAGE_UNDELIVERABLE|BN_FRIEND_TOON_OFFLINE|BN_FRIEND_TOON_ONLINE|BN_MATURE_LANGUAGE_FILTER|BN_TOON_NAME_UPDATED|CHARACTER_UPGRADE_COMPLETE|CHAT_MSG_BATTLEGROUND|CHAT_MSG_BATTLEGROUND_LEADER|CHAT_MSG_BN_CONVERSATION|CHAT_MSG_BN_CONVERSATION_LIST|CHAT_MSG_BN_CONVERSATION_NOTICE|CHAT_MSG_COMBAT_GUILD_XP_GAIN|COMMENTATOR_SKIRMISH_MODE_REQUEST|COMMENTATOR_SKIRMISH_QUEUE_REQUEST|ECLIPSE_DIRECTION_CHANGE|FORGE_MASTER_CLOSED|FORGE_MASTER_ITEM_CHANGED|FORGE_MASTER_OPENED|FORGE_MASTER_SET_ITEM|FRIENDLIST_SHOW|GUILD_ROSTER_SHOW|INELIGIBLE_FOR_LOOT|KNOWN_CURRENCY_TYPES_UPDATE|MINIGAME_UPDATE|MINIMAP_ZONE_CHANGED|MISSING_OUT_ON_LOOT|MULTISTRIKE_UPDATE|PLAYER_AVG_ITEM_LEVEL_READY|START_MINIGAME|TRADE_SKILL_UPDATE|TRANSMOGRIFY_BIND_CONFIRM|UNIT_COMBO_POINTS|UNIT_GUILD_LEVEL|UNIT_SPELLCAST_CHANNEL_INTERRUPTED|ZONE_UNDER_ATTACK)[''"])'
       scope: invalid.removed
-    # Single quoted strings
-    - match: "'"
-      captures:
-        0: punctuation.definition.string.begin.lua
-      push:
-        - meta_scope: string.quoted.single.lua
-        - match: "'"
-          captures:
-            0: punctuation.definition.string.end.lua
-          pop: true
-        - match: \\.
-          scope: constant.character.escape.lua
-    # Double quoted strings
-    - match: '"'
-      captures:
-        0: punctuation.definition.string.begin.lua
-      push:
-        - meta_scope: string.quoted.double.lua
-        - match: '"'
-          captures:
-            0: punctuation.definition.string.end.lua
-          pop: true
-        - match: \\.
-          scope: constant.character.escape.lua
-    # Multiline strings
-    - match: '(?<!--)\[(=*)\['
-      captures:
-        0: punctuation.definition.string.begin.lua
-      push:
-        - meta_scope: string.quoted.other.multiline.lua
-        - match: '\]\1\]'
-          captures:
-            0: punctuation.definition.string.end.lua
-          pop: true
+    # # Single quoted strings
+    # - match: "'"
+    #   captures:
+    #     0: punctuation.definition.string.begin.lua
+    #   push:
+    #     - meta_scope: string.quoted.single.lua
+    #     - match: "'"
+    #       captures:
+    #         0: punctuation.definition.string.end.lua
+    #       pop: true
+    #     - match: \\.
+    #       scope: constant.character.escape.lua
+    # # Double quoted strings
+    # - match: '"'
+    #   captures:
+    #     0: punctuation.definition.string.begin.lua
+    #   push:
+    #     - meta_scope: string.quoted.double.lua
+    #     - match: '"'
+    #       captures:
+    #         0: punctuation.definition.string.end.lua
+    #       pop: true
+    #     - match: \\.
+    #       scope: constant.character.escape.lua
+    # # Multiline strings
+    # - match: '(?<!--)\[(=*)\['
+    #   captures:
+    #     0: punctuation.definition.string.begin.lua
+    #   push:
+    #     - meta_scope: string.quoted.other.multiline.lua
+    #     - match: '\]\1\]'
+    #       captures:
+    #         0: punctuation.definition.string.end.lua
+    #       pop: true
+    - include: strings
     # C_ActionBar
     - match: '(?<!^\.|[^.]\.|:)\b(C_ActionBar)\b(?:(\.)(?:(FindFlyoutActionButtons|FindPetActionButtons|FindSpellActionButtons|GetPetActionPetBarIndices|HasFlyoutActionButtons|HasPetActionButtons|HasPetActionPetBarIndices|HasSpellActionButtons|IsAutoCastPetAction|IsEnabledAutoCastPetAction|IsOnBarOrSpecialBar|ToggleAutoCastPetAction)|())\b)?'
       captures:
