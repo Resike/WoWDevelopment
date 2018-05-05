@@ -324,11 +324,11 @@ contexts:
     # Strata types
     - match: '([.:])\s*\b(SetFrameStrata)\b\s*(\()\s*([''"](?i)(BACKGROUND|LOW|MEDIUM|HIGH|DIALOG|FULLSCREEN|FULLSCREEN_DIALOG|TOOLTIP|BLIZZARD)[''"])'
       captures:
-        2: support.function.wow-api
+        2: support.type.widget-api.lua
         4: variable.parameter.wow.stratatype
     - match: '([.:])\s*\b(SetFrameStrata)\b\s*(\()\s*([''"](\w*)[''"])'
       captures:
-        2: support.function.wow-api
+        2: support.type.widget-api.lua
         4: string.stratatype
     # Orientation types
     - match: '([.:])\s*\b(SetGradient|SetGradientAlpha)\b\s*(\()\s*([''"](?i)(HORIZONTAL|VERTICAL)[''"])'
