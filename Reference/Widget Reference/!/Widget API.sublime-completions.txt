@@ -326,8 +326,8 @@
 			"contents": "${1:EditBox}:HasFocus()$0",
 		},
 		{
-			"trigger": "EditBox:HighlightText\t([start], [end])",
-			"contents": "${1:EditBox}:HighlightText(${2:[start]}, ${3:[end]})$0",
+			"trigger": "EditBox:HighlightText\t([starting], [ending])",
+			"contents": "${1:EditBox}:HighlightText(${2:[starting]}, ${3:[ending]})$0",
 		},
 		{
 			"trigger": "EditBox:Insert\t(\"text\")",
