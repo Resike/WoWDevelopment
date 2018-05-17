@@ -217,7 +217,6 @@ contexts:
         - match: '\]\1\]'
           scope: punctuation.definition.string.end.lua
           pop: true
-        - include: string-escapes
 
   string-escapes:
     - match: '\\([abfnrtv\\"''\[\]]|\d{1,3})'
