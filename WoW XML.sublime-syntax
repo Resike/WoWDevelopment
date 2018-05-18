@@ -5,7 +5,7 @@ name: WoW XML
 comment: WoW XML Syntax Highlighting.
 file_extensions:
   - xml
-scope: source.lua.wow
+scope: source.xml.wow
 variables:
   reserved: \b(?:break|do|else|elseif|end|for|function|if|local|repeat|return|then|until|while)\b
   identifier: (?:[a-zA-Z_]\w*)
@@ -289,7 +289,7 @@ contexts:
     - match: (local)\s+(?!function)(\s*(\w*)\s*(,)?\s*)*(=)?
       captures:
         1: keyword.control.lua
-        2: source.lua
+        2: source.xml.lua.wow
         5: keyword.operator.lua
     # Control keywords
     - match: \b(break|do|else|for|if|elseif|return|then|repeat|while|until|end|function|local|in)\b
@@ -297,7 +297,7 @@ contexts:
     # Important constants
     - match: '(?<!^\.|[^.]\.|:)\b(NULL|false|nil|true|_G|_VERSION)\b|(?<![.])\.{3}(?!\.)'
       scope: constant.language.lua
-    ########## Operators
+    ## Operators
     - match: \b(and|or|not)\b
       scope: keyword.operator.lua
     - match: '\+|-|%|#|\*|\/|\^|==?|~=|(?<!\.)\.{2}(?!\.)'
