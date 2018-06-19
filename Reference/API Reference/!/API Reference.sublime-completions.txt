@@ -8807,7 +8807,7 @@
 		},
 		{
 			"trigger": "_GetMerchantItemInfo\t(index)",
-			"contents": "${1:name}, ${2:texture}, ${3:price}, ${4:quantity}, ${5:numAvailable}, ${6:isUsable}, ${7:extendedCost} = GetMerchantItemInfo(${8:index})$0",
+			"contents": "${1:name}, ${2:texture}, ${3:price}, ${4:quantity}, ${5:numAvailable}, ${6:isPurchasable}, ${7:isUsable}, ${8:extendedCost} = GetMerchantItemInfo(${9:index})$0",
 		},
 		{
 			"trigger": "_GetMerchantItemLink\t(index)",
@@ -9663,7 +9663,7 @@
 		},
 		{
 			"trigger": "_GetSendMailItem\t(slot)",
-			"contents": "${1:itemName}, ${2:itemTexture}, ${3:stackCount}, ${4:quality} = GetSendMailItem(${5:slot})$0",
+			"contents": "${1:itemName}, ${2:itemID}, ${3:itemTexture}, ${4:stackCount}, ${5:quality} = GetSendMailItem(${6:slot})$0",
 		},
 		{
 			"trigger": "_GetSendMailItemLink\t(slot)",
