@@ -132,6 +132,7 @@ contexts:
     - match: \b{{valid_identifier}}\b
       scope: entity.name.function.lua
       set: function-arguments
+    - include: else-pop
 
   function-name-valid:
     - match: \(
@@ -159,12 +160,14 @@ contexts:
       set:
         - function-arguments-end
         - function-parameters
+    - include: else-pop
 
   function-arguments-end:
     - meta_scope: meta.function.body.lua
     - match: \)
       scope: punctuation.section.group.end.lua
       set: function-block
+    - include: else-pop
 
   function-block:
     - meta_content_scope: meta.function.body.lua
