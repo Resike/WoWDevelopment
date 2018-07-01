@@ -34,6 +34,7 @@ contexts:
     - match: \b{{identifier}}\b
       scope: source.method.lua
       set: method-arguments
+    - include: immediately-pop
 
   method-arguments:
     - match: \(
@@ -41,6 +42,7 @@ contexts:
       set:
         - method-arguments-end
         - value-list
+    - include: immediately-pop
 
   method-arguments-end:
     - meta_scope: meta.method-call.lua
