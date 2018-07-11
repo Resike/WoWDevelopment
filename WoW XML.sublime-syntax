@@ -31,7 +31,7 @@ contexts:
     - match: \b{{widgets}}\b
       scope: support.type.widget-api.lua
       set: method-arguments
-    - match: \b{{identifier}}\b
+    - match: \b{{valid_identifier}}\b
       scope: source.method.lua
       set: method-arguments
     - include: immediately-pop
@@ -1268,7 +1268,7 @@ contexts:
     # CreateTexture
     - include: create-texture
     # Punctuations
-    - match: '(\.)\s*({{identifier}})'
+    - match: '(\.)\s*({{valid_identifier}})'
       captures:
         1: meta.punctuation.lua punctuation.separator.accessor.lua
         2: meta.punctuation.lua
