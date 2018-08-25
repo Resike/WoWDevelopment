@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BACKGROUND]]></content>
-	<tabTrigger>BACKGROUND</tabTrigger>
-	<description>"layer"</description>
-	<scope>source.lua string.layertype</scope>
-</snippet>

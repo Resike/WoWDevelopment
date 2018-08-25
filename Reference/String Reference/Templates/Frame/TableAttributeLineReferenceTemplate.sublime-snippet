@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TableAttributeLineReferenceTemplate]]></content>
+	<tabTrigger>TableAttributeLineReferenceTemplate</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.frame</scope>
+</snippet>

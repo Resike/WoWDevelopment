@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:isSticky}, ${2:isHeader}, ${3:newsType}, ${4:text1}, ${5:text2}, ${6:id}, ${7:data}, ${8:data2}, ${9:weekday}, ${10:day}, ${11:month}, ${12:year}, ${13:unknown} = GetGuildNewsInfo(${14:newsIndex})$0]]></content>
 	<tabTrigger>_GetGuildNewsInfo</tabTrigger>
 	<description>(newsIndex)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

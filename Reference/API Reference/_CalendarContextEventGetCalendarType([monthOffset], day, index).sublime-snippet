@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:calendarType} = CalendarContextEventGetCalendarType(${2:[monthOffset]}, ${3:day}, ${4:index})$0]]></content>
-	<tabTrigger>_CalendarContextEventGetCalendarType</tabTrigger>
-	<description>([monthOffset], day, index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

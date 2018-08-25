@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:Button}:SetHighlightAtlas("${2:atlas}")$0]]></content>
 	<tabTrigger>Button:SetHighlightAtlas</tabTrigger>
 	<description>("atlas")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

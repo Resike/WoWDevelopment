@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:maxScroll} = ${2:ScrollFrame}:GetHorizontalScrollRange()$0]]></content>
-	<tabTrigger>_ScrollFrame:GetHorizontalScrollRange</tabTrigger>
-	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
-</snippet>

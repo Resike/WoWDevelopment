@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:CheckButton}:SetClipsChildren(${2:enable})$0]]></content>
 	<tabTrigger>CheckButton:SetClipsChildren</tabTrigger>
 	<description>(enable)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

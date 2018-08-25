@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TaxiRouteFrame]]></content>
+	<tabTrigger>TaxiRouteFrame</tabTrigger>
+	<description>"frameType"</description>
+	<scope>source.lua string.frametype</scope>
+</snippet>

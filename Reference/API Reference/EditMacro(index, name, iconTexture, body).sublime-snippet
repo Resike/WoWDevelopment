@@ -2,5 +2,5 @@
 	<content><![CDATA[EditMacro(${1:index}, "${2:name}", "${3:iconTexture}", "${4:body}")$0]]></content>
 	<tabTrigger>EditMacro</tabTrigger>
 	<description>(index, "name", "iconTexture", "body")</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

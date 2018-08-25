@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:Minimap}:SetStaticPOIArrowTexture("${2:fileName}")$0]]></content>
-	<tabTrigger>Minimap:SetStaticPOIArrowTexture</tabTrigger>
-	<description>("fileName")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
-</snippet>

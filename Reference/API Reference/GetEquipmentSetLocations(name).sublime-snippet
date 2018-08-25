@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetEquipmentSetLocations("${1:name}")$0]]></content>
-	<tabTrigger>GetEquipmentSetLocations</tabTrigger>
-	<description>("name")</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

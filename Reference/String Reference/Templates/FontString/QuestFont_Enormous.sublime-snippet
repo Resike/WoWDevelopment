@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[QuestFont_Enormous]]></content>
+	<tabTrigger>QuestFont_Enormous</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

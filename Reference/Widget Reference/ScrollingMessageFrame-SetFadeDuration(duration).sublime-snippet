@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:ScrollingMessageFrame}:SetFadeDuration(${2:duration})$0]]></content>
-	<tabTrigger>ScrollingMessageFrame:SetFadeDuration</tabTrigger>
-	<description>(duration)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
-</snippet>

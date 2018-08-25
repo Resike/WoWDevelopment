@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:CheckButton}:DisableDrawLayer("${2:layer}")$0]]></content>
 	<tabTrigger>CheckButton:DisableDrawLayer</tabTrigger>
 	<description>("layer")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

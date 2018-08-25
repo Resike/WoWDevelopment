@@ -2,5 +2,5 @@
 	<content><![CDATA[SetScript("${1:scriptType}", ${2:handler})$0]]></content>
 	<tabTrigger>SetScript</tabTrigger>
 	<description>("scriptType", handler)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

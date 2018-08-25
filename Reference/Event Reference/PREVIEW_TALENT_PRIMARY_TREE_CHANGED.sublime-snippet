@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PREVIEW_TALENT_PRIMARY_TREE_CHANGED]]></content>
-	<tabTrigger>PREVIEW_TALENT_PRIMARY_TREE_CHANGED</tabTrigger>
-	<description>"event"</description>
-	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate - string.cvartype - string.layertype - string.anchortype - string.template.texture</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UpdateMapHighlight(${1:cursorX}, ${2:cursorY})$0]]></content>
-	<tabTrigger>UpdateMapHighlight</tabTrigger>
-	<description>(cursorX, cursorY)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

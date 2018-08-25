@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:sectionID}, ${2:parentSectionID} = EJ_GetSectionPath(${3:sectionID})$0]]></content>
 	<tabTrigger>_EJ_GetSectionPath</tabTrigger>
 	<description>(sectionID)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

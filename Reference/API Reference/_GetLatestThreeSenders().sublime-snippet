@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:sender1}, ${2:sender2}, ${3:sender3} = GetLatestThreeSenders()$0]]></content>
 	<tabTrigger>_GetLatestThreeSenders</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:MaskTexture}:SetTexCoord(${2:ULx}, ${3:ULy}, ${4:LLx}, ${5:LLy}, ${6:URx}, ${7:URy}, ${8:LRx}, ${9:LRy})$0]]></content>
 	<tabTrigger>MaskTexture:SetTexCoord</tabTrigger>
 	<description>(ULx, ULy, LLx, LLy, URx, URy, LRx, LRy)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

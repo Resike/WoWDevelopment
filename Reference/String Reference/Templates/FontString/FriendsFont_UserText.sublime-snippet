@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FriendsFont_UserText]]></content>
+	<tabTrigger>FriendsFont_UserText</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

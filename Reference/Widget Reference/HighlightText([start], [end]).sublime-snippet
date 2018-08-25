@@ -2,5 +2,5 @@
 	<content><![CDATA[HighlightText(${2:[starting]}, ${3:[ending]})$0]]></content>
 	<tabTrigger>HighlightText</tabTrigger>
 	<description>([start], [end])</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

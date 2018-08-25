@@ -2,5 +2,5 @@
 	<content><![CDATA[GuildControlGetRankName(${1:rank})$0]]></content>
 	<tabTrigger>GuildControlGetRankName</tabTrigger>
 	<description>(rank)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextStatusBarTextLarge]]></content>
+	<tabTrigger>TextStatusBarTextLarge</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

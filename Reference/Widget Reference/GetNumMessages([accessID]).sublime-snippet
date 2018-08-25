@@ -2,5 +2,5 @@
 	<content><![CDATA[GetNumMessages(${3:[accessID]})$0]]></content>
 	<tabTrigger>GetNumMessages</tabTrigger>
 	<description>([accessID])</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

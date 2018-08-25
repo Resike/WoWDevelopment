@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:inventoryID} = BankButtonIDToInvSlotID(${2:buttonID}, ${3:[isBag]})$0]]></content>
 	<tabTrigger>_BankButtonIDToInvSlotID</tabTrigger>
 	<description>(buttonID, [isBag])</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

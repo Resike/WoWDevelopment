@@ -2,5 +2,5 @@
 	<content><![CDATA[SendChatMessage("${1:text}", ${2:["chatType"]}, ${3:[languageIndex]}, ${4:["channel"]})$0]]></content>
 	<tabTrigger>SendChatMessage</tabTrigger>
 	<description>("text", ["chatType"], [languageIndex], ["channel"])</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

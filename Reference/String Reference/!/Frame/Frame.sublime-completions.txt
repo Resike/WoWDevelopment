@@ -26,6 +26,10 @@
 				"contents": "CheckButton",
 			},
 		{
+			"trigger": "Checkout\t\"frameType\"",
+			"contents": "Checkout",
+		},
+		{
 			"trigger": "ColorSelect\t\"frameType\"",
 			"contents": "ColorSelect",
 		},
@@ -40,6 +44,10 @@
 		{
 			"trigger": "Frame\t\"frameType\"",
 			"contents": "Frame",
+		},
+		{
+			"trigger": "FogOfWarFrame\t\"frameType\"",
+			"contents": "FogOfWarFrame",
 		},
 		{
 			"trigger": "GameTooltip\t\"frameType\"",
@@ -77,6 +85,10 @@
 					"trigger": "TabardModel\t\"frameType\"",
 					"contents": "TabardModel",
 				},
+				{
+					"trigger": "UICamera\t\"frameType\"",
+					"contents": "UICamera",
+				},
 		{
 			"trigger": "ModelScene\t\"frameType\"",
 			"contents": "ModelScene",
@@ -110,8 +122,16 @@
 			"contents": "StatusBar",
 		},
 		{
+			"trigger": "TaxiRouteFrame\t\"frameType\"",
+			"contents": "TaxiRouteFrame",
+		},
+		{
 			"trigger": "UnitPositionFrame\t\"frameType\"",
 			"contents": "UnitPositionFrame",
+		},
+		{
+			"trigger": "WorldFrame\t\"frameType\"",
+			"contents": "WorldFrame",
 		},
 	]
 }

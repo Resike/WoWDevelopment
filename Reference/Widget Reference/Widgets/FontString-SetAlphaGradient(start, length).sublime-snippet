@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:FontString}:SetAlphaGradient(${2:start}, ${3:length})$0]]></content>
 	<tabTrigger>FontString:SetAlphaGradient</tabTrigger>
 	<description>(start, length)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

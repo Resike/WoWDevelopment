@@ -2,5 +2,5 @@
 	<content><![CDATA[GetNumDeclensionSets("${1:name}", ${2:gender})$0]]></content>
 	<tabTrigger>GetNumDeclensionSets</tabTrigger>
 	<description>("name", gender)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

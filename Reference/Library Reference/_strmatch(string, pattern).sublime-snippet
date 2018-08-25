@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:match}, ${2:...} = strmatch(${2:string}, "${3:pattern}")$0]]></content>
 	<tabTrigger>_strmatch</tabTrigger>
 	<description>(string, "pattern")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

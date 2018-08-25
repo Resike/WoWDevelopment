@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:isProtected}, ${2:explicit} = ${3:Texture}:IsProtected()$0]]></content>
 	<tabTrigger>_Texture:IsProtected</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

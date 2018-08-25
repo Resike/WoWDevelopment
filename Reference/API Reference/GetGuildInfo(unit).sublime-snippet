@@ -2,5 +2,5 @@
 	<content><![CDATA[GetGuildInfo("${1:unit}")$0]]></content>
 	<tabTrigger>GetGuildInfo</tabTrigger>
 	<description>("unit")</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

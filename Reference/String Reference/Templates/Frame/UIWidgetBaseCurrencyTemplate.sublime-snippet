@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UIWidgetBaseCurrencyTemplate]]></content>
+	<tabTrigger>UIWidgetBaseCurrencyTemplate</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.frame</scope>
+</snippet>

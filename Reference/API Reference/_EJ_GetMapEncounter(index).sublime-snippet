@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:x}, ${2:y}, ${3:instanceID}, ${4:name}, ${5:description}, ${6:encounterID}, ${7:rootSectionID}, ${8:link} = EJ_GetMapEncounter(${9:index})$0]]></content>
 	<tabTrigger>_EJ_GetMapEncounter</tabTrigger>
 	<description>(index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

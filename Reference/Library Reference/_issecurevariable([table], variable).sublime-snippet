@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:issecure}, ${2:taint} = issecurevariable(${3:[table]}, "${4:variable}")$0]]></content>
 	<tabTrigger>_issecurevariable</tabTrigger>
 	<description>([table], "variable")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

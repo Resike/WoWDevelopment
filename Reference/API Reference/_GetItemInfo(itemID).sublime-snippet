@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:name}, ${2:link}, ${3:quality}, ${4:iLevel}, ${5:reqLevel}, ${6:class}, ${7:subclass}, ${8:maxStack}, ${9:equipSlot}, ${10:texture}, ${11:vendorPrice} = GetItemInfo(${12:itemID})$0]]></content>
 	<tabTrigger>_GetItemInfo</tabTrigger>
 	<description>(itemID)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

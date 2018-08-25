@@ -2,5 +2,5 @@
 	<content><![CDATA[GetEffectiveScale()$0]]></content>
 	<tabTrigger>GetEffectiveScale</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:ColorSelect}:SetAttribute(${2:"name"}, ${3:value})$0]]></content>
 	<tabTrigger>ColorSelect:SetAttribute</tabTrigger>
 	<description>("name", value)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

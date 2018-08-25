@@ -2,5 +2,5 @@
 	<content><![CDATA[issecurevariable(${1:[table]}, "${2:variable}")$0]]></content>
 	<tabTrigger>issecurevariable</tabTrigger>
 	<description>([table], "variable")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

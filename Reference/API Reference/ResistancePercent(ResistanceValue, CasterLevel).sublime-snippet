@@ -2,5 +2,5 @@
 	<content><![CDATA[ResistancePercent(${1:ResistanceValue}, ${2:CasterLevel})$0]]></content>
 	<tabTrigger>ResistancePercent</tabTrigger>
 	<description>(ResistanceValue, CasterLevel)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[GetGuildNewsInfo(${1:newsIndex})$0]]></content>
 	<tabTrigger>GetGuildNewsInfo</tabTrigger>
 	<description>(newsIndex)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

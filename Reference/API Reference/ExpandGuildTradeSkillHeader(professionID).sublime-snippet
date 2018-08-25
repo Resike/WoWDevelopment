@@ -2,5 +2,5 @@
 	<content><![CDATA[ExpandGuildTradeSkillHeader(${1:professionID})$0]]></content>
 	<tabTrigger>ExpandGuildTradeSkillHeader</tabTrigger>
 	<description>(professionID)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

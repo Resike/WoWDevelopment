@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:CheckButton}:SetClampRectInsets(${2:left}, ${3:right}, ${4:top}, ${5:bottom})$0]]></content>
 	<tabTrigger>CheckButton:SetClampRectInsets</tabTrigger>
 	<description>(left, right, top, bottom)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

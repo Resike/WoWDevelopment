@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:GameTooltip}:GetItem()$0]]></content>
-	<tabTrigger>GameTooltip:GetItem</tabTrigger>
-	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
-</snippet>

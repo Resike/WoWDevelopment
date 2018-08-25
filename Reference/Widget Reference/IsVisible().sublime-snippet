@@ -2,5 +2,5 @@
 	<content><![CDATA[IsVisible()$0]]></content>
 	<tabTrigger>IsVisible</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

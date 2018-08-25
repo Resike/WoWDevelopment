@@ -2,5 +2,5 @@
 	<content><![CDATA[xpcall(${1:func}, ${2:errHandler})$0]]></content>
 	<tabTrigger>xpcall</tabTrigger>
 	<description>(func, errHandler)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

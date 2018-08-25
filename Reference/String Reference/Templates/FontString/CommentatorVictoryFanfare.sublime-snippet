@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommentatorVictoryFanfare]]></content>
+	<tabTrigger>CommentatorVictoryFanfare</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

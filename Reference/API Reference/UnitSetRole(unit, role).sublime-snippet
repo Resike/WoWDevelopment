@@ -2,5 +2,5 @@
 	<content><![CDATA[UnitSetRole("${1:unit}", "${2:role}")]]></content>
 	<tabTrigger>UnitSetRole</tabTrigger>
 	<description>("unit", "role")</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:red}, ${2:green}, ${3:blue}, ${4:alpha} = ${5:Frame}:GetBackdropColor()$0]]></content>
 	<tabTrigger>_Frame:GetBackdropColor</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

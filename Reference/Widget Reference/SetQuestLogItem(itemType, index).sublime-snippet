@@ -2,5 +2,5 @@
 	<content><![CDATA[SetQuestLogItem("${2:itemType}", ${3:index})$0]]></content>
 	<tabTrigger>SetQuestLogItem</tabTrigger>
 	<description>("itemType", index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

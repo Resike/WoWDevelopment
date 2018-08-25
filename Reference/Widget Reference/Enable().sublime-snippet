@@ -2,5 +2,5 @@
 	<content><![CDATA[Enable()$0]]></content>
 	<tabTrigger>Enable</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[--[[
-	${1:}
-]]]]></content>
-<tabTrigger>--</tabTrigger>
-	<scope>source.lua</scope>
-	<description>Lua Description Comment</description>
-</snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:texture}, ${2:count}, ${3:locked}, ${4:quality}, ${5:readable}, ${6:lootable}, ${7:link} = GetContainerItemInfo(${8:container}, ${9:slot})$0]]></content>
 	<tabTrigger>_GetContainerItemInfo</tabTrigger>
 	<description>(container, slot)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[GROUP_ROSTER_UPDATE]]></content>
 	<tabTrigger>GROUP_ROSTER_UPDATE</tabTrigger>
 	<description>"event"</description>
-	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate - string.cvartype - string.layertype - string.anchortype - string.template.texture</scope>
+	<scope>source.lua string - string.frametype - string.blendmode - string.stratatype - string.animationtype - string.looptype - string.scripttype - string.attribtype - string.slottype - string.fontflag - string.orienttype - string.buttonstate - string.cvartype - string.drawlayer - string.anchortype - string.anchortype-horizontal - string.anchortype-vertical - string.anchortype-tooltip - string.template.animation - string.template.fontstring - string.template.frame - string.template.texture</scope>
 </snippet>

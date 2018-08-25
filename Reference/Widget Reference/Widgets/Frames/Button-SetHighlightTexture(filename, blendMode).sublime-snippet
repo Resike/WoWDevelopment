@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:Button}:SetHighlightTexture("${2:filename}", ${3:"blendMode"})$0]]></content>
 	<tabTrigger>Button:SetHighlightTexture</tabTrigger>
 	<description>("filename", "blendMode")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

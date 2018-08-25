@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:FontString}:SetText("${2:text}")$0]]></content>
 	<tabTrigger>FontString:SetText</tabTrigger>
 	<description>("text")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HIGHLIGHT]]></content>
+	<tabTrigger>HIGHLIGHT</tabTrigger>
+	<description>"drawlayer"</description>
+	<scope>source.lua string.drawlayer</scope>
+</snippet>

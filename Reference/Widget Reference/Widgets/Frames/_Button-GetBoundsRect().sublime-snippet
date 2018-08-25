@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:left}, ${2:bottom}, ${3:width}, ${4:height} = ${5:Button}:GetBoundsRect()$0]]></content>
 	<tabTrigger>_Button:GetBoundsRect</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

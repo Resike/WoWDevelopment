@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:Scale}:SetChildKey((${2:key})$0]]></content>
 	<tabTrigger>Scale:SetChildKey</tabTrigger>
 	<description>(key)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

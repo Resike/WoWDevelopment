@@ -2,5 +2,5 @@
 	<content><![CDATA[AcceptBattlefieldPort(${1:index}, ${2:accept})$0]]></content>
 	<tabTrigger>AcceptBattlefieldPort</tabTrigger>
 	<description>(index, accept)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

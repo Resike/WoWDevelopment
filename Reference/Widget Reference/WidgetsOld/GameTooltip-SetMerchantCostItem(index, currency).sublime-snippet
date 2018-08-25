@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:GameTooltip}:SetMerchantCostItem(${2:index}, ${3:currency})$0]]></content>
+	<tabTrigger>GameTooltip:SetMerchantCostItem</tabTrigger>
+	<description>(index, currency)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

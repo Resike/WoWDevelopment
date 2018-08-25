@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:GameTooltip}:SetHyperlink("${2:hyperlink}")$0]]></content>
-	<tabTrigger>GameTooltip:SetHyperlink</tabTrigger>
-	<description>("hyperlink")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
-</snippet>

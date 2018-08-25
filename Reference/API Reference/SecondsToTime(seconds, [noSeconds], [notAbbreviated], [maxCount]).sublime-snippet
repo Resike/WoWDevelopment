@@ -2,5 +2,5 @@
 	<content><![CDATA[SecondsToTime(${1:seconds}, ${2:[noSeconds]}, ${3:[notAbbreviated]}, ${4:[maxCount]})$0]]></content>
 	<tabTrigger>SecondsToTime</tabTrigger>
 	<description>(seconds, [noSeconds], [notAbbreviated], [maxCount])</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:numRegions} = ${2:ColorSelect}:GetNumRegions()$0]]></content>
 	<tabTrigger>_ColorSelect:GetNumRegions</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[GetBattlefieldStatData(${1:index}, ${2:statIndex})$0]]></content>
 	<tabTrigger>GetBattlefieldStatData</tabTrigger>
 	<description>(index, statIndex)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

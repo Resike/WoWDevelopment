@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MapCanvasDetailLayerTemplate]]></content>
+	<tabTrigger>MapCanvasDetailLayerTemplate</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.frame</scope>
+</snippet>

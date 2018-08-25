@@ -2,5 +2,5 @@
 	<content><![CDATA[EnableKeyboard(${2:enable})$0]]></content>
 	<tabTrigger>EnableKeyboard</tabTrigger>
 	<description>(enable)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

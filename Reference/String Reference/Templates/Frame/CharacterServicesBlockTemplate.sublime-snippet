@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CharacterServicesBlockTemplate]]></content>
+	<tabTrigger>CharacterServicesBlockTemplate</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.frame</scope>
+</snippet>

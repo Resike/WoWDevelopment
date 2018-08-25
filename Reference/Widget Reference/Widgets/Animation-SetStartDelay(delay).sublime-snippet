@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:Animation}:SetStartDelay(${2:delay})$0]]></content>
 	<tabTrigger>Animation:SetStartDelay</tabTrigger>
 	<description>(delay)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

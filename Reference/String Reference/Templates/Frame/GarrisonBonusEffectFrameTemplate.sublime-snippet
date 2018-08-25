@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GarrisonBonusEffectFrameTemplate]]></content>
+	<tabTrigger>GarrisonBonusEffectFrameTemplate</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.frame</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[QuestFontHighlight]]></content>
+	<tabTrigger>QuestFontHighlight</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

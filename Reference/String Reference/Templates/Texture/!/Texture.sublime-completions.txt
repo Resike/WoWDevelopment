@@ -1,105 +1,32 @@
 {
 	"scope": "source.lua string.template.texture",
 	"completions": [
-		{
-			"trigger": "AdventureMapDetailTileTemplate\t\"template\"",
-			"contents": "AdventureMapDetailTileTemplate",
-		},
-		{
-			"trigger": "GarrisonMissionFollowerButtonDurabilityTemplate\t\"template\"",
-			"contents": "GarrisonMissionFollowerButtonDurabilityTemplate",
-		},
-		{
-			"trigger": "NubTemplate\t\"template\"",
-			"contents": "NubTemplate",
-		},
-		{
-			"trigger": "MapCanvasDetailTileTemplate\t\"template\"",
-			"contents": "MapCanvasDetailTileTemplate",
-		},
-		{
-			"trigger": "MapCanvasDebugTriggerAreaTemplate\t\"template\"",
-			"contents": "MapCanvasDebugTriggerAreaTemplate",
-		},
-		{
-			"trigger": "GarrisonTalentChoiceTemplate\t\"template\"",
-			"contents": "GarrisonTalentChoiceTemplate",
-		},
-		{
-			"trigger": "GarrisonTalentArrowTemplate\t\"template\"",
-			"contents": "GarrisonTalentArrowTemplate",
-		},
-		{
-			"trigger": "PetBattleUnitTooltipPetTypeStrengthTemplate\t\"template\"",
-			"contents": "PetBattleUnitTooltipPetTypeStrengthTemplate",
-		},
-		{
-			"trigger": "ChatTabConversationIconTemplate\t\"template\"",
-			"contents": "ChatTabConversationIconTemplate",
-		},
-		{
-			"trigger": "ColorblindExampleIconTemplate\t\"template\"",
-			"contents": "ColorblindExampleIconTemplate",
-		},
-		{
-			"trigger": "SharedPetBattleStrengthPetTypeTemplate\t\"template\"",
-			"contents": "SharedPetBattleStrengthPetTypeTemplate",
-		},
-		{
-			"trigger": "GreenCheckMarkTemplate\t\"template\"",
-			"contents": "GreenCheckMarkTemplate",
-		},
-		{
-			"trigger": "TalentBranchTemplate\t\"template\"",
-			"contents": "TalentBranchTemplate",
-		},
-		{
-			"trigger": "TalentArrowTemplate\t\"template\"",
-			"contents": "TalentArrowTemplate",
-		},
-		{
-			"trigger": "CapProgressBarDividerTemplate\t\"template\"",
-			"contents": "CapProgressBarDividerTemplate",
-		},
-		{
-			"trigger": "MyHealPredictionBarTemplate\t\"template\"",
-			"contents": "MyHealPredictionBarTemplate",
-		},
-		{
-			"trigger": "MyManaCostPredictionBarTemplate\t\"template\"",
-			"contents": "MyManaCostPredictionBarTemplate",
-		},
-		{
-			"trigger": "OtherHealPredictionBarTemplate\t\"template\"",
-			"contents": "OtherHealPredictionBarTemplate",
-		},
-		{
-			"trigger": "TotalAbsorbBarTemplate\t\"template\"",
-			"contents": "TotalAbsorbBarTemplate",
-		},
-		{
-			"trigger": "HealAbsorbBarTemplate\t\"template\"",
-			"contents": "HealAbsorbBarTemplate",
-		},
-		{
-			"trigger": "HealAbsorbBarLeftShadowTemplate\t\"template\"",
-			"contents": "HealAbsorbBarLeftShadowTemplate",
-		},
-		{
-			"trigger": "HealAbsorbBarRightShadowTemplate\t\"template\"",
-			"contents": "HealAbsorbBarRightShadowTemplate",
-		},
-		{
-			"trigger": "TotalAbsorbBarOverlayTemplate\t\"template\"",
-			"contents": "TotalAbsorbBarOverlayTemplate",
-		},
-		{
-			"trigger": "OverAbsorbGlowTemplate\t\"template\"",
-			"contents": "OverAbsorbGlowTemplates",
-		},
-		{
-			"trigger": "OverHealAbsorbGlowTemplate\t\"template\"",
-			"contents": "OverHealAbsorbGlowTemplate",
-		},
+		{"trigger": "AdventureMapDetailTileTemplate\t\"template\"", "contents": "AdventureMapDetailTileTemplate"},
+		{"trigger": "CapProgressBarDividerTemplate\t\"template\"", "contents": "CapProgressBarDividerTemplate"},
+		{"trigger": "ChatTabConversationIconTemplate\t\"template\"", "contents": "ChatTabConversationIconTemplate"},
+		{"trigger": "ColorblindExampleIconTemplate\t\"template\"", "contents": "ColorblindExampleIconTemplate"},
+		{"trigger": "GarrisonMissionFollowerButtonDurabilityTemplate\t\"template\"", "contents": "GarrisonMissionFollowerButtonDurabilityTemplate"},
+		{"trigger": "GarrisonTalentArrowTemplate\t\"template\"", "contents": "GarrisonTalentArrowTemplate"},
+		{"trigger": "GarrisonTalentChoiceTemplate\t\"template\"", "contents": "GarrisonTalentChoiceTemplate"},
+		{"trigger": "GreenCheckMarkTemplate\t\"template\"", "contents": "GreenCheckMarkTemplate"},
+		{"trigger": "HealAbsorbBarLeftShadowTemplate\t\"template\"", "contents": "HealAbsorbBarLeftShadowTemplate"},
+		{"trigger": "HealAbsorbBarRightShadowTemplate\t\"template\"", "contents": "HealAbsorbBarRightShadowTemplate"},
+		{"trigger": "HealAbsorbBarTemplate\t\"template\"", "contents": "HealAbsorbBarTemplate"},
+		{"trigger": "MapCanvasDebugTriggerAreaTemplate\t\"template\"", "contents": "MapCanvasDebugTriggerAreaTemplate"},
+		{"trigger": "MapCanvasDetailTileTemplate\t\"template\"", "contents": "MapCanvasDetailTileTemplate"},
+		{"trigger": "MyHealPredictionBarTemplate\t\"template\"", "contents": "MyHealPredictionBarTemplate"},
+		{"trigger": "MyManaCostPredictionBarTemplate\t\"template\"", "contents": "MyManaCostPredictionBarTemplate"},
+		{"trigger": "NubTemplate\t\"template\"", "contents": "NubTemplate"},
+		{"trigger": "OtherHealPredictionBarTemplate\t\"template\"", "contents": "OtherHealPredictionBarTemplate"},
+		{"trigger": "OverAbsorbGlowTemplate\t\"template\"", "contents": "OverAbsorbGlowTemplate"},
+		{"trigger": "OverHealAbsorbGlowTemplate\t\"template\"", "contents": "OverHealAbsorbGlowTemplate"},
+		{"trigger": "PartyPoseModelShadowTextureTemplate\t\"template\"", "contents": "PartyPoseModelShadowTextureTemplate"},
+		{"trigger": "PetBattleUnitTooltipPetTypeStrengthTemplate\t\"template\"", "contents": "PetBattleUnitTooltipPetTypeStrengthTemplate"},
+		{"trigger": "SharedPetBattleStrengthPetTypeTemplate\t\"template\"", "contents": "SharedPetBattleStrengthPetTypeTemplate"},
+		{"trigger": "SocialToastGlowTemplate\t\"template\"", "contents": "SocialToastGlowTemplate"},
+		{"trigger": "TalentArrowTemplate\t\"template\"", "contents": "TalentArrowTemplate"},
+		{"trigger": "TalentBranchTemplate\t\"template\"", "contents": "TalentBranchTemplate"},
+		{"trigger": "TotalAbsorbBarOverlayTemplate\t\"template\"", "contents": "TotalAbsorbBarOverlayTemplate"},
+		{"trigger": "TotalAbsorbBarTemplate\t\"template\"", "contents": "TotalAbsorbBarTemplate"},
 	]
 }

@@ -2,5 +2,5 @@
 	<content><![CDATA[SetInsertMode("${2:position}")$0]]></content>
 	<tabTrigger>SetInsertMode</tabTrigger>
 	<description>("position")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

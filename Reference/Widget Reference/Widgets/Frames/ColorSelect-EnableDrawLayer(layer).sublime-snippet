@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:ColorSelect}:EnableDrawLayer("${2:layer}")$0]]></content>
 	<tabTrigger>ColorSelect:EnableDrawLayer</tabTrigger>
 	<description>("layer")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

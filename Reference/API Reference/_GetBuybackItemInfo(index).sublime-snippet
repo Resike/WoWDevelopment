@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:name}, ${2:texture}, ${3:price}, ${4:quantity}, ${5:numAvailable}, ${6:isUsable} = GetBuybackItemInfo(${7:index})$0]]></content>
 	<tabTrigger>_GetBuybackItemInfo</tabTrigger>
 	<description>(index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

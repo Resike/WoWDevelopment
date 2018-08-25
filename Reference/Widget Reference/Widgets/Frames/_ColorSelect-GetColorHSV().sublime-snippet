@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:hue}, ${2:saturation}, ${3:value} = ${4:ColorSelect}:GetColorHSV()$0]]></content>
 	<tabTrigger>_ColorSelect:GetColorHSV</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

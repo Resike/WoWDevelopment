@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${2:ScrollFrame}:GetHorizontalScroll()$0]]></content>
-	<tabTrigger>ScrollFrame:GetHorizontalScroll</tabTrigger>
-	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
-</snippet>

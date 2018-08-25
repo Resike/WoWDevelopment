@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnitDefense("${1:unit}")$0]]></content>
-	<tabTrigger>UnitDefense</tabTrigger>
-	<description>("unit")</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

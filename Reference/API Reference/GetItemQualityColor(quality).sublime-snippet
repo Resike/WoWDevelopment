@@ -2,5 +2,5 @@
 	<content><![CDATA[GetItemQualityColor(${1:quality})$0]]></content>
 	<tabTrigger>GetItemQualityColor</tabTrigger>
 	<description>(quality)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

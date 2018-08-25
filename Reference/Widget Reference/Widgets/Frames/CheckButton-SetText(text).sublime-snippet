@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:CheckButton}:SetText("${2:text}")$0]]></content>
 	<tabTrigger>CheckButton:SetText</tabTrigger>
 	<description>("text")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

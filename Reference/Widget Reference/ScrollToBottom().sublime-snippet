@@ -2,5 +2,5 @@
 	<content><![CDATA[ScrollToBottom()$0]]></content>
 	<tabTrigger>ScrollToBottom</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

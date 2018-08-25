@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:left}, ${2:right}, ${3:top}, ${4:bottom} = ${5:Button}:GetClampRectInsets()$0]]></content>
 	<tabTrigger>_Button:GetClampRectInsets</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

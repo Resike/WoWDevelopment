@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:MaskTexture}:SetPoint("${2:point}", ${3:[relativeTo]}, "${4:[relativePoint]}", ${5:[xOffset]}, ${6:[yOffset]})$0]]></content>
 	<tabTrigger>MaskTexture:SetPoint</tabTrigger>
 	<description>("point", [relativeTo], ["relativePoint"], [xOffset], [yOffset])</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

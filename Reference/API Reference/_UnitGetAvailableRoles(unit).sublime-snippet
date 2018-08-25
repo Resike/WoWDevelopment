@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:canBeTank}, ${2:canBeHealer}, ${3:canBeDPS} = UnitGetAvailableRoles("${4:unit}")$0]]></content>
 	<tabTrigger>_UnitGetAvailableRoles</tabTrigger>
 	<description>("unit")</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

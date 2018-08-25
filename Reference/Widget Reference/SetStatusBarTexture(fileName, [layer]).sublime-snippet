@@ -2,5 +2,5 @@
 	<content><![CDATA[SetStatusBarTexture("${2:fileName}", ${3:["layer"]})$0]]></content>
 	<tabTrigger>SetStatusBarTexture</tabTrigger>
 	<description>("fileName", ["layer"])</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

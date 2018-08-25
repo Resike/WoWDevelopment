@@ -2,5 +2,5 @@
 	<content><![CDATA[EasyMenu(${1:menuList}, ${2:menuFrame}, ${3:anchor}, ${4:x}, ${5:y}, "${6:displayMode}", ${7:autoHideDelay})$0]]></content>
 	<tabTrigger>EasyMenu</tabTrigger>
 	<description>(menuList, menuFrame, anchor, x, y, "displayMode", autoHideDelay)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

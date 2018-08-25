@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarEventSignUp()$0]]></content>
-	<tabTrigger>CalendarEventSignUp</tabTrigger>
-	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

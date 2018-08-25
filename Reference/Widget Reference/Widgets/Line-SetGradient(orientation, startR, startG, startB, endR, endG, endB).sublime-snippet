@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:Line}:SetGradient("${2:orientation}", ${3:startR}, ${4:startG}, ${5:startB}, ${6:endR}, ${7:endG}, ${8:endB})$0]]></content>
 	<tabTrigger>Line:SetGradient</tabTrigger>
 	<description>("orientation", startR, startG, startB, endR, endG, endB)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

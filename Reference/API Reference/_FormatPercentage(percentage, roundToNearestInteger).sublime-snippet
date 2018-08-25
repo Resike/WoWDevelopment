@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:formattedPercentage} = FormatPercentage(${2:percentage}, ${3:roundToNearestInteger})$0]]></content>
 	<tabTrigger>_FormatPercentage</tabTrigger>
 	<description>(percentage, roundToNearestInteger)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

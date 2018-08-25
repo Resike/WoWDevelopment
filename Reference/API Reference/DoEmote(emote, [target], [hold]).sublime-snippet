@@ -2,5 +2,5 @@
 	<content><![CDATA[DoEmote("${1:emote}", ${2:["target"]}, ${3:[hold]})$0]]></content>
 	<tabTrigger>DoEmote</tabTrigger>
 	<description>("emote", ["target"], [hold])</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

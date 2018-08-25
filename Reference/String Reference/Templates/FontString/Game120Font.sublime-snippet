@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Game120Font]]></content>
+	<tabTrigger>Game120Font</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

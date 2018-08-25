@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:maxValue} = UnitPowerMax("${2:unitID}", ${3:[powerType]})$0]]></content>
 	<tabTrigger>_UnitPowerMax</tabTrigger>
 	<description>("unitID", [powerType])</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

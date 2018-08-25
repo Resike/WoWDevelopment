@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:numResults} = EJ_GetNumSearchResults()$0]]></content>
 	<tabTrigger>_EJ_GetNumSearchResults</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[SetGuildBankTabInfo(${1:tab}, "${2:name}", ${3:iconIndex})$0]]></content>
 	<tabTrigger>SetGuildBankTabInfo</tabTrigger>
 	<description>(tab, "name", iconIndex)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

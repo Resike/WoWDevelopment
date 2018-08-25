@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatedShineTemplate]]></content>
+	<tabTrigger>AnimatedShineTemplate</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.frame</scope>
+</snippet>

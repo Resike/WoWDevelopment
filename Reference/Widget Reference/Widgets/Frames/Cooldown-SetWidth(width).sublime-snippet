@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:Cooldown}:SetWidth(${2:width})$0]]></content>
 	<tabTrigger>Cooldown:SetWidth</tabTrigger>
 	<description>(width)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:name}, ${2:icon}, ${3:count}, ${4:debuffType}, ${5:duration}, ${6:expirationTime}, ${7:unitCaster}, ${8:canStealOrPurge}, ${9:nameplateShowPersonal}, ${10:spellID}, ${11:canApplyAura}, ${12:isBossDebuff}, ${13:nameplateShowAll}, ${14:timeMod }, ${15:value1}, ${16:value2}, ${17:value3} = UnitBuff("${18:unit}", ${19:index}, ${20:["filter"]})$0]]></content>
+	<tabTrigger>_UnitDebuff</tabTrigger>
+	<description>("unit", index, ["filter"])</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

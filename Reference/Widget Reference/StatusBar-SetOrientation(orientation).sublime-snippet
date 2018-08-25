@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:StatusBar}:SetOrientation("${2:orientation}")$0]]></content>
-	<tabTrigger>StatusBar:SetOrientation</tabTrigger>
-	<description>("orientation")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
-</snippet>

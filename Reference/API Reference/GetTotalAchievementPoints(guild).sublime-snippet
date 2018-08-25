@@ -2,5 +2,5 @@
 	<content><![CDATA[GetTotalAchievementPoints(${1:guild})$0]]></content>
 	<tabTrigger>GetTotalAchievementPoints</tabTrigger>
 	<description>(guild)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

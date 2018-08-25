@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:Cooldown}:SetReverse(${2:reverse})$0]]></content>
-	<tabTrigger>Cooldown:SetReverse</tabTrigger>
-	<description>(reverse)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
-</snippet>

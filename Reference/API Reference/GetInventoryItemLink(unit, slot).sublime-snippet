@@ -2,5 +2,5 @@
 	<content><![CDATA[GetInventoryItemLink("${1:unit}", ${2:slot})$0]]></content>
 	<tabTrigger>GetInventoryItemLink</tabTrigger>
 	<description>("unit", slot)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

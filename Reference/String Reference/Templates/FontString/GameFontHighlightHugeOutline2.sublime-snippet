@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GameFontHighlightHugeOutline2]]></content>
+	<tabTrigger>GameFontHighlightHugeOutline2</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

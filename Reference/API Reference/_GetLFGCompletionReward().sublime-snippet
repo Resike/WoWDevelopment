@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:name}, ${2:typeID}, ${3:textureFilename}, ${4:moneyBase}, ${5:moneyVar}, ${6:experienceBase}, ${7:experienceVar}, ${8:numStrangers}, ${9:numRewards} = GetLFGCompletionReward()$0]]></content>
 	<tabTrigger>_GetLFGCompletionReward</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetMapZoom(${1:continentIndex}, ${2:[zoneIndex]})$0]]></content>
-	<tabTrigger>SetMapZoom</tabTrigger>
-	<description>(continentIndex, [zoneIndex])</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

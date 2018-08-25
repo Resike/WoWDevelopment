@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[QuickJoinButtonMemberTemplate]]></content>
+	<tabTrigger>QuickJoinButtonMemberTemplate</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

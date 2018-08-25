@@ -2,5 +2,5 @@
 	<content><![CDATA[UpdateColorByID(${2:id}, ${3:red}, ${4:green}, ${5:blue})$0]]></content>
 	<tabTrigger>UpdateColorByID</tabTrigger>
 	<description>(id, red, green, blue)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

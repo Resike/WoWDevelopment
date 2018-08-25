@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ZoneTextFont]]></content>
+	<tabTrigger>ZoneTextFont</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

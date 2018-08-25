@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LFGBackfillCoverTemplate]]></content>
+	<tabTrigger>LFGBackfillCoverTemplate</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.frame</scope>
+</snippet>

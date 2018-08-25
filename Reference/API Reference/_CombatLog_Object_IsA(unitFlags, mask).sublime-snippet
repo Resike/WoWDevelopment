@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:isMatch} = CombatLog_Object_IsA(${2:unitFlags}, ${3:mask})$0]]></content>
 	<tabTrigger>_CombatLog_Object_IsA</tabTrigger>
 	<description>(unitFlags, mask)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

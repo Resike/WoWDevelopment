@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:Button}:SetFrameStrata("${2:strata}")$0]]></content>
 	<tabTrigger>Button:SetFrameStrata</tabTrigger>
 	<description>("strata")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

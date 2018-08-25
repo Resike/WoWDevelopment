@@ -2,5 +2,5 @@
 	<content><![CDATA[${2:Rotation}:GetRadians()$0]]></content>
 	<tabTrigger>Rotation:GetRadians</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:powerType}, ${2:powerToken}, ${3:altR}, ${4:altG}, ${5:altB} = UnitPowerType("${6:name}")$0]]></content>
 	<tabTrigger>_UnitPowerType</tabTrigger>
 	<description>("name")</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

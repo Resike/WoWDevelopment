@@ -2,5 +2,5 @@
 	<content><![CDATA[GetMacroItemIcons(${1:tbl})$0]]></content>
 	<tabTrigger>GetMacroItemIcons</tabTrigger>
 	<description>(tbl)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

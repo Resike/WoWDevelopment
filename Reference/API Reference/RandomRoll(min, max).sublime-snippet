@@ -2,5 +2,5 @@
 	<content><![CDATA[RandomRoll(${1:min}, ${2:max})$0]]></content>
 	<tabTrigger>RandomRoll</tabTrigger>
 	<description>(min, max)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

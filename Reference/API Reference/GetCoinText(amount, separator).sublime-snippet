@@ -2,5 +2,5 @@
 	<content><![CDATA[GetCoinText(${1:amount}, "${2:separator}")$0]]></content>
 	<tabTrigger>GetCoinText</tabTrigger>
 	<description>(amount, "separator")</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

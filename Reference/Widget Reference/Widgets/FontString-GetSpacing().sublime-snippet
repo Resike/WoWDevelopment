@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:FontString}:GetSpacing()$0]]></content>
 	<tabTrigger>FontString:GetSpacing</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

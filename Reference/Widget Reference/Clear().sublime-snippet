@@ -2,5 +2,5 @@
 	<content><![CDATA[Clear()$0]]></content>
 	<tabTrigger>Clear</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

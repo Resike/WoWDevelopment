@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Rotation]]></content>
 	<tabTrigger>Rotation</tabTrigger>
-	<description>"animationType"</description>
-	<scope>source.lua string.animtype</scope>
+	<description>"animation"</description>
+	<scope>source.lua string.animationtype</scope>
 </snippet>

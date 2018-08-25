@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:FontString}:SetFont("${2:filename}", ${3:fontHeight}, "${4:flags}")$0]]></content>
 	<tabTrigger>FontString:SetFont</tabTrigger>
 	<description>("filename", fontHeight, "flags")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

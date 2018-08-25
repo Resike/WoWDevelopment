@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OptionsFont]]></content>
+	<tabTrigger>OptionsFont</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

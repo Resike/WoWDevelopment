@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:durability}, ${2:max} = GetContainerItemDurability(${3:container}, ${4:slot})$0]]></content>
 	<tabTrigger>_GetContainerItemDurability</tabTrigger>
 	<description>(container, slot)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

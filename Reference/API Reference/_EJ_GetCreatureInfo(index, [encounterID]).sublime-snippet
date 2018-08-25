@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:id}, ${2:name}, ${3:description}, ${4:displayInfo}, ${5:iconImage} = EJ_GetCreatureInfo(${6:index}, ${7:[encounterID]})$0]]></content>
 	<tabTrigger>_EJ_GetCreatureInfo</tabTrigger>
 	<description>(index, [encounterID])</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:minModifier} = GetSpellBonusDamage(${2:school})$0]]></content>
 	<tabTrigger>_GetSpellBonusDamage</tabTrigger>
 	<description>(school)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

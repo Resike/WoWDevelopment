@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:Cooldown}:SetBlingTexture("${2:texture}", ${3:r}, ${4:b}, ${5:g}, ${6:a})$0]]></content>
 	<tabTrigger>Cooldown:SetBlingTexture</tabTrigger>
 	<description>("texture", r, b, g, a)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

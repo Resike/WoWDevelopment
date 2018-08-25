@@ -66,5 +66,5 @@
 }]]></content>
 	<tabTrigger>_Rotation</tabTrigger>
 	<description>help</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[SetJustifyH("${2:justify}")$0]]></content>
 	<tabTrigger>SetJustifyH</tabTrigger>
 	<description>("justify")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

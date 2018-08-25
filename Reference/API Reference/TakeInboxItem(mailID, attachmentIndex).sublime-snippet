@@ -2,5 +2,5 @@
 	<content><![CDATA[TakeInboxItem(${1:mailID}, ${2:attachmentIndex})$0]]></content>
 	<tabTrigger>TakeInboxItem</tabTrigger>
 	<description>(mailID, attachmentIndex)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

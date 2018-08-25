@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:name}, ${2:amount}, ${3:texturePath}, ${4:earnedThisWeek}, ${5:weeklyMax}, ${6:totalMax}, ${7:isDiscovered} = GetCurrencyInfo(${8:id})$0]]></content>
 	<tabTrigger>_GetCurrencyInfo</tabTrigger>
 	<description>(id)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:hasScript} = ${2:LineScale}:HasScript("${3:scriptType}")$0]]></content>
 	<tabTrigger>_LineScale:HasScript</tabTrigger>
 	<description>("scriptType")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

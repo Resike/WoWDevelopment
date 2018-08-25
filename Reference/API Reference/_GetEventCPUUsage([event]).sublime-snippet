@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:usage}, ${2:numEvents} = GetEventCPUUsage(${3:["event"]})$0]]></content>
 	<tabTrigger>_GetEventCPUUsage</tabTrigger>
 	<description>(["event"])</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

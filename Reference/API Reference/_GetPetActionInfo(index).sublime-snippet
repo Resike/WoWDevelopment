@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:name}, ${2:subtext}, ${3:texture}, ${4:isToken}, ${5:isActive}, ${6:autoCastAllowed}, ${7:autoCastEnabled} = GetPetActionInfo(${8:index})$0]]></content>
 	<tabTrigger>_GetPetActionInfo</tabTrigger>
 	<description>(index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

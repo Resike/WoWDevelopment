@@ -2,5 +2,5 @@
 	<content><![CDATA[SetShadowOffset(${2:xOffset}, ${3:yOffset})$0]]></content>
 	<tabTrigger>SetShadowOffset</tabTrigger>
 	<description>(xOffset, yOffset)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

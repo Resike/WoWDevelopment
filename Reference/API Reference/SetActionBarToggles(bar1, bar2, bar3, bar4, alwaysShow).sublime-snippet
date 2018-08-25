@@ -2,5 +2,5 @@
 	<content><![CDATA[SetActionBarToggles(${1:bar1}, ${2:bar2}, ${3:bar3}, ${4:bar4}, ${5:alwaysShow})$0]]></content>
 	<tabTrigger>SetActionBarToggles</tabTrigger>
 	<description>(bar1, bar2, bar3, bar4, alwaysShow)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

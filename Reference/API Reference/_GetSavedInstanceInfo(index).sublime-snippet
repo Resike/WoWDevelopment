@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:instanceName}, ${2:instanceID}, ${3:instanceReset}, ${4:instanceDifficulty}, ${5:locked}, ${6:extended}, ${7:instanceIDMostSig}, ${8:isRaid}, ${9:maxPlayers}, ${10:difficultyName}, ${11:maxBosses}, ${12:defeatedBosses} = GetSavedInstanceInfo(${13:index})$0]]></content>
 	<tabTrigger>_GetSavedInstanceInfo</tabTrigger>
 	<description>(index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

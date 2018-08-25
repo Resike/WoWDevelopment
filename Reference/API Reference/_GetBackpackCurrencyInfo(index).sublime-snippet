@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:name}, ${2:count}, ${3:extraCurrencyType}, ${4:icon}, ${5:itemID} = GetBackpackCurrencyInfo(${6:index})$0]]></content>
 	<tabTrigger>_GetBackpackCurrencyInfo</tabTrigger>
 	<description>(index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

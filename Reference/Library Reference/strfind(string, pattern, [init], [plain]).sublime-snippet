@@ -2,5 +2,5 @@
 	<content><![CDATA[strfind("${1:string}", "${2:pattern}", ${3:[init]}, ${4:[plain]})$0]]></content>
 	<tabTrigger>strfind</tabTrigger>
 	<description>("string", "pattern", [init], [plain])</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

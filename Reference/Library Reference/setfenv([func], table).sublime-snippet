@@ -2,5 +2,5 @@
 	<content><![CDATA[setfenv(${1:[func]}, ${2:table})$0]]></content>
 	<tabTrigger>setfenv</tabTrigger>
 	<description>([func], table)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

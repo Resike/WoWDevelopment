@@ -2,5 +2,5 @@
 	<content><![CDATA[SetGuildMemberRank(${1:index}, ${2:rankIndex})$0]]></content>
 	<tabTrigger>SetGuildMemberRank</tabTrigger>
 	<description>(index, rankIndex)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[ClickSendMailItemButton(${1:index}, ${2:autoReturn})$0]]></content>
 	<tabTrigger>ClickSendMailItemButton</tabTrigger>
 	<description>(index, autoReturn)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

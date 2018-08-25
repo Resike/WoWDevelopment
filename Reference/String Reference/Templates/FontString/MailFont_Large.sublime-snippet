@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MailFont_Large]]></content>
+	<tabTrigger>MailFont_Large</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

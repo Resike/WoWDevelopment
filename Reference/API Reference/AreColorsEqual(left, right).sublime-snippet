@@ -2,5 +2,5 @@
 	<content><![CDATA[AreColorsEqual(${1:left}, ${2:right})$0]]></content>
 	<tabTrigger>AreColorsEqual</tabTrigger>
 	<description>(left, right)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

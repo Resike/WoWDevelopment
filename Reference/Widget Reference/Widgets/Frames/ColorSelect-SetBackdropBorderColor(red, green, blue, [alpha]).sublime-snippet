@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:ColorSelect}:SetBackdropBorderColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0]]></content>
 	<tabTrigger>ColorSelect:SetBackdropBorderColor</tabTrigger>
 	<description>(red, green, blue, [alpha])</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

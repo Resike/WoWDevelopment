@@ -2,5 +2,5 @@
 	<content><![CDATA[AddDoubleLine("${1:textLeft}", "${2:textRight}", ${3:[rL]}, ${4:[gL]}, ${5:[bL]}, ${6:[rR]}, ${7:[gR]}, ${8:[bR]})$0]]></content>
 	<tabTrigger>AddDoubleLine</tabTrigger>
 	<description>("textLeft", "textRight", [rL], [gL], [bL], [rR], [gR], [bR])</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

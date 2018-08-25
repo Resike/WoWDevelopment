@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ColorblindItemQualityTemplate]]></content>
+	<tabTrigger>ColorblindItemQualityTemplate</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

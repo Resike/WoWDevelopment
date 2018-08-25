@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:isPending} = CalendarIsActionPending()$0]]></content>
-	<tabTrigger>_CalendarIsActionPending</tabTrigger>
-	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:name}, ${2:texture}, ${3:numItems}, ${4:quality}, ${5:isUsable}, ${6:enchantment} = GetTradePlayerItemInfo(${7:index})$0]]></content>
 	<tabTrigger>_GetTradePlayerItemInfo</tabTrigger>
 	<description>(index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

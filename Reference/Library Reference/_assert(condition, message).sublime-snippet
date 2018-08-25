@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:value} = assert(${2:condition}, "${3:message}")$0]]></content>
 	<tabTrigger>_assert</tabTrigger>
 	<description>(condition, "message")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

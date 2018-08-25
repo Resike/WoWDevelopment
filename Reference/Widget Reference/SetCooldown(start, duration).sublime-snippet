@@ -2,5 +2,5 @@
 	<content><![CDATA[SetCooldown(${2:start}, ${3:duration})$0]]></content>
 	<tabTrigger>SetCooldown</tabTrigger>
 	<description>(start, duration)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

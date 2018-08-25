@@ -2,5 +2,5 @@
 	<content><![CDATA[GetMirrorTimerInfo(${1:index})$0]]></content>
 	<tabTrigger>GetMirrorTimerInfo</tabTrigger>
 	<description>(index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

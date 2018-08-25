@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HasSoulstone()$0]]></content>
-	<tabTrigger>HasSoulstone</tabTrigger>
-	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

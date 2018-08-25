@@ -2,5 +2,5 @@
 	<content><![CDATA[SetHyperlink(${2:hyperlink})$0]]></content>
 	<tabTrigger>SetHyperlink</tabTrigger>
 	<description>(hyperlink)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

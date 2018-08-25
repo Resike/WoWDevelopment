@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:CheckButton}:SetMaxResize(${2:maxWidth}, ${3:maxHeight})$0]]></content>
 	<tabTrigger>CheckButton:SetMaxResize</tabTrigger>
 	<description>(maxWidth, maxHeight)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

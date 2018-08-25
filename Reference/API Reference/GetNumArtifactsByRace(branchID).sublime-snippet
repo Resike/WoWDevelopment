@@ -2,5 +2,5 @@
 	<content><![CDATA[GetNumArtifactsByRace(${1:branchID})$0]]></content>
 	<tabTrigger>GetNumArtifactsByRace</tabTrigger>
 	<description>(branchID)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

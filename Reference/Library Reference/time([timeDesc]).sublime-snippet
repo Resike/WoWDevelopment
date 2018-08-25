@@ -2,5 +2,5 @@
 	<content><![CDATA[time(${1:[timeDesc]})$0]]></content>
 	<tabTrigger>time</tabTrigger>
 	<description>([timeDesc])</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

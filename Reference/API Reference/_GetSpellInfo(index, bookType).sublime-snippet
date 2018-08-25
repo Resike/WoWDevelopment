@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[${1:name}, ${2:rank2}, ${3:icon}, ${4:powerCost}, ${5:isFunnel}, ${6:powerType}, ${7:castingTime}, ${8:minRange}, ${9:maxRange} = GetSpellInfo(${10:index}, "${11:bookType}")$0]]></content>
+	<content><![CDATA[${1:name}, ${2:icon}, ${3:powerCost}, ${4:isFunnel}, ${5:powerType}, ${6:castingTime}, ${7:minRange}, ${8:maxRange} = GetSpellInfo(${9:index}, "${10:bookType}")$0]]></content>
 	<tabTrigger>_GetSpellInfo</tabTrigger>
 	<description>(index, "bookType")</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

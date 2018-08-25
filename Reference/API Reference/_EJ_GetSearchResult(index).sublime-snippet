@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:id}, ${2:stype}, ${3:difficulty}, ${4:instanceID}, ${5:encounterID}, ${6:link} = EJ_GetSearchResult(${7:index})$0]]></content>
 	<tabTrigger>_EJ_GetSearchResult</tabTrigger>
 	<description>(index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${2:Slider}:GetThumbTexture()$0]]></content>
-	<tabTrigger>Slider:GetThumbTexture</tabTrigger>
-	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
-</snippet>

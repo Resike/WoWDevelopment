@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:CheckButton}:CreateLine(${2:["name"]}, "${3:[layer]}", ${4:["inherits"]}, ${5:[sublevel]})$0]]></content>
 	<tabTrigger>CheckButton:CreateLine</tabTrigger>
 	<description>(["name"], ["layer"], ["inherits"], [sublevel])</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

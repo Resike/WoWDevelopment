@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ArcaneChargeTemplate]]></content>
+	<tabTrigger>ArcaneChargeTemplate</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.frame</scope>
+</snippet>

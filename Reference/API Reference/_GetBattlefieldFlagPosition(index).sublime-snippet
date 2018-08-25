@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:flagX}, ${2:flagY}, ${3:flagToken} = GetBattlefieldFlagPosition(${4:index})$0]]></content>
 	<tabTrigger>_GetBattlefieldFlagPosition</tabTrigger>
 	<description>(index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

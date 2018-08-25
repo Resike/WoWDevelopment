@@ -2,5 +2,5 @@
 	<content><![CDATA[SetMinimumWidth(${2:width})$0]]></content>
 	<tabTrigger>SetMinimumWidth</tabTrigger>
 	<description>(width)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

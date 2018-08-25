@@ -2,5 +2,5 @@
 	<content><![CDATA[SetFillAlpha(${2:Alpha})$0]]></content>
 	<tabTrigger>SetFillAlpha</tabTrigger>
 	<description>(Alpha)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

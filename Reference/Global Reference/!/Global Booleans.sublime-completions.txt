@@ -1,5 +1,5 @@
 {
-	"scope": "source.lua - entity - punctuation - keyword - string",
+	"scope": "source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua",
 	"completions": [
 		{
 			"trigger": "CHAT_SHOW_IME\tfalse",
@@ -8,6 +8,10 @@
 		{
 			"trigger": "CUF_SHOW_BORDER\ttrue",
 			"contents": "CUF_SHOW_BORDER",
+		},
+		{
+			"trigger": "DEVTOOLS_USE_FUNCTION_CACHE\ttrue",
+			"contents": "DEVTOOLS_USE_FUNCTION_CACHE",
 		},
 		{
 			"trigger": "DEVTOOLS_USE_FUNCTION_CACHE\ttrue",
@@ -58,12 +62,24 @@
 			"contents": "SHOWED_LFG_PULSE",
 		},
 		{
+			"trigger": "SOUNDKIT_ALLOW_DUPLICATES\tfalse",
+			"contents": "SOUNDKIT_ALLOW_DUPLICATES",
+		},
+		{
 			"trigger": "TARGET_FRAME_UNLOCKED\tfalse",
 			"contents": "TARGET_FRAME_UNLOCKED",
 		},
 		{
 			"trigger": "TUTORIAL_QUEST_ACCEPTED\tfalse",
 			"contents": "TUTORIAL_QUEST_ACCEPTED",
+		},
+		{
+			"trigger": "UIPANEL_SKIP_SET_POINT\ttrue",
+			"contents": "UIPANEL_SKIP_SET_POINT",
+		},
+		{
+			"trigger": "UIPANEL_VALIDATE_CURRENT_FRAME\ttrue",
+			"contents": "UIPANEL_VALIDATE_CURRENT_FRAME",
 		},
 		{
 			"trigger": "UNIT_POSITION_FRAME_DEFAULT_SHOULD_SHOW_UNITS\ttrue",

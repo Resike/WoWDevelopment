@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:frame} = CreateFrame("${2:frameType}"${3:, ${4:["name"]}, ${5:[parent]}${6:, ${7:["template"]}}})$0]]></content>
 	<tabTrigger>_CreateFrame</tabTrigger>
 	<description>("frameType", ["name"], [parent], ["template"])</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

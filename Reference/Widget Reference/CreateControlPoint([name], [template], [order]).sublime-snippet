@@ -2,5 +2,5 @@
 	<content><![CDATA[CreateControlPoint(${1:["name"]}, ${2:["template"]}, ${3:[order]})$0]]></content>
 	<tabTrigger>CreateControlPoint</tabTrigger>
 	<description>(["name"], ["template"], [order])</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

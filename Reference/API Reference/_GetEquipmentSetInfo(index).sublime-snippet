@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:name}, ${2:icon}, ${3:setID}, ${4:isEquipped}, ${5:numItems}, ${6:numEquipped}, ${7:numInventory}, ${8:numMissing}, ${9:numIgnored} = GetEquipmentSetInfo(${10:index})$0]]></content>
-	<tabTrigger>_GetEquipmentSetInfo</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

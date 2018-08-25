@@ -2,5 +2,5 @@
 	<content><![CDATA[RAID_CLASS_COLORS]]></content>
 	<tabTrigger>RAID_CLASS_COLORS</tabTrigger>
 	<description>table</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

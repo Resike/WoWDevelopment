@@ -2,5 +2,5 @@
 	<content><![CDATA[SetCursorPosition(${2:position})$0]]></content>
 	<tabTrigger>SetCursorPosition</tabTrigger>
 	<description>(position)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

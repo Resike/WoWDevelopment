@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarEventSetSize(${1:size})$0]]></content>
-	<tabTrigger>CalendarEventSetSize</tabTrigger>
-	<description>(size)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

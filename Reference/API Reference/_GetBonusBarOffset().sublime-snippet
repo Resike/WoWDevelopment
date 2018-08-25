@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:offset} = GetBonusBarOffset()$0]]></content>
 	<tabTrigger>_GetBonusBarOffset</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:corpseGUID1}, ${2:count1}, ${3:corpseGUID2}, ${4:count2}, ${5:...} = GetLootSourceInfo(${6:index})$0]]></content>
 	<tabTrigger>_GetLootSourceInfo</tabTrigger>
 	<description>(index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

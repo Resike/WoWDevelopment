@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OVERLAY]]></content>
+	<tabTrigger>OVERLAY</tabTrigger>
+	<description>"drawlayer"</description>
+	<scope>source.lua string.drawlayer</scope>
+</snippet>

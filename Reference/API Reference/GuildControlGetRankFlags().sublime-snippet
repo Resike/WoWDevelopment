@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GuildControlGetRankFlags()$0]]></content>
-	<tabTrigger>GuildControlGetRankFlags</tabTrigger>
-	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[SetColorWheelThumbTexture(${2:texture})$0]]></content>
 	<tabTrigger>SetColorWheelThumbTexture</tabTrigger>
 	<description>(texture)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

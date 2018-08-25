@@ -2,5 +2,5 @@
 	<content><![CDATA[SetFrameLevel(${2:level})$0]]></content>
 	<tabTrigger>SetFrameLevel</tabTrigger>
 	<description>(level)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

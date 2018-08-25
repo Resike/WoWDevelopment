@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:presenceID}, ${2:givenName}, ${3:surname}, ${4:isFriend} = BNGetFOFInfo(${5:presenceID}, ${6:mutual}, ${7:non-mutual}, ${8:index})$0]]></content>
 	<tabTrigger>_BNGetFOFInfo</tabTrigger>
 	<description>(presenceID, mutual, non-mutual, index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

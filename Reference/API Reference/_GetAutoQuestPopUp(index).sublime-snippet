@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:questId}, ${2:type} = GetAutoQuestPopUp(${3:index})$0]]></content>
 	<tabTrigger>_GetAutoQuestPopUp</tabTrigger>
 	<description>(index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

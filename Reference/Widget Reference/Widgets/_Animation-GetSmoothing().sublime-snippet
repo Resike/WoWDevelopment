@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:smoothType} = ${2:Animation}:GetSmoothing()$0]]></content>
 	<tabTrigger>_Animation:GetSmoothing</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:mainHandAttackBase}, ${2:mainHandAttackMod}, ${3:offHandHandAttackBase}, ${4:offHandAttackMod} = UnitAttackBothHands("${5:unit}")$0]]></content>
-	<tabTrigger>_UnitAttackBothHands</tabTrigger>
-	<description>("unit")</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

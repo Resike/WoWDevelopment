@@ -2,5 +2,5 @@
 	<content><![CDATA[message("${1:text}")$0]]></content>
 	<tabTrigger>message</tabTrigger>
 	<description>("text")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:saved} = ${2:Button}:GetDontSavePosition()$0]]></content>
 	<tabTrigger>_Button:GetDontSavePosition</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

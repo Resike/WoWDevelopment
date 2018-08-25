@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GameNormalNumberFont]]></content>
+	<tabTrigger>GameNormalNumberFont</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

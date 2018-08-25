@@ -1,5 +1,5 @@
 {
-	"scope": "source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate - string.cvartype - string.layertype - string.anchortype - string.template.texture",
+	"scope": "source.lua string - string.frametype - string.blendmode - string.stratatype - string.animationtype - string.looptype - string.scripttype - string.attribtype - string.slottype - string.fontflag - string.orienttype - string.buttonstate - string.cvartype - string.drawlayer - string.anchortype - string.anchortype-horizontal - string.anchortype-vertical - string.anchortype-tooltip - string.template.animation - string.template.fontstring - string.template.frame - string.template.texture",
 	"completions": [
 		{
 			"trigger": "Button4\t\"button\"",
@@ -61,34 +61,6 @@
 		{
 			"trigger": "RightButtonUp\t\"button\"",
 			"contents": "RightButtonUp",
-		},
-
-
-
-
-		{
-			"trigger": "MIDDLE\t\"anchor\"",
-			"contents": "MIDDLE",
-		},
-		{
-			"trigger": "M\t\"MIDDLE\"",
-			"contents": "MIDDLE",
-		},
-
-
-
-
-		{
-			"trigger": "MONOCHROME\t\"fontFlag\"",
-			"contents": "MONOCHROME ",
-		},
-		{
-			"trigger": "OUTLINE\t\"fontFlag\"",
-			"contents": "OUTLINE",
-		},
-		{
-			"trigger": "THICKOUTLINE\t\"fontFlag\"",
-			"contents": "THICKOUTLINE",
 		},
 	]
 }

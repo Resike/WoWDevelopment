@@ -1,5 +1,5 @@
 {
-	"scope": "source.lua - entity - punctuation - string",
+	"scope": "source.lua - entity - punctuation - string - meta.punctuation.lua - meta.method-call.lua",
 	"completions": [
 		"and",
 		"break",

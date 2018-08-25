@@ -2,5 +2,5 @@
 	<content><![CDATA[SetColorHSV(${2:hue}, ${3:saturation}, ${4:value})$0]]></content>
 	<tabTrigger>SetColorHSV</tabTrigger>
 	<description>(hue, saturation, value)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

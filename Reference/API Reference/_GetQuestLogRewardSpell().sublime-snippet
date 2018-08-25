@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:texture}, ${2:name}, ${3:isTradeskillSpell}, ${4:isSpellLearned} = GetQuestLogRewardSpell()$0]]></content>
 	<tabTrigger>_GetQuestLogRewardSpell</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

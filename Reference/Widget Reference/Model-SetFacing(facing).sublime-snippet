@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:Model}:SetFacing(${2:facing})$0]]></content>
-	<tabTrigger>Model:SetFacing</tabTrigger>
-	<description>(facing)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
-</snippet>

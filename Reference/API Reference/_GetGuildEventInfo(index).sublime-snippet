@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:type}, ${2:player1}, ${3:player2}, ${4:rank}, ${5:year}, ${6:month}, ${7:day}, ${8:hour} = GetGuildEventInfo(${9:index})$0]]></content>
 	<tabTrigger>_GetGuildEventInfo</tabTrigger>
 	<description>(index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

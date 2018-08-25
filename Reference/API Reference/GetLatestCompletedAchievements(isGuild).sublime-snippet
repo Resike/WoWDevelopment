@@ -2,5 +2,5 @@
 	<content><![CDATA[GetLatestCompletedAchievements(${1:isGuild})$0]]></content>
 	<tabTrigger>GetLatestCompletedAchievements</tabTrigger>
 	<description>(isGuild)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:Texture}:SetSize(${2:width}, ${3:height})$0]]></content>
 	<tabTrigger>Texture:SetSize</tabTrigger>
 	<description>(width, height)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[SetMaxLines(${2:maxLines})$0]]></content>
 	<tabTrigger>SetMaxLines</tabTrigger>
 	<description>(maxLines)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

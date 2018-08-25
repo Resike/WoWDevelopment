@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:bgIndex} = GetBlacklistMap(${2:index})$0]]></content>
-	<tabTrigger>_GetBlacklistMap</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

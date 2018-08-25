@@ -4,5 +4,5 @@
 end$0]]></content>
 	<tabTrigger>_OnUpdateModel</tabTrigger>
 	<description>(self)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

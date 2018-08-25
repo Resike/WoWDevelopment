@@ -2,5 +2,5 @@
 	<content><![CDATA[Stopwatch_StartCountdown(${1:hours}, ${2:minutes}, ${3:seconds})$0]]></content>
 	<tabTrigger>Stopwatch_StartCountdown</tabTrigger>
 	<description>(hours, minutes, seconds)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:point}, ${2:xOffset}, ${3:yOffset} = ${4:Scale}:GetOrigin()$0]]></content>
 	<tabTrigger>_Scale:GetOrigin</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

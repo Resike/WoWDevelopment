@@ -2,5 +2,5 @@
 	<content><![CDATA[SetFogFar(${2:distance})$0]]></content>
 	<tabTrigger>SetFogFar</tabTrigger>
 	<description>(distance)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

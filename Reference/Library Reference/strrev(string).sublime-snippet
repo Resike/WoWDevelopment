@@ -2,5 +2,5 @@
 	<content><![CDATA[strrev("${1:string}")$0]]></content>
 	<tabTrigger>strrev</tabTrigger>
 	<description>("string")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

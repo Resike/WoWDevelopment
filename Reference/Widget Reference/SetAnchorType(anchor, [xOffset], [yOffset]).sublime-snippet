@@ -2,5 +2,5 @@
 	<content><![CDATA[SetAnchorType("${2:anchor}", ${3:[xOffset]}, ${4:[yOffset]})$0]]></content>
 	<tabTrigger>SetAnchorType</tabTrigger>
 	<description>("anchor", [xOffset], [yOffset])</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:type}, ${2:name}, ${3:itemLink}, ${4:count}, ${5:tab1}, ${6:tab2}, ${7:year}, ${8:month}, ${9:day}, ${10:hour} = GetGuildBankTransaction(${11:tab}, ${12:index})$0]]></content>
 	<tabTrigger>_GetGuildBankTransaction</tabTrigger>
 	<description>(tab, index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

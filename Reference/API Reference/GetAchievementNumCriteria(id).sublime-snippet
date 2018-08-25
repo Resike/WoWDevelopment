@@ -2,5 +2,5 @@
 	<content><![CDATA[GetAchievementNumCriteria(${1:id})$0]]></content>
 	<tabTrigger>GetAchievementNumCriteria</tabTrigger>
 	<description>(id)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

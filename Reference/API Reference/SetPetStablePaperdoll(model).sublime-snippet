@@ -2,5 +2,5 @@
 	<content><![CDATA[SetPetStablePaperdoll(${1:model})$0]]></content>
 	<tabTrigger>SetPetStablePaperdoll</tabTrigger>
 	<description>(model)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

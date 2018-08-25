@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:stringValue} = tostring(${2:value})$0]]></content>
 	<tabTrigger>_tostring</tabTrigger>
 	<description>(value)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

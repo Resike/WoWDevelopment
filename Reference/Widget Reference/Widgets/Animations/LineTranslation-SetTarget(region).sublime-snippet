@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:LineScale}:SetTarget(${2:region})$0]]></content>
 	<tabTrigger>LineTranslation:SetTarget</tabTrigger>
 	<description>(region)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

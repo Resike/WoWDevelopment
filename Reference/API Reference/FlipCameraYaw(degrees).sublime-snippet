@@ -2,5 +2,5 @@
 	<content><![CDATA[FlipCameraYaw(${1:degrees})$0]]></content>
 	<tabTrigger>FlipCameraYaw</tabTrigger>
 	<description>(degrees)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

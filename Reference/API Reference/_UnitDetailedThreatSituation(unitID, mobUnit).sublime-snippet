@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:isTanking}, ${2:status}, ${3:scaledPercent}, ${4:rawPercent}, ${5:threatValue} = UnitDetailedThreatSituation(${6:unitID}, ${7:mobUnit})$0]]></content>
 	<tabTrigger>_UnitDetailedThreatSituation</tabTrigger>
 	<description>(unitID, mobUnit)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

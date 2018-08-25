@@ -2,5 +2,5 @@
 	<content><![CDATA[CreateAnimationGroup(${1:["name"]}, ${2:["inheritsFrom"]})$0]]></content>
 	<tabTrigger>CreateAnimationGroup</tabTrigger>
 	<description>(["name"], ["inheritsFrom"])</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

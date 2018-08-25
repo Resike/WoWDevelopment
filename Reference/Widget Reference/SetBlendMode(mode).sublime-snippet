@@ -2,5 +2,5 @@
 	<content><![CDATA[SetBlendMode("${1:mode}")$0]]></content>
 	<tabTrigger>SetBlendMode</tabTrigger>
 	<description>("mode")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ReportPlayer("${1:reportType}", "${2:pending}", ${3:comment})$0]]></content>
-	<tabTrigger>ReportPlayer</tabTrigger>
-	<description>("reportType", "pending", comment)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

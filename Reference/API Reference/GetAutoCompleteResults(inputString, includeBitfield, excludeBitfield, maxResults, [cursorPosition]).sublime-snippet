@@ -2,5 +2,5 @@
 	<content><![CDATA[GetAutoCompleteResults("${1:inputString}", ${2:includeBitfield}, ${3:excludeBitfield}, ${4:maxResults}, ${5:[cursorPosition]})$0]]></content>
 	<tabTrigger>GetAutoCompleteResults</tabTrigger>
 	<description>("inputString", includeBitfield, excludeBitfield, maxResults, [cursorPosition])</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MONOCHROME]]></content>
+	<tabTrigger>MONOCHROME</tabTrigger>
+	<description>"fontFlag"</description>
+	<scope>source.lua string.fontflag</scope>
+</snippet>

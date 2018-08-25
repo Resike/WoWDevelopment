@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:id}, ${2:name}, ${3:points}, ${4:completed}, ${5:month}, ${6:day}, ${7:year}, ${8:description}, ${9:flags}, ${10:icon}, ${11:rewardText}, ${12:isGuildAch} = GetAchievementInfo(${13:category}, ${14:index})$0]]></content>
 	<tabTrigger>_GetAchievementInfo</tabTrigger>
 	<description>(category, index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

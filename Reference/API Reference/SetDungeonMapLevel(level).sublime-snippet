@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetDungeonMapLevel(${1:level})$0]]></content>
-	<tabTrigger>SetDungeonMapLevel</tabTrigger>
-	<description>(level)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

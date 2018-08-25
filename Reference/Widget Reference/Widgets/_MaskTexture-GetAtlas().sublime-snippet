@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:atlasFile} = ${2:MaskTexture}:GetAtlas()$0]]></content>
 	<tabTrigger>_MaskTexture:GetAtlas</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[FormatShortDate(${1:day}, ${2:month}, ${3:year})$0]]></content>
 	<tabTrigger>FormatShortDate</tabTrigger>
 	<description>(day, month, year)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

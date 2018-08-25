@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:LineScale}:SetToScale(${2:scale})$0]]></content>
 	<tabTrigger>LineScale:SetToScale</tabTrigger>
 	<description>(key)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

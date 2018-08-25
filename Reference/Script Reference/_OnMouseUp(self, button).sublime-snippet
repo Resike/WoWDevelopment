@@ -4,5 +4,5 @@
 end$0]]></content>
 	<tabTrigger>_OnMouseUp</tabTrigger>
 	<description>(self, button)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

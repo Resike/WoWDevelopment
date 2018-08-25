@@ -2,5 +2,5 @@
 	<content><![CDATA[VehicleAimDecrement(${1:amount})$0]]></content>
 	<tabTrigger>VehicleAimDecrement</tabTrigger>
 	<description>(amount)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

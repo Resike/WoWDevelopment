@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:version}, ${2:internalVersion}, ${3:date}, ${4:uiVersion} = GetBuildInfo()$0]]></content>
 	<tabTrigger>_GetBuildInfo</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

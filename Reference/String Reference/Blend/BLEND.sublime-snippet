@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BLEND]]></content>
-	<tabTrigger>BLEND</tabTrigger>
-	<description>"blend"</description>
-	<scope>source.lua string.blendtype</scope>
-</snippet>

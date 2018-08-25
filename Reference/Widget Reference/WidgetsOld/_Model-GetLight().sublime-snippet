@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:enabled}, ${2:omni}, ${3:dirX}, ${4:dirY}, ${5:dirZ}, ${6:ambIntensity}, ${7:ambR}, ${8:ambG}, ${9:ambB}, ${10:dirIntensity}, ${11:dirR}, ${12:dirG}, ${13:dirB} = ${14:Model}:GetLight()$0]]></content>
+	<tabTrigger>_Model:GetLight</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

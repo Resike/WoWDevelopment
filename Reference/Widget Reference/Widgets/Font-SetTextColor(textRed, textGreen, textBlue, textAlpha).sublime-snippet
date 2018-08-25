@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:Font}:SetTextColor(${2:textRed}, ${3:textGreen}, ${4:textBlue}, ${5:textAlpha})$0]]></content>
-	<tabTrigger>Font:SetTextColor</tabTrigger>
-	<description>(textRed, textGreen, textBlue, textAlpha)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
-</snippet>

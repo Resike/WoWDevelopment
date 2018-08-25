@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:TabardModel}:GetLowerEmblemFileName("${2:fileName}")$0]]></content>
+	<tabTrigger>TabardModel:GetLowerEmblemFileName</tabTrigger>
+	<description>("fileName")</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

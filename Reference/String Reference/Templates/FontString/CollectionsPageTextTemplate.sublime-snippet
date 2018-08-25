@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CollectionsPageTextTemplate]]></content>
+	<tabTrigger>CollectionsPageTextTemplate</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

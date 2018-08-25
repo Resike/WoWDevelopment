@@ -2,5 +2,5 @@
 	<content><![CDATA[SetMacroSpell(${1:index}, "${2:spell}", ${3:[target]})$0]]></content>
 	<tabTrigger>SetMacroSpell</tabTrigger>
 	<description>(index, "spell", [target])</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

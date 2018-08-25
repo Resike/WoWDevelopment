@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:GameTooltip}:SetOwner(${2:frame}, ${3:["anchorType"]}, ${4:[xOffset]}, ${5:[yOffset]})$0]]></content>
-	<tabTrigger>GameTooltip:SetOwner</tabTrigger>
-	<description>(frame, ["anchorType"], [xOffset], [yOffset])</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
-</snippet>

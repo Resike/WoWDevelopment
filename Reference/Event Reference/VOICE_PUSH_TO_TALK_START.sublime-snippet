@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VOICE_PUSH_TO_TALK_START]]></content>
-	<tabTrigger>VOICE_PUSH_TO_TALK_START</tabTrigger>
-	<description>"event"</description>
-	<scope>source.lua string - string.frametype - string.blendtype - string.stratatype - string.animtype - string.scripttype - string.attribtype - string.slottype - string.orienttype - string.buttonstate - string.cvartype - string.layertype - string.anchortype - string.template.texture</scope>
-</snippet>

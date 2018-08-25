@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:spellID}, ${2:iconTexture}, ${3:isLearned} = GetQuestLogCriteriaSpell(${4:[index]})$0]]></content>
 	<tabTrigger>_GetQuestLogCriteriaSpell</tabTrigger>
 	<description>([index])</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

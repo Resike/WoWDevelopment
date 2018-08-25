@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:stat}, ${2:effectiveStat}, ${3:posBuff}, ${4:negBuff} = UnitStat("${5:unit}", ${6:statIndex})$0]]></content>
 	<tabTrigger>_UnitStat</tabTrigger>
 	<description>("unit", statIndex)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

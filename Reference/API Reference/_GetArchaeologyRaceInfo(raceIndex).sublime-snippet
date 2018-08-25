@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:raceName}, ${2:raceTexture}, ${3:raceItemID}, ${4:numFragmentsCollected}, ${5:numFragmentsRequired} = GetArchaeologyRaceInfo(${6:raceIndex})$0]]></content>
 	<tabTrigger>_GetArchaeologyRaceInfo</tabTrigger>
 	<description>(raceIndex)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

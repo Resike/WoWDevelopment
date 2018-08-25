@@ -2,5 +2,5 @@
 	<content><![CDATA[IsMouseButtonDown(${1:[button]})$0]]></content>
 	<tabTrigger>IsMouseButtonDown</tabTrigger>
 	<description>([button])</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

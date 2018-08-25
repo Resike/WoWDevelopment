@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:ColorSelect}:SetParent(${2:ColorSelect})$0]]></content>
 	<tabTrigger>ColorSelect:SetParent</tabTrigger>
 	<description>(frame)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

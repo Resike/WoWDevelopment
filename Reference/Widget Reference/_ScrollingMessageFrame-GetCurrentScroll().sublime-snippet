@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:offset} = ${2:ScrollingMessageFrame}:GetCurrentScroll()$0]]></content>
-	<tabTrigger>_ScrollingMessageFrame:GetCurrentScroll</tabTrigger>
-	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
-</snippet>

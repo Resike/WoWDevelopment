@@ -2,5 +2,5 @@
 	<content><![CDATA[SetFriendNotes("${1:name}", "${2:note}")$0]]></content>
 	<tabTrigger>SetFriendNotes</tabTrigger>
 	<description>("name", "note")</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

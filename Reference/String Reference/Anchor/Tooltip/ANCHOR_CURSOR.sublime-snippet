@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ANCHOR_CURSOR]]></content>
+	<tabTrigger>ANCHOR_CURSOR</tabTrigger>
+	<description>"anchor"</description>
+	<scope>source.lua string.anchortype-tooltip</scope>
+</snippet>

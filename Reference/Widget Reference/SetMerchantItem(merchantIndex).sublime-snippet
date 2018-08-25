@@ -2,5 +2,5 @@
 	<content><![CDATA[SetMerchantItem(${2:merchantIndex})$0]]></content>
 	<tabTrigger>SetMerchantItem</tabTrigger>
 	<description>(merchantIndex)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

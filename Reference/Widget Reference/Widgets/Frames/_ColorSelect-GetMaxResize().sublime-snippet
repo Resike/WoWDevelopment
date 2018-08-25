@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:maxWidth}, ${2:maxHeight} = ${3:ColorSelect}:GetMaxResize()$0]]></content>
 	<tabTrigger>_ColorSelect:GetMaxResize</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

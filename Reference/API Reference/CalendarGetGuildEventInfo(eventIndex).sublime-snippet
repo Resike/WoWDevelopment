@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarGetGuildEventInfo(${1:eventIndex})$0]]></content>
-	<tabTrigger>CalendarGetGuildEventInfo</tabTrigger>
-	<description>(eventIndex)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

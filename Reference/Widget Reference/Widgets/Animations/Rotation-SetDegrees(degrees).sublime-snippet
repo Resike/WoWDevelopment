@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:Rotation}:SetDegrees(${2:degrees})$0]]></content>
 	<tabTrigger>Rotation:SetDegrees</tabTrigger>
 	<description>(degrees)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

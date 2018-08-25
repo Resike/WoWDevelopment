@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[REPEAT]]></content>
+	<tabTrigger>REPEAT</tabTrigger>
+	<description>"loopType"</description>
+	<scope>source.lua string.looptype</scope>
+</snippet>

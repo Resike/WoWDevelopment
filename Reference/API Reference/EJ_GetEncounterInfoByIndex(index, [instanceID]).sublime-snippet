@@ -2,5 +2,5 @@
 	<content><![CDATA[EJ_GetEncounterInfoByIndex(${1:index}, ${2:[instanceID]})$0]]></content>
 	<tabTrigger>EJ_GetEncounterInfoByIndex</tabTrigger>
 	<description>(index, [instanceID])</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

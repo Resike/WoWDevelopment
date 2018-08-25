@@ -2,5 +2,5 @@
 	<content><![CDATA[SetSequence(${2:sequence})$0]]></content>
 	<tabTrigger>SetSequence</tabTrigger>
 	<description>(sequence)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

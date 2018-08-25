@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:type}, ${2:data}, ${3:subType}, ${4:subData} = GetCursorInfo()$0]]></content>
 	<tabTrigger>_GetCursorInfo</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

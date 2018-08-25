@@ -2,5 +2,5 @@
 	<content><![CDATA[CycleVariation(${1:variable}, ${2:delta})$0]]></content>
 	<tabTrigger>CycleVariation</tabTrigger>
 	<description>(variable, delta)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

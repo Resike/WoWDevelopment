@@ -2,5 +2,5 @@
 	<content><![CDATA[SetDegrees(${2:degrees})$0]]></content>
 	<tabTrigger>SetDegrees</tabTrigger>
 	<description>(degrees)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:itemIDs} = GetEquipmentSetItemIDs("${2:name}")$0]]></content>
-	<tabTrigger>_GetEquipmentSetItemIDs</tabTrigger>
-	<description>("name")</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[SetChecked(${2:enable})$0]]></content>
 	<tabTrigger>SetChecked</tabTrigger>
 	<description>(enable)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

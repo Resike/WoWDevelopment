@@ -2,5 +2,5 @@
 	<content><![CDATA[PlaySoundFile("${1:soundFile}", "${2:soundChannel}")$0]]></content>
 	<tabTrigger>PlaySoundFile</tabTrigger>
 	<description>("soundFile", "soundChannel")</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

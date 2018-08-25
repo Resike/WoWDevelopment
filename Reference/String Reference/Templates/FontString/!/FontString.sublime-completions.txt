@@ -1,0 +1,813 @@
+{
+	"scope": "source.lua string.template.fontstring",
+	"completions": [
+		{
+			"trigger": "AchievementCriteriaFont\t\"template\"",
+			"contents": "AchievementCriteriaFont"
+		},
+		{
+			"trigger": "AchievementDateFont\t\"template\"",
+			"contents": "AchievementDateFont"
+		},
+		{
+			"trigger": "AchievementDescriptionFont\t\"template\"",
+			"contents": "AchievementDescriptionFont"
+		},
+		{
+			"trigger": "AchievementPointsFont\t\"template\"",
+			"contents": "AchievementPointsFont"
+		},
+		{
+			"trigger": "BossEmoteNormalHuge\t\"template\"",
+			"contents": "BossEmoteNormalHuge"
+		},
+		{
+			"trigger": "CharCopyEditBoxFont\t\"template\"",
+			"contents": "CharCopyEditBoxFont"
+		},
+		{
+			"trigger": "ChatFontNormal\t\"template\"",
+			"contents": "ChatFontNormal"
+		},
+		{
+			"trigger": "ChatFontSmall\t\"template\"",
+			"contents": "ChatFontSmall"
+		},
+		{
+			"trigger": "CollectionsPageTextTemplate\t\"template\"",
+			"contents": "CollectionsPageTextTemplate"
+		},
+		{
+			"trigger": "ColorblindItemQualityTemplate\t\"template\"",
+			"contents": "ColorblindItemQualityTemplate"
+		},
+		{
+			"trigger": "CombatTextFont\t\"template\"",
+			"contents": "CombatTextFont"
+		},
+		{
+			"trigger": "CombatTextTemplate\t\"template\"",
+			"contents": "CombatTextTemplate"
+		},
+		{
+			"trigger": "CommentatorCCFont\t\"template\"",
+			"contents": "CommentatorCCFont"
+		},
+		{
+			"trigger": "CommentatorDeadFontDefault\t\"template\"",
+			"contents": "CommentatorDeadFontDefault"
+		},
+		{
+			"trigger": "CommentatorTeamNameFont\t\"template\"",
+			"contents": "CommentatorTeamNameFont"
+		},
+		{
+			"trigger": "CommentatorTeamScoreFont\t\"template\"",
+			"contents": "CommentatorTeamScoreFont"
+		},
+		{
+			"trigger": "CommentatorVictoryFanfare\t\"template\"",
+			"contents": "CommentatorVictoryFanfare"
+		},
+		{
+			"trigger": "CommentatorVictoryFanfareTeam\t\"template\"",
+			"contents": "CommentatorVictoryFanfareTeam"
+		},
+		{
+			"trigger": "ConsoleFontNormal\t\"template\"",
+			"contents": "ConsoleFontNormal"
+		},
+		{
+			"trigger": "DestinyFontHuge\t\"template\"",
+			"contents": "DestinyFontHuge"
+		},
+		{
+			"trigger": "DestinyFontLarge\t\"template\"",
+			"contents": "DestinyFontLarge"
+		},
+		{
+			"trigger": "ErrorFont\t\"template\"",
+			"contents": "ErrorFont"
+		},
+		{
+			"trigger": "EventTraceTimeFont\t\"template\"",
+			"contents": "EventTraceTimeFont"
+		},
+		{
+			"trigger": "FactionName_Shadow_Huge\t\"template\"",
+			"contents": "FactionName_Shadow_Huge"
+		},
+		{
+			"trigger": "FactionName_Shadow_Large\t\"template\"",
+			"contents": "FactionName_Shadow_Large"
+		},
+		{
+			"trigger": "Fancy14Font\t\"template\"",
+			"contents": "Fancy14Font"
+		},
+		{
+			"trigger": "Fancy16Font\t\"template\"",
+			"contents": "Fancy16Font"
+		},
+		{
+			"trigger": "Fancy20Font\t\"template\"",
+			"contents": "Fancy20Font"
+		},
+		{
+			"trigger": "Fancy22Font\t\"template\"",
+			"contents": "Fancy22Font"
+		},
+		{
+			"trigger": "Fancy24Font\t\"template\"",
+			"contents": "Fancy24Font"
+		},
+		{
+			"trigger": "Fancy48Font\t\"template\"",
+			"contents": "Fancy48Font"
+		},
+		{
+			"trigger": "FriendsFont_Large\t\"template\"",
+			"contents": "FriendsFont_Large"
+		},
+		{
+			"trigger": "FriendsFont_Normal\t\"template\"",
+			"contents": "FriendsFont_Normal"
+		},
+		{
+			"trigger": "FriendsFont_Small\t\"template\"",
+			"contents": "FriendsFont_Small"
+		},
+		{
+			"trigger": "FriendsFont_UserText\t\"template\"",
+			"contents": "FriendsFont_UserText"
+		},
+		{
+			"trigger": "Game10Font_o1\t\"template\"",
+			"contents": "Game10Font_o1"
+		},
+		{
+			"trigger": "Game120Font\t\"template\"",
+			"contents": "Game120Font"
+		},
+		{
+			"trigger": "Game12Font\t\"template\"",
+			"contents": "Game12Font"
+		},
+		{
+			"trigger": "Game13Font\t\"template\"",
+			"contents": "Game13Font"
+		},
+		{
+			"trigger": "Game13FontShadow\t\"template\"",
+			"contents": "Game13FontShadow"
+		},
+		{
+			"trigger": "Game15Font_o1\t\"template\"",
+			"contents": "Game15Font_o1"
+		},
+		{
+			"trigger": "Game16Font\t\"template\"",
+			"contents": "Game16Font"
+		},
+		{
+			"trigger": "Game18Font\t\"template\"",
+			"contents": "Game18Font"
+		},
+		{
+			"trigger": "Game24Font\t\"template\"",
+			"contents": "Game24Font"
+		},
+		{
+			"trigger": "Game27Font\t\"template\"",
+			"contents": "Game27Font"
+		},
+		{
+			"trigger": "Game30Font\t\"template\"",
+			"contents": "Game30Font"
+		},
+		{
+			"trigger": "Game32Font\t\"template\"",
+			"contents": "Game32Font"
+		},
+		{
+			"trigger": "Game42Font\t\"template\"",
+			"contents": "Game42Font"
+		},
+		{
+			"trigger": "Game48FontShadow\t\"template\"",
+			"contents": "Game48FontShadow"
+		},
+		{
+			"trigger": "GameFontBlack\t\"template\"",
+			"contents": "GameFontBlack"
+		},
+		{
+			"trigger": "GameFontBlackMedium\t\"template\"",
+			"contents": "GameFontBlackMedium"
+		},
+		{
+			"trigger": "GameFontBlackSmall\t\"template\"",
+			"contents": "GameFontBlackSmall"
+		},
+		{
+			"trigger": "GameFontBlackSmall2\t\"template\"",
+			"contents": "GameFontBlackSmall2"
+		},
+		{
+			"trigger": "GameFontBlackTiny\t\"template\"",
+			"contents": "GameFontBlackTiny"
+		},
+		{
+			"trigger": "GameFontDarkGraySmall\t\"template\"",
+			"contents": "GameFontDarkGraySmall"
+		},
+		{
+			"trigger": "GameFontDisable\t\"template\"",
+			"contents": "GameFontDisable"
+		},
+		{
+			"trigger": "GameFontDisableLarge\t\"template\"",
+			"contents": "GameFontDisableLarge"
+		},
+		{
+			"trigger": "GameFontDisableSmall\t\"template\"",
+			"contents": "GameFontDisableSmall"
+		},
+		{
+			"trigger": "GameFontDisableSmallLeft\t\"template\"",
+			"contents": "GameFontDisableSmallLeft"
+		},
+		{
+			"trigger": "GameFontGreen\t\"template\"",
+			"contents": "GameFontGreen"
+		},
+		{
+			"trigger": "GameFontGreenSmall\t\"template\"",
+			"contents": "GameFontGreenSmall"
+		},
+		{
+			"trigger": "GameFontHighlight\t\"template\"",
+			"contents": "GameFontHighlight"
+		},
+		{
+			"trigger": "GameFontHighlightCenter\t\"template\"",
+			"contents": "GameFontHighlightCenter"
+		},
+		{
+			"trigger": "GameFontHighlightExtraSmall\t\"template\"",
+			"contents": "GameFontHighlightExtraSmall"
+		},
+		{
+			"trigger": "GameFontHighlightHuge\t\"template\"",
+			"contents": "GameFontHighlightHuge"
+		},
+		{
+			"trigger": "GameFontHighlightHugeOutline2\t\"template\"",
+			"contents": "GameFontHighlightHugeOutline2"
+		},
+		{
+			"trigger": "GameFontHighlightLarge\t\"template\"",
+			"contents": "GameFontHighlightLarge"
+		},
+		{
+			"trigger": "GameFontHighlightLarge2\t\"template\"",
+			"contents": "GameFontHighlightLarge2"
+		},
+		{
+			"trigger": "GameFontHighlightLeft\t\"template\"",
+			"contents": "GameFontHighlightLeft"
+		},
+		{
+			"trigger": "GameFontHighlightMedium\t\"template\"",
+			"contents": "GameFontHighlightMedium"
+		},
+		{
+			"trigger": "GameFontHighlightOutline\t\"template\"",
+			"contents": "GameFontHighlightOutline"
+		},
+		{
+			"trigger": "GameFontHighlightRight\t\"template\"",
+			"contents": "GameFontHighlightRight"
+		},
+		{
+			"trigger": "GameFontHighlightSmall\t\"template\"",
+			"contents": "GameFontHighlightSmall"
+		},
+		{
+			"trigger": "GameFontHighlightSmall2\t\"template\"",
+			"contents": "GameFontHighlightSmall2"
+		},
+		{
+			"trigger": "GameFontHighlightSmallLeft\t\"template\"",
+			"contents": "GameFontHighlightSmallLeft"
+		},
+		{
+			"trigger": "GameFontHighlightSmallOutline\t\"template\"",
+			"contents": "GameFontHighlightSmallOutline"
+		},
+		{
+			"trigger": "GameFontHighlightSmallRight\t\"template\"",
+			"contents": "GameFontHighlightSmallRight"
+		},
+		{
+			"trigger": "GameFontNormal\t\"template\"",
+			"contents": "GameFontNormal"
+		},
+		{
+			"trigger": "GameFontNormalGraySmall\t\"template\"",
+			"contents": "GameFontNormalGraySmall"
+		},
+		{
+			"trigger": "GameFontNormalHuge\t\"template\"",
+			"contents": "GameFontNormalHuge"
+		},
+		{
+			"trigger": "GameFontNormalHuge2\t\"template\"",
+			"contents": "GameFontNormalHuge2"
+		},
+		{
+			"trigger": "GameFontNormalHuge3\t\"template\"",
+			"contents": "GameFontNormalHuge3"
+		},
+		{
+			"trigger": "GameFontNormalHuge3Outline\t\"template\"",
+			"contents": "GameFontNormalHuge3Outline"
+		},
+		{
+			"trigger": "GameFontNormalHugeOutline\t\"template\"",
+			"contents": "GameFontNormalHugeOutline"
+		},
+		{
+			"trigger": "GameFontNormalHugeOutline2\t\"template\"",
+			"contents": "GameFontNormalHugeOutline2"
+		},
+		{
+			"trigger": "GameFontNormalLarge\t\"template\"",
+			"contents": "GameFontNormalLarge"
+		},
+		{
+			"trigger": "GameFontNormalLarge2\t\"template\"",
+			"contents": "GameFontNormalLarge2"
+		},
+		{
+			"trigger": "GameFontNormalLargeLeft\t\"template\"",
+			"contents": "GameFontNormalLargeLeft"
+		},
+		{
+			"trigger": "GameFontNormalLeft\t\"template\"",
+			"contents": "GameFontNormalLeft"
+		},
+		{
+			"trigger": "GameFontNormalLeftBottom\t\"template\"",
+			"contents": "GameFontNormalLeftBottom"
+		},
+		{
+			"trigger": "GameFontNormalLeftRed\t\"template\"",
+			"contents": "GameFontNormalLeftRed"
+		},
+		{
+			"trigger": "GameFontNormalMed1\t\"template\"",
+			"contents": "GameFontNormalMed1"
+		},
+		{
+			"trigger": "GameFontNormalMed2\t\"template\"",
+			"contents": "GameFontNormalMed2"
+		},
+		{
+			"trigger": "GameFontNormalMed3\t\"template\"",
+			"contents": "GameFontNormalMed3"
+		},
+		{
+			"trigger": "GameFontNormalRight\t\"template\"",
+			"contents": "GameFontNormalRight"
+		},
+		{
+			"trigger": "GameFontNormalShadowHuge2\t\"template\"",
+			"contents": "GameFontNormalShadowHuge2"
+		},
+		{
+			"trigger": "GameFontNormalSmall\t\"template\"",
+			"contents": "GameFontNormalSmall"
+		},
+		{
+			"trigger": "GameFontNormalSmall2\t\"template\"",
+			"contents": "GameFontNormalSmall2"
+		},
+		{
+			"trigger": "GameFontNormalSmallLeft\t\"template\"",
+			"contents": "GameFontNormalSmallLeft"
+		},
+		{
+			"trigger": "GameFontNormalWTF2\t\"template\"",
+			"contents": "GameFontNormalWTF2"
+		},
+		{
+			"trigger": "GameFontNormalWTF2Outline\t\"template\"",
+			"contents": "GameFontNormalWTF2Outline"
+		},
+		{
+			"trigger": "GameFontNormal_NoShadow\t\"template\"",
+			"contents": "GameFontNormal_NoShadow"
+		},
+		{
+			"trigger": "GameFontRed\t\"template\"",
+			"contents": "GameFontRed"
+		},
+		{
+			"trigger": "GameFontRedLarge\t\"template\"",
+			"contents": "GameFontRedLarge"
+		},
+		{
+			"trigger": "GameFontRedSmall\t\"template\"",
+			"contents": "GameFontRedSmall"
+		},
+		{
+			"trigger": "GameFontWhite\t\"template\"",
+			"contents": "GameFontWhite"
+		},
+		{
+			"trigger": "GameFontWhiteSmall\t\"template\"",
+			"contents": "GameFontWhiteSmall"
+		},
+		{
+			"trigger": "GameFontWhiteTiny\t\"template\"",
+			"contents": "GameFontWhiteTiny"
+		},
+		{
+			"trigger": "GameFont_Gigantic\t\"template\"",
+			"contents": "GameFont_Gigantic"
+		},
+		{
+			"trigger": "GameNormalNumberFont\t\"template\"",
+			"contents": "GameNormalNumberFont"
+		},
+		{
+			"trigger": "GameTooltipHeaderText\t\"template\"",
+			"contents": "GameTooltipHeaderText"
+		},
+		{
+			"trigger": "GameTooltipText\t\"template\"",
+			"contents": "GameTooltipText"
+		},
+		{
+			"trigger": "GameTooltipTextSmall\t\"template\"",
+			"contents": "GameTooltipTextSmall"
+		},
+		{
+			"trigger": "GlueEditBoxFont\t\"template\"",
+			"contents": "GlueEditBoxFont"
+		},
+		{
+			"trigger": "GlueFontCharacterCreate\t\"template\"",
+			"contents": "GlueFontCharacterCreate"
+		},
+		{
+			"trigger": "GlueFontDisableLarge\t\"template\"",
+			"contents": "GlueFontDisableLarge"
+		},
+		{
+			"trigger": "GlueFontDisableSmall\t\"template\"",
+			"contents": "GlueFontDisableSmall"
+		},
+		{
+			"trigger": "GlueFontHighlight\t\"template\"",
+			"contents": "GlueFontHighlight"
+		},
+		{
+			"trigger": "GlueFontHighlightHuge\t\"template\"",
+			"contents": "GlueFontHighlightHuge"
+		},
+		{
+			"trigger": "GlueFontHighlightSmall\t\"template\"",
+			"contents": "GlueFontHighlightSmall"
+		},
+		{
+			"trigger": "GlueFontNormal\t\"template\"",
+			"contents": "GlueFontNormal"
+		},
+		{
+			"trigger": "GlueFontNormalExtraSmall\t\"template\"",
+			"contents": "GlueFontNormalExtraSmall"
+		},
+		{
+			"trigger": "GlueFontNormalGigantor\t\"template\"",
+			"contents": "GlueFontNormalGigantor"
+		},
+		{
+			"trigger": "GlueFontNormalHuge\t\"template\"",
+			"contents": "GlueFontNormalHuge"
+		},
+		{
+			"trigger": "GlueFontNormalLarge\t\"template\"",
+			"contents": "GlueFontNormalLarge"
+		},
+		{
+			"trigger": "GlueFontNormalSmall\t\"template\"",
+			"contents": "GlueFontNormalSmall"
+		},
+		{
+			"trigger": "GlueFontRedLarge\t\"template\"",
+			"contents": "GlueFontRedLarge"
+		},
+		{
+			"trigger": "GlueFontRedSmall\t\"template\"",
+			"contents": "GlueFontRedSmall"
+		},
+		{
+			"trigger": "InvoiceFont_Small\t\"template\"",
+			"contents": "InvoiceFont_Small"
+		},
+		{
+			"trigger": "InvoiceTextFontNormal\t\"template\"",
+			"contents": "InvoiceTextFontNormal"
+		},
+		{
+			"trigger": "InvoiceTextFontSmall\t\"template\"",
+			"contents": "InvoiceTextFontSmall"
+		},
+		{
+			"trigger": "LootUpgradeFrame_ItemNameTemplate\t\"template\"",
+			"contents": "LootUpgradeFrame_ItemNameTemplate"
+		},
+		{
+			"trigger": "MailFont_Large\t\"template\"",
+			"contents": "MailFont_Large"
+		},
+		{
+			"trigger": "MailTextFontNormal\t\"template\"",
+			"contents": "MailTextFontNormal"
+		},
+		{
+			"trigger": "MovieSubtitleFont\t\"template\"",
+			"contents": "MovieSubtitleFont"
+		},
+		{
+			"trigger": "NewSubSpellFont\t\"template\"",
+			"contents": "NewSubSpellFont"
+		},
+		{
+			"trigger": "NPE_TutorialKeyString\t\"template\"",
+			"contents": "NPE_TutorialKeyString"
+		},
+		{
+			"trigger": "Number12Font_o1\t\"template\"",
+			"contents": "Number12Font_o1"
+		},
+		{
+			"trigger": "NumberFontNormal\t\"template\"",
+			"contents": "NumberFontNormal"
+		},
+		{
+			"trigger": "NumberFontNormalGray\t\"template\"",
+			"contents": "NumberFontNormalGray"
+		},
+		{
+			"trigger": "NumberFontNormalHuge\t\"template\"",
+			"contents": "NumberFontNormalHuge"
+		},
+		{
+			"trigger": "NumberFontNormalLarge\t\"template\"",
+			"contents": "NumberFontNormalLarge"
+		},
+		{
+			"trigger": "NumberFontNormalRight\t\"template\"",
+			"contents": "NumberFontNormalRight"
+		},
+		{
+			"trigger": "NumberFontNormalSmall\t\"template\"",
+			"contents": "NumberFontNormalSmall"
+		},
+		{
+			"trigger": "NumberFontNormalSmallGray\t\"template\"",
+			"contents": "NumberFontNormalSmallGray"
+		},
+		{
+			"trigger": "NumberFontNormalYellow\t\"template\"",
+			"contents": "NumberFontNormalYellow"
+		},
+		{
+			"trigger": "NumberFont_Shadow_Med\t\"template\"",
+			"contents": "NumberFont_Shadow_Med"
+		},
+		{
+			"trigger": "NumberFont_Shadow_Small\t\"template\"",
+			"contents": "NumberFont_Shadow_Small"
+		},
+		{
+			"trigger": "NumberFont_Shadow_Tiny\t\"template\"",
+			"contents": "NumberFont_Shadow_Tiny"
+		},
+		{
+			"trigger": "NumberFont_Small\t\"template\"",
+			"contents": "NumberFont_Small"
+		},
+		{
+			"trigger": "ObjectiveFont\t\"template\"",
+			"contents": "ObjectiveFont"
+		},
+		{
+			"trigger": "OptionsFont\t\"template\"",
+			"contents": "OptionsFont"
+		},
+		{
+			"trigger": "OptionsFontHighlight\t\"template\"",
+			"contents": "OptionsFontHighlight"
+		},
+		{
+			"trigger": "OptionsFontHighlightSmall\t\"template\"",
+			"contents": "OptionsFontHighlightSmall"
+		},
+		{
+			"trigger": "OptionsFontLarge\t\"template\"",
+			"contents": "OptionsFontLarge"
+		},
+		{
+			"trigger": "OptionsFontSmall\t\"template\"",
+			"contents": "OptionsFontSmall"
+		},
+		{
+			"trigger": "OptionsFontSmallLeft\t\"template\"",
+			"contents": "OptionsFontSmallLeft"
+		},
+		{
+			"trigger": "OrderHallTalentFrameTick\t\"template\"",
+			"contents": "OrderHallTalentFrameTick"
+		},
+		{
+			"trigger": "PVPInfoTextFont\t\"template\"",
+			"contents": "PVPInfoTextFont"
+		},
+		{
+			"trigger": "QuestFont\t\"template\"",
+			"contents": "QuestFont"
+		},
+		{
+			"trigger": "QuestFontHighlight\t\"template\"",
+			"contents": "QuestFontHighlight"
+		},
+		{
+			"trigger": "QuestFontNormalHuge\t\"template\"",
+			"contents": "QuestFontNormalHuge"
+		},
+		{
+			"trigger": "QuestFontNormalLarge\t\"template\"",
+			"contents": "QuestFontNormalLarge"
+		},
+		{
+			"trigger": "QuestFontNormalSmall\t\"template\"",
+			"contents": "QuestFontNormalSmall"
+		},
+		{
+			"trigger": "QuestFont_Enormous\t\"template\"",
+			"contents": "QuestFont_Enormous"
+		},
+		{
+			"trigger": "QuestFont_Huge\t\"template\"",
+			"contents": "QuestFont_Huge"
+		},
+		{
+			"trigger": "QuestFont_Large\t\"template\"",
+			"contents": "QuestFont_Large"
+		},
+		{
+			"trigger": "QuestFont_Outline_Huge\t\"template\"",
+			"contents": "QuestFont_Outline_Huge"
+		},
+		{
+			"trigger": "QuestFont_Shadow_Huge\t\"template\"",
+			"contents": "QuestFont_Shadow_Huge"
+		},
+		{
+			"trigger": "QuestFont_Shadow_Small\t\"template\"",
+			"contents": "QuestFont_Shadow_Small"
+		},
+		{
+			"trigger": "QuestFont_Super_Huge\t\"template\"",
+			"contents": "QuestFont_Super_Huge"
+		},
+		{
+			"trigger": "QuestMapRewardsFont\t\"template\"",
+			"contents": "QuestMapRewardsFont"
+		},
+		{
+			"trigger": "QuestTitleFont\t\"template\"",
+			"contents": "QuestTitleFont"
+		},
+		{
+			"trigger": "QuestTitleFontBlackShadow\t\"template\"",
+			"contents": "QuestTitleFontBlackShadow"
+		},
+		{
+			"trigger": "QuickJoinButtonMemberTemplate\t\"template\"",
+			"contents": "QuickJoinButtonMemberTemplate"
+		},
+		{
+			"trigger": "QuickJoinButtonQueueTemplate\t\"template\"",
+			"contents": "QuickJoinButtonQueueTemplate"
+		},
+		{
+			"trigger": "ReputationDetailFont\t\"template\"",
+			"contents": "ReputationDetailFont"
+		},
+		{
+			"trigger": "SplashHeaderFont\t\"template\"",
+			"contents": "SplashHeaderFont"
+		},
+		{
+			"trigger": "SubSpellFont\t\"template\"",
+			"contents": "SubSpellFont"
+		},
+		{
+			"trigger": "SubZoneTextFont\t\"template\"",
+			"contents": "SubZoneTextFont"
+		},
+		{
+			"trigger": "SystemFont_Huge1\t\"template\"",
+			"contents": "SystemFont_Huge1"
+		},
+		{
+			"trigger": "SystemFont_Huge1_Outline\t\"template\"",
+			"contents": "SystemFont_Huge1_Outline"
+		},
+		{
+			"trigger": "SystemFont_Large\t\"template\"",
+			"contents": "SystemFont_Large"
+		},
+		{
+			"trigger": "SystemFont_Med1\t\"template\"",
+			"contents": "SystemFont_Med1"
+		},
+		{
+			"trigger": "SystemFont_Med3\t\"template\"",
+			"contents": "SystemFont_Med3"
+		},
+		{
+			"trigger": "SystemFont_NamePlate\t\"template\"",
+			"contents": "SystemFont_NamePlate"
+		},
+		{
+			"trigger": "SystemFont_OutlineThick_Huge2\t\"template\"",
+			"contents": "SystemFont_OutlineThick_Huge2"
+		},
+		{
+			"trigger": "SystemFont_Shadow_Huge3\t\"template\"",
+			"contents": "SystemFont_Shadow_Huge3"
+		},
+		{
+			"trigger": "SystemFont_Shadow_Large\t\"template\"",
+			"contents": "SystemFont_Shadow_Large"
+		},
+		{
+			"trigger": "SystemFont_Shadow_Large2\t\"template\"",
+			"contents": "SystemFont_Shadow_Large2"
+		},
+		{
+			"trigger": "SystemFont_Shadow_Large_Outline\t\"template\"",
+			"contents": "SystemFont_Shadow_Large_Outline"
+		},
+		{
+			"trigger": "SystemFont_Shadow_Med1\t\"template\"",
+			"contents": "SystemFont_Shadow_Med1"
+		},
+		{
+			"trigger": "SystemFont_Shadow_Med2\t\"template\"",
+			"contents": "SystemFont_Shadow_Med2"
+		},
+		{
+			"trigger": "SystemFont_Shadow_Small\t\"template\"",
+			"contents": "SystemFont_Shadow_Small"
+		},
+		{
+			"trigger": "SystemFont_Small2\t\"template\"",
+			"contents": "SystemFont_Small2"
+		},
+		{
+			"trigger": "TextStatusBarText\t\"template\"",
+			"contents": "TextStatusBarText"
+		},
+		{
+			"trigger": "TextStatusBarTextLarge\t\"template\"",
+			"contents": "TextStatusBarTextLarge"
+		},
+		{
+			"trigger": "TOSFont\t\"template\"",
+			"contents": "TOSFont"
+		},
+		{
+			"trigger": "VehicleMenuBarStatusBarText\t\"template\"",
+			"contents": "VehicleMenuBarStatusBarText"
+		},
+		{
+			"trigger": "WhiteNormalNumberFont\t\"template\"",
+			"contents": "WhiteNormalNumberFont"
+		},
+		{
+			"trigger": "WorldMapTextFont\t\"template\"",
+			"contents": "WorldMapTextFont"
+		},
+		{
+			"trigger": "ZoneTextFont\t\"template\"",
+			"contents": "ZoneTextFont"
+		},
+	]
+}

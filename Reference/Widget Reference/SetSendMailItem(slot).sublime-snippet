@@ -2,5 +2,5 @@
 	<content><![CDATA[SetSendMailItem(${2:slot})$0]]></content>
 	<tabTrigger>SetSendMailItem</tabTrigger>
 	<description>(slot)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

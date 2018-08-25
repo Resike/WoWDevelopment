@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:registered}, ${2:unit1}, ${3:unit2} = ${4:ColorSelect}:IsEventRegistered("${5:event}")$0]]></content>
 	<tabTrigger>_ColorSelect:IsEventRegistered</tabTrigger>
 	<description>("event")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

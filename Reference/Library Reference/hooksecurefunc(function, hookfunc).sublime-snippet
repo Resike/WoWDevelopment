@@ -2,5 +2,5 @@
 	<content><![CDATA[hooksecurefunc("${1:function}", ${2:hookfunc})$0]]></content>
 	<tabTrigger>hooksecurefunc</tabTrigger>
 	<description>("function", hookfunc)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

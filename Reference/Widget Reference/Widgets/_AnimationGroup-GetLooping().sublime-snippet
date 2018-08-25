@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:loopType} = ${2:AnimationGroup}:GetLooping()$0]]></content>
 	<tabTrigger>_AnimationGroup:GetLooping</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

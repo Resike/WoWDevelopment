@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FactionName_Shadow_Huge]]></content>
+	<tabTrigger>FactionName_Shadow_Huge</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

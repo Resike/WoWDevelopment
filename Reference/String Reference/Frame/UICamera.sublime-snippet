@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UICamera]]></content>
+	<tabTrigger>UICamera</tabTrigger>
+	<description>"frameType"</description>
+	<scope>source.lua string.frametype</scope>
+</snippet>

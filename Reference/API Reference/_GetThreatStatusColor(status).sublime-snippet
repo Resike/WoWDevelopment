@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:red}, ${2:green}, ${3:blue} = GetThreatStatusColor(${4:status})$0]]></content>
 	<tabTrigger>_GetThreatStatusColor</tabTrigger>
 	<description>(status)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

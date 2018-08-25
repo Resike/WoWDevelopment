@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Checkout]]></content>
+	<tabTrigger>Checkout</tabTrigger>
+	<description>"frameType"</description>
+	<scope>source.lua string.frametype</scope>
+</snippet>

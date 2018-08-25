@@ -2,5 +2,5 @@
 	<content><![CDATA[RegisterUnitEvent("${1:event}", "${2:unit1}", "${3:unit2}")$0]]></content>
 	<tabTrigger>RegisterUnitEvent</tabTrigger>
 	<description>("event", "unit1", "unit2")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[GetDontSavePosition()$0]]></content>
 	<tabTrigger>GetDontSavePosition</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

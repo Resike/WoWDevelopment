@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:petitionType}, ${2:title}, ${3:bodyText}, ${4:maxSignatures}, ${5:originatorName}, ${6:isOriginator}, ${7:minSignatures} = GetPetitionInfo()$0]]></content>
 	<tabTrigger>_GetPetitionInfo</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

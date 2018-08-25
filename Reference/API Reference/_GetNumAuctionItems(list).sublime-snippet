@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:numBatchAuctions}, ${2:totalAuctions} = GetNumAuctionItems("${3:list}")$0]]></content>
 	<tabTrigger>_GetNumAuctionItems</tabTrigger>
 	<description>("list")</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

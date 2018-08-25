@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetQuestWorldMapAreaID(${1:questID})$0]]></content>
-	<tabTrigger>GetQuestWorldMapAreaID</tabTrigger>
-	<description>(questID)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

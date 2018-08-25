@@ -2,5 +2,5 @@
 	<content><![CDATA[SetupTextureKits(${1:textureKitID}, ${2:frame}, ${3:regions})$0]]></content>
 	<tabTrigger>SetupTextureKits</tabTrigger>
 	<description>(textureKitID, frame, regions)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:currXP}, ${2:nextXP} = GetPetExperience()$0]]></content>
 	<tabTrigger>_GetPetExperience</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

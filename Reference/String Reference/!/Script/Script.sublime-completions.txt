@@ -214,6 +214,10 @@
 			"contents": "OnReceiveDrag",
 		},
 		{
+			"trigger": "OnRequestNewSize\t\"scriptType\"",
+			"contents": "OnRequestNewSize",
+		},
+		{
 			"trigger": "OnScrollRangeChanged\t\"scriptType\"",
 			"contents": "OnScrollRangeChanged",
 		},
@@ -284,6 +288,10 @@
 		{
 			"trigger": "OnTooltipSetUnit\t\"scriptType\"",
 			"contents": "OnTooltipSetUnit",
+		},
+		{
+			"trigger": "OnUiMapChanged\t\"scriptType\"",
+			"contents": "OnUiMapChanged",
 		},
 		{
 			"trigger": "OnUpdate\t\"scriptType\"",

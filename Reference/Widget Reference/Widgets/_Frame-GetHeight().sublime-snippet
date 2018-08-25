@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:height} = ${2:Frame}:GetHeight()$0]]></content>
 	<tabTrigger>_Frame:GetHeight</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

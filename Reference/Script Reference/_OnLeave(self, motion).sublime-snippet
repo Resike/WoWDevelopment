@@ -4,5 +4,5 @@
 end$0]]></content>
 	<tabTrigger>_OnLeave</tabTrigger>
 	<description>(self, motion)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

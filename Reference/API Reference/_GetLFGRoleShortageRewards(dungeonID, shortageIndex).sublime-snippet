@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:eligible}, ${2:forTank}, ${3:forHealer}, ${4:forDamage}, ${5:itemCount}, ${6:money}, ${7:xp} = GetLFGRoleShortageRewards(${8:dungeonID}, ${9:shortageIndex})$0]]></content>
 	<tabTrigger>_GetLFGRoleShortageRewards</tabTrigger>
 	<description>(dungeonID, shortageIndex)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IsStereoVideoAvailable()$0]]></content>
-	<tabTrigger>IsStereoVideoAvailable</tabTrigger>
-	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

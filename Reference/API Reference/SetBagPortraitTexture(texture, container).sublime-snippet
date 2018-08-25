@@ -2,5 +2,5 @@
 	<content><![CDATA[SetBagPortraitTexture(${1:texture}, ${2:container})$0]]></content>
 	<tabTrigger>SetBagPortraitTexture</tabTrigger>
 	<description>(texture, container)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

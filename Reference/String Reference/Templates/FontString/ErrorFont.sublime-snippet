@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ErrorFont]]></content>
+	<tabTrigger>ErrorFont</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

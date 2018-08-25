@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:text}, ${2:gossipType}, ${3:...} = GetGossipOptions()$0]]></content>
 	<tabTrigger>_GetGossipOptions</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

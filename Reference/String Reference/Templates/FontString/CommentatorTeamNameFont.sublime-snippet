@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommentatorTeamNameFont]]></content>
+	<tabTrigger>CommentatorTeamNameFont</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

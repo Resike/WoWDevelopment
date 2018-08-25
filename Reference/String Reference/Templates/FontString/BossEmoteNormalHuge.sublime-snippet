@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BossEmoteNormalHuge]]></content>
+	<tabTrigger>BossEmoteNormalHuge</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

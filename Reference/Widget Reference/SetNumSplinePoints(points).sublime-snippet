@@ -2,5 +2,5 @@
 	<content><![CDATA[SetNumSplinePoints(${2:points})$0]]></content>
 	<tabTrigger>SetNumSplinePoints</tabTrigger>
 	<description>(points)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

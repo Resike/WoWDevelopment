@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:ColorSelect}:SetBackdrop(${2:backdrop})$0]]></content>
 	<tabTrigger>ColorSelect:SetBackdrop</tabTrigger>
 	<description>(backdrop)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

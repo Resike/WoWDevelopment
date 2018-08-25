@@ -2,5 +2,5 @@
 	<content><![CDATA[IsObjectType("${3:type}")$0]]></content>
 	<tabTrigger>IsObjectType</tabTrigger>
 	<description>("type")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

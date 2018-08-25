@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PVPInfoTextFont]]></content>
+	<tabTrigger>PVPInfoTextFont</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

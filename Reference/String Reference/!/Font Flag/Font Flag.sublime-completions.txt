@@ -1,0 +1,17 @@
+{
+	"scope": "source.lua string.fontflag",
+	"completions": [
+		{
+			"trigger": "MONOCHROME\t\"fontFlag\"",
+			"contents": "MONOCHROME",
+		},
+		{
+			"trigger": "OUTLINE\t\"fontFlag\"",
+			"contents": "OUTLINE",
+		},
+		{
+			"trigger": "THICKOUTLINE\t\"fontFlag\"",
+			"contents": "THICKOUTLINE",
+		},
+	]
+}

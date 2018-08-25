@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FogOfWarFrame]]></content>
+	<tabTrigger>FogOfWarFrame</tabTrigger>
+	<description>"frameType"</description>
+	<scope>source.lua string.frametype</scope>
+</snippet>

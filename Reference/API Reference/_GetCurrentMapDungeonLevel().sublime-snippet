@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:dungeonLevel}, ${2:x1}, ${3:y1}, ${4:x2}, ${5:y2} = GetCurrentMapDungeonLevel()$0]]></content>
-	<tabTrigger>_GetCurrentMapDungeonLevel</tabTrigger>
-	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

@@ -1,5 +1,5 @@
 {
-	"scope": "source.lua - entity - punctuation - keyword - string",
+	"scope": "source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua",
 	"completions": [
 		{
 			"trigger": "Button:CanChangeAttribute\t()",

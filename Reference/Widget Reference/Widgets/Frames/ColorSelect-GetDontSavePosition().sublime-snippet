@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:ColorSelect}:GetDontSavePosition()$0]]></content>
 	<tabTrigger>ColorSelect:GetDontSavePosition</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

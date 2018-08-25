@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarContextInviteIsPending(${1:[monthOffset]}, ${2:day}, ${3:index})$0]]></content>
-	<tabTrigger>CalendarContextInviteIsPending</tabTrigger>
-	<description>([monthOffset], day, index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

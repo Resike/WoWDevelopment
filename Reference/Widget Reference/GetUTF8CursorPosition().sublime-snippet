@@ -2,5 +2,5 @@
 	<content><![CDATA[GetUTF8CursorPosition()$0]]></content>
 	<tabTrigger>GetUTF8CursorPosition</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

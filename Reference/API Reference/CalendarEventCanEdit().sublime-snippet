@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CalendarEventCanEdit()$0]]></content>
-	<tabTrigger>CalendarEventCanEdit</tabTrigger>
-	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

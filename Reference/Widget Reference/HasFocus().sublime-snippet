@@ -2,5 +2,5 @@
 	<content><![CDATA[HasFocus()$0]]></content>
 	<tabTrigger>HasFocus</tabTrigger>
 	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

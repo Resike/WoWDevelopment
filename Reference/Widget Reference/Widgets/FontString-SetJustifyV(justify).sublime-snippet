@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:FontString}:SetJustifyV("justify")$0]]></content>
 	<tabTrigger>FontString:SetJustifyV</tabTrigger>
 	<description>("justify")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

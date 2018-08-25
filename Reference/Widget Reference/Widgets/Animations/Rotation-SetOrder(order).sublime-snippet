@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:Rotation}:SetOrder(${2:order})$0]]></content>
 	<tabTrigger>Rotation:SetOrder</tabTrigger>
 	<description>(order)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

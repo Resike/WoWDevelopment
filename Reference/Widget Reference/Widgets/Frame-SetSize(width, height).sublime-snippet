@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:Frame}:SetSize(${2:width}, ${3:height})$0]]></content>
 	<tabTrigger>Frame:SetSize</tabTrigger>
 	<description>(width, height)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

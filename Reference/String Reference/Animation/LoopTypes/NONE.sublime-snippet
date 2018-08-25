@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NONE]]></content>
+	<tabTrigger>NONE</tabTrigger>
+	<description>"loopType"</description>
+	<scope>source.lua string.looptype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:Minimap}:SetPlayerTextureHeight(${2:height})$0]]></content>
+	<tabTrigger>Minimap:SetPlayerTextureHeight</tabTrigger>
+	<description>(height)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

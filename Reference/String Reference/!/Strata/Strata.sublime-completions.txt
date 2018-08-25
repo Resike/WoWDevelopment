@@ -30,6 +30,10 @@
 			"contents": "MEDIUM",
 		},
 		{
+			"trigger": "PARENT\t\"strata\"",
+			"contents": "PARENT",
+		},
+		{
 			"trigger": "TOOLTIP\t\"strata\"",
 			"contents": "TOOLTIP",
 		},

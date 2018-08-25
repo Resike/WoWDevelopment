@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CharCopyEditBoxFont]]></content>
+	<tabTrigger>CharCopyEditBoxFont</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

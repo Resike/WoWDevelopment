@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SendAddonMessage("${1:prefix}", "${2:message}", ${3:["type"]}, ${4:["target"]})$0]]></content>
-	<tabTrigger>SendAddonMessage</tabTrigger>
-	<description>("prefix", "message", ["type"], ["target"])</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

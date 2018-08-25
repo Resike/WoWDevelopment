@@ -2,5 +2,5 @@
 	<content><![CDATA[SetColorRGB(${2:red}, ${3:blue}, ${4:green})$0]]></content>
 	<tabTrigger>SetColorRGB</tabTrigger>
 	<description>(red, blue, green)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

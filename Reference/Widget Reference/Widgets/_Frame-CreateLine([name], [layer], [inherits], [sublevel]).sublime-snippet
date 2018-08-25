@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:texture} = ${2:Frame}:CreateLine(${3:["name"]}, "${4:[layer]}", ${5:["inherits"]}, ${6:[sublevel]})$0]]></content>
 	<tabTrigger>_Frame:CreateLine</tabTrigger>
 	<description>(["name"], ["layer"], ["inherits"], [sublevel])</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

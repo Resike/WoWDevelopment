@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetMuteName(${1:index})$0]]></content>
-	<tabTrigger>GetMuteName</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

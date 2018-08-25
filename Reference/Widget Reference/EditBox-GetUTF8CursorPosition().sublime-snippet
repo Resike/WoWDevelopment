@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:EditBox}:GetUTF8CursorPosition()$0]]></content>
-	<tabTrigger>EditBox:GetUTF8CursorPosition</tabTrigger>
-	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
-</snippet>

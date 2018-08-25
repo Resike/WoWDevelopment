@@ -2,5 +2,5 @@
 	<content><![CDATA[IsUnit("${1:unit}")$0]]></content>
 	<tabTrigger>IsUnit</tabTrigger>
 	<description>("unit")</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua meta.method-call.lua</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:degrees} = deg(${2:radians})$0]]></content>
 	<tabTrigger>_deg</tabTrigger>
 	<description>(radians)</description>
-	<scope>source.lua - entity - punctuation - keyword - string</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

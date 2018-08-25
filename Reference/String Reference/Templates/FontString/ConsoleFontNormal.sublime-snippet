@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ConsoleFontNormal]]></content>
+	<tabTrigger>ConsoleFontNormal</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

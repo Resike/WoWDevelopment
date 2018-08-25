@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ChatConfigCheckBoxWithSwatchTemplate]]></content>
+	<tabTrigger>ChatConfigCheckBoxWithSwatchTemplate</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.frame</scope>
+</snippet>
