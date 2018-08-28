@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_Club.CreateStream("${1:clubId}", "${2:name}", "${3:subject}", ${4:leadersAndModeratorsOnly})$0]]></content>
+	<tabTrigger>C_Club.CreateStream</tabTrigger>
+	<description>("clubId", "name", "subject", leadersAndModeratorsOnly)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

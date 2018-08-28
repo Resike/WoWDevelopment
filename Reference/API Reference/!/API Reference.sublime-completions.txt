@@ -1538,6 +1538,11 @@
 		{"trigger": "WarGameRespond\t(accept)", "contents": "WarGameRespond(${1:accept})$0"},
 		{"trigger": "WithdrawGuildBankMoney\t(amount)", "contents": "WithdrawGuildBankMoney(${1:amount})$0"},
 		{"trigger": "WrapTextInColorCode\t(text, colorHexString)", "contents": "WrapTextInColorCode(\"${1:text}\", \"${2:colorHexString}\")$0"},
+
+
+
+
+
 		{"trigger": "_AbbreviateLargeNumbers\t(\"value\")", "contents": "${1:formattedValue} = AbbreviateLargeNumbers(\"${2:value}\")$0"},
 		{"trigger": "_AbbreviateNumbers\t(\"value\")", "contents": "${1:formattedValue} = AbbreviateNumbers(\"${2:value}\")$0"},
 		{"trigger": "_ActionHasRange\t(slot)", "contents": "${1:hasRange} = ActionHasRange(${2:slot})$0"},

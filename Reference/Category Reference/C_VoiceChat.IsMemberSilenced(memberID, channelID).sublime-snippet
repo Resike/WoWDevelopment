@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_VoiceChat.IsMemberSilenced(${1:memberID}, ${2:channelID})$0]]></content>
+	<tabTrigger>C_VoiceChat.IsMemberSilenced</tabTrigger>
+	<description>(memberID, channelID)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:canComplain} = C_Calendar.ContextMenuEventCanComplain(${2:offsetMonths}, ${3:monthDay}, ${4:eventIndex})$0]]></content>
+	<tabTrigger>_C_Calendar.ContextMenuEventCanComplain</tabTrigger>
+	<description>(offsetMonths, monthDay, eventIndex)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

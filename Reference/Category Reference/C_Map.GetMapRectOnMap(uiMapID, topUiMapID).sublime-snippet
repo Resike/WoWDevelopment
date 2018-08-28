@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_Map.GetMapRectOnMap(${1:uiMapID}, ${2:topUiMapID})$0]]></content>
+	<tabTrigger>C_Map.GetMapRectOnMap</tabTrigger>
+	<description>(uiMapID, topUiMapID)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

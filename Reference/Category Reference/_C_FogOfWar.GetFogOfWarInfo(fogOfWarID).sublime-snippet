@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:fogOfWarInfo} = C_FogOfWar.GetFogOfWarInfo(${2:fogOfWarID})$0]]></content>
+	<tabTrigger>_C_FogOfWar.GetFogOfWarInfo</tabTrigger>
+	<description>(fogOfWarID)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_Club.EditClub("${1:clubId}", ["${2:name}", ["${3:shortName}", ["${4:description}", [${5:avatarId}, ["${6:broadcast}"]]]]])$0]]></content>
+	<tabTrigger>C_Club.EditClub</tabTrigger>
+	<description>("clubId", ["name", ["shortName", ["description", [avatarId, ["broadcast"]]]]])</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

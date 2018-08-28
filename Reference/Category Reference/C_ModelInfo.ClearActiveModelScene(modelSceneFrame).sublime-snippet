@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_ModelInfo.ClearActiveModelScene(${1:modelSceneFrame})$0]]></content>
+	<tabTrigger>C_ModelInfo.ClearActiveModelScene</tabTrigger>
+	<description>(modelSceneFrame)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

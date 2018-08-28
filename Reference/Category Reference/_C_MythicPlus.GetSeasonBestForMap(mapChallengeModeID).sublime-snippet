@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:durationSec}, ${2:level}, ${3:completionDate}, ${4:affixIDs}, ${5:members} = C_MythicPlus.GetSeasonBestForMap(${6:mapChallengeModeID})$0]]></content>
+	<tabTrigger>_C_MythicPlus.GetSeasonBestForMap</tabTrigger>
+	<description>(mapChallengeModeID)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

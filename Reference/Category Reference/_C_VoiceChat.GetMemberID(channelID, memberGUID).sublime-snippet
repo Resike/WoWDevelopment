@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:memberID} = C_VoiceChat.GetMemberID(${2:channelID}, "${3:memberGUID}")$0]]></content>
+	<tabTrigger>_C_VoiceChat.GetMemberID</tabTrigger>
+	<description>(channelID, "memberGUID")</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

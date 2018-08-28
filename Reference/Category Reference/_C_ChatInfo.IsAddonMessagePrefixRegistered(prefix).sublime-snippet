@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:isRegistered} = C_ChatInfo.IsAddonMessagePrefixRegistered("${2:prefix}")$0]]></content>
+	<tabTrigger>_C_ChatInfo.IsAddonMessagePrefixRegistered</tabTrigger>
+	<description>("prefix")</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

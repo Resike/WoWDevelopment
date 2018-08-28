@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_Console.SetFontHeight(${1:fontHeightInPixels})$0]]></content>
+	<tabTrigger>C_Console.SetFontHeight</tabTrigger>
+	<description>(fontHeightInPixels)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

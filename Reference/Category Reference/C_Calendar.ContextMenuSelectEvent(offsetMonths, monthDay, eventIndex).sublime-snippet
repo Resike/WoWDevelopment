@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_Calendar.ContextMenuSelectEvent(${1:offsetMonths}, ${2:monthDay}, ${3:eventIndex})$0]]></content>
+	<tabTrigger>C_Calendar.ContextMenuSelectEvent</tabTrigger>
+	<description>(offsetMonths, monthDay, eventIndex)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

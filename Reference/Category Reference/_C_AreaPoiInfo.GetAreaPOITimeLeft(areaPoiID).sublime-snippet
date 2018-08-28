@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:minutesLeft} = C_AreaPoiInfo.GetAreaPOITimeLeft(${2:areaPoiID})$0]]></content>
+	<tabTrigger>_C_AreaPoiInfo.GetAreaPOITimeLeft</tabTrigger>
+	<description>(areaPoiID)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

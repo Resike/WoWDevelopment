@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_Commentator.SetUseSmartCamera(${1:useSmartCamera})$0]]></content>
+	<tabTrigger>C_Commentator.SetUseSmartCamera</tabTrigger>
+	<description>(useSmartCamera)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

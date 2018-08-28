@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:streamInfo} = C_Club.GetStreamInfo("${2:clubId}", "${3:streamId}")$0]]></content>
+	<tabTrigger>_C_Club.GetStreamInfo</tabTrigger>
+	<description>("clubId", "streamId")</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

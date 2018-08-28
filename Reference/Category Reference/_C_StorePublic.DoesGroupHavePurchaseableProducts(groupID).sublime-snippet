@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:hasPurchaseableProducts} = C_StorePublic.DoesGroupHavePurchaseableProducts(${2:groupID})$0]]></content>
+	<tabTrigger>_C_StorePublic.DoesGroupHavePurchaseableProducts</tabTrigger>
+	<description>(groupID)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

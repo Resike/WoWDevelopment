@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:campaignInfo} = C_CampaignInfo.GetCampaignInfo(${2:campaignID})$0]]></content>
+	<tabTrigger>_C_CampaignInfo.GetCampaignInfo</tabTrigger>
+	<description>(campaignID)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

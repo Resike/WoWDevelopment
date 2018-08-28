@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_Commentator.SetMoveSpeed(${1:newSpeed})$0]]></content>
+	<tabTrigger>C_Commentator.SetMoveSpeed</tabTrigger>
+	<description>(newSpeed)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

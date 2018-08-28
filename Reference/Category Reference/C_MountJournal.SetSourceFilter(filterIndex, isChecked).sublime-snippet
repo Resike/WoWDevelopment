@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_MountJournal.SetSourceFilter(${1:filterIndex}, ${2:isChecked})$0]]></content>
+	<tabTrigger>C_MountJournal.SetSourceFilter</tabTrigger>
+	<description>(filterIndex, isChecked)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

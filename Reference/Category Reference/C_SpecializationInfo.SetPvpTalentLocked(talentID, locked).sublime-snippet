@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_SpecializationInfo.SetPvpTalentLocked(${1:talentID}, ${2:locked})$0]]></content>
+	<tabTrigger>C_SpecializationInfo.SetPvpTalentLocked</tabTrigger>
+	<description>(talentID, locked)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

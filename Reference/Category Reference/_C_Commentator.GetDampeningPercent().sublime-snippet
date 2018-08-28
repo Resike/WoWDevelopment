@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:percentage} = C_Commentator.GetDampeningPercent()$0]]></content>
+	<tabTrigger>_C_Commentator.GetDampeningPercent</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

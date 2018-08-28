@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_Commentator.AddPlayerOverrideName("${1:playerName}", "${2:overrideName}")$0]]></content>
+	<tabTrigger>C_Commentator.AddPlayerOverrideName</tabTrigger>
+	<description>("playerName", "overrideName")</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

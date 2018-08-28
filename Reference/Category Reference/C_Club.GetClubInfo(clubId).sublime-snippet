@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_Club.GetClubInfo("${1:clubId}")$0]]></content>
+	<tabTrigger>C_Club.GetClubInfo</tabTrigger>
+	<description>("clubId")</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

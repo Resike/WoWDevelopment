@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:sourceID} = C_TransmogSets.GetLatestSource()$0]]></content>
+	<tabTrigger>_C_TransmogSets.GetLatestSource</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

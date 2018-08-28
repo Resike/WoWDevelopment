@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:encounters} = C_EncounterJournal.GetEncountersOnMap(${2:uiMapID})$0]]></content>
+	<tabTrigger>_C_EncounterJournal.GetEncountersOnMap</tabTrigger>
+	<description>(uiMapID)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

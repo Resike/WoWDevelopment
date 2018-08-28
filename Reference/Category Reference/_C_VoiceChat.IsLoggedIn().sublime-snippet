@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:isLoggedIn} = C_VoiceChat.IsLoggedIn()$0]]></content>
+	<tabTrigger>_C_VoiceChat.IsLoggedIn</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

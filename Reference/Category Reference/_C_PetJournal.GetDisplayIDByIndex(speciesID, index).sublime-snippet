@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:displayID} = C_PetJournal.GetDisplayIDByIndex(${2:speciesID}, ${3:index})$0]]></content>
+	<tabTrigger>_C_PetJournal.GetDisplayIDByIndex</tabTrigger>
+	<description>(speciesID, index)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_QuestLog.IsOnQuest(${1:questID})$0]]></content>
+	<tabTrigger>C_QuestLog.IsOnQuest</tabTrigger>
+	<description>(questID)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

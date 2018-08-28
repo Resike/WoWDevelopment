@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:isPowerAvailableForSpec} = C_AzeriteEmpoweredItem.IsPowerAvailableForSpec(${2:powerID}, ${3:specID})$0]]></content>
+	<tabTrigger>_C_AzeriteEmpoweredItem.IsPowerAvailableForSpec</tabTrigger>
+	<description>(powerID, specID)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

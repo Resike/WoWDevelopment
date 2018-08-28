@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:hasSpellActionButtons} = C_ActionBar.HasSpellActionButtons(${2:spellID})$0]]></content>
+	<tabTrigger>_C_ActionBar.HasSpellActionButtons</tabTrigger>
+	<description>(spellID)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

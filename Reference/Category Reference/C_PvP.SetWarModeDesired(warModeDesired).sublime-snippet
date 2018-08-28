@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_PvP.SetWarModeDesired(${1:warModeDesired})$0]]></content>
+	<tabTrigger>C_PvP.SetWarModeDesired</tabTrigger>
+	<description>(warModeDesired)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

@@ -1,7 +1,0 @@
-{
-	"scope": "source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua",
-	"completions": [
-		{"trigger": "C_ActionBar.FindFlyoutActionButtons\t(flyoutID)", "contents": "C_ActionBar.FindFlyoutActionButtons(${1:flyoutID})$0"},
-		{"trigger": "C_ActionBar.FindPetActionButtons\t(petAction)", "contents": "C_ActionBar.FindPetActionButtons(${1:petAction})$0"},
-	]
-}

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_Map.GetMapPosFromWorldPos(${1:continentID}, ${2:worldPosition}, [${3:overrideUiMapID}])$0]]></content>
+	<tabTrigger>C_Map.GetMapPosFromWorldPos</tabTrigger>
+	<description>(continentID, worldPosition, [overrideUiMapID])</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

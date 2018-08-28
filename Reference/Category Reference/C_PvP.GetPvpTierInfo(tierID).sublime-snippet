@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_PvP.GetPvpTierInfo(${1:tierID})$0]]></content>
+	<tabTrigger>C_PvP.GetPvpTierInfo</tabTrigger>
+	<description>(tierID)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

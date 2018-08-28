@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:creatureDisplayInfoID}, ${2:description}, ${3:source}, ${4:isSelfMount}, ${5:mountTypeID}, ${6:uiModelSceneID} = C_MountJournal.GetMountInfoExtraByID(${7:mountID})$0]]></content>
+	<tabTrigger>_C_MountJournal.GetMountInfoExtraByID</tabTrigger>
+	<description>(mountID)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

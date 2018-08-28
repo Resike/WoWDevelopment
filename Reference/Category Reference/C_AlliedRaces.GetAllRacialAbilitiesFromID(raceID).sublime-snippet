@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_AlliedRaces.GetAllRacialAbilitiesFromID(${1:raceID})$0]]></content>
+	<tabTrigger>C_AlliedRaces.GetAllRacialAbilitiesFromID</tabTrigger>
+	<description>(raceID)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

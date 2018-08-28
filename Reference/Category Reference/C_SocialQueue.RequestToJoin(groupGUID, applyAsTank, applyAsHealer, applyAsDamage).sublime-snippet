@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_SocialQueue.RequestToJoin("${1:groupGUID}", ${2:applyAsTank}, ${3:applyAsHealer}, ${4:applyAsDamage})$0]]></content>
+	<tabTrigger>C_SocialQueue.RequestToJoin</tabTrigger>
+	<description>("groupGUID", applyAsTank, applyAsHealer, applyAsDamage)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

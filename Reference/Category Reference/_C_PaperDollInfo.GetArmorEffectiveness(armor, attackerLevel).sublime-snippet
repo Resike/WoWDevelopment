@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:effectiveness} = C_PaperDollInfo.GetArmorEffectiveness(${2:armor}, ${3:attackerLevel})$0]]></content>
+	<tabTrigger>_C_PaperDollInfo.GetArmorEffectiveness</tabTrigger>
+	<description>(armor, attackerLevel)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

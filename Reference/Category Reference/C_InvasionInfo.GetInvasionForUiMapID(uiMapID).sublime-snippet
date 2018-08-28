@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_InvasionInfo.GetInvasionForUiMapID(${1:uiMapID})$0]]></content>
+	<tabTrigger>C_InvasionInfo.GetInvasionForUiMapID</tabTrigger>
+	<description>(uiMapID)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

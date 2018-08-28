@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:needsFanfare} = C_MountJournal.NeedsFanfare(${2:mountID})$0]]></content>
+	<tabTrigger>_C_MountJournal.NeedsFanfare</tabTrigger>
+	<description>(mountID)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

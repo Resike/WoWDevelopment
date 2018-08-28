@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:mapChallengeModeID}, ${2:level}, ${3:time}, ${4:onTime}, ${5:keystoneUpgradeLevels} = C_ChallengeMode.GetCompletionInfo()$0]]></content>
+	<tabTrigger>_C_ChallengeMode.GetCompletionInfo</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

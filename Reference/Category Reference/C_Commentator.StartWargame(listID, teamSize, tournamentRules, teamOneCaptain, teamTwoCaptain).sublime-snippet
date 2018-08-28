@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_Commentator.StartWargame(${1:listID}, ${2:teamSize}, ${3:tournamentRules}, "${4:teamOneCaptain}", "${5:teamTwoCaptain}")$0]]></content>
+	<tabTrigger>C_Commentator.StartWargame</tabTrigger>
+	<description>(listID, teamSize, tournamentRules, "teamOneCaptain", "teamTwoCaptain")</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>
