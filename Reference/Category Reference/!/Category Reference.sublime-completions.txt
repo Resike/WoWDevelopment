@@ -1634,22 +1634,6 @@
 			"contents": "C_Commentator.ZoomOut()$0",
 		},
 		{
-			"trigger": "C_ConfigurationWarnings.GetConfigurationWarnings\t(includeSeenWarnings)",
-			"contents": "C_ConfigurationWarnings.GetConfigurationWarnings(${1:includeSeenWarnings})$0",
-		},
-		{
-			"trigger": "C_ConfigurationWarnings.GetConfigurationWarningSeen\t(configurationWarning)",
-			"contents": "C_ConfigurationWarnings.GetConfigurationWarningSeen(${1:configurationWarning})$0",
-		},
-		{
-			"trigger": "C_ConfigurationWarnings.GetConfigurationWarningString\t(configurationWarning)",
-			"contents": "C_ConfigurationWarnings.GetConfigurationWarningString(${1:configurationWarning})$0",
-		},
-		{
-			"trigger": "C_ConfigurationWarnings.SetConfigurationWarningSeen\t(configurationWarning)",
-			"contents": "C_ConfigurationWarnings.SetConfigurationWarningSeen(${1:configurationWarning})$0",
-		},
-		{
 			"trigger": "C_Console.GetAllCommands\t()",
 			"contents": "C_Console.GetAllCommands()$0",
 		},
@@ -2948,6 +2932,18 @@
 		{
 			"trigger": "C_TaxiMap.GetTaxiNodesForMap\t(uiMapID)",
 			"contents": "C_TaxiMap.GetTaxiNodesForMap(${1:uiMapID})$0",
+		},
+		{
+			"trigger": "C_Timer.After\t(duartion, callback)",
+			"contents": "C_Timer.After(${1:duration}, ${2:callback})$0"
+		},
+		{
+			"trigger": "C_Timer.NewTicker\t(duartion, callback, [iterations])",
+			"contents": "C_Timer.NewTicker(${1:duration}, ${2:callback}, ${3:[iterations]})$0"
+		},
+		{
+			"trigger": "C_Timer.NewTimer\t(duartion, callback)",
+			"contents": "C_Timer.NewTimer(${1:duration}, ${2:callback})$0"
 		},
 		{
 			"trigger": "C_TradeSkillUI.GetTradeSkillDisplayName\t(skillLineID)",
@@ -4395,18 +4391,6 @@
 			"contents": "${1:isUsingSmartCamera} = C_Commentator.IsUsingSmartCamera()$0",
 		},
 		{
-			"trigger": "_C_ConfigurationWarnings.GetConfigurationWarnings\t(includeSeenWarnings)",
-			"contents": "${1:configurationWarnings} = C_ConfigurationWarnings.GetConfigurationWarnings(${2:includeSeenWarnings})$0",
-		},
-		{
-			"trigger": "_C_ConfigurationWarnings.GetConfigurationWarningSeen\t(configurationWarning)",
-			"contents": "${1:hasSeenConfigurationWarning} = C_ConfigurationWarnings.GetConfigurationWarningSeen(${2:configurationWarning})$0",
-		},
-		{
-			"trigger": "_C_ConfigurationWarnings.GetConfigurationWarningString\t(configurationWarning)",
-			"contents": "${1:configurationWarningString} = C_ConfigurationWarnings.GetConfigurationWarningString(${2:configurationWarning})$0",
-		},
-		{
 			"trigger": "_C_Console.GetAllCommands\t()",
 			"contents": "${1:commands} = C_Console.GetAllCommands()$0",
 		},
@@ -5417,6 +5401,14 @@
 		{
 			"trigger": "_C_TaxiMap.GetTaxiNodesForMap\t(uiMapID)",
 			"contents": "${1:mapTaxiNodes} = C_TaxiMap.GetTaxiNodesForMap(${2:uiMapID})$0",
+		},
+		{
+			"trigger": "_C_Timer.NewTicker\t(duartion, callback, [iterations])",
+			"contents": "${1:timer} = C_Timer.NewTicker(${2:duration}, ${3:callback}, ${4:[iterations]})$0"
+		},
+		{
+			"trigger": "_C_Timer.NewTimer\t(duartion, callback)",
+			"contents": "${1:timer} = C_Timer.NewTimer(${2:duration}, ${3:callback})$0"
 		},
 		{
 			"trigger": "_C_TradeSkillUI.GetTradeSkillDisplayName\t(skillLineID)",
