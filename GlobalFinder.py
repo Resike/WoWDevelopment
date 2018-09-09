@@ -9,7 +9,7 @@ class GlobalFinder(Linter):
 		r'(?P<message>.+)'
 	)
 	defaults = {
-		'selector': 'source.lua - meta.tag.xml, source.lua.wow - meta.tag.xml, source.luae'
+		'selector': 'source.lua - meta.tag.xml, source.lua.wow - meta.tag.xml - comment.xml, source.luae'
 	}
 
 	def split_match(self, match):
