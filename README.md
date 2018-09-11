@@ -49,4 +49,4 @@ Currently had I to roll back to using *.sublime-snippet* files instead of *.subl
 
 Until then if you have any *.sublime-completions* file loaded for a syntax, then your buffer competions won't get shown up, and the fuzzy search for the completions brings up a lot more irrelevant hits, since it's also searing in the trigger descriptions.
 
-*Initially forked from and based on [fRodzet](https://github.com/frodzet)'s original work, and used [Layback_](http://www.wowinterface.com/forums/member.php?u=329441)'s help to extend it.*
+*Initially forked from and based on [fRodzet](https://github.com/frodzet)'s original work, and used [Layback_](http://www.wowinterface.com/forums/member.php?u=329441)'s and [Vendethiel](https://www.wowace.com/members/vendethiel) help to extend it.*
