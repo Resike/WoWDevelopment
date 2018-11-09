@@ -8,6 +8,7 @@ World of Warcraft syntax highlight, auto-completion and global finder/highlighte
 
 * Full API syntax highlighting for lua, xml and toc files.
 * Highlight invalid/removed/deprecated API functions and events.
+* Context based autocompletion support for the whole WoW API with multi-line support.
 * Global finder build system, which finds any global variables with detailed information for the current lua file.
 * Global highlighter and liter tool with SublimeLinter.
 
