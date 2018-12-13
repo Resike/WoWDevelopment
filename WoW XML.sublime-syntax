@@ -5,7 +5,7 @@ name: WoW XML
 comment: WoW XML Syntax Highlighting.
 file_extensions:
   - xml
-scope: source.lua.wow
+scope: source.xml.wow
 variables:
   reserved: \b(?:break|do|else|elseif|end|for|function|if|local|repeat|return|then|until|while)\b
   identifier: (?:[a-zA-Z_]\w*)
