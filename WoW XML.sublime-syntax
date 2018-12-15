@@ -703,9 +703,9 @@ contexts:
     - match: '\b(break|do|else|elseif|end|for|(?# goto|)if|local|repeat|return|then|until|while)\b'
       scope: keyword.control.lua
 
-  #######
+  #
   operators:
-    - match: '\+|-|%|#|\*|\/|\^|==?|~='
+    - match: '\+|-|%|#|\*|\/|\^|==?|~=|<=|>='
       scope: keyword.operator.lua
     - match: '\b(and|in|not|or)\b'
       scope: keyword.operator.word.lua
