@@ -20,7 +20,7 @@ variables:
   button_states: '(DISABLED|NORMAL|PUSHED)'
   draw_layers: '(BACKGROUND|BORDER|ARTWORK|OVERLAY|HIGHLIGHT)'
   frame_types: '(ARCHAEOLOGYDIGSITEFRAME|QUESTPOIFRAME|SCENARIOPOIFRAME|BROWSER|BUTTON|CHECKBUTTON|CHECKOUT|COLORSELECT|COOLDOWN|EDITBOX|FRAME|FOGOFWARFRAME|GAMETOOLTIP|MESSAGEFRAME|(?# MINIMAP|)MODEL|CINEMATICMODEL|DRESSUPMODEL|(?# MODELFFX|)PLAYERMODEL|TABARDMODEL|(?# UICAMERA|)MODELSCENE|MOVIEFRAME|OFFSCREENFRAME|SCROLLFRAME|SCROLLINGMESSAGEFRAME|SIMPLEHTML|SLIDER|STATUSBAR|(?# TAXIROUTEFRAME|)UNITPOSITIONFRAME(?# |WORLDFRAME))'
-  frame_stratas: '(PARENT|BACKGROUND|LOW|MEDIUM|HIGH|DIALOG|FULLSCREEN|FULLSCREEN_DIALOG|TOOLTIP)'
+  frame_stratas: '(BACKGROUND|LOW|MEDIUM|HIGH|DIALOG|FULLSCREEN|FULLSCREEN_DIALOG|TOOLTIP)'
   orientation_types: '(HORIZONTAL|VERTICAL)'
   animation_types: '(ALPHA|LINESCALE|LINETRANSLATION|PATH|ROTATION|SCALE|TEXTURECOORDTRANSLATION|TRANSLATION)'
   attribute_types: '(\*type|\*type1|\*type2|((alt|alt-ctrl|alt-shift|alt-ctrl-shift)|(ctrl|ctrl-shift)|(shift))-type|((alt|alt-ctrl|alt-shift|alt-ctrl-shift)|(ctrl|ctrl-shift)|(shift))-type\*|((alt|alt-ctrl|alt-shift|alt-ctrl-shift)|(ctrl|ctrl-shift)|(shift))-type1|((alt|alt-ctrl|alt-shift|alt-ctrl-shift)|(ctrl|ctrl-shift)|(shift))-type1\*|((alt|alt-ctrl|alt-shift|alt-ctrl-shift)|(ctrl|ctrl-shift)|(shift))-type2|((alt|alt-ctrl|alt-shift|alt-ctrl-shift)|(ctrl|ctrl-shift)|(shift))-type2\*|_childupdate|_childupdate-|_childupdate-[A-Za-z0-9]*|_ignore|_mainEnchanted|_onattributechanged|_onclick|_ondoubleclick|_ondragstart|_onenter|_onhide|_onleave|_onmousedown|_onmouseup|_onmousewheel|_onreceivedrag|_onshow|_onstate-|_onstate-[A-Za-z0-9]*|_secondaryEnchanted|action|actionbar|actionpage|addchild|anchorchild|assist|attribute-|attribute-frame|attribute-name|attribute-value|bindings-|bindings-[A-Za-z0-9]*|cancelaura|checkselfcast|child|child\d+|childofsx|childofsy|childpoint|childraise|childrelpoint|childreparent|childstate|childverify|click|clickbutton|columnAnchorPoint|columnSpacing|consolidateDuration|consolidateFraction|consolidateHeader|consolidateProxy|consolidateThreshold|consolidateTo|delayhover|delayhovermap-|delayhovermap-[A-Za-z0-9]*|delaystate|delaystatemap-|delaystatemap-[A-Za-z0-9]*|delaytime|delaytimemap-|delaytimemap-[A-Za-z0-9]*|exportstate|filter|filterOnPet|focus|frameref-header|groupBy|groupFilter|groupingOrder|harmbutton|header|headheight|headofspoint|headofsrelpoint|headofsx|headofsy|headparent|headscale|headstateunit|headwidth|height|helpbutton|hidestates|includeWeapons|index|initial-|initial-anchor|initial-height|initial-scale|initial-unitWatch|initial-width|initialConfigFunction|item|macro|macrotext|mainassist|maintank|maxColumns|maxWraps|minHeight|minWidth|nameList|newstate|ofspoint|ofsrelpoint|ofsx|ofsy|onclickbutton|onenterbutton|onleavebutton|onmousedownbutton|onmouseupbutton|pet|point|raise|refreshUnitChange|roleFilter|roleFiltertemplate|scale|separateOwn|showParty|showPlayer|showRaid|showSolo|showstates|sortDir|sortDirection|sortMethod|spell|startingIndex|state|state-|state-[A-Za-z0-9]*|statebindings|statehidden|statemap-|statemap-[A-Za-z0-9]*|stop|strictFiltering|style-|style-height|style-scale|style-width|target|target-|target-bag|target-item|target-slot|tempEnchant|tempEnchant1|tempEnchant2|template|templateType|toy|type|type1|type2|unit|unitsPerColumn|unitsuffix|useOwnerUnit|useparent-unit|weaponTemplate|width|wrapAfter|wrapXOffset|wrapYOffset|xOffset|yOffset)'
@@ -729,7 +729,7 @@ contexts:
       push: bit-punctuation
 
   bit-punctuation:
-    - match: '\.'
+    - match: '(\.)\b'
       scope: punctuation.accessor.lua
       set: bit-methods
     - include: else-pop
@@ -746,7 +746,7 @@ contexts:
       push: coroutine-punctuation
 
   coroutine-punctuation:
-    - match: '\.'
+    - match: '(\.)\b'
       scope: punctuation.accessor.lua
       set: coroutine-methods
     - include: else-pop
@@ -763,7 +763,7 @@ contexts:
   #     push: debug-punctuation
 
   # debug-punctuation:
-  #   - match: '\.'
+  #   - match: '(\.)\b'
   #     scope: punctuation.accessor.lua
   #     set: debug-methods
   #   - include: else-pop
@@ -780,7 +780,7 @@ contexts:
   #     push: io-punctuation
 
   # io-punctuation:
-  #   - match: '\.'
+  #   - match: '(\.)\b'
   #     scope: punctuation.accessor.lua
   #     set: io-methods
   #   - include: else-pop
@@ -814,7 +814,7 @@ contexts:
       push: math-punctuation
 
   math-punctuation:
-    - match: '\.'
+    - match: '(\.)\b'
       scope: punctuation.accessor.lua
       set: math-methods
     - include: else-pop
@@ -834,7 +834,7 @@ contexts:
   #     push: os-punctuation
 
   # os-punctuation:
-  #   - match: '\.'
+  #   - match: '(\.)\b'
   #     scope: punctuation.accessor.lua
   #     set: os-methods
   #   - include: else-pop
@@ -851,7 +851,7 @@ contexts:
   #     push: package-punctuation
 
   # package-punctuation:
-  #   - match: '\.'
+  #   - match: '(\.)\b'
   #     scope: punctuation.accessor.lua
   #     set: package-methods
   #   - include: else-pop
@@ -868,7 +868,7 @@ contexts:
       push: string-punctuation
 
   string-punctuation:
-    - match: '\.'
+    - match: '(\.)\b'
       scope: punctuation.accessor.lua
       set: string-methods
     - include: else-pop
@@ -885,7 +885,7 @@ contexts:
       push: table-punctuation
 
   table-punctuation:
-    - match: '\.'
+    - match: '(\.)\b'
       scope: punctuation.accessor.lua
       set: table-methods
     - include: else-pop
@@ -902,7 +902,7 @@ contexts:
   #     push: utf8-punctuation
 
   # utf8-punctuation:
-  #   - match: '\.'
+  #   - match: '(\.)\b'
   #     scope: punctuation.accessor.lua
   #     set: utf8-methods
   #   - include: else-pop

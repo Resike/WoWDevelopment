@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PARENT]]></content>
-	<tabTrigger>PARENT</tabTrigger>
-	<description>"strata"</description>
-	<scope>source.lua string.stratatype</scope>
-</snippet>
