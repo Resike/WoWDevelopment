@@ -55,8 +55,8 @@ contexts:
     - match: ([:])
       scope: punctuation.separator.accessor.lua
       push: method-call
-    - match: '(?<!\.)\.{2}(?!\.)'
-      scope: keyword.operator.lua
+    # - match: '(?<!\.)\.{2}(?!\.)'
+    #   scope: keyword.operator.lua
     - match: ([.])
       scope: punctuation.separator.accessor.lua
       push: punctuation-call
@@ -3198,9 +3198,9 @@ contexts:
     - match: ','
       scope: punctuation.separator.lua
 
-    - match: '(?<!\.)\.{2}(?!\.)'
+    - match: '(?<!\.)(?<!\:)\.{2}(?!\.)(?!\:)'
       scope: keyword.operator.lua
-    - match: '(?<!\.)\.{3}(?!\.)'
+    - match: '(?<!\.)(?<!\:)\.{3}(?!\.)(?!\:)'
       scope: constant.language.lua
 
     - match: '[.]'
