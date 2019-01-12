@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GetMaxLines(${2:maxLines})$0]]></content>
+	<content><![CDATA[GetMaxLines(${1:maxLines})$0]]></content>
 	<tabTrigger>GetMaxLines</tabTrigger>
 	<description>(maxLines)</description>
 	<scope>source.lua meta.method-call.lua</scope>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetOrigin("${2:point}", ${3:xOffset}, ${4:yOffset})$0]]></content>
+	<content><![CDATA[SetOrigin("${1:point}", ${2:xOffset}, ${3:yOffset})$0]]></content>
 	<tabTrigger>SetOrigin</tabTrigger>
 	<description>("point", xOffset, yOffset)</description>
 	<scope>source.lua meta.method-call.lua</scope>

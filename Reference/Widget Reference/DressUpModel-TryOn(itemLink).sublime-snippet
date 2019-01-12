@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:DressUpModel}:TryOn("${2:itemLink}")$0]]></content>
-	<tabTrigger>DressUpModel:TryOn</tabTrigger>
-	<description>("itemLink")</description>
-	<scope>source.lua meta.method-call.lua</scope>
-</snippet>

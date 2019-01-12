@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetCameraFacing(${1:...})$0]]></content>
+	<tabTrigger>GetCameraFacing</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua meta.method-call.lua</scope>
+</snippet>

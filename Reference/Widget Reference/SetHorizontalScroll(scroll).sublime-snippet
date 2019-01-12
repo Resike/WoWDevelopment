@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetHorizontalScroll(${2:scroll})$0]]></content>
+	<content><![CDATA[SetHorizontalScroll(${1:scroll})$0]]></content>
 	<tabTrigger>SetHorizontalScroll</tabTrigger>
 	<description>(scroll)</description>
 	<scope>source.lua meta.method-call.lua</scope>

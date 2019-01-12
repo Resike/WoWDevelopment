@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetSequence(${2:sequence})$0]]></content>
+	<content><![CDATA[SetSequence(${1:sequence})$0]]></content>
 	<tabTrigger>SetSequence</tabTrigger>
 	<description>(sequence)</description>
 	<scope>source.lua meta.method-call.lua</scope>

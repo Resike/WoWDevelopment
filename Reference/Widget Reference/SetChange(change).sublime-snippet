@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetChange(${2:change})$0]]></content>
-	<tabTrigger>SetChange</tabTrigger>
-	<description>(change)</description>
-	<scope>source.lua meta.method-call.lua</scope>
-</snippet>

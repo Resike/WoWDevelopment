@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetPushedTexture(${2:texture})$0]]></content>
+	<content><![CDATA[SetPushedTexture(${1:texture})$0]]></content>
 	<tabTrigger>SetPushedTexture</tabTrigger>
 	<description>(texture)</description>
 	<scope>source.lua meta.method-call.lua</scope>

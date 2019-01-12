@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetDoBlend(${1:...})$0]]></content>
+	<tabTrigger>SetDoBlend</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua meta.method-call.lua</scope>
+</snippet>

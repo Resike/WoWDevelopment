@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetTarget(${1:...})$0]]></content>
+	<tabTrigger>GetTarget</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua meta.method-call.lua</scope>
+</snippet>

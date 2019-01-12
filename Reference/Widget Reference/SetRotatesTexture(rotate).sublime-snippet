@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetRotatesTexture(${2:rotate})$0]]></content>
+	<content><![CDATA[SetRotatesTexture(${1:rotate})$0]]></content>
 	<tabTrigger>SetRotatesTexture</tabTrigger>
 	<description>(rotate)</description>
 	<scope>source.lua meta.method-call.lua</scope>

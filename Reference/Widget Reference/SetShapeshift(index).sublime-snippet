@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetShapeshift(${2:index})$0]]></content>
+	<content><![CDATA[SetShapeshift(${1:index})$0]]></content>
 	<tabTrigger>SetShapeshift</tabTrigger>
 	<description>(index)</description>
 	<scope>source.lua meta.method-call.lua</scope>

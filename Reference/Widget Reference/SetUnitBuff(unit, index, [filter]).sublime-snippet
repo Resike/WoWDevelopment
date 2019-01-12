@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetUnitBuff("${2:unit}", ${3:index}, ${4:["filter"]})$0]]></content>
+	<content><![CDATA[SetUnitBuff("${1:unit}", ${2:index}, ${3:["filter"]})$0]]></content>
 	<tabTrigger>SetUnitBuff</tabTrigger>
 	<description>("unit", index, ["filter"])</description>
 	<scope>source.lua meta.method-call.lua</scope>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetMinResize(${2:minWidth}, ${3:minHeight})$0]]></content>
+	<content><![CDATA[SetMinResize(${1:minWidth}, ${2:minHeight})$0]]></content>
 	<tabTrigger>SetMinResize</tabTrigger>
 	<description>(minWidth, minHeight)</description>
 	<scope>source.lua meta.method-call.lua</scope>

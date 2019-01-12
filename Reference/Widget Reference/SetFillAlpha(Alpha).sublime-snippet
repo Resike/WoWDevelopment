@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetFillAlpha(${2:Alpha})$0]]></content>
+	<content><![CDATA[SetFillAlpha(${1:Alpha})$0]]></content>
 	<tabTrigger>SetFillAlpha</tabTrigger>
 	<description>(Alpha)</description>
 	<scope>source.lua meta.method-call.lua</scope>

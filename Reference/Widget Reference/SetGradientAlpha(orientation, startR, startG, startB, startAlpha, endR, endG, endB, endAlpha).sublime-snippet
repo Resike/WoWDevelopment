@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetGradientAlpha("${2:orientation}", ${3:startR}, ${4:startG}, ${5:startB}, ${6:startAlpha}, ${7:endR}, ${8:endG}, ${9:endB}, ${10:endAlpha})$0]]></content>
+	<content><![CDATA[SetGradientAlpha("${1:orientation}", ${2:startR}, ${3:startG}, ${4:startB}, ${5:startAlpha}, ${6:endR}, ${7:endG}, ${8:endB}, ${9:endAlpha})$0]]></content>
 	<tabTrigger>SetGradientAlpha</tabTrigger>
 	<description>("orientation", startR, startG, startB, startAlpha, endR, endG, endB, endAlpha)</description>
 	<scope>source.lua meta.method-call.lua</scope>

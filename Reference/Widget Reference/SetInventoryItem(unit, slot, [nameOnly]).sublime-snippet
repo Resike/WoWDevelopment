@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetInventoryItem("${5:unit}", ${6:slot}, ${7:[nameOnly]})$0]]></content>
+	<content><![CDATA[SetInventoryItem("${1:unit}", ${2:slot}, ${3:[nameOnly]})$0]]></content>
 	<tabTrigger>SetInventoryItem</tabTrigger>
 	<description>("unit", slot, [nameOnly])</description>
 	<scope>source.lua meta.method-call.lua</scope>

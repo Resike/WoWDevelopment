@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetFontObject("${2:name}")$0]]></content>
+	<content><![CDATA[SetFontObject("${1:name}")$0]]></content>
 	<tabTrigger>SetFontObject</tabTrigger>
 	<description>("name")</description>
 	<scope>source.lua meta.method-call.lua</scope>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InitializeCamera(${1:...})$0]]></content>
+	<tabTrigger>InitializeCamera</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua meta.method-call.lua</scope>
+</snippet>

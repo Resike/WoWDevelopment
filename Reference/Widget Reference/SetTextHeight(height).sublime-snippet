@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetTextHeight(${2:height})$0]]></content>
+	<content><![CDATA[SetTextHeight(${1:height})$0]]></content>
 	<tabTrigger>SetTextHeight</tabTrigger>
 	<description>(height)</description>
 	<scope>source.lua meta.method-call.lua</scope>

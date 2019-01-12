@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetIndentedWordWrap(${2:indent})$0]]></content>
+	<content><![CDATA[SetIndentedWordWrap(${1:indent})$0]]></content>
 	<tabTrigger>SetIndentedWordWrap</tabTrigger>
 	<description>(indent)</description>
 	<scope>source.lua meta.method-call.lua</scope>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetMerchantCostItem(${2:index}, ${3:currency})$0]]></content>
+	<content><![CDATA[SetMerchantCostItem(${1:index}, ${2:currency})$0]]></content>
 	<tabTrigger>SetMerchantCostItem</tabTrigger>
 	<description>(index, currency)</description>
 	<scope>source.lua meta.method-call.lua</scope>

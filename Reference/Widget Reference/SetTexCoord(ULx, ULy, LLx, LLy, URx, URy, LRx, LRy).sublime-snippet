@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetTexCoord(${2:ULx}, ${3:ULy}, ${4:LLx}, ${5:LLy}, ${6:URx}, ${7:URy}, ${8:LRx}, ${9:LRy})$0]]></content>
+	<content><![CDATA[SetTexCoord(${1:ULx}, ${2:ULy}, ${3:LLx}, ${4:LLy}, ${5:URx}, ${6:URy}, ${7:LRx}, ${8:LRy})$0]]></content>
 	<tabTrigger>SetTexCoord</tabTrigger>
 	<description>(ULx, ULy, LLx, LLy, URx, URy, LRx, LRy)</description>
 	<scope>source.lua meta.method-call.lua</scope>

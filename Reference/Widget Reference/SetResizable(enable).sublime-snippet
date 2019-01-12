@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetResizable(${2:enable})$0]]></content>
+	<content><![CDATA[SetResizable(${1:enable})$0]]></content>
 	<tabTrigger>SetResizable</tabTrigger>
 	<description>(enable)</description>
 	<scope>source.lua meta.method-call.lua</scope>

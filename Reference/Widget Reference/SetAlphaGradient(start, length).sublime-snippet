@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetAlphaGradient(${2:start}, ${3:length})$0]]></content>
+	<content><![CDATA[SetAlphaGradient(${1:start}, ${3:length})$0]]></content>
 	<tabTrigger>SetAlphaGradient</tabTrigger>
 	<description>(start, length)</description>
 	<scope>source.lua meta.method-call.lua</scope>

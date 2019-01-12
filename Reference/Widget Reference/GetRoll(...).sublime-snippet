@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetRoll(${1:...})$0]]></content>
+	<tabTrigger>GetRoll</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua meta.method-call.lua</scope>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetTrainerService(${2:index})$0]]></content>
+	<content><![CDATA[SetTrainerService(${1:index})$0]]></content>
 	<tabTrigger>SetTrainerService</tabTrigger>
 	<description>(index)</description>
 	<scope>source.lua meta.method-call.lua</scope>

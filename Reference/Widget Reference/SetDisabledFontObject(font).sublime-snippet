@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetDisabledFontObject(${2:font})$0]]></content>
+	<content><![CDATA[SetDisabledFontObject(${1:font})$0]]></content>
 	<tabTrigger>SetDisabledFontObject</tabTrigger>
 	<description>(font)</description>
 	<scope>source.lua meta.method-call.lua</scope>

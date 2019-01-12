@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Flush(${1:...})$0]]></content>
+	<tabTrigger>Flush</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua meta.method-call.lua</scope>
+</snippet>

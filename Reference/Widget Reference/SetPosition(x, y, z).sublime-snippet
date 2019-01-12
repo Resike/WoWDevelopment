@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetPosition(${2:x}, ${3:y}, ${4:z})$0]]></content>
+	<content><![CDATA[SetPosition(${1:x}, ${2:y}, ${3:z})$0]]></content>
 	<tabTrigger>SetPosition</tabTrigger>
 	<description>(x, y, z)</description>
 	<scope>source.lua meta.method-call.lua</scope>

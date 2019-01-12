@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GetUpperBackgroundFileName("${2:fileName}")$0]]></content>
+	<content><![CDATA[GetUpperBackgroundFileName("${1:fileName}")$0]]></content>
 	<tabTrigger>GetUpperBackgroundFileName</tabTrigger>
 	<description>("fileName")</description>
 	<scope>source.lua meta.method-call.lua</scope>

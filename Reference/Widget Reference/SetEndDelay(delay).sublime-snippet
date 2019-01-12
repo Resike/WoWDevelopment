@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetEndDelay(${2:delay})$0]]></content>
+	<content><![CDATA[SetEndDelay(${1:delay})$0]]></content>
 	<tabTrigger>SetEndDelay</tabTrigger>
 	<description>(delay)</description>
 	<scope>source.lua meta.method-call.lua</scope>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetHighlightTexture("${2:fileName}", ${3:["mode"]})$0]]></content>
+	<content><![CDATA[SetHighlightTexture("${1:fileName}", ${2:["mode"]})$0]]></content>
 	<tabTrigger>SetHighlightTexture</tabTrigger>
 	<description>("fileName", ["mode"])</description>
 	<scope>source.lua meta.method-call.lua</scope>

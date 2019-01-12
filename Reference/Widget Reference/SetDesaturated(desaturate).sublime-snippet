@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetDesaturated(${3:desaturate})$0]]></content>
+	<content><![CDATA[SetDesaturated(${1:desaturate})$0]]></content>
 	<tabTrigger>SetDesaturated</tabTrigger>
 	<description>(desaturate)</description>
 	<scope>source.lua meta.method-call.lua</scope>

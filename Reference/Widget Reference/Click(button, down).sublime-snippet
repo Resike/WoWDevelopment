@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Click("${2:button}", ${3:down})$0]]></content>
+	<content><![CDATA[Click("${1:button}", ${2:down})$0]]></content>
 	<tabTrigger>Click</tabTrigger>
 	<description>("button", down)</description>
 	<scope>source.lua meta.method-call.lua</scope>

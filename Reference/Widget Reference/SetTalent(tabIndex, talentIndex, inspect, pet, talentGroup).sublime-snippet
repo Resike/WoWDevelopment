@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetTalent(${2:tabIndex}, ${3:talentIndex}, ${4:inspect}, ${5:pet}, ${6:talentGroup})$0]]></content>
+	<content><![CDATA[SetTalent(${1:tabIndex}, ${2:talentIndex}, ${3:inspect}, ${4:pet}, ${5:talentGroup})$0]]></content>
 	<tabTrigger>SetTalent</tabTrigger>
 	<description>(tabIndex, talentIndex, inspect, pet, talentGroup)</description>
 	<scope>source.lua meta.method-call.lua</scope>

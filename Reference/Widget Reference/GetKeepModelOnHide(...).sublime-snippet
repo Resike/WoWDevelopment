@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetKeepModelOnHide(${1:...})$0]]></content>
+	<tabTrigger>GetKeepModelOnHide</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua meta.method-call.lua</scope>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetLooping("${2:loopType}")$0]]></content>
+	<content><![CDATA[SetLooping("${1:loopType}")$0]]></content>
 	<tabTrigger>SetLooping</tabTrigger>
 	<description>("loopType")</description>
 	<scope>source.lua meta.method-call.lua</scope>

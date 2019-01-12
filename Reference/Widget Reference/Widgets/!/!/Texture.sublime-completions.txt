@@ -282,12 +282,8 @@
 			"contents": "${1:Texture}:SetTexCoord(${2:ULx}, ${3:ULy}, ${4:LLx}, ${5:LLy}, ${6:URx}, ${7:URy}, ${8:LRx}, ${9:LRy})$0",
 		},
 		{
-			"trigger": "Texture:SetTexture\t(red, green, blue, [alpha])",
-			"contents": "${1:Texture}:SetTexture(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
-		},
-		{
-			"trigger": "Texture:SetTexture\t(\"texture\")",
-			"contents": "${1:Texture}:SetTexture(\"${2:texture}\")$0",
+			"trigger": "Texture:SetTexture\t(\"texture\", [\"horizWrap\"], [\"vertWrap\"], [\"filterMode\"])",
+			"contents": "${1:Texture}:SetTexture(\"${2:texture}\"${3:, \"${4:[horizWrap]}\", \"${5:[vertWrap]}\", \"${6:[filterMode]}\"}})$0",
 		},
 		{
 			"trigger": "Texture:SetVertexColor\t(red, green, blue, [alpha])",

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetAnimation(${1:...})$0]]></content>
+	<tabTrigger>GetAnimation</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua meta.method-call.lua</scope>
+</snippet>

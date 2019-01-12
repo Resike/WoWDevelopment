@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetStaticPOIArrowTexture("${2:fileName}")$0]]></content>
+	<content><![CDATA[SetStaticPOIArrowTexture("${1:fileName}")$0]]></content>
 	<tabTrigger>SetStaticPOIArrowTexture</tabTrigger>
 	<description>("fileName")</description>
 	<scope>source.lua meta.method-call.lua</scope>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetLootItem(${2:slot})$0]]></content>
+	<content><![CDATA[SetLootItem(${1:slot})$0]]></content>
 	<tabTrigger>SetLootItem</tabTrigger>
 	<description>(slot)</description>
 	<scope>source.lua meta.method-call.lua</scope>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetFrameStrata("${2:strata}")$0]]></content>
+	<content><![CDATA[SetFrameStrata("${1:strata}")$0]]></content>
 	<tabTrigger>SetFrameStrata</tabTrigger>
 	<description>("strata")</description>
 	<scope>source.lua meta.method-call.lua</scope>

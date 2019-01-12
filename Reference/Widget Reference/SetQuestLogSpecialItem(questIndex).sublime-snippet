@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetQuestLogSpecialItem(${2:questIndex})$0]]></content>
+	<content><![CDATA[SetQuestLogSpecialItem(${1:questIndex})$0]]></content>
 	<tabTrigger>SetQuestLogSpecialItem</tabTrigger>
 	<description>(questIndex)</description>
 	<scope>source.lua meta.method-call.lua</scope>

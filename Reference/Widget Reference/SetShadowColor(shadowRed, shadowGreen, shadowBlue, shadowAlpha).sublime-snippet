@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetShadowColor(${2:shadowRed}, ${3:shadowGreen}, ${4:shadowBlue}, ${5:shadowAlpha})$0]]></content>
-	<tabTrigger>SetShadowColor</tabTrigger>
-	<description>(shadowRed, shadowGreen, shadowBlue, shadowAlpha)</description>
-	<scope>source.lua meta.method-call.lua</scope>
-</snippet>

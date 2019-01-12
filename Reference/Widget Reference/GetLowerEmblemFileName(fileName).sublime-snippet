@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GetLowerEmblemFileName("${2:fileName}")$0]]></content>
+	<content><![CDATA[GetLowerEmblemFileName("${1:fileName}")$0]]></content>
 	<tabTrigger>GetLowerEmblemFileName</tabTrigger>
 	<description>("fileName")</description>
 	<scope>source.lua meta.method-call.lua</scope>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetDepth(${2:depth})$0]]></content>
+	<content><![CDATA[SetDepth(${1:depth})$0]]></content>
 	<tabTrigger>SetDepth</tabTrigger>
 	<description>(depth)</description>
 	<scope>source.lua meta.method-call.lua</scope>

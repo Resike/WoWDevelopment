@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetScrollChild(${2:frame})$0]]></content>
+	<content><![CDATA[SetScrollChild(${1:frame})$0]]></content>
 	<tabTrigger>SetScrollChild</tabTrigger>
 	<description>(frame)</description>
 	<scope>source.lua meta.method-call.lua</scope>

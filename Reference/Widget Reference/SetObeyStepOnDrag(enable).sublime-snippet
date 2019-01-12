@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetObeyStepOnDrag(${2:enable})$0]]></content>
+	<content><![CDATA[SetObeyStepOnDrag(${1:enable})$0]]></content>
 	<tabTrigger>SetObeyStepOnDrag</tabTrigger>
 	<description>(enable)</description>
 	<scope>source.lua meta.method-call.lua</scope>

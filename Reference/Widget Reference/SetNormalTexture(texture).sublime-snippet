@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetNormalTexture(${2:texture})$0]]></content>
+	<content><![CDATA[SetNormalTexture(${1:texture})$0]]></content>
 	<tabTrigger>SetNormalTexture</tabTrigger>
 	<description>(texture)</description>
 	<scope>source.lua meta.method-call.lua</scope>

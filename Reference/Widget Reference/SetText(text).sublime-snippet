@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetText("${2:text}")$0]]></content>
+	<content><![CDATA[SetText("${1:text}")$0]]></content>
 	<tabTrigger>SetText</tabTrigger>
 	<description>("text")</description>
 	<scope>source.lua meta.method-call.lua</scope>

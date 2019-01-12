@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetObeyStepOnDrag(${1:...})$0]]></content>
+	<tabTrigger>GetObeyStepOnDrag</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua meta.method-call.lua</scope>
+</snippet>

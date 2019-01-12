@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetDisabledTexture("${2:fileName}")$0]]></content>
+	<content><![CDATA[SetDisabledTexture("${1:fileName}")$0]]></content>
 	<tabTrigger>SetDisabledTexture</tabTrigger>
 	<description>("fileName")</description>
 	<scope>source.lua meta.method-call.lua</scope>

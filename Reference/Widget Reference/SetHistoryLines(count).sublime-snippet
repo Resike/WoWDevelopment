@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetHistoryLines(${2:count})$0]]></content>
+	<content><![CDATA[SetHistoryLines(${1:count})$0]]></content>
 	<tabTrigger>SetHistoryLines</tabTrigger>
 	<description>(count)</description>
 	<scope>source.lua meta.method-call.lua</scope>

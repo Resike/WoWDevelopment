@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetVoidItem(${1:...})$0]]></content>
+	<tabTrigger>SetVoidItem</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua meta.method-call.lua</scope>
+</snippet>

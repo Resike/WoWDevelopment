@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetParent(${2:frame})$0]]></content>
+	<content><![CDATA[SetParent(${1:frame})$0]]></content>
 	<tabTrigger>SetParent</tabTrigger>
 	<description>(frame)</description>
 	<scope>source.lua meta.method-call.lua</scope>

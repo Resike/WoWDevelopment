@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:DressUpModel}:Dress()$0]]></content>
-	<tabTrigger>DressUpModel:Dress</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.method-call.lua</scope>
-</snippet>

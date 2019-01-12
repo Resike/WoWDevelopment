@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EnableDrawLayer("${2:layer}")$0]]></content>
+	<content><![CDATA[EnableDrawLayer("${1:layer}")$0]]></content>
 	<tabTrigger>EnableDrawLayer</tabTrigger>
 	<description>("layer")</description>
 	<scope>source.lua meta.method-call.lua</scope>

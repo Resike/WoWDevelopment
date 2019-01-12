@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetNumber(${2:num})$0]]></content>
+	<content><![CDATA[SetNumber(${1:num})$0]]></content>
 	<tabTrigger>SetNumber</tabTrigger>
 	<description>(num)</description>
 	<scope>source.lua meta.method-call.lua</scope>

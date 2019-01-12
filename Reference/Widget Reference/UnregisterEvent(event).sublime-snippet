@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[UnregisterEvent("${2:event}")$0]]></content>
+	<content><![CDATA[UnregisterEvent("${1:event}")$0]]></content>
 	<tabTrigger>UnregisterEvent</tabTrigger>
 	<description>("event")</description>
 	<scope>source.lua meta.method-call.lua</scope>

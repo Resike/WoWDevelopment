@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetScale(${2:scale})$0]]></content>
+	<content><![CDATA[SetScale(${1:scale})$0]]></content>
 	<tabTrigger>SetScale</tabTrigger>
 	<description>(scale)</description>
 	<scope>source.lua meta.method-call.lua</scope>

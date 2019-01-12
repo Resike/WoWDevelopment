@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetColorWheelTexture(${2:texture})$0]]></content>
+	<content><![CDATA[SetColorWheelTexture(${1:texture})$0]]></content>
 	<tabTrigger>SetColorWheelTexture</tabTrigger>
 	<description>(texture)</description>
 	<scope>source.lua meta.method-call.lua</scope>

@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[${1:Texture}:SetTexture("${2:texture}")$0]]></content>
+	<content><![CDATA[${1:Texture}:SetTexture("${2:texture}"${3:, "${4:[horizWrap]}", "${5:[vertWrap]}", "${6:[filterMode]}"})$0]]></content>
 	<tabTrigger>Texture:SetTexture</tabTrigger>
-	<description>("texture")</description>
+	<description>("texture", ["horizWrap"], ["vertWrap"], ["filterMode"])</description>
 	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

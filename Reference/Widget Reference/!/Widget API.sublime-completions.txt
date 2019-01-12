@@ -99,7 +99,7 @@
 		},
 		{
 			"trigger": "Click\t(\"button\", down)",
-			"contents": "Click(\"${2:button}\", ${3:down})$0",
+			"contents": "Click(\"${1:button}\", ${2:down})$0",
 		},
 		{
 			"trigger": "ColorSelect:GetColorHSV\t()",
@@ -431,31 +431,31 @@
 		},
 		{
 			"trigger": "EnableDrawLayer\t(\"layer\")",
-			"contents": "EnableDrawLayer(\"${2:layer}\")$0",
+			"contents": "EnableDrawLayer(\"${1:layer}\")$0",
 		},
 		{
 			"trigger": "EnableJoystick\t(enable)",
-			"contents": "EnableJoystick(${2:enable})$0",
+			"contents": "EnableJoystick(${1:enable})$0",
 		},
 		{
 			"trigger": "EnableKeyboard\t(enable)",
-			"contents": "EnableKeyboard(${2:enable})$0",
+			"contents": "EnableKeyboard(${1:enable})$0",
 		},
 		{
 			"trigger": "EnableMouse\t(enable)",
-			"contents": "EnableMouse(${2:enable})$0",
+			"contents": "EnableMouse(${1:enable})$0",
 		},
 		{
 			"trigger": "EnableMouseWheel\t(enable)",
-			"contents": "EnableMouseWheel(${2:enable})$0",
+			"contents": "EnableMouseWheel(${1:enable})$0",
 		},
 		{
 			"trigger": "EnableSmoothing\t(enable)",
-			"contents": "EnableSmoothing(${2:enable})$0",
+			"contents": "EnableSmoothing(${1:enable})$0",
 		},
 		{
 			"trigger": "EnableSubtitles\t(enable)",
-			"contents": "EnableSubtitles(${2:enable})$0",
+			"contents": "EnableSubtitles(${1:enable})$0",
 		},
 		{
 			"trigger": "FadeOut\t()",
@@ -755,7 +755,7 @@
 		},
 		{
 			"trigger": "GetAttribute\t(\"name\")",
-			"contents": "GetAttribute(\"${3:name}\")$0",
+			"contents": "GetAttribute(\"${1:name}\")$0",
 		},
 		{
 			"trigger": "GetBackdrop\t()",
@@ -1039,15 +1039,15 @@
 		},
 		{
 			"trigger": "GetLowerBackgroundFileName\t(\"fileName\")",
-			"contents": "GetLowerBackgroundFileName(\"${2:fileName}\")$0",
+			"contents": "GetLowerBackgroundFileName(\"${1:fileName}\")$0",
 		},
 		{
 			"trigger": "GetLowerEmblemFileName\t(\"fileName\")",
-			"contents": "GetLowerEmblemFileName(\"${2:fileName}\")$0",
+			"contents": "GetLowerEmblemFileName(\"${1:fileName}\")$0",
 		},
 		{
 			"trigger": "GetLowerEmblemTexture\t(texture)",
-			"contents": "GetLowerEmblemTexture(${2:texture})$0",
+			"contents": "GetLowerEmblemTexture(${1:texture})$0",
 		},
 		{
 			"trigger": "GetMaxBytes\t()",
@@ -1059,7 +1059,7 @@
 		},
 		{
 			"trigger": "GetMaxLines\t(maxLines)",
-			"contents": "GetMaxLines(${2:maxLines})$0",
+			"contents": "GetMaxLines(${1:maxLines})$0",
 		},
 		{
 			"trigger": "GetMaxOrder\t()",
@@ -1071,7 +1071,7 @@
 		},
 		{
 			"trigger": "GetMessageInfo\t(index, [accessID])",
-			"contents": "GetMessageInfo(${6:index}, ${7:[accessID]})$0",
+			"contents": "GetMessageInfo(${1:index}, ${2:[accessID]})$0",
 		},
 		{
 			"trigger": "GetMinimumWidth\t()",
@@ -1131,7 +1131,7 @@
 		},
 		{
 			"trigger": "GetNumMessages\t([accessID])",
-			"contents": "GetNumMessages(${3:[accessID]})$0",
+			"contents": "GetNumMessages(${1:[accessID]})$0",
 		},
 		{
 			"trigger": "GetNumPoints\t()",
@@ -1343,15 +1343,15 @@
 		},
 		{
 			"trigger": "GetUpperBackgroundFileName\t(\"fileName\")",
-			"contents": "GetUpperBackgroundFileName(\"${2:fileName}\")$0",
+			"contents": "GetUpperBackgroundFileName(\"${1:fileName}\")$0",
 		},
 		{
 			"trigger": "GetUpperEmblemFileName\t(\"fileName\")",
-			"contents": "GetUpperEmblemFileName(\"${2:fileName}\")$0",
+			"contents": "GetUpperEmblemFileName(\"${1:fileName}\")$0",
 		},
 		{
 			"trigger": "GetUpperEmblemTexture\t(texture)",
-			"contents": "GetUpperEmblemTexture(${2:texture})$0",
+			"contents": "GetUpperEmblemTexture(${1:texture})$0",
 		},
 		{
 			"trigger": "GetUTF8CursorPosition\t()",
@@ -1395,7 +1395,7 @@
 		},
 		{
 			"trigger": "HasScript\t(\"scriptType\")",
-			"contents": "HasScript(\"${3:scriptType}\")$0",
+			"contents": "HasScript(\"${1:scriptType}\")$0",
 		},
 		{
 			"trigger": "Hide\t()",
@@ -1403,7 +1403,7 @@
 		},
 		{
 			"trigger": "HighlightText\t([start], [end])",
-			"contents": "HighlightText(${2:[start]}, ${3:[end]})$0",
+			"contents": "HighlightText(${1:[start]}, ${2:[end]})$0",
 		},
 		{
 			"trigger": "HookScript\t(\"scriptType\", handler)",
@@ -1411,7 +1411,7 @@
 		},
 		{
 			"trigger": "IgnoreDepth\t(enable)",
-			"contents": "IgnoreDepth(${2:enable})$0",
+			"contents": "IgnoreDepth(${1:enable})$0",
 		},
 		{
 			"trigger": "InitializeTabardColors\t()",
@@ -1419,7 +1419,7 @@
 		},
 		{
 			"trigger": "Insert\t(\"text\")",
-			"contents": "Insert(\"${2:text}\")$0",
+			"contents": "Insert(\"${1:text}\")$0",
 		},
 		{
 			"trigger": "IsAutoFocus\t()",
@@ -1487,7 +1487,7 @@
 		},
 		{
 			"trigger": "IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
-			"contents": "IsMouseOver(${3:[topOffset]}, ${4:[leftOffset]}, ${5:[bottomOffset]}, ${6:[rightOffset]})$0",
+			"contents": "IsMouseOver(${1:[topOffset]}, ${2:[leftOffset]}, ${3:[bottomOffset]}, ${4:[rightOffset]})$0",
 		},
 		{
 			"trigger": "IsMouseWheelEnabled\t()",
@@ -1507,7 +1507,7 @@
 		},
 		{
 			"trigger": "IsObjectType\t(\"type\")",
-			"contents": "IsObjectType(\"${3:type}\")$0",
+			"contents": "IsObjectType(\"${1:type}\")$0",
 		},
 		{
 			"trigger": "IsOwned\t()",
@@ -1695,35 +1695,35 @@
 		},
 		{
 			"trigger": "Model:GetFacing\t()",
-			"contents": "${2:Model}:GetFacing()$0",
+			"contents": "${1:Model}:GetFacing()$0",
 		},
 		{
 			"trigger": "Model:GetFogColor\t()",
-			"contents": "${4:Model}:GetFogColor()$0",
+			"contents": "${1:Model}:GetFogColor()$0",
 		},
 		{
 			"trigger": "Model:GetFogFar\t()",
-			"contents": "${2:Model}:GetFogFar()$0",
+			"contents": "${1:Model}:GetFogFar()$0",
 		},
 		{
 			"trigger": "Model:GetFogNear\t()",
-			"contents": "${2:Model}:GetFogNear()$0",
+			"contents": "${1:Model}:GetFogNear()$0",
 		},
 		{
 			"trigger": "Model:GetLight\t()",
-			"contents": "${14:Model}:GetLight()$0",
+			"contents": "${1:Model}:GetLight()$0",
 		},
 		{
 			"trigger": "Model:GetModel\t()",
-			"contents": "${2:Model}:GetModel()$0",
+			"contents": "${1:Model}:GetModel()$0",
 		},
 		{
 			"trigger": "Model:GetModelScale\t()",
-			"contents": "${2:Model}:GetModelScale()$0",
+			"contents": "${1:Model}:GetModelScale()$0",
 		},
 		{
 			"trigger": "Model:GetPosition\t()",
-			"contents": "${4:Model}:GetPosition()$0",
+			"contents": "${1:Model}:GetPosition()$0",
 		},
 		{
 			"trigger": "Model:ReplaceIconTexture\t(\"fileName\")",
@@ -1851,11 +1851,11 @@
 		},
 		{
 			"trigger": "RegisterForClicks\t(...)",
-			"contents": "RegisterForClicks(${2:...})$0",
+			"contents": "RegisterForClicks(${1:...})$0",
 		},
 		{
 			"trigger": "RegisterForDrag\t(...)",
-			"contents": "RegisterForDrag(${2:...})$0",
+			"contents": "RegisterForDrag(${1:...})$0",
 		},
 		{
 			"trigger": "RegisterUnitEvent\t(\"event\", \"unit1\", \"unit2\")",
@@ -1863,7 +1863,7 @@
 		},
 		{
 			"trigger": "ReplaceIconTexture\t(\"fileName\")",
-			"contents": "ReplaceIconTexture(\"${2:fileName}\")$0",
+			"contents": "ReplaceIconTexture(\"${1:fileName}\")$0",
 		},
 		{
 			"trigger": "Save\t()",
@@ -1875,7 +1875,7 @@
 		},
 		{
 			"trigger": "ScriptObject:HasScript\t(\"scriptType\")",
-			"contents": "${2:ScriptObject}:HasScript(\"${3:scriptType}\")$0",
+			"contents": "${1:ScriptObject}:HasScript(\"${2:scriptType}\")$0",
 		},
 		{
 			"trigger": "ScriptObject:HookScript\t(\"scriptType\", handler)",
@@ -1891,23 +1891,23 @@
 		},
 		{
 			"trigger": "ScrollFrame:GetHorizontalScroll\t()",
-			"contents": "${2:ScrollFrame}:GetHorizontalScroll()$0",
+			"contents": "${1:ScrollFrame}:GetHorizontalScroll()$0",
 		},
 		{
 			"trigger": "ScrollFrame:GetHorizontalScrollRange\t()",
-			"contents": "${2:ScrollFrame}:GetHorizontalScrollRange()$0",
+			"contents": "${1:ScrollFrame}:GetHorizontalScrollRange()$0",
 		},
 		{
 			"trigger": "ScrollFrame:GetScrollChild\t()",
-			"contents": "${2:ScrollFrame}:GetScrollChild()$0",
+			"contents": "${1:ScrollFrame}:GetScrollChild()$0",
 		},
 		{
 			"trigger": "ScrollFrame:GetVerticalScroll\t()",
-			"contents": "${2:ScrollFrame}:GetVerticalScroll()$0",
+			"contents": "${1:ScrollFrame}:GetVerticalScroll()$0",
 		},
 		{
 			"trigger": "ScrollFrame:GetVerticalScrollRange\t()",
-			"contents": "${2:ScrollFrame}:GetVerticalScrollRange()$0",
+			"contents": "${1:ScrollFrame}:GetVerticalScrollRange()$0",
 		},
 		{
 			"trigger": "ScrollFrame:SetHorizontalScroll\t(scroll)",
@@ -1931,11 +1931,11 @@
 		},
 		{
 			"trigger": "ScrollingMessageFrame:AtBottom\t()",
-			"contents": "${2:ScrollingMessageFrame}:AtBottom()$0",
+			"contents": "${1:ScrollingMessageFrame}:AtBottom()$0",
 		},
 		{
 			"trigger": "ScrollingMessageFrame:AtTop\t()",
-			"contents": "${2:ScrollingMessageFrame}:AtTop()$0",
+			"contents": "${1:ScrollingMessageFrame}:AtTop()$0",
 		},
 		{
 			"trigger": "ScrollingMessageFrame:Clear\t()",
@@ -1943,31 +1943,31 @@
 		},
 		{
 			"trigger": "ScrollingMessageFrame:GetCurrentLine\t()",
-			"contents": "${2:ScrollingMessageFrame}:GetCurrentLine()$0",
+			"contents": "${1:ScrollingMessageFrame}:GetCurrentLine()$0",
 		},
 		{
 			"trigger": "ScrollingMessageFrame:GetCurrentScroll\t()",
-			"contents": "${2:ScrollingMessageFrame}:GetCurrentScroll()$0",
+			"contents": "${1:ScrollingMessageFrame}:GetCurrentScroll()$0",
 		},
 		{
 			"trigger": "ScrollingMessageFrame:GetFadeDuration\t()",
-			"contents": "${2:ScrollingMessageFrame}:GetFadeDuration()$0",
+			"contents": "${1:ScrollingMessageFrame}:GetFadeDuration()$0",
 		},
 		{
 			"trigger": "ScrollingMessageFrame:GetFading\t()",
-			"contents": "${2:ScrollingMessageFrame}:GetFading()$0",
+			"contents": "${1:ScrollingMessageFrame}:GetFading()$0",
 		},
 		{
 			"trigger": "ScrollingMessageFrame:GetHyperlinksEnabled\t()",
-			"contents": "${2:ScrollingMessageFrame}:GetHyperlinksEnabled()$0",
+			"contents": "${1:ScrollingMessageFrame}:GetHyperlinksEnabled()$0",
 		},
 		{
 			"trigger": "ScrollingMessageFrame:GetIndentedWordWrap\t()",
-			"contents": "${2:ScrollingMessageFrame}:GetIndentedWordWrap()$0",
+			"contents": "${1:ScrollingMessageFrame}:GetIndentedWordWrap()$0",
 		},
 		{
 			"trigger": "ScrollingMessageFrame:GetInsertMode\t()",
-			"contents": "${2:ScrollingMessageFrame}:GetInsertMode()$0",
+			"contents": "${1:ScrollingMessageFrame}:GetInsertMode()$0",
 		},
 		{
 			"trigger": "ScrollingMessageFrame:GetMaxLines\t(maxLines)",
@@ -1975,19 +1975,19 @@
 		},
 		{
 			"trigger": "ScrollingMessageFrame:GetMessageInfo\t(index, [accessID])",
-			"contents": "${5:ScrollingMessageFrame}:GetMessageInfo(${6:index}, ${7:[accessID]})$0",
+			"contents": "${1:ScrollingMessageFrame}:GetMessageInfo(${2:index}, ${3:[accessID]})$0",
 		},
 		{
 			"trigger": "ScrollingMessageFrame:GetNumLinesDisplayed\t()",
-			"contents": "${2:ScrollingMessageFrame}:GetNumLinesDisplayed()$0",
+			"contents": "${1:ScrollingMessageFrame}:GetNumLinesDisplayed()$0",
 		},
 		{
 			"trigger": "ScrollingMessageFrame:GetNumMessages\t([accessID])",
-			"contents": "${2:ScrollingMessageFrame}:GetNumMessages(${3:[accessID]})$0",
+			"contents": "${1:ScrollingMessageFrame}:GetNumMessages(${2:[accessID]})$0",
 		},
 		{
 			"trigger": "ScrollingMessageFrame:GetTimeVisible\t()",
-			"contents": "${2:ScrollingMessageFrame}:GetTimeVisible()$0",
+			"contents": "${1:ScrollingMessageFrame}:GetTimeVisible()$0",
 		},
 		{
 			"trigger": "ScrollingMessageFrame:PageDown\t()",
@@ -2063,39 +2063,39 @@
 		},
 		{
 			"trigger": "SetAction\t(slot)",
-			"contents": "SetAction(${2:slot})$0",
+			"contents": "SetAction(${1:slot})$0",
 		},
 		{
 			"trigger": "SetAllPoints\t([\"name\"])",
-			"contents": "SetAllPoints(${2:[\"name\"]})$0",
+			"contents": "SetAllPoints(${1:[\"name\"]})$0",
 		},
 		{
 			"trigger": "SetAllPoints\t([region])",
-			"contents": "SetAllPoints(${2:[region]})$0",
+			"contents": "SetAllPoints(${1:[region]})$0",
 		},
 		{
 			"trigger": "SetAlpha\t(alpha)",
-			"contents": "SetAlpha(${2:alpha})$0",
+			"contents": "SetAlpha(${1:alpha})$0",
 		},
 		{
 			"trigger": "SetAlphaGradient\t(start, length)",
-			"contents": "SetAlphaGradient(${2:start}, ${3:length})$0",
+			"contents": "SetAlphaGradient(${1:start}, ${3:length})$0",
 		},
 		{
 			"trigger": "SetAltArrowKeyMode\t(enable)",
-			"contents": "SetAltArrowKeyMode(${2:enable})$0",
+			"contents": "SetAltArrowKeyMode(${1:enable})$0",
 		},
 		{
 			"trigger": "SetAnchorType\t(\"anchor\", [xOffset], [yOffset])",
-			"contents": "SetAnchorType(\"${2:anchor}\", ${3:[xOffset]}, ${4:[yOffset]})$0",
+			"contents": "SetAnchorType(\"${1:anchor}\", ${2:[xOffset]}, ${3:[yOffset]})$0",
 		},
 		{
 			"trigger": "SetAttribute\t(\"name\", value)",
-			"contents": "SetAttribute(\"${2:name}\", ${3:value})$0",
+			"contents": "SetAttribute(\"${1:name}\", ${2:value})$0",
 		},
 		{
 			"trigger": "SetAuctionItem\t(\"list\", index)",
-			"contents": "SetAuctionItem(\"${2:list}\", ${3:index})$0",
+			"contents": "SetAuctionItem(\"${1:list}\", ${2:index})$0",
 		},
 		{
 			"trigger": "SetAuctionSellItem\t()",
@@ -2103,27 +2103,27 @@
 		},
 		{
 			"trigger": "SetAutoFocus\t(enable)",
-			"contents": "SetAutoFocus(${2:enable})$0",
+			"contents": "SetAutoFocus(${1:enable})$0",
 		},
 		{
 			"trigger": "SetBackdrop\t(backdrop)",
-			"contents": "SetBackdrop(${2:backdrop})$0",
+			"contents": "SetBackdrop(${1:backdrop})$0",
 		},
 		{
 			"trigger": "SetBackdropBorderColor\t(red, green, blue, [alpha])",
-			"contents": "SetBackdropBorderColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+			"contents": "SetBackdropBorderColor(${1:red}, ${2:green}, ${3:blue}, ${4:[alpha]})$0",
 		},
 		{
 			"trigger": "SetBackdropColor\t(red, green, blue, [alpha])",
-			"contents": "SetBackdropColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+			"contents": "SetBackdropColor(${1:red}, ${2:green}, ${3:blue}, ${4:[alpha]})$0",
 		},
 		{
 			"trigger": "SetBackpackToken\t(index)",
-			"contents": "SetBackpackToken(${2:index})$0",
+			"contents": "SetBackpackToken(${1:index})$0",
 		},
 		{
 			"trigger": "SetBagItem\t(container, slot)",
-			"contents": "SetBagItem(${4:container}, ${5:slot})$0",
+			"contents": "SetBagItem(${1:container}, ${2:slot})$0",
 		},
 		{
 			"trigger": "SetBlendMode\t(\"mode\")",
@@ -2131,315 +2131,315 @@
 		},
 		{
 			"trigger": "SetBlinkSpeed\t(duration)",
-			"contents": "SetBlinkSpeed(${2:duration})$0",
+			"contents": "SetBlinkSpeed(${1:duration})$0",
 		},
 		{
 			"trigger": "SetBlipTexture\t(\"fileName\")",
-			"contents": "SetBlipTexture(\"${2:fileName}\")$0",
+			"contents": "SetBlipTexture(\"${1:fileName}\")$0",
 		},
 		{
-			"trigger": "SetBorderAlpha\t(Alpha)",
-			"contents": "SetBorderAlpha(${2:Alpha})$0",
+			"trigger": "SetBorderAlpha\t(alpta)",
+			"contents": "SetBorderAlpha(${1:alpta})$0",
 		},
 		{
-			"trigger": "SetBorderScalar\t(Scalar)",
-			"contents": "SetBorderScalar(${2:Scalar})$0",
+			"trigger": "SetBorderScalar\t(scale)",
+			"contents": "SetBorderScalar(${1:scale})$0",
 		},
 		{
-			"trigger": "SetBorderTexture\t(\"Texture\")",
-			"contents": "SetBorderTexture(\"${2:Texture}\")$0",
+			"trigger": "SetBorderTexture\t(\"texture\")",
+			"contents": "SetBorderTexture(\"${1:texture}\")$0",
 		},
 		{
 			"trigger": "SetButtonState\t(\"state\", lock)",
-			"contents": "SetButtonState(\"${2:state}\", ${3:lock})$0",
+			"contents": "SetButtonState(\"${1:state}\", ${2:lock})$0",
 		},
 		{
 			"trigger": "SetBuybackItem\t(index)",
-			"contents": "SetBuybackItem(${2:index})$0",
+			"contents": "SetBuybackItem(${1:index})$0",
 		},
 		{
 			"trigger": "SetCamera\t(index)",
-			"contents": "SetCamera(${2:index})$0",
+			"contents": "SetCamera(${1:index})$0",
 		},
 		{
 			"trigger": "SetChange\t(change)",
-			"contents": "SetChange(${2:change})$0",
+			"contents": "SetChange(${1:change})$0",
 		},
 		{
 			"trigger": "SetChecked\t(enable)",
-			"contents": "SetChecked(${2:enable})$0",
+			"contents": "SetChecked(${1:enable})$0",
 		},
 		{
 			"trigger": "SetCheckedTexture\t(\"fileName\")",
-			"contents": "SetCheckedTexture(\"${2:fileName}\")$0",
+			"contents": "SetCheckedTexture(\"${1:fileName}\")$0",
 		},
 		{
 			"trigger": "SetCheckedTexture\t(texture)",
-			"contents": "SetCheckedTexture(${2:texture})$0",
+			"contents": "SetCheckedTexture(${1:texture})$0",
 		},
 		{
 			"trigger": "SetClampedToScreen\t(enable)",
-			"contents": "SetClampedToScreen(${2:enable})$0",
+			"contents": "SetClampedToScreen(${1:enable})$0",
 		},
 		{
 			"trigger": "SetClampRectInsets\t(left, right, top, bottom)",
-			"contents": "SetClampRectInsets(${2:left}, ${3:right}, ${4:top}, ${5:bottom})$0",
+			"contents": "SetClampRectInsets(${1:left}, ${2:right}, ${3:top}, ${4:bottom})$0",
 		},
 		{
 			"trigger": "SetClassBlipTexture\t(\"fileName\")",
-			"contents": "SetClassBlipTexture(\"${2:fileName}\")$0",
+			"contents": "SetClassBlipTexture(\"${1:fileName}\")$0",
 		},
 		{
 			"trigger": "SetColorHSV\t(hue, saturation, value)",
-			"contents": "SetColorHSV(${2:hue}, ${3:saturation}, ${4:value})$0",
+			"contents": "SetColorHSV(${1:hue}, ${2:saturation}, ${3:value})$0",
 		},
 		{
-			"trigger": "SetColorRGB\t(red, blue, green)",
-			"contents": "SetColorRGB(${2:red}, ${3:blue}, ${4:green})$0",
+			"trigger": "SetColorRGB\t(r, g, b)",
+			"contents": "SetColorRGB(${1:r}, ${2:g}, ${3:b})$0",
 		},
 		{
 			"trigger": "SetColorValueTexture\t(texture)",
-			"contents": "SetColorValueTexture(${2:texture})$0",
+			"contents": "SetColorValueTexture(${1:texture})$0",
 		},
 		{
 			"trigger": "SetColorValueThumbTexture\t(\"fileName\")",
-			"contents": "SetColorValueThumbTexture(\"${2:fileName}\")$0",
+			"contents": "SetColorValueThumbTexture(\"${1:fileName}\")$0",
 		},
 		{
 			"trigger": "SetColorValueThumbTexture\t(texture)",
-			"contents": "SetColorValueThumbTexture(${2:texture})$0",
+			"contents": "SetColorValueThumbTexture(${1:texture})$0",
 		},
 		{
 			"trigger": "SetColorWheelTexture\t(texture)",
-			"contents": "SetColorWheelTexture(${2:texture})$0",
+			"contents": "SetColorWheelTexture(${1:texture})$0",
 		},
 		{
 			"trigger": "SetColorWheelThumbTexture\t(\"fileName\")",
-			"contents": "SetColorWheelThumbTexture(\"${2:fileName}\")$0",
+			"contents": "SetColorWheelThumbTexture(\"${1:fileName}\")$0",
 		},
 		{
 			"trigger": "SetColorWheelThumbTexture\t(texture)",
-			"contents": "SetColorWheelThumbTexture(${2:texture})$0",
+			"contents": "SetColorWheelThumbTexture(${1:texture})$0",
 		},
 		{
 			"trigger": "SetCooldown\t(start, duration)",
-			"contents": "SetCooldown(${2:start}, ${3:duration})$0",
+			"contents": "SetCooldown(${1:start}, ${2:duration})$0",
 		},
 		{
 			"trigger": "SetCorpsePOIArrowTexture\t(\"fileName\")",
-			"contents": "SetCorpsePOIArrowTexture(\"${2:fileName}\")$0",
+			"contents": "SetCorpsePOIArrowTexture(\"${1:fileName}\")$0",
 		},
 		{
 			"trigger": "SetCreature\t(creature)",
-			"contents": "SetCreature(${2:creature})$0",
+			"contents": "SetCreature(${1:creature})$0",
 		},
 		{
 			"trigger": "SetCurrencyByID\t(currencyID)",
-			"contents": "SetCurrencyByID(${2:currencyID})$0",
+			"contents": "SetCurrencyByID(${1:currencyID})$0",
 		},
 		{
 			"trigger": "SetCurrencyToken\t(index)",
-			"contents": "SetCurrencyToken(${2:index})$0",
+			"contents": "SetCurrencyToken(${1:index})$0",
 		},
 		{
 			"trigger": "SetCursorPosition\t(position)",
-			"contents": "SetCursorPosition(${2:position})$0",
+			"contents": "SetCursorPosition(${1:position})$0",
 		},
 		{
 			"trigger": "SetCurve\t(\"curveType\")",
-			"contents": "SetCurve(\"${2:curveType}\")$0",
+			"contents": "SetCurve(\"${1:curveType}\")$0",
 		},
 		{
 			"trigger": "SetDegrees\t(degrees)",
-			"contents": "SetDegrees(${2:degrees})$0",
+			"contents": "SetDegrees(${1:degrees})$0",
 		},
 		{
 			"trigger": "SetDepth\t(depth)",
-			"contents": "SetDepth(${2:depth})$0",
+			"contents": "SetDepth(${1:depth})$0",
 		},
 		{
 			"trigger": "SetDesaturated\t(desaturate)",
-			"contents": "SetDesaturated(${3:desaturate})$0",
+			"contents": "SetDesaturated(${1:desaturate})$0",
 		},
 		{
 			"trigger": "SetDisabledCheckedTexture\t(\"fileName\")",
-			"contents": "SetDisabledCheckedTexture(\"${2:fileName}\")$0",
+			"contents": "SetDisabledCheckedTexture(\"${1:fileName}\")$0",
 		},
 		{
 			"trigger": "SetDisabledCheckedTexture\t(texture)",
-			"contents": "SetDisabledCheckedTexture(${2:texture})$0",
+			"contents": "SetDisabledCheckedTexture(${1:texture})$0",
 		},
 		{
 			"trigger": "SetDisabledFontObject\t(font)",
-			"contents": "SetDisabledFontObject(${2:font})$0",
+			"contents": "SetDisabledFontObject(${1:font})$0",
 		},
 		{
 			"trigger": "SetDisabledTexture\t(\"fileName\")",
-			"contents": "SetDisabledTexture(\"${2:fileName}\")$0",
+			"contents": "SetDisabledTexture(\"${1:fileName}\")$0",
 		},
 		{
 			"trigger": "SetDisabledTexture\t(texture)",
-			"contents": "SetDisabledTexture(${2:texture})$0",
+			"contents": "SetDisabledTexture(${1:texture})$0",
 		},
 		{
 			"trigger": "SetDrawLayer\t(\"layer\", sublayer)",
-			"contents": "SetDrawLayer(\"${2:layer}\", ${3:sublayer})$0",
+			"contents": "SetDrawLayer(\"${1:layer}\", ${2:sublayer})$0",
 		},
 		{
 			"trigger": "SetDuration\t(duration)",
-			"contents": "SetDuration(${2:duration})$0",
+			"contents": "SetDuration(${1:duration})$0",
 		},
 		{
 			"trigger": "SetEndDelay\t(delay)",
-			"contents": "SetEndDelay(${2:delay})$0",
+			"contents": "SetEndDelay(${1:delay})$0",
 		},
 		{
 			"trigger": "SetEquipmentSet\t(\"name\")",
-			"contents": "SetEquipmentSet(\"${2:name}\")$0",
+			"contents": "SetEquipmentSet(\"${1:name}\")$0",
 		},
 		{
 			"trigger": "SetExistingSocketGem\t(index, toDestroy)",
-			"contents": "SetExistingSocketGem(${2:index}, ${3:toDestroy})$0",
+			"contents": "SetExistingSocketGem(${1:index}, ${2:toDestroy})$0",
 		},
 		{
 			"trigger": "SetFacing\t(facing)",
-			"contents": "SetFacing(${2:facing})$0",
+			"contents": "SetFacing(${1:facing})$0",
 		},
 		{
 			"trigger": "SetFadeDuration\t(duration)",
-			"contents": "SetFadeDuration(${2:duration})$0",
+			"contents": "SetFadeDuration(${1:duration})$0",
 		},
 		{
 			"trigger": "SetFading\t(fading)",
-			"contents": "SetFading(${2:fading})$0",
+			"contents": "SetFading(${1:fading})$0",
 		},
 		{
 			"trigger": "SetFillAlpha\t(Alpha)",
-			"contents": "SetFillAlpha(${2:Alpha})$0",
+			"contents": "SetFillAlpha(${1:Alpha})$0",
 		},
 		{
 			"trigger": "SetFillTexture\t(\"Texture\")",
-			"contents": "SetFillTexture(\"${2:Texture}\")$0",
+			"contents": "SetFillTexture(\"${1:Texture}\")$0",
 		},
 		{
 			"trigger": "SetFocus\t()",
 			"contents": "SetFocus()$0",
 		},
 		{
-			"trigger": "SetFogColor\t(red, green, blue)",
-			"contents": "SetFogColor(${2:red}, ${3:green}, ${4:blue})$0",
+			"trigger": "SetFogColor\t(r, g, b)",
+			"contents": "SetFogColor(${1:r}, ${2:g}, ${3:b})$0",
 		},
 		{
 			"trigger": "SetFogFar\t(distance)",
-			"contents": "SetFogFar(${2:distance})$0",
+			"contents": "SetFogFar(${1:distance})$0",
 		},
 		{
 			"trigger": "SetFogNear\t(distance)",
-			"contents": "SetFogNear(${2:distance})$0",
+			"contents": "SetFogNear(${1:distance})$0",
 		},
 		{
 			"trigger": "SetFont\t(\"fileName\", fontHeight, \"flags\")",
-			"contents": "SetFont(\"${3:fileName}\", ${4:fontHeight}, \"${5:flags}\")$0",
+			"contents": "SetFont(\"${1:fileName}\", ${2:fontHeight}, \"${3:flags}\")$0",
 		},
 		{
 			"trigger": "SetFontObject\t(\"name\")",
-			"contents": "SetFontObject(\"${2:name}\")$0",
+			"contents": "SetFontObject(\"${1:name}\")$0",
 		},
 		{
 			"trigger": "SetFontObject\t(object)",
-			"contents": "SetFontObject(${2:object})$0",
+			"contents": "SetFontObject(${1:object})$0",
 		},
 		{
 			"trigger": "SetFontString\t(fontstring)",
-			"contents": "SetFontString(${2:fontstring})$0",
+			"contents": "SetFontString(${1:fontstring})$0",
 		},
 		{
 			"trigger": "SetFormattedText\t(\"formatString\", ...)",
-			"contents": "SetFormattedText(\"${2:formatString}\", ${3:...})$0",
+			"contents": "SetFormattedText(\"${1:formatString}\", ${3:...})$0",
 		},
 		{
 			"trigger": "SetFrameLevel\t(level)",
-			"contents": "SetFrameLevel(${2:level})$0",
+			"contents": "SetFrameLevel(${1:level})$0",
 		},
 		{
 			"trigger": "SetFrameStack\t(includeHidden)",
-			"contents": "SetFrameStack(${2:includeHidden})$0",
+			"contents": "SetFrameStack(${1:includeHidden})$0",
 		},
 		{
 			"trigger": "SetFrameStrata\t(\"strata\")",
-			"contents": "SetFrameStrata(\"${2:strata}\")$0",
+			"contents": "SetFrameStrata(\"${1:strata}\")$0",
 		},
 		{
 			"trigger": "SetGlow\t(amount)",
-			"contents": "SetGlow(${2:amount})$0",
+			"contents": "SetGlow(${1:amount})$0",
 		},
 		{
 			"trigger": "SetGlyph\t(socket, talentGroup)",
-			"contents": "SetGlyph(${2:socket}, ${3:talentGroup})$0",
+			"contents": "SetGlyph(${1:socket}, ${2:talentGroup})$0",
 		},
 		{
 			"trigger": "SetGradient\t(\"orientation\", startR, startG, startB, endR, endG, endB)",
-			"contents": "SetGradient(\"${2:orientation}\", ${3:startR}, ${4:startG}, ${5:startB}, ${6:endR}, ${7:endG}, ${8:endB})$0",
+			"contents": "SetGradient(\"${1:orientation}\", ${2:startR}, ${3:startG}, ${4:startB}, ${5:endR}, ${6:endG}, ${7:endB})$0",
 		},
 		{
 			"trigger": "SetGradientAlpha\t(\"orientation\", startR, startG, startB, startAlpha, endR, endG, endB, endAlpha)",
-			"contents": "SetGradientAlpha(\"${2:orientation}\", ${3:startR}, ${4:startG}, ${5:startB}, ${6:startAlpha}, ${7:endR}, ${8:endG}, ${9:endB}, ${10:endAlpha})$0",
+			"contents": "SetGradientAlpha(\"${1:orientation}\", ${2:startR}, ${3:startG}, ${4:startB}, ${5:startAlpha}, ${6:endR}, ${7:endG}, ${8:endB}, ${9:endAlpha})$0",
 		},
 		{
 			"trigger": "SetGuildBankItem\t(tab, slot)",
-			"contents": "SetGuildBankItem(${2:tab}, ${3:slot})$0",
+			"contents": "SetGuildBankItem(${1:tab}, ${2:slot})$0",
 		},
 		{
 			"trigger": "SetHeight\t(height)",
-			"contents": "SetHeight(${2:height})$0",
+			"contents": "SetHeight(${1:height})$0",
 		},
 		{
 			"trigger": "SetHighlightFontObject\t(font)",
-			"contents": "SetHighlightFontObject(${2:font})$0",
+			"contents": "SetHighlightFontObject(${1:font})$0",
 		},
 		{
 			"trigger": "SetHighlightTexture\t(\"fileName\", [\"mode\"])",
-			"contents": "SetHighlightTexture(\"${2:fileName}\", ${3:[\"mode\"]})$0",
+			"contents": "SetHighlightTexture(\"${1:fileName}\", ${2:[\"mode\"]})$0",
 		},
 		{
 			"trigger": "SetHighlightTexture\t(texture, [\"mode\"])",
-			"contents": "SetHighlightTexture(${2:texture}, ${3:[\"mode\"]})$0",
+			"contents": "SetHighlightTexture(${1:texture}, ${2:[\"mode\"]})$0",
 		},
 		{
 			"trigger": "SetHistoryLines\t(count)",
-			"contents": "SetHistoryLines(${2:count})$0",
+			"contents": "SetHistoryLines(${1:count})$0",
 		},
 		{
 			"trigger": "SetHitRectInsets\t(left, right, top, bottom)",
-			"contents": "SetHitRectInsets(${2:left}, ${3:right}, ${4:top}, ${5:bottom})$0",
+			"contents": "SetHitRectInsets(${1:left}, ${2:right}, ${3:top}, ${4:bottom})$0",
 		},
 		{
 			"trigger": "SetHorizontalScroll\t(scroll)",
-			"contents": "SetHorizontalScroll(${2:scroll})$0",
+			"contents": "SetHorizontalScroll(${1:scroll})$0",
 		},
 		{
 			"trigger": "SetHyperlink\t(\"hyperlink\")",
-			"contents": "SetHyperlink(\"${2:hyperlink}\")$0",
+			"contents": "SetHyperlink(\"${1:hyperlink}\")$0",
 		},
 		{
 			"trigger": "SetHyperlink\t(hyperlink)",
-			"contents": "SetHyperlink(${2:hyperlink})$0",
+			"contents": "SetHyperlink(${1:hyperlink})$0",
 		},
 		{
 			"trigger": "SetHyperlinkCompareItem\t(\"hyperlink\", [index])",
-			"contents": "SetHyperlinkCompareItem(\"${3:hyperlink}\", ${4:[index]})$0",
+			"contents": "SetHyperlinkCompareItem(\"${1:hyperlink}\", ${2:[index]})$0",
 		},
 		{
 			"trigger": "SetHyperlinksEnabled\t(enable)",
-			"contents": "SetHyperlinksEnabled(${2:enable})$0",
+			"contents": "SetHyperlinksEnabled(${1:enable})$0",
 		},
 		{
 			"trigger": "SetIconTexture\t(\"fileName\")",
-			"contents": "SetIconTexture(\"${2:fileName}\")$0",
+			"contents": "SetIconTexture(\"${1:fileName}\")$0",
 		},
 		{
 			"trigger": "SetID\t(id)",
-			"contents": "SetID(${2:id})$0",
+			"contents": "SetID(${1:id})$0",
 		},
 		{
 			"trigger": "SetIgnoreFramerateThrottle\t()",
@@ -2447,27 +2447,27 @@
 		},
 		{
 			"trigger": "SetInboxItem\t(mailID, attachmentIndex)",
-			"contents": "SetInboxItem(${2:mailID}, ${3:attachmentIndex})$0",
+			"contents": "SetInboxItem(${1:mailID}, ${2:attachmentIndex})$0",
 		},
 		{
 			"trigger": "SetIndentedWordWrap\t(indent)",
-			"contents": "SetIndentedWordWrap(${2:indent})$0",
+			"contents": "SetIndentedWordWrap(${1:indent})$0",
 		},
 		{
 			"trigger": "SetInitialOffset\t(x, y)",
-			"contents": "SetInitialOffset(${2:x}, ${3:y})$0",
+			"contents": "SetInitialOffset(${1:x}, ${2:y})$0",
 		},
 		{
 			"trigger": "SetInsertMode\t(\"position\")",
-			"contents": "SetInsertMode(\"${2:position}\")$0",
+			"contents": "SetInsertMode(\"${1:position}\")$0",
 		},
 		{
 			"trigger": "SetInventoryItem\t(\"unit\", slot, [nameOnly])",
-			"contents": "SetInventoryItem(\"${5:unit}\", ${6:slot}, ${7:[nameOnly]})$0",
+			"contents": "SetInventoryItem(\"${1:unit}\", ${2:slot}, ${3:[nameOnly]})$0",
 		},
 		{
 			"trigger": "SetJustifyH\t(\"justify\")",
-			"contents": "SetJustifyH(\"${2:justify}\")$0",
+			"contents": "SetJustifyH(\"${1:justify}\")$0",
 		},
 		{
 			"trigger": "SetJustifyV\t(\"justify\")",
@@ -2475,183 +2475,183 @@
 		},
 		{
 			"trigger": "SetLight\t(enabled, omni, dirX, dirY, dirZ, ambIntensity, [ambR], [ambG], [ambB], [dirIntensity], [dirR], [dirG], [dirB])",
-			"contents": "SetLight(${2:enabled}, ${3:omni}, ${4:dirX}, ${5:dirY}, ${6:dirZ}, ${7:ambIntensity}, ${8:[ambR]}, ${9:[ambG]}, ${10:[ambB]}, ${11:[dirIntensity]}, ${12:[dirR]}, ${13:[dirG]}, ${14:[dirB]})$0",
+			"contents": "SetLight(${1:enabled}, ${2:omni}, ${3:dirX}, ${4:dirY}, ${5:dirZ}, ${6:ambIntensity}, ${7:[ambR]}, ${8:[ambG]}, ${9:[ambB]}, ${10:[dirIntensity]}, ${11:[dirR]}, ${12:[dirG]}, ${13:[dirB]})$0",
 		},
 		{
 			"trigger": "SetLooping\t(\"loopType\")",
-			"contents": "SetLooping(\"${2:loopType}\")$0",
+			"contents": "SetLooping(\"${1:loopType}\")$0",
 		},
 		{
 			"trigger": "SetLootItem\t(slot)",
-			"contents": "SetLootItem(${2:slot})$0",
+			"contents": "SetLootItem(${1:slot})$0",
 		},
 		{
 			"trigger": "SetLootRollItem\t(id)",
-			"contents": "SetLootRollItem(${2:id})$0",
+			"contents": "SetLootRollItem(${1:id})$0",
 		},
 		{
 			"trigger": "SetMaskTexture\t(\"fileName\")",
-			"contents": "SetMaskTexture(\"${2:fileName}\")$0",
+			"contents": "SetMaskTexture(\"${1:fileName}\")$0",
 		},
 		{
 			"trigger": "SetMaxBytes\t(maxBytes)",
-			"contents": "SetMaxBytes(${2:maxBytes})$0",
+			"contents": "SetMaxBytes(${1:maxBytes})$0",
 		},
 		{
 			"trigger": "SetMaxLetters\t(maxLetters)",
-			"contents": "SetMaxLetters(${2:maxLetters})$0",
+			"contents": "SetMaxLetters(${1:maxLetters})$0",
 		},
 		{
 			"trigger": "SetMaxLines\t(maxLines)",
-			"contents": "SetMaxLines(${2:maxLines})$0",
+			"contents": "SetMaxLines(${1:maxLines})$0",
 		},
 		{
 			"trigger": "SetMaxResize\t(maxWidth, maxHeight)",
-			"contents": "SetMaxResize(${2:maxWidth}, ${3:maxHeight})$0",
+			"contents": "SetMaxResize(${1:maxWidth}, ${2:maxHeight})$0",
 		},
 		{
 			"trigger": "SetMerchantCostItem\t(index, currency)",
-			"contents": "SetMerchantCostItem(${2:index}, ${3:currency})$0",
+			"contents": "SetMerchantCostItem(${1:index}, ${2:currency})$0",
 		},
 		{
 			"trigger": "SetMerchantItem\t(merchantIndex)",
-			"contents": "SetMerchantItem(${2:merchantIndex})$0",
+			"contents": "SetMerchantItem(${1:merchantIndex})$0",
 		},
 		{
 			"trigger": "SetMinimumWidth\t(width)",
-			"contents": "SetMinimumWidth(${2:width})$0",
+			"contents": "SetMinimumWidth(${1:width})$0",
 		},
 		{
 			"trigger": "SetMinMaxValues\t(minValue, maxValue)",
-			"contents": "SetMinMaxValues(${2:minValue}, ${3:maxValue})$0",
+			"contents": "SetMinMaxValues(${1:minValue}, ${2:maxValue})$0",
 		},
 		{
 			"trigger": "SetMinResize\t(minWidth, minHeight)",
-			"contents": "SetMinResize(${2:minWidth}, ${3:minHeight})$0",
+			"contents": "SetMinResize(${1:minWidth}, ${2:minHeight})$0",
 		},
 		{
 			"trigger": "SetModel\t(\"fileName\")",
-			"contents": "SetModel(\"${2:fileName}\")$0",
+			"contents": "SetModel(\"${1:fileName}\")$0",
 		},
 		{
 			"trigger": "SetModelScale\t(scale)",
-			"contents": "SetModelScale(${2:scale})$0",
+			"contents": "SetModelScale(${1:scale})$0",
 		},
 		{
 			"trigger": "SetMotionScriptsWhileDisabled\t(enabled)",
-			"contents": "SetMotionScriptsWhileDisabled(${2:enabled})$0",
+			"contents": "SetMotionScriptsWhileDisabled(${1:enabled})$0",
 		},
 		{
 			"trigger": "SetMovable\t(enable)",
-			"contents": "SetMovable(${2:enable})$0",
+			"contents": "SetMovable(${1:enable})$0",
 		},
 		{
 			"trigger": "SetMultiLine\t(multiLine)",
-			"contents": "SetMultiLine(${2:multiLine})$0",
+			"contents": "SetMultiLine(${1:multiLine})$0",
 		},
 		{
 			"trigger": "SetNonBlocking\t(nonBlocking)",
-			"contents": "SetNonBlocking(${2:nonBlocking})$0",
+			"contents": "SetNonBlocking(${1:nonBlocking})$0",
 		},
 		{
 			"trigger": "SetNonSpaceWrap\t(enable)",
-			"contents": "SetNonSpaceWrap(${2:enable})$0",
+			"contents": "SetNonSpaceWrap(${1:enable})$0",
 		},
 		{
 			"trigger": "SetNormalFontObject\t(font)",
-			"contents": "SetNormalFontObject(${2:font})$0",
+			"contents": "SetNormalFontObject(${1:font})$0",
 		},
 		{
 			"trigger": "SetNormalTexture\t(\"fileName\")",
-			"contents": "SetNormalTexture(\"${2:fileName}\")$0",
+			"contents": "SetNormalTexture(\"${1:fileName}\")$0",
 		},
 		{
 			"trigger": "SetNormalTexture\t(texture)",
-			"contents": "SetNormalTexture(${2:texture})$0",
+			"contents": "SetNormalTexture(${1:texture})$0",
 		},
 		{
 			"trigger": "SetNumber\t(num)",
-			"contents": "SetNumber(${2:num})$0",
+			"contents": "SetNumber(${1:num})$0",
 		},
 		{
 			"trigger": "SetNumeric\t(enable)",
-			"contents": "SetNumeric(${2:enable})$0",
+			"contents": "SetNumeric(${1:enable})$0",
 		},
 		{
 			"trigger": "SetNumSplinePoints\t(points)",
-			"contents": "SetNumSplinePoints(${2:points})$0",
+			"contents": "SetNumSplinePoints(${1:points})$0",
 		},
 		{
 			"trigger": "SetOffset\t(xOffset, yOffset)",
-			"contents": "SetOffset(${2:xOffset}, ${3:yOffset})$0",
+			"contents": "SetOffset(${1:xOffset}, ${2:yOffset})$0",
 		},
 		{
 			"trigger": "SetOrder\t(order)",
-			"contents": "SetOrder(${2:order})$0",
+			"contents": "SetOrder(${1:order})$0",
 		},
 		{
 			"trigger": "SetOrientation\t(\"orientation\")",
-			"contents": "SetOrientation(\"${2:orientation}\")$0",
+			"contents": "SetOrientation(\"${1:orientation}\")$0",
 		},
 		{
 			"trigger": "SetOrigin\t(\"point\", xOffset, yOffset)",
-			"contents": "SetOrigin(\"${2:point}\", ${3:xOffset}, ${4:yOffset})$0",
+			"contents": "SetOrigin(\"${1:point}\", ${2:xOffset}, ${3:yOffset})$0",
 		},
 		{
 			"trigger": "SetOwner\t(frame, [\"anchorType\"], [xOffset], [yOffset])",
-			"contents": "SetOwner(${2:frame}, ${3:[\"anchorType\"]}, ${4:[xOffset]}, ${5:[yOffset]})$0",
+			"contents": "SetOwner(${1:frame}, ${2:[\"anchorType\"]}, ${3:[xOffset]}, ${4:[yOffset]})$0",
 		},
 		{
 			"trigger": "SetPadding\t(padding)",
-			"contents": "SetPadding(${2:padding})$0",
+			"contents": "SetPadding(${1:padding})$0",
 		},
 		{
 			"trigger": "SetParent\t(animGroup)",
-			"contents": "SetParent(${2:animGroup})$0",
+			"contents": "SetParent(${1:animGroup})$0",
 		},
 		{
 			"trigger": "SetParent\t(\"animGroupName\")",
-			"contents": "SetParent(\"${2:animGroupName}\")$0",
+			"contents": "SetParent(\"${1:animGroupName}\")$0",
 		},
 		{
 			"trigger": "SetParent\t(frame)",
-			"contents": "SetParent(${2:frame})$0",
+			"contents": "SetParent(${1:frame})$0",
 		},
 		{
 			"trigger": "SetParent\t(\"name\")",
-			"contents": "SetParent(\"${2:name}\")$0",
+			"contents": "SetParent(\"${1:name}\")$0",
 		},
 		{
 			"trigger": "SetParent\t([\"path\"], [order])",
-			"contents": "SetParent(${2:[\"path\"]}, ${3:[order]})$0",
+			"contents": "SetParent(${1:[\"path\"]}, ${2:[order]})$0",
 		},
 		{
 			"trigger": "SetParent\t([path], [order])",
-			"contents": "SetParent(${2:[path]}, ${3:[order]})$0",
+			"contents": "SetParent(${1:[path]}, ${3:[order]})$0",
 		},
 		{
 			"trigger": "SetPassword\t(enable)",
-			"contents": "SetPassword(${2:enable})$0",
+			"contents": "SetPassword(${1:enable})$0",
 		},
 		{
 			"trigger": "SetPetAction\t(index)",
-			"contents": "SetPetAction(${2:index})$0",
+			"contents": "SetPetAction(${1:index})$0",
 		},
 		{
 			"trigger": "SetPlayerTexture\t(\"fileName\")",
-			"contents": "SetPlayerTexture(\"${2:fileName}\")$0",
+			"contents": "SetPlayerTexture(\"${1:fileName}\")$0",
 		},
 		{
 			"trigger": "SetPlayerTextureHeight\t(height)",
-			"contents": "SetPlayerTextureHeight(${2:height})$0",
+			"contents": "SetPlayerTextureHeight(${1:height})$0",
 		},
 		{
 			"trigger": "SetPlayerTextureWidth\t(width)",
-			"contents": "SetPlayerTextureWidth(${2:width})$0",
+			"contents": "SetPlayerTextureWidth(${1:width})$0",
 		},
 		{
 			"trigger": "SetPOIArrowTexture\t(\"fileName\")",
-			"contents": "SetPOIArrowTexture(\"${2:fileName}\")$0",
+			"contents": "SetPOIArrowTexture(\"${1:fileName}\")$0",
 		},
 		{
 			"trigger": "SetPoint\t(\"point\", [relativeTo], [\"relativePoint\"], [xOffset], [yOffset])",
@@ -2659,31 +2659,31 @@
 		},
 		{
 			"trigger": "SetPosition\t(x, y, z)",
-			"contents": "SetPosition(${2:x}, ${3:y}, ${4:z})$0",
+			"contents": "SetPosition(${1:x}, ${2:y}, ${3:z})$0",
 		},
 		{
 			"trigger": "SetPossession\t(index)",
-			"contents": "SetPossession(${2:index})$0",
+			"contents": "SetPossession(${1:index})$0",
 		},
 		{
 			"trigger": "SetPushedTextOffset\t(x, y)",
-			"contents": "SetPushedTextOffset(${2:x}, ${3:y})$0",
+			"contents": "SetPushedTextOffset(${1:x}, ${2:y})$0",
 		},
 		{
 			"trigger": "SetPushedTexture\t(\"fileName\")",
-			"contents": "SetPushedTexture(\"${2:fileName}\")$0",
+			"contents": "SetPushedTexture(\"${1:fileName}\")$0",
 		},
 		{
 			"trigger": "SetPushedTexture\t(texture)",
-			"contents": "SetPushedTexture(${2:texture})$0",
+			"contents": "SetPushedTexture(${1:texture})$0",
 		},
 		{
 			"trigger": "SetQuestItem\t(\"itemType\", index)",
-			"contents": "SetQuestItem(\"${2:itemType}\", ${3:index})$0",
+			"contents": "SetQuestItem(\"${1:itemType}\", ${2:index})$0",
 		},
 		{
 			"trigger": "SetQuestLogItem\t(\"itemType\", index)",
-			"contents": "SetQuestLogItem(\"${2:itemType}\", ${3:index})$0",
+			"contents": "SetQuestLogItem(\"${1:itemType}\", ${2:index})$0",
 		},
 		{
 			"trigger": "SetQuestLogRewardSpell\t()",
@@ -2691,7 +2691,7 @@
 		},
 		{
 			"trigger": "SetQuestLogSpecialItem\t(questIndex)",
-			"contents": "SetQuestLogSpecialItem(${2:questIndex})$0",
+			"contents": "SetQuestLogSpecialItem(${1:questIndex})$0",
 		},
 		{
 			"trigger": "SetQuestRewardSpell\t()",
@@ -2699,35 +2699,35 @@
 		},
 		{
 			"trigger": "SetRadians\t(radians)",
-			"contents": "SetRadians(${2:radians})$0",
+			"contents": "SetRadians(${1:radians})$0",
 		},
 		{
 			"trigger": "SetResizable\t(enable)",
-			"contents": "SetResizable(${2:enable})$0",
+			"contents": "SetResizable(${1:enable})$0",
 		},
 		{
 			"trigger": "SetReverse\t(reverse)",
-			"contents": "SetReverse(${2:reverse})$0",
+			"contents": "SetReverse(${1:reverse})$0",
 		},
 		{
 			"trigger": "SetRotatesTexture\t(rotate)",
-			"contents": "SetRotatesTexture(${2:rotate})$0",
+			"contents": "SetRotatesTexture(${1:rotate})$0",
 		},
 		{
 			"trigger": "SetRotation\t(facing)",
-			"contents": "SetRotation(${2:facing})$0",
+			"contents": "SetRotation(${1:facing})$0",
 		},
 		{
 			"trigger": "SetRotation\t(radians)",
-			"contents": "SetRotation(${2:radians})$0",
+			"contents": "SetRotation(${1:radians})$0",
 		},
 		{
 			"trigger": "SetScale\t(scale)",
-			"contents": "SetScale(${2:scale})$0",
+			"contents": "SetScale(${1:scale})$0",
 		},
 		{
 			"trigger": "SetScale\t(xFactor, yFactor)",
-			"contents": "SetScale(${2:xFactor}, ${3:yFactor})$0",
+			"contents": "SetScale(${1:xFactor}, ${2:yFactor})$0",
 		},
 		{
 			"trigger": "SetScript\t(\"scriptType\", handler)",
@@ -2735,43 +2735,43 @@
 		},
 		{
 			"trigger": "SetScrollChild\t(frame)",
-			"contents": "SetScrollChild(${2:frame})$0",
+			"contents": "SetScrollChild(${1:frame})$0",
 		},
 		{
 			"trigger": "SetScrollOffset\t(offset)",
-			"contents": "SetScrollOffset(${2:offset})$0",
+			"contents": "SetScrollOffset(${1:offset})$0",
 		},
 		{
 			"trigger": "SetSendMailItem\t(slot)",
-			"contents": "SetSendMailItem(${2:slot})$0",
+			"contents": "SetSendMailItem(${1:slot})$0",
 		},
 		{
 			"trigger": "SetSequence\t(sequence)",
-			"contents": "SetSequence(${2:sequence})$0",
+			"contents": "SetSequence(${1:sequence})$0",
 		},
 		{
 			"trigger": "SetSequenceTime\t(sequence, time)",
-			"contents": "SetSequenceTime(${2:sequence}, ${3:time})$0",
+			"contents": "SetSequenceTime(${1:sequence}, ${2:time})$0",
 		},
 		{
-			"trigger": "SetShadowColor\t(shadowRed, shadowGreen, shadowBlue, shadowAlpha)",
-			"contents": "SetShadowColor(${2:shadowRed}, ${3:shadowGreen}, ${4:shadowBlue}, ${5:shadowAlpha})$0",
+			"trigger": "SetShadowColor\t(r, g, b, [a])",
+			"contents": "SetShadowColor(${1:r}, ${2:b}, ${3:g}, ${4:[a]})$0",
 		},
 		{
 			"trigger": "SetShadowOffset\t(xOffset, yOffset)",
-			"contents": "SetShadowOffset(${2:xOffset}, ${3:yOffset})$0",
+			"contents": "SetShadowOffset(${1:xOffset}, ${2:yOffset})$0",
 		},
 		{
 			"trigger": "SetShapeshift\t(index)",
-			"contents": "SetShapeshift(${2:index})$0",
+			"contents": "SetShapeshift(${1:index})$0",
 		},
 		{
 			"trigger": "SetSize\t(width, height)",
-			"contents": "SetSize(${2:width}, ${3:height})$0",
+			"contents": "SetSize(${1:width}, ${3:height})$0",
 		},
 		{
 			"trigger": "SetSmoothing\t(\"smoothType\")",
-			"contents": "SetSmoothing(\"${2:smoothType}\")$0",
+			"contents": "SetSmoothing(\"${1:smoothType}\")$0",
 		},
 		{
 			"trigger": "SetSmoothProgress\t()",
@@ -2783,163 +2783,159 @@
 		},
 		{
 			"trigger": "SetSocketGem\t(index)",
-			"contents": "SetSocketGem(${2:index})$0",
+			"contents": "SetSocketGem(${1:index})$0",
 		},
 		{
 			"trigger": "SetSpacing\t(spacing)",
-			"contents": "SetSpacing(${2:spacing})$0",
+			"contents": "SetSpacing(${1:spacing})$0",
 		},
 		{
 			"trigger": "SetSpellByID\t(id)",
-			"contents": "SetSpellByID(${2:id})$0",
+			"contents": "SetSpellByID(${1:id})$0",
 		},
 		{
 			"trigger": "SetStartDelay\t(delay)",
-			"contents": "SetStartDelay(${2:delay})$0",
+			"contents": "SetStartDelay(${1:delay})$0",
 		},
 		{
 			"trigger": "SetStaticPOIArrowTexture\t(\"fileName\")",
-			"contents": "SetStaticPOIArrowTexture(\"${2:fileName}\")$0",
+			"contents": "SetStaticPOIArrowTexture(\"${1:fileName}\")$0",
 		},
 		{
-			"trigger": "SetStatusBarColor\t(red, green, blue, [alpha])",
-			"contents": "SetStatusBarColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+			"trigger": "SetStatusBarColor\t(r, g, b, [a])",
+			"contents": "SetStatusBarColor(${1:r}, ${2:g}, ${3:b}, ${4:[a]})$0",
 		},
 		{
 			"trigger": "SetStatusBarTexture\t(\"fileName\", [\"layer\"])",
-			"contents": "SetStatusBarTexture(\"${2:fileName}\", ${3:[\"layer\"]})$0",
+			"contents": "SetStatusBarTexture(\"${1:fileName}\", ${2:[\"layer\"]})$0",
 		},
 		{
 			"trigger": "SetStatusBarTexture\t(texture, [\"layer\"])",
-			"contents": "SetStatusBarTexture(${2:texture}, ${3:[\"layer\"]})$0",
+			"contents": "SetStatusBarTexture(${1:texture}, ${2:[\"layer\"]})$0",
 		},
 		{
 			"trigger": "SetTalent\t(tabIndex, talentIndex, inspect, pet, talentGroup)",
-			"contents": "SetTalent(${2:tabIndex}, ${3:talentIndex}, ${4:inspect}, ${5:pet}, ${6:talentGroup})$0",
+			"contents": "SetTalent(${1:tabIndex}, ${2:talentIndex}, ${3:inspect}, ${4:pet}, ${5:talentGroup})$0",
 		},
 		{
 			"trigger": "SetTexCoord\t(left, right, top, bottom)",
-			"contents": "SetTexCoord(${2:left}, ${3:right}, ${4:top}, ${5:bottom})$0",
+			"contents": "SetTexCoord(${1:left}, ${2:right}, ${3:top}, ${4:bottom})$0",
 		},
 		{
 			"trigger": "SetTexCoord\t(ULx, ULy, LLx, LLy, URx, URy, LRx, LRy)",
-			"contents": "SetTexCoord(${2:ULx}, ${3:ULy}, ${4:LLx}, ${5:LLy}, ${6:URx}, ${7:URy}, ${8:LRx}, ${9:LRy})$0",
+			"contents": "SetTexCoord(${1:ULx}, ${2:ULy}, ${3:LLx}, ${4:LLy}, ${5:URx}, ${6:URy}, ${7:LRx}, ${8:LRy})$0",
 		},
 		{
 			"trigger": "SetText\t(\"text\")",
-			"contents": "SetText(\"${2:text}\")$0",
+			"contents": "SetText(\"${1:text}\")$0",
 		},
 		{
-			"trigger": "SetText\t(\"text\", [red], [green], [blue], [alpha])",
-			"contents": "SetText(\"${2:text}\", ${3:[red]}, ${4:[green]}, ${5:[blue]}, ${6:[alpha]})$0",
+			"trigger": "SetText\t(\"text\", [r], [g], [b], [a])",
+			"contents": "SetText(\"${1:text}\", ${2:[r]}, ${3:[g]}, ${4:[b]}, ${5:[a]})$0",
 		},
 		{
-			"trigger": "SetTextColor\t(textRed, textGreen, textBlue, textAlpha)",
-			"contents": "SetTextColor(${2:textRed}, ${3:textGreen}, ${4:textBlue}, ${5:textAlpha})$0",
+			"trigger": "SetTextColor\t(r, g, b, [a])",
+			"contents": "SetTextColor(${1:r}, ${2:g}, ${3:b}, ${4:[a]})$0",
 		},
 		{
 			"trigger": "SetTextHeight\t(height)",
-			"contents": "SetTextHeight(${2:height})$0",
+			"contents": "SetTextHeight(${1:height})$0",
 		},
 		{
 			"trigger": "SetTextInsets\t(left, right, top, bottom)",
-			"contents": "SetTextInsets(${2:left}, ${3:right}, ${4:top}, ${5:bottom})$0",
-		},
-		{
-			"trigger": "SetTexture\t(red, green, blue, [alpha])",
-			"contents": "SetTexture(${3:red}, ${4:green}, ${5:blue}, ${6:[alpha]})$0",
+			"contents": "SetTextInsets(${1:left}, ${2:right}, ${3:top}, ${4:bottom})$0",
 		},
 		{
 			"trigger": "SetTexture\t(\"texture\")",
-			"contents": "SetTexture(\"${3:texture}\")$0",
+			"contents": "SetTexture(\"${1:texture}\")$0",
 		},
 		{
 			"trigger": "SetThumbTexture\t(\"fileName\", [\"layer\"])",
-			"contents": "SetThumbTexture(\"${2:fileName}\", ${3:[\"layer\"]})$0",
+			"contents": "SetThumbTexture(\"${1:fileName}\", ${2:[\"layer\"]})$0",
 		},
 		{
 			"trigger": "SetThumbTexture\t(texture, [\"layer\"])",
-			"contents": "SetThumbTexture(${2:texture}, ${3:[\"layer\"]})$0",
+			"contents": "SetThumbTexture(${1:texture}, ${2:[\"layer\"]})$0",
 		},
 		{
 			"trigger": "SetTimeVisible\t(time)",
-			"contents": "SetTimeVisible(${2:time})$0",
+			"contents": "SetTimeVisible(${1:time})$0",
 		},
 		{
 			"trigger": "SetToplevel\t(enable)",
-			"contents": "SetToplevel(${2:enable})$0",
+			"contents": "SetToplevel(${1:enable})$0",
 		},
 		{
 			"trigger": "SetTotem\t(slot)",
-			"contents": "SetTotem(${2:slot})$0",
+			"contents": "SetTotem(${1:slot})$0",
 		},
 		{
 			"trigger": "SetTradePlayerItem\t(index)",
-			"contents": "SetTradePlayerItem(${2:index})$0",
+			"contents": "SetTradePlayerItem(${1:index})$0",
 		},
 		{
 			"trigger": "SetTradeSkillItem\t(skillIndex, [reagentIndex])",
-			"contents": "SetTradeSkillItem(${2:skillIndex}, ${3:[reagentIndex]})$0",
+			"contents": "SetTradeSkillItem(${1:skillIndex}, ${2:[reagentIndex]})$0",
 		},
 		{
 			"trigger": "SetTradeTargetItem\t(index)",
-			"contents": "SetTradeTargetItem(${2:index})$0",
+			"contents": "SetTradeTargetItem(${1:index})$0",
 		},
 		{
 			"trigger": "SetTrainerService\t(index)",
-			"contents": "SetTrainerService(${2:index})$0",
+			"contents": "SetTrainerService(${1:index})$0",
 		},
 		{
 			"trigger": "SetUnit\t(\"unit\")",
-			"contents": "SetUnit(\"${2:unit}\")$0",
+			"contents": "SetUnit(\"${1:unit}\")$0",
 		},
 		{
 			"trigger": "SetUnitAura\t(\"unit\", index, [\"filter\"])",
-			"contents": "SetUnitAura(\"${2:unit}\", ${3:index}, ${4:[\"filter\"]})$0",
+			"contents": "SetUnitAura(\"${1:unit}\", ${2:index}, ${3:[\"filter\"]})$0",
 		},
 		{
 			"trigger": "SetUnitBuff\t(\"unit\", index, [\"filter\"])",
-			"contents": "SetUnitBuff(\"${2:unit}\", ${3:index}, ${4:[\"filter\"]})$0",
+			"contents": "SetUnitBuff(\"${1:unit}\", ${2:index}, ${3:[\"filter\"]})$0",
 		},
 		{
 			"trigger": "SetUnitDebuff\t(\"unit\", index, [\"filter\"])",
-			"contents": "SetUnitDebuff(\"${2:unit}\", ${3:index}, ${4:[\"filter\"]})$0",
+			"contents": "SetUnitDebuff(\"${1:unit}\", ${2:index}, ${3:[\"filter\"]})$0",
 		},
 		{
 			"trigger": "SetUserPlaced\t(enable)",
-			"contents": "SetUserPlaced(${2:enable})$0",
+			"contents": "SetUserPlaced(${1:enable})$0",
 		},
 		{
 			"trigger": "SetValue\t(value)",
-			"contents": "SetValue(${2:value})$0",
+			"contents": "SetValue(${1:value})$0",
 		},
 		{
 			"trigger": "SetValueStep\t(step)",
-			"contents": "SetValueStep(${2:step})$0",
+			"contents": "SetValueStep(${1:step})$0",
 		},
 		{
 			"trigger": "SetObeyStepOnDrag\t(enable)",
-			"contents": "SetObeyStepOnDrag(${2:enable})$0",
+			"contents": "SetObeyStepOnDrag(${1:enable})$0",
 		},
 		{
-			"trigger": "SetVertexColor\t(red, green, blue, [alpha])",
-			"contents": "SetVertexColor(${2:red}, ${3:green}, ${4:blue}, ${5:[alpha]})$0",
+			"trigger": "SetVertexColor\t(r, g, b, [a])",
+			"contents": "SetVertexColor(${1:r}, ${2:g}, ${3:b}, ${4:[a]})$0",
 		},
 		{
 			"trigger": "SetVerticalScroll\t(scroll)",
-			"contents": "SetVerticalScroll(${2:scroll})$0",
+			"contents": "SetVerticalScroll(${1:scroll})$0",
 		},
 		{
 			"trigger": "SetWidth\t(width)",
-			"contents": "SetWidth(${2:width})$0",
+			"contents": "SetWidth(${1:width})$0",
 		},
 		{
 			"trigger": "SetWordWrap\t(enable)",
-			"contents": "SetWordWrap(${2:enable})$0",
+			"contents": "SetWordWrap(${1:enable})$0",
 		},
 		{
 			"trigger": "SetZoom\t(zoomLevel)",
-			"contents": "SetZoom(${2:zoomLevel})$0",
+			"contents": "SetZoom(${1:zoomLevel})$0",
 		},
 		{
 			"trigger": "Show\t()",
@@ -2955,27 +2951,27 @@
 		},
 		{
 			"trigger": "Slider:GetMinMaxValues\t()",
-			"contents": "${3:Slider}:GetMinMaxValues()$0",
+			"contents": "${1:Slider}:GetMinMaxValues()$0",
 		},
 		{
 			"trigger": "Slider:GetOrientation\t()",
-			"contents": "${2:Slider}:GetOrientation()$0",
+			"contents": "${1:Slider}:GetOrientation()$0",
 		},
 		{
 			"trigger": "Slider:GetThumbTexture\t()",
-			"contents": "${2:Slider}:GetThumbTexture()$0",
+			"contents": "${1:Slider}:GetThumbTexture()$0",
 		},
 		{
 			"trigger": "Slider:GetValue\t()",
-			"contents": "${2:Slider}:GetValue()$0",
+			"contents": "${1:Slider}:GetValue()$0",
 		},
 		{
 			"trigger": "Slider:GetValueStep\t()",
-			"contents": "${2:Slider}:GetValueStep()$0",
+			"contents": "${1:Slider}:GetValueStep()$0",
 		},
 		{
 			"trigger": "Slider:IsEnabled\t()",
-			"contents": "${2:Slider}:IsEnabled()$0",
+			"contents": "${1:Slider}:IsEnabled()$0",
 		},
 		{
 			"trigger": "Slider:SetMinMaxValues\t(minValue, maxValue)",
@@ -3007,7 +3003,7 @@
 		},
 		{
 			"trigger": "StartMovie\t(\"fileName\", volume)",
-			"contents": "StartMovie(\"${3:fileName}\", ${4:volume})$0",
+			"contents": "StartMovie(\"${1:fileName}\", ${2:volume})$0",
 		},
 		{
 			"trigger": "StartMoving\t()",
@@ -3019,27 +3015,27 @@
 		},
 		{
 			"trigger": "StatusBar:GetMinMaxValues\t()",
-			"contents": "${3:StatusBar}:GetMinMaxValues()$0",
+			"contents": "${1:StatusBar}:GetMinMaxValues()$0",
 		},
 		{
 			"trigger": "StatusBar:GetOrientation\t()",
-			"contents": "${2:StatusBar}:GetOrientation()$0",
+			"contents": "${1:StatusBar}:GetOrientation()$0",
 		},
 		{
 			"trigger": "StatusBar:GetRotatesTexture\t()",
-			"contents": "${2:StatusBar}:GetRotatesTexture()$0",
+			"contents": "${1:StatusBar}:GetRotatesTexture()$0",
 		},
 		{
 			"trigger": "StatusBar:GetStatusBarColor\t()",
-			"contents": "${5:StatusBar}:GetStatusBarColor()$0",
+			"contents": "${1:StatusBar}:GetStatusBarColor()$0",
 		},
 		{
 			"trigger": "StatusBar:GetStatusBarTexture\t()",
-			"contents": "${2:StatusBar}:GetStatusBarTexture()$0",
+			"contents": "${1:StatusBar}:GetStatusBarTexture()$0",
 		},
 		{
 			"trigger": "StatusBar:GetValue\t()",
-			"contents": "${2:StatusBar}:GetValue()$0",
+			"contents": "${1:StatusBar}:GetValue()$0",
 		},
 		{
 			"trigger": "StatusBar:SetMinMaxValues\t(minValue, maxValue)",
@@ -3087,7 +3083,7 @@
 		},
 		{
 			"trigger": "TabardModel:CanSaveTabardNow\t()",
-			"contents": "${2:TabardModel}:CanSaveTabardNow()$0",
+			"contents": "${1:TabardModel}:CanSaveTabardNow()$0",
 		},
 		{
 			"trigger": "TabardModel:CycleVariation\t(variable, delta)",
@@ -3131,15 +3127,15 @@
 		},
 		{
 			"trigger": "TryOn\t(itemID)",
-			"contents": "TryOn(${2:itemID})$0",
+			"contents": "TryOn(${1:itemID})$0",
 		},
 		{
 			"trigger": "TryOn\t(\"itemLink\")",
-			"contents": "TryOn(\"${2:itemLink}\")$0",
+			"contents": "TryOn(\"${1:itemLink}\")$0",
 		},
 		{
 			"trigger": "TryOn\t(\"itemName\")",
-			"contents": "TryOn(\"${2:itemName}\")$0",
+			"contents": "TryOn(\"${1:itemName}\")$0",
 		},
 		{
 			"trigger": "Undress\t()",
@@ -3155,11 +3151,11 @@
 		},
 		{
 			"trigger": "UnregisterEvent\t(\"event\")",
-			"contents": "UnregisterEvent(\"${2:event}\")$0",
+			"contents": "UnregisterEvent(\"${1:event}\")$0",
 		},
 		{
 			"trigger": "UpdateColorByID\t(id, red, green, blue)",
-			"contents": "UpdateColorByID(${2:id}, ${3:red}, ${4:green}, ${5:blue})$0",
+			"contents": "UpdateColorByID(${1:id}, ${2:red}, ${3:green}, ${4:blue})$0",
 		},
 		{
 			"trigger": "UpdateScrollChildRect\t()",

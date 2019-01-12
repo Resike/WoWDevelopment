@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetIgnoreFramerateThrottle()$0]]></content>
-	<tabTrigger>SetIgnoreFramerateThrottle</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.method-call.lua</scope>
-</snippet>

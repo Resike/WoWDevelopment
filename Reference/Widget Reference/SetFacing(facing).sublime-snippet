@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetFacing(${2:facing})$0]]></content>
+	<content><![CDATA[SetFacing(${1:facing})$0]]></content>
 	<tabTrigger>SetFacing</tabTrigger>
 	<description>(facing)</description>
 	<scope>source.lua meta.method-call.lua</scope>
