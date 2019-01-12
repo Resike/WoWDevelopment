@@ -646,6 +646,10 @@
 			"contents": "GetScale()$0",
 		},
 		{
+			"trigger": "GetScaledRect\t()",
+			"contents": "GetScaledRect()$0",
+		},
+		{
 			"trigger": "GetScript\t(\"scriptType\")",
 			"contents": "GetScript(\"${1:scriptType}\")$0",
 		},
