@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnitIsWarModePhased(${1:...})$0]]></content>
-	<tabTrigger>UnitIsWarModePhased</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

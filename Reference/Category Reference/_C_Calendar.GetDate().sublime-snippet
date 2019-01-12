@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:date} = C_Calendar.GetDate()$0]]></content>
-	<tabTrigger>_C_Calendar.GetDate</tabTrigger>
-	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

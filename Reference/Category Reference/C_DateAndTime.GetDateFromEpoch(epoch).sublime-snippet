@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_DateAndTime.GetDateFromEpoch(${1:epoch})$0]]></content>
-	<tabTrigger>C_DateAndTime.GetDateFromEpoch</tabTrigger>
-	<description>(epoch)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

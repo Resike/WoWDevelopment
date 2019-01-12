@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_Club.GetLastTicketResponse("${1:ticket}")$0]]></content>
+	<tabTrigger>C_Club.GetLastTicketResponse</tabTrigger>
+	<description>("ticket")</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>
