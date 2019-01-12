@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:isSummonSkippingStartExperience} = C_SummonInfo.IsSummonSkippingStartExperience()$0]]></content>
+	<tabTrigger>_C_SummonInfo.IsSummonSkippingStartExperience</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

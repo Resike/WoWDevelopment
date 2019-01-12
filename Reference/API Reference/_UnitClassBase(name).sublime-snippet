@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[${1:class}, ${2:classFileName} = UnitClassBase("${3:name}")$0]]></content>
+	<content><![CDATA[${1:class}, ${2:classFileName}, ${3:classID} = UnitClassBase("${4:name}")$0]]></content>
 	<tabTrigger>_UnitClassBase</tabTrigger>
 	<description>("name")</description>
 	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>

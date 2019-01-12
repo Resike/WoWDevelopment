@@ -1,5 +1,5 @@
 {
-	"scope": "source.lua string - string.frametype - string.blendmode - string.stratatype - string.animationtype - string.looptype - string.scripttype - string.attribtype - string.slottype - string.fontflag - string.orienttype - string.buttonstate - string.cvartype - string.drawlayer - string.anchortype - string.anchortype-horizontal - string.anchortype-vertical - string.anchortype-tooltip - string.template.animation - string.template.fontstring - string.template.frame - string.template.texture",
+	"scope": "source.lua string - string.frametype - string.blendmode - string.stratatype - string.animationtype - string.looptype - string.smoothtype - string.scripttype - string.attribtype - string.slottype - string.fontflag - string.orienttype - string.buttonstate - string.cvartype - string.drawlayer - string.anchortype - string.anchortype-horizontal - string.anchortype-vertical - string.anchortype-tooltip - string.template.animation - string.template.fontstring - string.template.frame - string.template.texture",
 	"completions": [
 		{
 			"trigger": "ACCOUNT_CHARACTER_LIST_RECIEVED\t\"event\"",
@@ -266,6 +266,10 @@
 			"contents": "AUCTION_HOUSE_DISABLED"
 		},
 		{
+			"trigger": "AUCTION_HOUSE_SCRIPT_DEPRECATED\t\"event\"",
+			"contents": "AUCTION_HOUSE_SCRIPT_DEPRECATED"
+		},
+		{
 			"trigger": "AUCTION_HOUSE_SHOW\t\"event\"",
 			"contents": "AUCTION_HOUSE_SHOW"
 		},
@@ -312,6 +316,10 @@
 		{
 			"trigger": "AVOIDANCE_UPDATE\t\"event\"",
 			"contents": "AVOIDANCE_UPDATE"
+		},
+		{
+			"trigger": "AZERITE_EMPOWERED_ITEM_EQUIPPED_STATUS_CHANGED\t\"event\"",
+			"contents": "AZERITE_EMPOWERED_ITEM_EQUIPPED_STATUS_CHANGED"
 		},
 		{
 			"trigger": "AZERITE_EMPOWERED_ITEM_LOOTED\t\"event\"",
@@ -1406,6 +1414,10 @@
 			"contents": "DUEL_REQUESTED"
 		},
 		{
+			"trigger": "DYNAMIC_BUNDLE_PRICE_UPDATED\t\"event\"",
+			"contents": "DYNAMIC_BUNDLE_PRICE_UPDATED"
+		},
+		{
 			"trigger": "DYNAMIC_GOSSIP_POI_UPDATED\t\"event\"",
 			"contents": "DYNAMIC_GOSSIP_POI_UPDATED"
 		},
@@ -1508,6 +1520,10 @@
 		{
 			"trigger": "FRAMES_LOADED\t\"event\"",
 			"contents": "FRAMES_LOADED"
+		},
+		{
+			"trigger": "FRAMESTACK_VISIBILITY_UPDATED\t\"event\"",
+			"contents": "FRAMESTACK_VISIBILITY_UPDATED"
 		},
 		{
 			"trigger": "FRIENDLIST_UPDATE\t\"event\"",
@@ -1940,6 +1956,10 @@
 		{
 			"trigger": "INCOMING_RESURRECT_CHANGED\t\"event\"",
 			"contents": "INCOMING_RESURRECT_CHANGED"
+		},
+		{
+			"trigger": "INCOMING_SUMMON_CHANGED\t\"event\"",
+			"contents": "INCOMING_SUMMON_CHANGED"
 		},
 		{
 			"trigger": "INITIAL_CLUBS_LOADED\t\"event\"",
@@ -3338,6 +3358,10 @@
 			"contents": "REPLACE_ENCHANT"
 		},
 		{
+			"trigger": "REPORT_PLAYER_RESULT\t\"event\"",
+			"contents": "REPORT_PLAYER_RESULT"
+		},
+		{
 			"trigger": "REQUEST_CEMETERY_LIST_RESPONSE\t\"event\"",
 			"contents": "REQUEST_CEMETERY_LIST_RESPONSE"
 		},
@@ -3712,6 +3736,14 @@
 		{
 			"trigger": "STORE_CONFIRM_PURCHASE\t\"event\"",
 			"contents": "STORE_CONFIRM_PURCHASE"
+		},
+		{
+			"trigger": "STORE_GUILD_FOLLOW_INFO_RECEIVED\t\"event\"",
+			"contents": "STORE_GUILD_FOLLOW_INFO_RECEIVED"
+		},
+		{
+			"trigger": "STORE_GUILD_MASTER_INFO_RECEIVED\t\"event\"",
+			"contents": "STORE_GUILD_MASTER_INFO_RECEIVED"
 		},
 		{
 			"trigger": "STORE_OPEN_SIMPLE_CHECKOUT\t\"event\"",

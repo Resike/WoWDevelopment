@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:framePool} = CreateFramePool("${2:frameType}", ${3:parent}, "${4:template}", ${5:[resetterFunc]})$0]]></content>
+	<tabTrigger>_CreateFramePool</tabTrigger>
+	<description>("frameType", parent, "template", [resetterFunc])</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

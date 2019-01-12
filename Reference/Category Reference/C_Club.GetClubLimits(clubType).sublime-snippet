@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_Club.GetClubLimits(${1:clubType})$0]]></content>
+	<tabTrigger>C_Club.GetClubLimits</tabTrigger>
+	<description>(clubType)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

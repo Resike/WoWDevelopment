@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:skillLineDisplayName}, ${2:skillLineRank}, ${3:skillLineMaxRank}, ${4:skillLineModifier}, ${5:parentSkillLineID} = C_TradeSkillUI.GetTradeSkillLineInfoByID(${6:skillLineID})$0]]></content>
+	<tabTrigger>_C_TradeSkillUI.GetTradeSkillLineInfoByID</tabTrigger>
+	<description>(skillLineID)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

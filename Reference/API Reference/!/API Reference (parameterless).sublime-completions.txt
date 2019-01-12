@@ -9510,10 +9510,6 @@
 			"contents": "CreateFontStringPool($1)$0",
 		},
 		{
-			"trigger": "CreateFramePool\t(...)",
-			"contents": "CreateFramePool($1)$0",
-		},
-		{
 			"trigger": "CreateFromMixins\t(...)",
 			"contents": "CreateFromMixins($1)$0",
 		},

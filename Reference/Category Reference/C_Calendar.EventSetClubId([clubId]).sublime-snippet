@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_Calendar.EventSetClubId(["${1:clubId}"])$0]]></content>
+	<tabTrigger>C_Calendar.EventSetClubId</tabTrigger>
+	<description>(["clubId"])</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

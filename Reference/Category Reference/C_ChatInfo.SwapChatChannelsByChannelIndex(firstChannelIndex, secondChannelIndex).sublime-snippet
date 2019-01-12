@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_ChatInfo.SwapChatChannelsByChannelIndex(${1:firstChannelIndex}, ${2:secondChannelIndex})$0]]></content>
+	<tabTrigger>C_ChatInfo.SwapChatChannelsByChannelIndex</tabTrigger>
+	<description>(firstChannelIndex, secondChannelIndex)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

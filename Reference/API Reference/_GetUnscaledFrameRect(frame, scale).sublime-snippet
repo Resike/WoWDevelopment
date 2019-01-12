@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:left}, ${2:bottom}, ${3:width}, ${4:height} = GetUnscaledFrameRect(${5:frame}, ${6:scale})$0]]></content>
+	<tabTrigger>_GetUnscaledFrameRect</tabTrigger>
+	<description>(frame, scale)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

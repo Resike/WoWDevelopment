@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IN]]></content>
+	<tabTrigger>IN</tabTrigger>
+	<description>"smoothType"</description>
+	<scope>source.lua string.smoothtype</scope>
+</snippet>

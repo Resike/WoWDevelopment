@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_ReportSystem.ReportServerLag()$0]]></content>
+	<tabTrigger>C_ReportSystem.ReportServerLag</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

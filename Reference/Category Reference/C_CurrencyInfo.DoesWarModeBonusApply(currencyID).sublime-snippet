@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_CurrencyInfo.DoesWarModeBonusApply(${1:currencyID})$0]]></content>
+	<tabTrigger>C_CurrencyInfo.DoesWarModeBonusApply</tabTrigger>
+	<description>(currencyID)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

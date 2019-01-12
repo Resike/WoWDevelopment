@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_ReportSystem.ReportPlayer("${1:complaintType}", [${2:playerLocation}, ["${3:comment}"]])$0]]></content>
+	<tabTrigger>C_ReportSystem.ReportPlayer</tabTrigger>
+	<description>("complaintType", [playerLocation, ["comment"]])</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

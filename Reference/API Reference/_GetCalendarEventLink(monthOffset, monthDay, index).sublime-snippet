@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:link} = GetCalendarEventLink(${2:monthOffset}, ${3:monthDay}, ${4:index})$0]]></content>
+	<tabTrigger>_GetCalendarEventLink</tabTrigger>
+	<description>(monthOffset, monthDay, index)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>
