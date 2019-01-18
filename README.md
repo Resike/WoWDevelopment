@@ -13,7 +13,7 @@ World of Warcraft syntax highlight, auto-completion and global finder/highlighte
 * Global highlighter and liter tool with SublimeLinter.
 
 # Installation:
-* Download the package, unzip it then remove the *-master* suffix, and copy the folder into your Sublime Text 2/3 Packages folder.
+* Download the package, unzip it then remove the *-master* suffix, and copy the folder into your Sublime Text 2/3 Packages folder. You can also install it from the Sublime Package Control.
 * Open any of the supported file and set the syntax for the selected file: WoWDevelopment -> WoW Lua, WoW TOC, WoW XML.
 * Recommended to delete these default Sublime Lua files to avoid conflicts:
 ![](https://i.imgur.com/Beyh5G4.png)
