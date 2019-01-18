@@ -15,8 +15,15 @@ World of Warcraft syntax highlight, auto-completion and global finder/highlighte
 # Installation:
 * Download the package, unzip it then remove the *-master* suffix, and copy the folder into your Sublime Text 2/3 Packages folder.
 * Open any of the supported file and set the syntax for the selected file: WoWDevelopment -> WoW Lua, WoW TOC, WoW XML.
+* Recommended to delete these default Sublime Lua files to avoid conflicts:
+![](https://i.imgur.com/Beyh5G4.png)
 
-The autocomplete is based on scopes, so no settings are neccessary.
+* Recommended autocompletion settings *Preferences -> Settings* :
+	"auto_complete": true,
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_cycle": true,
+	"auto_complete_selector": "meta.tag, source - comment",
+	"auto_complete_with_fields": true,
 
 # List globals with a build system in the console window with detailed information:
 * In Sublime *Tools -> Build System ->* Select *Wow Global Finder*.
