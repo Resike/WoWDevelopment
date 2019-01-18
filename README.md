@@ -18,11 +18,11 @@ World of Warcraft syntax highlight, auto-completion and global finder/highlighte
 * Recommended to delete these default Sublime Lua files to avoid conflicts:
 ![](https://i.imgur.com/Beyh5G4.png)
 * Recommended autocompletion settings *Preferences -> Settings* :
-	"auto_complete": true,
-	"auto_complete_commit_on_tab": true,
-	"auto_complete_cycle": true,
-	"auto_complete_selector": "meta.tag, source - comment",
-	"auto_complete_with_fields": true,
+"auto_complete": true,
+"auto_complete_commit_on_tab": true,
+"auto_complete_cycle": true,
+"auto_complete_selector": "meta.tag, source - comment",
+"auto_complete_with_fields": true,
 
 # List globals with a build system in the console window with detailed information:
 * In Sublime *Tools -> Build System ->* Select *Wow Global Finder*.
