@@ -17,7 +17,7 @@ World of Warcraft syntax highlight, auto-completion and global finder/highlighte
 * Open any of the supported file and set the syntax for the selected file: WoWDevelopment -> WoW Lua, WoW TOC, WoW XML.
 * Recommended to delete these default Sublime Lua files to avoid conflicts:
 ![](https://i.imgur.com/Beyh5G4.png)
-* Recommended autocompletion settings *Preferences -> Settings* :
+* Recommended autocompletion settings in Sublime *Preferences -> Settings* :
 
   "auto_complete": true,
   
