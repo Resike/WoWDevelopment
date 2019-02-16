@@ -56,8 +56,8 @@ contexts:
     - match: ([:])
       scope: punctuation.separator.accessor.lua
       push: method-call
-    # - match: '(?<!\.)\.{2}(?!\.)'
-    #   scope: keyword.operator.lua
+    - match: '(?<!\.)(?<!\:)\.{2}(?!\.)(?!\:)'
+      scope: keyword.operator.lua
     - match: ([.])
       scope: punctuation.separator.accessor.lua
       push: punctuation-call
@@ -678,51 +678,61 @@ contexts:
       pop: true
     - include: else-pop
 
-  comments:
-    - match: '--\[(=*)\['
+  prototype:
+    - match: --\[(=*)\[
       scope: punctuation.definition.comment.begin.lua
       push:
+        - meta_include_prototype: false
         - meta_scope: comment.block.lua
-        - match: '(?:--)?\]\1\]'
+        - match: \]\1\]
           scope: punctuation.definition.comment.end.lua
           pop: true
-    - match: '(--)(?!\[\[).*$\n?'
-      scope: comment.line.double-dash.lua
+    - match: (--).*
+      scope: comment.line.lua
       captures:
         1: punctuation.definition.comment.lua
 
   strings:
     - match: \'
       scope: punctuation.definition.string.begin.lua
-      push:
+      set:
+        - meta_include_prototype: false
         - meta_scope: string.quoted.single.lua
+        - include: string-escapes
         - match: \'
           scope: punctuation.definition.string.end.lua
           pop: true
-        - include: string-escapes
     - match: \"
       scope: punctuation.definition.string.begin.lua
-      push:
+      set:
+        - meta_include_prototype: false
         - meta_scope: string.quoted.double.lua
+        - include: string-escapes
         - match: \"
           scope: punctuation.definition.string.end.lua
           pop: true
-        - include: string-escapes
-    - match: '\[(=*)\['
+    - match: \[(=*)\[
       scope: punctuation.definition.string.begin.lua
-      push:
-        - meta_scope: string.quoted.other.multiline.lua
-        - match: '\]\1\]'
+      set:
+        - meta_scope: string.quoted.multiline.lua
+        - meta_include_prototype: false
+        - match: \]\1\]
           scope: punctuation.definition.string.end.lua
           pop: true
 
   string-escapes:
-    - match: '\\([abfnrtv\\"''\[\]]|\d{1,3})'
+    - match: '\\[abfnrtv\\"''\[\]\n]'
       scope: constant.character.escape.lua
-    - match: '\\[xX]\h\h'
-      scope: constant.character.escape.lua
+    - match: '\\x\h\h'
+      scope: constant.character.escape.hexadecimal.lua
+    - match: \\\d{1,3}
+      scope: constant.character.escape.decimal.lua
     - match: '\\u\{\h{,7}\}'
-      scope: constant.character.escape.lua
+      scope: constant.character.escape.unicode.lua
+    - match: '\\z'
+      push:
+        - meta_scope: constant.character.escape.whitespace.lua
+        - include: else-pop
 
   keywords:
     - match: '\b(break|do|else|elseif|end|for|(?# goto|)if|local|repeat|return|then|until|while)\b'
@@ -3405,7 +3415,7 @@ contexts:
       scope: punctuation.separator.lua
 
     - match: '(?<!\.)(?<!\:)\.{2}(?!\.)(?!\:)'
-      scope: keyword.operator.lua
+      scope: keyword.operator.concatenation.lua
     - match: '(?<!\.)(?<!\:)\.{3}(?!\.)(?!\:)'
       scope: constant.language.lua
 
@@ -3458,7 +3468,7 @@ contexts:
       captures:
         1: keyword.control.lua
         4: punctuation.separator.lua
-    - include: comments
+    # - include: comments
     - include: keywords
     - include: operators
     - include: numerals
