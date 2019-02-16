@@ -1487,7 +1487,7 @@
 		},
 		{
 			"trigger": "IsMouseOver\t([topOffset], [leftOffset], [bottomOffset], [rightOffset])",
-			"contents": "IsMouseOver(${1:[topOffset]}, ${2:[leftOffset]}, ${3:[bottomOffset]}, ${4:[rightOffset]})$0",
+			"contents": "IsMouseOver(${1:${2:[topOffset]}, ${3:[leftOffset]}, ${4:[bottomOffset]}, ${5:[rightOffset]}})$0",
 		},
 		{
 			"trigger": "IsMouseWheelEnabled\t()",
