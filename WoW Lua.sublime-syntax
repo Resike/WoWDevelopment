@@ -2379,12 +2379,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   MaxValue|MinValue|NumValues
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2395,12 +2395,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   Base|Downgraded|Upgraded
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2411,12 +2411,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   Arena|Battleground|Lfg|None
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2427,12 +2427,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   Dungeon|HeroicDeprecated|Meeting|Other|Pvp|Raid
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2443,12 +2443,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   RestrictToRecommendedSpecs
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2459,12 +2459,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   Communities|Custom|None|Private_Party|Public_Party
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2475,12 +2475,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   ErrorClubActionAcceptInvitation|ErrorClubActionAddBan|ErrorClubActionCreate|ErrorClubActionCreateMessage|ErrorClubActionCreateStream|ErrorClubActionCreateTicket|ErrorClubActionDeclineInvitation|ErrorClubActionDestroy|ErrorClubActionDestroyMessage|ErrorClubActionDestroyStream|ErrorClubActionDestroyTicket|ErrorClubActionEdit|ErrorClubActionEditMember|ErrorClubActionEditMemberNote|ErrorClubActionEditMessage|ErrorClubActionEditStream|ErrorClubActionGetBans|ErrorClubActionGetInvitations|ErrorClubActionGetTicket|ErrorClubActionGetTickets|ErrorClubActionInviteMember|ErrorClubActionKickMember|ErrorClubActionLeave|ErrorClubActionRedeemTicket|ErrorClubActionRemoveBan|ErrorClubActionRevokeInvitation|ErrorClubActionSubscribe
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2491,12 +2491,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   ErrorClubAlreadyMember|ErrorClubBanAlreadyExists|ErrorClubBanCountAtMax|ErrorClubFull|ErrorClubInsufficientPrivileges|ErrorClubInvalidRoleID|ErrorClubInvitationAlreadyExists|ErrorClubMemberHasRequiredRole|ErrorClubNoClub|ErrorClubNoSuchInvitation|ErrorClubNoSuchMember|ErrorClubNotMember|ErrorClubReceivedInvitationCountAtMax|ErrorClubSentInvitationCountAtMax|ErrorClubStreamCountAtMax|ErrorClubStreamCountAtMin|ErrorClubStreamInvalidName|ErrorClubStreamNoStream|ErrorClubTargetIsBanned|ErrorClubTicketCountAtMax|ErrorClubTicketHasConsumedAllowedRedeemCount|ErrorClubTicketNoSuchTicket|ErrorClubTooManyClubsJoined|ErrorClubVoiceFull|ErrorCommunitiesBadTarget|ErrorCommunitiesChatMute|ErrorCommunitiesGuild|ErrorCommunitiesIgnored|ErrorCommunitiesMissingShortName|ErrorCommunitiesNeutralFaction|ErrorCommunitiesNone|ErrorCommunitiesProfanity|ErrorCommunitiesRestricted|ErrorCommunitiesTrial|ErrorCommunitiesUnknown|ErrorCommunitiesUnknownRealm|ErrorCommunitiesUnknownTicket|ErrorCommunitiesVeteranTrial|ErrorCommunitiesWrongFaction|ErrorCommunitiesWrongRegion
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2507,12 +2507,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   ClubBroadcast|ClubDescription|ClubName|ClubShortName|ClubStreamName|ClubStreamSubject|NumTypes
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2523,12 +2523,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   AlreadyMember|Available|InvitePending
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2539,12 +2539,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   Away|Busy|Offline|Online|OnlineMobile|Unknown
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2555,12 +2555,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   Banned|ClubDestroyed|None|Removed
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2571,12 +2571,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   None|Unavailable
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2587,12 +2587,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   Leader|Member|Moderator|Owner
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2603,12 +2603,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   All|Mention|None
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2619,12 +2619,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   General|Guild|Officer|Other
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2635,12 +2635,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   BattleNet|Character|Guild|Other
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2651,12 +2651,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   OpenMic|PushToTalk
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2667,12 +2667,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   CategoryCombat|CategoryConsole|CategoryDebug|CategoryDefault|CategoryGame|CategoryGm|CategoryGraphics|CategoryNet|CategoryNone|CategorySound
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2683,12 +2683,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   AdminColor|BackgroundColor|ClickbufferColor|DefaultColor|DefaultGreen|EchoColor|ErrorColor|GlobalColor|HighlightColor|InputColor|PrivateColor|WarningColor
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2699,12 +2699,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   Command|Cvar|Script
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2715,12 +2715,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   TooltipUseTimeRemaining
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2731,12 +2731,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   FailedConditionCheck|IncorrectState|InternalError|InvalidID|MustBeNearNpc|QuestDataMissing|Success|UnableToCompleteTurnIn
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2747,12 +2747,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   Active|Building|Destroyed|None|UnderAttack
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2763,12 +2763,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   VoicePushToTalk
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2779,12 +2779,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   Alliance|Horde|Neutral
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2795,12 +2795,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   Current|Reachable|Unreachable
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2811,12 +2811,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   Hidden|Shown|ShownWithDynamicIconFlashing|ShownWithDynamicIconNotFlashing
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2827,12 +2827,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   Hidden|ShowState1|ShowState2
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2843,12 +2843,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   Index2HweaponType|IndexAmmoType|IndexBagType|IndexBodyType|IndexChestType|IndexCloakType|IndexFeetType|IndexFingerType|IndexHandType|IndexHeadType|IndexHoldableType|IndexLegsType|IndexNeckType|IndexNonEquipType|IndexQuiverType|IndexRangedrightType|IndexRangedType|IndexRelicType|IndexRobeType|IndexShieldType|IndexShoulderType|IndexTabardType|IndexThrownType|IndexTrinketType|IndexWaistType|IndexWeaponmainhandType|IndexWeaponoffhandType|IndexWeaponType|IndexWristType
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2859,12 +2859,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   Artifact|Epic|Good|Heirloom|Legendary|Poor|Standard|Superior|WoWToken
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2875,12 +2875,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   DataPending|NotEquippable|Success|WrongRace
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2891,12 +2891,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   Complete|Delete|Move|Start
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2907,12 +2907,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   BottomLeft|BottomRight|None|TopLeft|TopRight
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2923,12 +2923,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   AlignLightToOrbitDelta
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2939,12 +2939,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   ArtifactRelicTalentEffect|ArtifactTier2|ArtifactTier2ForgingScene|ArtifactTier2SlamEffect|AzeriteItemLevelUpToast|AzeritePowers|AzeriteRewardGlow|CommentatorVictoryFanfare|EncounterJournal|MountJournal|PartyPose|PetJournalCard|PetJournalLoadout|PvpWarModeFire|PvpWarModeOrb|ShopCard
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2955,12 +2955,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   Club|Friend|Guild|None|NumPartyRequestJoinRelations
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2971,12 +2971,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   ActivityAnimate|ActivityEventnet|ActivityModelRender|ActivitySwap|ActivityUnit|ActivityWorldLink
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -2987,12 +2987,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   PerfCountBatchCount|PerfCountPrimitiveCount|PerfCountUnits
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -3003,12 +3003,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   Alternate|ArcaneCharges|Chi|ComboPoints|Energy|Focus|Fury|HealthCost|HolyPower|Insanity|LunarPower|Maelstrom|Mana|None|NumPowerTypes|Obsolete|Obsolete2|Pain|Rage|Runes|RunicPower|SoulShards
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -3019,12 +3019,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   AssassinAlliance|AssassinHorde|CartRunnerAlliance|CartRunnerHorde|FlagCarrierAlliance|FlagCarrierHorde|FlagCarrierNeutral|OrbCarrierBlue|OrbCarrierGreen|OrbCarrierOrange|OrbCarrierPurple
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -3035,12 +3035,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   Above|Below|Same
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -3051,12 +3051,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   Account|Dungeon|Group|Heroic|Legendary|Pvp|Raid|Raid10|Raid25|Scenario
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -3067,12 +3067,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   Item|Spell
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -3083,12 +3083,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   Large|Medium|Small
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -3099,12 +3099,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   Hidden|Percentage|Time|TimeShowOneLevelOnly|Value|ValueOverMax|ValueOverMaxNormalized
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -3115,12 +3115,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   Battlepet|Collection|Item|Mount
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -3131,12 +3131,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   Accepted|Declined|None|Pending
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -3147,12 +3147,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   Achievement|CantCollect|HiddenUntilCollected|JournalEncounter|None|NotValidForTransmog|Profession|Quest|Vendor|WorldDrop
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -3163,12 +3163,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   Adventure|Taxi|World
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -3179,12 +3179,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   Continent|Cosmic|Dungeon|Micro|Orphan|World|Zone
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -3195,12 +3195,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   BulletTextList|CaptureBar|DoubleIconAndText|DoubleStateIconRow|DoubleStatusBar|HorizontalCurrencies|IconAndText|IconTextAndBackground|IconTextAndCurrencies|ScenarioHeaderCurrenciesAndBackground|SpellDisplay|StackedResourceTracker|StatusBar|TextureWithState|TextWithState
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -3211,12 +3211,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   NameConsecutiveSpaces|NameDeclensionDoesntMatchBaseName|NameFailure|NameInvalidApostrophe|NameInvalidCharacter|NameInvalidSpace|NameMixedLanguages|NameMultipleApostrophes|NameNoName|NameProfane|NameReserved|NameRussianConsecutiveSilentCharacters|NameRussianSilentCharacterAtBeginningOrEnd|NameSuccess|NameThreeConsecutive|NameTooLong|NameTooShort|
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -3227,12 +3227,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   ApplyingLicense|Complete|Invalid|PaymentPending|PrePurchase|ProcessingFactionChange|Ready|WaitingOnQueue
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -3243,12 +3243,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   Normal|PvpBounty
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -3259,12 +3259,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   AlreadyInChannel|ChannelAlreadyExists|ChannelNameTooLong|ChannelNameTooShort|ClientAlreadyLoggedIn|ClientNotInitialized|ClientNotLoggedIn|Disabled|Failure|InvalidCommunityStream|LoginProhibited|OperationPending|PlayerSilenced|PlayerVoiceChatParentalDisabled|ProxyConnectionTimeOut|ProxyConnectionUnableToConnect|ProxyConnectionUnexpectedDisconnect|ServiceLost|Success|TargetNotFound|TooManyRequests|UnableToLaunchProxy|UnsupportedChatChannelType
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -3275,12 +3275,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   Currency|Item
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -3291,12 +3291,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   Disabled|Enabled|Highlight|Red
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -3307,12 +3307,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   Hidden|Shown
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
@@ -3323,12 +3323,12 @@ contexts:
         - match: \.
           scope: punctuation.accessor.lua
           set:
-            - meta_scope: meta.property.lua meta.punctuation.lua
+            - meta_scope: meta.punctuation.lua
             - match: |-
                 (?x:
                   Argus|Garrison|OrderHall|WarEffort
                 ){{identifier_break}}
-              scope: constant.numeric.numbers.lua
+              scope: meta.property.lua constant.numeric.numbers.lua
               pop: true
             - include: property
         - include: else-pop
