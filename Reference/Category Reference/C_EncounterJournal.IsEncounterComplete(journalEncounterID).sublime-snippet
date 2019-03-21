@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_EncounterJournal.IsEncounterComplete(${1:journalEncounterID})$0]]></content>
+	<tabTrigger>C_EncounterJournal.IsEncounterComplete</tabTrigger>
+	<description>(journalEncounterID)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InputBoxTemplate]]></content>
+	<tabTrigger>InputBoxTemplate</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.frame</scope>
+</snippet>

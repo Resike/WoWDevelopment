@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AllianceLogo]]></content>
+	<tabTrigger>AllianceLogo</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

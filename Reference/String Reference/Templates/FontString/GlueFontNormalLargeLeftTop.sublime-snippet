@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GlueFontNormalLargeLeftTop]]></content>
+	<tabTrigger>GlueFontNormalLargeLeftTop</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

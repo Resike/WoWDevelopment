@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:value} = C_CVar.GetCVar("${2:name}")$0]]></content>
+	<tabTrigger>_C_CVar.GetCVar</tabTrigger>
+	<description>("name")</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

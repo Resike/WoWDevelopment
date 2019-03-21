@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tooltip_Small]]></content>
+	<tabTrigger>Tooltip_Small</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

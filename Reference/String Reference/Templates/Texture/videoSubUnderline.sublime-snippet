@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[videoSubUnderline]]></content>
+	<tabTrigger>videoSubUnderline</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

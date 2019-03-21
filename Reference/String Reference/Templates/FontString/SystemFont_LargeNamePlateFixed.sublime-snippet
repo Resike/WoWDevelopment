@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SystemFont_LargeNamePlateFixed]]></content>
+	<tabTrigger>SystemFont_LargeNamePlateFixed</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

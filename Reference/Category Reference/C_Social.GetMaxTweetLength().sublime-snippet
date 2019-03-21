@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_Social.GetMaxTweetLength()$0]]></content>
+	<tabTrigger>C_Social.GetMaxTweetLength</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SystemFont_InverseShadow_Small]]></content>
+	<tabTrigger>SystemFont_InverseShadow_Small</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

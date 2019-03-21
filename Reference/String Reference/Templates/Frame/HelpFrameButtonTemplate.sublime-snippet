@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HelpFrameButtonTemplate]]></content>
+	<tabTrigger>HelpFrameButtonTemplate</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.frame</scope>
+</snippet>

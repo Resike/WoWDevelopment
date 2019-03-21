@@ -8,7 +8,7 @@ scope: source.lua.wow
 variables:
   reserved_word: |-
     (?x:(?:
-      and|break|do|elseif|else|end|false|for|function|goto|if|in|local|nil|not|or|repeat|return|then|true|until|while
+      and|break|do|elseif|else|end|false|for|function|(?#goto|)if|in|local|nil|not|or|repeat|return|then|true|until|while
     ){{identifier_break}})
 
   identifier_start: (?:[A-Za-z_])

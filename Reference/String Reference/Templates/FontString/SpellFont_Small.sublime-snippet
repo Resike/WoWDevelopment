@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpellFont_Small]]></content>
+	<tabTrigger>SpellFont_Small</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

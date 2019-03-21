@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WorldMap_WorldQuestPinTemplate]]></content>
+	<tabTrigger>WorldMap_WorldQuestPinTemplate</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.frame</scope>
+</snippet>

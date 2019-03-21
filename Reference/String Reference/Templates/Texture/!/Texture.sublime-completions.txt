@@ -1,32 +1,329 @@
 {
 	"scope": "source.lua string.template.texture",
 	"completions": [
-		{"trigger": "AdventureMapDetailTileTemplate\t\"template\"", "contents": "AdventureMapDetailTileTemplate"},
-		{"trigger": "CapProgressBarDividerTemplate\t\"template\"", "contents": "CapProgressBarDividerTemplate"},
-		{"trigger": "ChatTabConversationIconTemplate\t\"template\"", "contents": "ChatTabConversationIconTemplate"},
-		{"trigger": "ColorblindExampleIconTemplate\t\"template\"", "contents": "ColorblindExampleIconTemplate"},
-		{"trigger": "GarrisonMissionFollowerButtonDurabilityTemplate\t\"template\"", "contents": "GarrisonMissionFollowerButtonDurabilityTemplate"},
-		{"trigger": "GarrisonTalentArrowTemplate\t\"template\"", "contents": "GarrisonTalentArrowTemplate"},
-		{"trigger": "GarrisonTalentChoiceTemplate\t\"template\"", "contents": "GarrisonTalentChoiceTemplate"},
-		{"trigger": "GreenCheckMarkTemplate\t\"template\"", "contents": "GreenCheckMarkTemplate"},
-		{"trigger": "HealAbsorbBarLeftShadowTemplate\t\"template\"", "contents": "HealAbsorbBarLeftShadowTemplate"},
-		{"trigger": "HealAbsorbBarRightShadowTemplate\t\"template\"", "contents": "HealAbsorbBarRightShadowTemplate"},
-		{"trigger": "HealAbsorbBarTemplate\t\"template\"", "contents": "HealAbsorbBarTemplate"},
-		{"trigger": "MapCanvasDebugTriggerAreaTemplate\t\"template\"", "contents": "MapCanvasDebugTriggerAreaTemplate"},
-		{"trigger": "MapCanvasDetailTileTemplate\t\"template\"", "contents": "MapCanvasDetailTileTemplate"},
-		{"trigger": "MyHealPredictionBarTemplate\t\"template\"", "contents": "MyHealPredictionBarTemplate"},
-		{"trigger": "MyManaCostPredictionBarTemplate\t\"template\"", "contents": "MyManaCostPredictionBarTemplate"},
-		{"trigger": "NubTemplate\t\"template\"", "contents": "NubTemplate"},
-		{"trigger": "OtherHealPredictionBarTemplate\t\"template\"", "contents": "OtherHealPredictionBarTemplate"},
-		{"trigger": "OverAbsorbGlowTemplate\t\"template\"", "contents": "OverAbsorbGlowTemplate"},
-		{"trigger": "OverHealAbsorbGlowTemplate\t\"template\"", "contents": "OverHealAbsorbGlowTemplate"},
-		{"trigger": "PartyPoseModelShadowTextureTemplate\t\"template\"", "contents": "PartyPoseModelShadowTextureTemplate"},
-		{"trigger": "PetBattleUnitTooltipPetTypeStrengthTemplate\t\"template\"", "contents": "PetBattleUnitTooltipPetTypeStrengthTemplate"},
-		{"trigger": "SharedPetBattleStrengthPetTypeTemplate\t\"template\"", "contents": "SharedPetBattleStrengthPetTypeTemplate"},
-		{"trigger": "SocialToastGlowTemplate\t\"template\"", "contents": "SocialToastGlowTemplate"},
-		{"trigger": "TalentArrowTemplate\t\"template\"", "contents": "TalentArrowTemplate"},
-		{"trigger": "TalentBranchTemplate\t\"template\"", "contents": "TalentBranchTemplate"},
-		{"trigger": "TotalAbsorbBarOverlayTemplate\t\"template\"", "contents": "TotalAbsorbBarOverlayTemplate"},
-		{"trigger": "TotalAbsorbBarTemplate\t\"template\"", "contents": "TotalAbsorbBarTemplate"},
+		{
+			"trigger": "_SearchBarLg\t\"template\"",
+			"contents": "_SearchBarLg",
+		},
+		{
+			"trigger": "_SearchBarSm\t\"template\"",
+			"contents": "_SearchBarSm",
+		},
+		{
+			"trigger": "AdventureMapDetailTileTemplate\t\"template\"",
+			"contents": "AdventureMapDetailTileTemplate",
+		},
+		{
+			"trigger": "AllianceLogo\t\"template\"",
+			"contents": "AllianceLogo",
+		},
+		{
+			"trigger": "ArtifactToAzeriteTexture\t\"template\"",
+			"contents": "ArtifactToAzeriteTexture",
+		},
+		{
+			"trigger": "AzeriteGearBackgroundTexture\t\"template\"",
+			"contents": "AzeriteGearBackgroundTexture",
+		},
+		{
+			"trigger": "AzeriteGearTexture\t\"template\"",
+			"contents": "AzeriteGearTexture",
+		},
+		{
+			"trigger": "AzeritePlugBackgroundTexture\t\"template\"",
+			"contents": "AzeritePlugBackgroundTexture",
+		},
+		{
+			"trigger": "AzeritePlugTexture\t\"template\"",
+			"contents": "AzeritePlugTexture",
+		},
+		{
+			"trigger": "AzeriteRingBackgroundTexture\t\"template\"",
+			"contents": "AzeriteRingBackgroundTexture",
+		},
+		{
+			"trigger": "AzeriteRingBorderTexture\t\"template\"",
+			"contents": "AzeriteRingBorderTexture",
+		},
+		{
+			"trigger": "AzeriteRingGlowTexture\t\"template\"",
+			"contents": "AzeriteRingGlowTexture",
+		},
+		{
+			"trigger": "AzeriteRingLightsTexture\t\"template\"",
+			"contents": "AzeriteRingLightsTexture",
+		},
+		{
+			"trigger": "AzeriteUITexture\t\"template\"",
+			"contents": "AzeriteUITexture",
+		},
+		{
+			"trigger": "Banners\t\"template\"",
+			"contents": "Banners",
+		},
+		{
+			"trigger": "CapProgressBarDividerTemplate\t\"template\"",
+			"contents": "CapProgressBarDividerTemplate",
+		},
+		{
+			"trigger": "ChatTabConversationIconTemplate\t\"template\"",
+			"contents": "ChatTabConversationIconTemplate",
+		},
+		{
+			"trigger": "ColorblindExampleIconTemplate\t\"template\"",
+			"contents": "ColorblindExampleIconTemplate",
+		},
+		{
+			"trigger": "DarkRect\t\"template\"",
+			"contents": "DarkRect",
+		},
+		{
+			"trigger": "DebugTexture\t\"template\"",
+			"contents": "DebugTexture",
+		},
+		{
+			"trigger": "DebugTextureBlack\t\"template\"",
+			"contents": "DebugTextureBlack",
+		},
+		{
+			"trigger": "DialogButtonDisabledTexture\t\"template\"",
+			"contents": "DialogButtonDisabledTexture",
+		},
+		{
+			"trigger": "DialogButtonHighlightTexture\t\"template\"",
+			"contents": "DialogButtonHighlightTexture",
+		},
+		{
+			"trigger": "DialogButtonNormalTexture\t\"template\"",
+			"contents": "DialogButtonNormalTexture",
+		},
+		{
+			"trigger": "DialogButtonPushedTexture\t\"template\"",
+			"contents": "DialogButtonPushedTexture",
+		},
+		{
+			"trigger": "DividingLine\t\"template\"",
+			"contents": "DividingLine",
+		},
+		{
+			"trigger": "EquipmentFlyoutTexture\t\"template\"",
+			"contents": "EquipmentFlyoutTexture",
+		},
+		{
+			"trigger": "GarrisonMissionFollowerButtonDurabilityTemplate\t\"template\"",
+			"contents": "GarrisonMissionFollowerButtonDurabilityTemplate",
+		},
+		{
+			"trigger": "GarrisonTalentArrowTemplate\t\"template\"",
+			"contents": "GarrisonTalentArrowTemplate",
+		},
+		{
+			"trigger": "GarrisonTalentChoiceTemplate\t\"template\"",
+			"contents": "GarrisonTalentChoiceTemplate",
+		},
+		{
+			"trigger": "GluePanelButtonDisabledDownTexture\t\"template\"",
+			"contents": "GluePanelButtonDisabledDownTexture",
+		},
+		{
+			"trigger": "GluePanelButtonDisabledTexture\t\"template\"",
+			"contents": "GluePanelButtonDisabledTexture",
+		},
+		{
+			"trigger": "GluePanelButtonDownTexture\t\"template\"",
+			"contents": "GluePanelButtonDownTexture",
+		},
+		{
+			"trigger": "GluePanelButtonDownTextureBlue\t\"template\"",
+			"contents": "GluePanelButtonDownTextureBlue",
+		},
+		{
+			"trigger": "GluePanelButtonHighlightTexture\t\"template\"",
+			"contents": "GluePanelButtonHighlightTexture",
+		},
+		{
+			"trigger": "GluePanelButtonHighlightTextureBlue\t\"template\"",
+			"contents": "GluePanelButtonHighlightTextureBlue",
+		},
+		{
+			"trigger": "GluePanelButtonUpTexture\t\"template\"",
+			"contents": "GluePanelButtonUpTexture",
+		},
+		{
+			"trigger": "GluePanelButtonUpTextureBlue\t\"template\"",
+			"contents": "GluePanelButtonUpTextureBlue",
+		},
+		{
+			"trigger": "GlueScrollBarButton\t\"template\"",
+			"contents": "GlueScrollBarButton",
+		},
+		{
+			"trigger": "GoldLockIcon\t\"template\"",
+			"contents": "GoldLockIcon",
+		},
+		{
+			"trigger": "GreenCheckMarkTemplate\t\"template\"",
+			"contents": "GreenCheckMarkTemplate",
+		},
+		{
+			"trigger": "HealAbsorbBarLeftShadowTemplate\t\"template\"",
+			"contents": "HealAbsorbBarLeftShadowTemplate",
+		},
+		{
+			"trigger": "HealAbsorbBarRightShadowTemplate\t\"template\"",
+			"contents": "HealAbsorbBarRightShadowTemplate",
+		},
+		{
+			"trigger": "HealAbsorbBarTemplate\t\"template\"",
+			"contents": "HealAbsorbBarTemplate",
+		},
+		{
+			"trigger": "HelpPlateArrowDOWN\t\"template\"",
+			"contents": "HelpPlateArrowDOWN",
+		},
+		{
+			"trigger": "HelpPlateArrowUP\t\"template\"",
+			"contents": "HelpPlateArrowUP",
+		},
+		{
+			"trigger": "HordeLogo\t\"template\"",
+			"contents": "HordeLogo",
+		},
+		{
+			"trigger": "HybridScrollBarButton\t\"template\"",
+			"contents": "HybridScrollBarButton",
+		},
+		{
+			"trigger": "InspectGuildFrameBanner\t\"template\"",
+			"contents": "InspectGuildFrameBanner",
+		},
+		{
+			"trigger": "InspectGuildFrameBannerBorder\t\"template\"",
+			"contents": "InspectGuildFrameBannerBorder",
+		},
+		{
+			"trigger": "LootUpgradeFrame_ArrowTemplate\t\"template\"",
+			"contents": "LootUpgradeFrame_ArrowTemplate",
+		},
+		{
+			"trigger": "MapCanvasDebugTriggerAreaTemplate\t\"template\"",
+			"contents": "MapCanvasDebugTriggerAreaTemplate",
+		},
+		{
+			"trigger": "MapCanvasDetailTileTemplate\t\"template\"",
+			"contents": "MapCanvasDetailTileTemplate",
+		},
+		{
+			"trigger": "MyHealPredictionBarTemplate\t\"template\"",
+			"contents": "MyHealPredictionBarTemplate",
+		},
+		{
+			"trigger": "MyManaCostPredictionBarTemplate\t\"template\"",
+			"contents": "MyManaCostPredictionBarTemplate",
+		},
+		{
+			"trigger": "NPE_TutorialLine\t\"template\"",
+			"contents": "NPE_TutorialLine",
+		},
+		{
+			"trigger": "NubTemplate\t\"template\"",
+			"contents": "NubTemplate",
+		},
+		{
+			"trigger": "OtherHealPredictionBarTemplate\t\"template\"",
+			"contents": "OtherHealPredictionBarTemplate",
+		},
+		{
+			"trigger": "OverAbsorbGlowTemplate\t\"template\"",
+			"contents": "OverAbsorbGlowTemplate",
+		},
+		{
+			"trigger": "OverHealAbsorbGlowTemplate\t\"template\"",
+			"contents": "OverHealAbsorbGlowTemplate",
+		},
+		{
+			"trigger": "PartyPoseModelShadowTextureTemplate\t\"template\"",
+			"contents": "PartyPoseModelShadowTextureTemplate",
+		},
+		{
+			"trigger": "PetBattleUnitTooltipPetTypeStrengthTemplate\t\"template\"",
+			"contents": "PetBattleUnitTooltipPetTypeStrengthTemplate",
+		},
+		{
+			"trigger": "QuestChoiceBottomHide\t\"template\"",
+			"contents": "QuestChoiceBottomHide",
+		},
+		{
+			"trigger": "QuestChoiceLeftHide\t\"template\"",
+			"contents": "QuestChoiceLeftHide",
+		},
+		{
+			"trigger": "QuestChoiceRightHide\t\"template\"",
+			"contents": "QuestChoiceRightHide",
+		},
+		{
+			"trigger": "QuestChoiceTopHide\t\"template\"",
+			"contents": "QuestChoiceTopHide",
+		},
+		{
+			"trigger": "SharedPetBattleStrengthPetTypeTemplate\t\"template\"",
+			"contents": "SharedPetBattleStrengthPetTypeTemplate",
+		},
+		{
+			"trigger": "SocialToastGlowTemplate\t\"template\"",
+			"contents": "SocialToastGlowTemplate",
+		},
+		{
+			"trigger": "TalentArrowTemplate\t\"template\"",
+			"contents": "TalentArrowTemplate",
+		},
+		{
+			"trigger": "TalentBranchTemplate\t\"template\"",
+			"contents": "TalentBranchTemplate",
+		},
+		{
+			"trigger": "TotalAbsorbBarOverlayTemplate\t\"template\"",
+			"contents": "TotalAbsorbBarOverlayTemplate",
+		},
+		{
+			"trigger": "TotalAbsorbBarTemplate\t\"template\"",
+			"contents": "TotalAbsorbBarTemplate",
+		},
+		{
+			"trigger": "UIPanelButtonDisabledDownTexture\t\"template\"",
+			"contents": "UIPanelButtonDisabledDownTexture",
+		},
+		{
+			"trigger": "UIPanelButtonDisabledTexture\t\"template\"",
+			"contents": "UIPanelButtonDisabledTexture",
+		},
+		{
+			"trigger": "UIPanelButtonDownTexture\t\"template\"",
+			"contents": "UIPanelButtonDownTexture",
+		},
+		{
+			"trigger": "UIPanelButtonHighlightTexture\t\"template\"",
+			"contents": "UIPanelButtonHighlightTexture",
+		},
+		{
+			"trigger": "UIPanelButtonUpTexture\t\"template\"",
+			"contents": "UIPanelButtonUpTexture",
+		},
+		{
+			"trigger": "UIPanelScrollBarButton\t\"template\"",
+			"contents": "UIPanelScrollBarButton",
+		},
+		{
+			"trigger": "VideoFrame\t\"template\"",
+			"contents": "VideoFrame",
+		},
+		{
+			"trigger": "videoSubUnderline\t\"template\"",
+			"contents": "videoSubUnderline",
+		},
+		{
+			"trigger": "videoUnderline\t\"template\"",
+			"contents": "videoUnderline",
+		},
 	]
 }

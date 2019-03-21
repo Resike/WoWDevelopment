@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OptionsFontHighlightSmallLeftTop]]></content>
+	<tabTrigger>OptionsFontHighlightSmallLeftTop</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

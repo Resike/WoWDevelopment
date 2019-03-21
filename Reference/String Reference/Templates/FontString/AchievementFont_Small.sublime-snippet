@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AchievementFont_Small]]></content>
+	<tabTrigger>AchievementFont_Small</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

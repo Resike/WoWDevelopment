@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[OverAbsorbGlowTemplates]]></content>
+	<content><![CDATA[OverAbsorbGlowTemplate]]></content>
 	<tabTrigger>OverAbsorbGlowTemplate</tabTrigger>
 	<description>"template"</description>
 	<scope>source.lua string.template.texture</scope>

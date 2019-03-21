@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SystemFont_Shadow_Outline_Gigantor]]></content>
+	<tabTrigger>SystemFont_Shadow_Outline_Gigantor</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

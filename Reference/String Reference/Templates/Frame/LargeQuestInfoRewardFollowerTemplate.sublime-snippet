@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LargeQuestInfoRewardFollowerTemplate]]></content>
+	<tabTrigger>LargeQuestInfoRewardFollowerTemplate</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.frame</scope>
+</snippet>

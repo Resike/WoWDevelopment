@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DialogButtonPushedTexture]]></content>
+	<tabTrigger>DialogButtonPushedTexture</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

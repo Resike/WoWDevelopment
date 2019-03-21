@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UIExpandingButtonTemplate]]></content>
+	<tabTrigger>UIExpandingButtonTemplate</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.frame</scope>
+</snippet>

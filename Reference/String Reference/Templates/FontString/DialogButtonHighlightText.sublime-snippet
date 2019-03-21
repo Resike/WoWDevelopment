@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DialogButtonHighlightText]]></content>
+	<tabTrigger>DialogButtonHighlightText</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

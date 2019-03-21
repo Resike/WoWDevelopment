@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TableInspectAnchorLineTemplate]]></content>
+	<tabTrigger>TableInspectAnchorLineTemplate</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.frame</scope>
+</snippet>

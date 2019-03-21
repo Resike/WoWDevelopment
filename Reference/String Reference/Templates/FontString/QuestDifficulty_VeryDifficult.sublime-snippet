@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[QuestDifficulty_VeryDifficult]]></content>
+	<tabTrigger>QuestDifficulty_VeryDifficult</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

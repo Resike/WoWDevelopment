@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GlueScrollBarButton]]></content>
+	<tabTrigger>GlueScrollBarButton</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

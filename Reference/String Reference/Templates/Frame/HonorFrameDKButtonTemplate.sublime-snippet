@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HonorFrameDKButtonTemplate]]></content>
-	<tabTrigger>HonorFrameDKButtonTemplate</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.frame</scope>
-</snippet>

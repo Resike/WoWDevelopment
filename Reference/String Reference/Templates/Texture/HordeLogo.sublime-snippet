@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HordeLogo]]></content>
+	<tabTrigger>HordeLogo</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

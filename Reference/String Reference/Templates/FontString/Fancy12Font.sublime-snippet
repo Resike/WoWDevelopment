@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Fancy12Font]]></content>
+	<tabTrigger>Fancy12Font</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

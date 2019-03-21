@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:achievementID}, ${2:achievementName}, ${3:achievementDesc}, ${4:iconFileID} = C_Social.GetLastAchievement()$0]]></content>
+	<tabTrigger>_C_Social.GetLastAchievement</tabTrigger>
+	<description>()</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

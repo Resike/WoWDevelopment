@@ -2,6 +2,10 @@
 	"scope": "source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua",
 	"completions": [
 		{
+			"trigger": "C_AccountInfo.GetIDFromBattleNetAccountGUID\t(\"guid\")",
+			"contents": "C_AccountInfo.GetIDFromBattleNetAccountGUID(\"${1:guid}\")$0",
+		},
+		{
 			"trigger": "C_AccountInfo.IsGUIDBattleNetAccountType\t(\"guid\")",
 			"contents": "C_AccountInfo.IsGUIDBattleNetAccountType(\"${1:guid}\")$0",
 		},
@@ -626,8 +630,8 @@
 			"contents": "C_Calendar.EventInvite(\"${1:name}\")$0",
 		},
 		{
-			"trigger": "C_Calendar.EventRemoveInvite\t(eventIndex)",
-			"contents": "C_Calendar.EventRemoveInvite(${1:eventIndex})$0",
+			"trigger": "C_Calendar.EventRemoveInvite\t(inviteIndex)",
+			"contents": "C_Calendar.EventRemoveInvite(${1:inviteIndex})$0",
 		},
 		{
 			"trigger": "C_Calendar.EventSelectInvite\t(inviteIndex)",
@@ -938,6 +942,10 @@
 			"contents": "C_ChatInfo.RegisterAddonMessagePrefix(\"${1:prefix}\")$0",
 		},
 		{
+			"trigger": "C_ChatInfo.ReplaceIconAndGroupExpressions\t(\"input\", [noIconReplacement, [noGroupReplacement]])",
+			"contents": "C_ChatInfo.ReplaceIconAndGroupExpressions(\"${1:input}\", [${2:noIconReplacement}, [${3:noGroupReplacement}]])$0",
+		},
+		{
 			"trigger": "C_ChatInfo.ResetDefaultZoneChannels\t()",
 			"contents": "C_ChatInfo.ResetDefaultZoneChannels()$0",
 		},
@@ -1228,10 +1236,6 @@
 		{
 			"trigger": "C_Club.SetClubStreamNotificationSettings\t(\"clubId\", settings)",
 			"contents": "C_Club.SetClubStreamNotificationSettings(\"${1:clubId}\", ${2:settings})$0",
-		},
-		{
-			"trigger": "C_Club.SetCommunityID\t(communityID)",
-			"contents": "C_Club.SetCommunityID(${1:communityID})$0",
 		},
 		{
 			"trigger": "C_Club.SetFavorite\t(\"clubId\", isFavorite)",
@@ -1686,6 +1690,22 @@
 			"contents": "C_Commentator.ZoomOut()$0",
 		},
 		{
+			"trigger": "C_ConfigurationWarnings.GetConfigurationWarnings\t(includeSeenWarnings)",
+			"contents": "C_ConfigurationWarnings.GetConfigurationWarnings(${1:includeSeenWarnings})$0",
+		},
+		{
+			"trigger": "C_ConfigurationWarnings.GetConfigurationWarningSeen\t(configurationWarning)",
+			"contents": "C_ConfigurationWarnings.GetConfigurationWarningSeen(${1:configurationWarning})$0",
+		},
+		{
+			"trigger": "C_ConfigurationWarnings.GetConfigurationWarningString\t(configurationWarning)",
+			"contents": "C_ConfigurationWarnings.GetConfigurationWarningString(${1:configurationWarning})$0",
+		},
+		{
+			"trigger": "C_ConfigurationWarnings.SetConfigurationWarningSeen\t(configurationWarning)",
+			"contents": "C_ConfigurationWarnings.SetConfigurationWarningSeen(${1:configurationWarning})$0",
+		},
+		{
 			"trigger": "C_Console.GetAllCommands\t()",
 			"contents": "C_Console.GetAllCommands()$0",
 		},
@@ -1838,6 +1858,38 @@
 			"contents": "C_Cursor.SetCursorCommunitiesStream(\"${1:clubId}\", \"${2:streamId}\")$0",
 		},
 		{
+			"trigger": "C_CVar.GetCVar\t(\"name\")",
+			"contents": "C_CVar.GetCVar(\"${1:name}\")$0",
+		},
+		{
+			"trigger": "C_CVar.GetCVarBitfield\t(\"name\", index)",
+			"contents": "C_CVar.GetCVarBitfield(\"${1:name}\", ${2:index})$0",
+		},
+		{
+			"trigger": "C_CVar.GetCVarBool\t(\"name\")",
+			"contents": "C_CVar.GetCVarBool(\"${1:name}\")$0",
+		},
+		{
+			"trigger": "C_CVar.GetCVarDefault\t(\"name\")",
+			"contents": "C_CVar.GetCVarDefault(\"${1:name}\")$0",
+		},
+		{
+			"trigger": "C_CVar.RegisterCVar\t(\"name\", [\"value\"])",
+			"contents": "C_CVar.RegisterCVar(\"${1:name}\", [\"${2:value}\"])$0",
+		},
+		{
+			"trigger": "C_CVar.ResetTestCVars\t()",
+			"contents": "C_CVar.ResetTestCVars()$0",
+		},
+		{
+			"trigger": "C_CVar.SetCVar\t(\"name\", [\"value\", [\"scriptCVar\"]])",
+			"contents": "C_CVar.SetCVar(\"${1:name}\", [\"${2:value}\", [\"${3:scriptCVar}\"]])$0",
+		},
+		{
+			"trigger": "C_CVar.SetCVarBitfield\t(\"name\", index, value, [\"scriptCVar\"])",
+			"contents": "C_CVar.SetCVarBitfield(\"${1:name}\", ${2:index}, ${3:value}, [\"${4:scriptCVar}\"])$0",
+		},
+		{
 			"trigger": "C_DateAndTime.AdjustTimeByDays\t(date, days)",
 			"contents": "C_DateAndTime.AdjustTimeByDays(${1:date}, ${2:days})$0",
 		},
@@ -1856,6 +1908,10 @@
 		{
 			"trigger": "C_DateAndTime.GetCurrentCalendarTime\t()",
 			"contents": "C_DateAndTime.GetCurrentCalendarTime()$0",
+		},
+		{
+			"trigger": "C_DateAndTime.GetServerTimeLocal\t()",
+			"contents": "C_DateAndTime.GetServerTimeLocal()$0",
 		},
 		{
 			"trigger": "C_DeathInfo.GetCorpseMapPosition\t(uiMapID)",
@@ -1896,6 +1952,10 @@
 		{
 			"trigger": "C_EncounterJournal.InstanceHasLoot\t([instanceID])",
 			"contents": "C_EncounterJournal.InstanceHasLoot([${1:instanceID}])$0",
+		},
+		{
+			"trigger": "C_EncounterJournal.IsEncounterComplete\t(journalEncounterID)",
+			"contents": "C_EncounterJournal.IsEncounterComplete(${1:journalEncounterID})$0",
 		},
 		{
 			"trigger": "C_EquipmentSet.AssignSpecToEquipmentSet\t(equipmentSetID, specIndex)",
@@ -2322,6 +2382,10 @@
 			"contents": "C_Item.UnlockItem(${1:itemLocation})$0",
 		},
 		{
+			"trigger": "C_ItemSocketInfo.CompleteSocketing\t()",
+			"contents": "C_ItemSocketInfo.CompleteSocketing()$0",
+		},
+		{
 			"trigger": "C_KeyBindings.GetCustomBindingType\t(bindingIndex)",
 			"contents": "C_KeyBindings.GetCustomBindingType(${1:bindingIndex})$0",
 		},
@@ -2512,6 +2576,10 @@
 		{
 			"trigger": "C_MerchantFrame.GetBuybackItemID\t(buybackSlotIndex)",
 			"contents": "C_MerchantFrame.GetBuybackItemID(${1:buybackSlotIndex})$0",
+		},
+		{
+			"trigger": "C_MerchantFrame.IsMerchantItemRefundable\t(index)",
+			"contents": "C_MerchantFrame.IsMerchantItemRefundable(${1:index})$0",
 		},
 		{
 			"trigger": "C_ModelInfo.AddActiveModelScene\t(modelSceneFrame, modelSceneID)",
@@ -2806,12 +2874,20 @@
 			"contents": "C_PlayerInfo.IsConnected([${1:playerLocation}])$0",
 		},
 		{
+			"trigger": "C_PlayerInfo.UnitIsSameServer\t(playerLocation)",
+			"contents": "C_PlayerInfo.UnitIsSameServer(${1:playerLocation})$0",
+		},
+		{
 			"trigger": "C_PvP.CanToggleWarMode\t(toggle)",
 			"contents": "C_PvP.CanToggleWarMode(${1:toggle})$0",
 		},
 		{
 			"trigger": "C_PvP.CanToggleWarModeInArea\t()",
 			"contents": "C_PvP.CanToggleWarModeInArea()$0",
+		},
+		{
+			"trigger": "C_PvP.GetActiveBrawlInfo\t()",
+			"contents": "C_PvP.GetActiveBrawlInfo()$0",
 		},
 		{
 			"trigger": "C_PvP.GetArenaCrowdControlInfo\t(\"playerToken\")",
@@ -2826,8 +2902,8 @@
 			"contents": "C_PvP.GetArenaSkirmishRewards()$0",
 		},
 		{
-			"trigger": "C_PvP.GetBrawlInfo\t()",
-			"contents": "C_PvP.GetBrawlInfo()$0",
+			"trigger": "C_PvP.GetAvailableBrawlInfo\t()",
+			"contents": "C_PvP.GetAvailableBrawlInfo()$0",
 		},
 		{
 			"trigger": "C_PvP.GetBrawlRewards\t(brawlType)",
@@ -2900,6 +2976,10 @@
 		{
 			"trigger": "C_PvP.HasArenaSkirmishWinToday\t()",
 			"contents": "C_PvP.HasArenaSkirmishWinToday()$0",
+		},
+		{
+			"trigger": "C_PvP.IsActiveBattlefield\t()",
+			"contents": "C_PvP.IsActiveBattlefield()$0",
 		},
 		{
 			"trigger": "C_PvP.IsBattlegroundEnlistmentBonusActive\t()",
@@ -3018,16 +3098,28 @@
 			"contents": "C_QuestLog.ShouldShowQuestRewards(${1:questID})$0",
 		},
 		{
+			"trigger": "C_ReportPlayer.CanReportPlayer\t(playerLocation)",
+			"contents": "C_ReportPlayer.CanReportPlayer(${1:playerLocation})$0",
+		},
+		{
+			"trigger": "C_ReportPlayer.ReportPlayer\t(\"complaintType\", [playerLocation, [\"comment\"]])",
+			"contents": "C_ReportPlayer.ReportPlayer(\"${1:complaintType}\", [${2:playerLocation}, [\"${3:comment}\"]])$0",
+		},
+		{
 			"trigger": "C_ReportSystem.CanReportPlayer\t(playerLocation)",
 			"contents": "C_ReportSystem.CanReportPlayer(${1:playerLocation})$0",
 		},
 		{
-			"trigger": "C_ReportSystem.ReportPlayer\t(\"complaintType\", [playerLocation, [\"comment\"]])",
-			"contents": "C_ReportSystem.ReportPlayer(\"${1:complaintType}\", [${2:playerLocation}, [\"${3:comment}\"]])$0",
+			"trigger": "C_ReportSystem.InitiateReportPlayer\t(\"complaintType\", [playerLocation])",
+			"contents": "C_ReportSystem.InitiateReportPlayer(\"${1:complaintType}\", [${2:playerLocation}])$0",
 		},
 		{
 			"trigger": "C_ReportSystem.ReportServerLag\t()",
 			"contents": "C_ReportSystem.ReportServerLag()$0",
+		},
+		{
+			"trigger": "C_ReportSystem.SendReportPlayer\t(token, [\"comment\"])",
+			"contents": "C_ReportSystem.SendReportPlayer(${1:token}, [\"${2:comment}\"])$0",
 		},
 		{
 			"trigger": "C_ReportSystem.SetPendingReportPetTarget\t([\"target\"])",
@@ -3106,6 +3198,54 @@
 			"contents": "C_ScrappingMachineUI.ValidateScrappingList()$0",
 		},
 		{
+			"trigger": "C_Social.GetLastAchievement\t()",
+			"contents": "C_Social.GetLastAchievement()$0",
+		},
+		{
+			"trigger": "C_Social.GetLastItem\t()",
+			"contents": "C_Social.GetLastItem()$0",
+		},
+		{
+			"trigger": "C_Social.GetLastScreenshotIndex\t()",
+			"contents": "C_Social.GetLastScreenshotIndex()$0",
+		},
+		{
+			"trigger": "C_Social.GetMaxTweetLength\t()",
+			"contents": "C_Social.GetMaxTweetLength()$0",
+		},
+		{
+			"trigger": "C_Social.GetScreenshotInfoByIndex\t(index)",
+			"contents": "C_Social.GetScreenshotInfoByIndex(${1:index})$0",
+		},
+		{
+			"trigger": "C_Social.GetTweetLength\t(\"tweetText\")",
+			"contents": "C_Social.GetTweetLength(\"${1:tweetText}\")$0",
+		},
+		{
+			"trigger": "C_Social.IsSocialEnabled\t()",
+			"contents": "C_Social.IsSocialEnabled()$0",
+		},
+		{
+			"trigger": "C_Social.TwitterCheckStatus\t()",
+			"contents": "C_Social.TwitterCheckStatus()$0",
+		},
+		{
+			"trigger": "C_Social.TwitterConnect\t()",
+			"contents": "C_Social.TwitterConnect()$0",
+		},
+		{
+			"trigger": "C_Social.TwitterDisconnect\t()",
+			"contents": "C_Social.TwitterDisconnect()$0",
+		},
+		{
+			"trigger": "C_Social.TwitterGetMSTillCanPost\t()",
+			"contents": "C_Social.TwitterGetMSTillCanPost()$0",
+		},
+		{
+			"trigger": "C_Social.TwitterPostMessage\t(\"message\")",
+			"contents": "C_Social.TwitterPostMessage(\"${1:message}\")$0",
+		},
+		{
 			"trigger": "C_SocialQueue.GetAllGroups\t(allowNonJoinable, allowNonQueuedGroups)",
 			"contents": "C_SocialQueue.GetAllGroups(${1:allowNonJoinable}, ${2:allowNonQueuedGroups})$0",
 		},
@@ -3164,6 +3304,10 @@
 		{
 			"trigger": "C_SpecializationInfo.GetSpellsDisplay\t(specializationID)",
 			"contents": "C_SpecializationInfo.GetSpellsDisplay(${1:specializationID})$0",
+		},
+		{
+			"trigger": "C_SpecializationInfo.IsInitialized\t()",
+			"contents": "C_SpecializationInfo.IsInitialized()$0",
 		},
 		{
 			"trigger": "C_SpecializationInfo.IsPvpTalentLocked\t(talentID)",
@@ -3254,6 +3398,10 @@
 			"contents": "C_TaskQuest.GetQuestTimeLeftMinutes(${1:questID})$0",
 		},
 		{
+			"trigger": "C_TaskQuest.GetQuestTimeLeftSeconds\t(questID)",
+			"contents": "C_TaskQuest.GetQuestTimeLeftSeconds(${1:questID})$0",
+		},
+		{
 			"trigger": "C_TaskQuest.GetQuestZoneID\t(questID)",
 			"contents": "C_TaskQuest.GetQuestZoneID(${1:questID})$0",
 		},
@@ -3278,16 +3426,16 @@
 			"contents": "C_TaxiMap.ShouldMapShowTaxiNodes(${1:uiMapID})$0",
 		},
 		{
-			"trigger": "C_Timer.After\t(duartion, callback)",
-			"contents": "C_Timer.After(${1:duration}, ${2:callback})$0"
+			"trigger": "C_Texture.GetAtlasInfo\t(\"atlas\")",
+			"contents": "C_Texture.GetAtlasInfo(\"${1:atlas}\")$0",
 		},
 		{
-			"trigger": "C_Timer.NewTicker\t(duartion, callback, [iterations])",
-			"contents": "C_Timer.NewTicker(${1:duration}, ${2:callback}, ${3:[iterations]})$0"
+			"trigger": "C_ToyBoxInfo.ClearFanfare\t(itemID)",
+			"contents": "C_ToyBoxInfo.ClearFanfare(${1:itemID})$0",
 		},
 		{
-			"trigger": "C_Timer.NewTimer\t(duartion, callback)",
-			"contents": "C_Timer.NewTimer(${1:duration}, ${2:callback})$0"
+			"trigger": "C_ToyBoxInfo.NeedsFanfare\t(itemID)",
+			"contents": "C_ToyBoxInfo.NeedsFanfare(${1:itemID})$0",
 		},
 		{
 			"trigger": "C_TradeSkillUI.GetAllProfessionTradeSkillLines\t()",
@@ -3432,6 +3580,10 @@
 		{
 			"trigger": "C_UIWidgetManager.GetDoubleIconAndTextWidgetVisualizationInfo\t(widgetID)",
 			"contents": "C_UIWidgetManager.GetDoubleIconAndTextWidgetVisualizationInfo(${1:widgetID})$0",
+		},
+		{
+			"trigger": "C_UIWidgetManager.GetDoubleStateIconRowVisualizationInfo\t(widgetID)",
+			"contents": "C_UIWidgetManager.GetDoubleStateIconRowVisualizationInfo(${1:widgetID})$0",
 		},
 		{
 			"trigger": "C_UIWidgetManager.GetDoubleStatusBarWidgetVisualizationInfo\t(widgetID)",
@@ -3753,6 +3905,11 @@
 
 
 
+
+		{
+			"trigger": "_C_AccountInfo.GetIDFromBattleNetAccountGUID\t(\"guid\")",
+			"contents": "${1:battleNetAccountID} = C_AccountInfo.GetIDFromBattleNetAccountGUID(\"${2:guid}\")$0",
+		},
 		{
 			"trigger": "_C_AccountInfo.IsGUIDBattleNetAccountType\t(\"guid\")",
 			"contents": "${1:isBNet} = C_AccountInfo.IsGUIDBattleNetAccountType(\"${2:guid}\")$0",
@@ -4314,6 +4471,10 @@
 			"contents": "${1:actionPending} = C_Calendar.IsActionPending()$0",
 		},
 		{
+			"trigger": "_C_Calendar.OpenEvent\t(offsetMonths, monthDay, index)",
+			"contents": "${1:success} = C_Calendar.OpenEvent(${2:offsetMonths}, ${3:monthDay}, ${4:index})$0",
+		},
+		{
 			"trigger": "_C_CampaignInfo.GetCampaignChapterInfo\t(campaignChapterID)",
 			"contents": "${1:campaignChapterInfo} = C_CampaignInfo.GetCampaignChapterInfo(${2:campaignChapterID})$0",
 		},
@@ -4420,6 +4581,10 @@
 		{
 			"trigger": "_C_ChatInfo.RegisterAddonMessagePrefix\t(\"prefix\")",
 			"contents": "${1:successfulRequest} = C_ChatInfo.RegisterAddonMessagePrefix(\"${2:prefix}\")$0",
+		},
+		{
+			"trigger": "_C_ChatInfo.ReplaceIconAndGroupExpressions\t(\"input\", [noIconReplacement, [noGroupReplacement]])",
+			"contents": "${1:output} = C_ChatInfo.ReplaceIconAndGroupExpressions(\"${2:input}\", [${3:noIconReplacement}, [${4:noGroupReplacement}]])$0",
 		},
 		{
 			"trigger": "_C_ChatInfo.SendAddonMessage\t(\"prefix\", \"message\", [\"chatType\", [\"target\"]])",
@@ -4786,6 +4951,18 @@
 			"contents": "${1:isUsingSmartCamera} = C_Commentator.IsUsingSmartCamera()$0",
 		},
 		{
+			"trigger": "_C_ConfigurationWarnings.GetConfigurationWarnings\t(includeSeenWarnings)",
+			"contents": "${1:configurationWarnings} = C_ConfigurationWarnings.GetConfigurationWarnings(${2:includeSeenWarnings})$0",
+		},
+		{
+			"trigger": "_C_ConfigurationWarnings.GetConfigurationWarningSeen\t(configurationWarning)",
+			"contents": "${1:hasSeenConfigurationWarning} = C_ConfigurationWarnings.GetConfigurationWarningSeen(${2:configurationWarning})$0",
+		},
+		{
+			"trigger": "_C_ConfigurationWarnings.GetConfigurationWarningString\t(configurationWarning)",
+			"contents": "${1:configurationWarningString} = C_ConfigurationWarnings.GetConfigurationWarningString(${2:configurationWarning})$0",
+		},
+		{
 			"trigger": "_C_Console.GetAllCommands\t()",
 			"contents": "${1:commands} = C_Console.GetAllCommands()$0",
 		},
@@ -4914,6 +5091,30 @@
 			"contents": "${1:item} = C_Cursor.GetCursorItem()$0",
 		},
 		{
+			"trigger": "_C_CVar.GetCVar\t(\"name\")",
+			"contents": "${1:value} = C_CVar.GetCVar(\"${2:name}\")$0",
+		},
+		{
+			"trigger": "_C_CVar.GetCVarBitfield\t(\"name\", index)",
+			"contents": "${1:value} = C_CVar.GetCVarBitfield(\"${2:name}\", ${3:index})$0",
+		},
+		{
+			"trigger": "_C_CVar.GetCVarBool\t(\"name\")",
+			"contents": "${1:value} = C_CVar.GetCVarBool(\"${2:name}\")$0",
+		},
+		{
+			"trigger": "_C_CVar.GetCVarDefault\t(\"name\")",
+			"contents": "${1:defaultValue} = C_CVar.GetCVarDefault(\"${2:name}\")$0",
+		},
+		{
+			"trigger": "_C_CVar.SetCVar\t(\"name\", [\"value\", [\"scriptCVar\"]])",
+			"contents": "${1:success} = C_CVar.SetCVar(\"${2:name}\", [\"${3:value}\", [\"${4:scriptCVar}\"]])$0",
+		},
+		{
+			"trigger": "_C_CVar.SetCVarBitfield\t(\"name\", index, value, [\"scriptCVar\"])",
+			"contents": "${1:success} = C_CVar.SetCVarBitfield(\"${2:name}\", ${3:index}, ${4:value}, [\"${5:scriptCVar}\"])$0",
+		},
+		{
 			"trigger": "_C_DateAndTime.AdjustTimeByDays\t(date, days)",
 			"contents": "${1:newDate} = C_DateAndTime.AdjustTimeByDays(${2:date}, ${3:days})$0",
 		},
@@ -4932,6 +5133,10 @@
 		{
 			"trigger": "_C_DateAndTime.GetCurrentCalendarTime\t()",
 			"contents": "${1:date} = C_DateAndTime.GetCurrentCalendarTime()$0",
+		},
+		{
+			"trigger": "_C_DateAndTime.GetServerTimeLocal\t()",
+			"contents": "${1:serverTimeLocal} = C_DateAndTime.GetServerTimeLocal()$0",
 		},
 		{
 			"trigger": "_C_DeathInfo.GetCorpseMapPosition\t(uiMapID)",
@@ -4968,6 +5173,10 @@
 		{
 			"trigger": "_C_EncounterJournal.InstanceHasLoot\t([instanceID])",
 			"contents": "${1:hasLoot} = C_EncounterJournal.InstanceHasLoot([${2:instanceID}])$0",
+		},
+		{
+			"trigger": "_C_EncounterJournal.IsEncounterComplete\t(journalEncounterID)",
+			"contents": "${1:isEncounterComplete} = C_EncounterJournal.IsEncounterComplete(${2:journalEncounterID})$0",
 		},
 		{
 			"trigger": "_C_EquipmentSet.CanUseEquipmentSets\t()",
@@ -5422,6 +5631,10 @@
 			"contents": "${1:buybackItemID} = C_MerchantFrame.GetBuybackItemID(${2:buybackSlotIndex})$0",
 		},
 		{
+			"trigger": "_C_MerchantFrame.IsMerchantItemRefundable\t(index)",
+			"contents": "${1:refundable} = C_MerchantFrame.IsMerchantItemRefundable(${2:index})$0",
+		},
+		{
 			"trigger": "_C_ModelInfo.GetModelSceneActorDisplayInfoByID\t(modelActorDisplayID)",
 			"contents": "${1:actorDisplayInfo} = C_ModelInfo.GetModelSceneActorDisplayInfoByID(${2:modelActorDisplayID})$0",
 		},
@@ -5646,12 +5859,20 @@
 			"contents": "${1:isConnected} = C_PlayerInfo.IsConnected([${2:playerLocation}])$0",
 		},
 		{
+			"trigger": "_C_PlayerInfo.UnitIsSameServer\t(playerLocation)",
+			"contents": "${1:unitIsSameServer} = C_PlayerInfo.UnitIsSameServer(${2:playerLocation})$0",
+		},
+		{
 			"trigger": "_C_PvP.CanToggleWarMode\t(toggle)",
 			"contents": "${1:canTogglePvP} = C_PvP.CanToggleWarMode(${2:toggle})$0",
 		},
 		{
 			"trigger": "_C_PvP.CanToggleWarModeInArea\t()",
 			"contents": "${1:canTogglePvPInArea} = C_PvP.CanToggleWarModeInArea()$0",
+		},
+		{
+			"trigger": "_C_PvP.GetActiveBrawlInfo\t()",
+			"contents": "${1:brawlInfo} = C_PvP.GetActiveBrawlInfo()$0",
 		},
 		{
 			"trigger": "_C_PvP.GetArenaCrowdControlInfo\t(\"playerToken\")",
@@ -5666,8 +5887,8 @@
 			"contents": "${1:honor}, ${2:experience}, ${3:itemRewards}, ${4:currencyRewards} = C_PvP.GetArenaSkirmishRewards()$0",
 		},
 		{
-			"trigger": "_C_PvP.GetBrawlInfo\t()",
-			"contents": "${1:brawlInfo} = C_PvP.GetBrawlInfo()$0",
+			"trigger": "_C_PvP.GetAvailableBrawlInfo\t()",
+			"contents": "${1:brawlInfo} = C_PvP.GetAvailableBrawlInfo()$0",
 		},
 		{
 			"trigger": "_C_PvP.GetBrawlRewards\t(brawlType)",
@@ -5740,6 +5961,10 @@
 		{
 			"trigger": "_C_PvP.HasArenaSkirmishWinToday\t()",
 			"contents": "${1:hasArenaSkirmishWinToday} = C_PvP.HasArenaSkirmishWinToday()$0",
+		},
+		{
+			"trigger": "_C_PvP.IsActiveBattlefield\t()",
+			"contents": "${1:isActiveBattlefield} = C_PvP.IsActiveBattlefield()$0",
 		},
 		{
 			"trigger": "_C_PvP.IsBattlegroundEnlistmentBonusActive\t()",
@@ -5834,8 +6059,16 @@
 			"contents": "${1:shouldShow} = C_QuestLog.ShouldShowQuestRewards(${2:questID})$0",
 		},
 		{
+			"trigger": "_C_ReportPlayer.CanReportPlayer\t(playerLocation)",
+			"contents": "${1:canReport} = C_ReportPlayer.CanReportPlayer(${2:playerLocation})$0",
+		},
+		{
 			"trigger": "_C_ReportSystem.CanReportPlayer\t(playerLocation)",
 			"contents": "${1:canReport} = C_ReportSystem.CanReportPlayer(${2:playerLocation})$0",
+		},
+		{
+			"trigger": "_C_ReportSystem.InitiateReportPlayer\t(\"complaintType\", [playerLocation])",
+			"contents": "${1:token} = C_ReportSystem.InitiateReportPlayer(\"${2:complaintType}\", [${3:playerLocation}])$0",
 		},
 		{
 			"trigger": "_C_ReportSystem.SetPendingReportPetTarget\t([\"target\"])",
@@ -5876,6 +6109,38 @@
 		{
 			"trigger": "_C_ScrappingMachineUI.HasScrappableItems\t()",
 			"contents": "${1:hasScrappableItems} = C_ScrappingMachineUI.HasScrappableItems()$0",
+		},
+		{
+			"trigger": "_C_Social.GetLastAchievement\t()",
+			"contents": "${1:achievementID}, ${2:achievementName}, ${3:achievementDesc}, ${4:iconFileID} = C_Social.GetLastAchievement()$0",
+		},
+		{
+			"trigger": "_C_Social.GetLastItem\t()",
+			"contents": "${1:itemID}, ${2:itemName}, ${3:iconFileID}, ${4:itemQuality}, ${5:itemLevel}, ${6:itemLinkString} = C_Social.GetLastItem()$0",
+		},
+		{
+			"trigger": "_C_Social.GetLastScreenshotIndex\t()",
+			"contents": "${1:screenShotIndex} = C_Social.GetLastScreenshotIndex()$0",
+		},
+		{
+			"trigger": "_C_Social.GetMaxTweetLength\t()",
+			"contents": "${1:maxTweetLength} = C_Social.GetMaxTweetLength()$0",
+		},
+		{
+			"trigger": "_C_Social.GetScreenshotInfoByIndex\t(index)",
+			"contents": "${1:screenWidth}, ${2:screenHeight} = C_Social.GetScreenshotInfoByIndex(${3:index})$0",
+		},
+		{
+			"trigger": "_C_Social.GetTweetLength\t(\"tweetText\")",
+			"contents": "${1:tweetLength} = C_Social.GetTweetLength(\"${2:tweetText}\")$0",
+		},
+		{
+			"trigger": "_C_Social.IsSocialEnabled\t()",
+			"contents": "${1:isEnabled} = C_Social.IsSocialEnabled()$0",
+		},
+		{
+			"trigger": "_C_Social.TwitterGetMSTillCanPost\t()",
+			"contents": "${1:msTimeLeft} = C_Social.TwitterGetMSTillCanPost()$0",
 		},
 		{
 			"trigger": "_C_SocialQueue.GetAllGroups\t(allowNonJoinable, allowNonQueuedGroups)",
@@ -5932,6 +6197,10 @@
 		{
 			"trigger": "_C_SpecializationInfo.GetSpellsDisplay\t(specializationID)",
 			"contents": "${1:spellID} = C_SpecializationInfo.GetSpellsDisplay(${2:specializationID})$0",
+		},
+		{
+			"trigger": "_C_SpecializationInfo.IsInitialized\t()",
+			"contents": "${1:isSpecializationDataInitialized} = C_SpecializationInfo.IsInitialized()$0",
 		},
 		{
 			"trigger": "_C_SpecializationInfo.IsPvpTalentLocked\t(talentID)",
@@ -6006,6 +6275,10 @@
 			"contents": "${1:minutesLeft} = C_TaskQuest.GetQuestTimeLeftMinutes(${2:questID})$0",
 		},
 		{
+			"trigger": "_C_TaskQuest.GetQuestTimeLeftSeconds\t(questID)",
+			"contents": "${1:secondsLeft} = C_TaskQuest.GetQuestTimeLeftSeconds(${2:questID})$0",
+		},
+		{
 			"trigger": "_C_TaskQuest.GetQuestZoneID\t(questID)",
 			"contents": "${1:uiMapID} = C_TaskQuest.GetQuestZoneID(${2:questID})$0",
 		},
@@ -6026,12 +6299,12 @@
 			"contents": "${1:shouldShowNodes} = C_TaxiMap.ShouldMapShowTaxiNodes(${2:uiMapID})$0",
 		},
 		{
-			"trigger": "_C_Timer.NewTicker\t(duartion, callback, [iterations])",
-			"contents": "${1:timer} = C_Timer.NewTicker(${2:duration}, ${3:callback}, ${4:[iterations]})$0"
+			"trigger": "_C_Texture.GetAtlasInfo\t(\"atlas\")",
+			"contents": "${1:info} = C_Texture.GetAtlasInfo(\"${2:atlas}\")$0",
 		},
 		{
-			"trigger": "_C_Timer.NewTimer\t(duartion, callback)",
-			"contents": "${1:timer} = C_Timer.NewTimer(${2:duration}, ${3:callback})$0"
+			"trigger": "_C_ToyBoxInfo.NeedsFanfare\t(itemID)",
+			"contents": "${1:needsFanfare} = C_ToyBoxInfo.NeedsFanfare(${2:itemID})$0",
 		},
 		{
 			"trigger": "_C_TradeSkillUI.GetAllProfessionTradeSkillLines\t()",
@@ -6152,6 +6425,10 @@
 		{
 			"trigger": "_C_UIWidgetManager.GetDoubleIconAndTextWidgetVisualizationInfo\t(widgetID)",
 			"contents": "${1:widgetInfo} = C_UIWidgetManager.GetDoubleIconAndTextWidgetVisualizationInfo(${2:widgetID})$0",
+		},
+		{
+			"trigger": "_C_UIWidgetManager.GetDoubleStateIconRowVisualizationInfo\t(widgetID)",
+			"contents": "${1:widgetInfo} = C_UIWidgetManager.GetDoubleStateIconRowVisualizationInfo(${2:widgetID})$0",
 		},
 		{
 			"trigger": "_C_UIWidgetManager.GetDoubleStatusBarWidgetVisualizationInfo\t(widgetID)",

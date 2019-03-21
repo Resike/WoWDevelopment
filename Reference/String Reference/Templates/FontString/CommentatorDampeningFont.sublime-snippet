@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommentatorDampeningFont]]></content>
+	<tabTrigger>CommentatorDampeningFont</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

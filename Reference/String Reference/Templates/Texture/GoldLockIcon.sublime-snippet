@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GoldLockIcon]]></content>
+	<tabTrigger>GoldLockIcon</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

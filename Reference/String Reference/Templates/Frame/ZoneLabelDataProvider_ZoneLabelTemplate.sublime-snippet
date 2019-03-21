@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ZoneLabelDataProvider_ZoneLabelTemplate]]></content>
+	<tabTrigger>ZoneLabelDataProvider_ZoneLabelTemplate</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.frame</scope>
+</snippet>

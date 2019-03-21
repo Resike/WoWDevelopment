@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RealmCharactersNormal]]></content>
+	<tabTrigger>RealmCharactersNormal</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

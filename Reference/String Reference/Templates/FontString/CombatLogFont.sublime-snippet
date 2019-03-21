@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CombatLogFont]]></content>
+	<tabTrigger>CombatLogFont</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

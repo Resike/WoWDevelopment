@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AzeriteRingGlowTexture]]></content>
+	<tabTrigger>AzeriteRingGlowTexture</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GluePanelButtonUpTexture]]></content>
+	<tabTrigger>GluePanelButtonUpTexture</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

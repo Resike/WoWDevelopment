@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ArtifactsRelicSlotTemplate]]></content>
+	<tabTrigger>ArtifactsRelicSlotTemplate</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.frame</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GarrisonBuildingTabTemplate]]></content>
+	<tabTrigger>GarrisonBuildingTabTemplate</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.frame</scope>
+</snippet>

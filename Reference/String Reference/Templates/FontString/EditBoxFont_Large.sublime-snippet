@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditBoxFont_Large]]></content>
+	<tabTrigger>EditBoxFont_Large</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

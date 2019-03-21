@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_Timer.NewTicker(${1:duration}, ${2:callback}, ${3:[iterations]})$0]]></content>
-	<tabTrigger>C_Timer.NewTicker</tabTrigger>
-	<description>(duartion, callback, [iterations])</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

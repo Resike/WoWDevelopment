@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GlueFontDisableHuge]]></content>
+	<tabTrigger>GlueFontDisableHuge</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

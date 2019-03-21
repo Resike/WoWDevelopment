@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NumberFontNormalRightYellow]]></content>
+	<tabTrigger>NumberFontNormalRightYellow</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

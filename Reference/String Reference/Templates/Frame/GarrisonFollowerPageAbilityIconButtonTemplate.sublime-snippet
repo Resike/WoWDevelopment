@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GarrisonFollowerPageAbilityIconButtonTemplate]]></content>
+	<tabTrigger>GarrisonFollowerPageAbilityIconButtonTemplate</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.frame</scope>
+</snippet>
