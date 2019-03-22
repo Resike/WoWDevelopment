@@ -20,13 +20,13 @@ World of Warcraft syntax highlight, auto-completion and global finder/highlighte
 * Recommended autocompletion settings in Sublime *Preferences -> Settings* :
 
   "auto_complete": true,
-  
+
   "auto_complete_commit_on_tab": true,
-  
+
   "auto_complete_cycle": true,
-  
+
   "auto_complete_selector": "meta.tag, source - comment",
-  
+
   "auto_complete_with_fields": true,
 
 # List globals with a build system in the console window with detailed information:

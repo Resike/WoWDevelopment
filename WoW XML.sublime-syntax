@@ -54,7 +54,7 @@ variables:
 
 contexts:
   punctuation-call:
-    - meta_scope: meta.property.lua meta.punctuation.lua
+    - meta_content_scope: meta.property.lua meta.punctuation.lua
     - match: ([.:])
       pop: true
     - match: '{{identifier}}{{function_assignment_ahead}}'
@@ -82,7 +82,7 @@ contexts:
     - include: else-pop
 
   method-call:
-    - meta_scope: meta.property.lua meta.method-call.lua
+    - meta_content_scope: meta.property.lua meta.method-call.lua
     - match: ([.:])
       pop: true
     - match: '(?:byte|char|(?# dump|)find|format|gfind|gmatch|gsub|join|len|lower|match|(?# pack|packsize|)rep|reverse|rtgsub|split|sub|trim|(?# unpack|)upper)\b'
@@ -149,12 +149,10 @@ contexts:
     - match: \b{{widgets}}\b
       scope: support.type.widget-api.lua
       set:
-        - function-arguments-meta
         - function-arguments
     - match: \b{{identifier}}\b
       scope: source.method.lua
       set:
-        - function-arguments-meta
         - function-arguments
     - match: (?=\S)
       set: method-call-valid
@@ -224,12 +222,10 @@ contexts:
     - match: \b{{widgets}}\b
       scope: support.type.widget-api.lua
       set:
-        - function-arguments-meta
         - function-arguments
     - match: \b{{identifier}}\b
       scope: source.method.lua
       set:
-        - function-arguments-meta
         - function-arguments
     - include: else-pop
 
@@ -3443,18 +3439,18 @@ contexts:
     - include: else-pop
 
   function-name:
-    # - meta_scope: meta.name.function.lua
+    - meta_scope: meta.name.function.lua
     - match: (({{identifier}})(?=\s*([:])))
-      scope: meta.name.function.lua entity.name.namespace.lua
+      scope: entity.name.namespace.lua
       set: function-name-separator
     - match: (({{identifier}})(?=\s*([.])))
-      scope: meta.name.function.lua entity.name.namespace.lua
+      scope: entity.name.namespace.lua
       set: function-scopes
     - match: (({{identifier}})\s*\n)
-      scope: meta.name.function.lua entity.name.namespace.lua
+      scope: entity.name.namespace.lua
       set: function-scopes-valid
     - match: \b{{identifier}}\b
-      scope: meta.name.function.lua entity.name.function.lua
+      scope: entity.name.function.lua
     - include: else-pop
 
   function-scopes-valid:
@@ -3778,7 +3774,7 @@ contexts:
     - match: \(
       scope: punctuation.section.group.begin.lua
       set:
-        - meta_scope: meta.group.lua
+        - meta_scope: meta.group.lua meta.function-call.arguments.lua
         - match: \)
           scope: punctuation.section.group.end.lua
           pop: true
