@@ -2,7 +2,6 @@
 World of Warcraft syntax highlight, auto-completion and global finder/highlighter for Sublime Text 2/3.
 
 ![](http://i.imgur.com/UyQqaab.png)
-![](https://i.imgur.com/hNLXunH.png)
 
 # Features:
 
