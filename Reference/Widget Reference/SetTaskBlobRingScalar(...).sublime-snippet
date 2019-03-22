@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetTaskBlobRingScalar(${1:...})$0]]></content>
-	<tabTrigger>SetTaskBlobRingScalar</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua meta.method-call.lua</scope>
-</snippet>

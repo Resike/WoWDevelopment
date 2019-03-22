@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetZoomLevels()$0]]></content>
-	<tabTrigger>GetZoomLevels</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.method-call.lua</scope>
-</snippet>

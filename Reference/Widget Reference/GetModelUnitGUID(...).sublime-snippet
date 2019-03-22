@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetModelUnitGUID(${1:...})$0]]></content>
-	<tabTrigger>GetModelUnitGUID</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua meta.method-call.lua</scope>
-</snippet>

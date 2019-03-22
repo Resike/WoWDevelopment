@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetPaused(${1:...})$0]]></content>
+	<tabTrigger>SetPaused</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua meta.method-call.lua</scope>
+</snippet>

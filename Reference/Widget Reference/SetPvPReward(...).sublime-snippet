@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetPvPReward(${1:...})$0]]></content>
-	<tabTrigger>SetPvPReward</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua meta.method-call.lua</scope>
-</snippet>

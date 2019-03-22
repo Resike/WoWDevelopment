@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IsSnappingToPixelGrid(${1:...})$0]]></content>
+	<tabTrigger>IsSnappingToPixelGrid</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua meta.method-call.lua</scope>
+</snippet>

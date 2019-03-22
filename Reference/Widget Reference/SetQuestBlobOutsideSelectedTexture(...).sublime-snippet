@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetQuestBlobOutsideSelectedTexture(${1:...})$0]]></content>
-	<tabTrigger>SetQuestBlobOutsideSelectedTexture</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua meta.method-call.lua</scope>
-</snippet>

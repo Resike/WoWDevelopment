@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetCompareAzeritePower(${1:...})$0]]></content>
+	<tabTrigger>SetCompareAzeritePower</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua meta.method-call.lua</scope>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:zoomLevels} = ${2:Minimap}:GetZoomLevels()$0]]></content>
-	<tabTrigger>_Minimap:GetZoomLevels</tabTrigger>
-	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

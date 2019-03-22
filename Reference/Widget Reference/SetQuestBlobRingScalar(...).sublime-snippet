@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SetQuestBlobRingScalar(${1:...})$0]]></content>
-	<tabTrigger>SetQuestBlobRingScalar</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua meta.method-call.lua</scope>
-</snippet>

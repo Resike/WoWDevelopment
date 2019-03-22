@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetMaxBoundingBox(${1:...})$0]]></content>
-	<tabTrigger>GetMaxBoundingBox</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua meta.method-call.lua</scope>
-</snippet>

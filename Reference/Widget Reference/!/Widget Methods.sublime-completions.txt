@@ -586,10 +586,6 @@
 			"contents": "GetParent()$0",
 		},
 		{
-			"trigger": "GetPingPosition\t()",
-			"contents": "GetPingPosition()$0",
-		},
-		{
 			"trigger": "GetPoint\t(index)",
 			"contents": "GetPoint(${1:index})$0",
 		},
@@ -790,14 +786,6 @@
 			"contents": "GetWidth()$0",
 		},
 		{
-			"trigger": "GetZoom\t()",
-			"contents": "GetZoom()$0",
-		},
-		{
-			"trigger": "GetZoomLevels\t()",
-			"contents": "GetZoomLevels()$0",
-		},
-		{
 			"trigger": "HasFocus\t()",
 			"contents": "HasFocus()$0",
 		},
@@ -990,10 +978,6 @@
 			"contents": "Pause()$0",
 		},
 		{
-			"trigger": "PingLocation\t(x, y)",
-			"contents": "PingLocation(${1:x}, ${2:y})$0",
-		},
-		{
 			"trigger": "Play\t()",
 			"contents": "Play()$0",
 		},
@@ -1106,10 +1090,6 @@
 			"contents": "SetBlinkSpeed(${1:duration})$0",
 		},
 		{
-			"trigger": "SetBlipTexture\t(\"fileName\")",
-			"contents": "SetBlipTexture(\"${1:fileName}\")$0",
-		},
-		{
 			"trigger": "SetBorderAlpha\t(alpta)",
 			"contents": "SetBorderAlpha(${1:alpta})$0",
 		},
@@ -1188,10 +1168,6 @@
 		{
 			"trigger": "SetCooldown\t(start, duration)",
 			"contents": "SetCooldown(${1:start}, ${2:duration})$0",
-		},
-		{
-			"trigger": "SetCorpsePOIArrowTexture\t(\"fileName\")",
-			"contents": "SetCorpsePOIArrowTexture(\"${1:fileName}\")$0",
 		},
 		{
 			"trigger": "SetCreature\t(creature)",
@@ -1390,10 +1366,6 @@
 			"contents": "SetHyperlinksEnabled(${1:enable})$0",
 		},
 		{
-			"trigger": "SetIconTexture\t(\"fileName\")",
-			"contents": "SetIconTexture(\"${1:fileName}\")$0",
-		},
-		{
 			"trigger": "SetID\t(id)",
 			"contents": "SetID(${1:id})$0",
 		},
@@ -1436,10 +1408,6 @@
 		{
 			"trigger": "SetLootRollItem\t(id)",
 			"contents": "SetLootRollItem(${1:id})$0",
-		},
-		{
-			"trigger": "SetMaskTexture\t(\"fileName\")",
-			"contents": "SetMaskTexture(\"${1:fileName}\")$0",
 		},
 		{
 			"trigger": "SetMaxBytes\t(maxBytes)",
@@ -1586,14 +1554,6 @@
 			"contents": "SetPetAction(${1:index})$0",
 		},
 		{
-			"trigger": "SetPlayerTexture\t(\"fileName\")",
-			"contents": "SetPlayerTexture(\"${1:fileName}\")$0",
-		},
-		{
-			"trigger": "SetPOIArrowTexture\t(\"fileName\")",
-			"contents": "SetPOIArrowTexture(\"${1:fileName}\")$0",
-		},
-		{
 			"trigger": "SetPoint\t(\"point\", [relativeTo], [\"relativePoint\"], [xOffset], [yOffset])",
 			"contents": "SetPoint(\"${1:point}\", ${2:[relativeTo]}, \"${3:[relativePoint]}\", ${4:[xOffset]}, ${5:[yOffset]})$0",
 		},
@@ -1616,26 +1576,6 @@
 		{
 			"trigger": "SetPushedTexture\t(texture)",
 			"contents": "SetPushedTexture(${1:texture})$0",
-		},
-		{
-			"trigger": "SetQuestItem\t(\"itemType\", index)",
-			"contents": "SetQuestItem(\"${1:itemType}\", ${2:index})$0",
-		},
-		{
-			"trigger": "SetQuestLogItem\t(\"itemType\", index)",
-			"contents": "SetQuestLogItem(\"${1:itemType}\", ${2:index})$0",
-		},
-		{
-			"trigger": "SetQuestLogRewardSpell\t()",
-			"contents": "SetQuestLogRewardSpell()$0",
-		},
-		{
-			"trigger": "SetQuestLogSpecialItem\t(questIndex)",
-			"contents": "SetQuestLogSpecialItem(${1:questIndex})$0",
-		},
-		{
-			"trigger": "SetQuestRewardSpell\t()",
-			"contents": "SetQuestRewardSpell()$0",
 		},
 		{
 			"trigger": "SetRadians\t(radians)",
@@ -1732,10 +1672,6 @@
 		{
 			"trigger": "SetStartDelay\t(delay)",
 			"contents": "SetStartDelay(${1:delay})$0",
-		},
-		{
-			"trigger": "SetStaticPOIArrowTexture\t(\"fileName\")",
-			"contents": "SetStaticPOIArrowTexture(\"${1:fileName}\")$0",
 		},
 		{
 			"trigger": "SetStatusBarColor\t(r, g, b, [a])",

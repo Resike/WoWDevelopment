@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GetModelPath(${1:...})$0]]></content>
-	<tabTrigger>GetModelPath</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua meta.method-call.lua</scope>
-</snippet>

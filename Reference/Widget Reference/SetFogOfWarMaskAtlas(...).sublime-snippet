@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetFogOfWarMaskAtlas(${1:...})$0]]></content>
+	<tabTrigger>SetFogOfWarMaskAtlas</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua meta.method-call.lua</scope>
+</snippet>
