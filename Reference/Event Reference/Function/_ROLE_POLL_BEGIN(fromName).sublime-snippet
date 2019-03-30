@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ROLE_POLL_BEGIN(fromName)]]></content>
+	<tabTrigger>_ROLE_POLL_BEGIN</tabTrigger>
+	<description>(fromName)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

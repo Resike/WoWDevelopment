@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BATTLEFIELDS_SHOW(isArena, battleMasterListID)]]></content>
+	<tabTrigger>_BATTLEFIELDS_SHOW</tabTrigger>
+	<description>(isArena, battleMasterListID)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

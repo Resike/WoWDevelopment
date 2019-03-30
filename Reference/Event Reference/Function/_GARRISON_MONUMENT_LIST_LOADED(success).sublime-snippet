@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GARRISON_MONUMENT_LIST_LOADED(success)]]></content>
+	<tabTrigger>_GARRISON_MONUMENT_LIST_LOADED</tabTrigger>
+	<description>(success)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

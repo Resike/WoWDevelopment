@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ARTIFACT_TIER_CHANGED(newTier, bagOrSlotIndex, slotIndex)]]></content>
+	<tabTrigger>_ARTIFACT_TIER_CHANGED</tabTrigger>
+	<description>(newTier, bagOrSlotIndex, slotIndex)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

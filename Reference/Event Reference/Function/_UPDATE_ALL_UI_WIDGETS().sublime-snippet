@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UPDATE_ALL_UI_WIDGETS()]]></content>
+	<tabTrigger>_UPDATE_ALL_UI_WIDGETS</tabTrigger>
+	<description>()</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

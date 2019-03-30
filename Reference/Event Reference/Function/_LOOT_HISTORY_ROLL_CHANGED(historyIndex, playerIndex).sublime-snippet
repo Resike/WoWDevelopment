@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LOOT_HISTORY_ROLL_CHANGED(historyIndex, playerIndex)]]></content>
+	<tabTrigger>_LOOT_HISTORY_ROLL_CHANGED</tabTrigger>
+	<description>(historyIndex, playerIndex)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

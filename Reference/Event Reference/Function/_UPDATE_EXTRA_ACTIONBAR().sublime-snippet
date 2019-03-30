@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UPDATE_EXTRA_ACTIONBAR()]]></content>
+	<tabTrigger>_UPDATE_EXTRA_ACTIONBAR</tabTrigger>
+	<description>()</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

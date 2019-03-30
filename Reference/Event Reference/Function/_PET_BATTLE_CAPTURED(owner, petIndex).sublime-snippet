@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PET_BATTLE_CAPTURED(owner, petIndex)]]></content>
+	<tabTrigger>_PET_BATTLE_CAPTURED</tabTrigger>
+	<description>(owner, petIndex)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

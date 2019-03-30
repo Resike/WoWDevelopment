@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ADDON_ACTION_BLOCKED(isTainted, function)]]></content>
+	<tabTrigger>_ADDON_ACTION_BLOCKED</tabTrigger>
+	<description>(isTainted, function)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

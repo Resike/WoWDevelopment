@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TUTORIAL_HIGHLIGHT_SPELL(spellID, tutorialGlobalStringTag)]]></content>
+	<tabTrigger>_TUTORIAL_HIGHLIGHT_SPELL</tabTrigger>
+	<description>(spellID, tutorialGlobalStringTag)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

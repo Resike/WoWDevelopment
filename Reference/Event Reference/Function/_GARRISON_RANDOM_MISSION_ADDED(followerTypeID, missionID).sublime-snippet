@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GARRISON_RANDOM_MISSION_ADDED(followerTypeID, missionID)]]></content>
+	<tabTrigger>_GARRISON_RANDOM_MISSION_ADDED</tabTrigger>
+	<description>(followerTypeID, missionID)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

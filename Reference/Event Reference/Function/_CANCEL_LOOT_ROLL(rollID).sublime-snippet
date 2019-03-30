@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CANCEL_LOOT_ROLL(rollID)]]></content>
+	<tabTrigger>_CANCEL_LOOT_ROLL</tabTrigger>
+	<description>(rollID)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

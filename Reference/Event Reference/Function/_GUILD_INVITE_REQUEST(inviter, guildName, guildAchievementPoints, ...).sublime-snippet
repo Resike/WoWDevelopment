@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILD_INVITE_REQUEST(inviter, guildName, guildAchievementPoints, ...)]]></content>
+	<tabTrigger>_GUILD_INVITE_REQUEST</tabTrigger>
+	<description>(inviter, guildName, guildAchievementPoints, ...)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

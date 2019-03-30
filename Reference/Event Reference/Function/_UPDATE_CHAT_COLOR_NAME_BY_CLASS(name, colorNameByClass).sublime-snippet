@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UPDATE_CHAT_COLOR_NAME_BY_CLASS(name, colorNameByClass)]]></content>
+	<tabTrigger>_UPDATE_CHAT_COLOR_NAME_BY_CLASS</tabTrigger>
+	<description>(name, colorNameByClass)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

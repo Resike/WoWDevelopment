@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[INSTANCE_LOCK_START()]]></content>
+	<tabTrigger>_INSTANCE_LOCK_START</tabTrigger>
+	<description>()</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

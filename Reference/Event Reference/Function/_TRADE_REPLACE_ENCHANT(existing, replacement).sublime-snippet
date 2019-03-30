@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TRADE_REPLACE_ENCHANT(existing, replacement)]]></content>
+	<tabTrigger>_TRADE_REPLACE_ENCHANT</tabTrigger>
+	<description>(existing, replacement)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

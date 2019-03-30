@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SPELL_UPDATE_USABLE()]]></content>
+	<tabTrigger>_SPELL_UPDATE_USABLE</tabTrigger>
+	<description>()</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LFG_ROLE_CHECK_ROLE_CHOSEN(name, isTank, isHealer, isDamage)]]></content>
+	<tabTrigger>_LFG_ROLE_CHECK_ROLE_CHOSEN</tabTrigger>
+	<description>(name, isTank, isHealer, isDamage)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

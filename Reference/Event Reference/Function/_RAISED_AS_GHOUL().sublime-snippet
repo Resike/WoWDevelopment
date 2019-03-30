@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RAISED_AS_GHOUL()]]></content>
+	<tabTrigger>_RAISED_AS_GHOUL</tabTrigger>
+	<description>()</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

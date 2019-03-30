@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHANNEL_VOICE_UPDATE(displayIndex, voiceEnabled, voiceActive)]]></content>
+	<tabTrigger>_CHANNEL_VOICE_UPDATE</tabTrigger>
+	<description>(displayIndex, voiceEnabled, voiceActive)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FORBIDDEN_NAME_PLATE_UNIT_ADDED(unitToken)]]></content>
+	<tabTrigger>_FORBIDDEN_NAME_PLATE_UNIT_ADDED</tabTrigger>
+	<description>(unitToken)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

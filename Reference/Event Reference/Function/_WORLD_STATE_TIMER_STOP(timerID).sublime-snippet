@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WORLD_STATE_TIMER_STOP(timerID)]]></content>
+	<tabTrigger>_WORLD_STATE_TIMER_STOP</tabTrigger>
+	<description>(timerID)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

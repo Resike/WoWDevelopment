@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PLAYER_TRADE_CURRENCY()]]></content>
+	<tabTrigger>_PLAYER_TRADE_CURRENCY</tabTrigger>
+	<description>()</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

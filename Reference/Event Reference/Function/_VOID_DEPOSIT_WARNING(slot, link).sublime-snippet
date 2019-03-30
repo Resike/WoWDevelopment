@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VOID_DEPOSIT_WARNING(slot, link)]]></content>
+	<tabTrigger>_VOID_DEPOSIT_WARNING</tabTrigger>
+	<description>(slot, link)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

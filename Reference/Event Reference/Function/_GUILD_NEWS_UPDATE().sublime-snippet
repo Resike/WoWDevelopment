@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILD_NEWS_UPDATE()]]></content>
+	<tabTrigger>_GUILD_NEWS_UPDATE</tabTrigger>
+	<description>()</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

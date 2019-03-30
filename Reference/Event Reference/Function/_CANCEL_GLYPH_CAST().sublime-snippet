@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CANCEL_GLYPH_CAST()]]></content>
+	<tabTrigger>_CANCEL_GLYPH_CAST</tabTrigger>
+	<description>()</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

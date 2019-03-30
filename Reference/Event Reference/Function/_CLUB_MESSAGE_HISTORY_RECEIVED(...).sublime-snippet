@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLUB_MESSAGE_HISTORY_RECEIVED(${1:...})$0]]></content>
+	<tabTrigger>CLUB_MESSAGE_HISTORY_RECEIVED</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

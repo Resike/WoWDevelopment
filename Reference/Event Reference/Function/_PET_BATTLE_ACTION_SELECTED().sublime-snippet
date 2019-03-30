@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PET_BATTLE_ACTION_SELECTED()]]></content>
+	<tabTrigger>_PET_BATTLE_ACTION_SELECTED</tabTrigger>
+	<description>()</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

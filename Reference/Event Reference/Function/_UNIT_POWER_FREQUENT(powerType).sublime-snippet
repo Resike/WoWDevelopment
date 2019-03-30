@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UNIT_POWER_FREQUENT(powerType)]]></content>
+	<tabTrigger>_UNIT_POWER_FREQUENT</tabTrigger>
+	<description>(powerType)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

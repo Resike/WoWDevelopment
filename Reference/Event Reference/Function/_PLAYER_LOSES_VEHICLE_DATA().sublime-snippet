@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PLAYER_LOSES_VEHICLE_DATA()]]></content>
+	<tabTrigger>_PLAYER_LOSES_VEHICLE_DATA</tabTrigger>
+	<description>()</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

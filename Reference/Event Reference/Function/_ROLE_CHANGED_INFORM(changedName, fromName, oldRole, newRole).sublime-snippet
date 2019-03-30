@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ROLE_CHANGED_INFORM(changedName, fromName, oldRole, newRole)]]></content>
+	<tabTrigger>_ROLE_CHANGED_INFORM</tabTrigger>
+	<description>(changedName, fromName, oldRole, newRole)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

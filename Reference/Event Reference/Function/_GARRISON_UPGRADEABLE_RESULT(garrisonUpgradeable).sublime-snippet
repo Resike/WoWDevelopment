@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GARRISON_UPGRADEABLE_RESULT(garrisonUpgradeable)]]></content>
+	<tabTrigger>_GARRISON_UPGRADEABLE_RESULT</tabTrigger>
+	<description>(garrisonUpgradeable)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

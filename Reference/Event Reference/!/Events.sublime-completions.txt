@@ -1,0 +1,4689 @@
+{
+	"scope": "source.lua string - string.frametype - string.blendmode - string.stratatype - string.animationtype - string.looptype - string.smoothtype - string.scripttype - string.attribtype - string.slottype - string.fontflag - string.orienttype - string.buttonstate - string.cvartype - string.drawlayer - string.anchortype - string.anchortype-horizontal - string.anchortype-vertical - string.anchortype-tooltip - string.template.animation - string.template.fontstring - string.template.frame - string.template.texture",
+	"completions": [
+		{
+			"trigger": "ACHIEVEMENT_EARNED\t\"event\"",
+			"contents": "ACHIEVEMENT_EARNED",
+		},
+		{
+			"trigger": "ACHIEVEMENT_PLAYER_NAME\t\"event\"",
+			"contents": "ACHIEVEMENT_PLAYER_NAME",
+		},
+		{
+			"trigger": "ACHIEVEMENT_SEARCH_UPDATED\t\"event\"",
+			"contents": "ACHIEVEMENT_SEARCH_UPDATED",
+		},
+		{
+			"trigger": "ACTION_WILL_BIND_ITEM\t\"event\"",
+			"contents": "ACTION_WILL_BIND_ITEM",
+		},
+		{
+			"trigger": "ACTIONBAR_HIDEGRID\t\"event\"",
+			"contents": "ACTIONBAR_HIDEGRID",
+		},
+		{
+			"trigger": "ACTIONBAR_PAGE_CHANGED\t\"event\"",
+			"contents": "ACTIONBAR_PAGE_CHANGED",
+		},
+		{
+			"trigger": "ACTIONBAR_SHOW_BOTTOMLEFT\t\"event\"",
+			"contents": "ACTIONBAR_SHOW_BOTTOMLEFT",
+		},
+		{
+			"trigger": "ACTIONBAR_SHOWGRID\t\"event\"",
+			"contents": "ACTIONBAR_SHOWGRID",
+		},
+		{
+			"trigger": "ACTIONBAR_SLOT_CHANGED\t\"event\"",
+			"contents": "ACTIONBAR_SLOT_CHANGED",
+		},
+		{
+			"trigger": "ACTIONBAR_UPDATE_COOLDOWN\t\"event\"",
+			"contents": "ACTIONBAR_UPDATE_COOLDOWN",
+		},
+		{
+			"trigger": "ACTIONBAR_UPDATE_STATE\t\"event\"",
+			"contents": "ACTIONBAR_UPDATE_STATE",
+		},
+		{
+			"trigger": "ACTIONBAR_UPDATE_USABLE\t\"event\"",
+			"contents": "ACTIONBAR_UPDATE_USABLE",
+		},
+		{
+			"trigger": "ACTIVATE_GLYPH\t\"event\"",
+			"contents": "ACTIVATE_GLYPH",
+		},
+		{
+			"trigger": "ACTIVE_TALENT_GROUP_CHANGED\t\"event\"",
+			"contents": "ACTIVE_TALENT_GROUP_CHANGED",
+		},
+		{
+			"trigger": "ADDON_ACTION_BLOCKED\t\"event\"",
+			"contents": "ADDON_ACTION_BLOCKED",
+		},
+		{
+			"trigger": "ADDON_ACTION_FORBIDDEN\t\"event\"",
+			"contents": "ADDON_ACTION_FORBIDDEN",
+		},
+		{
+			"trigger": "ADDON_LOADED\t\"event\"",
+			"contents": "ADDON_LOADED",
+		},
+		{
+			"trigger": "ADDONS_UNLOADING\t\"event\"",
+			"contents": "ADDONS_UNLOADING",
+		},
+		{
+			"trigger": "ADVENTURE_MAP_CLOSE\t\"event\"",
+			"contents": "ADVENTURE_MAP_CLOSE",
+		},
+		{
+			"trigger": "ADVENTURE_MAP_OPEN\t\"event\"",
+			"contents": "ADVENTURE_MAP_OPEN",
+		},
+		{
+			"trigger": "ADVENTURE_MAP_QUEST_UPDATE\t\"event\"",
+			"contents": "ADVENTURE_MAP_QUEST_UPDATE",
+		},
+		{
+			"trigger": "ADVENTURE_MAP_UPDATE_INSETS\t\"event\"",
+			"contents": "ADVENTURE_MAP_UPDATE_INSETS",
+		},
+		{
+			"trigger": "ADVENTURE_MAP_UPDATE_POIS\t\"event\"",
+			"contents": "ADVENTURE_MAP_UPDATE_POIS",
+		},
+		{
+			"trigger": "AJ_DUNGEON_ACTION\t\"event\"",
+			"contents": "AJ_DUNGEON_ACTION",
+		},
+		{
+			"trigger": "AJ_OPEN\t\"event\"",
+			"contents": "AJ_OPEN",
+		},
+		{
+			"trigger": "AJ_PVE_LFG_ACTION\t\"event\"",
+			"contents": "AJ_PVE_LFG_ACTION",
+		},
+		{
+			"trigger": "AJ_PVP_ACTION\t\"event\"",
+			"contents": "AJ_PVP_ACTION",
+		},
+		{
+			"trigger": "AJ_PVP_LFG_ACTION\t\"event\"",
+			"contents": "AJ_PVP_LFG_ACTION",
+		},
+		{
+			"trigger": "AJ_PVP_RBG_ACTION\t\"event\"",
+			"contents": "AJ_PVP_RBG_ACTION",
+		},
+		{
+			"trigger": "AJ_PVP_SKIRMISH_ACTION\t\"event\"",
+			"contents": "AJ_PVP_SKIRMISH_ACTION",
+		},
+		{
+			"trigger": "AJ_QUEST_LOG_OPEN\t\"event\"",
+			"contents": "AJ_QUEST_LOG_OPEN",
+		},
+		{
+			"trigger": "AJ_RAID_ACTION\t\"event\"",
+			"contents": "AJ_RAID_ACTION",
+		},
+		{
+			"trigger": "AJ_REFRESH_DISPLAY\t\"event\"",
+			"contents": "AJ_REFRESH_DISPLAY",
+		},
+		{
+			"trigger": "AJ_REWARD_DATA_RECEIVED\t\"event\"",
+			"contents": "AJ_REWARD_DATA_RECEIVED",
+		},
+		{
+			"trigger": "ALLIED_RACE_CLOSE\t\"event\"",
+			"contents": "ALLIED_RACE_CLOSE",
+		},
+		{
+			"trigger": "ALLIED_RACE_OPEN\t\"event\"",
+			"contents": "ALLIED_RACE_OPEN",
+		},
+		{
+			"trigger": "ALTERNATIVE_DEFAULT_LANGUAGE_CHANGED\t\"event\"",
+			"contents": "ALTERNATIVE_DEFAULT_LANGUAGE_CHANGED",
+		},
+		{
+			"trigger": "ARCHAEOLOGY_CLOSED\t\"event\"",
+			"contents": "ARCHAEOLOGY_CLOSED",
+		},
+		{
+			"trigger": "ARCHAEOLOGY_FIND_COMPLETE\t\"event\"",
+			"contents": "ARCHAEOLOGY_FIND_COMPLETE",
+		},
+		{
+			"trigger": "ARCHAEOLOGY_SURVEY_CAST\t\"event\"",
+			"contents": "ARCHAEOLOGY_SURVEY_CAST",
+		},
+		{
+			"trigger": "ARCHAEOLOGY_TOGGLE\t\"event\"",
+			"contents": "ARCHAEOLOGY_TOGGLE",
+		},
+		{
+			"trigger": "AREA_POIS_UPDATED\t\"event\"",
+			"contents": "AREA_POIS_UPDATED",
+		},
+		{
+			"trigger": "AREA_SPIRIT_HEALER_IN_RANGE\t\"event\"",
+			"contents": "AREA_SPIRIT_HEALER_IN_RANGE",
+		},
+		{
+			"trigger": "AREA_SPIRIT_HEALER_OUT_OF_RANGE\t\"event\"",
+			"contents": "AREA_SPIRIT_HEALER_OUT_OF_RANGE",
+		},
+		{
+			"trigger": "ARENA_COOLDOWNS_UPDATE\t\"event\"",
+			"contents": "ARENA_COOLDOWNS_UPDATE",
+		},
+		{
+			"trigger": "ARENA_CROWD_CONTROL_SPELL_UPDATE\t\"event\"",
+			"contents": "ARENA_CROWD_CONTROL_SPELL_UPDATE",
+		},
+		{
+			"trigger": "ARENA_OPPONENT_UPDATE\t\"event\"",
+			"contents": "ARENA_OPPONENT_UPDATE",
+		},
+		{
+			"trigger": "ARENA_PREP_OPPONENT_SPECIALIZATIONS\t\"event\"",
+			"contents": "ARENA_PREP_OPPONENT_SPECIALIZATIONS",
+		},
+		{
+			"trigger": "ARENA_SEASON_WORLD_STATE\t\"event\"",
+			"contents": "ARENA_SEASON_WORLD_STATE",
+		},
+		{
+			"trigger": "ARTIFACT_CLOSE\t\"event\"",
+			"contents": "ARTIFACT_CLOSE",
+		},
+		{
+			"trigger": "ARTIFACT_DIGSITE_COMPLETE\t\"event\"",
+			"contents": "ARTIFACT_DIGSITE_COMPLETE",
+		},
+		{
+			"trigger": "ARTIFACT_ENDGAME_REFUND\t\"event\"",
+			"contents": "ARTIFACT_ENDGAME_REFUND",
+		},
+		{
+			"trigger": "ARTIFACT_RELIC_FORGE_CLOSE\t\"event\"",
+			"contents": "ARTIFACT_RELIC_FORGE_CLOSE",
+		},
+		{
+			"trigger": "ARTIFACT_RELIC_FORGE_PREVIEW_RELIC_CHANGED\t\"event\"",
+			"contents": "ARTIFACT_RELIC_FORGE_PREVIEW_RELIC_CHANGED",
+		},
+		{
+			"trigger": "ARTIFACT_RELIC_FORGE_UPDATE\t\"event\"",
+			"contents": "ARTIFACT_RELIC_FORGE_UPDATE",
+		},
+		{
+			"trigger": "ARTIFACT_RELIC_INFO_RECEIVED\t\"event\"",
+			"contents": "ARTIFACT_RELIC_INFO_RECEIVED",
+		},
+		{
+			"trigger": "ARTIFACT_RESPEC_PROMPT\t\"event\"",
+			"contents": "ARTIFACT_RESPEC_PROMPT",
+		},
+		{
+			"trigger": "ARTIFACT_TIER_CHANGED\t\"event\"",
+			"contents": "ARTIFACT_TIER_CHANGED",
+		},
+		{
+			"trigger": "ARTIFACT_UPDATE\t\"event\"",
+			"contents": "ARTIFACT_UPDATE",
+		},
+		{
+			"trigger": "ARTIFACT_XP_UPDATE\t\"event\"",
+			"contents": "ARTIFACT_XP_UPDATE",
+		},
+		{
+			"trigger": "AUCTION_BIDDER_LIST_UPDATE\t\"event\"",
+			"contents": "AUCTION_BIDDER_LIST_UPDATE",
+		},
+		{
+			"trigger": "AUCTION_HOUSE_CLOSED\t\"event\"",
+			"contents": "AUCTION_HOUSE_CLOSED",
+		},
+		{
+			"trigger": "AUCTION_HOUSE_DISABLED\t\"event\"",
+			"contents": "AUCTION_HOUSE_DISABLED",
+		},
+		{
+			"trigger": "AUCTION_HOUSE_SCRIPT_DEPRECATED\t\"event\"",
+			"contents": "AUCTION_HOUSE_SCRIPT_DEPRECATED",
+		},
+		{
+			"trigger": "AUCTION_HOUSE_SHOW\t\"event\"",
+			"contents": "AUCTION_HOUSE_SHOW",
+		},
+		{
+			"trigger": "AUCTION_ITEM_LIST_UPDATE\t\"event\"",
+			"contents": "AUCTION_ITEM_LIST_UPDATE",
+		},
+		{
+			"trigger": "AUCTION_MULTISELL_FAILURE\t\"event\"",
+			"contents": "AUCTION_MULTISELL_FAILURE",
+		},
+		{
+			"trigger": "AUCTION_MULTISELL_START\t\"event\"",
+			"contents": "AUCTION_MULTISELL_START",
+		},
+		{
+			"trigger": "AUCTION_MULTISELL_UPDATE\t\"event\"",
+			"contents": "AUCTION_MULTISELL_UPDATE",
+		},
+		{
+			"trigger": "AUCTION_OWNED_LIST_UPDATE\t\"event\"",
+			"contents": "AUCTION_OWNED_LIST_UPDATE",
+		},
+		{
+			"trigger": "AUTH_CHALLENGE_FINISHED\t\"event\"",
+			"contents": "AUTH_CHALLENGE_FINISHED",
+		},
+		{
+			"trigger": "AUTH_CHALLENGE_UI_INVALID\t\"event\"",
+			"contents": "AUTH_CHALLENGE_UI_INVALID",
+		},
+		{
+			"trigger": "AUTOFOLLOW_BEGIN\t\"event\"",
+			"contents": "AUTOFOLLOW_BEGIN",
+		},
+		{
+			"trigger": "AUTOFOLLOW_END\t\"event\"",
+			"contents": "AUTOFOLLOW_END",
+		},
+		{
+			"trigger": "AVATAR_LIST_UPDATED\t\"event\"",
+			"contents": "AVATAR_LIST_UPDATED",
+		},
+		{
+			"trigger": "AVOIDANCE_UPDATE\t\"event\"",
+			"contents": "AVOIDANCE_UPDATE",
+		},
+		{
+			"trigger": "AZERITE_EMPOWERED_ITEM_EQUIPPED_STATUS_CHANGED\t\"event\"",
+			"contents": "AZERITE_EMPOWERED_ITEM_EQUIPPED_STATUS_CHANGED",
+		},
+		{
+			"trigger": "AZERITE_EMPOWERED_ITEM_LOOTED\t\"event\"",
+			"contents": "AZERITE_EMPOWERED_ITEM_LOOTED",
+		},
+		{
+			"trigger": "AZERITE_EMPOWERED_ITEM_NEW_TIER_AVAILABLE\t\"event\"",
+			"contents": "AZERITE_EMPOWERED_ITEM_NEW_TIER_AVAILABLE",
+		},
+		{
+			"trigger": "AZERITE_EMPOWERED_ITEM_SELECTION_UPDATED\t\"event\"",
+			"contents": "AZERITE_EMPOWERED_ITEM_SELECTION_UPDATED",
+		},
+		{
+			"trigger": "AZERITE_ITEM_EXPERIENCE_CHANGED\t\"event\"",
+			"contents": "AZERITE_ITEM_EXPERIENCE_CHANGED",
+		},
+		{
+			"trigger": "AZERITE_ITEM_POWER_LEVEL_CHANGED\t\"event\"",
+			"contents": "AZERITE_ITEM_POWER_LEVEL_CHANGED",
+		},
+		{
+			"trigger": "BAG_CLOSED\t\"event\"",
+			"contents": "BAG_CLOSED",
+		},
+		{
+			"trigger": "BAG_NEW_ITEMS_UPDATED\t\"event\"",
+			"contents": "BAG_NEW_ITEMS_UPDATED",
+		},
+		{
+			"trigger": "BAG_OPEN\t\"event\"",
+			"contents": "BAG_OPEN",
+		},
+		{
+			"trigger": "BAG_OVERFLOW_WITH_FULL_INVENTORY\t\"event\"",
+			"contents": "BAG_OVERFLOW_WITH_FULL_INVENTORY",
+		},
+		{
+			"trigger": "BAG_SLOT_FLAGS_UPDATED\t\"event\"",
+			"contents": "BAG_SLOT_FLAGS_UPDATED",
+		},
+		{
+			"trigger": "BAG_UPDATE\t\"event\"",
+			"contents": "BAG_UPDATE",
+		},
+		{
+			"trigger": "BAG_UPDATE_COOLDOWN\t\"event\"",
+			"contents": "BAG_UPDATE_COOLDOWN",
+		},
+		{
+			"trigger": "BAG_UPDATE_DELAYED\t\"event\"",
+			"contents": "BAG_UPDATE_DELAYED",
+		},
+		{
+			"trigger": "BANK_BAG_SLOT_FLAGS_UPDATED\t\"event\"",
+			"contents": "BANK_BAG_SLOT_FLAGS_UPDATED",
+		},
+		{
+			"trigger": "BANKFRAME_CLOSED\t\"event\"",
+			"contents": "BANKFRAME_CLOSED",
+		},
+		{
+			"trigger": "BANKFRAME_OPENED\t\"event\"",
+			"contents": "BANKFRAME_OPENED",
+		},
+		{
+			"trigger": "BARBER_SHOP_APPEARANCE_APPLIED\t\"event\"",
+			"contents": "BARBER_SHOP_APPEARANCE_APPLIED",
+		},
+		{
+			"trigger": "BARBER_SHOP_CLOSE\t\"event\"",
+			"contents": "BARBER_SHOP_CLOSE",
+		},
+		{
+			"trigger": "BARBER_SHOP_COST_UPDATE\t\"event\"",
+			"contents": "BARBER_SHOP_COST_UPDATE",
+		},
+		{
+			"trigger": "BARBER_SHOP_OPEN\t\"event\"",
+			"contents": "BARBER_SHOP_OPEN",
+		},
+		{
+			"trigger": "BARBER_SHOP_SUCCESS\t\"event\"",
+			"contents": "BARBER_SHOP_SUCCESS",
+		},
+		{
+			"trigger": "BATTLE_PET_CURSOR_CLEAR\t\"event\"",
+			"contents": "BATTLE_PET_CURSOR_CLEAR",
+		},
+		{
+			"trigger": "BATTLEFIELD_QUEUE_TIMEOUT\t\"event\"",
+			"contents": "BATTLEFIELD_QUEUE_TIMEOUT",
+		},
+		{
+			"trigger": "BATTLEFIELDS_CLOSED\t\"event\"",
+			"contents": "BATTLEFIELDS_CLOSED",
+		},
+		{
+			"trigger": "BATTLEFIELDS_SHOW\t\"event\"",
+			"contents": "BATTLEFIELDS_SHOW",
+		},
+		{
+			"trigger": "BATTLEGROUND_OBJECTIVES_UPDATE\t\"event\"",
+			"contents": "BATTLEGROUND_OBJECTIVES_UPDATE",
+		},
+		{
+			"trigger": "BATTLEGROUND_POINTS_UPDATE\t\"event\"",
+			"contents": "BATTLEGROUND_POINTS_UPDATE",
+		},
+		{
+			"trigger": "BATTLEPET_FORCE_NAME_DECLENSION\t\"event\"",
+			"contents": "BATTLEPET_FORCE_NAME_DECLENSION",
+		},
+		{
+			"trigger": "BATTLETAG_INVITE_SHOW\t\"event\"",
+			"contents": "BATTLETAG_INVITE_SHOW",
+		},
+		{
+			"trigger": "BILLING_NAG_DIALOG\t\"event\"",
+			"contents": "BILLING_NAG_DIALOG",
+		},
+		{
+			"trigger": "BIND_ENCHANT\t\"event\"",
+			"contents": "BIND_ENCHANT",
+		},
+		{
+			"trigger": "BLACK_MARKET_BID_RESULT\t\"event\"",
+			"contents": "BLACK_MARKET_BID_RESULT",
+		},
+		{
+			"trigger": "BLACK_MARKET_CLOSE\t\"event\"",
+			"contents": "BLACK_MARKET_CLOSE",
+		},
+		{
+			"trigger": "BLACK_MARKET_ITEM_UPDATE\t\"event\"",
+			"contents": "BLACK_MARKET_ITEM_UPDATE",
+		},
+		{
+			"trigger": "BLACK_MARKET_OPEN\t\"event\"",
+			"contents": "BLACK_MARKET_OPEN",
+		},
+		{
+			"trigger": "BLACK_MARKET_OUTBID\t\"event\"",
+			"contents": "BLACK_MARKET_OUTBID",
+		},
+		{
+			"trigger": "BLACK_MARKET_UNAVAILABLE\t\"event\"",
+			"contents": "BLACK_MARKET_UNAVAILABLE",
+		},
+		{
+			"trigger": "BLACK_MARKET_WON\t\"event\"",
+			"contents": "BLACK_MARKET_WON",
+		},
+		{
+			"trigger": "BN_BLOCK_FAILED_TOO_MANY\t\"event\"",
+			"contents": "BN_BLOCK_FAILED_TOO_MANY",
+		},
+		{
+			"trigger": "BN_BLOCK_LIST_UPDATED\t\"event\"",
+			"contents": "BN_BLOCK_LIST_UPDATED",
+		},
+		{
+			"trigger": "BN_CHAT_MSG_ADDON\t\"event\"",
+			"contents": "BN_CHAT_MSG_ADDON",
+		},
+		{
+			"trigger": "BN_CHAT_WHISPER_UNDELIVERABLE\t\"event\"",
+			"contents": "BN_CHAT_WHISPER_UNDELIVERABLE",
+		},
+		{
+			"trigger": "BN_CONNECTED\t\"event\"",
+			"contents": "BN_CONNECTED",
+		},
+		{
+			"trigger": "BN_CUSTOM_MESSAGE_CHANGED\t\"event\"",
+			"contents": "BN_CUSTOM_MESSAGE_CHANGED",
+		},
+		{
+			"trigger": "BN_CUSTOM_MESSAGE_LOADED\t\"event\"",
+			"contents": "BN_CUSTOM_MESSAGE_LOADED",
+		},
+		{
+			"trigger": "BN_DISCONNECTED\t\"event\"",
+			"contents": "BN_DISCONNECTED",
+		},
+		{
+			"trigger": "BN_FRIEND_ACCOUNT_OFFLINE\t\"event\"",
+			"contents": "BN_FRIEND_ACCOUNT_OFFLINE",
+		},
+		{
+			"trigger": "BN_FRIEND_ACCOUNT_ONLINE\t\"event\"",
+			"contents": "BN_FRIEND_ACCOUNT_ONLINE",
+		},
+		{
+			"trigger": "BN_FRIEND_INFO_CHANGED\t\"event\"",
+			"contents": "BN_FRIEND_INFO_CHANGED",
+		},
+		{
+			"trigger": "BN_FRIEND_INVITE_ADDED\t\"event\"",
+			"contents": "BN_FRIEND_INVITE_ADDED",
+		},
+		{
+			"trigger": "BN_FRIEND_INVITE_LIST_INITIALIZED\t\"event\"",
+			"contents": "BN_FRIEND_INVITE_LIST_INITIALIZED",
+		},
+		{
+			"trigger": "BN_FRIEND_INVITE_REMOVED\t\"event\"",
+			"contents": "BN_FRIEND_INVITE_REMOVED",
+		},
+		{
+			"trigger": "BN_FRIEND_LIST_SIZE_CHANGED\t\"event\"",
+			"contents": "BN_FRIEND_LIST_SIZE_CHANGED",
+		},
+		{
+			"trigger": "BN_INFO_CHANGED\t\"event\"",
+			"contents": "BN_INFO_CHANGED",
+		},
+		{
+			"trigger": "BN_REQUEST_FOF_SUCCEEDED\t\"event\"",
+			"contents": "BN_REQUEST_FOF_SUCCEEDED",
+		},
+		{
+			"trigger": "BONUS_ROLL_ACTIVATE\t\"event\"",
+			"contents": "BONUS_ROLL_ACTIVATE",
+		},
+		{
+			"trigger": "BONUS_ROLL_DEACTIVATE\t\"event\"",
+			"contents": "BONUS_ROLL_DEACTIVATE",
+		},
+		{
+			"trigger": "BONUS_ROLL_FAILED\t\"event\"",
+			"contents": "BONUS_ROLL_FAILED",
+		},
+		{
+			"trigger": "BONUS_ROLL_RESULT\t\"event\"",
+			"contents": "BONUS_ROLL_RESULT",
+		},
+		{
+			"trigger": "BONUS_ROLL_STARTED\t\"event\"",
+			"contents": "BONUS_ROLL_STARTED",
+		},
+		{
+			"trigger": "BOSS_KILL\t\"event\"",
+			"contents": "BOSS_KILL",
+		},
+		{
+			"trigger": "CALENDAR_ACTION_PENDING\t\"event\"",
+			"contents": "CALENDAR_ACTION_PENDING",
+		},
+		{
+			"trigger": "CALENDAR_CLOSE_EVENT\t\"event\"",
+			"contents": "CALENDAR_CLOSE_EVENT",
+		},
+		{
+			"trigger": "CALENDAR_EVENT_ALARM\t\"event\"",
+			"contents": "CALENDAR_EVENT_ALARM",
+		},
+		{
+			"trigger": "CALENDAR_NEW_EVENT\t\"event\"",
+			"contents": "CALENDAR_NEW_EVENT",
+		},
+		{
+			"trigger": "CALENDAR_OPEN_EVENT\t\"event\"",
+			"contents": "CALENDAR_OPEN_EVENT",
+		},
+		{
+			"trigger": "CALENDAR_UPDATE_ERROR\t\"event\"",
+			"contents": "CALENDAR_UPDATE_ERROR",
+		},
+		{
+			"trigger": "CALENDAR_UPDATE_ERROR_WITH_COUNT\t\"event\"",
+			"contents": "CALENDAR_UPDATE_ERROR_WITH_COUNT",
+		},
+		{
+			"trigger": "CALENDAR_UPDATE_ERROR_WITH_PLAYER_NAME\t\"event\"",
+			"contents": "CALENDAR_UPDATE_ERROR_WITH_PLAYER_NAME",
+		},
+		{
+			"trigger": "CALENDAR_UPDATE_EVENT\t\"event\"",
+			"contents": "CALENDAR_UPDATE_EVENT",
+		},
+		{
+			"trigger": "CALENDAR_UPDATE_EVENT_LIST\t\"event\"",
+			"contents": "CALENDAR_UPDATE_EVENT_LIST",
+		},
+		{
+			"trigger": "CALENDAR_UPDATE_GUILD_EVENTS\t\"event\"",
+			"contents": "CALENDAR_UPDATE_GUILD_EVENTS",
+		},
+		{
+			"trigger": "CALENDAR_UPDATE_INVITE_LIST\t\"event\"",
+			"contents": "CALENDAR_UPDATE_INVITE_LIST",
+		},
+		{
+			"trigger": "CALENDAR_UPDATE_PENDING_INVITES\t\"event\"",
+			"contents": "CALENDAR_UPDATE_PENDING_INVITES",
+		},
+		{
+			"trigger": "CANCEL_GLYPH_CAST\t\"event\"",
+			"contents": "CANCEL_GLYPH_CAST",
+		},
+		{
+			"trigger": "CANCEL_LOOT_ROLL\t\"event\"",
+			"contents": "CANCEL_LOOT_ROLL",
+		},
+		{
+			"trigger": "CANCEL_SUMMON\t\"event\"",
+			"contents": "CANCEL_SUMMON",
+		},
+		{
+			"trigger": "CAPTUREFRAMES_FAILED\t\"event\"",
+			"contents": "CAPTUREFRAMES_FAILED",
+		},
+		{
+			"trigger": "CAPTUREFRAMES_SUCCEEDED\t\"event\"",
+			"contents": "CAPTUREFRAMES_SUCCEEDED",
+		},
+		{
+			"trigger": "CEMETERY_PREFERENCE_UPDATED\t\"event\"",
+			"contents": "CEMETERY_PREFERENCE_UPDATED",
+		},
+		{
+			"trigger": "CHALLENGE_MODE_COMPLETED\t\"event\"",
+			"contents": "CHALLENGE_MODE_COMPLETED",
+		},
+		{
+			"trigger": "CHALLENGE_MODE_DEATH_COUNT_UPDATED\t\"event\"",
+			"contents": "CHALLENGE_MODE_DEATH_COUNT_UPDATED",
+		},
+		{
+			"trigger": "CHALLENGE_MODE_KEYSTONE_RECEPTABLE_OPEN\t\"event\"",
+			"contents": "CHALLENGE_MODE_KEYSTONE_RECEPTABLE_OPEN",
+		},
+		{
+			"trigger": "CHALLENGE_MODE_KEYSTONE_SLOTTED\t\"event\"",
+			"contents": "CHALLENGE_MODE_KEYSTONE_SLOTTED",
+		},
+		{
+			"trigger": "CHALLENGE_MODE_LEADERS_UPDATE\t\"event\"",
+			"contents": "CHALLENGE_MODE_LEADERS_UPDATE",
+		},
+		{
+			"trigger": "CHALLENGE_MODE_MAPS_UPDATE\t\"event\"",
+			"contents": "CHALLENGE_MODE_MAPS_UPDATE",
+		},
+		{
+			"trigger": "CHALLENGE_MODE_MEMBER_INFO_UPDATED\t\"event\"",
+			"contents": "CHALLENGE_MODE_MEMBER_INFO_UPDATED",
+		},
+		{
+			"trigger": "CHALLENGE_MODE_NEW_RECORD\t\"event\"",
+			"contents": "CHALLENGE_MODE_NEW_RECORD",
+		},
+		{
+			"trigger": "CHALLENGE_MODE_RESET\t\"event\"",
+			"contents": "CHALLENGE_MODE_RESET",
+		},
+		{
+			"trigger": "CHALLENGE_MODE_START\t\"event\"",
+			"contents": "CHALLENGE_MODE_START",
+		},
+		{
+			"trigger": "CHANNEL_COUNT_UPDATE\t\"event\"",
+			"contents": "CHANNEL_COUNT_UPDATE",
+		},
+		{
+			"trigger": "CHANNEL_FLAGS_UPDATED\t\"event\"",
+			"contents": "CHANNEL_FLAGS_UPDATED",
+		},
+		{
+			"trigger": "CHANNEL_INVITE_REQUEST\t\"event\"",
+			"contents": "CHANNEL_INVITE_REQUEST",
+		},
+		{
+			"trigger": "CHANNEL_LEFT\t\"event\"",
+			"contents": "CHANNEL_LEFT",
+		},
+		{
+			"trigger": "CHANNEL_PASSWORD_REQUEST\t\"event\"",
+			"contents": "CHANNEL_PASSWORD_REQUEST",
+		},
+		{
+			"trigger": "CHANNEL_ROSTER_UPDATE\t\"event\"",
+			"contents": "CHANNEL_ROSTER_UPDATE",
+		},
+		{
+			"trigger": "CHANNEL_UI_UPDATE\t\"event\"",
+			"contents": "CHANNEL_UI_UPDATE",
+		},
+		{
+			"trigger": "CHANNEL_VOICE_UPDATE\t\"event\"",
+			"contents": "CHANNEL_VOICE_UPDATE",
+		},
+		{
+			"trigger": "CHARACTER_ITEM_FIXUP_NOTIFICATION\t\"event\"",
+			"contents": "CHARACTER_ITEM_FIXUP_NOTIFICATION",
+		},
+		{
+			"trigger": "CHARACTER_POINTS_CHANGED\t\"event\"",
+			"contents": "CHARACTER_POINTS_CHANGED",
+		},
+		{
+			"trigger": "CHARACTER_UPGRADE_SPELL_TIER_SET\t\"event\"",
+			"contents": "CHARACTER_UPGRADE_SPELL_TIER_SET",
+		},
+		{
+			"trigger": "CHAT_COMBAT_MSG_ARENA_POINTS_GAIN\t\"event\"",
+			"contents": "CHAT_COMBAT_MSG_ARENA_POINTS_GAIN",
+		},
+		{
+			"trigger": "CHAT_MSG_ACHIEVEMENT\t\"event\"",
+			"contents": "CHAT_MSG_ACHIEVEMENT",
+		},
+		{
+			"trigger": "CHAT_MSG_ADDON\t\"event\"",
+			"contents": "CHAT_MSG_ADDON",
+		},
+		{
+			"trigger": "CHAT_MSG_ADDON_LOGGED\t\"event\"",
+			"contents": "CHAT_MSG_ADDON_LOGGED",
+		},
+		{
+			"trigger": "CHAT_MSG_AFK\t\"event\"",
+			"contents": "CHAT_MSG_AFK",
+		},
+		{
+			"trigger": "CHAT_MSG_BG_SYSTEM_ALLIANCE\t\"event\"",
+			"contents": "CHAT_MSG_BG_SYSTEM_ALLIANCE",
+		},
+		{
+			"trigger": "CHAT_MSG_BG_SYSTEM_HORDE\t\"event\"",
+			"contents": "CHAT_MSG_BG_SYSTEM_HORDE",
+		},
+		{
+			"trigger": "CHAT_MSG_BG_SYSTEM_NEUTRAL\t\"event\"",
+			"contents": "CHAT_MSG_BG_SYSTEM_NEUTRAL",
+		},
+		{
+			"trigger": "CHAT_MSG_BN\t\"event\"",
+			"contents": "CHAT_MSG_BN",
+		},
+		{
+			"trigger": "CHAT_MSG_BN_INLINE_TOAST_ALERT\t\"event\"",
+			"contents": "CHAT_MSG_BN_INLINE_TOAST_ALERT",
+		},
+		{
+			"trigger": "CHAT_MSG_BN_INLINE_TOAST_BROADCAST\t\"event\"",
+			"contents": "CHAT_MSG_BN_INLINE_TOAST_BROADCAST",
+		},
+		{
+			"trigger": "CHAT_MSG_BN_INLINE_TOAST_BROADCAST_INFORM\t\"event\"",
+			"contents": "CHAT_MSG_BN_INLINE_TOAST_BROADCAST_INFORM",
+		},
+		{
+			"trigger": "CHAT_MSG_BN_INLINE_TOAST_CONVERSATION\t\"event\"",
+			"contents": "CHAT_MSG_BN_INLINE_TOAST_CONVERSATION",
+		},
+		{
+			"trigger": "CHAT_MSG_BN_WHISPER\t\"event\"",
+			"contents": "CHAT_MSG_BN_WHISPER",
+		},
+		{
+			"trigger": "CHAT_MSG_BN_WHISPER_INFORM\t\"event\"",
+			"contents": "CHAT_MSG_BN_WHISPER_INFORM",
+		},
+		{
+			"trigger": "CHAT_MSG_BN_WHISPER_PLAYER_OFFLINE\t\"event\"",
+			"contents": "CHAT_MSG_BN_WHISPER_PLAYER_OFFLINE",
+		},
+		{
+			"trigger": "CHAT_MSG_CHANNEL\t\"event\"",
+			"contents": "CHAT_MSG_CHANNEL",
+		},
+		{
+			"trigger": "CHAT_MSG_CHANNEL_JOIN\t\"event\"",
+			"contents": "CHAT_MSG_CHANNEL_JOIN",
+		},
+		{
+			"trigger": "CHAT_MSG_CHANNEL_LEAVE\t\"event\"",
+			"contents": "CHAT_MSG_CHANNEL_LEAVE",
+		},
+		{
+			"trigger": "CHAT_MSG_CHANNEL_LIST\t\"event\"",
+			"contents": "CHAT_MSG_CHANNEL_LIST",
+		},
+		{
+			"trigger": "CHAT_MSG_CHANNEL_NOTICE\t\"event\"",
+			"contents": "CHAT_MSG_CHANNEL_NOTICE",
+		},
+		{
+			"trigger": "CHAT_MSG_CHANNEL_NOTICE_USER\t\"event\"",
+			"contents": "CHAT_MSG_CHANNEL_NOTICE_USER",
+		},
+		{
+			"trigger": "CHAT_MSG_COMBAT_FACTION_CHANGE\t\"event\"",
+			"contents": "CHAT_MSG_COMBAT_FACTION_CHANGE",
+		},
+		{
+			"trigger": "CHAT_MSG_COMBAT_HONOR_GAIN\t\"event\"",
+			"contents": "CHAT_MSG_COMBAT_HONOR_GAIN",
+		},
+		{
+			"trigger": "CHAT_MSG_COMBAT_MISC_INFO\t\"event\"",
+			"contents": "CHAT_MSG_COMBAT_MISC_INFO",
+		},
+		{
+			"trigger": "CHAT_MSG_COMBAT_XP_GAIN\t\"event\"",
+			"contents": "CHAT_MSG_COMBAT_XP_GAIN",
+		},
+		{
+			"trigger": "CHAT_MSG_COMMUNITIES_CHANNEL\t\"event\"",
+			"contents": "CHAT_MSG_COMMUNITIES_CHANNEL",
+		},
+		{
+			"trigger": "CHAT_MSG_CURRENCY\t\"event\"",
+			"contents": "CHAT_MSG_CURRENCY",
+		},
+		{
+			"trigger": "CHAT_MSG_DND\t\"event\"",
+			"contents": "CHAT_MSG_DND",
+		},
+		{
+			"trigger": "CHAT_MSG_EMOTE\t\"event\"",
+			"contents": "CHAT_MSG_EMOTE",
+		},
+		{
+			"trigger": "CHAT_MSG_FILTERED\t\"event\"",
+			"contents": "CHAT_MSG_FILTERED",
+		},
+		{
+			"trigger": "CHAT_MSG_GUILD\t\"event\"",
+			"contents": "CHAT_MSG_GUILD",
+		},
+		{
+			"trigger": "CHAT_MSG_GUILD_ACHIEVEMENT\t\"event\"",
+			"contents": "CHAT_MSG_GUILD_ACHIEVEMENT",
+		},
+		{
+			"trigger": "CHAT_MSG_GUILD_ITEM_LOOTED\t\"event\"",
+			"contents": "CHAT_MSG_GUILD_ITEM_LOOTED",
+		},
+		{
+			"trigger": "CHAT_MSG_IGNORED\t\"event\"",
+			"contents": "CHAT_MSG_IGNORED",
+		},
+		{
+			"trigger": "CHAT_MSG_INSTANCE_CHAT\t\"event\"",
+			"contents": "CHAT_MSG_INSTANCE_CHAT",
+		},
+		{
+			"trigger": "CHAT_MSG_INSTANCE_CHAT_LEADER\t\"event\"",
+			"contents": "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		},
+		{
+			"trigger": "CHAT_MSG_LOOT\t\"event\"",
+			"contents": "CHAT_MSG_LOOT",
+		},
+		{
+			"trigger": "CHAT_MSG_MONEY\t\"event\"",
+			"contents": "CHAT_MSG_MONEY",
+		},
+		{
+			"trigger": "CHAT_MSG_MONSTER_EMOTE\t\"event\"",
+			"contents": "CHAT_MSG_MONSTER_EMOTE",
+		},
+		{
+			"trigger": "CHAT_MSG_MONSTER_PARTY\t\"event\"",
+			"contents": "CHAT_MSG_MONSTER_PARTY",
+		},
+		{
+			"trigger": "CHAT_MSG_MONSTER_SAY\t\"event\"",
+			"contents": "CHAT_MSG_MONSTER_SAY",
+		},
+		{
+			"trigger": "CHAT_MSG_MONSTER_WHISPER\t\"event\"",
+			"contents": "CHAT_MSG_MONSTER_WHISPER",
+		},
+		{
+			"trigger": "CHAT_MSG_MONSTER_YELL\t\"event\"",
+			"contents": "CHAT_MSG_MONSTER_YELL",
+		},
+		{
+			"trigger": "CHAT_MSG_OFFICER\t\"event\"",
+			"contents": "CHAT_MSG_OFFICER",
+		},
+		{
+			"trigger": "CHAT_MSG_OPENING\t\"event\"",
+			"contents": "CHAT_MSG_OPENING",
+		},
+		{
+			"trigger": "CHAT_MSG_PARTY\t\"event\"",
+			"contents": "CHAT_MSG_PARTY",
+		},
+		{
+			"trigger": "CHAT_MSG_PARTY_LEADER\t\"event\"",
+			"contents": "CHAT_MSG_PARTY_LEADER",
+		},
+		{
+			"trigger": "CHAT_MSG_PET_BATTLE_COMBAT_LOG\t\"event\"",
+			"contents": "CHAT_MSG_PET_BATTLE_COMBAT_LOG",
+		},
+		{
+			"trigger": "CHAT_MSG_PET_BATTLE_INFO\t\"event\"",
+			"contents": "CHAT_MSG_PET_BATTLE_INFO",
+		},
+		{
+			"trigger": "CHAT_MSG_PET_INFO\t\"event\"",
+			"contents": "CHAT_MSG_PET_INFO",
+		},
+		{
+			"trigger": "CHAT_MSG_RAID\t\"event\"",
+			"contents": "CHAT_MSG_RAID",
+		},
+		{
+			"trigger": "CHAT_MSG_RAID_BOSS_EMOTE\t\"event\"",
+			"contents": "CHAT_MSG_RAID_BOSS_EMOTE",
+		},
+		{
+			"trigger": "CHAT_MSG_RAID_BOSS_WHISPER\t\"event\"",
+			"contents": "CHAT_MSG_RAID_BOSS_WHISPER",
+		},
+		{
+			"trigger": "CHAT_MSG_RAID_LEADER\t\"event\"",
+			"contents": "CHAT_MSG_RAID_LEADER",
+		},
+		{
+			"trigger": "CHAT_MSG_RAID_WARNING\t\"event\"",
+			"contents": "CHAT_MSG_RAID_WARNING",
+		},
+		{
+			"trigger": "CHAT_MSG_RESTRICTED\t\"event\"",
+			"contents": "CHAT_MSG_RESTRICTED",
+		},
+		{
+			"trigger": "CHAT_MSG_SAY\t\"event\"",
+			"contents": "CHAT_MSG_SAY",
+		},
+		{
+			"trigger": "CHAT_MSG_SKILL\t\"event\"",
+			"contents": "CHAT_MSG_SKILL",
+		},
+		{
+			"trigger": "CHAT_MSG_SYSTEM\t\"event\"",
+			"contents": "CHAT_MSG_SYSTEM",
+		},
+		{
+			"trigger": "CHAT_MSG_TARGETICONS\t\"event\"",
+			"contents": "CHAT_MSG_TARGETICONS",
+		},
+		{
+			"trigger": "CHAT_MSG_TEXT_EMOTE\t\"event\"",
+			"contents": "CHAT_MSG_TEXT_EMOTE",
+		},
+		{
+			"trigger": "CHAT_MSG_TRADESKILLS\t\"event\"",
+			"contents": "CHAT_MSG_TRADESKILLS",
+		},
+		{
+			"trigger": "CHAT_MSG_WHISPER\t\"event\"",
+			"contents": "CHAT_MSG_WHISPER",
+		},
+		{
+			"trigger": "CHAT_MSG_WHISPER_INFORM\t\"event\"",
+			"contents": "CHAT_MSG_WHISPER_INFORM",
+		},
+		{
+			"trigger": "CHAT_MSG_YELL\t\"event\"",
+			"contents": "CHAT_MSG_YELL",
+		},
+		{
+			"trigger": "CHAT_SERVER_DISCONNECTED\t\"event\"",
+			"contents": "CHAT_SERVER_DISCONNECTED",
+		},
+		{
+			"trigger": "CHAT_SERVER_RECONNECTED\t\"event\"",
+			"contents": "CHAT_SERVER_RECONNECTED",
+		},
+		{
+			"trigger": "CINEMATIC_START\t\"event\"",
+			"contents": "CINEMATIC_START",
+		},
+		{
+			"trigger": "CINEMATIC_STOP\t\"event\"",
+			"contents": "CINEMATIC_STOP",
+		},
+		{
+			"trigger": "CLASS_TRIAL_TIMER_START\t\"event\"",
+			"contents": "CLASS_TRIAL_TIMER_START",
+		},
+		{
+			"trigger": "CLASS_TRIAL_UPGRADE_COMPLETE\t\"event\"",
+			"contents": "CLASS_TRIAL_UPGRADE_COMPLETE",
+		},
+		{
+			"trigger": "CLEAR_BOSS_EMOTES\t\"event\"",
+			"contents": "CLEAR_BOSS_EMOTES",
+		},
+		{
+			"trigger": "CLOSE_INBOX_ITEM\t\"event\"",
+			"contents": "CLOSE_INBOX_ITEM",
+		},
+		{
+			"trigger": "CLOSE_TABARD_FRAME\t\"event\"",
+			"contents": "CLOSE_TABARD_FRAME",
+		},
+		{
+			"trigger": "CLOSE_WORLD_MAP\t\"event\"",
+			"contents": "CLOSE_WORLD_MAP",
+		},
+		{
+			"trigger": "CLUB_ADDED\t\"event\"",
+			"contents": "CLUB_ADDED",
+		},
+		{
+			"trigger": "CLUB_ERROR\t\"event\"",
+			"contents": "CLUB_ERROR",
+		},
+		{
+			"trigger": "CLUB_INVITATION_ADDED_FOR_SELF\t\"event\"",
+			"contents": "CLUB_INVITATION_ADDED_FOR_SELF",
+		},
+		{
+			"trigger": "CLUB_INVITATION_REMOVED_FOR_SELF\t\"event\"",
+			"contents": "CLUB_INVITATION_REMOVED_FOR_SELF",
+		},
+		{
+			"trigger": "CLUB_INVITATIONS_RECEIVED_FOR_CLUB\t\"event\"",
+			"contents": "CLUB_INVITATIONS_RECEIVED_FOR_CLUB",
+		},
+		{
+			"trigger": "CLUB_MEMBER_ADDED\t\"event\"",
+			"contents": "CLUB_MEMBER_ADDED",
+		},
+		{
+			"trigger": "CLUB_MEMBER_PRESENCE_UPDATED\t\"event\"",
+			"contents": "CLUB_MEMBER_PRESENCE_UPDATED",
+		},
+		{
+			"trigger": "CLUB_MEMBER_REMOVED\t\"event\"",
+			"contents": "CLUB_MEMBER_REMOVED",
+		},
+		{
+			"trigger": "CLUB_MEMBER_ROLE_UPDATED\t\"event\"",
+			"contents": "CLUB_MEMBER_ROLE_UPDATED",
+		},
+		{
+			"trigger": "CLUB_MEMBER_UPDATED\t\"event\"",
+			"contents": "CLUB_MEMBER_UPDATED",
+		},
+		{
+			"trigger": "CLUB_MESSAGE_ADDED\t\"event\"",
+			"contents": "CLUB_MESSAGE_ADDED",
+		},
+		{
+			"trigger": "CLUB_MESSAGE_HISTORY_RECEIVED\t\"event\"",
+			"contents": "CLUB_MESSAGE_HISTORY_RECEIVED",
+		},
+		{
+			"trigger": "CLUB_MESSAGE_UPDATED\t\"event\"",
+			"contents": "CLUB_MESSAGE_UPDATED",
+		},
+		{
+			"trigger": "CLUB_REMOVED\t\"event\"",
+			"contents": "CLUB_REMOVED",
+		},
+		{
+			"trigger": "CLUB_REMOVED_MESSAGE\t\"event\"",
+			"contents": "CLUB_REMOVED_MESSAGE",
+		},
+		{
+			"trigger": "CLUB_SELF_MEMBER_ROLE_UPDATED\t\"event\"",
+			"contents": "CLUB_SELF_MEMBER_ROLE_UPDATED",
+		},
+		{
+			"trigger": "CLUB_STREAM_ADDED\t\"event\"",
+			"contents": "CLUB_STREAM_ADDED",
+		},
+		{
+			"trigger": "CLUB_STREAM_REMOVED\t\"event\"",
+			"contents": "CLUB_STREAM_REMOVED",
+		},
+		{
+			"trigger": "CLUB_STREAM_SUBSCRIBED\t\"event\"",
+			"contents": "CLUB_STREAM_SUBSCRIBED",
+		},
+		{
+			"trigger": "CLUB_STREAM_UNSUBSCRIBED\t\"event\"",
+			"contents": "CLUB_STREAM_UNSUBSCRIBED",
+		},
+		{
+			"trigger": "CLUB_STREAM_UPDATED\t\"event\"",
+			"contents": "CLUB_STREAM_UPDATED",
+		},
+		{
+			"trigger": "CLUB_STREAMS_LOADED\t\"event\"",
+			"contents": "CLUB_STREAMS_LOADED",
+		},
+		{
+			"trigger": "CLUB_TICKET_CREATED\t\"event\"",
+			"contents": "CLUB_TICKET_CREATED",
+		},
+		{
+			"trigger": "CLUB_TICKET_RECEIVED\t\"event\"",
+			"contents": "CLUB_TICKET_RECEIVED",
+		},
+		{
+			"trigger": "CLUB_TICKETS_RECEIVED\t\"event\"",
+			"contents": "CLUB_TICKETS_RECEIVED",
+		},
+		{
+			"trigger": "CLUB_UPDATED\t\"event\"",
+			"contents": "CLUB_UPDATED",
+		},
+		{
+			"trigger": "COMBAT_LOG_EVENT\t\"event\"",
+			"contents": "COMBAT_LOG_EVENT",
+		},
+		{
+			"trigger": "COMBAT_LOG_EVENT_UNFILTERED\t\"event\"",
+			"contents": "COMBAT_LOG_EVENT_UNFILTERED",
+		},
+		{
+			"trigger": "COMBAT_RATING_UPDATE\t\"event\"",
+			"contents": "COMBAT_RATING_UPDATE",
+		},
+		{
+			"trigger": "COMBAT_TEXT_UPDATE\t\"event\"",
+			"contents": "COMBAT_TEXT_UPDATE",
+		},
+		{
+			"trigger": "COMMENTATOR_ENTER_WORLD\t\"event\"",
+			"contents": "COMMENTATOR_ENTER_WORLD",
+		},
+		{
+			"trigger": "COMMENTATOR_MAP_UPDATE\t\"event\"",
+			"contents": "COMMENTATOR_MAP_UPDATE",
+		},
+		{
+			"trigger": "COMMENTATOR_PLAYER_NAME_OVERRIDE_UPDATE\t\"event\"",
+			"contents": "COMMENTATOR_PLAYER_NAME_OVERRIDE_UPDATE",
+		},
+		{
+			"trigger": "COMMENTATOR_PLAYER_UPDATE\t\"event\"",
+			"contents": "COMMENTATOR_PLAYER_UPDATE",
+		},
+		{
+			"trigger": "COMMUNITIES_STREAM_CURSOR_CLEAR\t\"event\"",
+			"contents": "COMMUNITIES_STREAM_CURSOR_CLEAR",
+		},
+		{
+			"trigger": "COMPACT_UNIT_FRAME_PROFILES_LOADED\t\"event\"",
+			"contents": "COMPACT_UNIT_FRAME_PROFILES_LOADED",
+		},
+		{
+			"trigger": "COMPANION_LEARNED\t\"event\"",
+			"contents": "COMPANION_LEARNED",
+		},
+		{
+			"trigger": "COMPANION_UNLEARNED\t\"event\"",
+			"contents": "COMPANION_UNLEARNED",
+		},
+		{
+			"trigger": "COMPANION_UPDATE\t\"event\"",
+			"contents": "COMPANION_UPDATE",
+		},
+		{
+			"trigger": "CONFIRM_BEFORE_USE\t\"event\"",
+			"contents": "CONFIRM_BEFORE_USE",
+		},
+		{
+			"trigger": "CONFIRM_BINDER\t\"event\"",
+			"contents": "CONFIRM_BINDER",
+		},
+		{
+			"trigger": "CONFIRM_DISENCHANT_ROLL\t\"event\"",
+			"contents": "CONFIRM_DISENCHANT_ROLL",
+		},
+		{
+			"trigger": "CONFIRM_LOOT_ROLL\t\"event\"",
+			"contents": "CONFIRM_LOOT_ROLL",
+		},
+		{
+			"trigger": "CONFIRM_SUMMON\t\"event\"",
+			"contents": "CONFIRM_SUMMON",
+		},
+		{
+			"trigger": "CONFIRM_TALENT_WIPE\t\"event\"",
+			"contents": "CONFIRM_TALENT_WIPE",
+		},
+		{
+			"trigger": "CONFIRM_XP_LOSS\t\"event\"",
+			"contents": "CONFIRM_XP_LOSS",
+		},
+		{
+			"trigger": "CONSOLE_CLEAR\t\"event\"",
+			"contents": "CONSOLE_CLEAR",
+		},
+		{
+			"trigger": "CONSOLE_COLORS_CHANGED\t\"event\"",
+			"contents": "CONSOLE_COLORS_CHANGED",
+		},
+		{
+			"trigger": "CONSOLE_FONT_SIZE_CHANGED\t\"event\"",
+			"contents": "CONSOLE_FONT_SIZE_CHANGED",
+		},
+		{
+			"trigger": "CONSOLE_LOG\t\"event\"",
+			"contents": "CONSOLE_LOG",
+		},
+		{
+			"trigger": "CONSOLE_MESSAGE\t\"event\"",
+			"contents": "CONSOLE_MESSAGE",
+		},
+		{
+			"trigger": "CONTRIBUTION_CHANGED\t\"event\"",
+			"contents": "CONTRIBUTION_CHANGED",
+		},
+		{
+			"trigger": "CONTRIBUTION_COLLECTOR_CLOSE\t\"event\"",
+			"contents": "CONTRIBUTION_COLLECTOR_CLOSE",
+		},
+		{
+			"trigger": "CONTRIBUTION_COLLECTOR_OPEN\t\"event\"",
+			"contents": "CONTRIBUTION_COLLECTOR_OPEN",
+		},
+		{
+			"trigger": "CONTRIBUTION_COLLECTOR_PENDING\t\"event\"",
+			"contents": "CONTRIBUTION_COLLECTOR_PENDING",
+		},
+		{
+			"trigger": "CONTRIBUTION_COLLECTOR_UPDATE\t\"event\"",
+			"contents": "CONTRIBUTION_COLLECTOR_UPDATE",
+		},
+		{
+			"trigger": "CONTRIBUTION_COLLECTOR_UPDATE_SINGLE\t\"event\"",
+			"contents": "CONTRIBUTION_COLLECTOR_UPDATE_SINGLE",
+		},
+		{
+			"trigger": "CORPSE_IN_INSTANCE\t\"event\"",
+			"contents": "CORPSE_IN_INSTANCE",
+		},
+		{
+			"trigger": "CORPSE_IN_RANGE\t\"event\"",
+			"contents": "CORPSE_IN_RANGE",
+		},
+		{
+			"trigger": "CORPSE_OUT_OF_RANGE\t\"event\"",
+			"contents": "CORPSE_OUT_OF_RANGE",
+		},
+		{
+			"trigger": "CRITERIA_COMPLETE\t\"event\"",
+			"contents": "CRITERIA_COMPLETE",
+		},
+		{
+			"trigger": "CRITERIA_EARNED\t\"event\"",
+			"contents": "CRITERIA_EARNED",
+		},
+		{
+			"trigger": "CRITERIA_UPDATE\t\"event\"",
+			"contents": "CRITERIA_UPDATE",
+		},
+		{
+			"trigger": "CURRENCY_DISPLAY_UPDATE\t\"event\"",
+			"contents": "CURRENCY_DISPLAY_UPDATE",
+		},
+		{
+			"trigger": "CURRENT_SPELL_CAST_CHANGED\t\"event\"",
+			"contents": "CURRENT_SPELL_CAST_CHANGED",
+		},
+		{
+			"trigger": "CURSOR_UPDATE\t\"event\"",
+			"contents": "CURSOR_UPDATE",
+		},
+		{
+			"trigger": "CVAR_UPDATE\t\"event\"",
+			"contents": "CVAR_UPDATE",
+		},
+		{
+			"trigger": "DEBUG_MAP_OBJECTS_UPDATED\t\"event\"",
+			"contents": "DEBUG_MAP_OBJECTS_UPDATED",
+		},
+		{
+			"trigger": "DEBUG_MENU_TOGGLED\t\"event\"",
+			"contents": "DEBUG_MENU_TOGGLED",
+		},
+		{
+			"trigger": "DEBUG_PORT_LOCS_UPDATED\t\"event\"",
+			"contents": "DEBUG_PORT_LOCS_UPDATED",
+		},
+		{
+			"trigger": "DELETE_ITEM_CONFIRM\t\"event\"",
+			"contents": "DELETE_ITEM_CONFIRM",
+		},
+		{
+			"trigger": "DISABLE_DECLINE_GUILD_INVITE\t\"event\"",
+			"contents": "DISABLE_DECLINE_GUILD_INVITE",
+		},
+		{
+			"trigger": "DISABLE_LOW_LEVEL_RAID\t\"event\"",
+			"contents": "DISABLE_LOW_LEVEL_RAID",
+		},
+		{
+			"trigger": "DISABLE_TAXI_BENCHMARK\t\"event\"",
+			"contents": "DISABLE_TAXI_BENCHMARK",
+		},
+		{
+			"trigger": "DISABLE_XP_GAIN\t\"event\"",
+			"contents": "DISABLE_XP_GAIN",
+		},
+		{
+			"trigger": "DISPLAY_SIZE_CHANGED\t\"event\"",
+			"contents": "DISPLAY_SIZE_CHANGED",
+		},
+		{
+			"trigger": "DUEL_FINISHED\t\"event\"",
+			"contents": "DUEL_FINISHED",
+		},
+		{
+			"trigger": "DUEL_INBOUNDS\t\"event\"",
+			"contents": "DUEL_INBOUNDS",
+		},
+		{
+			"trigger": "DUEL_OUTOFBOUNDS\t\"event\"",
+			"contents": "DUEL_OUTOFBOUNDS",
+		},
+		{
+			"trigger": "DUEL_REQUESTED\t\"event\"",
+			"contents": "DUEL_REQUESTED",
+		},
+		{
+			"trigger": "DYNAMIC_BUNDLE_PRICE_UPDATED\t\"event\"",
+			"contents": "DYNAMIC_BUNDLE_PRICE_UPDATED",
+		},
+		{
+			"trigger": "DYNAMIC_GOSSIP_POI_UPDATED\t\"event\"",
+			"contents": "DYNAMIC_GOSSIP_POI_UPDATED",
+		},
+		{
+			"trigger": "EJ_DIFFICULTY_UPDATE\t\"event\"",
+			"contents": "EJ_DIFFICULTY_UPDATE",
+		},
+		{
+			"trigger": "EJ_LOOT_DATA_RECIEVED\t\"event\"",
+			"contents": "EJ_LOOT_DATA_RECIEVED",
+		},
+		{
+			"trigger": "ENABLE_DECLINE_GUILD_INVITE\t\"event\"",
+			"contents": "ENABLE_DECLINE_GUILD_INVITE",
+		},
+		{
+			"trigger": "ENABLE_LOW_LEVEL_RAID\t\"event\"",
+			"contents": "ENABLE_LOW_LEVEL_RAID",
+		},
+		{
+			"trigger": "ENABLE_TAXI_BENCHMARK\t\"event\"",
+			"contents": "ENABLE_TAXI_BENCHMARK",
+		},
+		{
+			"trigger": "ENABLE_XP_GAIN\t\"event\"",
+			"contents": "ENABLE_XP_GAIN",
+		},
+		{
+			"trigger": "ENCOUNTER_END\t\"event\"",
+			"contents": "ENCOUNTER_END",
+		},
+		{
+			"trigger": "ENCOUNTER_LOOT_RECEIVED\t\"event\"",
+			"contents": "ENCOUNTER_LOOT_RECEIVED",
+		},
+		{
+			"trigger": "ENCOUNTER_START\t\"event\"",
+			"contents": "ENCOUNTER_START",
+		},
+		{
+			"trigger": "END_BOUND_TRADEABLE\t\"event\"",
+			"contents": "END_BOUND_TRADEABLE",
+		},
+		{
+			"trigger": "ENTERED_DIFFERENT_INSTANCE_FROM_PARTY\t\"event\"",
+			"contents": "ENTERED_DIFFERENT_INSTANCE_FROM_PARTY",
+		},
+		{
+			"trigger": "EQUIP_BIND_CONFIRM\t\"event\"",
+			"contents": "EQUIP_BIND_CONFIRM",
+		},
+		{
+			"trigger": "EQUIP_BIND_TRADEABLE_CONFIRM\t\"event\"",
+			"contents": "EQUIP_BIND_TRADEABLE_CONFIRM",
+		},
+		{
+			"trigger": "EQUIPMENT_SETS_CHANGED\t\"event\"",
+			"contents": "EQUIPMENT_SETS_CHANGED",
+		},
+		{
+			"trigger": "EQUIPMENT_SWAP_FINISHED\t\"event\"",
+			"contents": "EQUIPMENT_SWAP_FINISHED",
+		},
+		{
+			"trigger": "EQUIPMENT_SWAP_PENDING\t\"event\"",
+			"contents": "EQUIPMENT_SWAP_PENDING",
+		},
+		{
+			"trigger": "EVENT_CLASS_TRIAL_TIMER_START\t\"event\"",
+			"contents": "EVENT_CLASS_TRIAL_TIMER_START",
+		},
+		{
+			"trigger": "EXECUTE_CHAT_LINE\t\"event\"",
+			"contents": "EXECUTE_CHAT_LINE",
+		},
+		{
+			"trigger": "EXPERIMENTAL_CVAR_CONFIRMATION_NEEDED\t\"event\"",
+			"contents": "EXPERIMENTAL_CVAR_CONFIRMATION_NEEDED",
+		},
+		{
+			"trigger": "FOG_OF_WAR_UPDATED\t\"event\"",
+			"contents": "FOG_OF_WAR_UPDATED",
+		},
+		{
+			"trigger": "FORBIDDEN_NAME_PLATE_CREATED\t\"event\"",
+			"contents": "FORBIDDEN_NAME_PLATE_CREATED",
+		},
+		{
+			"trigger": "FORBIDDEN_NAME_PLATE_UNIT_ADDED\t\"event\"",
+			"contents": "FORBIDDEN_NAME_PLATE_UNIT_ADDED",
+		},
+		{
+			"trigger": "FORBIDDEN_NAME_PLATE_UNIT_REMOVED\t\"event\"",
+			"contents": "FORBIDDEN_NAME_PLATE_UNIT_REMOVED",
+		},
+		{
+			"trigger": "FRAMESTACK_VISIBILITY_UPDATED\t\"event\"",
+			"contents": "FRAMESTACK_VISIBILITY_UPDATED",
+		},
+		{
+			"trigger": "FRIENDLIST_UPDATE\t\"event\"",
+			"contents": "FRIENDLIST_UPDATE",
+		},
+		{
+			"trigger": "GARRISON_ARCHITECT_CLOSED\t\"event\"",
+			"contents": "GARRISON_ARCHITECT_CLOSED",
+		},
+		{
+			"trigger": "GARRISON_ARCHITECT_OPENED\t\"event\"",
+			"contents": "GARRISON_ARCHITECT_OPENED",
+		},
+		{
+			"trigger": "GARRISON_BUILDING_ACTIVATABLE\t\"event\"",
+			"contents": "GARRISON_BUILDING_ACTIVATABLE",
+		},
+		{
+			"trigger": "GARRISON_BUILDING_ACTIVATED\t\"event\"",
+			"contents": "GARRISON_BUILDING_ACTIVATED",
+		},
+		{
+			"trigger": "GARRISON_BUILDING_ERROR\t\"event\"",
+			"contents": "GARRISON_BUILDING_ERROR",
+		},
+		{
+			"trigger": "GARRISON_BUILDING_LIST_UPDATE\t\"event\"",
+			"contents": "GARRISON_BUILDING_LIST_UPDATE",
+		},
+		{
+			"trigger": "GARRISON_BUILDING_PLACED\t\"event\"",
+			"contents": "GARRISON_BUILDING_PLACED",
+		},
+		{
+			"trigger": "GARRISON_BUILDING_REMOVED\t\"event\"",
+			"contents": "GARRISON_BUILDING_REMOVED",
+		},
+		{
+			"trigger": "GARRISON_BUILDING_UPDATE\t\"event\"",
+			"contents": "GARRISON_BUILDING_UPDATE",
+		},
+		{
+			"trigger": "GARRISON_FOLLOWER_ADDED\t\"event\"",
+			"contents": "GARRISON_FOLLOWER_ADDED",
+		},
+		{
+			"trigger": "GARRISON_FOLLOWER_CATEGORIES_UPDATED\t\"event\"",
+			"contents": "GARRISON_FOLLOWER_CATEGORIES_UPDATED",
+		},
+		{
+			"trigger": "GARRISON_FOLLOWER_DURABILITY_CHANGED\t\"event\"",
+			"contents": "GARRISON_FOLLOWER_DURABILITY_CHANGED",
+		},
+		{
+			"trigger": "GARRISON_FOLLOWER_LIST_UPDATE\t\"event\"",
+			"contents": "GARRISON_FOLLOWER_LIST_UPDATE",
+		},
+		{
+			"trigger": "GARRISON_FOLLOWER_REMOVED\t\"event\"",
+			"contents": "GARRISON_FOLLOWER_REMOVED",
+		},
+		{
+			"trigger": "GARRISON_FOLLOWER_UPGRADED\t\"event\"",
+			"contents": "GARRISON_FOLLOWER_UPGRADED",
+		},
+		{
+			"trigger": "GARRISON_FOLLOWER_XP_CHANGED\t\"event\"",
+			"contents": "GARRISON_FOLLOWER_XP_CHANGED",
+		},
+		{
+			"trigger": "GARRISON_HIDE_LANDING_PAGE\t\"event\"",
+			"contents": "GARRISON_HIDE_LANDING_PAGE",
+		},
+		{
+			"trigger": "GARRISON_INVASION_AVAILABLE\t\"event\"",
+			"contents": "GARRISON_INVASION_AVAILABLE",
+		},
+		{
+			"trigger": "GARRISON_INVASION_UNAVAILABLE\t\"event\"",
+			"contents": "GARRISON_INVASION_UNAVAILABLE",
+		},
+		{
+			"trigger": "GARRISON_LANDINGPAGE_SHIPMENTS\t\"event\"",
+			"contents": "GARRISON_LANDINGPAGE_SHIPMENTS",
+		},
+		{
+			"trigger": "GARRISON_MISSION_AREA_BONUS_ADDED\t\"event\"",
+			"contents": "GARRISON_MISSION_AREA_BONUS_ADDED",
+		},
+		{
+			"trigger": "GARRISON_MISSION_BONUS_ROLL_COMPLETE\t\"event\"",
+			"contents": "GARRISON_MISSION_BONUS_ROLL_COMPLETE",
+		},
+		{
+			"trigger": "GARRISON_MISSION_BONUS_ROLL_LOOT\t\"event\"",
+			"contents": "GARRISON_MISSION_BONUS_ROLL_LOOT",
+		},
+		{
+			"trigger": "GARRISON_MISSION_COMPLETE_RESPONSE\t\"event\"",
+			"contents": "GARRISON_MISSION_COMPLETE_RESPONSE",
+		},
+		{
+			"trigger": "GARRISON_MISSION_FINISHED\t\"event\"",
+			"contents": "GARRISON_MISSION_FINISHED",
+		},
+		{
+			"trigger": "GARRISON_MISSION_LIST_UPDATE\t\"event\"",
+			"contents": "GARRISON_MISSION_LIST_UPDATE",
+		},
+		{
+			"trigger": "GARRISON_MISSION_NPC_CLOSED\t\"event\"",
+			"contents": "GARRISON_MISSION_NPC_CLOSED",
+		},
+		{
+			"trigger": "GARRISON_MISSION_NPC_OPENED\t\"event\"",
+			"contents": "GARRISON_MISSION_NPC_OPENED",
+		},
+		{
+			"trigger": "GARRISON_MISSION_REWARD_INFO\t\"event\"",
+			"contents": "GARRISON_MISSION_REWARD_INFO",
+		},
+		{
+			"trigger": "GARRISON_MISSION_STARTED\t\"event\"",
+			"contents": "GARRISON_MISSION_STARTED",
+		},
+		{
+			"trigger": "GARRISON_MONUMENT_CLOSE_UI\t\"event\"",
+			"contents": "GARRISON_MONUMENT_CLOSE_UI",
+		},
+		{
+			"trigger": "GARRISON_MONUMENT_LIST_LOADED\t\"event\"",
+			"contents": "GARRISON_MONUMENT_LIST_LOADED",
+		},
+		{
+			"trigger": "GARRISON_MONUMENT_REPLACED\t\"event\"",
+			"contents": "GARRISON_MONUMENT_REPLACED",
+		},
+		{
+			"trigger": "GARRISON_MONUMENT_SELECTED_TROPHY_ID_LOADED\t\"event\"",
+			"contents": "GARRISON_MONUMENT_SELECTED_TROPHY_ID_LOADED",
+		},
+		{
+			"trigger": "GARRISON_MONUMENT_SHOW_UI\t\"event\"",
+			"contents": "GARRISON_MONUMENT_SHOW_UI",
+		},
+		{
+			"trigger": "GARRISON_RANDOM_MISSION_ADDED\t\"event\"",
+			"contents": "GARRISON_RANDOM_MISSION_ADDED",
+		},
+		{
+			"trigger": "GARRISON_RECALL_PORTAL_LAST_USED_TIME\t\"event\"",
+			"contents": "GARRISON_RECALL_PORTAL_LAST_USED_TIME",
+		},
+		{
+			"trigger": "GARRISON_RECALL_PORTAL_USED\t\"event\"",
+			"contents": "GARRISON_RECALL_PORTAL_USED",
+		},
+		{
+			"trigger": "GARRISON_RECRUIT_FOLLOWER_RESULT\t\"event\"",
+			"contents": "GARRISON_RECRUIT_FOLLOWER_RESULT",
+		},
+		{
+			"trigger": "GARRISON_RECRUITMENT_FOLLOWERS_GENERATED\t\"event\"",
+			"contents": "GARRISON_RECRUITMENT_FOLLOWERS_GENERATED",
+		},
+		{
+			"trigger": "GARRISON_RECRUITMENT_NPC_CLOSED\t\"event\"",
+			"contents": "GARRISON_RECRUITMENT_NPC_CLOSED",
+		},
+		{
+			"trigger": "GARRISON_RECRUITMENT_NPC_OPENED\t\"event\"",
+			"contents": "GARRISON_RECRUITMENT_NPC_OPENED",
+		},
+		{
+			"trigger": "GARRISON_RECRUITMENT_READY\t\"event\"",
+			"contents": "GARRISON_RECRUITMENT_READY",
+		},
+		{
+			"trigger": "GARRISON_SHIPMENT_RECEIVED\t\"event\"",
+			"contents": "GARRISON_SHIPMENT_RECEIVED",
+		},
+		{
+			"trigger": "GARRISON_SHIPYARD_NPC_CLOSED\t\"event\"",
+			"contents": "GARRISON_SHIPYARD_NPC_CLOSED",
+		},
+		{
+			"trigger": "GARRISON_SHIPYARD_NPC_OPENED\t\"event\"",
+			"contents": "GARRISON_SHIPYARD_NPC_OPENED",
+		},
+		{
+			"trigger": "GARRISON_SHOW_LANDING_PAGE\t\"event\"",
+			"contents": "GARRISON_SHOW_LANDING_PAGE",
+		},
+		{
+			"trigger": "GARRISON_TALENT_COMPLETE\t\"event\"",
+			"contents": "GARRISON_TALENT_COMPLETE",
+		},
+		{
+			"trigger": "GARRISON_TALENT_NPC_CLOSED\t\"event\"",
+			"contents": "GARRISON_TALENT_NPC_CLOSED",
+		},
+		{
+			"trigger": "GARRISON_TALENT_NPC_OPENED\t\"event\"",
+			"contents": "GARRISON_TALENT_NPC_OPENED",
+		},
+		{
+			"trigger": "GARRISON_TALENT_UPDATE\t\"event\"",
+			"contents": "GARRISON_TALENT_UPDATE",
+		},
+		{
+			"trigger": "GARRISON_TRADESKILL_NPC_CLOSED\t\"event\"",
+			"contents": "GARRISON_TRADESKILL_NPC_CLOSED",
+		},
+		{
+			"trigger": "GARRISON_UPDATE\t\"event\"",
+			"contents": "GARRISON_UPDATE",
+		},
+		{
+			"trigger": "GARRISON_UPGRADEABLE_RESULT\t\"event\"",
+			"contents": "GARRISON_UPGRADEABLE_RESULT",
+		},
+		{
+			"trigger": "GARRISON_USE_PARTY_GARRISON_CHANGED\t\"event\"",
+			"contents": "GARRISON_USE_PARTY_GARRISON_CHANGED",
+		},
+		{
+			"trigger": "GDF_SIM_COMPLETE\t\"event\"",
+			"contents": "GDF_SIM_COMPLETE",
+		},
+		{
+			"trigger": "GENERIC_ERROR\t\"event\"",
+			"contents": "GENERIC_ERROR",
+		},
+		{
+			"trigger": "GET_ITEM_INFO_RECEIVED\t\"event\"",
+			"contents": "GET_ITEM_INFO_RECEIVED",
+		},
+		{
+			"trigger": "GM_PLAYER_INFO\t\"event\"",
+			"contents": "GM_PLAYER_INFO",
+		},
+		{
+			"trigger": "GOSSIP_CLOSED\t\"event\"",
+			"contents": "GOSSIP_CLOSED",
+		},
+		{
+			"trigger": "GOSSIP_CONFIRM\t\"event\"",
+			"contents": "GOSSIP_CONFIRM",
+		},
+		{
+			"trigger": "GOSSIP_CONFIRM_CANCEL\t\"event\"",
+			"contents": "GOSSIP_CONFIRM_CANCEL",
+		},
+		{
+			"trigger": "GOSSIP_ENTER_CODE\t\"event\"",
+			"contents": "GOSSIP_ENTER_CODE",
+		},
+		{
+			"trigger": "GOSSIP_SHOW\t\"event\"",
+			"contents": "GOSSIP_SHOW",
+		},
+		{
+			"trigger": "GROUP_FORMED\t\"event\"",
+			"contents": "GROUP_FORMED",
+		},
+		{
+			"trigger": "GROUP_INVITE_CONFIRMATION\t\"event\"",
+			"contents": "GROUP_INVITE_CONFIRMATION",
+		},
+		{
+			"trigger": "GROUP_JOINED\t\"event\"",
+			"contents": "GROUP_JOINED",
+		},
+		{
+			"trigger": "GROUP_LEFT\t\"event\"",
+			"contents": "GROUP_LEFT",
+		},
+		{
+			"trigger": "GROUP_ROSTER_UPDATE\t\"event\"",
+			"contents": "GROUP_ROSTER_UPDATE",
+		},
+		{
+			"trigger": "GUILD_CHALLENGE_COMPLETED\t\"event\"",
+			"contents": "GUILD_CHALLENGE_COMPLETED",
+		},
+		{
+			"trigger": "GUILD_CHALLENGE_UPDATED\t\"event\"",
+			"contents": "GUILD_CHALLENGE_UPDATED",
+		},
+		{
+			"trigger": "GUILD_EVENT_LOG_UPDATE\t\"event\"",
+			"contents": "GUILD_EVENT_LOG_UPDATE",
+		},
+		{
+			"trigger": "GUILD_INVITE_CANCEL\t\"event\"",
+			"contents": "GUILD_INVITE_CANCEL",
+		},
+		{
+			"trigger": "GUILD_INVITE_REQUEST\t\"event\"",
+			"contents": "GUILD_INVITE_REQUEST",
+		},
+		{
+			"trigger": "GUILD_MOTD\t\"event\"",
+			"contents": "GUILD_MOTD",
+		},
+		{
+			"trigger": "GUILD_NEWS_UPDATE\t\"event\"",
+			"contents": "GUILD_NEWS_UPDATE",
+		},
+		{
+			"trigger": "GUILD_PARTY_STATE_UPDATED\t\"event\"",
+			"contents": "GUILD_PARTY_STATE_UPDATED",
+		},
+		{
+			"trigger": "GUILD_RANKS_UPDATE\t\"event\"",
+			"contents": "GUILD_RANKS_UPDATE",
+		},
+		{
+			"trigger": "GUILD_RECIPE_KNOWN_BY_MEMBERS\t\"event\"",
+			"contents": "GUILD_RECIPE_KNOWN_BY_MEMBERS",
+		},
+		{
+			"trigger": "GUILD_REGISTRAR_CLOSED\t\"event\"",
+			"contents": "GUILD_REGISTRAR_CLOSED",
+		},
+		{
+			"trigger": "GUILD_REGISTRAR_SHOW\t\"event\"",
+			"contents": "GUILD_REGISTRAR_SHOW",
+		},
+		{
+			"trigger": "GUILD_RENAME_REQUIRED\t\"event\"",
+			"contents": "GUILD_RENAME_REQUIRED",
+		},
+		{
+			"trigger": "GUILD_REWARDS_LIST\t\"event\"",
+			"contents": "GUILD_REWARDS_LIST",
+		},
+		{
+			"trigger": "GUILD_ROSTER_UPDATE\t\"event\"",
+			"contents": "GUILD_ROSTER_UPDATE",
+		},
+		{
+			"trigger": "GUILD_TRADESKILL_UPDATE\t\"event\"",
+			"contents": "GUILD_TRADESKILL_UPDATE",
+		},
+		{
+			"trigger": "GUILDBANK_ITEM_LOCK_CHANGED\t\"event\"",
+			"contents": "GUILDBANK_ITEM_LOCK_CHANGED",
+		},
+		{
+			"trigger": "GUILDBANK_TEXT_CHANGED\t\"event\"",
+			"contents": "GUILDBANK_TEXT_CHANGED",
+		},
+		{
+			"trigger": "GUILDBANK_UPDATE_MONEY\t\"event\"",
+			"contents": "GUILDBANK_UPDATE_MONEY",
+		},
+		{
+			"trigger": "GUILDBANK_UPDATE_TABS\t\"event\"",
+			"contents": "GUILDBANK_UPDATE_TABS",
+		},
+		{
+			"trigger": "GUILDBANK_UPDATE_TEXT\t\"event\"",
+			"contents": "GUILDBANK_UPDATE_TEXT",
+		},
+		{
+			"trigger": "GUILDBANK_UPDATE_WITHDRAWMONEY\t\"event\"",
+			"contents": "GUILDBANK_UPDATE_WITHDRAWMONEY",
+		},
+		{
+			"trigger": "GUILDBANKBAGSLOTS_CHANGED\t\"event\"",
+			"contents": "GUILDBANKBAGSLOTS_CHANGED",
+		},
+		{
+			"trigger": "GUILDBANKFRAME_CLOSED\t\"event\"",
+			"contents": "GUILDBANKFRAME_CLOSED",
+		},
+		{
+			"trigger": "GUILDBANKFRAME_OPENED\t\"event\"",
+			"contents": "GUILDBANKFRAME_OPENED",
+		},
+		{
+			"trigger": "GUILDBANKLOG_UPDATE\t\"event\"",
+			"contents": "GUILDBANKLOG_UPDATE",
+		},
+		{
+			"trigger": "GUILDTABARD_UPDATE\t\"event\"",
+			"contents": "GUILDTABARD_UPDATE",
+		},
+		{
+			"trigger": "HEARTHSTONE_BOUND\t\"event\"",
+			"contents": "HEARTHSTONE_BOUND",
+		},
+		{
+			"trigger": "HEIRLOOM_UPGRADE_TARGETING_CHANGED\t\"event\"",
+			"contents": "HEIRLOOM_UPGRADE_TARGETING_CHANGED",
+		},
+		{
+			"trigger": "HEIRLOOMS_UPDATED\t\"event\"",
+			"contents": "HEIRLOOMS_UPDATED",
+		},
+		{
+			"trigger": "HIDE_SUBTITLE\t\"event\"",
+			"contents": "HIDE_SUBTITLE",
+		},
+		{
+			"trigger": "HONOR_LEVEL_UPDATE\t\"event\"",
+			"contents": "HONOR_LEVEL_UPDATE",
+		},
+		{
+			"trigger": "HONOR_PRESTIGE_UPDATE\t\"event\"",
+			"contents": "HONOR_PRESTIGE_UPDATE",
+		},
+		{
+			"trigger": "HONOR_XP_UPDATE\t\"event\"",
+			"contents": "HONOR_XP_UPDATE",
+		},
+		{
+			"trigger": "IGNORELIST_UPDATE\t\"event\"",
+			"contents": "IGNORELIST_UPDATE",
+		},
+		{
+			"trigger": "IGR_BILLING_NAG_DIALOG\t\"event\"",
+			"contents": "IGR_BILLING_NAG_DIALOG",
+		},
+		{
+			"trigger": "INCOMING_RESURRECT_CHANGED\t\"event\"",
+			"contents": "INCOMING_RESURRECT_CHANGED",
+		},
+		{
+			"trigger": "INCOMING_SUMMON_CHANGED\t\"event\"",
+			"contents": "INCOMING_SUMMON_CHANGED",
+		},
+		{
+			"trigger": "INITIAL_CLUBS_LOADED\t\"event\"",
+			"contents": "INITIAL_CLUBS_LOADED",
+		},
+		{
+			"trigger": "INSPECT_ACHIEVEMENT_READY\t\"event\"",
+			"contents": "INSPECT_ACHIEVEMENT_READY",
+		},
+		{
+			"trigger": "INSPECT_HONOR_UPDATE\t\"event\"",
+			"contents": "INSPECT_HONOR_UPDATE",
+		},
+		{
+			"trigger": "INSPECT_READY\t\"event\"",
+			"contents": "INSPECT_READY",
+		},
+		{
+			"trigger": "INSTANCE_BOOT_START\t\"event\"",
+			"contents": "INSTANCE_BOOT_START",
+		},
+		{
+			"trigger": "INSTANCE_BOOT_STOP\t\"event\"",
+			"contents": "INSTANCE_BOOT_STOP",
+		},
+		{
+			"trigger": "INSTANCE_ENCOUNTER_ADD_TIMER\t\"event\"",
+			"contents": "INSTANCE_ENCOUNTER_ADD_TIMER",
+		},
+		{
+			"trigger": "INSTANCE_ENCOUNTER_ENGAGE_UNIT\t\"event\"",
+			"contents": "INSTANCE_ENCOUNTER_ENGAGE_UNIT",
+		},
+		{
+			"trigger": "INSTANCE_ENCOUNTER_OBJECTIVE_COMPLETE\t\"event\"",
+			"contents": "INSTANCE_ENCOUNTER_OBJECTIVE_COMPLETE",
+		},
+		{
+			"trigger": "INSTANCE_ENCOUNTER_OBJECTIVE_START\t\"event\"",
+			"contents": "INSTANCE_ENCOUNTER_OBJECTIVE_START",
+		},
+		{
+			"trigger": "INSTANCE_ENCOUNTER_OBJECTIVE_UPDATE\t\"event\"",
+			"contents": "INSTANCE_ENCOUNTER_OBJECTIVE_UPDATE",
+		},
+		{
+			"trigger": "INSTANCE_GROUP_SIZE_CHANGED\t\"event\"",
+			"contents": "INSTANCE_GROUP_SIZE_CHANGED",
+		},
+		{
+			"trigger": "INSTANCE_LOCK_START\t\"event\"",
+			"contents": "INSTANCE_LOCK_START",
+		},
+		{
+			"trigger": "INSTANCE_LOCK_STOP\t\"event\"",
+			"contents": "INSTANCE_LOCK_STOP",
+		},
+		{
+			"trigger": "INSTANCE_LOCK_WARNING\t\"event\"",
+			"contents": "INSTANCE_LOCK_WARNING",
+		},
+		{
+			"trigger": "INVENTORY_SEARCH_UPDATE\t\"event\"",
+			"contents": "INVENTORY_SEARCH_UPDATE",
+		},
+		{
+			"trigger": "ISLAND_AZERITE_GAIN\t\"event\"",
+			"contents": "ISLAND_AZERITE_GAIN",
+		},
+		{
+			"trigger": "ISLAND_COMPLETED\t\"event\"",
+			"contents": "ISLAND_COMPLETED",
+		},
+		{
+			"trigger": "ISLANDS_QUEUE_CLOSE\t\"event\"",
+			"contents": "ISLANDS_QUEUE_CLOSE",
+		},
+		{
+			"trigger": "ISLANDS_QUEUE_OPEN\t\"event\"",
+			"contents": "ISLANDS_QUEUE_OPEN",
+		},
+		{
+			"trigger": "ITEM_DATA_LOAD_RESULT\t\"event\"",
+			"contents": "ITEM_DATA_LOAD_RESULT",
+		},
+		{
+			"trigger": "ITEM_LOCK_CHANGED\t\"event\"",
+			"contents": "ITEM_LOCK_CHANGED",
+		},
+		{
+			"trigger": "ITEM_LOCKED\t\"event\"",
+			"contents": "ITEM_LOCKED",
+		},
+		{
+			"trigger": "ITEM_PUSH\t\"event\"",
+			"contents": "ITEM_PUSH",
+		},
+		{
+			"trigger": "ITEM_RESTORATION_BUTTON_STATUS\t\"event\"",
+			"contents": "ITEM_RESTORATION_BUTTON_STATUS",
+		},
+		{
+			"trigger": "ITEM_TEXT_BEGIN\t\"event\"",
+			"contents": "ITEM_TEXT_BEGIN",
+		},
+		{
+			"trigger": "ITEM_TEXT_CLOSED\t\"event\"",
+			"contents": "ITEM_TEXT_CLOSED",
+		},
+		{
+			"trigger": "ITEM_TEXT_READY\t\"event\"",
+			"contents": "ITEM_TEXT_READY",
+		},
+		{
+			"trigger": "ITEM_TEXT_TRANSLATION\t\"event\"",
+			"contents": "ITEM_TEXT_TRANSLATION",
+		},
+		{
+			"trigger": "ITEM_UNLOCKED\t\"event\"",
+			"contents": "ITEM_UNLOCKED",
+		},
+		{
+			"trigger": "ITEM_UPGRADE_MASTER_CLOSED\t\"event\"",
+			"contents": "ITEM_UPGRADE_MASTER_CLOSED",
+		},
+		{
+			"trigger": "ITEM_UPGRADE_MASTER_OPENED\t\"event\"",
+			"contents": "ITEM_UPGRADE_MASTER_OPENED",
+		},
+		{
+			"trigger": "ITEM_UPGRADE_MASTER_SET_ITEM\t\"event\"",
+			"contents": "ITEM_UPGRADE_MASTER_SET_ITEM",
+		},
+		{
+			"trigger": "ITEM_UPGRADE_MASTER_UPDATE\t\"event\"",
+			"contents": "ITEM_UPGRADE_MASTER_UPDATE",
+		},
+		{
+			"trigger": "KNOWLEDGE_BASE_ARTICLE_LOAD_FAILURE\t\"event\"",
+			"contents": "KNOWLEDGE_BASE_ARTICLE_LOAD_FAILURE",
+		},
+		{
+			"trigger": "KNOWLEDGE_BASE_ARTICLE_LOAD_SUCCESS\t\"event\"",
+			"contents": "KNOWLEDGE_BASE_ARTICLE_LOAD_SUCCESS",
+		},
+		{
+			"trigger": "KNOWLEDGE_BASE_QUERY_LOAD_FAILURE\t\"event\"",
+			"contents": "KNOWLEDGE_BASE_QUERY_LOAD_FAILURE",
+		},
+		{
+			"trigger": "KNOWLEDGE_BASE_QUERY_LOAD_SUCCESS\t\"event\"",
+			"contents": "KNOWLEDGE_BASE_QUERY_LOAD_SUCCESS",
+		},
+		{
+			"trigger": "KNOWLEDGE_BASE_SERVER_MESSAGE\t\"event\"",
+			"contents": "KNOWLEDGE_BASE_SERVER_MESSAGE",
+		},
+		{
+			"trigger": "KNOWLEDGE_BASE_SETUP_LOAD_FAILURE\t\"event\"",
+			"contents": "KNOWLEDGE_BASE_SETUP_LOAD_FAILURE",
+		},
+		{
+			"trigger": "KNOWLEDGE_BASE_SETUP_LOAD_SUCCESS\t\"event\"",
+			"contents": "KNOWLEDGE_BASE_SETUP_LOAD_SUCCESS",
+		},
+		{
+			"trigger": "KNOWLEDGE_BASE_SYSTEM_MOTD_UPDATED\t\"event\"",
+			"contents": "KNOWLEDGE_BASE_SYSTEM_MOTD_UPDATED",
+		},
+		{
+			"trigger": "KNOWN_TITLES_UPDATE\t\"event\"",
+			"contents": "KNOWN_TITLES_UPDATE",
+		},
+		{
+			"trigger": "LANGUAGE_LIST_CHANGED\t\"event\"",
+			"contents": "LANGUAGE_LIST_CHANGED",
+		},
+		{
+			"trigger": "LEARNED_SPELL_IN_TAB\t\"event\"",
+			"contents": "LEARNED_SPELL_IN_TAB",
+		},
+		{
+			"trigger": "LEVEL_GRANT_PROPOSED\t\"event\"",
+			"contents": "LEVEL_GRANT_PROPOSED",
+		},
+		{
+			"trigger": "LF_GUILD_BROWSE_UPDATED\t\"event\"",
+			"contents": "LF_GUILD_BROWSE_UPDATED",
+		},
+		{
+			"trigger": "LF_GUILD_MEMBERSHIP_LIST_CHANGED\t\"event\"",
+			"contents": "LF_GUILD_MEMBERSHIP_LIST_CHANGED",
+		},
+		{
+			"trigger": "LF_GUILD_MEMBERSHIP_LIST_UPDATED\t\"event\"",
+			"contents": "LF_GUILD_MEMBERSHIP_LIST_UPDATED",
+		},
+		{
+			"trigger": "LF_GUILD_POST_UPDATED\t\"event\"",
+			"contents": "LF_GUILD_POST_UPDATED",
+		},
+		{
+			"trigger": "LF_GUILD_RECRUIT_LIST_CHANGED\t\"event\"",
+			"contents": "LF_GUILD_RECRUIT_LIST_CHANGED",
+		},
+		{
+			"trigger": "LF_GUILD_RECRUITS_UPDATED\t\"event\"",
+			"contents": "LF_GUILD_RECRUITS_UPDATED",
+		},
+		{
+			"trigger": "LFG_BONUS_FACTION_ID_UPDATED\t\"event\"",
+			"contents": "LFG_BONUS_FACTION_ID_UPDATED",
+		},
+		{
+			"trigger": "LFG_BOOT_PROPOSAL_UPDATE\t\"event\"",
+			"contents": "LFG_BOOT_PROPOSAL_UPDATE",
+		},
+		{
+			"trigger": "LFG_COMPLETION_REWARD\t\"event\"",
+			"contents": "LFG_COMPLETION_REWARD",
+		},
+		{
+			"trigger": "LFG_INVALID_ERROR_MESSAGE\t\"event\"",
+			"contents": "LFG_INVALID_ERROR_MESSAGE",
+		},
+		{
+			"trigger": "LFG_LIST_ACTIVE_ENTRY_UPDATE\t\"event\"",
+			"contents": "LFG_LIST_ACTIVE_ENTRY_UPDATE",
+		},
+		{
+			"trigger": "LFG_LIST_APPLICANT_LIST_UPDATED\t\"event\"",
+			"contents": "LFG_LIST_APPLICANT_LIST_UPDATED",
+		},
+		{
+			"trigger": "LFG_LIST_APPLICANT_UPDATED\t\"event\"",
+			"contents": "LFG_LIST_APPLICANT_UPDATED",
+		},
+		{
+			"trigger": "LFG_LIST_APPLICATION_STATUS_UPDATED\t\"event\"",
+			"contents": "LFG_LIST_APPLICATION_STATUS_UPDATED",
+		},
+		{
+			"trigger": "LFG_LIST_AVAILABILITY_UPDATE\t\"event\"",
+			"contents": "LFG_LIST_AVAILABILITY_UPDATE",
+		},
+		{
+			"trigger": "LFG_LIST_ENTRY_CREATION_FAILED\t\"event\"",
+			"contents": "LFG_LIST_ENTRY_CREATION_FAILED",
+		},
+		{
+			"trigger": "LFG_LIST_ENTRY_EXPIRED_TIMEOUT\t\"event\"",
+			"contents": "LFG_LIST_ENTRY_EXPIRED_TIMEOUT",
+		},
+		{
+			"trigger": "LFG_LIST_ENTRY_EXPIRED_TOO_MANY_PLAYERS\t\"event\"",
+			"contents": "LFG_LIST_ENTRY_EXPIRED_TOO_MANY_PLAYERS",
+		},
+		{
+			"trigger": "LFG_LIST_JOINED_GROUP\t\"event\"",
+			"contents": "LFG_LIST_JOINED_GROUP",
+		},
+		{
+			"trigger": "LFG_LIST_SEARCH_FAILED\t\"event\"",
+			"contents": "LFG_LIST_SEARCH_FAILED",
+		},
+		{
+			"trigger": "LFG_LIST_SEARCH_RESULT_UPDATED\t\"event\"",
+			"contents": "LFG_LIST_SEARCH_RESULT_UPDATED",
+		},
+		{
+			"trigger": "LFG_LIST_SEARCH_RESULTS_RECEIVED\t\"event\"",
+			"contents": "LFG_LIST_SEARCH_RESULTS_RECEIVED",
+		},
+		{
+			"trigger": "LFG_LOCK_INFO_RECEIVED\t\"event\"",
+			"contents": "LFG_LOCK_INFO_RECEIVED",
+		},
+		{
+			"trigger": "LFG_OFFER_CONTINUE\t\"event\"",
+			"contents": "LFG_OFFER_CONTINUE",
+		},
+		{
+			"trigger": "LFG_OPEN_FROM_GOSSIP\t\"event\"",
+			"contents": "LFG_OPEN_FROM_GOSSIP",
+		},
+		{
+			"trigger": "LFG_PROPOSAL_DONE\t\"event\"",
+			"contents": "LFG_PROPOSAL_DONE",
+		},
+		{
+			"trigger": "LFG_PROPOSAL_FAILED\t\"event\"",
+			"contents": "LFG_PROPOSAL_FAILED",
+		},
+		{
+			"trigger": "LFG_PROPOSAL_SHOW\t\"event\"",
+			"contents": "LFG_PROPOSAL_SHOW",
+		},
+		{
+			"trigger": "LFG_PROPOSAL_SUCCEEDED\t\"event\"",
+			"contents": "LFG_PROPOSAL_SUCCEEDED",
+		},
+		{
+			"trigger": "LFG_PROPOSAL_UPDATE\t\"event\"",
+			"contents": "LFG_PROPOSAL_UPDATE",
+		},
+		{
+			"trigger": "LFG_QUEUE_STATUS_UPDATE\t\"event\"",
+			"contents": "LFG_QUEUE_STATUS_UPDATE",
+		},
+		{
+			"trigger": "LFG_READY_CHECK_DECLINED\t\"event\"",
+			"contents": "LFG_READY_CHECK_DECLINED",
+		},
+		{
+			"trigger": "LFG_READY_CHECK_HIDE\t\"event\"",
+			"contents": "LFG_READY_CHECK_HIDE",
+		},
+		{
+			"trigger": "LFG_READY_CHECK_PLAYER_IS_READY\t\"event\"",
+			"contents": "LFG_READY_CHECK_PLAYER_IS_READY",
+		},
+		{
+			"trigger": "LFG_READY_CHECK_SHOW\t\"event\"",
+			"contents": "LFG_READY_CHECK_SHOW",
+		},
+		{
+			"trigger": "LFG_READY_CHECK_UPDATE\t\"event\"",
+			"contents": "LFG_READY_CHECK_UPDATE",
+		},
+		{
+			"trigger": "LFG_ROLE_CHECK_DECLINED\t\"event\"",
+			"contents": "LFG_ROLE_CHECK_DECLINED",
+		},
+		{
+			"trigger": "LFG_ROLE_CHECK_HIDE\t\"event\"",
+			"contents": "LFG_ROLE_CHECK_HIDE",
+		},
+		{
+			"trigger": "LFG_ROLE_CHECK_ROLE_CHOSEN\t\"event\"",
+			"contents": "LFG_ROLE_CHECK_ROLE_CHOSEN",
+		},
+		{
+			"trigger": "LFG_ROLE_CHECK_SHOW\t\"event\"",
+			"contents": "LFG_ROLE_CHECK_SHOW",
+		},
+		{
+			"trigger": "LFG_ROLE_CHECK_UPDATE\t\"event\"",
+			"contents": "LFG_ROLE_CHECK_UPDATE",
+		},
+		{
+			"trigger": "LFG_ROLE_UPDATE\t\"event\"",
+			"contents": "LFG_ROLE_UPDATE",
+		},
+		{
+			"trigger": "LFG_UPDATE\t\"event\"",
+			"contents": "LFG_UPDATE",
+		},
+		{
+			"trigger": "LFG_UPDATE_RANDOM_INFO\t\"event\"",
+			"contents": "LFG_UPDATE_RANDOM_INFO",
+		},
+		{
+			"trigger": "LIFESTEAL_UPDATE\t\"event\"",
+			"contents": "LIFESTEAL_UPDATE",
+		},
+		{
+			"trigger": "LOADING_SCREEN_DISABLED\t\"event\"",
+			"contents": "LOADING_SCREEN_DISABLED",
+		},
+		{
+			"trigger": "LOADING_SCREEN_ENABLED\t\"event\"",
+			"contents": "LOADING_SCREEN_ENABLED",
+		},
+		{
+			"trigger": "LOC_RESULT\t\"event\"",
+			"contents": "LOC_RESULT",
+		},
+		{
+			"trigger": "LOCALPLAYER_PET_RENAMED\t\"event\"",
+			"contents": "LOCALPLAYER_PET_RENAMED",
+		},
+		{
+			"trigger": "LOGOUT_CANCEL\t\"event\"",
+			"contents": "LOGOUT_CANCEL",
+		},
+		{
+			"trigger": "LOOT_BIND_CONFIRM\t\"event\"",
+			"contents": "LOOT_BIND_CONFIRM",
+		},
+		{
+			"trigger": "LOOT_CLOSED\t\"event\"",
+			"contents": "LOOT_CLOSED",
+		},
+		{
+			"trigger": "LOOT_HISTORY_AUTO_SHOW\t\"event\"",
+			"contents": "LOOT_HISTORY_AUTO_SHOW",
+		},
+		{
+			"trigger": "LOOT_HISTORY_FULL_UPDATE\t\"event\"",
+			"contents": "LOOT_HISTORY_FULL_UPDATE",
+		},
+		{
+			"trigger": "LOOT_HISTORY_ROLL_CHANGED\t\"event\"",
+			"contents": "LOOT_HISTORY_ROLL_CHANGED",
+		},
+		{
+			"trigger": "LOOT_HISTORY_ROLL_COMPLETE\t\"event\"",
+			"contents": "LOOT_HISTORY_ROLL_COMPLETE",
+		},
+		{
+			"trigger": "LOOT_ITEM_AVAILABLE\t\"event\"",
+			"contents": "LOOT_ITEM_AVAILABLE",
+		},
+		{
+			"trigger": "LOOT_ITEM_ROLL_WON\t\"event\"",
+			"contents": "LOOT_ITEM_ROLL_WON",
+		},
+		{
+			"trigger": "LOOT_JOURNAL_LIST_UPDATE\t\"event\"",
+			"contents": "LOOT_JOURNAL_LIST_UPDATE",
+		},
+		{
+			"trigger": "LOOT_OPENED\t\"event\"",
+			"contents": "LOOT_OPENED",
+		},
+		{
+			"trigger": "LOOT_READY\t\"event\"",
+			"contents": "LOOT_READY",
+		},
+		{
+			"trigger": "LOOT_ROLLS_COMPLETE\t\"event\"",
+			"contents": "LOOT_ROLLS_COMPLETE",
+		},
+		{
+			"trigger": "LOOT_SLOT_CHANGED\t\"event\"",
+			"contents": "LOOT_SLOT_CHANGED",
+		},
+		{
+			"trigger": "LOOT_SLOT_CLEARED\t\"event\"",
+			"contents": "LOOT_SLOT_CLEARED",
+		},
+		{
+			"trigger": "LOSS_OF_CONTROL_ADDED\t\"event\"",
+			"contents": "LOSS_OF_CONTROL_ADDED",
+		},
+		{
+			"trigger": "LOSS_OF_CONTROL_UPDATE\t\"event\"",
+			"contents": "LOSS_OF_CONTROL_UPDATE",
+		},
+		{
+			"trigger": "LUA_WARNING\t\"event\"",
+			"contents": "LUA_WARNING",
+		},
+		{
+			"trigger": "MACRO_ACTION_BLOCKED\t\"event\"",
+			"contents": "MACRO_ACTION_BLOCKED",
+		},
+		{
+			"trigger": "MACRO_ACTION_FORBIDDEN\t\"event\"",
+			"contents": "MACRO_ACTION_FORBIDDEN",
+		},
+		{
+			"trigger": "MAIL_CLOSED\t\"event\"",
+			"contents": "MAIL_CLOSED",
+		},
+		{
+			"trigger": "MAIL_FAILED\t\"event\"",
+			"contents": "MAIL_FAILED",
+		},
+		{
+			"trigger": "MAIL_INBOX_UPDATE\t\"event\"",
+			"contents": "MAIL_INBOX_UPDATE",
+		},
+		{
+			"trigger": "MAIL_LOCK_SEND_ITEMS\t\"event\"",
+			"contents": "MAIL_LOCK_SEND_ITEMS",
+		},
+		{
+			"trigger": "MAIL_SEND_INFO_UPDATE\t\"event\"",
+			"contents": "MAIL_SEND_INFO_UPDATE",
+		},
+		{
+			"trigger": "MAIL_SEND_SUCCESS\t\"event\"",
+			"contents": "MAIL_SEND_SUCCESS",
+		},
+		{
+			"trigger": "MAIL_SHOW\t\"event\"",
+			"contents": "MAIL_SHOW",
+		},
+		{
+			"trigger": "MAIL_SUCCESS\t\"event\"",
+			"contents": "MAIL_SUCCESS",
+		},
+		{
+			"trigger": "MAIL_UNLOCK_SEND_ITEMS\t\"event\"",
+			"contents": "MAIL_UNLOCK_SEND_ITEMS",
+		},
+		{
+			"trigger": "MAP_BAR_UPDATE\t\"event\"",
+			"contents": "MAP_BAR_UPDATE",
+		},
+		{
+			"trigger": "MAP_EXPLORATION_UPDATED\t\"event\"",
+			"contents": "MAP_EXPLORATION_UPDATED",
+		},
+		{
+			"trigger": "MASTERY_UPDATE\t\"event\"",
+			"contents": "MASTERY_UPDATE",
+		},
+		{
+			"trigger": "MAX_SPELL_START_RECOVERY_OFFSET_CHANGED\t\"event\"",
+			"contents": "MAX_SPELL_START_RECOVERY_OFFSET_CHANGED",
+		},
+		{
+			"trigger": "MERCHANT_CLOSED\t\"event\"",
+			"contents": "MERCHANT_CLOSED",
+		},
+		{
+			"trigger": "MERCHANT_CONFIRM_TRADE_TIMER_REMOVAL\t\"event\"",
+			"contents": "MERCHANT_CONFIRM_TRADE_TIMER_REMOVAL",
+		},
+		{
+			"trigger": "MERCHANT_FILTER_ITEM_UPDATE\t\"event\"",
+			"contents": "MERCHANT_FILTER_ITEM_UPDATE",
+		},
+		{
+			"trigger": "MERCHANT_SHOW\t\"event\"",
+			"contents": "MERCHANT_SHOW",
+		},
+		{
+			"trigger": "MERCHANT_UPDATE\t\"event\"",
+			"contents": "MERCHANT_UPDATE",
+		},
+		{
+			"trigger": "MINIMAP_PING\t\"event\"",
+			"contents": "MINIMAP_PING",
+		},
+		{
+			"trigger": "MINIMAP_UPDATE_TRACKING\t\"event\"",
+			"contents": "MINIMAP_UPDATE_TRACKING",
+		},
+		{
+			"trigger": "MINIMAP_UPDATE_ZOOM\t\"event\"",
+			"contents": "MINIMAP_UPDATE_ZOOM",
+		},
+		{
+			"trigger": "MIRROR_TIMER_PAUSE\t\"event\"",
+			"contents": "MIRROR_TIMER_PAUSE",
+		},
+		{
+			"trigger": "MIRROR_TIMER_START\t\"event\"",
+			"contents": "MIRROR_TIMER_START",
+		},
+		{
+			"trigger": "MIRROR_TIMER_STOP\t\"event\"",
+			"contents": "MIRROR_TIMER_STOP",
+		},
+		{
+			"trigger": "MODIFIER_STATE_CHANGED\t\"event\"",
+			"contents": "MODIFIER_STATE_CHANGED",
+		},
+		{
+			"trigger": "MOUNT_CURSOR_CLEAR\t\"event\"",
+			"contents": "MOUNT_CURSOR_CLEAR",
+		},
+		{
+			"trigger": "MOUNT_JOURNAL_SEARCH_UPDATED\t\"event\"",
+			"contents": "MOUNT_JOURNAL_SEARCH_UPDATED",
+		},
+		{
+			"trigger": "MOUNT_JOURNAL_USABILITY_CHANGED\t\"event\"",
+			"contents": "MOUNT_JOURNAL_USABILITY_CHANGED",
+		},
+		{
+			"trigger": "MUTELIST_UPDATE\t\"event\"",
+			"contents": "MUTELIST_UPDATE",
+		},
+		{
+			"trigger": "MYTHIC_PLUS_CURRENT_AFFIX_UPDATE\t\"event\"",
+			"contents": "MYTHIC_PLUS_CURRENT_AFFIX_UPDATE",
+		},
+		{
+			"trigger": "MYTHIC_PLUS_NEW_SEASON_RECORD\t\"event\"",
+			"contents": "MYTHIC_PLUS_NEW_SEASON_RECORD",
+		},
+		{
+			"trigger": "MYTHIC_PLUS_NEW_WEEKLY_RECORD\t\"event\"",
+			"contents": "MYTHIC_PLUS_NEW_WEEKLY_RECORD",
+		},
+		{
+			"trigger": "NAME_PLATE_CREATED\t\"event\"",
+			"contents": "NAME_PLATE_CREATED",
+		},
+		{
+			"trigger": "NAME_PLATE_UNIT_ADDED\t\"event\"",
+			"contents": "NAME_PLATE_UNIT_ADDED",
+		},
+		{
+			"trigger": "NAME_PLATE_UNIT_REMOVED\t\"event\"",
+			"contents": "NAME_PLATE_UNIT_REMOVED",
+		},
+		{
+			"trigger": "NEUTRAL_FACTION_SELECT_RESULT\t\"event\"",
+			"contents": "NEUTRAL_FACTION_SELECT_RESULT",
+		},
+		{
+			"trigger": "NEW_AUCTION_UPDATE\t\"event\"",
+			"contents": "NEW_AUCTION_UPDATE",
+		},
+		{
+			"trigger": "NEW_MOUNT_ADDED\t\"event\"",
+			"contents": "NEW_MOUNT_ADDED",
+		},
+		{
+			"trigger": "NEW_PET_ADDED\t\"event\"",
+			"contents": "NEW_PET_ADDED",
+		},
+		{
+			"trigger": "NEW_RECIPE_LEARNED\t\"event\"",
+			"contents": "NEW_RECIPE_LEARNED",
+		},
+		{
+			"trigger": "NEW_TOY_ADDED\t\"event\"",
+			"contents": "NEW_TOY_ADDED",
+		},
+		{
+			"trigger": "NEW_WMO_CHUNK\t\"event\"",
+			"contents": "NEW_WMO_CHUNK",
+		},
+		{
+			"trigger": "NOTIFY_PVP_AFK_RESULT\t\"event\"",
+			"contents": "NOTIFY_PVP_AFK_RESULT",
+		},
+		{
+			"trigger": "NPE_TUTORIAL_UPDATE\t\"event\"",
+			"contents": "NPE_TUTORIAL_UPDATE",
+		},
+		{
+			"trigger": "OBJECT_ENTERED_AOI\t\"event\"",
+			"contents": "OBJECT_ENTERED_AOI",
+		},
+		{
+			"trigger": "OBJECT_LEFT_AOI\t\"event\"",
+			"contents": "OBJECT_LEFT_AOI",
+		},
+		{
+			"trigger": "OBLITERUM_FORGE_CLOSE\t\"event\"",
+			"contents": "OBLITERUM_FORGE_CLOSE",
+		},
+		{
+			"trigger": "OBLITERUM_FORGE_PENDING_ITEM_CHANGED\t\"event\"",
+			"contents": "OBLITERUM_FORGE_PENDING_ITEM_CHANGED",
+		},
+		{
+			"trigger": "OBLITERUM_FORGE_SHOW\t\"event\"",
+			"contents": "OBLITERUM_FORGE_SHOW",
+		},
+		{
+			"trigger": "OPEN_MASTER_LOOT_LIST\t\"event\"",
+			"contents": "OPEN_MASTER_LOOT_LIST",
+		},
+		{
+			"trigger": "OPEN_TABARD_FRAME\t\"event\"",
+			"contents": "OPEN_TABARD_FRAME",
+		},
+		{
+			"trigger": "PARTY_INVITE_CANCEL\t\"event\"",
+			"contents": "PARTY_INVITE_CANCEL",
+		},
+		{
+			"trigger": "PARTY_INVITE_REQUEST\t\"event\"",
+			"contents": "PARTY_INVITE_REQUEST",
+		},
+		{
+			"trigger": "PARTY_LEADER_CHANGED\t\"event\"",
+			"contents": "PARTY_LEADER_CHANGED",
+		},
+		{
+			"trigger": "PARTY_LFG_RESTRICTED\t\"event\"",
+			"contents": "PARTY_LFG_RESTRICTED",
+		},
+		{
+			"trigger": "PARTY_LOOT_METHOD_CHANGED\t\"event\"",
+			"contents": "PARTY_LOOT_METHOD_CHANGED",
+		},
+		{
+			"trigger": "PARTY_MEMBER_DISABLE\t\"event\"",
+			"contents": "PARTY_MEMBER_DISABLE",
+		},
+		{
+			"trigger": "PARTY_MEMBER_ENABLE\t\"event\"",
+			"contents": "PARTY_MEMBER_ENABLE",
+		},
+		{
+			"trigger": "PARTY_REFER_A_FRIEND_UPDATED\t\"event\"",
+			"contents": "PARTY_REFER_A_FRIEND_UPDATED",
+		},
+		{
+			"trigger": "PET_ATTACK_START\t\"event\"",
+			"contents": "PET_ATTACK_START",
+		},
+		{
+			"trigger": "PET_ATTACK_STOP\t\"event\"",
+			"contents": "PET_ATTACK_STOP",
+		},
+		{
+			"trigger": "PET_BAR_HIDEGRID\t\"event\"",
+			"contents": "PET_BAR_HIDEGRID",
+		},
+		{
+			"trigger": "PET_BAR_SHOWGRID\t\"event\"",
+			"contents": "PET_BAR_SHOWGRID",
+		},
+		{
+			"trigger": "PET_BAR_UPDATE\t\"event\"",
+			"contents": "PET_BAR_UPDATE",
+		},
+		{
+			"trigger": "PET_BAR_UPDATE_COOLDOWN\t\"event\"",
+			"contents": "PET_BAR_UPDATE_COOLDOWN",
+		},
+		{
+			"trigger": "PET_BAR_UPDATE_USABLE\t\"event\"",
+			"contents": "PET_BAR_UPDATE_USABLE",
+		},
+		{
+			"trigger": "PET_BATTLE_ABILITY_CHANGED\t\"event\"",
+			"contents": "PET_BATTLE_ABILITY_CHANGED",
+		},
+		{
+			"trigger": "PET_BATTLE_ACTION_SELECTED\t\"event\"",
+			"contents": "PET_BATTLE_ACTION_SELECTED",
+		},
+		{
+			"trigger": "PET_BATTLE_AURA_APPLIED\t\"event\"",
+			"contents": "PET_BATTLE_AURA_APPLIED",
+		},
+		{
+			"trigger": "PET_BATTLE_AURA_CANCELED\t\"event\"",
+			"contents": "PET_BATTLE_AURA_CANCELED",
+		},
+		{
+			"trigger": "PET_BATTLE_AURA_CHANGED\t\"event\"",
+			"contents": "PET_BATTLE_AURA_CHANGED",
+		},
+		{
+			"trigger": "PET_BATTLE_CAPTURED\t\"event\"",
+			"contents": "PET_BATTLE_CAPTURED",
+		},
+		{
+			"trigger": "PET_BATTLE_CLOSE\t\"event\"",
+			"contents": "PET_BATTLE_CLOSE",
+		},
+		{
+			"trigger": "PET_BATTLE_FINAL_ROUND\t\"event\"",
+			"contents": "PET_BATTLE_FINAL_ROUND",
+		},
+		{
+			"trigger": "PET_BATTLE_HEALTH_CHANGED\t\"event\"",
+			"contents": "PET_BATTLE_HEALTH_CHANGED",
+		},
+		{
+			"trigger": "PET_BATTLE_LEVEL_CHANGED\t\"event\"",
+			"contents": "PET_BATTLE_LEVEL_CHANGED",
+		},
+		{
+			"trigger": "PET_BATTLE_LOOT_RECEIVED\t\"event\"",
+			"contents": "PET_BATTLE_LOOT_RECEIVED",
+		},
+		{
+			"trigger": "PET_BATTLE_MAX_HEALTH_CHANGED\t\"event\"",
+			"contents": "PET_BATTLE_MAX_HEALTH_CHANGED",
+		},
+		{
+			"trigger": "PET_BATTLE_OPENING_DONE\t\"event\"",
+			"contents": "PET_BATTLE_OPENING_DONE",
+		},
+		{
+			"trigger": "PET_BATTLE_OPENING_START\t\"event\"",
+			"contents": "PET_BATTLE_OPENING_START",
+		},
+		{
+			"trigger": "PET_BATTLE_OVER\t\"event\"",
+			"contents": "PET_BATTLE_OVER",
+		},
+		{
+			"trigger": "PET_BATTLE_PET_CHANGED\t\"event\"",
+			"contents": "PET_BATTLE_PET_CHANGED",
+		},
+		{
+			"trigger": "PET_BATTLE_PET_ROUND_PLAYBACK_COMPLETE\t\"event\"",
+			"contents": "PET_BATTLE_PET_ROUND_PLAYBACK_COMPLETE",
+		},
+		{
+			"trigger": "PET_BATTLE_PET_ROUND_RESULTS\t\"event\"",
+			"contents": "PET_BATTLE_PET_ROUND_RESULTS",
+		},
+		{
+			"trigger": "PET_BATTLE_PET_TYPE_CHANGED\t\"event\"",
+			"contents": "PET_BATTLE_PET_TYPE_CHANGED",
+		},
+		{
+			"trigger": "PET_BATTLE_PVP_DUEL_REQUEST_CANCEL\t\"event\"",
+			"contents": "PET_BATTLE_PVP_DUEL_REQUEST_CANCEL",
+		},
+		{
+			"trigger": "PET_BATTLE_PVP_DUEL_REQUESTED\t\"event\"",
+			"contents": "PET_BATTLE_PVP_DUEL_REQUESTED",
+		},
+		{
+			"trigger": "PET_BATTLE_QUEUE_PROPOSAL_ACCEPTED\t\"event\"",
+			"contents": "PET_BATTLE_QUEUE_PROPOSAL_ACCEPTED",
+		},
+		{
+			"trigger": "PET_BATTLE_QUEUE_PROPOSAL_DECLINED\t\"event\"",
+			"contents": "PET_BATTLE_QUEUE_PROPOSAL_DECLINED",
+		},
+		{
+			"trigger": "PET_BATTLE_QUEUE_PROPOSE_MATCH\t\"event\"",
+			"contents": "PET_BATTLE_QUEUE_PROPOSE_MATCH",
+		},
+		{
+			"trigger": "PET_BATTLE_QUEUE_STATUS\t\"event\"",
+			"contents": "PET_BATTLE_QUEUE_STATUS",
+		},
+		{
+			"trigger": "PET_BATTLE_XP_CHANGED\t\"event\"",
+			"contents": "PET_BATTLE_XP_CHANGED",
+		},
+		{
+			"trigger": "PET_DISMISS_START\t\"event\"",
+			"contents": "PET_DISMISS_START",
+		},
+		{
+			"trigger": "PET_FORCE_NAME_DECLENSION\t\"event\"",
+			"contents": "PET_FORCE_NAME_DECLENSION",
+		},
+		{
+			"trigger": "PET_JOURNAL_AUTO_SLOTTED_PET\t\"event\"",
+			"contents": "PET_JOURNAL_AUTO_SLOTTED_PET",
+		},
+		{
+			"trigger": "PET_JOURNAL_CAGE_FAILED\t\"event\"",
+			"contents": "PET_JOURNAL_CAGE_FAILED",
+		},
+		{
+			"trigger": "PET_JOURNAL_LIST_UPDATE\t\"event\"",
+			"contents": "PET_JOURNAL_LIST_UPDATE",
+		},
+		{
+			"trigger": "PET_JOURNAL_NEW_BATTLE_SLOT\t\"event\"",
+			"contents": "PET_JOURNAL_NEW_BATTLE_SLOT",
+		},
+		{
+			"trigger": "PET_JOURNAL_PET_DELETED\t\"event\"",
+			"contents": "PET_JOURNAL_PET_DELETED",
+		},
+		{
+			"trigger": "PET_JOURNAL_PET_RESTORED\t\"event\"",
+			"contents": "PET_JOURNAL_PET_RESTORED",
+		},
+		{
+			"trigger": "PET_JOURNAL_PET_REVOKED\t\"event\"",
+			"contents": "PET_JOURNAL_PET_REVOKED",
+		},
+		{
+			"trigger": "PET_JOURNAL_PETS_HEALED\t\"event\"",
+			"contents": "PET_JOURNAL_PETS_HEALED",
+		},
+		{
+			"trigger": "PET_JOURNAL_TRAP_LEVEL_SET\t\"event\"",
+			"contents": "PET_JOURNAL_TRAP_LEVEL_SET",
+		},
+		{
+			"trigger": "PET_SPECIALIZATION_CHANGED\t\"event\"",
+			"contents": "PET_SPECIALIZATION_CHANGED",
+		},
+		{
+			"trigger": "PET_SPELL_POWER_UPDATE\t\"event\"",
+			"contents": "PET_SPELL_POWER_UPDATE",
+		},
+		{
+			"trigger": "PET_STABLE_CLOSED\t\"event\"",
+			"contents": "PET_STABLE_CLOSED",
+		},
+		{
+			"trigger": "PET_STABLE_SHOW\t\"event\"",
+			"contents": "PET_STABLE_SHOW",
+		},
+		{
+			"trigger": "PET_STABLE_UPDATE\t\"event\"",
+			"contents": "PET_STABLE_UPDATE",
+		},
+		{
+			"trigger": "PET_STABLE_UPDATE_PAPERDOLL\t\"event\"",
+			"contents": "PET_STABLE_UPDATE_PAPERDOLL",
+		},
+		{
+			"trigger": "PET_UI_CLOSE\t\"event\"",
+			"contents": "PET_UI_CLOSE",
+		},
+		{
+			"trigger": "PET_UI_UPDATE\t\"event\"",
+			"contents": "PET_UI_UPDATE",
+		},
+		{
+			"trigger": "PETITION_CLOSED\t\"event\"",
+			"contents": "PETITION_CLOSED",
+		},
+		{
+			"trigger": "PETITION_SHOW\t\"event\"",
+			"contents": "PETITION_SHOW",
+		},
+		{
+			"trigger": "PLAY_MOVIE\t\"event\"",
+			"contents": "PLAY_MOVIE",
+		},
+		{
+			"trigger": "PLAYER_ALIVE\t\"event\"",
+			"contents": "PLAYER_ALIVE",
+		},
+		{
+			"trigger": "PLAYER_AVG_ITEM_LEVEL_UPDATE\t\"event\"",
+			"contents": "PLAYER_AVG_ITEM_LEVEL_UPDATE",
+		},
+		{
+			"trigger": "PLAYER_CAMPING\t\"event\"",
+			"contents": "PLAYER_CAMPING",
+		},
+		{
+			"trigger": "PLAYER_CONTROL_GAINED\t\"event\"",
+			"contents": "PLAYER_CONTROL_GAINED",
+		},
+		{
+			"trigger": "PLAYER_CONTROL_LOST\t\"event\"",
+			"contents": "PLAYER_CONTROL_LOST",
+		},
+		{
+			"trigger": "PLAYER_DAMAGE_DONE_MODS\t\"event\"",
+			"contents": "PLAYER_DAMAGE_DONE_MODS",
+		},
+		{
+			"trigger": "PLAYER_DEAD\t\"event\"",
+			"contents": "PLAYER_DEAD",
+		},
+		{
+			"trigger": "PLAYER_DIFFICULTY_CHANGED\t\"event\"",
+			"contents": "PLAYER_DIFFICULTY_CHANGED",
+		},
+		{
+			"trigger": "PLAYER_ENTER_COMBAT\t\"event\"",
+			"contents": "PLAYER_ENTER_COMBAT",
+		},
+		{
+			"trigger": "PLAYER_ENTERING_BATTLEGROUND\t\"event\"",
+			"contents": "PLAYER_ENTERING_BATTLEGROUND",
+		},
+		{
+			"trigger": "PLAYER_ENTERING_WORLD\t\"event\"",
+			"contents": "PLAYER_ENTERING_WORLD",
+		},
+		{
+			"trigger": "PLAYER_EQUIPMENT_CHANGED\t\"event\"",
+			"contents": "PLAYER_EQUIPMENT_CHANGED",
+		},
+		{
+			"trigger": "PLAYER_FARSIGHT_FOCUS_CHANGED\t\"event\"",
+			"contents": "PLAYER_FARSIGHT_FOCUS_CHANGED",
+		},
+		{
+			"trigger": "PLAYER_FLAGS_CHANGED\t\"event\"",
+			"contents": "PLAYER_FLAGS_CHANGED",
+		},
+		{
+			"trigger": "PLAYER_FOCUS_CHANGED\t\"event\"",
+			"contents": "PLAYER_FOCUS_CHANGED",
+		},
+		{
+			"trigger": "PLAYER_GAINS_VEHICLE_DATA\t\"event\"",
+			"contents": "PLAYER_GAINS_VEHICLE_DATA",
+		},
+		{
+			"trigger": "PLAYER_GUILD_UPDATE\t\"event\"",
+			"contents": "PLAYER_GUILD_UPDATE",
+		},
+		{
+			"trigger": "PLAYER_LEARN_PVP_TALENT_FAILED\t\"event\"",
+			"contents": "PLAYER_LEARN_PVP_TALENT_FAILED",
+		},
+		{
+			"trigger": "PLAYER_LEARN_TALENT_FAILED\t\"event\"",
+			"contents": "PLAYER_LEARN_TALENT_FAILED",
+		},
+		{
+			"trigger": "PLAYER_LEAVE_COMBAT\t\"event\"",
+			"contents": "PLAYER_LEAVE_COMBAT",
+		},
+		{
+			"trigger": "PLAYER_LEAVING_WORLD\t\"event\"",
+			"contents": "PLAYER_LEAVING_WORLD",
+		},
+		{
+			"trigger": "PLAYER_LEVEL_CHANGED\t\"event\"",
+			"contents": "PLAYER_LEVEL_CHANGED",
+		},
+		{
+			"trigger": "PLAYER_LEVEL_UP\t\"event\"",
+			"contents": "PLAYER_LEVEL_UP",
+		},
+		{
+			"trigger": "PLAYER_LOGIN\t\"event\"",
+			"contents": "PLAYER_LOGIN",
+		},
+		{
+			"trigger": "PLAYER_LOGOUT\t\"event\"",
+			"contents": "PLAYER_LOGOUT",
+		},
+		{
+			"trigger": "PLAYER_LOOT_SPEC_UPDATED\t\"event\"",
+			"contents": "PLAYER_LOOT_SPEC_UPDATED",
+		},
+		{
+			"trigger": "PLAYER_LOSES_VEHICLE_DATA\t\"event\"",
+			"contents": "PLAYER_LOSES_VEHICLE_DATA",
+		},
+		{
+			"trigger": "PLAYER_MONEY\t\"event\"",
+			"contents": "PLAYER_MONEY",
+		},
+		{
+			"trigger": "PLAYER_MOUNT_DISPLAY_CHANGED\t\"event\"",
+			"contents": "PLAYER_MOUNT_DISPLAY_CHANGED",
+		},
+		{
+			"trigger": "PLAYER_PVP_KILLS_CHANGED\t\"event\"",
+			"contents": "PLAYER_PVP_KILLS_CHANGED",
+		},
+		{
+			"trigger": "PLAYER_PVP_RANK_CHANGED\t\"event\"",
+			"contents": "PLAYER_PVP_RANK_CHANGED",
+		},
+		{
+			"trigger": "PLAYER_PVP_TALENT_UPDATE\t\"event\"",
+			"contents": "PLAYER_PVP_TALENT_UPDATE",
+		},
+		{
+			"trigger": "PLAYER_QUITING\t\"event\"",
+			"contents": "PLAYER_QUITING",
+		},
+		{
+			"trigger": "PLAYER_REGEN_DISABLED\t\"event\"",
+			"contents": "PLAYER_REGEN_DISABLED",
+		},
+		{
+			"trigger": "PLAYER_REGEN_ENABLED\t\"event\"",
+			"contents": "PLAYER_REGEN_ENABLED",
+		},
+		{
+			"trigger": "PLAYER_REPORT_SUBMITTED\t\"event\"",
+			"contents": "PLAYER_REPORT_SUBMITTED",
+		},
+		{
+			"trigger": "PLAYER_ROLES_ASSIGNED\t\"event\"",
+			"contents": "PLAYER_ROLES_ASSIGNED",
+		},
+		{
+			"trigger": "PLAYER_SKINNED\t\"event\"",
+			"contents": "PLAYER_SKINNED",
+		},
+		{
+			"trigger": "PLAYER_SPECIALIZATION_CHANGED\t\"event\"",
+			"contents": "PLAYER_SPECIALIZATION_CHANGED",
+		},
+		{
+			"trigger": "PLAYER_STARTED_MOVING\t\"event\"",
+			"contents": "PLAYER_STARTED_MOVING",
+		},
+		{
+			"trigger": "PLAYER_STOPPED_MOVING\t\"event\"",
+			"contents": "PLAYER_STOPPED_MOVING",
+		},
+		{
+			"trigger": "PLAYER_TALENT_UPDATE\t\"event\"",
+			"contents": "PLAYER_TALENT_UPDATE",
+		},
+		{
+			"trigger": "PLAYER_TARGET_CHANGED\t\"event\"",
+			"contents": "PLAYER_TARGET_CHANGED",
+		},
+		{
+			"trigger": "PLAYER_TOTEM_UPDATE\t\"event\"",
+			"contents": "PLAYER_TOTEM_UPDATE",
+		},
+		{
+			"trigger": "PLAYER_TRADE_CURRENCY\t\"event\"",
+			"contents": "PLAYER_TRADE_CURRENCY",
+		},
+		{
+			"trigger": "PLAYER_TRADE_MONEY\t\"event\"",
+			"contents": "PLAYER_TRADE_MONEY",
+		},
+		{
+			"trigger": "PLAYER_TRIAL_XP_UPDATE\t\"event\"",
+			"contents": "PLAYER_TRIAL_XP_UPDATE",
+		},
+		{
+			"trigger": "PLAYER_UNGHOST\t\"event\"",
+			"contents": "PLAYER_UNGHOST",
+		},
+		{
+			"trigger": "PLAYER_UPDATE_RESTING\t\"event\"",
+			"contents": "PLAYER_UPDATE_RESTING",
+		},
+		{
+			"trigger": "PLAYER_XP_UPDATE\t\"event\"",
+			"contents": "PLAYER_XP_UPDATE",
+		},
+		{
+			"trigger": "PLAYERBANKBAGSLOTS_CHANGED\t\"event\"",
+			"contents": "PLAYERBANKBAGSLOTS_CHANGED",
+		},
+		{
+			"trigger": "PLAYERBANKSLOTS_CHANGED\t\"event\"",
+			"contents": "PLAYERBANKSLOTS_CHANGED",
+		},
+		{
+			"trigger": "PLAYERREAGENTBANKSLOTS_CHANGED\t\"event\"",
+			"contents": "PLAYERREAGENTBANKSLOTS_CHANGED",
+		},
+		{
+			"trigger": "PLAYTIME_CHANGED\t\"event\"",
+			"contents": "PLAYTIME_CHANGED",
+		},
+		{
+			"trigger": "PORTRAITS_UPDATED\t\"event\"",
+			"contents": "PORTRAITS_UPDATED",
+		},
+		{
+			"trigger": "PRESTIGE_AND_HONOR_INVOLUNTARILY_CHANGED\t\"event\"",
+			"contents": "PRESTIGE_AND_HONOR_INVOLUNTARILY_CHANGED",
+		},
+		{
+			"trigger": "PRODUCT_CHOICE_UPDATE\t\"event\"",
+			"contents": "PRODUCT_CHOICE_UPDATE",
+		},
+		{
+			"trigger": "PROVING_GROUNDS_SCORE_UPDATE\t\"event\"",
+			"contents": "PROVING_GROUNDS_SCORE_UPDATE",
+		},
+		{
+			"trigger": "PVP_BRAWL_INFO_UPDATED\t\"event\"",
+			"contents": "PVP_BRAWL_INFO_UPDATED",
+		},
+		{
+			"trigger": "PVP_POWER_UPDATE\t\"event\"",
+			"contents": "PVP_POWER_UPDATE",
+		},
+		{
+			"trigger": "PVP_RATED_STATS_UPDATE\t\"event\"",
+			"contents": "PVP_RATED_STATS_UPDATE",
+		},
+		{
+			"trigger": "PVP_REWARDS_UPDATE\t\"event\"",
+			"contents": "PVP_REWARDS_UPDATE",
+		},
+		{
+			"trigger": "PVP_ROLE_UPDATE\t\"event\"",
+			"contents": "PVP_ROLE_UPDATE",
+		},
+		{
+			"trigger": "PVP_TIMER_UPDATE\t\"event\"",
+			"contents": "PVP_TIMER_UPDATE",
+		},
+		{
+			"trigger": "PVP_TYPES_ENABLED\t\"event\"",
+			"contents": "PVP_TYPES_ENABLED",
+		},
+		{
+			"trigger": "PVP_VEHICLE_INFO_UPDATED\t\"event\"",
+			"contents": "PVP_VEHICLE_INFO_UPDATED",
+		},
+		{
+			"trigger": "PVP_WORLDSTATE_UPDATE\t\"event\"",
+			"contents": "PVP_WORLDSTATE_UPDATE",
+		},
+		{
+			"trigger": "PVPQUEUE_ANYWHERE_SHOW\t\"event\"",
+			"contents": "PVPQUEUE_ANYWHERE_SHOW",
+		},
+		{
+			"trigger": "PVPQUEUE_ANYWHERE_UPDATE_AVAILABLE\t\"event\"",
+			"contents": "PVPQUEUE_ANYWHERE_UPDATE_AVAILABLE",
+		},
+		{
+			"trigger": "QUEST_ACCEPT_CONFIRM\t\"event\"",
+			"contents": "QUEST_ACCEPT_CONFIRM",
+		},
+		{
+			"trigger": "QUEST_ACCEPTED\t\"event\"",
+			"contents": "QUEST_ACCEPTED",
+		},
+		{
+			"trigger": "QUEST_AUTOCOMPLETE\t\"event\"",
+			"contents": "QUEST_AUTOCOMPLETE",
+		},
+		{
+			"trigger": "QUEST_BOSS_EMOTE\t\"event\"",
+			"contents": "QUEST_BOSS_EMOTE",
+		},
+		{
+			"trigger": "QUEST_CHOICE_CLOSE\t\"event\"",
+			"contents": "QUEST_CHOICE_CLOSE",
+		},
+		{
+			"trigger": "QUEST_CHOICE_UPDATE\t\"event\"",
+			"contents": "QUEST_CHOICE_UPDATE",
+		},
+		{
+			"trigger": "QUEST_COMPLETE\t\"event\"",
+			"contents": "QUEST_COMPLETE",
+		},
+		{
+			"trigger": "QUEST_CURRENCY_LOOT_RECEIVED\t\"event\"",
+			"contents": "QUEST_CURRENCY_LOOT_RECEIVED",
+		},
+		{
+			"trigger": "QUEST_DETAIL\t\"event\"",
+			"contents": "QUEST_DETAIL",
+		},
+		{
+			"trigger": "QUEST_FINISHED\t\"event\"",
+			"contents": "QUEST_FINISHED",
+		},
+		{
+			"trigger": "QUEST_GREETING\t\"event\"",
+			"contents": "QUEST_GREETING",
+		},
+		{
+			"trigger": "QUEST_ITEM_UPDATE\t\"event\"",
+			"contents": "QUEST_ITEM_UPDATE",
+		},
+		{
+			"trigger": "QUEST_LOG_CRITERIA_UPDATE\t\"event\"",
+			"contents": "QUEST_LOG_CRITERIA_UPDATE",
+		},
+		{
+			"trigger": "QUEST_LOG_UPDATE\t\"event\"",
+			"contents": "QUEST_LOG_UPDATE",
+		},
+		{
+			"trigger": "QUEST_LOOT_RECEIVED\t\"event\"",
+			"contents": "QUEST_LOOT_RECEIVED",
+		},
+		{
+			"trigger": "QUEST_POI_UPDATE\t\"event\"",
+			"contents": "QUEST_POI_UPDATE",
+		},
+		{
+			"trigger": "QUEST_PROGRESS\t\"event\"",
+			"contents": "QUEST_PROGRESS",
+		},
+		{
+			"trigger": "QUEST_REMOVED\t\"event\"",
+			"contents": "QUEST_REMOVED",
+		},
+		{
+			"trigger": "QUEST_TURNED_IN\t\"event\"",
+			"contents": "QUEST_TURNED_IN",
+		},
+		{
+			"trigger": "QUEST_WATCH_LIST_CHANGED\t\"event\"",
+			"contents": "QUEST_WATCH_LIST_CHANGED",
+		},
+		{
+			"trigger": "QUEST_WATCH_UPDATE\t\"event\"",
+			"contents": "QUEST_WATCH_UPDATE",
+		},
+		{
+			"trigger": "QUESTLINE_UPDATE\t\"event\"",
+			"contents": "QUESTLINE_UPDATE",
+		},
+		{
+			"trigger": "QUICK_TICKET_SYSTEM_STATUS\t\"event\"",
+			"contents": "QUICK_TICKET_SYSTEM_STATUS",
+		},
+		{
+			"trigger": "QUICK_TICKET_THROTTLE_CHANGED\t\"event\"",
+			"contents": "QUICK_TICKET_THROTTLE_CHANGED",
+		},
+		{
+			"trigger": "RAID_BOSS_EMOTE\t\"event\"",
+			"contents": "RAID_BOSS_EMOTE",
+		},
+		{
+			"trigger": "RAID_BOSS_WHISPER\t\"event\"",
+			"contents": "RAID_BOSS_WHISPER",
+		},
+		{
+			"trigger": "RAID_INSTANCE_WELCOME\t\"event\"",
+			"contents": "RAID_INSTANCE_WELCOME",
+		},
+		{
+			"trigger": "RAID_ROSTER_UPDATE\t\"event\"",
+			"contents": "RAID_ROSTER_UPDATE",
+		},
+		{
+			"trigger": "RAID_TARGET_UPDATE\t\"event\"",
+			"contents": "RAID_TARGET_UPDATE",
+		},
+		{
+			"trigger": "RAISED_AS_GHOUL\t\"event\"",
+			"contents": "RAISED_AS_GHOUL",
+		},
+		{
+			"trigger": "READY_CHECK\t\"event\"",
+			"contents": "READY_CHECK",
+		},
+		{
+			"trigger": "READY_CHECK_CONFIRM\t\"event\"",
+			"contents": "READY_CHECK_CONFIRM",
+		},
+		{
+			"trigger": "READY_CHECK_FINISHED\t\"event\"",
+			"contents": "READY_CHECK_FINISHED",
+		},
+		{
+			"trigger": "REAGENTBANK_PURCHASED\t\"event\"",
+			"contents": "REAGENTBANK_PURCHASED",
+		},
+		{
+			"trigger": "REAGENTBANK_UPDATE\t\"event\"",
+			"contents": "REAGENTBANK_UPDATE",
+		},
+		{
+			"trigger": "RECEIVED_ACHIEVEMENT_LIST\t\"event\"",
+			"contents": "RECEIVED_ACHIEVEMENT_LIST",
+		},
+		{
+			"trigger": "RECEIVED_ACHIEVEMENT_MEMBER_LIST\t\"event\"",
+			"contents": "RECEIVED_ACHIEVEMENT_MEMBER_LIST",
+		},
+		{
+			"trigger": "RECRUIT_A_FRIEND_CAN_EMAIL\t\"event\"",
+			"contents": "RECRUIT_A_FRIEND_CAN_EMAIL",
+		},
+		{
+			"trigger": "RECRUIT_A_FRIEND_INVITATION_FAILED\t\"event\"",
+			"contents": "RECRUIT_A_FRIEND_INVITATION_FAILED",
+		},
+		{
+			"trigger": "RECRUIT_A_FRIEND_INVITER_FRIEND_ADDED\t\"event\"",
+			"contents": "RECRUIT_A_FRIEND_INVITER_FRIEND_ADDED",
+		},
+		{
+			"trigger": "RECRUIT_A_FRIEND_SYSTEM_STATUS\t\"event\"",
+			"contents": "RECRUIT_A_FRIEND_SYSTEM_STATUS",
+		},
+		{
+			"trigger": "REPLACE_ENCHANT\t\"event\"",
+			"contents": "REPLACE_ENCHANT",
+		},
+		{
+			"trigger": "REPORT_PLAYER_RESULT\t\"event\"",
+			"contents": "REPORT_PLAYER_RESULT",
+		},
+		{
+			"trigger": "REQUEST_CEMETERY_LIST_RESPONSE\t\"event\"",
+			"contents": "REQUEST_CEMETERY_LIST_RESPONSE",
+		},
+		{
+			"trigger": "REQUIRED_GUILD_RENAME_RESULT\t\"event\"",
+			"contents": "REQUIRED_GUILD_RENAME_RESULT",
+		},
+		{
+			"trigger": "RESEARCH_ARTIFACT_COMPLETE\t\"event\"",
+			"contents": "RESEARCH_ARTIFACT_COMPLETE",
+		},
+		{
+			"trigger": "RESEARCH_ARTIFACT_DIG_SITE_UPDATED\t\"event\"",
+			"contents": "RESEARCH_ARTIFACT_DIG_SITE_UPDATED",
+		},
+		{
+			"trigger": "RESEARCH_ARTIFACT_HISTORY_READY\t\"event\"",
+			"contents": "RESEARCH_ARTIFACT_HISTORY_READY",
+		},
+		{
+			"trigger": "RESEARCH_ARTIFACT_UPDATE\t\"event\"",
+			"contents": "RESEARCH_ARTIFACT_UPDATE",
+		},
+		{
+			"trigger": "RESPEC_AZERITE_EMPOWERED_ITEM_CLOSED\t\"event\"",
+			"contents": "RESPEC_AZERITE_EMPOWERED_ITEM_CLOSED",
+		},
+		{
+			"trigger": "RESPEC_AZERITE_EMPOWERED_ITEM_OPENED\t\"event\"",
+			"contents": "RESPEC_AZERITE_EMPOWERED_ITEM_OPENED",
+		},
+		{
+			"trigger": "RESURRECT_REQUEST\t\"event\"",
+			"contents": "RESURRECT_REQUEST",
+		},
+		{
+			"trigger": "ROLE_CHANGED_INFORM\t\"event\"",
+			"contents": "ROLE_CHANGED_INFORM",
+		},
+		{
+			"trigger": "ROLE_POLL_BEGIN\t\"event\"",
+			"contents": "ROLE_POLL_BEGIN",
+		},
+		{
+			"trigger": "RUNE_POWER_UPDATE\t\"event\"",
+			"contents": "RUNE_POWER_UPDATE",
+		},
+		{
+			"trigger": "SAVED_VARIABLES_TOO_LARGE\t\"event\"",
+			"contents": "SAVED_VARIABLES_TOO_LARGE",
+		},
+		{
+			"trigger": "SCENARIO_BONUS_OBJECTIVE_COMPLETE\t\"event\"",
+			"contents": "SCENARIO_BONUS_OBJECTIVE_COMPLETE",
+		},
+		{
+			"trigger": "SCENARIO_BONUS_VISIBILITY_UPDATE\t\"event\"",
+			"contents": "SCENARIO_BONUS_VISIBILITY_UPDATE",
+		},
+		{
+			"trigger": "SCENARIO_COMPLETED\t\"event\"",
+			"contents": "SCENARIO_COMPLETED",
+		},
+		{
+			"trigger": "SCENARIO_CRITERIA_SHOW_STATE_UPDATE\t\"event\"",
+			"contents": "SCENARIO_CRITERIA_SHOW_STATE_UPDATE",
+		},
+		{
+			"trigger": "SCENARIO_CRITERIA_UPDATE\t\"event\"",
+			"contents": "SCENARIO_CRITERIA_UPDATE",
+		},
+		{
+			"trigger": "SCENARIO_POI_UPDATE\t\"event\"",
+			"contents": "SCENARIO_POI_UPDATE",
+		},
+		{
+			"trigger": "SCENARIO_SPELL_UPDATE\t\"event\"",
+			"contents": "SCENARIO_SPELL_UPDATE",
+		},
+		{
+			"trigger": "SCENARIO_UPDATE\t\"event\"",
+			"contents": "SCENARIO_UPDATE",
+		},
+		{
+			"trigger": "SCRAPPING_MACHINE_CLOSE\t\"event\"",
+			"contents": "SCRAPPING_MACHINE_CLOSE",
+		},
+		{
+			"trigger": "SCRAPPING_MACHINE_ITEM_REMOVED_OR_CANCELLED\t\"event\"",
+			"contents": "SCRAPPING_MACHINE_ITEM_REMOVED_OR_CANCELLED",
+		},
+		{
+			"trigger": "SCRAPPING_MACHINE_PENDING_ITEM_CHANGED\t\"event\"",
+			"contents": "SCRAPPING_MACHINE_PENDING_ITEM_CHANGED",
+		},
+		{
+			"trigger": "SCRAPPING_MACHINE_SCRAPPING_FINISHED\t\"event\"",
+			"contents": "SCRAPPING_MACHINE_SCRAPPING_FINISHED",
+		},
+		{
+			"trigger": "SCRAPPING_MACHINE_SHOW\t\"event\"",
+			"contents": "SCRAPPING_MACHINE_SHOW",
+		},
+		{
+			"trigger": "SCREENSHOT_FAILED\t\"event\"",
+			"contents": "SCREENSHOT_FAILED",
+		},
+		{
+			"trigger": "SCREENSHOT_STARTED\t\"event\"",
+			"contents": "SCREENSHOT_STARTED",
+		},
+		{
+			"trigger": "SCREENSHOT_SUCCEEDED\t\"event\"",
+			"contents": "SCREENSHOT_SUCCEEDED",
+		},
+		{
+			"trigger": "SEARCH_DB_LOADED\t\"event\"",
+			"contents": "SEARCH_DB_LOADED",
+		},
+		{
+			"trigger": "SECURE_TRANSFER_CANCEL\t\"event\"",
+			"contents": "SECURE_TRANSFER_CANCEL",
+		},
+		{
+			"trigger": "SECURE_TRANSFER_CONFIRM_SEND_MAIL\t\"event\"",
+			"contents": "SECURE_TRANSFER_CONFIRM_SEND_MAIL",
+		},
+		{
+			"trigger": "SECURE_TRANSFER_CONFIRM_TRADE_ACCEPT\t\"event\"",
+			"contents": "SECURE_TRANSFER_CONFIRM_TRADE_ACCEPT",
+		},
+		{
+			"trigger": "SELF_RES_SPELL_CHANGED\t\"event\"",
+			"contents": "SELF_RES_SPELL_CHANGED",
+		},
+		{
+			"trigger": "SEND_MAIL_COD_CHANGED\t\"event\"",
+			"contents": "SEND_MAIL_COD_CHANGED",
+		},
+		{
+			"trigger": "SEND_MAIL_MONEY_CHANGED\t\"event\"",
+			"contents": "SEND_MAIL_MONEY_CHANGED",
+		},
+		{
+			"trigger": "SESSION_TIME_ALERT\t\"event\"",
+			"contents": "SESSION_TIME_ALERT",
+		},
+		{
+			"trigger": "SHIPMENT_CRAFTER_CLOSED\t\"event\"",
+			"contents": "SHIPMENT_CRAFTER_CLOSED",
+		},
+		{
+			"trigger": "SHIPMENT_CRAFTER_INFO\t\"event\"",
+			"contents": "SHIPMENT_CRAFTER_INFO",
+		},
+		{
+			"trigger": "SHIPMENT_CRAFTER_OPENED\t\"event\"",
+			"contents": "SHIPMENT_CRAFTER_OPENED",
+		},
+		{
+			"trigger": "SHIPMENT_CRAFTER_REAGENT_UPDATE\t\"event\"",
+			"contents": "SHIPMENT_CRAFTER_REAGENT_UPDATE",
+		},
+		{
+			"trigger": "SHIPMENT_UPDATE\t\"event\"",
+			"contents": "SHIPMENT_UPDATE",
+		},
+		{
+			"trigger": "SHOW_FACTION_SELECT_UI\t\"event\"",
+			"contents": "SHOW_FACTION_SELECT_UI",
+		},
+		{
+			"trigger": "SHOW_LOOT_TOAST\t\"event\"",
+			"contents": "SHOW_LOOT_TOAST",
+		},
+		{
+			"trigger": "SHOW_LOOT_TOAST_LEGENDARY_LOOTED\t\"event\"",
+			"contents": "SHOW_LOOT_TOAST_LEGENDARY_LOOTED",
+		},
+		{
+			"trigger": "SHOW_LOOT_TOAST_UPGRADE\t\"event\"",
+			"contents": "SHOW_LOOT_TOAST_UPGRADE",
+		},
+		{
+			"trigger": "SHOW_PVP_FACTION_LOOT_TOAST\t\"event\"",
+			"contents": "SHOW_PVP_FACTION_LOOT_TOAST",
+		},
+		{
+			"trigger": "SHOW_RATED_PVP_REWARD_TOAST\t\"event\"",
+			"contents": "SHOW_RATED_PVP_REWARD_TOAST",
+		},
+		{
+			"trigger": "SIMPLE_BROWSER_WEB_ERROR\t\"event\"",
+			"contents": "SIMPLE_BROWSER_WEB_ERROR",
+		},
+		{
+			"trigger": "SIMPLE_BROWSER_WEB_PROXY_FAILED\t\"event\"",
+			"contents": "SIMPLE_BROWSER_WEB_PROXY_FAILED",
+		},
+		{
+			"trigger": "SIMPLE_CHECKOUT_CLOSED\t\"event\"",
+			"contents": "SIMPLE_CHECKOUT_CLOSED",
+		},
+		{
+			"trigger": "SKILL_LINES_CHANGED\t\"event\"",
+			"contents": "SKILL_LINES_CHANGED",
+		},
+		{
+			"trigger": "SOCIAL_ITEM_RECEIVED\t\"event\"",
+			"contents": "SOCIAL_ITEM_RECEIVED",
+		},
+		{
+			"trigger": "SOCIAL_QUEUE_CONFIG_UPDATED\t\"event\"",
+			"contents": "SOCIAL_QUEUE_CONFIG_UPDATED",
+		},
+		{
+			"trigger": "SOCIAL_QUEUE_UPDATE\t\"event\"",
+			"contents": "SOCIAL_QUEUE_UPDATE",
+		},
+		{
+			"trigger": "SOCKET_INFO_ACCEPT\t\"event\"",
+			"contents": "SOCKET_INFO_ACCEPT",
+		},
+		{
+			"trigger": "SOCKET_INFO_BIND_CONFIRM\t\"event\"",
+			"contents": "SOCKET_INFO_BIND_CONFIRM",
+		},
+		{
+			"trigger": "SOCKET_INFO_CLOSE\t\"event\"",
+			"contents": "SOCKET_INFO_CLOSE",
+		},
+		{
+			"trigger": "SOCKET_INFO_FAILURE\t\"event\"",
+			"contents": "SOCKET_INFO_FAILURE",
+		},
+		{
+			"trigger": "SOCKET_INFO_SUCCESS\t\"event\"",
+			"contents": "SOCKET_INFO_SUCCESS",
+		},
+		{
+			"trigger": "SOCKET_INFO_UPDATE\t\"event\"",
+			"contents": "SOCKET_INFO_UPDATE",
+		},
+		{
+			"trigger": "SOR_BY_TEXT_UPDATED\t\"event\"",
+			"contents": "SOR_BY_TEXT_UPDATED",
+		},
+		{
+			"trigger": "SOR_COUNTS_UPDATED\t\"event\"",
+			"contents": "SOR_COUNTS_UPDATED",
+		},
+		{
+			"trigger": "SOR_START_EXPERIENCE_INCOMPLETE\t\"event\"",
+			"contents": "SOR_START_EXPERIENCE_INCOMPLETE",
+		},
+		{
+			"trigger": "SOUND_DEVICE_UPDATE\t\"event\"",
+			"contents": "SOUND_DEVICE_UPDATE",
+		},
+		{
+			"trigger": "SOUNDKIT_FINISHED\t\"event\"",
+			"contents": "SOUNDKIT_FINISHED",
+		},
+		{
+			"trigger": "SPEC_INVOLUNTARILY_CHANGED\t\"event\"",
+			"contents": "SPEC_INVOLUNTARILY_CHANGED",
+		},
+		{
+			"trigger": "SPEED_UPDATE\t\"event\"",
+			"contents": "SPEED_UPDATE",
+		},
+		{
+			"trigger": "SPELL_ACTIVATION_OVERLAY_GLOW_HIDE\t\"event\"",
+			"contents": "SPELL_ACTIVATION_OVERLAY_GLOW_HIDE",
+		},
+		{
+			"trigger": "SPELL_ACTIVATION_OVERLAY_GLOW_SHOW\t\"event\"",
+			"contents": "SPELL_ACTIVATION_OVERLAY_GLOW_SHOW",
+		},
+		{
+			"trigger": "SPELL_ACTIVATION_OVERLAY_HIDE\t\"event\"",
+			"contents": "SPELL_ACTIVATION_OVERLAY_HIDE",
+		},
+		{
+			"trigger": "SPELL_ACTIVATION_OVERLAY_SHOW\t\"event\"",
+			"contents": "SPELL_ACTIVATION_OVERLAY_SHOW",
+		},
+		{
+			"trigger": "SPELL_CONFIRMATION_PROMPT\t\"event\"",
+			"contents": "SPELL_CONFIRMATION_PROMPT",
+		},
+		{
+			"trigger": "SPELL_CONFIRMATION_TIMEOUT\t\"event\"",
+			"contents": "SPELL_CONFIRMATION_TIMEOUT",
+		},
+		{
+			"trigger": "SPELL_DATA_LOAD_RESULT\t\"event\"",
+			"contents": "SPELL_DATA_LOAD_RESULT",
+		},
+		{
+			"trigger": "SPELL_FLYOUT_UPDATE\t\"event\"",
+			"contents": "SPELL_FLYOUT_UPDATE",
+		},
+		{
+			"trigger": "SPELL_POWER_CHANGED\t\"event\"",
+			"contents": "SPELL_POWER_CHANGED",
+		},
+		{
+			"trigger": "SPELL_PUSHED_TO_ACTIONBAR\t\"event\"",
+			"contents": "SPELL_PUSHED_TO_ACTIONBAR",
+		},
+		{
+			"trigger": "SPELL_TEXT_UPDATE\t\"event\"",
+			"contents": "SPELL_TEXT_UPDATE",
+		},
+		{
+			"trigger": "SPELL_UPDATE_CHARGES\t\"event\"",
+			"contents": "SPELL_UPDATE_CHARGES",
+		},
+		{
+			"trigger": "SPELL_UPDATE_COOLDOWN\t\"event\"",
+			"contents": "SPELL_UPDATE_COOLDOWN",
+		},
+		{
+			"trigger": "SPELL_UPDATE_ICON\t\"event\"",
+			"contents": "SPELL_UPDATE_ICON",
+		},
+		{
+			"trigger": "SPELL_UPDATE_USABLE\t\"event\"",
+			"contents": "SPELL_UPDATE_USABLE",
+		},
+		{
+			"trigger": "SPELLS_CHANGED\t\"event\"",
+			"contents": "SPELLS_CHANGED",
+		},
+		{
+			"trigger": "START_AUTOREPEAT_SPELL\t\"event\"",
+			"contents": "START_AUTOREPEAT_SPELL",
+		},
+		{
+			"trigger": "START_LOOT_ROLL\t\"event\"",
+			"contents": "START_LOOT_ROLL",
+		},
+		{
+			"trigger": "START_TIMER\t\"event\"",
+			"contents": "START_TIMER",
+		},
+		{
+			"trigger": "STOP_AUTOREPEAT_SPELL\t\"event\"",
+			"contents": "STOP_AUTOREPEAT_SPELL",
+		},
+		{
+			"trigger": "STORE_BOOST_AUTO_CONSUMED\t\"event\"",
+			"contents": "STORE_BOOST_AUTO_CONSUMED",
+		},
+		{
+			"trigger": "STORE_CHARACTER_LIST_RECEIVED\t\"event\"",
+			"contents": "STORE_CHARACTER_LIST_RECEIVED",
+		},
+		{
+			"trigger": "STORE_CONFIRM_PURCHASE\t\"event\"",
+			"contents": "STORE_CONFIRM_PURCHASE",
+		},
+		{
+			"trigger": "STORE_GUILD_FOLLOW_INFO_RECEIVED\t\"event\"",
+			"contents": "STORE_GUILD_FOLLOW_INFO_RECEIVED",
+		},
+		{
+			"trigger": "STORE_GUILD_MASTER_INFO_RECEIVED\t\"event\"",
+			"contents": "STORE_GUILD_MASTER_INFO_RECEIVED",
+		},
+		{
+			"trigger": "STORE_OPEN_SIMPLE_CHECKOUT\t\"event\"",
+			"contents": "STORE_OPEN_SIMPLE_CHECKOUT",
+		},
+		{
+			"trigger": "STORE_ORDER_INITIATION_FAILED\t\"event\"",
+			"contents": "STORE_ORDER_INITIATION_FAILED",
+		},
+		{
+			"trigger": "STORE_PRODUCT_DELIVERED\t\"event\"",
+			"contents": "STORE_PRODUCT_DELIVERED",
+		},
+		{
+			"trigger": "STORE_PRODUCTS_UPDATED\t\"event\"",
+			"contents": "STORE_PRODUCTS_UPDATED",
+		},
+		{
+			"trigger": "STORE_PURCHASE_ERROR\t\"event\"",
+			"contents": "STORE_PURCHASE_ERROR",
+		},
+		{
+			"trigger": "STORE_PURCHASE_LIST_UPDATED\t\"event\"",
+			"contents": "STORE_PURCHASE_LIST_UPDATED",
+		},
+		{
+			"trigger": "STORE_REFRESH\t\"event\"",
+			"contents": "STORE_REFRESH",
+		},
+		{
+			"trigger": "STORE_STATUS_CHANGED\t\"event\"",
+			"contents": "STORE_STATUS_CHANGED",
+		},
+		{
+			"trigger": "STORE_VAS_PURCHASE_COMPLETE\t\"event\"",
+			"contents": "STORE_VAS_PURCHASE_COMPLETE",
+		},
+		{
+			"trigger": "STORE_VAS_PURCHASE_ERROR\t\"event\"",
+			"contents": "STORE_VAS_PURCHASE_ERROR",
+		},
+		{
+			"trigger": "STREAM_VIEW_MARKER_UPDATED\t\"event\"",
+			"contents": "STREAM_VIEW_MARKER_UPDATED",
+		},
+		{
+			"trigger": "STREAMING_ICON\t\"event\"",
+			"contents": "STREAMING_ICON",
+		},
+		{
+			"trigger": "STURDINESS_UPDATE\t\"event\"",
+			"contents": "STURDINESS_UPDATE",
+		},
+		{
+			"trigger": "SUBSCRIPTION_CHANGED_KICK_IMMINENT\t\"event\"",
+			"contents": "SUBSCRIPTION_CHANGED_KICK_IMMINENT",
+		},
+		{
+			"trigger": "SUPER_TRACKED_QUEST_CHANGED\t\"event\"",
+			"contents": "SUPER_TRACKED_QUEST_CHANGED",
+		},
+		{
+			"trigger": "SYSMSG\t\"event\"",
+			"contents": "SYSMSG",
+		},
+		{
+			"trigger": "TABARD_CANSAVE_CHANGED\t\"event\"",
+			"contents": "TABARD_CANSAVE_CHANGED",
+		},
+		{
+			"trigger": "TABARD_SAVE_PENDING\t\"event\"",
+			"contents": "TABARD_SAVE_PENDING",
+		},
+		{
+			"trigger": "TALENTS_INVOLUNTARILY_RESET\t\"event\"",
+			"contents": "TALENTS_INVOLUNTARILY_RESET",
+		},
+		{
+			"trigger": "TALKINGHEAD_CLOSE\t\"event\"",
+			"contents": "TALKINGHEAD_CLOSE",
+		},
+		{
+			"trigger": "TALKINGHEAD_REQUESTED\t\"event\"",
+			"contents": "TALKINGHEAD_REQUESTED",
+		},
+		{
+			"trigger": "TASK_PROGRESS_UPDATE\t\"event\"",
+			"contents": "TASK_PROGRESS_UPDATE",
+		},
+		{
+			"trigger": "TAXIMAP_CLOSED\t\"event\"",
+			"contents": "TAXIMAP_CLOSED",
+		},
+		{
+			"trigger": "TAXIMAP_OPENED\t\"event\"",
+			"contents": "TAXIMAP_OPENED",
+		},
+		{
+			"trigger": "TIME_PLAYED_MSG\t\"event\"",
+			"contents": "TIME_PLAYED_MSG",
+		},
+		{
+			"trigger": "TOGGLE_CONSOLE\t\"event\"",
+			"contents": "TOGGLE_CONSOLE",
+		},
+		{
+			"trigger": "TOGGLE_FRAMESTACK\t\"event\"",
+			"contents": "TOGGLE_FRAMESTACK",
+		},
+		{
+			"trigger": "TOKEN_AUCTION_SOLD\t\"event\"",
+			"contents": "TOKEN_AUCTION_SOLD",
+		},
+		{
+			"trigger": "TOKEN_BUY_CONFIRM_REQUIRED\t\"event\"",
+			"contents": "TOKEN_BUY_CONFIRM_REQUIRED",
+		},
+		{
+			"trigger": "TOKEN_BUY_RESULT\t\"event\"",
+			"contents": "TOKEN_BUY_RESULT",
+		},
+		{
+			"trigger": "TOKEN_DISTRIBUTIONS_UPDATED\t\"event\"",
+			"contents": "TOKEN_DISTRIBUTIONS_UPDATED",
+		},
+		{
+			"trigger": "TOKEN_MARKET_PRICE_UPDATED\t\"event\"",
+			"contents": "TOKEN_MARKET_PRICE_UPDATED",
+		},
+		{
+			"trigger": "TOKEN_REDEEM_BALANCE_UPDATED\t\"event\"",
+			"contents": "TOKEN_REDEEM_BALANCE_UPDATED",
+		},
+		{
+			"trigger": "TOKEN_REDEEM_CONFIRM_REQUIRED\t\"event\"",
+			"contents": "TOKEN_REDEEM_CONFIRM_REQUIRED",
+		},
+		{
+			"trigger": "TOKEN_REDEEM_FRAME_SHOW\t\"event\"",
+			"contents": "TOKEN_REDEEM_FRAME_SHOW",
+		},
+		{
+			"trigger": "TOKEN_REDEEM_GAME_TIME_UPDATED\t\"event\"",
+			"contents": "TOKEN_REDEEM_GAME_TIME_UPDATED",
+		},
+		{
+			"trigger": "TOKEN_REDEEM_RESULT\t\"event\"",
+			"contents": "TOKEN_REDEEM_RESULT",
+		},
+		{
+			"trigger": "TOKEN_SELL_CONFIRM_REQUIRED\t\"event\"",
+			"contents": "TOKEN_SELL_CONFIRM_REQUIRED",
+		},
+		{
+			"trigger": "TOKEN_SELL_RESULT\t\"event\"",
+			"contents": "TOKEN_SELL_RESULT",
+		},
+		{
+			"trigger": "TOKEN_STATUS_CHANGED\t\"event\"",
+			"contents": "TOKEN_STATUS_CHANGED",
+		},
+		{
+			"trigger": "TOYS_UPDATED\t\"event\"",
+			"contents": "TOYS_UPDATED",
+		},
+		{
+			"trigger": "TRACKED_ACHIEVEMENT_LIST_CHANGED\t\"event\"",
+			"contents": "TRACKED_ACHIEVEMENT_LIST_CHANGED",
+		},
+		{
+			"trigger": "TRACKED_ACHIEVEMENT_UPDATE\t\"event\"",
+			"contents": "TRACKED_ACHIEVEMENT_UPDATE",
+		},
+		{
+			"trigger": "TRADE_ACCEPT_UPDATE\t\"event\"",
+			"contents": "TRADE_ACCEPT_UPDATE",
+		},
+		{
+			"trigger": "TRADE_CLOSED\t\"event\"",
+			"contents": "TRADE_CLOSED",
+		},
+		{
+			"trigger": "TRADE_CURRENCY_CHANGED\t\"event\"",
+			"contents": "TRADE_CURRENCY_CHANGED",
+		},
+		{
+			"trigger": "TRADE_MONEY_CHANGED\t\"event\"",
+			"contents": "TRADE_MONEY_CHANGED",
+		},
+		{
+			"trigger": "TRADE_PLAYER_ITEM_CHANGED\t\"event\"",
+			"contents": "TRADE_PLAYER_ITEM_CHANGED",
+		},
+		{
+			"trigger": "TRADE_POTENTIAL_BIND_ENCHANT\t\"event\"",
+			"contents": "TRADE_POTENTIAL_BIND_ENCHANT",
+		},
+		{
+			"trigger": "TRADE_POTENTIAL_REMOVE_TRANSMOG\t\"event\"",
+			"contents": "TRADE_POTENTIAL_REMOVE_TRANSMOG",
+		},
+		{
+			"trigger": "TRADE_REPLACE_ENCHANT\t\"event\"",
+			"contents": "TRADE_REPLACE_ENCHANT",
+		},
+		{
+			"trigger": "TRADE_REQUEST\t\"event\"",
+			"contents": "TRADE_REQUEST",
+		},
+		{
+			"trigger": "TRADE_REQUEST_CANCEL\t\"event\"",
+			"contents": "TRADE_REQUEST_CANCEL",
+		},
+		{
+			"trigger": "TRADE_SHOW\t\"event\"",
+			"contents": "TRADE_SHOW",
+		},
+		{
+			"trigger": "TRADE_SKILL_CLOSE\t\"event\"",
+			"contents": "TRADE_SKILL_CLOSE",
+		},
+		{
+			"trigger": "TRADE_SKILL_DATA_SOURCE_CHANGED\t\"event\"",
+			"contents": "TRADE_SKILL_DATA_SOURCE_CHANGED",
+		},
+		{
+			"trigger": "TRADE_SKILL_DATA_SOURCE_CHANGING\t\"event\"",
+			"contents": "TRADE_SKILL_DATA_SOURCE_CHANGING",
+		},
+		{
+			"trigger": "TRADE_SKILL_DETAILS_UPDATE\t\"event\"",
+			"contents": "TRADE_SKILL_DETAILS_UPDATE",
+		},
+		{
+			"trigger": "TRADE_SKILL_LIST_UPDATE\t\"event\"",
+			"contents": "TRADE_SKILL_LIST_UPDATE",
+		},
+		{
+			"trigger": "TRADE_SKILL_NAME_UPDATE\t\"event\"",
+			"contents": "TRADE_SKILL_NAME_UPDATE",
+		},
+		{
+			"trigger": "TRADE_SKILL_SHOW\t\"event\"",
+			"contents": "TRADE_SKILL_SHOW",
+		},
+		{
+			"trigger": "TRADE_TARGET_ITEM_CHANGED\t\"event\"",
+			"contents": "TRADE_TARGET_ITEM_CHANGED",
+		},
+		{
+			"trigger": "TRADE_UPDATE\t\"event\"",
+			"contents": "TRADE_UPDATE",
+		},
+		{
+			"trigger": "TRAINER_CLOSED\t\"event\"",
+			"contents": "TRAINER_CLOSED",
+		},
+		{
+			"trigger": "TRAINER_DESCRIPTION_UPDATE\t\"event\"",
+			"contents": "TRAINER_DESCRIPTION_UPDATE",
+		},
+		{
+			"trigger": "TRAINER_SERVICE_INFO_NAME_UPDATE\t\"event\"",
+			"contents": "TRAINER_SERVICE_INFO_NAME_UPDATE",
+		},
+		{
+			"trigger": "TRAINER_SHOW\t\"event\"",
+			"contents": "TRAINER_SHOW",
+		},
+		{
+			"trigger": "TRAINER_UPDATE\t\"event\"",
+			"contents": "TRAINER_UPDATE",
+		},
+		{
+			"trigger": "TRANSMOG_COLLECTION_CAMERA_UPDATE\t\"event\"",
+			"contents": "TRANSMOG_COLLECTION_CAMERA_UPDATE",
+		},
+		{
+			"trigger": "TRANSMOG_COLLECTION_ITEM_UPDATE\t\"event\"",
+			"contents": "TRANSMOG_COLLECTION_ITEM_UPDATE",
+		},
+		{
+			"trigger": "TRANSMOG_COLLECTION_SOURCE_ADDED\t\"event\"",
+			"contents": "TRANSMOG_COLLECTION_SOURCE_ADDED",
+		},
+		{
+			"trigger": "TRANSMOG_COLLECTION_SOURCE_REMOVED\t\"event\"",
+			"contents": "TRANSMOG_COLLECTION_SOURCE_REMOVED",
+		},
+		{
+			"trigger": "TRANSMOG_COLLECTION_UPDATED\t\"event\"",
+			"contents": "TRANSMOG_COLLECTION_UPDATED",
+		},
+		{
+			"trigger": "TRANSMOG_OUTFITS_CHANGED\t\"event\"",
+			"contents": "TRANSMOG_OUTFITS_CHANGED",
+		},
+		{
+			"trigger": "TRANSMOG_SEARCH_UPDATED\t\"event\"",
+			"contents": "TRANSMOG_SEARCH_UPDATED",
+		},
+		{
+			"trigger": "TRANSMOG_SETS_UPDATE_FAVORITE\t\"event\"",
+			"contents": "TRANSMOG_SETS_UPDATE_FAVORITE",
+		},
+		{
+			"trigger": "TRANSMOG_SOURCE_COLLECTABILITY_UPDATE\t\"event\"",
+			"contents": "TRANSMOG_SOURCE_COLLECTABILITY_UPDATE",
+		},
+		{
+			"trigger": "TRANSMOGRIFY_CLOSE\t\"event\"",
+			"contents": "TRANSMOGRIFY_CLOSE",
+		},
+		{
+			"trigger": "TRANSMOGRIFY_ITEM_UPDATE\t\"event\"",
+			"contents": "TRANSMOGRIFY_ITEM_UPDATE",
+		},
+		{
+			"trigger": "TRANSMOGRIFY_OPEN\t\"event\"",
+			"contents": "TRANSMOGRIFY_OPEN",
+		},
+		{
+			"trigger": "TRANSMOGRIFY_SUCCESS\t\"event\"",
+			"contents": "TRANSMOGRIFY_SUCCESS",
+		},
+		{
+			"trigger": "TRANSMOGRIFY_UPDATE\t\"event\"",
+			"contents": "TRANSMOGRIFY_UPDATE",
+		},
+		{
+			"trigger": "TRIAL_CAP_REACHED_LEVEL\t\"event\"",
+			"contents": "TRIAL_CAP_REACHED_LEVEL",
+		},
+		{
+			"trigger": "TRIAL_CAP_REACHED_MONEY\t\"event\"",
+			"contents": "TRIAL_CAP_REACHED_MONEY",
+		},
+		{
+			"trigger": "TRIAL_STATUS_UPDATE\t\"event\"",
+			"contents": "TRIAL_STATUS_UPDATE",
+		},
+		{
+			"trigger": "TUTORIAL_HIGHLIGHT_SPELL\t\"event\"",
+			"contents": "TUTORIAL_HIGHLIGHT_SPELL",
+		},
+		{
+			"trigger": "TUTORIAL_TRIGGER\t\"event\"",
+			"contents": "TUTORIAL_TRIGGER",
+		},
+		{
+			"trigger": "TUTORIAL_UNHIGHLIGHT_SPELL\t\"event\"",
+			"contents": "TUTORIAL_UNHIGHLIGHT_SPELL",
+		},
+		{
+			"trigger": "TWITTER_LINK_RESULT\t\"event\"",
+			"contents": "TWITTER_LINK_RESULT",
+		},
+		{
+			"trigger": "TWITTER_POST_RESULT\t\"event\"",
+			"contents": "TWITTER_POST_RESULT",
+		},
+		{
+			"trigger": "TWITTER_STATUS_UPDATE\t\"event\"",
+			"contents": "TWITTER_STATUS_UPDATE",
+		},
+		{
+			"trigger": "UI_ERROR_MESSAGE\t\"event\"",
+			"contents": "UI_ERROR_MESSAGE",
+		},
+		{
+			"trigger": "UI_INFO_MESSAGE\t\"event\"",
+			"contents": "UI_INFO_MESSAGE",
+		},
+		{
+			"trigger": "UI_MODEL_SCENE_INFO_UPDATED\t\"event\"",
+			"contents": "UI_MODEL_SCENE_INFO_UPDATED",
+		},
+		{
+			"trigger": "UI_SCALE_CHANGED\t\"event\"",
+			"contents": "UI_SCALE_CHANGED",
+		},
+		{
+			"trigger": "UNIT_ABSORB_AMOUNT_CHANGED\t\"event\"",
+			"contents": "UNIT_ABSORB_AMOUNT_CHANGED",
+		},
+		{
+			"trigger": "UNIT_ATTACK\t\"event\"",
+			"contents": "UNIT_ATTACK",
+		},
+		{
+			"trigger": "UNIT_ATTACK_POWER\t\"event\"",
+			"contents": "UNIT_ATTACK_POWER",
+		},
+		{
+			"trigger": "UNIT_ATTACK_SPEED\t\"event\"",
+			"contents": "UNIT_ATTACK_SPEED",
+		},
+		{
+			"trigger": "UNIT_AURA\t\"event\"",
+			"contents": "UNIT_AURA",
+		},
+		{
+			"trigger": "UNIT_CHEAT_TOGGLE_EVENT\t\"event\"",
+			"contents": "UNIT_CHEAT_TOGGLE_EVENT",
+		},
+		{
+			"trigger": "UNIT_CLASSIFICATION_CHANGED\t\"event\"",
+			"contents": "UNIT_CLASSIFICATION_CHANGED",
+		},
+		{
+			"trigger": "UNIT_COMBAT\t\"event\"",
+			"contents": "UNIT_COMBAT",
+		},
+		{
+			"trigger": "UNIT_CONNECTION\t\"event\"",
+			"contents": "UNIT_CONNECTION",
+		},
+		{
+			"trigger": "UNIT_DAMAGE\t\"event\"",
+			"contents": "UNIT_DAMAGE",
+		},
+		{
+			"trigger": "UNIT_DEFENSE\t\"event\"",
+			"contents": "UNIT_DEFENSE",
+		},
+		{
+			"trigger": "UNIT_DISPLAYPOWER\t\"event\"",
+			"contents": "UNIT_DISPLAYPOWER",
+		},
+		{
+			"trigger": "UNIT_ENTERED_VEHICLE\t\"event\"",
+			"contents": "UNIT_ENTERED_VEHICLE",
+		},
+		{
+			"trigger": "UNIT_ENTERING_VEHICLE\t\"event\"",
+			"contents": "UNIT_ENTERING_VEHICLE",
+		},
+		{
+			"trigger": "UNIT_EXITED_VEHICLE\t\"event\"",
+			"contents": "UNIT_EXITED_VEHICLE",
+		},
+		{
+			"trigger": "UNIT_EXITING_VEHICLE\t\"event\"",
+			"contents": "UNIT_EXITING_VEHICLE",
+		},
+		{
+			"trigger": "UNIT_FACTION\t\"event\"",
+			"contents": "UNIT_FACTION",
+		},
+		{
+			"trigger": "UNIT_FLAGS\t\"event\"",
+			"contents": "UNIT_FLAGS",
+		},
+		{
+			"trigger": "UNIT_HEAL_ABSORB_AMOUNT_CHANGED\t\"event\"",
+			"contents": "UNIT_HEAL_ABSORB_AMOUNT_CHANGED",
+		},
+		{
+			"trigger": "UNIT_HEAL_PREDICTION\t\"event\"",
+			"contents": "UNIT_HEAL_PREDICTION",
+		},
+		{
+			"trigger": "UNIT_HEALTH\t\"event\"",
+			"contents": "UNIT_HEALTH",
+		},
+		{
+			"trigger": "UNIT_HEALTH_FREQUENT\t\"event\"",
+			"contents": "UNIT_HEALTH_FREQUENT",
+		},
+		{
+			"trigger": "UNIT_INVENTORY_CHANGED\t\"event\"",
+			"contents": "UNIT_INVENTORY_CHANGED",
+		},
+		{
+			"trigger": "UNIT_LEVEL\t\"event\"",
+			"contents": "UNIT_LEVEL",
+		},
+		{
+			"trigger": "UNIT_MANA\t\"event\"",
+			"contents": "UNIT_MANA",
+		},
+		{
+			"trigger": "UNIT_MAXHEALTH\t\"event\"",
+			"contents": "UNIT_MAXHEALTH",
+		},
+		{
+			"trigger": "UNIT_MAXPOWER\t\"event\"",
+			"contents": "UNIT_MAXPOWER",
+		},
+		{
+			"trigger": "UNIT_MODEL_CHANGED\t\"event\"",
+			"contents": "UNIT_MODEL_CHANGED",
+		},
+		{
+			"trigger": "UNIT_NAME_UPDATE\t\"event\"",
+			"contents": "UNIT_NAME_UPDATE",
+		},
+		{
+			"trigger": "UNIT_OTHER_PARTY_CHANGED\t\"event\"",
+			"contents": "UNIT_OTHER_PARTY_CHANGED",
+		},
+		{
+			"trigger": "UNIT_PET\t\"event\"",
+			"contents": "UNIT_PET",
+		},
+		{
+			"trigger": "UNIT_PET_EXPERIENCE\t\"event\"",
+			"contents": "UNIT_PET_EXPERIENCE",
+		},
+		{
+			"trigger": "UNIT_PHASE\t\"event\"",
+			"contents": "UNIT_PHASE",
+		},
+		{
+			"trigger": "UNIT_PORTRAIT_UPDATE\t\"event\"",
+			"contents": "UNIT_PORTRAIT_UPDATE",
+		},
+		{
+			"trigger": "UNIT_POWER_BAR_HIDE\t\"event\"",
+			"contents": "UNIT_POWER_BAR_HIDE",
+		},
+		{
+			"trigger": "UNIT_POWER_BAR_SHOW\t\"event\"",
+			"contents": "UNIT_POWER_BAR_SHOW",
+		},
+		{
+			"trigger": "UNIT_POWER_BAR_TIMER_UPDATE\t\"event\"",
+			"contents": "UNIT_POWER_BAR_TIMER_UPDATE",
+		},
+		{
+			"trigger": "UNIT_POWER_FREQUENT\t\"event\"",
+			"contents": "UNIT_POWER_FREQUENT",
+		},
+		{
+			"trigger": "UNIT_POWER_UPDATE\t\"event\"",
+			"contents": "UNIT_POWER_UPDATE",
+		},
+		{
+			"trigger": "UNIT_QUEST_LOG_CHANGED\t\"event\"",
+			"contents": "UNIT_QUEST_LOG_CHANGED",
+		},
+		{
+			"trigger": "UNIT_RANGED_ATTACK_POWER\t\"event\"",
+			"contents": "UNIT_RANGED_ATTACK_POWER",
+		},
+		{
+			"trigger": "UNIT_RANGEDDAMAGE\t\"event\"",
+			"contents": "UNIT_RANGEDDAMAGE",
+		},
+		{
+			"trigger": "UNIT_RESISTANCES\t\"event\"",
+			"contents": "UNIT_RESISTANCES",
+		},
+		{
+			"trigger": "UNIT_SPELL_HASTE\t\"event\"",
+			"contents": "UNIT_SPELL_HASTE",
+		},
+		{
+			"trigger": "UNIT_SPELLCAST_CHANNEL_START\t\"event\"",
+			"contents": "UNIT_SPELLCAST_CHANNEL_START",
+		},
+		{
+			"trigger": "UNIT_SPELLCAST_CHANNEL_STOP\t\"event\"",
+			"contents": "UNIT_SPELLCAST_CHANNEL_STOP",
+		},
+		{
+			"trigger": "UNIT_SPELLCAST_CHANNEL_UPDATE\t\"event\"",
+			"contents": "UNIT_SPELLCAST_CHANNEL_UPDATE",
+		},
+		{
+			"trigger": "UNIT_SPELLCAST_DELAYED\t\"event\"",
+			"contents": "UNIT_SPELLCAST_DELAYED",
+		},
+		{
+			"trigger": "UNIT_SPELLCAST_FAILED\t\"event\"",
+			"contents": "UNIT_SPELLCAST_FAILED",
+		},
+		{
+			"trigger": "UNIT_SPELLCAST_FAILED_QUIET\t\"event\"",
+			"contents": "UNIT_SPELLCAST_FAILED_QUIET",
+		},
+		{
+			"trigger": "UNIT_SPELLCAST_INTERRUPTED\t\"event\"",
+			"contents": "UNIT_SPELLCAST_INTERRUPTED",
+		},
+		{
+			"trigger": "UNIT_SPELLCAST_INTERRUPTIBLE\t\"event\"",
+			"contents": "UNIT_SPELLCAST_INTERRUPTIBLE",
+		},
+		{
+			"trigger": "UNIT_SPELLCAST_NOT_INTERRUPTIBLE\t\"event\"",
+			"contents": "UNIT_SPELLCAST_NOT_INTERRUPTIBLE",
+		},
+		{
+			"trigger": "UNIT_SPELLCAST_SENT\t\"event\"",
+			"contents": "UNIT_SPELLCAST_SENT",
+		},
+		{
+			"trigger": "UNIT_SPELLCAST_START\t\"event\"",
+			"contents": "UNIT_SPELLCAST_START",
+		},
+		{
+			"trigger": "UNIT_SPELLCAST_STOP\t\"event\"",
+			"contents": "UNIT_SPELLCAST_STOP",
+		},
+		{
+			"trigger": "UNIT_SPELLCAST_SUCCEEDED\t\"event\"",
+			"contents": "UNIT_SPELLCAST_SUCCEEDED",
+		},
+		{
+			"trigger": "UNIT_STATS\t\"event\"",
+			"contents": "UNIT_STATS",
+		},
+		{
+			"trigger": "UNIT_TARGET\t\"event\"",
+			"contents": "UNIT_TARGET",
+		},
+		{
+			"trigger": "UNIT_TARGETABLE_CHANGED\t\"event\"",
+			"contents": "UNIT_TARGETABLE_CHANGED",
+		},
+		{
+			"trigger": "UNIT_THREAT_LIST_UPDATE\t\"event\"",
+			"contents": "UNIT_THREAT_LIST_UPDATE",
+		},
+		{
+			"trigger": "UNIT_THREAT_SITUATION_UPDATE\t\"event\"",
+			"contents": "UNIT_THREAT_SITUATION_UPDATE",
+		},
+		{
+			"trigger": "UPDATE_ACTIVE_BATTLEFIELD\t\"event\"",
+			"contents": "UPDATE_ACTIVE_BATTLEFIELD",
+		},
+		{
+			"trigger": "UPDATE_ALL_UI_WIDGETS\t\"event\"",
+			"contents": "UPDATE_ALL_UI_WIDGETS",
+		},
+		{
+			"trigger": "UPDATE_BATTLEFIELD_SCORE\t\"event\"",
+			"contents": "UPDATE_BATTLEFIELD_SCORE",
+		},
+		{
+			"trigger": "UPDATE_BATTLEFIELD_STATUS\t\"event\"",
+			"contents": "UPDATE_BATTLEFIELD_STATUS",
+		},
+		{
+			"trigger": "UPDATE_BINDINGS\t\"event\"",
+			"contents": "UPDATE_BINDINGS",
+		},
+		{
+			"trigger": "UPDATE_BONUS_ACTIONBAR\t\"event\"",
+			"contents": "UPDATE_BONUS_ACTIONBAR",
+		},
+		{
+			"trigger": "UPDATE_CHAT_COLOR\t\"event\"",
+			"contents": "UPDATE_CHAT_COLOR",
+		},
+		{
+			"trigger": "UPDATE_CHAT_COLOR_NAME_BY_CLASS\t\"event\"",
+			"contents": "UPDATE_CHAT_COLOR_NAME_BY_CLASS",
+		},
+		{
+			"trigger": "UPDATE_CHAT_WINDOWS\t\"event\"",
+			"contents": "UPDATE_CHAT_WINDOWS",
+		},
+		{
+			"trigger": "UPDATE_EXHAUSTION\t\"event\"",
+			"contents": "UPDATE_EXHAUSTION",
+		},
+		{
+			"trigger": "UPDATE_EXPANSION_LEVEL\t\"event\"",
+			"contents": "UPDATE_EXPANSION_LEVEL",
+		},
+		{
+			"trigger": "UPDATE_EXTRA_ACTIONBAR\t\"event\"",
+			"contents": "UPDATE_EXTRA_ACTIONBAR",
+		},
+		{
+			"trigger": "UPDATE_FACTION\t\"event\"",
+			"contents": "UPDATE_FACTION",
+		},
+		{
+			"trigger": "UPDATE_FLOATING_CHAT_WINDOWS\t\"event\"",
+			"contents": "UPDATE_FLOATING_CHAT_WINDOWS",
+		},
+		{
+			"trigger": "UPDATE_GM_STATUS\t\"event\"",
+			"contents": "UPDATE_GM_STATUS",
+		},
+		{
+			"trigger": "UPDATE_INSTANCE_INFO\t\"event\"",
+			"contents": "UPDATE_INSTANCE_INFO",
+		},
+		{
+			"trigger": "UPDATE_INVENTORY_ALERTS\t\"event\"",
+			"contents": "UPDATE_INVENTORY_ALERTS",
+		},
+		{
+			"trigger": "UPDATE_INVENTORY_DURABILITY\t\"event\"",
+			"contents": "UPDATE_INVENTORY_DURABILITY",
+		},
+		{
+			"trigger": "UPDATE_LFG_LIST\t\"event\"",
+			"contents": "UPDATE_LFG_LIST",
+		},
+		{
+			"trigger": "UPDATE_MACROS\t\"event\"",
+			"contents": "UPDATE_MACROS",
+		},
+		{
+			"trigger": "UPDATE_MASTER_LOOT_LIST\t\"event\"",
+			"contents": "UPDATE_MASTER_LOOT_LIST",
+		},
+		{
+			"trigger": "UPDATE_MOUSEOVER_UNIT\t\"event\"",
+			"contents": "UPDATE_MOUSEOVER_UNIT",
+		},
+		{
+			"trigger": "UPDATE_MULTI_CAST_ACTIONBAR\t\"event\"",
+			"contents": "UPDATE_MULTI_CAST_ACTIONBAR",
+		},
+		{
+			"trigger": "UPDATE_OVERRIDE_ACTIONBAR\t\"event\"",
+			"contents": "UPDATE_OVERRIDE_ACTIONBAR",
+		},
+		{
+			"trigger": "UPDATE_PENDING_MAIL\t\"event\"",
+			"contents": "UPDATE_PENDING_MAIL",
+		},
+		{
+			"trigger": "UPDATE_POSSESS_BAR\t\"event\"",
+			"contents": "UPDATE_POSSESS_BAR",
+		},
+		{
+			"trigger": "UPDATE_SHAPESHIFT_COOLDOWN\t\"event\"",
+			"contents": "UPDATE_SHAPESHIFT_COOLDOWN",
+		},
+		{
+			"trigger": "UPDATE_SHAPESHIFT_FORM\t\"event\"",
+			"contents": "UPDATE_SHAPESHIFT_FORM",
+		},
+		{
+			"trigger": "UPDATE_SHAPESHIFT_FORMS\t\"event\"",
+			"contents": "UPDATE_SHAPESHIFT_FORMS",
+		},
+		{
+			"trigger": "UPDATE_SHAPESHIFT_USABLE\t\"event\"",
+			"contents": "UPDATE_SHAPESHIFT_USABLE",
+		},
+		{
+			"trigger": "UPDATE_STEALTH\t\"event\"",
+			"contents": "UPDATE_STEALTH",
+		},
+		{
+			"trigger": "UPDATE_SUMMONPETS_ACTION\t\"event\"",
+			"contents": "UPDATE_SUMMONPETS_ACTION",
+		},
+		{
+			"trigger": "UPDATE_TRADESKILL_RECAST\t\"event\"",
+			"contents": "UPDATE_TRADESKILL_RECAST",
+		},
+		{
+			"trigger": "UPDATE_UI_WIDGET\t\"event\"",
+			"contents": "UPDATE_UI_WIDGET",
+		},
+		{
+			"trigger": "UPDATE_VEHICLE_ACTIONBAR\t\"event\"",
+			"contents": "UPDATE_VEHICLE_ACTIONBAR",
+		},
+		{
+			"trigger": "UPDATE_WEB_TICKET\t\"event\"",
+			"contents": "UPDATE_WEB_TICKET",
+		},
+		{
+			"trigger": "UPDATE_WORLD_STATES\t\"event\"",
+			"contents": "UPDATE_WORLD_STATES",
+		},
+		{
+			"trigger": "USE_BIND_CONFIRM\t\"event\"",
+			"contents": "USE_BIND_CONFIRM",
+		},
+		{
+			"trigger": "USE_GLYPH\t\"event\"",
+			"contents": "USE_GLYPH",
+		},
+		{
+			"trigger": "USE_NO_REFUND_CONFIRM\t\"event\"",
+			"contents": "USE_NO_REFUND_CONFIRM",
+		},
+		{
+			"trigger": "VARIABLES_LOADED\t\"event\"",
+			"contents": "VARIABLES_LOADED",
+		},
+		{
+			"trigger": "VAS_QUEUE_STATUS_UPDATE\t\"event\"",
+			"contents": "VAS_QUEUE_STATUS_UPDATE",
+		},
+		{
+			"trigger": "VAS_TRANSFER_VALIDATION_UPDATE\t\"event\"",
+			"contents": "VAS_TRANSFER_VALIDATION_UPDATE",
+		},
+		{
+			"trigger": "VEHICLE_ANGLE_SHOW\t\"event\"",
+			"contents": "VEHICLE_ANGLE_SHOW",
+		},
+		{
+			"trigger": "VEHICLE_ANGLE_UPDATE\t\"event\"",
+			"contents": "VEHICLE_ANGLE_UPDATE",
+		},
+		{
+			"trigger": "VEHICLE_PASSENGERS_CHANGED\t\"event\"",
+			"contents": "VEHICLE_PASSENGERS_CHANGED",
+		},
+		{
+			"trigger": "VEHICLE_POWER_SHOW\t\"event\"",
+			"contents": "VEHICLE_POWER_SHOW",
+		},
+		{
+			"trigger": "VEHICLE_UPDATE\t\"event\"",
+			"contents": "VEHICLE_UPDATE",
+		},
+		{
+			"trigger": "VIGNETTE_ADDED\t\"event\"",
+			"contents": "VIGNETTE_ADDED",
+		},
+		{
+			"trigger": "VIGNETTE_MINIMAP_UPDATED\t\"event\"",
+			"contents": "VIGNETTE_MINIMAP_UPDATED",
+		},
+		{
+			"trigger": "VIGNETTE_REMOVED\t\"event\"",
+			"contents": "VIGNETTE_REMOVED",
+		},
+		{
+			"trigger": "VIGNETTES_UPDATED\t\"event\"",
+			"contents": "VIGNETTES_UPDATED",
+		},
+		{
+			"trigger": "VOICE_CHAT_ACTIVE_INPUT_DEVICE_UPDATED\t\"event\"",
+			"contents": "VOICE_CHAT_ACTIVE_INPUT_DEVICE_UPDATED",
+		},
+		{
+			"trigger": "VOICE_CHAT_ACTIVE_OUTPUT_DEVICE_UPDATED\t\"event\"",
+			"contents": "VOICE_CHAT_ACTIVE_OUTPUT_DEVICE_UPDATED",
+		},
+		{
+			"trigger": "VOICE_CHAT_AUDIO_CAPTURE_ENERGY\t\"event\"",
+			"contents": "VOICE_CHAT_AUDIO_CAPTURE_ENERGY",
+		},
+		{
+			"trigger": "VOICE_CHAT_AUDIO_CAPTURE_STARTED\t\"event\"",
+			"contents": "VOICE_CHAT_AUDIO_CAPTURE_STARTED",
+		},
+		{
+			"trigger": "VOICE_CHAT_AUDIO_CAPTURE_STOPPED\t\"event\"",
+			"contents": "VOICE_CHAT_AUDIO_CAPTURE_STOPPED",
+		},
+		{
+			"trigger": "VOICE_CHAT_CHANNEL_ACTIVATED\t\"event\"",
+			"contents": "VOICE_CHAT_CHANNEL_ACTIVATED",
+		},
+		{
+			"trigger": "VOICE_CHAT_CHANNEL_DEACTIVATED\t\"event\"",
+			"contents": "VOICE_CHAT_CHANNEL_DEACTIVATED",
+		},
+		{
+			"trigger": "VOICE_CHAT_CHANNEL_DISPLAY_NAME_CHANGED\t\"event\"",
+			"contents": "VOICE_CHAT_CHANNEL_DISPLAY_NAME_CHANGED",
+		},
+		{
+			"trigger": "VOICE_CHAT_CHANNEL_JOINED\t\"event\"",
+			"contents": "VOICE_CHAT_CHANNEL_JOINED",
+		},
+		{
+			"trigger": "VOICE_CHAT_CHANNEL_MEMBER_ACTIVE_STATE_CHANGED\t\"event\"",
+			"contents": "VOICE_CHAT_CHANNEL_MEMBER_ACTIVE_STATE_CHANGED",
+		},
+		{
+			"trigger": "VOICE_CHAT_CHANNEL_MEMBER_ADDED\t\"event\"",
+			"contents": "VOICE_CHAT_CHANNEL_MEMBER_ADDED",
+		},
+		{
+			"trigger": "VOICE_CHAT_CHANNEL_MEMBER_ENERGY_CHANGED\t\"event\"",
+			"contents": "VOICE_CHAT_CHANNEL_MEMBER_ENERGY_CHANGED",
+		},
+		{
+			"trigger": "VOICE_CHAT_CHANNEL_MEMBER_GUID_UPDATED\t\"event\"",
+			"contents": "VOICE_CHAT_CHANNEL_MEMBER_GUID_UPDATED",
+		},
+		{
+			"trigger": "VOICE_CHAT_CHANNEL_MEMBER_MUTE_FOR_ALL_CHANGED\t\"event\"",
+			"contents": "VOICE_CHAT_CHANNEL_MEMBER_MUTE_FOR_ALL_CHANGED",
+		},
+		{
+			"trigger": "VOICE_CHAT_CHANNEL_MEMBER_MUTE_FOR_ME_CHANGED\t\"event\"",
+			"contents": "VOICE_CHAT_CHANNEL_MEMBER_MUTE_FOR_ME_CHANGED",
+		},
+		{
+			"trigger": "VOICE_CHAT_CHANNEL_MEMBER_REMOVED\t\"event\"",
+			"contents": "VOICE_CHAT_CHANNEL_MEMBER_REMOVED",
+		},
+		{
+			"trigger": "VOICE_CHAT_CHANNEL_MEMBER_SILENCED_CHANGED\t\"event\"",
+			"contents": "VOICE_CHAT_CHANNEL_MEMBER_SILENCED_CHANGED",
+		},
+		{
+			"trigger": "VOICE_CHAT_CHANNEL_MEMBER_SPEAKING_STATE_CHANGED\t\"event\"",
+			"contents": "VOICE_CHAT_CHANNEL_MEMBER_SPEAKING_STATE_CHANGED",
+		},
+		{
+			"trigger": "VOICE_CHAT_CHANNEL_MEMBER_VOLUME_CHANGED\t\"event\"",
+			"contents": "VOICE_CHAT_CHANNEL_MEMBER_VOLUME_CHANGED",
+		},
+		{
+			"trigger": "VOICE_CHAT_CHANNEL_MUTE_STATE_CHANGED\t\"event\"",
+			"contents": "VOICE_CHAT_CHANNEL_MUTE_STATE_CHANGED",
+		},
+		{
+			"trigger": "VOICE_CHAT_CHANNEL_PTT_CHANGED\t\"event\"",
+			"contents": "VOICE_CHAT_CHANNEL_PTT_CHANGED",
+		},
+		{
+			"trigger": "VOICE_CHAT_CHANNEL_REMOVED\t\"event\"",
+			"contents": "VOICE_CHAT_CHANNEL_REMOVED",
+		},
+		{
+			"trigger": "VOICE_CHAT_CHANNEL_TRANSMIT_CHANGED\t\"event\"",
+			"contents": "VOICE_CHAT_CHANNEL_TRANSMIT_CHANGED",
+		},
+		{
+			"trigger": "VOICE_CHAT_CHANNEL_VOLUME_CHANGED\t\"event\"",
+			"contents": "VOICE_CHAT_CHANNEL_VOLUME_CHANGED",
+		},
+		{
+			"trigger": "VOICE_CHAT_COMMUNICATION_MODE_CHANGED\t\"event\"",
+			"contents": "VOICE_CHAT_COMMUNICATION_MODE_CHANGED",
+		},
+		{
+			"trigger": "VOICE_CHAT_CONNECTION_SUCCESS\t\"event\"",
+			"contents": "VOICE_CHAT_CONNECTION_SUCCESS",
+		},
+		{
+			"trigger": "VOICE_CHAT_DEAFENED_CHANGED\t\"event\"",
+			"contents": "VOICE_CHAT_DEAFENED_CHANGED",
+		},
+		{
+			"trigger": "VOICE_CHAT_ERROR\t\"event\"",
+			"contents": "VOICE_CHAT_ERROR",
+		},
+		{
+			"trigger": "VOICE_CHAT_INPUT_DEVICES_UPDATED\t\"event\"",
+			"contents": "VOICE_CHAT_INPUT_DEVICES_UPDATED",
+		},
+		{
+			"trigger": "VOICE_CHAT_LOGIN\t\"event\"",
+			"contents": "VOICE_CHAT_LOGIN",
+		},
+		{
+			"trigger": "VOICE_CHAT_LOGOUT\t\"event\"",
+			"contents": "VOICE_CHAT_LOGOUT",
+		},
+		{
+			"trigger": "VOICE_CHAT_MUTED_CHANGED\t\"event\"",
+			"contents": "VOICE_CHAT_MUTED_CHANGED",
+		},
+		{
+			"trigger": "VOICE_CHAT_OUTPUT_DEVICES_UPDATED\t\"event\"",
+			"contents": "VOICE_CHAT_OUTPUT_DEVICES_UPDATED",
+		},
+		{
+			"trigger": "VOICE_CHAT_PENDING_CHANNEL_JOIN_STATE\t\"event\"",
+			"contents": "VOICE_CHAT_PENDING_CHANNEL_JOIN_STATE",
+		},
+		{
+			"trigger": "VOICE_CHAT_PTT_BUTTON_PRESSED_STATE_CHANGED\t\"event\"",
+			"contents": "VOICE_CHAT_PTT_BUTTON_PRESSED_STATE_CHANGED",
+		},
+		{
+			"trigger": "VOICE_CHAT_SILENCED_CHANGED\t\"event\"",
+			"contents": "VOICE_CHAT_SILENCED_CHANGED",
+		},
+		{
+			"trigger": "VOID_DEPOSIT_WARNING\t\"event\"",
+			"contents": "VOID_DEPOSIT_WARNING",
+		},
+		{
+			"trigger": "VOID_STORAGE_CLOSE\t\"event\"",
+			"contents": "VOID_STORAGE_CLOSE",
+		},
+		{
+			"trigger": "VOID_STORAGE_CONTENTS_UPDATE\t\"event\"",
+			"contents": "VOID_STORAGE_CONTENTS_UPDATE",
+		},
+		{
+			"trigger": "VOID_STORAGE_DEPOSIT_UPDATE\t\"event\"",
+			"contents": "VOID_STORAGE_DEPOSIT_UPDATE",
+		},
+		{
+			"trigger": "VOID_STORAGE_OPEN\t\"event\"",
+			"contents": "VOID_STORAGE_OPEN",
+		},
+		{
+			"trigger": "VOID_STORAGE_UPDATE\t\"event\"",
+			"contents": "VOID_STORAGE_UPDATE",
+		},
+		{
+			"trigger": "VOID_TRANSFER_DONE\t\"event\"",
+			"contents": "VOID_TRANSFER_DONE",
+		},
+		{
+			"trigger": "VOID_TRANSFER_SUCCESS\t\"event\"",
+			"contents": "VOID_TRANSFER_SUCCESS",
+		},
+		{
+			"trigger": "VOTE_KICK_REASON_NEEDED\t\"event\"",
+			"contents": "VOTE_KICK_REASON_NEEDED",
+		},
+		{
+			"trigger": "WAR_MODE_STATUS_UPDATE\t\"event\"",
+			"contents": "WAR_MODE_STATUS_UPDATE",
+		},
+		{
+			"trigger": "WARFRONT_COMPLETED\t\"event\"",
+			"contents": "WARFRONT_COMPLETED",
+		},
+		{
+			"trigger": "WARFRONT_UPDATE\t\"event\"",
+			"contents": "WARFRONT_UPDATE",
+		},
+		{
+			"trigger": "WARGAME_REQUESTED\t\"event\"",
+			"contents": "WARGAME_REQUESTED",
+		},
+		{
+			"trigger": "WEAR_EQUIPMENT_SET\t\"event\"",
+			"contents": "WEAR_EQUIPMENT_SET",
+		},
+		{
+			"trigger": "WHO_LIST_UPDATE\t\"event\"",
+			"contents": "WHO_LIST_UPDATE",
+		},
+		{
+			"trigger": "WORLD_MAP_UPDATE\t\"event\"",
+			"contents": "WORLD_MAP_UPDATE",
+		},
+		{
+			"trigger": "WORLD_QUEST_COMPLETED_BY_SPELL\t\"event\"",
+			"contents": "WORLD_QUEST_COMPLETED_BY_SPELL",
+		},
+		{
+			"trigger": "WORLD_STATE_TIMER_START\t\"event\"",
+			"contents": "WORLD_STATE_TIMER_START",
+		},
+		{
+			"trigger": "WORLD_STATE_TIMER_STOP\t\"event\"",
+			"contents": "WORLD_STATE_TIMER_STOP",
+		},
+		{
+			"trigger": "WORLD_STATE_UI_TIMER_UPDATE\t\"event\"",
+			"contents": "WORLD_STATE_UI_TIMER_UPDATE",
+		},
+		{
+			"trigger": "WOW_MOUSE_NOT_FOUND\t\"event\"",
+			"contents": "WOW_MOUSE_NOT_FOUND",
+		},
+		{
+			"trigger": "ZONE_CHANGED\t\"event\"",
+			"contents": "ZONE_CHANGED",
+		},
+		{
+			"trigger": "ZONE_CHANGED_INDOORS\t\"event\"",
+			"contents": "ZONE_CHANGED_INDOORS",
+		},
+		{
+			"trigger": "ZONE_CHANGED_NEW_AREA\t\"event\"",
+			"contents": "ZONE_CHANGED_NEW_AREA",
+		},
+	]
+}

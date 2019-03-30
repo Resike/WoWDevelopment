@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PVP_POWER_UPDATE()]]></content>
+	<tabTrigger>_PVP_POWER_UPDATE</tabTrigger>
+	<description>()</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AZERITE_EMPOWERED_ITEM_NEW_TIER_AVAILABLE(azeriteEmpoweredItemLocation, tierIndex)]]></content>
+	<tabTrigger>_AZERITE_EMPOWERED_ITEM_NEW_TIER_AVAILABLE</tabTrigger>
+	<description>(azeriteEmpoweredItemLocation, tierIndex)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

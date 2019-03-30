@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NOTIFY_PVP_AFK_RESULT(offender, numBlackMarksOnOffender, numPlayersIHaveReported)]]></content>
+	<tabTrigger>_NOTIFY_PVP_AFK_RESULT</tabTrigger>
+	<description>(offender, numBlackMarksOnOffender, numPlayersIHaveReported)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

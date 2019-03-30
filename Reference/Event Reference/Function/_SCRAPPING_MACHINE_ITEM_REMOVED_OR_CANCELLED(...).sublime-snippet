@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SCRAPPING_MACHINE_ITEM_REMOVED_OR_CANCELLED(${1:...})$0]]></content>
+	<tabTrigger>SCRAPPING_MACHINE_ITEM_REMOVED_OR_CANCELLED</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

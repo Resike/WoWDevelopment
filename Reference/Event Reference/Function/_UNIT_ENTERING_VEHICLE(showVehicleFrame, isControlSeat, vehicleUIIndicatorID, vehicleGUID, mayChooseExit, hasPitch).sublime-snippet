@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UNIT_ENTERING_VEHICLE(showVehicleFrame, isControlSeat, vehicleUIIndicatorID, vehicleGUID, mayChooseExit, hasPitch)]]></content>
+	<tabTrigger>_UNIT_ENTERING_VEHICLE</tabTrigger>
+	<description>(showVehicleFrame, isControlSeat, vehicleUIIndicatorID, vehicleGUID, mayChooseExit, hasPitch)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

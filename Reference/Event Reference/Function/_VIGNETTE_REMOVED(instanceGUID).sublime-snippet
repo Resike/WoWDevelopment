@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VIGNETTE_REMOVED(instanceGUID)]]></content>
+	<tabTrigger>_VIGNETTE_REMOVED</tabTrigger>
+	<description>(instanceGUID)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

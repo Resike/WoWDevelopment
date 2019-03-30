@@ -1,0 +1,4105 @@
+{
+	"scope": "source.lua meta.name.function.lua entity.name.function.lua",
+	"completions": [
+		{
+			"trigger": "_ACHIEVEMENT_EARNED\t(achievementID, alreadyEarned)",
+			"contents": "ACHIEVEMENT_EARNED(achievementID, alreadyEarned)",
+		},
+		{
+			"trigger": "_ACHIEVEMENT_PLAYER_NAME\t(achievementID)",
+			"contents": "ACHIEVEMENT_PLAYER_NAME(achievementID)",
+		},
+		{
+			"trigger": "_ACHIEVEMENT_SEARCH_UPDATED\t()",
+			"contents": "ACHIEVEMENT_SEARCH_UPDATED()",
+		},
+		{
+			"trigger": "_ACTION_WILL_BIND_ITEM\t()",
+			"contents": "ACTION_WILL_BIND_ITEM()",
+		},
+		{
+			"trigger": "_ACTIONBAR_HIDEGRID\t()",
+			"contents": "ACTIONBAR_HIDEGRID()",
+		},
+		{
+			"trigger": "_ACTIONBAR_PAGE_CHANGED\t()",
+			"contents": "ACTIONBAR_PAGE_CHANGED()",
+		},
+		{
+			"trigger": "_ACTIONBAR_SHOW_BOTTOMLEFT\t()",
+			"contents": "ACTIONBAR_SHOW_BOTTOMLEFT()",
+		},
+		{
+			"trigger": "_ACTIONBAR_SHOWGRID\t()",
+			"contents": "ACTIONBAR_SHOWGRID()",
+		},
+		{
+			"trigger": "_ACTIONBAR_SLOT_CHANGED\t(slot)",
+			"contents": "ACTIONBAR_SLOT_CHANGED(slot)",
+		},
+		{
+			"trigger": "_ACTIONBAR_UPDATE_COOLDOWN\t()",
+			"contents": "ACTIONBAR_UPDATE_COOLDOWN()",
+		},
+		{
+			"trigger": "_ACTIONBAR_UPDATE_STATE\t()",
+			"contents": "ACTIONBAR_UPDATE_STATE()",
+		},
+		{
+			"trigger": "_ACTIONBAR_UPDATE_USABLE\t()",
+			"contents": "ACTIONBAR_UPDATE_USABLE()",
+		},
+		{
+			"trigger": "_ACTIVATE_GLYPH\t(spellSlot)",
+			"contents": "ACTIVATE_GLYPH(spellSlot)",
+		},
+		{
+			"trigger": "_ACTIVE_TALENT_GROUP_CHANGED\t(curr, prev)",
+			"contents": "ACTIVE_TALENT_GROUP_CHANGED(curr, prev)",
+		},
+		{
+			"trigger": "_ADDON_ACTION_BLOCKED\t(isTainted, function)",
+			"contents": "ADDON_ACTION_BLOCKED(isTainted, function)",
+		},
+		{
+			"trigger": "_ADDON_ACTION_FORBIDDEN\t(isTainted, function)",
+			"contents": "ADDON_ACTION_FORBIDDEN(isTainted, function)",
+		},
+		{
+			"trigger": "_ADDON_LOADED\t(addOnName)",
+			"contents": "ADDON_LOADED(addOnName)",
+		},
+		{
+			"trigger": "_ADDONS_UNLOADING\t(closingClient)",
+			"contents": "ADDONS_UNLOADING(closingClient)",
+		},
+		{
+			"trigger": "_ADVENTURE_MAP_CLOSE\t()",
+			"contents": "ADVENTURE_MAP_CLOSE()",
+		},
+		{
+			"trigger": "_ADVENTURE_MAP_OPEN\t()",
+			"contents": "ADVENTURE_MAP_OPEN()",
+		},
+		{
+			"trigger": "_ADVENTURE_MAP_QUEST_UPDATE\t(questID)",
+			"contents": "ADVENTURE_MAP_QUEST_UPDATE(questID)",
+		},
+		{
+			"trigger": "_ADVENTURE_MAP_UPDATE_INSETS\t()",
+			"contents": "ADVENTURE_MAP_UPDATE_INSETS()",
+		},
+		{
+			"trigger": "_ADVENTURE_MAP_UPDATE_POIS\t()",
+			"contents": "ADVENTURE_MAP_UPDATE_POIS()",
+		},
+		{
+			"trigger": "_AJ_DUNGEON_ACTION\t(lfgDungeonID)",
+			"contents": "AJ_DUNGEON_ACTION(lfgDungeonID)",
+		},
+		{
+			"trigger": "_AJ_OPEN\t()",
+			"contents": "AJ_OPEN()",
+		},
+		{
+			"trigger": "_AJ_PVE_LFG_ACTION\t()",
+			"contents": "AJ_PVE_LFG_ACTION()",
+		},
+		{
+			"trigger": "_AJ_PVP_ACTION\t(battleMasterListID)",
+			"contents": "AJ_PVP_ACTION(battleMasterListID)",
+		},
+		{
+			"trigger": "_AJ_PVP_LFG_ACTION\t()",
+			"contents": "AJ_PVP_LFG_ACTION()",
+		},
+		{
+			"trigger": "_AJ_PVP_RBG_ACTION\t()",
+			"contents": "AJ_PVP_RBG_ACTION()",
+		},
+		{
+			"trigger": "_AJ_PVP_SKIRMISH_ACTION\t()",
+			"contents": "AJ_PVP_SKIRMISH_ACTION()",
+		},
+		{
+			"trigger": "_AJ_QUEST_LOG_OPEN\t(questID, worldMapAreaID)",
+			"contents": "AJ_QUEST_LOG_OPEN(questID, worldMapAreaID)",
+		},
+		{
+			"trigger": "_AJ_RAID_ACTION\t(lfgDungeonID)",
+			"contents": "AJ_RAID_ACTION(lfgDungeonID)",
+		},
+		{
+			"trigger": "_AJ_REFRESH_DISPLAY\t()",
+			"contents": "AJ_REFRESH_DISPLAY()",
+		},
+		{
+			"trigger": "_AJ_REWARD_DATA_RECEIVED\t()",
+			"contents": "AJ_REWARD_DATA_RECEIVED()",
+		},
+		{
+			"trigger": "_ALLIED_RACE_CLOSE\t()",
+			"contents": "ALLIED_RACE_CLOSE()",
+		},
+		{
+			"trigger": "_ALLIED_RACE_OPEN\t(raceID)",
+			"contents": "ALLIED_RACE_OPEN(raceID)",
+		},
+		{
+			"trigger": "_ALTERNATIVE_DEFAULT_LANGUAGE_CHANGED\t()",
+			"contents": "ALTERNATIVE_DEFAULT_LANGUAGE_CHANGED()",
+		},
+		{
+			"trigger": "_ARCHAEOLOGY_CLOSED\t()",
+			"contents": "ARCHAEOLOGY_CLOSED()",
+		},
+		{
+			"trigger": "_ARCHAEOLOGY_FIND_COMPLETE\t(numFindsCompleted, totalFinds, researchBranchID)",
+			"contents": "ARCHAEOLOGY_FIND_COMPLETE(numFindsCompleted, totalFinds, researchBranchID)",
+		},
+		{
+			"trigger": "_ARCHAEOLOGY_SURVEY_CAST\t(numFindsCompleted, totalFinds, researchBranchID, successfulFind)",
+			"contents": "ARCHAEOLOGY_SURVEY_CAST(numFindsCompleted, totalFinds, researchBranchID, successfulFind)",
+		},
+		{
+			"trigger": "_ARCHAEOLOGY_TOGGLE\t()",
+			"contents": "ARCHAEOLOGY_TOGGLE()",
+		},
+		{
+			"trigger": "_AREA_SPIRIT_HEALER_IN_RANGE\t()",
+			"contents": "AREA_SPIRIT_HEALER_IN_RANGE()",
+		},
+		{
+			"trigger": "_AREA_SPIRIT_HEALER_OUT_OF_RANGE\t()",
+			"contents": "AREA_SPIRIT_HEALER_OUT_OF_RANGE()",
+		},
+		{
+			"trigger": "_ARENA_COOLDOWNS_UPDATE\t()",
+			"contents": "ARENA_COOLDOWNS_UPDATE()",
+		},
+		{
+			"trigger": "_ARENA_CROWD_CONTROL_SPELL_UPDATE\t(spellID)",
+			"contents": "ARENA_CROWD_CONTROL_SPELL_UPDATE(spellID)",
+		},
+		{
+			"trigger": "_ARENA_OPPONENT_UPDATE\t(unitToken, updateReason)",
+			"contents": "ARENA_OPPONENT_UPDATE(unitToken, updateReason)",
+		},
+		{
+			"trigger": "_ARENA_PREP_OPPONENT_SPECIALIZATIONS\t()",
+			"contents": "ARENA_PREP_OPPONENT_SPECIALIZATIONS()",
+		},
+		{
+			"trigger": "_ARENA_SEASON_WORLD_STATE\t()",
+			"contents": "ARENA_SEASON_WORLD_STATE()",
+		},
+		{
+			"trigger": "_ARTIFACT_CLOSE\t()",
+			"contents": "ARTIFACT_CLOSE()",
+		},
+		{
+			"trigger": "_ARTIFACT_DIGSITE_COMPLETE\t(researchBranchID)",
+			"contents": "ARTIFACT_DIGSITE_COMPLETE(researchBranchID)",
+		},
+		{
+			"trigger": "_ARTIFACT_ENDGAME_REFUND\t(numRefundedPowers, refundedTier, bagOrSlotIndex, slotIndex)",
+			"contents": "ARTIFACT_ENDGAME_REFUND(numRefundedPowers, refundedTier, bagOrSlotIndex, slotIndex)",
+		},
+		{
+			"trigger": "_ARTIFACT_RELIC_FORGE_CLOSE\t()",
+			"contents": "ARTIFACT_RELIC_FORGE_CLOSE()",
+		},
+		{
+			"trigger": "_ARTIFACT_RELIC_FORGE_PREVIEW_RELIC_CHANGED\t()",
+			"contents": "ARTIFACT_RELIC_FORGE_PREVIEW_RELIC_CHANGED()",
+		},
+		{
+			"trigger": "_ARTIFACT_RELIC_FORGE_UPDATE\t()",
+			"contents": "ARTIFACT_RELIC_FORGE_UPDATE()",
+		},
+		{
+			"trigger": "_ARTIFACT_RELIC_INFO_RECEIVED\t()",
+			"contents": "ARTIFACT_RELIC_INFO_RECEIVED()",
+		},
+		{
+			"trigger": "_ARTIFACT_RESPEC_PROMPT\t()",
+			"contents": "ARTIFACT_RESPEC_PROMPT()",
+		},
+		{
+			"trigger": "_ARTIFACT_TIER_CHANGED\t(newTier, bagOrSlotIndex, slotIndex)",
+			"contents": "ARTIFACT_TIER_CHANGED(newTier, bagOrSlotIndex, slotIndex)",
+		},
+		{
+			"trigger": "_ARTIFACT_UPDATE\t(newItem)",
+			"contents": "ARTIFACT_UPDATE(newItem)",
+		},
+		{
+			"trigger": "_ARTIFACT_XP_UPDATE\t()",
+			"contents": "ARTIFACT_XP_UPDATE()",
+		},
+		{
+			"trigger": "_AUCTION_BIDDER_LIST_UPDATE\t()",
+			"contents": "AUCTION_BIDDER_LIST_UPDATE()",
+		},
+		{
+			"trigger": "_AUCTION_HOUSE_CLOSED\t()",
+			"contents": "AUCTION_HOUSE_CLOSED()",
+		},
+		{
+			"trigger": "_AUCTION_HOUSE_DISABLED\t()",
+			"contents": "AUCTION_HOUSE_DISABLED()",
+		},
+		{
+			"trigger": "_AUCTION_HOUSE_SHOW\t()",
+			"contents": "AUCTION_HOUSE_SHOW()",
+		},
+		{
+			"trigger": "_AUCTION_ITEM_LIST_UPDATE\t()",
+			"contents": "AUCTION_ITEM_LIST_UPDATE()",
+		},
+		{
+			"trigger": "_AUCTION_MULTISELL_FAILURE\t()",
+			"contents": "AUCTION_MULTISELL_FAILURE()",
+		},
+		{
+			"trigger": "_AUCTION_MULTISELL_START\t(numRepetitions)",
+			"contents": "AUCTION_MULTISELL_START(numRepetitions)",
+		},
+		{
+			"trigger": "_AUCTION_MULTISELL_UPDATE\t(createdCount, totalToCreate)",
+			"contents": "AUCTION_MULTISELL_UPDATE(createdCount, totalToCreate)",
+		},
+		{
+			"trigger": "_AUCTION_OWNED_LIST_UPDATE\t()",
+			"contents": "AUCTION_OWNED_LIST_UPDATE()",
+		},
+		{
+			"trigger": "_AUTOFOLLOW_BEGIN\t(name)",
+			"contents": "AUTOFOLLOW_BEGIN(name)",
+		},
+		{
+			"trigger": "_AUTOFOLLOW_END\t()",
+			"contents": "AUTOFOLLOW_END()",
+		},
+		{
+			"trigger": "_AVOIDANCE_UPDATE\t()",
+			"contents": "AVOIDANCE_UPDATE()",
+		},
+		{
+			"trigger": "_AZERITE_EMPOWERED_ITEM_NEW_TIER_AVAILABLE\t(azeriteEmpoweredItemLocation, tierIndex)",
+			"contents": "AZERITE_EMPOWERED_ITEM_NEW_TIER_AVAILABLE(azeriteEmpoweredItemLocation, tierIndex)",
+		},
+		{
+			"trigger": "_AZERITE_EMPOWERED_ITEM_SELECTION_UPDATED\t(azeriteEmpoweredItemLocation)",
+			"contents": "AZERITE_EMPOWERED_ITEM_SELECTION_UPDATED(azeriteEmpoweredItemLocation)",
+		},
+		{
+			"trigger": "_AZERITE_ITEM_EXPERIENCE_CHANGED\t(azeriteItemLocation, oldExperienceAmount, newExperienceAmount)",
+			"contents": "AZERITE_ITEM_EXPERIENCE_CHANGED(azeriteItemLocation, oldExperienceAmount, newExperienceAmount)",
+		},
+		{
+			"trigger": "_AZERITE_ITEM_POWER_LEVEL_CHANGED\t(azeriteItemLocation, oldPowerLevel, newPowerLevel)",
+			"contents": "AZERITE_ITEM_POWER_LEVEL_CHANGED(azeriteItemLocation, oldPowerLevel, newPowerLevel)",
+		},
+		{
+			"trigger": "_BAG_CLOSED\t(bagID)",
+			"contents": "BAG_CLOSED(bagID)",
+		},
+		{
+			"trigger": "_BAG_NEW_ITEMS_UPDATED\t()",
+			"contents": "BAG_NEW_ITEMS_UPDATED()",
+		},
+		{
+			"trigger": "_BAG_OPEN\t(bagID)",
+			"contents": "BAG_OPEN(bagID)",
+		},
+		{
+			"trigger": "_BAG_OVERFLOW_WITH_FULL_INVENTORY\t()",
+			"contents": "BAG_OVERFLOW_WITH_FULL_INVENTORY()",
+		},
+		{
+			"trigger": "_BAG_SLOT_FLAGS_UPDATED\t(slot)",
+			"contents": "BAG_SLOT_FLAGS_UPDATED(slot)",
+		},
+		{
+			"trigger": "_BAG_UPDATE\t(bagID)",
+			"contents": "BAG_UPDATE(bagID)",
+		},
+		{
+			"trigger": "_BAG_UPDATE_COOLDOWN\t()",
+			"contents": "BAG_UPDATE_COOLDOWN()",
+		},
+		{
+			"trigger": "_BAG_UPDATE_DELAYED\t()",
+			"contents": "BAG_UPDATE_DELAYED()",
+		},
+		{
+			"trigger": "_BANK_BAG_SLOT_FLAGS_UPDATED\t(slot)",
+			"contents": "BANK_BAG_SLOT_FLAGS_UPDATED(slot)",
+		},
+		{
+			"trigger": "_BANKFRAME_CLOSED\t()",
+			"contents": "BANKFRAME_CLOSED()",
+		},
+		{
+			"trigger": "_BANKFRAME_OPENED\t()",
+			"contents": "BANKFRAME_OPENED()",
+		},
+		{
+			"trigger": "_BARBER_SHOP_APPEARANCE_APPLIED\t()",
+			"contents": "BARBER_SHOP_APPEARANCE_APPLIED()",
+		},
+		{
+			"trigger": "_BARBER_SHOP_CLOSE\t()",
+			"contents": "BARBER_SHOP_CLOSE()",
+		},
+		{
+			"trigger": "_BARBER_SHOP_COST_UPDATE\t()",
+			"contents": "BARBER_SHOP_COST_UPDATE()",
+		},
+		{
+			"trigger": "_BARBER_SHOP_OPEN\t()",
+			"contents": "BARBER_SHOP_OPEN()",
+		},
+		{
+			"trigger": "_BARBER_SHOP_SUCCESS\t()",
+			"contents": "BARBER_SHOP_SUCCESS()",
+		},
+		{
+			"trigger": "_BATTLE_PET_CURSOR_CLEAR\t()",
+			"contents": "BATTLE_PET_CURSOR_CLEAR()",
+		},
+		{
+			"trigger": "_BATTLEFIELD_QUEUE_TIMEOUT\t()",
+			"contents": "BATTLEFIELD_QUEUE_TIMEOUT()",
+		},
+		{
+			"trigger": "_BATTLEFIELDS_CLOSED\t()",
+			"contents": "BATTLEFIELDS_CLOSED()",
+		},
+		{
+			"trigger": "_BATTLEFIELDS_SHOW\t(isArena, battleMasterListID)",
+			"contents": "BATTLEFIELDS_SHOW(isArena, battleMasterListID)",
+		},
+		{
+			"trigger": "_BATTLEGROUND_OBJECTIVES_UPDATE\t()",
+			"contents": "BATTLEGROUND_OBJECTIVES_UPDATE()",
+		},
+		{
+			"trigger": "_BATTLEGROUND_POINTS_UPDATE\t()",
+			"contents": "BATTLEGROUND_POINTS_UPDATE()",
+		},
+		{
+			"trigger": "_BATTLEPET_FORCE_NAME_DECLENSION\t(name, battlePetGUID)",
+			"contents": "BATTLEPET_FORCE_NAME_DECLENSION(name, battlePetGUID)",
+		},
+		{
+			"trigger": "_BATTLETAG_INVITE_SHOW\t(name)",
+			"contents": "BATTLETAG_INVITE_SHOW(name)",
+		},
+		{
+			"trigger": "_BIND_ENCHANT\t()",
+			"contents": "BIND_ENCHANT()",
+		},
+		{
+			"trigger": "_BLACK_MARKET_BID_RESULT\t(marketID, resultCode)",
+			"contents": "BLACK_MARKET_BID_RESULT(marketID, resultCode)",
+		},
+		{
+			"trigger": "_BLACK_MARKET_CLOSE\t()",
+			"contents": "BLACK_MARKET_CLOSE()",
+		},
+		{
+			"trigger": "_BLACK_MARKET_ITEM_UPDATE\t()",
+			"contents": "BLACK_MARKET_ITEM_UPDATE()",
+		},
+		{
+			"trigger": "_BLACK_MARKET_OPEN\t()",
+			"contents": "BLACK_MARKET_OPEN()",
+		},
+		{
+			"trigger": "_BLACK_MARKET_OUTBID\t(marketID, itemID)",
+			"contents": "BLACK_MARKET_OUTBID(marketID, itemID)",
+		},
+		{
+			"trigger": "_BLACK_MARKET_UNAVAILABLE\t()",
+			"contents": "BLACK_MARKET_UNAVAILABLE()",
+		},
+		{
+			"trigger": "_BLACK_MARKET_WON\t(marketID, itemID)",
+			"contents": "BLACK_MARKET_WON(marketID, itemID)",
+		},
+		{
+			"trigger": "_BN_BLOCK_FAILED_TOO_MANY\t(blockType)",
+			"contents": "BN_BLOCK_FAILED_TOO_MANY(blockType)",
+		},
+		{
+			"trigger": "_BN_BLOCK_LIST_UPDATED\t()",
+			"contents": "BN_BLOCK_LIST_UPDATED()",
+		},
+		{
+			"trigger": "_BN_CHAT_MSG_ADDON\t(prefix, text, channel, senderID)",
+			"contents": "BN_CHAT_MSG_ADDON(prefix, text, channel, senderID)",
+		},
+		{
+			"trigger": "_BN_CHAT_WHISPER_UNDELIVERABLE\t(senderID)",
+			"contents": "BN_CHAT_WHISPER_UNDELIVERABLE(senderID)",
+		},
+		{
+			"trigger": "_BN_CONNECTED\t()",
+			"contents": "BN_CONNECTED()",
+		},
+		{
+			"trigger": "_BN_CUSTOM_MESSAGE_CHANGED\t(id)",
+			"contents": "BN_CUSTOM_MESSAGE_CHANGED(id)",
+		},
+		{
+			"trigger": "_BN_CUSTOM_MESSAGE_LOADED\t()",
+			"contents": "BN_CUSTOM_MESSAGE_LOADED()",
+		},
+		{
+			"trigger": "_BN_DISCONNECTED\t(result)",
+			"contents": "BN_DISCONNECTED(result)",
+		},
+		{
+			"trigger": "_BN_FRIEND_ACCOUNT_OFFLINE\t(friendId)",
+			"contents": "BN_FRIEND_ACCOUNT_OFFLINE(friendId)",
+		},
+		{
+			"trigger": "_BN_FRIEND_ACCOUNT_ONLINE\t(friendId)",
+			"contents": "BN_FRIEND_ACCOUNT_ONLINE(friendId)",
+		},
+		{
+			"trigger": "_BN_FRIEND_INFO_CHANGED\t(friendIndex)",
+			"contents": "BN_FRIEND_INFO_CHANGED(friendIndex)",
+		},
+		{
+			"trigger": "_BN_FRIEND_INVITE_ADDED\t(accountID)",
+			"contents": "BN_FRIEND_INVITE_ADDED(accountID)",
+		},
+		{
+			"trigger": "_BN_FRIEND_INVITE_LIST_INITIALIZED\t(listSize)",
+			"contents": "BN_FRIEND_INVITE_LIST_INITIALIZED(listSize)",
+		},
+		{
+			"trigger": "_BN_FRIEND_INVITE_REMOVED\t()",
+			"contents": "BN_FRIEND_INVITE_REMOVED()",
+		},
+		{
+			"trigger": "_BN_FRIEND_LIST_SIZE_CHANGED\t(accountID)",
+			"contents": "BN_FRIEND_LIST_SIZE_CHANGED(accountID)",
+		},
+		{
+			"trigger": "_BN_INFO_CHANGED\t()",
+			"contents": "BN_INFO_CHANGED()",
+		},
+		{
+			"trigger": "_BN_REQUEST_FOF_SUCCEEDED\t()",
+			"contents": "BN_REQUEST_FOF_SUCCEEDED()",
+		},
+		{
+			"trigger": "_BONUS_ROLL_ACTIVATE\t()",
+			"contents": "BONUS_ROLL_ACTIVATE()",
+		},
+		{
+			"trigger": "_BONUS_ROLL_DEACTIVATE\t()",
+			"contents": "BONUS_ROLL_DEACTIVATE()",
+		},
+		{
+			"trigger": "_BONUS_ROLL_FAILED\t()",
+			"contents": "BONUS_ROLL_FAILED()",
+		},
+		{
+			"trigger": "_BONUS_ROLL_RESULT\t(typeIdentifier, itemLink, quantity, specID, sex, personalLootToast)",
+			"contents": "BONUS_ROLL_RESULT(typeIdentifier, itemLink, quantity, specID, sex, personalLootToast)",
+		},
+		{
+			"trigger": "_BONUS_ROLL_STARTED\t()",
+			"contents": "BONUS_ROLL_STARTED()",
+		},
+		{
+			"trigger": "_BOSS_KILL\t(encounterID, encounterName)",
+			"contents": "BOSS_KILL(encounterID, encounterName)",
+		},
+		{
+			"trigger": "_CALENDAR_ACTION_PENDING\t(pending)",
+			"contents": "CALENDAR_ACTION_PENDING(pending)",
+		},
+		{
+			"trigger": "_CALENDAR_CLOSE_EVENT\t()",
+			"contents": "CALENDAR_CLOSE_EVENT()",
+		},
+		{
+			"trigger": "_CALENDAR_EVENT_ALARM\t(title, hour, minute)",
+			"contents": "CALENDAR_EVENT_ALARM(title, hour, minute)",
+		},
+		{
+			"trigger": "_CALENDAR_NEW_EVENT\t(isCopy)",
+			"contents": "CALENDAR_NEW_EVENT(isCopy)",
+		},
+		{
+			"trigger": "_CALENDAR_OPEN_EVENT\t(calendarType)",
+			"contents": "CALENDAR_OPEN_EVENT(calendarType)",
+		},
+		{
+			"trigger": "_CALENDAR_UPDATE_ERROR\t(errorReason)",
+			"contents": "CALENDAR_UPDATE_ERROR(errorReason)",
+		},
+		{
+			"trigger": "_CALENDAR_UPDATE_EVENT\t()",
+			"contents": "CALENDAR_UPDATE_EVENT()",
+		},
+		{
+			"trigger": "_CALENDAR_UPDATE_EVENT_LIST\t()",
+			"contents": "CALENDAR_UPDATE_EVENT_LIST()",
+		},
+		{
+			"trigger": "_CALENDAR_UPDATE_GUILD_EVENTS\t()",
+			"contents": "CALENDAR_UPDATE_GUILD_EVENTS()",
+		},
+		{
+			"trigger": "_CALENDAR_UPDATE_INVITE_LIST\t(hasCompleteList)",
+			"contents": "CALENDAR_UPDATE_INVITE_LIST(hasCompleteList)",
+		},
+		{
+			"trigger": "_CALENDAR_UPDATE_PENDING_INVITES\t()",
+			"contents": "CALENDAR_UPDATE_PENDING_INVITES()",
+		},
+		{
+			"trigger": "_CANCEL_GLYPH_CAST\t()",
+			"contents": "CANCEL_GLYPH_CAST()",
+		},
+		{
+			"trigger": "_CANCEL_LOOT_ROLL\t(rollID)",
+			"contents": "CANCEL_LOOT_ROLL(rollID)",
+		},
+		{
+			"trigger": "_CANCEL_SUMMON\t()",
+			"contents": "CANCEL_SUMMON()",
+		},
+		{
+			"trigger": "_CAPTUREFRAMES_FAILED\t()",
+			"contents": "CAPTUREFRAMES_FAILED()",
+		},
+		{
+			"trigger": "_CAPTUREFRAMES_SUCCEEDED\t()",
+			"contents": "CAPTUREFRAMES_SUCCEEDED()",
+		},
+		{
+			"trigger": "_CHALLENGE_MODE_COMPLETED\t()",
+			"contents": "CHALLENGE_MODE_COMPLETED()",
+		},
+		{
+			"trigger": "_CHALLENGE_MODE_DEATH_COUNT_UPDATED\t()",
+			"contents": "CHALLENGE_MODE_DEATH_COUNT_UPDATED()",
+		},
+		{
+			"trigger": "_CHALLENGE_MODE_KEYSTONE_RECEPTABLE_OPEN\t()",
+			"contents": "CHALLENGE_MODE_KEYSTONE_RECEPTABLE_OPEN()",
+		},
+		{
+			"trigger": "_CHALLENGE_MODE_KEYSTONE_SLOTTED\t(keystoneID)",
+			"contents": "CHALLENGE_MODE_KEYSTONE_SLOTTED(keystoneID)",
+		},
+		{
+			"trigger": "_CHALLENGE_MODE_LEADERS_UPDATE\t()",
+			"contents": "CHALLENGE_MODE_LEADERS_UPDATE()",
+		},
+		{
+			"trigger": "_CHALLENGE_MODE_MAPS_UPDATE\t()",
+			"contents": "CHALLENGE_MODE_MAPS_UPDATE()",
+		},
+		{
+			"trigger": "_CHALLENGE_MODE_NEW_RECORD\t(mapID, completionMilliseconds, level)",
+			"contents": "CHALLENGE_MODE_NEW_RECORD(mapID, completionMilliseconds, level)",
+		},
+		{
+			"trigger": "_CHALLENGE_MODE_RESET\t(mapID)",
+			"contents": "CHALLENGE_MODE_RESET(mapID)",
+		},
+		{
+			"trigger": "_CHALLENGE_MODE_START\t(mapID)",
+			"contents": "CHALLENGE_MODE_START(mapID)",
+		},
+		{
+			"trigger": "_CHANNEL_COUNT_UPDATE\t(displayIndex, count)",
+			"contents": "CHANNEL_COUNT_UPDATE(displayIndex, count)",
+		},
+		{
+			"trigger": "_CHANNEL_FLAGS_UPDATED\t(displayIndex)",
+			"contents": "CHANNEL_FLAGS_UPDATED(displayIndex)",
+		},
+		{
+			"trigger": "_CHANNEL_INVITE_REQUEST\t(channelID, name)",
+			"contents": "CHANNEL_INVITE_REQUEST(channelID, name)",
+		},
+		{
+			"trigger": "_CHANNEL_PASSWORD_REQUEST\t(channelID)",
+			"contents": "CHANNEL_PASSWORD_REQUEST(channelID)",
+		},
+		{
+			"trigger": "_CHANNEL_ROSTER_UPDATE\t(displayIndex, count)",
+			"contents": "CHANNEL_ROSTER_UPDATE(displayIndex, count)",
+		},
+		{
+			"trigger": "_CHANNEL_UI_UPDATE\t()",
+			"contents": "CHANNEL_UI_UPDATE()",
+		},
+		{
+			"trigger": "_CHANNEL_VOICE_UPDATE\t(displayIndex, voiceEnabled, voiceActive)",
+			"contents": "CHANNEL_VOICE_UPDATE(displayIndex, voiceEnabled, voiceActive)",
+		},
+		{
+			"trigger": "_CHARACTER_ITEM_FIXUP_NOTIFICATION\t(fixupVersion)",
+			"contents": "CHARACTER_ITEM_FIXUP_NOTIFICATION(fixupVersion)",
+		},
+		{
+			"trigger": "_CHARACTER_POINTS_CHANGED\t(change)",
+			"contents": "CHARACTER_POINTS_CHANGED(change)",
+		},
+		{
+			"trigger": "_CHARACTER_UPGRADE_SPELL_TIER_SET\t(tierIndex)",
+			"contents": "CHARACTER_UPGRADE_SPELL_TIER_SET(tierIndex)",
+		},
+		{
+			"trigger": "_CHAT_COMBAT_MSG_ARENA_POINTS_GAIN\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_COMBAT_MSG_ARENA_POINTS_GAIN(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_ACHIEVEMENT\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_ACHIEVEMENT(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_ADDON\t(prefix, text, channel, sender, target, zoneChannelID, localID, name, instanceID)",
+			"contents": "CHAT_MSG_ADDON(prefix, text, channel, sender, target, zoneChannelID, localID, name, instanceID)",
+		},
+		{
+			"trigger": "_CHAT_MSG_AFK\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_AFK(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_BG_SYSTEM_ALLIANCE\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_BG_SYSTEM_ALLIANCE(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_BG_SYSTEM_HORDE\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_BG_SYSTEM_HORDE(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_BG_SYSTEM_NEUTRAL\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_BG_SYSTEM_NEUTRAL(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_BN\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_BN(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_BN_INLINE_TOAST_ALERT\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_BN_INLINE_TOAST_ALERT(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_BN_INLINE_TOAST_BROADCAST\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_BN_INLINE_TOAST_BROADCAST(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_BN_INLINE_TOAST_BROADCAST_INFORM\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_BN_INLINE_TOAST_BROADCAST_INFORM(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_BN_INLINE_TOAST_CONVERSATION\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_BN_INLINE_TOAST_CONVERSATION(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_BN_WHISPER\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_BN_WHISPER(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_BN_WHISPER_INFORM\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_BN_WHISPER_INFORM(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_BN_WHISPER_PLAYER_OFFLINE\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_BN_WHISPER_PLAYER_OFFLINE(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_CHANNEL\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_CHANNEL(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_CHANNEL_JOIN\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_CHANNEL_JOIN(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_CHANNEL_LEAVE\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_CHANNEL_LEAVE(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_CHANNEL_LIST\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_CHANNEL_LIST(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_CHANNEL_NOTICE\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_CHANNEL_NOTICE(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_CHANNEL_NOTICE_USER\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_CHANNEL_NOTICE_USER(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_COMBAT_FACTION_CHANGE\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_COMBAT_FACTION_CHANGE(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_COMBAT_HONOR_GAIN\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_COMBAT_HONOR_GAIN(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_COMBAT_MISC_INFO\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_COMBAT_MISC_INFO(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_COMBAT_XP_GAIN\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_COMBAT_XP_GAIN(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_CURRENCY\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_CURRENCY(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_DND\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_DND(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_EMOTE\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_EMOTE(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_FILTERED\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_FILTERED(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_GUILD\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_GUILD(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_GUILD_ACHIEVEMENT\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_GUILD_ACHIEVEMENT(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_GUILD_ITEM_LOOTED\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_GUILD_ITEM_LOOTED(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_IGNORED\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_IGNORED(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_INSTANCE_CHAT\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_INSTANCE_CHAT(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_INSTANCE_CHAT_LEADER\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_INSTANCE_CHAT_LEADER(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_LOOT\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_LOOT(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_MONEY\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_MONEY(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_MONSTER_EMOTE\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_MONSTER_EMOTE(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_MONSTER_PARTY\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_MONSTER_PARTY(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_MONSTER_SAY\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_MONSTER_SAY(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_MONSTER_WHISPER\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_MONSTER_WHISPER(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_MONSTER_YELL\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_MONSTER_YELL(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_OFFICER\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_OFFICER(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_OPENING\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_OPENING(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_PARTY\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_PARTY(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_PARTY_LEADER\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_PARTY_LEADER(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_PET_BATTLE_COMBAT_LOG\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_PET_BATTLE_COMBAT_LOG(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_PET_BATTLE_INFO\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_PET_BATTLE_INFO(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_PET_INFO\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_PET_INFO(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_RAID\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_RAID(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_RAID_BOSS_EMOTE\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_RAID_BOSS_EMOTE(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_RAID_BOSS_WHISPER\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_RAID_BOSS_WHISPER(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_RAID_LEADER\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_RAID_LEADER(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_RAID_WARNING\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_RAID_WARNING(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_RESTRICTED\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_RESTRICTED(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_SAY\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_SAY(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_SKILL\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_SKILL(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_SYSTEM\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_SYSTEM(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_TARGETICONS\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_TARGETICONS(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_TEXT_EMOTE\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_TEXT_EMOTE(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_TRADESKILLS\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_TRADESKILLS(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_WHISPER\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_WHISPER(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_WHISPER_INFORM\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_WHISPER_INFORM(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_MSG_YELL\t(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+			"contents": "CHAT_MSG_YELL(text, playerName, languageName, channelName, playerName2, specialFlags, zoneChannelID, channelIndex, channelBaseName, unused, lineID, guid, bnSenderID, isMobile, isSubtitle, hideSenderInLetterbox, supressRaidIcons)",
+		},
+		{
+			"trigger": "_CHAT_SERVER_DISCONNECTED\t(isInitialMessage)",
+			"contents": "CHAT_SERVER_DISCONNECTED(isInitialMessage)",
+		},
+		{
+			"trigger": "_CHAT_SERVER_RECONNECTED\t()",
+			"contents": "CHAT_SERVER_RECONNECTED()",
+		},
+		{
+			"trigger": "_CINEMATIC_START\t(canBeCancelled)",
+			"contents": "CINEMATIC_START(canBeCancelled)",
+		},
+		{
+			"trigger": "_CINEMATIC_STOP\t()",
+			"contents": "CINEMATIC_STOP()",
+		},
+		{
+			"trigger": "_CLASS_TRIAL_TIMER_START\t()",
+			"contents": "CLASS_TRIAL_TIMER_START()",
+		},
+		{
+			"trigger": "_CLASS_TRIAL_UPGRADE_COMPLETE\t()",
+			"contents": "CLASS_TRIAL_UPGRADE_COMPLETE()",
+		},
+		{
+			"trigger": "_CLEAR_BOSS_EMOTES\t()",
+			"contents": "CLEAR_BOSS_EMOTES()",
+		},
+		{
+			"trigger": "_CLOSE_INBOX_ITEM\t(mailIndex)",
+			"contents": "CLOSE_INBOX_ITEM(mailIndex)",
+		},
+		{
+			"trigger": "_CLOSE_TABARD_FRAME\t()",
+			"contents": "CLOSE_TABARD_FRAME()",
+		},
+		{
+			"trigger": "_CLOSE_WORLD_MAP\t()",
+			"contents": "CLOSE_WORLD_MAP()",
+		},
+		{
+			"trigger": "_COMBAT_LOG_EVENT\t()",
+			"contents": "COMBAT_LOG_EVENT()",
+		},
+		{
+			"trigger": "_COMBAT_LOG_EVENT_UNFILTERED\t()",
+			"contents": "COMBAT_LOG_EVENT_UNFILTERED()",
+		},
+		{
+			"trigger": "_COMBAT_RATING_UPDATE\t()",
+			"contents": "COMBAT_RATING_UPDATE()",
+		},
+		{
+			"trigger": "_COMBAT_TEXT_UPDATE\t(combatTextType)",
+			"contents": "COMBAT_TEXT_UPDATE(combatTextType)",
+		},
+		{
+			"trigger": "_COMMENTATOR_ENTER_WORLD\t()",
+			"contents": "COMMENTATOR_ENTER_WORLD()",
+		},
+		{
+			"trigger": "_COMMENTATOR_MAP_UPDATE\t()",
+			"contents": "COMMENTATOR_MAP_UPDATE()",
+		},
+		{
+			"trigger": "_COMMENTATOR_PLAYER_NAME_OVERRIDE_UPDATE\t(nameToOverride, overrideName)",
+			"contents": "COMMENTATOR_PLAYER_NAME_OVERRIDE_UPDATE(nameToOverride, overrideName)",
+		},
+		{
+			"trigger": "_COMMENTATOR_PLAYER_UPDATE\t()",
+			"contents": "COMMENTATOR_PLAYER_UPDATE()",
+		},
+		{
+			"trigger": "_COMPACT_UNIT_FRAME_PROFILES_LOADED\t()",
+			"contents": "COMPACT_UNIT_FRAME_PROFILES_LOADED()",
+		},
+		{
+			"trigger": "_COMPANION_LEARNED\t()",
+			"contents": "COMPANION_LEARNED()",
+		},
+		{
+			"trigger": "_COMPANION_UNLEARNED\t()",
+			"contents": "COMPANION_UNLEARNED()",
+		},
+		{
+			"trigger": "_COMPANION_UPDATE\t(companionType)",
+			"contents": "COMPANION_UPDATE(companionType)",
+		},
+		{
+			"trigger": "_CONFIRM_BEFORE_USE\t()",
+			"contents": "CONFIRM_BEFORE_USE()",
+		},
+		{
+			"trigger": "_CONFIRM_BINDER\t(areaName)",
+			"contents": "CONFIRM_BINDER(areaName)",
+		},
+		{
+			"trigger": "_CONFIRM_DISENCHANT_ROLL\t(rollID, rollType)",
+			"contents": "CONFIRM_DISENCHANT_ROLL(rollID, rollType)",
+		},
+		{
+			"trigger": "_CONFIRM_LOOT_ROLL\t(rollID, rollType, confirmReason)",
+			"contents": "CONFIRM_LOOT_ROLL(rollID, rollType, confirmReason)",
+		},
+		{
+			"trigger": "_CONFIRM_SUMMON\t(summonReason, skippingStartExperience)",
+			"contents": "CONFIRM_SUMMON(summonReason, skippingStartExperience)",
+		},
+		{
+			"trigger": "_CONFIRM_TALENT_WIPE\t(cost, respecType)",
+			"contents": "CONFIRM_TALENT_WIPE(cost, respecType)",
+		},
+		{
+			"trigger": "_CONFIRM_XP_LOSS\t()",
+			"contents": "CONFIRM_XP_LOSS()",
+		},
+		{
+			"trigger": "_CONSOLE_CLEAR\t()",
+			"contents": "CONSOLE_CLEAR()",
+		},
+		{
+			"trigger": "_CONSOLE_COLORS_CHANGED\t()",
+			"contents": "CONSOLE_COLORS_CHANGED()",
+		},
+		{
+			"trigger": "_CONSOLE_FONT_SIZE_CHANGED\t()",
+			"contents": "CONSOLE_FONT_SIZE_CHANGED()",
+		},
+		{
+			"trigger": "_CONSOLE_LOG\t(message)",
+			"contents": "CONSOLE_LOG(message)",
+		},
+		{
+			"trigger": "_CONSOLE_MESSAGE\t(message, colorType)",
+			"contents": "CONSOLE_MESSAGE(message, colorType)",
+		},
+		{
+			"trigger": "_CONTRIBUTION_CHANGED\t(state, result, name, contributionID)",
+			"contents": "CONTRIBUTION_CHANGED(state, result, name, contributionID)",
+		},
+		{
+			"trigger": "_CONTRIBUTION_COLLECTOR_CLOSE\t()",
+			"contents": "CONTRIBUTION_COLLECTOR_CLOSE()",
+		},
+		{
+			"trigger": "_CONTRIBUTION_COLLECTOR_OPEN\t()",
+			"contents": "CONTRIBUTION_COLLECTOR_OPEN()",
+		},
+		{
+			"trigger": "_CONTRIBUTION_COLLECTOR_PENDING\t(contributionID, isPending, result)",
+			"contents": "CONTRIBUTION_COLLECTOR_PENDING(contributionID, isPending, result)",
+		},
+		{
+			"trigger": "_CONTRIBUTION_COLLECTOR_UPDATE\t()",
+			"contents": "CONTRIBUTION_COLLECTOR_UPDATE()",
+		},
+		{
+			"trigger": "_CONTRIBUTION_COLLECTOR_UPDATE_SINGLE\t(contributionID)",
+			"contents": "CONTRIBUTION_COLLECTOR_UPDATE_SINGLE(contributionID)",
+		},
+		{
+			"trigger": "_CORPSE_IN_INSTANCE\t()",
+			"contents": "CORPSE_IN_INSTANCE()",
+		},
+		{
+			"trigger": "_CORPSE_IN_RANGE\t()",
+			"contents": "CORPSE_IN_RANGE()",
+		},
+		{
+			"trigger": "_CORPSE_OUT_OF_RANGE\t()",
+			"contents": "CORPSE_OUT_OF_RANGE()",
+		},
+		{
+			"trigger": "_CRITERIA_COMPLETE\t(criteriaID)",
+			"contents": "CRITERIA_COMPLETE(criteriaID)",
+		},
+		{
+			"trigger": "_CRITERIA_EARNED\t(achievementID, description)",
+			"contents": "CRITERIA_EARNED(achievementID, description)",
+		},
+		{
+			"trigger": "_CRITERIA_UPDATE\t()",
+			"contents": "CRITERIA_UPDATE()",
+		},
+		{
+			"trigger": "_CURRENCY_DISPLAY_UPDATE\t(currencyType, quantity)",
+			"contents": "CURRENCY_DISPLAY_UPDATE(currencyType, quantity)",
+		},
+		{
+			"trigger": "_CURRENT_SPELL_CAST_CHANGED\t(cancelledCast)",
+			"contents": "CURRENT_SPELL_CAST_CHANGED(cancelledCast)",
+		},
+		{
+			"trigger": "_CURSOR_UPDATE\t()",
+			"contents": "CURSOR_UPDATE()",
+		},
+		{
+			"trigger": "_CVAR_UPDATE\t(eventName, value)",
+			"contents": "CVAR_UPDATE(eventName, value)",
+		},
+		{
+			"trigger": "_DELETE_ITEM_CONFIRM\t(itemName, qualityID, bonding, questWarn)",
+			"contents": "DELETE_ITEM_CONFIRM(itemName, qualityID, bonding, questWarn)",
+		},
+		{
+			"trigger": "_DISABLE_DECLINE_GUILD_INVITE\t()",
+			"contents": "DISABLE_DECLINE_GUILD_INVITE()",
+		},
+		{
+			"trigger": "_DISABLE_LOW_LEVEL_RAID\t()",
+			"contents": "DISABLE_LOW_LEVEL_RAID()",
+		},
+		{
+			"trigger": "_DISABLE_TAXI_BENCHMARK\t()",
+			"contents": "DISABLE_TAXI_BENCHMARK()",
+		},
+		{
+			"trigger": "_DISABLE_XP_GAIN\t()",
+			"contents": "DISABLE_XP_GAIN()",
+		},
+		{
+			"trigger": "_DISPLAY_SIZE_CHANGED\t()",
+			"contents": "DISPLAY_SIZE_CHANGED()",
+		},
+		{
+			"trigger": "_DUEL_FINISHED\t()",
+			"contents": "DUEL_FINISHED()",
+		},
+		{
+			"trigger": "_DUEL_INBOUNDS\t()",
+			"contents": "DUEL_INBOUNDS()",
+		},
+		{
+			"trigger": "_DUEL_OUTOFBOUNDS\t()",
+			"contents": "DUEL_OUTOFBOUNDS()",
+		},
+		{
+			"trigger": "_DUEL_REQUESTED\t(playerName)",
+			"contents": "DUEL_REQUESTED(playerName)",
+		},
+		{
+			"trigger": "_EJ_DIFFICULTY_UPDATE\t(difficultyID)",
+			"contents": "EJ_DIFFICULTY_UPDATE(difficultyID)",
+		},
+		{
+			"trigger": "_EJ_LOOT_DATA_RECIEVED\t(itemID)",
+			"contents": "EJ_LOOT_DATA_RECIEVED(itemID)",
+		},
+		{
+			"trigger": "_ENABLE_DECLINE_GUILD_INVITE\t()",
+			"contents": "ENABLE_DECLINE_GUILD_INVITE()",
+		},
+		{
+			"trigger": "_ENABLE_LOW_LEVEL_RAID\t()",
+			"contents": "ENABLE_LOW_LEVEL_RAID()",
+		},
+		{
+			"trigger": "_ENABLE_TAXI_BENCHMARK\t()",
+			"contents": "ENABLE_TAXI_BENCHMARK()",
+		},
+		{
+			"trigger": "_ENABLE_XP_GAIN\t()",
+			"contents": "ENABLE_XP_GAIN()",
+		},
+		{
+			"trigger": "_ENCOUNTER_END\t(encounterID, encounterName, difficultyID, groupSize, success)",
+			"contents": "ENCOUNTER_END(encounterID, encounterName, difficultyID, groupSize, success)",
+		},
+		{
+			"trigger": "_ENCOUNTER_LOOT_RECEIVED\t(encounterID, itemID, itemLink, quantity, itemName, fileName)",
+			"contents": "ENCOUNTER_LOOT_RECEIVED(encounterID, itemID, itemLink, quantity, itemName, fileName)",
+		},
+		{
+			"trigger": "_ENCOUNTER_START\t(encounterID, encounterName, difficultyID, groupSize)",
+			"contents": "ENCOUNTER_START(encounterID, encounterName, difficultyID, groupSize)",
+		},
+		{
+			"trigger": "_END_BOUND_TRADEABLE\t(reason)",
+			"contents": "END_BOUND_TRADEABLE(reason)",
+		},
+		{
+			"trigger": "_ENTERED_DIFFERENT_INSTANCE_FROM_PARTY\t()",
+			"contents": "ENTERED_DIFFERENT_INSTANCE_FROM_PARTY()",
+		},
+		{
+			"trigger": "_EQUIP_BIND_CONFIRM\t(slot)",
+			"contents": "EQUIP_BIND_CONFIRM(slot)",
+		},
+		{
+			"trigger": "_EQUIP_BIND_TRADEABLE_CONFIRM\t(slot)",
+			"contents": "EQUIP_BIND_TRADEABLE_CONFIRM(slot)",
+		},
+		{
+			"trigger": "_EQUIPMENT_SETS_CHANGED\t()",
+			"contents": "EQUIPMENT_SETS_CHANGED()",
+		},
+		{
+			"trigger": "_EQUIPMENT_SWAP_FINISHED\t(result, setID)",
+			"contents": "EQUIPMENT_SWAP_FINISHED(result, setID)",
+		},
+		{
+			"trigger": "_EQUIPMENT_SWAP_PENDING\t()",
+			"contents": "EQUIPMENT_SWAP_PENDING()",
+		},
+		{
+			"trigger": "_EXECUTE_CHAT_LINE\t(chatLine)",
+			"contents": "EXECUTE_CHAT_LINE(chatLine)",
+		},
+		{
+			"trigger": "_FORBIDDEN_NAME_PLATE_CREATED\t(namePlateFrame)",
+			"contents": "FORBIDDEN_NAME_PLATE_CREATED(namePlateFrame)",
+		},
+		{
+			"trigger": "_FORBIDDEN_NAME_PLATE_UNIT_ADDED\t(unitToken)",
+			"contents": "FORBIDDEN_NAME_PLATE_UNIT_ADDED(unitToken)",
+		},
+		{
+			"trigger": "_FORBIDDEN_NAME_PLATE_UNIT_REMOVED\t(unitToken)",
+			"contents": "FORBIDDEN_NAME_PLATE_UNIT_REMOVED(unitToken)",
+		},
+		{
+			"trigger": "_FRIENDLIST_UPDATE\t()",
+			"contents": "FRIENDLIST_UPDATE()",
+		},
+		{
+			"trigger": "_GARRISON_ARCHITECT_CLOSED\t()",
+			"contents": "GARRISON_ARCHITECT_CLOSED()",
+		},
+		{
+			"trigger": "_GARRISON_ARCHITECT_OPENED\t(followerTypeID)",
+			"contents": "GARRISON_ARCHITECT_OPENED(followerTypeID)",
+		},
+		{
+			"trigger": "_GARRISON_BUILDING_ACTIVATABLE\t(buildingName, garrisonType)",
+			"contents": "GARRISON_BUILDING_ACTIVATABLE(buildingName, garrisonType)",
+		},
+		{
+			"trigger": "_GARRISON_BUILDING_ACTIVATED\t(garrisonPlotInstanceID, garrisonBuildingID)",
+			"contents": "GARRISON_BUILDING_ACTIVATED(garrisonPlotInstanceID, garrisonBuildingID)",
+		},
+		{
+			"trigger": "_GARRISON_BUILDING_ERROR\t()",
+			"contents": "GARRISON_BUILDING_ERROR()",
+		},
+		{
+			"trigger": "_GARRISON_BUILDING_LIST_UPDATE\t(categoryID)",
+			"contents": "GARRISON_BUILDING_LIST_UPDATE(categoryID)",
+		},
+		{
+			"trigger": "_GARRISON_BUILDING_PLACED\t(garrisonPlotInstanceID, newPlacement)",
+			"contents": "GARRISON_BUILDING_PLACED(garrisonPlotInstanceID, newPlacement)",
+		},
+		{
+			"trigger": "_GARRISON_BUILDING_REMOVED\t(garrPlotInstanceID, garrBuildingID)",
+			"contents": "GARRISON_BUILDING_REMOVED(garrPlotInstanceID, garrBuildingID)",
+		},
+		{
+			"trigger": "_GARRISON_BUILDING_UPDATE\t(garrisonBuildingID, garrPlotInstanceID)",
+			"contents": "GARRISON_BUILDING_UPDATE(garrisonBuildingID, garrPlotInstanceID)",
+		},
+		{
+			"trigger": "_GARRISON_FOLLOWER_ADDED\t(followerDbID, followerName, followerClassName, followerLevel, followerQuality, isUpgraded, texturePrefix, followerTypeID)",
+			"contents": "GARRISON_FOLLOWER_ADDED(followerDbID, followerName, followerClassName, followerLevel, followerQuality, isUpgraded, texturePrefix, followerTypeID)",
+		},
+		{
+			"trigger": "_GARRISON_FOLLOWER_CATEGORIES_UPDATED\t()",
+			"contents": "GARRISON_FOLLOWER_CATEGORIES_UPDATED()",
+		},
+		{
+			"trigger": "_GARRISON_FOLLOWER_DURABILITY_CHANGED\t(garrFollowerTypeID, followerDbID, followerDurability)",
+			"contents": "GARRISON_FOLLOWER_DURABILITY_CHANGED(garrFollowerTypeID, followerDbID, followerDurability)",
+		},
+		{
+			"trigger": "_GARRISON_FOLLOWER_LIST_UPDATE\t(followerTypeID)",
+			"contents": "GARRISON_FOLLOWER_LIST_UPDATE(followerTypeID)",
+		},
+		{
+			"trigger": "_GARRISON_FOLLOWER_REMOVED\t(followerTypeID)",
+			"contents": "GARRISON_FOLLOWER_REMOVED(followerTypeID)",
+		},
+		{
+			"trigger": "_GARRISON_FOLLOWER_UPGRADED\t(followerDbID)",
+			"contents": "GARRISON_FOLLOWER_UPGRADED(followerDbID)",
+		},
+		{
+			"trigger": "_GARRISON_FOLLOWER_XP_CHANGED\t(garrFollowerTypeID, followerDbID, xpChange, oldFollowerXp, oldFollowerLevel, oldFollowerQuality)",
+			"contents": "GARRISON_FOLLOWER_XP_CHANGED(garrFollowerTypeID, followerDbID, xpChange, oldFollowerXp, oldFollowerLevel, oldFollowerQuality)",
+		},
+		{
+			"trigger": "_GARRISON_HIDE_LANDING_PAGE\t()",
+			"contents": "GARRISON_HIDE_LANDING_PAGE()",
+		},
+		{
+			"trigger": "_GARRISON_INVASION_AVAILABLE\t()",
+			"contents": "GARRISON_INVASION_AVAILABLE()",
+		},
+		{
+			"trigger": "_GARRISON_INVASION_UNAVAILABLE\t()",
+			"contents": "GARRISON_INVASION_UNAVAILABLE()",
+		},
+		{
+			"trigger": "_GARRISON_LANDINGPAGE_SHIPMENTS\t()",
+			"contents": "GARRISON_LANDINGPAGE_SHIPMENTS()",
+		},
+		{
+			"trigger": "_GARRISON_MISSION_AREA_BONUS_ADDED\t(garrisonMissonBonusAbilityID)",
+			"contents": "GARRISON_MISSION_AREA_BONUS_ADDED(garrisonMissonBonusAbilityID)",
+		},
+		{
+			"trigger": "_GARRISON_MISSION_BONUS_ROLL_COMPLETE\t(missionID, success)",
+			"contents": "GARRISON_MISSION_BONUS_ROLL_COMPLETE(missionID, success)",
+		},
+		{
+			"trigger": "_GARRISON_MISSION_BONUS_ROLL_LOOT\t(itemID)",
+			"contents": "GARRISON_MISSION_BONUS_ROLL_LOOT(itemID)",
+		},
+		{
+			"trigger": "_GARRISON_MISSION_COMPLETE_RESPONSE\t(missionID, canComplete, success, bonusRollSuccess, followerDeaths)",
+			"contents": "GARRISON_MISSION_COMPLETE_RESPONSE(missionID, canComplete, success, bonusRollSuccess, followerDeaths)",
+		},
+		{
+			"trigger": "_GARRISON_MISSION_FINISHED\t(followerTypeID, missionID)",
+			"contents": "GARRISON_MISSION_FINISHED(followerTypeID, missionID)",
+		},
+		{
+			"trigger": "_GARRISON_MISSION_LIST_UPDATE\t(garrFollowerTypeID)",
+			"contents": "GARRISON_MISSION_LIST_UPDATE(garrFollowerTypeID)",
+		},
+		{
+			"trigger": "_GARRISON_MISSION_NPC_CLOSED\t()",
+			"contents": "GARRISON_MISSION_NPC_CLOSED()",
+		},
+		{
+			"trigger": "_GARRISON_MISSION_NPC_OPENED\t(followerTypeID)",
+			"contents": "GARRISON_MISSION_NPC_OPENED(followerTypeID)",
+		},
+		{
+			"trigger": "_GARRISON_MISSION_REWARD_INFO\t(missionID, followerDbID)",
+			"contents": "GARRISON_MISSION_REWARD_INFO(missionID, followerDbID)",
+		},
+		{
+			"trigger": "_GARRISON_MISSION_STARTED\t(garrFollowerTypeID, missionID)",
+			"contents": "GARRISON_MISSION_STARTED(garrFollowerTypeID, missionID)",
+		},
+		{
+			"trigger": "_GARRISON_MONUMENT_CLOSE_UI\t()",
+			"contents": "GARRISON_MONUMENT_CLOSE_UI()",
+		},
+		{
+			"trigger": "_GARRISON_MONUMENT_LIST_LOADED\t(success)",
+			"contents": "GARRISON_MONUMENT_LIST_LOADED(success)",
+		},
+		{
+			"trigger": "_GARRISON_MONUMENT_REPLACED\t(success)",
+			"contents": "GARRISON_MONUMENT_REPLACED(success)",
+		},
+		{
+			"trigger": "_GARRISON_MONUMENT_SELECTED_TROPHY_ID_LOADED\t(success)",
+			"contents": "GARRISON_MONUMENT_SELECTED_TROPHY_ID_LOADED(success)",
+		},
+		{
+			"trigger": "_GARRISON_MONUMENT_SHOW_UI\t()",
+			"contents": "GARRISON_MONUMENT_SHOW_UI()",
+		},
+		{
+			"trigger": "_GARRISON_RANDOM_MISSION_ADDED\t(followerTypeID, missionID)",
+			"contents": "GARRISON_RANDOM_MISSION_ADDED(followerTypeID, missionID)",
+		},
+		{
+			"trigger": "_GARRISON_RECALL_PORTAL_LAST_USED_TIME\t(success, recallPortalLastUsedTime)",
+			"contents": "GARRISON_RECALL_PORTAL_LAST_USED_TIME(success, recallPortalLastUsedTime)",
+		},
+		{
+			"trigger": "_GARRISON_RECALL_PORTAL_USED\t(success)",
+			"contents": "GARRISON_RECALL_PORTAL_USED(success)",
+		},
+		{
+			"trigger": "_GARRISON_RECRUIT_FOLLOWER_RESULT\t()",
+			"contents": "GARRISON_RECRUIT_FOLLOWER_RESULT()",
+		},
+		{
+			"trigger": "_GARRISON_RECRUITMENT_FOLLOWERS_GENERATED\t()",
+			"contents": "GARRISON_RECRUITMENT_FOLLOWERS_GENERATED()",
+		},
+		{
+			"trigger": "_GARRISON_RECRUITMENT_NPC_CLOSED\t()",
+			"contents": "GARRISON_RECRUITMENT_NPC_CLOSED()",
+		},
+		{
+			"trigger": "_GARRISON_RECRUITMENT_NPC_OPENED\t(followerTypeID)",
+			"contents": "GARRISON_RECRUITMENT_NPC_OPENED(followerTypeID)",
+		},
+		{
+			"trigger": "_GARRISON_RECRUITMENT_READY\t()",
+			"contents": "GARRISON_RECRUITMENT_READY()",
+		},
+		{
+			"trigger": "_GARRISON_SHIPMENT_RECEIVED\t()",
+			"contents": "GARRISON_SHIPMENT_RECEIVED()",
+		},
+		{
+			"trigger": "_GARRISON_SHIPYARD_NPC_CLOSED\t()",
+			"contents": "GARRISON_SHIPYARD_NPC_CLOSED()",
+		},
+		{
+			"trigger": "_GARRISON_SHIPYARD_NPC_OPENED\t(followerTypeID)",
+			"contents": "GARRISON_SHIPYARD_NPC_OPENED(followerTypeID)",
+		},
+		{
+			"trigger": "_GARRISON_SHOW_LANDING_PAGE\t()",
+			"contents": "GARRISON_SHOW_LANDING_PAGE()",
+		},
+		{
+			"trigger": "_GARRISON_TALENT_COMPLETE\t(garrTypeID, doAlert)",
+			"contents": "GARRISON_TALENT_COMPLETE(garrTypeID, doAlert)",
+		},
+		{
+			"trigger": "_GARRISON_TALENT_NPC_CLOSED\t()",
+			"contents": "GARRISON_TALENT_NPC_CLOSED()",
+		},
+		{
+			"trigger": "_GARRISON_TALENT_NPC_OPENED\t(garrisonTypeID)",
+			"contents": "GARRISON_TALENT_NPC_OPENED(garrisonTypeID)",
+		},
+		{
+			"trigger": "_GARRISON_TALENT_UPDATE\t(garrTypeID)",
+			"contents": "GARRISON_TALENT_UPDATE(garrTypeID)",
+		},
+		{
+			"trigger": "_GARRISON_TRADESKILL_NPC_CLOSED\t()",
+			"contents": "GARRISON_TRADESKILL_NPC_CLOSED()",
+		},
+		{
+			"trigger": "_GARRISON_UPDATE\t()",
+			"contents": "GARRISON_UPDATE()",
+		},
+		{
+			"trigger": "_GARRISON_UPGRADEABLE_RESULT\t(garrisonUpgradeable)",
+			"contents": "GARRISON_UPGRADEABLE_RESULT(garrisonUpgradeable)",
+		},
+		{
+			"trigger": "_GARRISON_USE_PARTY_GARRISON_CHANGED\t()",
+			"contents": "GARRISON_USE_PARTY_GARRISON_CHANGED()",
+		},
+		{
+			"trigger": "_GDF_SIM_COMPLETE\t()",
+			"contents": "GDF_SIM_COMPLETE()",
+		},
+		{
+			"trigger": "_GENERIC_ERROR\t(errorMessage)",
+			"contents": "GENERIC_ERROR(errorMessage)",
+		},
+		{
+			"trigger": "_GET_ITEM_INFO_RECEIVED\t(itemID, success)",
+			"contents": "GET_ITEM_INFO_RECEIVED(itemID, success)",
+		},
+		{
+			"trigger": "_GM_PLAYER_INFO\t(name, info)",
+			"contents": "GM_PLAYER_INFO(name, info)",
+		},
+		{
+			"trigger": "_GOSSIP_CLOSED\t()",
+			"contents": "GOSSIP_CLOSED()",
+		},
+		{
+			"trigger": "_GOSSIP_CONFIRM\t(gossipIndex, text, cost)",
+			"contents": "GOSSIP_CONFIRM(gossipIndex, text, cost)",
+		},
+		{
+			"trigger": "_GOSSIP_CONFIRM_CANCEL\t()",
+			"contents": "GOSSIP_CONFIRM_CANCEL()",
+		},
+		{
+			"trigger": "_GOSSIP_ENTER_CODE\t(gossipIndex)",
+			"contents": "GOSSIP_ENTER_CODE(gossipIndex)",
+		},
+		{
+			"trigger": "_GOSSIP_SHOW\t()",
+			"contents": "GOSSIP_SHOW()",
+		},
+		{
+			"trigger": "_GROUP_INVITE_CONFIRMATION\t()",
+			"contents": "GROUP_INVITE_CONFIRMATION()",
+		},
+		{
+			"trigger": "_GROUP_JOINED\t(category, partyGUID)",
+			"contents": "GROUP_JOINED(category, partyGUID)",
+		},
+		{
+			"trigger": "_GROUP_LEFT\t(partyGUID)",
+			"contents": "GROUP_LEFT(partyGUID)",
+		},
+		{
+			"trigger": "_GROUP_ROSTER_UPDATE\t()",
+			"contents": "GROUP_ROSTER_UPDATE()",
+		},
+		{
+			"trigger": "_GUILD_CHALLENGE_COMPLETED\t(challengeType, currentCount, maxCount, goldAwarded)",
+			"contents": "GUILD_CHALLENGE_COMPLETED(challengeType, currentCount, maxCount, goldAwarded)",
+		},
+		{
+			"trigger": "_GUILD_CHALLENGE_UPDATED\t()",
+			"contents": "GUILD_CHALLENGE_UPDATED()",
+		},
+		{
+			"trigger": "_GUILD_EVENT_LOG_UPDATE\t()",
+			"contents": "GUILD_EVENT_LOG_UPDATE()",
+		},
+		{
+			"trigger": "_GUILD_INVITE_CANCEL\t()",
+			"contents": "GUILD_INVITE_CANCEL()",
+		},
+		{
+			"trigger": "_GUILD_INVITE_REQUEST\t(inviter, guildName, guildAchievementPoints, oldGuildName, isNewGuild, bkgColorR, bkgColorG, bkgColorB, borderColorR, borderColorG, borderColorB, emblemColorR, emblemColorG, emblemColorB, emblemFilename)",
+			"contents": "GUILD_INVITE_REQUEST(inviter, guildName, guildAchievementPoints, oldGuildName, isNewGuild, bkgColorR, bkgColorG, bkgColorB, borderColorR, borderColorG, borderColorB, emblemColorR, emblemColorG, emblemColorB, emblemFilename)",
+		},
+		{
+			"trigger": "_GUILD_MOTD\t(motdText)",
+			"contents": "GUILD_MOTD(motdText)",
+		},
+		{
+			"trigger": "_GUILD_NEWS_UPDATE\t()",
+			"contents": "GUILD_NEWS_UPDATE()",
+		},
+		{
+			"trigger": "_GUILD_PARTY_STATE_UPDATED\t(inGuildParty)",
+			"contents": "GUILD_PARTY_STATE_UPDATED(inGuildParty)",
+		},
+		{
+			"trigger": "_GUILD_RANKS_UPDATE\t()",
+			"contents": "GUILD_RANKS_UPDATE()",
+		},
+		{
+			"trigger": "_GUILD_RECIPE_KNOWN_BY_MEMBERS\t()",
+			"contents": "GUILD_RECIPE_KNOWN_BY_MEMBERS()",
+		},
+		{
+			"trigger": "_GUILD_REGISTRAR_CLOSED\t()",
+			"contents": "GUILD_REGISTRAR_CLOSED()",
+		},
+		{
+			"trigger": "_GUILD_REGISTRAR_SHOW\t()",
+			"contents": "GUILD_REGISTRAR_SHOW()",
+		},
+		{
+			"trigger": "_GUILD_RENAME_REQUIRED\t(flagSet)",
+			"contents": "GUILD_RENAME_REQUIRED(flagSet)",
+		},
+		{
+			"trigger": "_GUILD_REWARDS_LIST\t()",
+			"contents": "GUILD_REWARDS_LIST()",
+		},
+		{
+			"trigger": "_GUILD_ROSTER_UPDATE\t(canRequestRosterUpdate)",
+			"contents": "GUILD_ROSTER_UPDATE(canRequestRosterUpdate)",
+		},
+		{
+			"trigger": "_GUILD_TRADESKILL_UPDATE\t()",
+			"contents": "GUILD_TRADESKILL_UPDATE()",
+		},
+		{
+			"trigger": "_GUILDBANK_ITEM_LOCK_CHANGED\t()",
+			"contents": "GUILDBANK_ITEM_LOCK_CHANGED()",
+		},
+		{
+			"trigger": "_GUILDBANK_TEXT_CHANGED\t(guildBankTab)",
+			"contents": "GUILDBANK_TEXT_CHANGED(guildBankTab)",
+		},
+		{
+			"trigger": "_GUILDBANK_UPDATE_MONEY\t()",
+			"contents": "GUILDBANK_UPDATE_MONEY()",
+		},
+		{
+			"trigger": "_GUILDBANK_UPDATE_TABS\t()",
+			"contents": "GUILDBANK_UPDATE_TABS()",
+		},
+		{
+			"trigger": "_GUILDBANK_UPDATE_TEXT\t(guildBankTab)",
+			"contents": "GUILDBANK_UPDATE_TEXT(guildBankTab)",
+		},
+		{
+			"trigger": "_GUILDBANK_UPDATE_WITHDRAWMONEY\t()",
+			"contents": "GUILDBANK_UPDATE_WITHDRAWMONEY()",
+		},
+		{
+			"trigger": "_GUILDBANKBAGSLOTS_CHANGED\t()",
+			"contents": "GUILDBANKBAGSLOTS_CHANGED()",
+		},
+		{
+			"trigger": "_GUILDBANKFRAME_CLOSED\t()",
+			"contents": "GUILDBANKFRAME_CLOSED()",
+		},
+		{
+			"trigger": "_GUILDBANKFRAME_OPENED\t()",
+			"contents": "GUILDBANKFRAME_OPENED()",
+		},
+		{
+			"trigger": "_GUILDBANKLOG_UPDATE\t()",
+			"contents": "GUILDBANKLOG_UPDATE()",
+		},
+		{
+			"trigger": "_GUILDTABARD_UPDATE\t()",
+			"contents": "GUILDTABARD_UPDATE()",
+		},
+		{
+			"trigger": "_HEARTHSTONE_BOUND\t()",
+			"contents": "HEARTHSTONE_BOUND()",
+		},
+		{
+			"trigger": "_HEIRLOOM_UPGRADE_TARGETING_CHANGED\t(pendingHeirloomUpgradeSpellcast)",
+			"contents": "HEIRLOOM_UPGRADE_TARGETING_CHANGED(pendingHeirloomUpgradeSpellcast)",
+		},
+		{
+			"trigger": "_HEIRLOOMS_UPDATED\t(itemID, updateReason, hideUntilLearned)",
+			"contents": "HEIRLOOMS_UPDATED(itemID, updateReason, hideUntilLearned)",
+		},
+		{
+			"trigger": "_HONOR_LEVEL_UPDATE\t(isHigherLevel)",
+			"contents": "HONOR_LEVEL_UPDATE(isHigherLevel)",
+		},
+		{
+			"trigger": "_HONOR_PRESTIGE_UPDATE\t()",
+			"contents": "HONOR_PRESTIGE_UPDATE()",
+		},
+		{
+			"trigger": "_HONOR_XP_UPDATE\t()",
+			"contents": "HONOR_XP_UPDATE()",
+		},
+		{
+			"trigger": "_IGNORELIST_UPDATE\t()",
+			"contents": "IGNORELIST_UPDATE()",
+		},
+		{
+			"trigger": "_INCOMING_RESURRECT_CHANGED\t()",
+			"contents": "INCOMING_RESURRECT_CHANGED()",
+		},
+		{
+			"trigger": "_INSPECT_ACHIEVEMENT_READY\t(guid)",
+			"contents": "INSPECT_ACHIEVEMENT_READY(guid)",
+		},
+		{
+			"trigger": "_INSPECT_HONOR_UPDATE\t()",
+			"contents": "INSPECT_HONOR_UPDATE()",
+		},
+		{
+			"trigger": "_INSPECT_READY\t(inspecteeGUID)",
+			"contents": "INSPECT_READY(inspecteeGUID)",
+		},
+		{
+			"trigger": "_INSTANCE_BOOT_START\t()",
+			"contents": "INSTANCE_BOOT_START()",
+		},
+		{
+			"trigger": "_INSTANCE_BOOT_STOP\t()",
+			"contents": "INSTANCE_BOOT_STOP()",
+		},
+		{
+			"trigger": "_INSTANCE_ENCOUNTER_ADD_TIMER\t(timeRemaining)",
+			"contents": "INSTANCE_ENCOUNTER_ADD_TIMER(timeRemaining)",
+		},
+		{
+			"trigger": "_INSTANCE_ENCOUNTER_ENGAGE_UNIT\t()",
+			"contents": "INSTANCE_ENCOUNTER_ENGAGE_UNIT()",
+		},
+		{
+			"trigger": "_INSTANCE_ENCOUNTER_OBJECTIVE_COMPLETE\t(objectiveID)",
+			"contents": "INSTANCE_ENCOUNTER_OBJECTIVE_COMPLETE(objectiveID)",
+		},
+		{
+			"trigger": "_INSTANCE_ENCOUNTER_OBJECTIVE_START\t(objectiveID, objectiveProgress)",
+			"contents": "INSTANCE_ENCOUNTER_OBJECTIVE_START(objectiveID, objectiveProgress)",
+		},
+		{
+			"trigger": "_INSTANCE_ENCOUNTER_OBJECTIVE_UPDATE\t(objectiveID, objectiveProgress)",
+			"contents": "INSTANCE_ENCOUNTER_OBJECTIVE_UPDATE(objectiveID, objectiveProgress)",
+		},
+		{
+			"trigger": "_INSTANCE_GROUP_SIZE_CHANGED\t()",
+			"contents": "INSTANCE_GROUP_SIZE_CHANGED()",
+		},
+		{
+			"trigger": "_INSTANCE_LOCK_START\t()",
+			"contents": "INSTANCE_LOCK_START()",
+		},
+		{
+			"trigger": "_INSTANCE_LOCK_STOP\t()",
+			"contents": "INSTANCE_LOCK_STOP()",
+		},
+		{
+			"trigger": "_INSTANCE_LOCK_WARNING\t()",
+			"contents": "INSTANCE_LOCK_WARNING()",
+		},
+		{
+			"trigger": "_INVENTORY_SEARCH_UPDATE\t()",
+			"contents": "INVENTORY_SEARCH_UPDATE()",
+		},
+		{
+			"trigger": "_ITEM_DATA_LOAD_RESULT\t(itemID, success)",
+			"contents": "ITEM_DATA_LOAD_RESULT(itemID, success)",
+		},
+		{
+			"trigger": "_ITEM_LOCK_CHANGED\t(bagOrSlotIndex, slotIndex)",
+			"contents": "ITEM_LOCK_CHANGED(bagOrSlotIndex, slotIndex)",
+		},
+		{
+			"trigger": "_ITEM_LOCKED\t(bagOrSlotIndex, slotIndex)",
+			"contents": "ITEM_LOCKED(bagOrSlotIndex, slotIndex)",
+		},
+		{
+			"trigger": "_ITEM_PUSH\t(bagSlot, iconFileID)",
+			"contents": "ITEM_PUSH(bagSlot, iconFileID)",
+		},
+		{
+			"trigger": "_ITEM_RESTORATION_BUTTON_STATUS\t()",
+			"contents": "ITEM_RESTORATION_BUTTON_STATUS()",
+		},
+		{
+			"trigger": "_ITEM_TEXT_BEGIN\t()",
+			"contents": "ITEM_TEXT_BEGIN()",
+		},
+		{
+			"trigger": "_ITEM_TEXT_CLOSED\t()",
+			"contents": "ITEM_TEXT_CLOSED()",
+		},
+		{
+			"trigger": "_ITEM_TEXT_READY\t()",
+			"contents": "ITEM_TEXT_READY()",
+		},
+		{
+			"trigger": "_ITEM_TEXT_TRANSLATION\t(delay)",
+			"contents": "ITEM_TEXT_TRANSLATION(delay)",
+		},
+		{
+			"trigger": "_ITEM_UNLOCKED\t(bagOrSlotIndex, slotIndex)",
+			"contents": "ITEM_UNLOCKED(bagOrSlotIndex, slotIndex)",
+		},
+		{
+			"trigger": "_ITEM_UPGRADE_MASTER_CLOSED\t()",
+			"contents": "ITEM_UPGRADE_MASTER_CLOSED()",
+		},
+		{
+			"trigger": "_ITEM_UPGRADE_MASTER_OPENED\t()",
+			"contents": "ITEM_UPGRADE_MASTER_OPENED()",
+		},
+		{
+			"trigger": "_ITEM_UPGRADE_MASTER_SET_ITEM\t()",
+			"contents": "ITEM_UPGRADE_MASTER_SET_ITEM()",
+		},
+		{
+			"trigger": "_ITEM_UPGRADE_MASTER_UPDATE\t()",
+			"contents": "ITEM_UPGRADE_MASTER_UPDATE()",
+		},
+		{
+			"trigger": "_KNOWLEDGE_BASE_ARTICLE_LOAD_FAILURE\t()",
+			"contents": "KNOWLEDGE_BASE_ARTICLE_LOAD_FAILURE()",
+		},
+		{
+			"trigger": "_KNOWLEDGE_BASE_ARTICLE_LOAD_SUCCESS\t()",
+			"contents": "KNOWLEDGE_BASE_ARTICLE_LOAD_SUCCESS()",
+		},
+		{
+			"trigger": "_KNOWLEDGE_BASE_QUERY_LOAD_FAILURE\t()",
+			"contents": "KNOWLEDGE_BASE_QUERY_LOAD_FAILURE()",
+		},
+		{
+			"trigger": "_KNOWLEDGE_BASE_QUERY_LOAD_SUCCESS\t()",
+			"contents": "KNOWLEDGE_BASE_QUERY_LOAD_SUCCESS()",
+		},
+		{
+			"trigger": "_KNOWLEDGE_BASE_SERVER_MESSAGE\t()",
+			"contents": "KNOWLEDGE_BASE_SERVER_MESSAGE()",
+		},
+		{
+			"trigger": "_KNOWLEDGE_BASE_SETUP_LOAD_FAILURE\t()",
+			"contents": "KNOWLEDGE_BASE_SETUP_LOAD_FAILURE()",
+		},
+		{
+			"trigger": "_KNOWLEDGE_BASE_SETUP_LOAD_SUCCESS\t()",
+			"contents": "KNOWLEDGE_BASE_SETUP_LOAD_SUCCESS()",
+		},
+		{
+			"trigger": "_KNOWLEDGE_BASE_SYSTEM_MOTD_UPDATED\t()",
+			"contents": "KNOWLEDGE_BASE_SYSTEM_MOTD_UPDATED()",
+		},
+		{
+			"trigger": "_KNOWN_TITLES_UPDATE\t()",
+			"contents": "KNOWN_TITLES_UPDATE()",
+		},
+		{
+			"trigger": "_LANGUAGE_LIST_CHANGED\t()",
+			"contents": "LANGUAGE_LIST_CHANGED()",
+		},
+		{
+			"trigger": "_LEARNED_SPELL_IN_TAB\t(spellID, skillInfoIndex, isGuildPerkSpell)",
+			"contents": "LEARNED_SPELL_IN_TAB(spellID, skillInfoIndex, isGuildPerkSpell)",
+		},
+		{
+			"trigger": "_LEVEL_GRANT_PROPOSED\t(senderName)",
+			"contents": "LEVEL_GRANT_PROPOSED(senderName)",
+		},
+		{
+			"trigger": "_LF_GUILD_BROWSE_UPDATED\t()",
+			"contents": "LF_GUILD_BROWSE_UPDATED()",
+		},
+		{
+			"trigger": "_LF_GUILD_MEMBERSHIP_LIST_CHANGED\t()",
+			"contents": "LF_GUILD_MEMBERSHIP_LIST_CHANGED()",
+		},
+		{
+			"trigger": "_LF_GUILD_MEMBERSHIP_LIST_UPDATED\t(numApplicationsRemaining)",
+			"contents": "LF_GUILD_MEMBERSHIP_LIST_UPDATED(numApplicationsRemaining)",
+		},
+		{
+			"trigger": "_LF_GUILD_POST_UPDATED\t()",
+			"contents": "LF_GUILD_POST_UPDATED()",
+		},
+		{
+			"trigger": "_LF_GUILD_RECRUIT_LIST_CHANGED\t()",
+			"contents": "LF_GUILD_RECRUIT_LIST_CHANGED()",
+		},
+		{
+			"trigger": "_LF_GUILD_RECRUITS_UPDATED\t()",
+			"contents": "LF_GUILD_RECRUITS_UPDATED()",
+		},
+		{
+			"trigger": "_LFG_BONUS_FACTION_ID_UPDATED\t()",
+			"contents": "LFG_BONUS_FACTION_ID_UPDATED()",
+		},
+		{
+			"trigger": "_LFG_BOOT_PROPOSAL_UPDATE\t()",
+			"contents": "LFG_BOOT_PROPOSAL_UPDATE()",
+		},
+		{
+			"trigger": "_LFG_COMPLETION_REWARD\t()",
+			"contents": "LFG_COMPLETION_REWARD()",
+		},
+		{
+			"trigger": "_LFG_INVALID_ERROR_MESSAGE\t(reason, subReason1, subReason2)",
+			"contents": "LFG_INVALID_ERROR_MESSAGE(reason, subReason1, subReason2)",
+		},
+		{
+			"trigger": "_LFG_LIST_ACTIVE_ENTRY_UPDATE\t(created)",
+			"contents": "LFG_LIST_ACTIVE_ENTRY_UPDATE(created)",
+		},
+		{
+			"trigger": "_LFG_LIST_APPLICANT_LIST_UPDATED\t(newPendingEntry, newPendingEntryWithData)",
+			"contents": "LFG_LIST_APPLICANT_LIST_UPDATED(newPendingEntry, newPendingEntryWithData)",
+		},
+		{
+			"trigger": "_LFG_LIST_APPLICANT_UPDATED\t(applicantID)",
+			"contents": "LFG_LIST_APPLICANT_UPDATED(applicantID)",
+		},
+		{
+			"trigger": "_LFG_LIST_APPLICATION_STATUS_UPDATED\t(searchResultID, newStatus, oldStatus)",
+			"contents": "LFG_LIST_APPLICATION_STATUS_UPDATED(searchResultID, newStatus, oldStatus)",
+		},
+		{
+			"trigger": "_LFG_LIST_AVAILABILITY_UPDATE\t()",
+			"contents": "LFG_LIST_AVAILABILITY_UPDATE()",
+		},
+		{
+			"trigger": "_LFG_LIST_ENTRY_CREATION_FAILED\t()",
+			"contents": "LFG_LIST_ENTRY_CREATION_FAILED()",
+		},
+		{
+			"trigger": "_LFG_LIST_ENTRY_EXPIRED_TIMEOUT\t()",
+			"contents": "LFG_LIST_ENTRY_EXPIRED_TIMEOUT()",
+		},
+		{
+			"trigger": "_LFG_LIST_ENTRY_EXPIRED_TOO_MANY_PLAYERS\t()",
+			"contents": "LFG_LIST_ENTRY_EXPIRED_TOO_MANY_PLAYERS()",
+		},
+		{
+			"trigger": "_LFG_LIST_JOINED_GROUP\t(searchResultID)",
+			"contents": "LFG_LIST_JOINED_GROUP(searchResultID)",
+		},
+		{
+			"trigger": "_LFG_LIST_SEARCH_FAILED\t(reason)",
+			"contents": "LFG_LIST_SEARCH_FAILED(reason)",
+		},
+		{
+			"trigger": "_LFG_LIST_SEARCH_RESULT_UPDATED\t(searchResultID)",
+			"contents": "LFG_LIST_SEARCH_RESULT_UPDATED(searchResultID)",
+		},
+		{
+			"trigger": "_LFG_LIST_SEARCH_RESULTS_RECEIVED\t()",
+			"contents": "LFG_LIST_SEARCH_RESULTS_RECEIVED()",
+		},
+		{
+			"trigger": "_LFG_LOCK_INFO_RECEIVED\t()",
+			"contents": "LFG_LOCK_INFO_RECEIVED()",
+		},
+		{
+			"trigger": "_LFG_OFFER_CONTINUE\t(name, lfgDungeonsID, typeID)",
+			"contents": "LFG_OFFER_CONTINUE(name, lfgDungeonsID, typeID)",
+		},
+		{
+			"trigger": "_LFG_OPEN_FROM_GOSSIP\t(dungeonID)",
+			"contents": "LFG_OPEN_FROM_GOSSIP(dungeonID)",
+		},
+		{
+			"trigger": "_LFG_PROPOSAL_DONE\t()",
+			"contents": "LFG_PROPOSAL_DONE()",
+		},
+		{
+			"trigger": "_LFG_PROPOSAL_FAILED\t()",
+			"contents": "LFG_PROPOSAL_FAILED()",
+		},
+		{
+			"trigger": "_LFG_PROPOSAL_SHOW\t()",
+			"contents": "LFG_PROPOSAL_SHOW()",
+		},
+		{
+			"trigger": "_LFG_PROPOSAL_SUCCEEDED\t()",
+			"contents": "LFG_PROPOSAL_SUCCEEDED()",
+		},
+		{
+			"trigger": "_LFG_PROPOSAL_UPDATE\t()",
+			"contents": "LFG_PROPOSAL_UPDATE()",
+		},
+		{
+			"trigger": "_LFG_QUEUE_STATUS_UPDATE\t()",
+			"contents": "LFG_QUEUE_STATUS_UPDATE()",
+		},
+		{
+			"trigger": "_LFG_READY_CHECK_DECLINED\t(name)",
+			"contents": "LFG_READY_CHECK_DECLINED(name)",
+		},
+		{
+			"trigger": "_LFG_READY_CHECK_HIDE\t()",
+			"contents": "LFG_READY_CHECK_HIDE()",
+		},
+		{
+			"trigger": "_LFG_READY_CHECK_PLAYER_IS_READY\t(name)",
+			"contents": "LFG_READY_CHECK_PLAYER_IS_READY(name)",
+		},
+		{
+			"trigger": "_LFG_READY_CHECK_SHOW\t(isRequeue)",
+			"contents": "LFG_READY_CHECK_SHOW(isRequeue)",
+		},
+		{
+			"trigger": "_LFG_READY_CHECK_UPDATE\t()",
+			"contents": "LFG_READY_CHECK_UPDATE()",
+		},
+		{
+			"trigger": "_LFG_ROLE_CHECK_DECLINED\t()",
+			"contents": "LFG_ROLE_CHECK_DECLINED()",
+		},
+		{
+			"trigger": "_LFG_ROLE_CHECK_HIDE\t()",
+			"contents": "LFG_ROLE_CHECK_HIDE()",
+		},
+		{
+			"trigger": "_LFG_ROLE_CHECK_ROLE_CHOSEN\t(name, isTank, isHealer, isDamage)",
+			"contents": "LFG_ROLE_CHECK_ROLE_CHOSEN(name, isTank, isHealer, isDamage)",
+		},
+		{
+			"trigger": "_LFG_ROLE_CHECK_SHOW\t(isRequeue)",
+			"contents": "LFG_ROLE_CHECK_SHOW(isRequeue)",
+		},
+		{
+			"trigger": "_LFG_ROLE_CHECK_UPDATE\t()",
+			"contents": "LFG_ROLE_CHECK_UPDATE()",
+		},
+		{
+			"trigger": "_LFG_ROLE_UPDATE\t()",
+			"contents": "LFG_ROLE_UPDATE()",
+		},
+		{
+			"trigger": "_LFG_UPDATE\t()",
+			"contents": "LFG_UPDATE()",
+		},
+		{
+			"trigger": "_LFG_UPDATE_RANDOM_INFO\t()",
+			"contents": "LFG_UPDATE_RANDOM_INFO()",
+		},
+		{
+			"trigger": "_LIFESTEAL_UPDATE\t()",
+			"contents": "LIFESTEAL_UPDATE()",
+		},
+		{
+			"trigger": "_LOADING_SCREEN_DISABLED\t()",
+			"contents": "LOADING_SCREEN_DISABLED()",
+		},
+		{
+			"trigger": "_LOADING_SCREEN_ENABLED\t()",
+			"contents": "LOADING_SCREEN_ENABLED()",
+		},
+		{
+			"trigger": "_LOC_RESULT\t(result)",
+			"contents": "LOC_RESULT(result)",
+		},
+		{
+			"trigger": "_LOCALPLAYER_PET_RENAMED\t()",
+			"contents": "LOCALPLAYER_PET_RENAMED()",
+		},
+		{
+			"trigger": "_LOGOUT_CANCEL\t()",
+			"contents": "LOGOUT_CANCEL()",
+		},
+		{
+			"trigger": "_LOOT_BIND_CONFIRM\t(lootSlot)",
+			"contents": "LOOT_BIND_CONFIRM(lootSlot)",
+		},
+		{
+			"trigger": "_LOOT_CLOSED\t()",
+			"contents": "LOOT_CLOSED()",
+		},
+		{
+			"trigger": "_LOOT_HISTORY_AUTO_SHOW\t(rollID, isMasterLoot)",
+			"contents": "LOOT_HISTORY_AUTO_SHOW(rollID, isMasterLoot)",
+		},
+		{
+			"trigger": "_LOOT_HISTORY_FULL_UPDATE\t()",
+			"contents": "LOOT_HISTORY_FULL_UPDATE()",
+		},
+		{
+			"trigger": "_LOOT_HISTORY_ROLL_CHANGED\t(historyIndex, playerIndex)",
+			"contents": "LOOT_HISTORY_ROLL_CHANGED(historyIndex, playerIndex)",
+		},
+		{
+			"trigger": "_LOOT_HISTORY_ROLL_COMPLETE\t()",
+			"contents": "LOOT_HISTORY_ROLL_COMPLETE()",
+		},
+		{
+			"trigger": "_LOOT_ITEM_AVAILABLE\t(itemTooltip, lootHandle)",
+			"contents": "LOOT_ITEM_AVAILABLE(itemTooltip, lootHandle)",
+		},
+		{
+			"trigger": "_LOOT_ITEM_ROLL_WON\t(itemLink, rollQuantity, rollType, roll, upgraded)",
+			"contents": "LOOT_ITEM_ROLL_WON(itemLink, rollQuantity, rollType, roll, upgraded)",
+		},
+		{
+			"trigger": "_LOOT_JOURNAL_LIST_UPDATE\t()",
+			"contents": "LOOT_JOURNAL_LIST_UPDATE()",
+		},
+		{
+			"trigger": "_LOOT_OPENED\t(autoLoot)",
+			"contents": "LOOT_OPENED(autoLoot)",
+		},
+		{
+			"trigger": "_LOOT_READY\t(autoloot)",
+			"contents": "LOOT_READY(autoloot)",
+		},
+		{
+			"trigger": "_LOOT_ROLLS_COMPLETE\t(lootHandle)",
+			"contents": "LOOT_ROLLS_COMPLETE(lootHandle)",
+		},
+		{
+			"trigger": "_LOOT_SLOT_CHANGED\t(lootSlot)",
+			"contents": "LOOT_SLOT_CHANGED(lootSlot)",
+		},
+		{
+			"trigger": "_LOOT_SLOT_CLEARED\t(lootSlot)",
+			"contents": "LOOT_SLOT_CLEARED(lootSlot)",
+		},
+		{
+			"trigger": "_LOSS_OF_CONTROL_ADDED\t(effectIndex)",
+			"contents": "LOSS_OF_CONTROL_ADDED(effectIndex)",
+		},
+		{
+			"trigger": "_LOSS_OF_CONTROL_UPDATE\t()",
+			"contents": "LOSS_OF_CONTROL_UPDATE()",
+		},
+		{
+			"trigger": "_LUA_WARNING\t(warnType, warningText)",
+			"contents": "LUA_WARNING(warnType, warningText)",
+		},
+		{
+			"trigger": "_MACRO_ACTION_BLOCKED\t(function)",
+			"contents": "MACRO_ACTION_BLOCKED(function)",
+		},
+		{
+			"trigger": "_MACRO_ACTION_FORBIDDEN\t(function)",
+			"contents": "MACRO_ACTION_FORBIDDEN(function)",
+		},
+		{
+			"trigger": "_MAIL_CLOSED\t()",
+			"contents": "MAIL_CLOSED()",
+		},
+		{
+			"trigger": "_MAIL_FAILED\t(itemID)",
+			"contents": "MAIL_FAILED(itemID)",
+		},
+		{
+			"trigger": "_MAIL_INBOX_UPDATE\t()",
+			"contents": "MAIL_INBOX_UPDATE()",
+		},
+		{
+			"trigger": "_MAIL_LOCK_SEND_ITEMS\t(attachSlot, itemLink)",
+			"contents": "MAIL_LOCK_SEND_ITEMS(attachSlot, itemLink)",
+		},
+		{
+			"trigger": "_MAIL_SEND_INFO_UPDATE\t()",
+			"contents": "MAIL_SEND_INFO_UPDATE()",
+		},
+		{
+			"trigger": "_MAIL_SEND_SUCCESS\t()",
+			"contents": "MAIL_SEND_SUCCESS()",
+		},
+		{
+			"trigger": "_MAIL_SHOW\t()",
+			"contents": "MAIL_SHOW()",
+		},
+		{
+			"trigger": "_MAIL_SUCCESS\t(itemID)",
+			"contents": "MAIL_SUCCESS(itemID)",
+		},
+		{
+			"trigger": "_MAIL_UNLOCK_SEND_ITEMS\t()",
+			"contents": "MAIL_UNLOCK_SEND_ITEMS()",
+		},
+		{
+			"trigger": "_MAP_BAR_UPDATE\t()",
+			"contents": "MAP_BAR_UPDATE()",
+		},
+		{
+			"trigger": "_MASTERY_UPDATE\t()",
+			"contents": "MASTERY_UPDATE()",
+		},
+		{
+			"trigger": "_MAX_SPELL_START_RECOVERY_OFFSET_CHANGED\t(clampedNewQueueWindowMs)",
+			"contents": "MAX_SPELL_START_RECOVERY_OFFSET_CHANGED(clampedNewQueueWindowMs)",
+		},
+		{
+			"trigger": "_MERCHANT_CLOSED\t()",
+			"contents": "MERCHANT_CLOSED()",
+		},
+		{
+			"trigger": "_MERCHANT_CONFIRM_TRADE_TIMER_REMOVAL\t(itemLink)",
+			"contents": "MERCHANT_CONFIRM_TRADE_TIMER_REMOVAL(itemLink)",
+		},
+		{
+			"trigger": "_MERCHANT_FILTER_ITEM_UPDATE\t(itemID)",
+			"contents": "MERCHANT_FILTER_ITEM_UPDATE(itemID)",
+		},
+		{
+			"trigger": "_MERCHANT_SHOW\t()",
+			"contents": "MERCHANT_SHOW()",
+		},
+		{
+			"trigger": "_MERCHANT_UPDATE\t()",
+			"contents": "MERCHANT_UPDATE()",
+		},
+		{
+			"trigger": "_MINIMAP_PING\t(y, x)",
+			"contents": "MINIMAP_PING(y, x)",
+		},
+		{
+			"trigger": "_MINIMAP_UPDATE_TRACKING\t()",
+			"contents": "MINIMAP_UPDATE_TRACKING()",
+		},
+		{
+			"trigger": "_MINIMAP_UPDATE_ZOOM\t()",
+			"contents": "MINIMAP_UPDATE_ZOOM()",
+		},
+		{
+			"trigger": "_MIRROR_TIMER_PAUSE\t(timerName, paused)",
+			"contents": "MIRROR_TIMER_PAUSE(timerName, paused)",
+		},
+		{
+			"trigger": "_MIRROR_TIMER_START\t(timerName, value, maxValue, scale, paused, timerLabel)",
+			"contents": "MIRROR_TIMER_START(timerName, value, maxValue, scale, paused, timerLabel)",
+		},
+		{
+			"trigger": "_MIRROR_TIMER_STOP\t(timerName)",
+			"contents": "MIRROR_TIMER_STOP(timerName)",
+		},
+		{
+			"trigger": "_MODIFIER_STATE_CHANGED\t(key, down)",
+			"contents": "MODIFIER_STATE_CHANGED(key, down)",
+		},
+		{
+			"trigger": "_MOUNT_CURSOR_CLEAR\t()",
+			"contents": "MOUNT_CURSOR_CLEAR()",
+		},
+		{
+			"trigger": "_MOUNT_JOURNAL_SEARCH_UPDATED\t()",
+			"contents": "MOUNT_JOURNAL_SEARCH_UPDATED()",
+		},
+		{
+			"trigger": "_MOUNT_JOURNAL_USABILITY_CHANGED\t()",
+			"contents": "MOUNT_JOURNAL_USABILITY_CHANGED()",
+		},
+		{
+			"trigger": "_MUTELIST_UPDATE\t()",
+			"contents": "MUTELIST_UPDATE()",
+		},
+		{
+			"trigger": "_NAME_PLATE_CREATED\t(namePlateFrame)",
+			"contents": "NAME_PLATE_CREATED(namePlateFrame)",
+		},
+		{
+			"trigger": "_NAME_PLATE_UNIT_ADDED\t(unitToken)",
+			"contents": "NAME_PLATE_UNIT_ADDED(unitToken)",
+		},
+		{
+			"trigger": "_NAME_PLATE_UNIT_REMOVED\t(unitToken)",
+			"contents": "NAME_PLATE_UNIT_REMOVED(unitToken)",
+		},
+		{
+			"trigger": "_NEUTRAL_FACTION_SELECT_RESULT\t(success)",
+			"contents": "NEUTRAL_FACTION_SELECT_RESULT(success)",
+		},
+		{
+			"trigger": "_NEW_AUCTION_UPDATE\t()",
+			"contents": "NEW_AUCTION_UPDATE()",
+		},
+		{
+			"trigger": "_NEW_MOUNT_ADDED\t(mountID)",
+			"contents": "NEW_MOUNT_ADDED(mountID)",
+		},
+		{
+			"trigger": "_NEW_PET_ADDED\t(battlePetGUID)",
+			"contents": "NEW_PET_ADDED(battlePetGUID)",
+		},
+		{
+			"trigger": "_NEW_RECIPE_LEARNED\t(spellID)",
+			"contents": "NEW_RECIPE_LEARNED(spellID)",
+		},
+		{
+			"trigger": "_NEW_WMO_CHUNK\t()",
+			"contents": "NEW_WMO_CHUNK()",
+		},
+		{
+			"trigger": "_NOTIFY_PVP_AFK_RESULT\t(offender, numBlackMarksOnOffender, numPlayersIHaveReported)",
+			"contents": "NOTIFY_PVP_AFK_RESULT(offender, numBlackMarksOnOffender, numPlayersIHaveReported)",
+		},
+		{
+			"trigger": "_NPE_TUTORIAL_UPDATE\t()",
+			"contents": "NPE_TUTORIAL_UPDATE()",
+		},
+		{
+			"trigger": "_OBJECT_ENTERED_AOI\t(guid)",
+			"contents": "OBJECT_ENTERED_AOI(guid)",
+		},
+		{
+			"trigger": "_OBJECT_LEFT_AOI\t(guid)",
+			"contents": "OBJECT_LEFT_AOI(guid)",
+		},
+		{
+			"trigger": "_OBLITERUM_FORGE_CLOSE\t()",
+			"contents": "OBLITERUM_FORGE_CLOSE()",
+		},
+		{
+			"trigger": "_OBLITERUM_FORGE_PENDING_ITEM_CHANGED\t()",
+			"contents": "OBLITERUM_FORGE_PENDING_ITEM_CHANGED()",
+		},
+		{
+			"trigger": "_OBLITERUM_FORGE_SHOW\t()",
+			"contents": "OBLITERUM_FORGE_SHOW()",
+		},
+		{
+			"trigger": "_OPEN_MASTER_LOOT_LIST\t()",
+			"contents": "OPEN_MASTER_LOOT_LIST()",
+		},
+		{
+			"trigger": "_OPEN_TABARD_FRAME\t()",
+			"contents": "OPEN_TABARD_FRAME()",
+		},
+		{
+			"trigger": "_PARTY_INVITE_CANCEL\t()",
+			"contents": "PARTY_INVITE_CANCEL()",
+		},
+		{
+			"trigger": "_PARTY_INVITE_REQUEST\t(name, isTank, isHealer, isDamage, isNativeRealm, allowMultipleRoles, inviterGUID)",
+			"contents": "PARTY_INVITE_REQUEST(name, isTank, isHealer, isDamage, isNativeRealm, allowMultipleRoles, inviterGUID)",
+		},
+		{
+			"trigger": "_PARTY_LEADER_CHANGED\t()",
+			"contents": "PARTY_LEADER_CHANGED()",
+		},
+		{
+			"trigger": "_PARTY_LFG_RESTRICTED\t()",
+			"contents": "PARTY_LFG_RESTRICTED()",
+		},
+		{
+			"trigger": "_PARTY_LOOT_METHOD_CHANGED\t()",
+			"contents": "PARTY_LOOT_METHOD_CHANGED()",
+		},
+		{
+			"trigger": "_PARTY_MEMBER_DISABLE\t()",
+			"contents": "PARTY_MEMBER_DISABLE()",
+		},
+		{
+			"trigger": "_PARTY_MEMBER_ENABLE\t()",
+			"contents": "PARTY_MEMBER_ENABLE()",
+		},
+		{
+			"trigger": "_PARTY_REFER_A_FRIEND_UPDATED\t()",
+			"contents": "PARTY_REFER_A_FRIEND_UPDATED()",
+		},
+		{
+			"trigger": "_PET_ATTACK_START\t()",
+			"contents": "PET_ATTACK_START()",
+		},
+		{
+			"trigger": "_PET_ATTACK_STOP\t()",
+			"contents": "PET_ATTACK_STOP()",
+		},
+		{
+			"trigger": "_PET_BAR_HIDEGRID\t()",
+			"contents": "PET_BAR_HIDEGRID()",
+		},
+		{
+			"trigger": "_PET_BAR_SHOWGRID\t()",
+			"contents": "PET_BAR_SHOWGRID()",
+		},
+		{
+			"trigger": "_PET_BAR_UPDATE\t()",
+			"contents": "PET_BAR_UPDATE()",
+		},
+		{
+			"trigger": "_PET_BAR_UPDATE_COOLDOWN\t()",
+			"contents": "PET_BAR_UPDATE_COOLDOWN()",
+		},
+		{
+			"trigger": "_PET_BAR_UPDATE_USABLE\t()",
+			"contents": "PET_BAR_UPDATE_USABLE()",
+		},
+		{
+			"trigger": "_PET_BATTLE_ABILITY_CHANGED\t(owner, petIndex, abilityID)",
+			"contents": "PET_BATTLE_ABILITY_CHANGED(owner, petIndex, abilityID)",
+		},
+		{
+			"trigger": "_PET_BATTLE_ACTION_SELECTED\t()",
+			"contents": "PET_BATTLE_ACTION_SELECTED()",
+		},
+		{
+			"trigger": "_PET_BATTLE_AURA_APPLIED\t(owner, petIndex, auraInstanceID)",
+			"contents": "PET_BATTLE_AURA_APPLIED(owner, petIndex, auraInstanceID)",
+		},
+		{
+			"trigger": "_PET_BATTLE_AURA_CANCELED\t(owner, petIndex, auraInstanceID)",
+			"contents": "PET_BATTLE_AURA_CANCELED(owner, petIndex, auraInstanceID)",
+		},
+		{
+			"trigger": "_PET_BATTLE_AURA_CHANGED\t(owner, petIndex, auraInstanceID)",
+			"contents": "PET_BATTLE_AURA_CHANGED(owner, petIndex, auraInstanceID)",
+		},
+		{
+			"trigger": "_PET_BATTLE_CAPTURED\t(owner, petIndex)",
+			"contents": "PET_BATTLE_CAPTURED(owner, petIndex)",
+		},
+		{
+			"trigger": "_PET_BATTLE_CLOSE\t()",
+			"contents": "PET_BATTLE_CLOSE()",
+		},
+		{
+			"trigger": "_PET_BATTLE_FINAL_ROUND\t(owner)",
+			"contents": "PET_BATTLE_FINAL_ROUND(owner)",
+		},
+		{
+			"trigger": "_PET_BATTLE_HEALTH_CHANGED\t(owner, petIndex, healthChange)",
+			"contents": "PET_BATTLE_HEALTH_CHANGED(owner, petIndex, healthChange)",
+		},
+		{
+			"trigger": "_PET_BATTLE_LEVEL_CHANGED\t(owner, petIndex, newLevel)",
+			"contents": "PET_BATTLE_LEVEL_CHANGED(owner, petIndex, newLevel)",
+		},
+		{
+			"trigger": "_PET_BATTLE_LOOT_RECEIVED\t(typeIdentifier, itemLink, quantity)",
+			"contents": "PET_BATTLE_LOOT_RECEIVED(typeIdentifier, itemLink, quantity)",
+		},
+		{
+			"trigger": "_PET_BATTLE_MAX_HEALTH_CHANGED\t(owner, petIndex, healthChange)",
+			"contents": "PET_BATTLE_MAX_HEALTH_CHANGED(owner, petIndex, healthChange)",
+		},
+		{
+			"trigger": "_PET_BATTLE_OPENING_DONE\t()",
+			"contents": "PET_BATTLE_OPENING_DONE()",
+		},
+		{
+			"trigger": "_PET_BATTLE_OPENING_START\t()",
+			"contents": "PET_BATTLE_OPENING_START()",
+		},
+		{
+			"trigger": "_PET_BATTLE_OVER\t()",
+			"contents": "PET_BATTLE_OVER()",
+		},
+		{
+			"trigger": "_PET_BATTLE_PET_CHANGED\t(owner)",
+			"contents": "PET_BATTLE_PET_CHANGED(owner)",
+		},
+		{
+			"trigger": "_PET_BATTLE_PET_ROUND_PLAYBACK_COMPLETE\t(roundNumber)",
+			"contents": "PET_BATTLE_PET_ROUND_PLAYBACK_COMPLETE(roundNumber)",
+		},
+		{
+			"trigger": "_PET_BATTLE_PET_ROUND_RESULTS\t(roundNumber)",
+			"contents": "PET_BATTLE_PET_ROUND_RESULTS(roundNumber)",
+		},
+		{
+			"trigger": "_PET_BATTLE_PET_TYPE_CHANGED\t(owner, petIndex, stateValue)",
+			"contents": "PET_BATTLE_PET_TYPE_CHANGED(owner, petIndex, stateValue)",
+		},
+		{
+			"trigger": "_PET_BATTLE_PVP_DUEL_REQUEST_CANCEL\t()",
+			"contents": "PET_BATTLE_PVP_DUEL_REQUEST_CANCEL()",
+		},
+		{
+			"trigger": "_PET_BATTLE_PVP_DUEL_REQUESTED\t(fullName)",
+			"contents": "PET_BATTLE_PVP_DUEL_REQUESTED(fullName)",
+		},
+		{
+			"trigger": "_PET_BATTLE_QUEUE_PROPOSAL_ACCEPTED\t()",
+			"contents": "PET_BATTLE_QUEUE_PROPOSAL_ACCEPTED()",
+		},
+		{
+			"trigger": "_PET_BATTLE_QUEUE_PROPOSAL_DECLINED\t()",
+			"contents": "PET_BATTLE_QUEUE_PROPOSAL_DECLINED()",
+		},
+		{
+			"trigger": "_PET_BATTLE_QUEUE_PROPOSE_MATCH\t()",
+			"contents": "PET_BATTLE_QUEUE_PROPOSE_MATCH()",
+		},
+		{
+			"trigger": "_PET_BATTLE_QUEUE_STATUS\t()",
+			"contents": "PET_BATTLE_QUEUE_STATUS()",
+		},
+		{
+			"trigger": "_PET_BATTLE_XP_CHANGED\t(owner, petIndex, xpChange)",
+			"contents": "PET_BATTLE_XP_CHANGED(owner, petIndex, xpChange)",
+		},
+		{
+			"trigger": "_PET_DISMISS_START\t(delay)",
+			"contents": "PET_DISMISS_START(delay)",
+		},
+		{
+			"trigger": "_PET_FORCE_NAME_DECLENSION\t(name, declinedName1, declinedName2, declinedName3, declinedName4, declinedName5)",
+			"contents": "PET_FORCE_NAME_DECLENSION(name, declinedName1, declinedName2, declinedName3, declinedName4, declinedName5)",
+		},
+		{
+			"trigger": "_PET_JOURNAL_AUTO_SLOTTED_PET\t(slotIndex, battlePetGUID)",
+			"contents": "PET_JOURNAL_AUTO_SLOTTED_PET(slotIndex, battlePetGUID)",
+		},
+		{
+			"trigger": "_PET_JOURNAL_CAGE_FAILED\t()",
+			"contents": "PET_JOURNAL_CAGE_FAILED()",
+		},
+		{
+			"trigger": "_PET_JOURNAL_LIST_UPDATE\t()",
+			"contents": "PET_JOURNAL_LIST_UPDATE()",
+		},
+		{
+			"trigger": "_PET_JOURNAL_NEW_BATTLE_SLOT\t()",
+			"contents": "PET_JOURNAL_NEW_BATTLE_SLOT()",
+		},
+		{
+			"trigger": "_PET_JOURNAL_PET_DELETED\t(battlePetGUID)",
+			"contents": "PET_JOURNAL_PET_DELETED(battlePetGUID)",
+		},
+		{
+			"trigger": "_PET_JOURNAL_PET_RESTORED\t(battlePetGUID)",
+			"contents": "PET_JOURNAL_PET_RESTORED(battlePetGUID)",
+		},
+		{
+			"trigger": "_PET_JOURNAL_PET_REVOKED\t(battlePetGUID)",
+			"contents": "PET_JOURNAL_PET_REVOKED(battlePetGUID)",
+		},
+		{
+			"trigger": "_PET_JOURNAL_PETS_HEALED\t()",
+			"contents": "PET_JOURNAL_PETS_HEALED()",
+		},
+		{
+			"trigger": "_PET_JOURNAL_TRAP_LEVEL_SET\t(trapLevel)",
+			"contents": "PET_JOURNAL_TRAP_LEVEL_SET(trapLevel)",
+		},
+		{
+			"trigger": "_PET_SPECIALIZATION_CHANGED\t()",
+			"contents": "PET_SPECIALIZATION_CHANGED()",
+		},
+		{
+			"trigger": "_PET_SPELL_POWER_UPDATE\t()",
+			"contents": "PET_SPELL_POWER_UPDATE()",
+		},
+		{
+			"trigger": "_PET_STABLE_CLOSED\t()",
+			"contents": "PET_STABLE_CLOSED()",
+		},
+		{
+			"trigger": "_PET_STABLE_SHOW\t()",
+			"contents": "PET_STABLE_SHOW()",
+		},
+		{
+			"trigger": "_PET_STABLE_UPDATE\t()",
+			"contents": "PET_STABLE_UPDATE()",
+		},
+		{
+			"trigger": "_PET_STABLE_UPDATE_PAPERDOLL\t()",
+			"contents": "PET_STABLE_UPDATE_PAPERDOLL()",
+		},
+		{
+			"trigger": "_PET_UI_CLOSE\t()",
+			"contents": "PET_UI_CLOSE()",
+		},
+		{
+			"trigger": "_PET_UI_UPDATE\t()",
+			"contents": "PET_UI_UPDATE()",
+		},
+		{
+			"trigger": "_PETITION_CLOSED\t()",
+			"contents": "PETITION_CLOSED()",
+		},
+		{
+			"trigger": "_PETITION_SHOW\t()",
+			"contents": "PETITION_SHOW()",
+		},
+		{
+			"trigger": "_PLAY_MOVIE\t(movieID)",
+			"contents": "PLAY_MOVIE(movieID)",
+		},
+		{
+			"trigger": "_PLAYER_ALIVE\t()",
+			"contents": "PLAYER_ALIVE()",
+		},
+		{
+			"trigger": "_PLAYER_AVG_ITEM_LEVEL_UPDATE\t()",
+			"contents": "PLAYER_AVG_ITEM_LEVEL_UPDATE()",
+		},
+		{
+			"trigger": "_PLAYER_CAMPING\t()",
+			"contents": "PLAYER_CAMPING()",
+		},
+		{
+			"trigger": "_PLAYER_CONTROL_GAINED\t()",
+			"contents": "PLAYER_CONTROL_GAINED()",
+		},
+		{
+			"trigger": "_PLAYER_CONTROL_LOST\t()",
+			"contents": "PLAYER_CONTROL_LOST()",
+		},
+		{
+			"trigger": "_PLAYER_DAMAGE_DONE_MODS\t()",
+			"contents": "PLAYER_DAMAGE_DONE_MODS()",
+		},
+		{
+			"trigger": "_PLAYER_DEAD\t()",
+			"contents": "PLAYER_DEAD()",
+		},
+		{
+			"trigger": "_PLAYER_DIFFICULTY_CHANGED\t()",
+			"contents": "PLAYER_DIFFICULTY_CHANGED()",
+		},
+		{
+			"trigger": "_PLAYER_ENTER_COMBAT\t()",
+			"contents": "PLAYER_ENTER_COMBAT()",
+		},
+		{
+			"trigger": "_PLAYER_ENTERING_BATTLEGROUND\t()",
+			"contents": "PLAYER_ENTERING_BATTLEGROUND()",
+		},
+		{
+			"trigger": "_PLAYER_ENTERING_WORLD\t(isInitialLogin, isReloadingUi)",
+			"contents": "PLAYER_ENTERING_WORLD(isInitialLogin, isReloadingUi)",
+		},
+		{
+			"trigger": "_PLAYER_EQUIPMENT_CHANGED\t(equipmentSlot, hasCurrent)",
+			"contents": "PLAYER_EQUIPMENT_CHANGED(equipmentSlot, hasCurrent)",
+		},
+		{
+			"trigger": "_PLAYER_FARSIGHT_FOCUS_CHANGED\t()",
+			"contents": "PLAYER_FARSIGHT_FOCUS_CHANGED()",
+		},
+		{
+			"trigger": "_PLAYER_FLAGS_CHANGED\t()",
+			"contents": "PLAYER_FLAGS_CHANGED()",
+		},
+		{
+			"trigger": "_PLAYER_FOCUS_CHANGED\t()",
+			"contents": "PLAYER_FOCUS_CHANGED()",
+		},
+		{
+			"trigger": "_PLAYER_GAINS_VEHICLE_DATA\t(vehicleUIIndicatorID)",
+			"contents": "PLAYER_GAINS_VEHICLE_DATA(vehicleUIIndicatorID)",
+		},
+		{
+			"trigger": "_PLAYER_GUILD_UPDATE\t()",
+			"contents": "PLAYER_GUILD_UPDATE()",
+		},
+		{
+			"trigger": "_PLAYER_LEARN_PVP_TALENT_FAILED\t()",
+			"contents": "PLAYER_LEARN_PVP_TALENT_FAILED()",
+		},
+		{
+			"trigger": "_PLAYER_LEARN_TALENT_FAILED\t()",
+			"contents": "PLAYER_LEARN_TALENT_FAILED()",
+		},
+		{
+			"trigger": "_PLAYER_LEAVE_COMBAT\t()",
+			"contents": "PLAYER_LEAVE_COMBAT()",
+		},
+		{
+			"trigger": "_PLAYER_LEAVING_WORLD\t()",
+			"contents": "PLAYER_LEAVING_WORLD()",
+		},
+		{
+			"trigger": "_PLAYER_LEVEL_UP\t(level, healthDelta, powerDelta, numNewTalents, numNewPvpTalentSlots, strengthDelta, agilityDelta, staminaDelta, intellectDelta)",
+			"contents": "PLAYER_LEVEL_UP(level, healthDelta, powerDelta, numNewTalents, numNewPvpTalentSlots, strengthDelta, agilityDelta, staminaDelta, intellectDelta)",
+		},
+		{
+			"trigger": "_PLAYER_LOGIN\t()",
+			"contents": "PLAYER_LOGIN()",
+		},
+		{
+			"trigger": "_PLAYER_LOGOUT\t()",
+			"contents": "PLAYER_LOGOUT()",
+		},
+		{
+			"trigger": "_PLAYER_LOOT_SPEC_UPDATED\t()",
+			"contents": "PLAYER_LOOT_SPEC_UPDATED()",
+		},
+		{
+			"trigger": "_PLAYER_LOSES_VEHICLE_DATA\t()",
+			"contents": "PLAYER_LOSES_VEHICLE_DATA()",
+		},
+		{
+			"trigger": "_PLAYER_MONEY\t()",
+			"contents": "PLAYER_MONEY()",
+		},
+		{
+			"trigger": "_PLAYER_MOUNT_DISPLAY_CHANGED\t()",
+			"contents": "PLAYER_MOUNT_DISPLAY_CHANGED()",
+		},
+		{
+			"trigger": "_PLAYER_PVP_KILLS_CHANGED\t()",
+			"contents": "PLAYER_PVP_KILLS_CHANGED()",
+		},
+		{
+			"trigger": "_PLAYER_PVP_RANK_CHANGED\t()",
+			"contents": "PLAYER_PVP_RANK_CHANGED()",
+		},
+		{
+			"trigger": "_PLAYER_PVP_TALENT_UPDATE\t()",
+			"contents": "PLAYER_PVP_TALENT_UPDATE()",
+		},
+		{
+			"trigger": "_PLAYER_QUITING\t()",
+			"contents": "PLAYER_QUITING()",
+		},
+		{
+			"trigger": "_PLAYER_REGEN_DISABLED\t()",
+			"contents": "PLAYER_REGEN_DISABLED()",
+		},
+		{
+			"trigger": "_PLAYER_REGEN_ENABLED\t()",
+			"contents": "PLAYER_REGEN_ENABLED()",
+		},
+		{
+			"trigger": "_PLAYER_REPORT_SUBMITTED\t(invitedByGUID)",
+			"contents": "PLAYER_REPORT_SUBMITTED(invitedByGUID)",
+		},
+		{
+			"trigger": "_PLAYER_ROLES_ASSIGNED\t()",
+			"contents": "PLAYER_ROLES_ASSIGNED()",
+		},
+		{
+			"trigger": "_PLAYER_SKINNED\t(hasFreeRepop)",
+			"contents": "PLAYER_SKINNED(hasFreeRepop)",
+		},
+		{
+			"trigger": "_PLAYER_SPECIALIZATION_CHANGED\t()",
+			"contents": "PLAYER_SPECIALIZATION_CHANGED()",
+		},
+		{
+			"trigger": "_PLAYER_STARTED_MOVING\t()",
+			"contents": "PLAYER_STARTED_MOVING()",
+		},
+		{
+			"trigger": "_PLAYER_STOPPED_MOVING\t()",
+			"contents": "PLAYER_STOPPED_MOVING()",
+		},
+		{
+			"trigger": "_PLAYER_TALENT_UPDATE\t()",
+			"contents": "PLAYER_TALENT_UPDATE()",
+		},
+		{
+			"trigger": "_PLAYER_TARGET_CHANGED\t()",
+			"contents": "PLAYER_TARGET_CHANGED()",
+		},
+		{
+			"trigger": "_PLAYER_TOTEM_UPDATE\t(totemSlot)",
+			"contents": "PLAYER_TOTEM_UPDATE(totemSlot)",
+		},
+		{
+			"trigger": "_PLAYER_TRADE_CURRENCY\t()",
+			"contents": "PLAYER_TRADE_CURRENCY()",
+		},
+		{
+			"trigger": "_PLAYER_TRADE_MONEY\t()",
+			"contents": "PLAYER_TRADE_MONEY()",
+		},
+		{
+			"trigger": "_PLAYER_TRIAL_XP_UPDATE\t()",
+			"contents": "PLAYER_TRIAL_XP_UPDATE()",
+		},
+		{
+			"trigger": "_PLAYER_UNGHOST\t()",
+			"contents": "PLAYER_UNGHOST()",
+		},
+		{
+			"trigger": "_PLAYER_UPDATE_RESTING\t()",
+			"contents": "PLAYER_UPDATE_RESTING()",
+		},
+		{
+			"trigger": "_PLAYER_XP_UPDATE\t()",
+			"contents": "PLAYER_XP_UPDATE()",
+		},
+		{
+			"trigger": "_PLAYERBANKBAGSLOTS_CHANGED\t()",
+			"contents": "PLAYERBANKBAGSLOTS_CHANGED()",
+		},
+		{
+			"trigger": "_PLAYERBANKSLOTS_CHANGED\t(slot)",
+			"contents": "PLAYERBANKSLOTS_CHANGED(slot)",
+		},
+		{
+			"trigger": "_PLAYERREAGENTBANKSLOTS_CHANGED\t(slot)",
+			"contents": "PLAYERREAGENTBANKSLOTS_CHANGED(slot)",
+		},
+		{
+			"trigger": "_PORTRAITS_UPDATED\t()",
+			"contents": "PORTRAITS_UPDATED()",
+		},
+		{
+			"trigger": "_PRESTIGE_AND_HONOR_INVOLUNTARILY_CHANGED\t()",
+			"contents": "PRESTIGE_AND_HONOR_INVOLUNTARILY_CHANGED()",
+		},
+		{
+			"trigger": "_PROVING_GROUNDS_SCORE_UPDATE\t(points)",
+			"contents": "PROVING_GROUNDS_SCORE_UPDATE(points)",
+		},
+		{
+			"trigger": "_PVP_BRAWL_INFO_UPDATED\t()",
+			"contents": "PVP_BRAWL_INFO_UPDATED()",
+		},
+		{
+			"trigger": "_PVP_POWER_UPDATE\t()",
+			"contents": "PVP_POWER_UPDATE()",
+		},
+		{
+			"trigger": "_PVP_RATED_STATS_UPDATE\t()",
+			"contents": "PVP_RATED_STATS_UPDATE()",
+		},
+		{
+			"trigger": "_PVP_REWARDS_UPDATE\t()",
+			"contents": "PVP_REWARDS_UPDATE()",
+		},
+		{
+			"trigger": "_PVP_ROLE_UPDATE\t()",
+			"contents": "PVP_ROLE_UPDATE()",
+		},
+		{
+			"trigger": "_PVP_TIMER_UPDATE\t()",
+			"contents": "PVP_TIMER_UPDATE()",
+		},
+		{
+			"trigger": "_PVP_TYPES_ENABLED\t(wargameBattlegrounds, ratedBattlegrounds, ratedArenas)",
+			"contents": "PVP_TYPES_ENABLED(wargameBattlegrounds, ratedBattlegrounds, ratedArenas)",
+		},
+		{
+			"trigger": "_PVP_WORLDSTATE_UPDATE\t()",
+			"contents": "PVP_WORLDSTATE_UPDATE()",
+		},
+		{
+			"trigger": "_PVPQUEUE_ANYWHERE_SHOW\t()",
+			"contents": "PVPQUEUE_ANYWHERE_SHOW()",
+		},
+		{
+			"trigger": "_PVPQUEUE_ANYWHERE_UPDATE_AVAILABLE\t()",
+			"contents": "PVPQUEUE_ANYWHERE_UPDATE_AVAILABLE()",
+		},
+		{
+			"trigger": "_QUEST_ACCEPT_CONFIRM\t(name, questTitle)",
+			"contents": "QUEST_ACCEPT_CONFIRM(name, questTitle)",
+		},
+		{
+			"trigger": "_QUEST_ACCEPTED\t(questIndex, questId)",
+			"contents": "QUEST_ACCEPTED(questIndex, questId)",
+		},
+		{
+			"trigger": "_QUEST_AUTOCOMPLETE\t(questId)",
+			"contents": "QUEST_AUTOCOMPLETE(questId)",
+		},
+		{
+			"trigger": "_QUEST_BOSS_EMOTE\t(text, playerName, displayTime, enableBossEmoteWarningSound)",
+			"contents": "QUEST_BOSS_EMOTE(text, playerName, displayTime, enableBossEmoteWarningSound)",
+		},
+		{
+			"trigger": "_QUEST_CHOICE_CLOSE\t()",
+			"contents": "QUEST_CHOICE_CLOSE()",
+		},
+		{
+			"trigger": "_QUEST_CHOICE_UPDATE\t()",
+			"contents": "QUEST_CHOICE_UPDATE()",
+		},
+		{
+			"trigger": "_QUEST_COMPLETE\t()",
+			"contents": "QUEST_COMPLETE()",
+		},
+		{
+			"trigger": "_QUEST_DETAIL\t(questStartItemID)",
+			"contents": "QUEST_DETAIL(questStartItemID)",
+		},
+		{
+			"trigger": "_QUEST_FINISHED\t()",
+			"contents": "QUEST_FINISHED()",
+		},
+		{
+			"trigger": "_QUEST_GREETING\t()",
+			"contents": "QUEST_GREETING()",
+		},
+		{
+			"trigger": "_QUEST_ITEM_UPDATE\t()",
+			"contents": "QUEST_ITEM_UPDATE()",
+		},
+		{
+			"trigger": "_QUEST_LOG_CRITERIA_UPDATE\t(questID, specificTreeID, description, numFulfilled, numRequired)",
+			"contents": "QUEST_LOG_CRITERIA_UPDATE(questID, specificTreeID, description, numFulfilled, numRequired)",
+		},
+		{
+			"trigger": "_QUEST_LOG_UPDATE\t()",
+			"contents": "QUEST_LOG_UPDATE()",
+		},
+		{
+			"trigger": "_QUEST_LOOT_RECEIVED\t(questID, itemLink, quantity)",
+			"contents": "QUEST_LOOT_RECEIVED(questID, itemLink, quantity)",
+		},
+		{
+			"trigger": "_QUEST_POI_UPDATE\t()",
+			"contents": "QUEST_POI_UPDATE()",
+		},
+		{
+			"trigger": "_QUEST_PROGRESS\t()",
+			"contents": "QUEST_PROGRESS()",
+		},
+		{
+			"trigger": "_QUEST_REMOVED\t(questID)",
+			"contents": "QUEST_REMOVED(questID)",
+		},
+		{
+			"trigger": "_QUEST_TURNED_IN\t(questID, xpReward, moneyReward)",
+			"contents": "QUEST_TURNED_IN(questID, xpReward, moneyReward)",
+		},
+		{
+			"trigger": "_QUEST_WATCH_LIST_CHANGED\t(questID, added)",
+			"contents": "QUEST_WATCH_LIST_CHANGED(questID, added)",
+		},
+		{
+			"trigger": "_QUEST_WATCH_UPDATE\t(questIndex)",
+			"contents": "QUEST_WATCH_UPDATE(questIndex)",
+		},
+		{
+			"trigger": "_QUESTLINE_UPDATE\t()",
+			"contents": "QUESTLINE_UPDATE()",
+		},
+		{
+			"trigger": "_QUICK_TICKET_SYSTEM_STATUS\t()",
+			"contents": "QUICK_TICKET_SYSTEM_STATUS()",
+		},
+		{
+			"trigger": "_QUICK_TICKET_THROTTLE_CHANGED\t()",
+			"contents": "QUICK_TICKET_THROTTLE_CHANGED()",
+		},
+		{
+			"trigger": "_RAID_BOSS_EMOTE\t(text, playerName, displayTime, enableBossEmoteWarningSound)",
+			"contents": "RAID_BOSS_EMOTE(text, playerName, displayTime, enableBossEmoteWarningSound)",
+		},
+		{
+			"trigger": "_RAID_BOSS_WHISPER\t(text, playerName, displayTime, enableBossEmoteWarningSound)",
+			"contents": "RAID_BOSS_WHISPER(text, playerName, displayTime, enableBossEmoteWarningSound)",
+		},
+		{
+			"trigger": "_RAID_INSTANCE_WELCOME\t(mapname, timeLeft, locked, extended)",
+			"contents": "RAID_INSTANCE_WELCOME(mapname, timeLeft, locked, extended)",
+		},
+		{
+			"trigger": "_RAID_ROSTER_UPDATE\t()",
+			"contents": "RAID_ROSTER_UPDATE()",
+		},
+		{
+			"trigger": "_RAID_TARGET_UPDATE\t()",
+			"contents": "RAID_TARGET_UPDATE()",
+		},
+		{
+			"trigger": "_RAISED_AS_GHOUL\t()",
+			"contents": "RAISED_AS_GHOUL()",
+		},
+		{
+			"trigger": "_READY_CHECK\t(initiatorName, readyCheckTimeLeft)",
+			"contents": "READY_CHECK(initiatorName, readyCheckTimeLeft)",
+		},
+		{
+			"trigger": "_READY_CHECK_CONFIRM\t(isReady)",
+			"contents": "READY_CHECK_CONFIRM(isReady)",
+		},
+		{
+			"trigger": "_READY_CHECK_FINISHED\t(preempted)",
+			"contents": "READY_CHECK_FINISHED(preempted)",
+		},
+		{
+			"trigger": "_REAGENTBANK_PURCHASED\t()",
+			"contents": "REAGENTBANK_PURCHASED()",
+		},
+		{
+			"trigger": "_REAGENTBANK_UPDATE\t()",
+			"contents": "REAGENTBANK_UPDATE()",
+		},
+		{
+			"trigger": "_RECEIVED_ACHIEVEMENT_LIST\t()",
+			"contents": "RECEIVED_ACHIEVEMENT_LIST()",
+		},
+		{
+			"trigger": "_RECEIVED_ACHIEVEMENT_MEMBER_LIST\t(achievementID)",
+			"contents": "RECEIVED_ACHIEVEMENT_MEMBER_LIST(achievementID)",
+		},
+		{
+			"trigger": "_RECRUIT_A_FRIEND_CAN_EMAIL\t(resultCode)",
+			"contents": "RECRUIT_A_FRIEND_CAN_EMAIL(resultCode)",
+		},
+		{
+			"trigger": "_RECRUIT_A_FRIEND_INVITATION_FAILED\t(failureReason)",
+			"contents": "RECRUIT_A_FRIEND_INVITATION_FAILED(failureReason)",
+		},
+		{
+			"trigger": "_RECRUIT_A_FRIEND_INVITER_FRIEND_ADDED\t(name)",
+			"contents": "RECRUIT_A_FRIEND_INVITER_FRIEND_ADDED(name)",
+		},
+		{
+			"trigger": "_RECRUIT_A_FRIEND_SYSTEM_STATUS\t()",
+			"contents": "RECRUIT_A_FRIEND_SYSTEM_STATUS()",
+		},
+		{
+			"trigger": "_REPLACE_ENCHANT\t(existingStr, replacementStr)",
+			"contents": "REPLACE_ENCHANT(existingStr, replacementStr)",
+		},
+		{
+			"trigger": "_REQUEST_CEMETERY_LIST_RESPONSE\t(isGossipTriggered)",
+			"contents": "REQUEST_CEMETERY_LIST_RESPONSE(isGossipTriggered)",
+		},
+		{
+			"trigger": "_REQUIRED_GUILD_RENAME_RESULT\t(success)",
+			"contents": "REQUIRED_GUILD_RENAME_RESULT(success)",
+		},
+		{
+			"trigger": "_RESEARCH_ARTIFACT_COMPLETE\t(name)",
+			"contents": "RESEARCH_ARTIFACT_COMPLETE(name)",
+		},
+		{
+			"trigger": "_RESEARCH_ARTIFACT_DIG_SITE_UPDATED\t()",
+			"contents": "RESEARCH_ARTIFACT_DIG_SITE_UPDATED()",
+		},
+		{
+			"trigger": "_RESEARCH_ARTIFACT_HISTORY_READY\t()",
+			"contents": "RESEARCH_ARTIFACT_HISTORY_READY()",
+		},
+		{
+			"trigger": "_RESEARCH_ARTIFACT_UPDATE\t()",
+			"contents": "RESEARCH_ARTIFACT_UPDATE()",
+		},
+		{
+			"trigger": "_RESURRECT_REQUEST\t(inviter)",
+			"contents": "RESURRECT_REQUEST(inviter)",
+		},
+		{
+			"trigger": "_ROLE_CHANGED_INFORM\t(changedName, fromName, oldRole, newRole)",
+			"contents": "ROLE_CHANGED_INFORM(changedName, fromName, oldRole, newRole)",
+		},
+		{
+			"trigger": "_ROLE_POLL_BEGIN\t(fromName)",
+			"contents": "ROLE_POLL_BEGIN(fromName)",
+		},
+		{
+			"trigger": "_RUNE_POWER_UPDATE\t(runeIndex, added)",
+			"contents": "RUNE_POWER_UPDATE(runeIndex, added)",
+		},
+		{
+			"trigger": "_SAVED_VARIABLES_TOO_LARGE\t(addOnName)",
+			"contents": "SAVED_VARIABLES_TOO_LARGE(addOnName)",
+		},
+		{
+			"trigger": "_SCENARIO_BONUS_OBJECTIVE_COMPLETE\t(bonusObjectiveID)",
+			"contents": "SCENARIO_BONUS_OBJECTIVE_COMPLETE(bonusObjectiveID)",
+		},
+		{
+			"trigger": "_SCENARIO_BONUS_VISIBILITY_UPDATE\t()",
+			"contents": "SCENARIO_BONUS_VISIBILITY_UPDATE()",
+		},
+		{
+			"trigger": "_SCENARIO_COMPLETED\t(questID, xp, money)",
+			"contents": "SCENARIO_COMPLETED(questID, xp, money)",
+		},
+		{
+			"trigger": "_SCENARIO_CRITERIA_SHOW_STATE_UPDATE\t(show)",
+			"contents": "SCENARIO_CRITERIA_SHOW_STATE_UPDATE(show)",
+		},
+		{
+			"trigger": "_SCENARIO_CRITERIA_UPDATE\t(criteriaID)",
+			"contents": "SCENARIO_CRITERIA_UPDATE(criteriaID)",
+		},
+		{
+			"trigger": "_SCENARIO_POI_UPDATE\t()",
+			"contents": "SCENARIO_POI_UPDATE()",
+		},
+		{
+			"trigger": "_SCENARIO_SPELL_UPDATE\t()",
+			"contents": "SCENARIO_SPELL_UPDATE()",
+		},
+		{
+			"trigger": "_SCENARIO_UPDATE\t(newStep)",
+			"contents": "SCENARIO_UPDATE(newStep)",
+		},
+		{
+			"trigger": "_SCREENSHOT_FAILED\t()",
+			"contents": "SCREENSHOT_FAILED()",
+		},
+		{
+			"trigger": "_SCREENSHOT_STARTED\t()",
+			"contents": "SCREENSHOT_STARTED()",
+		},
+		{
+			"trigger": "_SCREENSHOT_SUCCEEDED\t()",
+			"contents": "SCREENSHOT_SUCCEEDED()",
+		},
+		{
+			"trigger": "_SEARCH_DB_LOADED\t()",
+			"contents": "SEARCH_DB_LOADED()",
+		},
+		{
+			"trigger": "_SECURE_TRANSFER_CANCEL\t()",
+			"contents": "SECURE_TRANSFER_CANCEL()",
+		},
+		{
+			"trigger": "_SECURE_TRANSFER_CONFIRM_SEND_MAIL\t()",
+			"contents": "SECURE_TRANSFER_CONFIRM_SEND_MAIL()",
+		},
+		{
+			"trigger": "_SECURE_TRANSFER_CONFIRM_TRADE_ACCEPT\t()",
+			"contents": "SECURE_TRANSFER_CONFIRM_TRADE_ACCEPT()",
+		},
+		{
+			"trigger": "_SELF_RES_SPELL_CHANGED\t()",
+			"contents": "SELF_RES_SPELL_CHANGED()",
+		},
+		{
+			"trigger": "_SEND_MAIL_COD_CHANGED\t()",
+			"contents": "SEND_MAIL_COD_CHANGED()",
+		},
+		{
+			"trigger": "_SEND_MAIL_MONEY_CHANGED\t()",
+			"contents": "SEND_MAIL_MONEY_CHANGED()",
+		},
+		{
+			"trigger": "_SHIPMENT_CRAFTER_CLOSED\t()",
+			"contents": "SHIPMENT_CRAFTER_CLOSED()",
+		},
+		{
+			"trigger": "_SHIPMENT_CRAFTER_INFO\t(success, shipmentCount, maxShipments, ownedShipments, plotInstanceID)",
+			"contents": "SHIPMENT_CRAFTER_INFO(success, shipmentCount, maxShipments, ownedShipments, plotInstanceID)",
+		},
+		{
+			"trigger": "_SHIPMENT_CRAFTER_OPENED\t(charShipmentContainerID)",
+			"contents": "SHIPMENT_CRAFTER_OPENED(charShipmentContainerID)",
+		},
+		{
+			"trigger": "_SHIPMENT_CRAFTER_REAGENT_UPDATE\t()",
+			"contents": "SHIPMENT_CRAFTER_REAGENT_UPDATE()",
+		},
+		{
+			"trigger": "_SHIPMENT_UPDATE\t(shipmentStarted, hasAttachedFollower)",
+			"contents": "SHIPMENT_UPDATE(shipmentStarted, hasAttachedFollower)",
+		},
+		{
+			"trigger": "_SHOW_FACTION_SELECT_UI\t()",
+			"contents": "SHOW_FACTION_SELECT_UI()",
+		},
+		{
+			"trigger": "_SHOW_LOOT_TOAST\t(typeIdentifier, itemLink, quantity, specID, sex, personalLootToast, ITEM_TOAST_METHOD_LOOT, lessAwesome, upgraded)",
+			"contents": "SHOW_LOOT_TOAST(typeIdentifier, itemLink, quantity, specID, sex, personalLootToast, ITEM_TOAST_METHOD_LOOT, lessAwesome, upgraded)",
+		},
+		{
+			"trigger": "_SHOW_LOOT_TOAST_LEGENDARY_LOOTED\t(itemLink)",
+			"contents": "SHOW_LOOT_TOAST_LEGENDARY_LOOTED(itemLink)",
+		},
+		{
+			"trigger": "_SHOW_LOOT_TOAST_UPGRADE\t(itemLink, quantity, specID, sex, baseQuality, personalLootToast, lessAwesome)",
+			"contents": "SHOW_LOOT_TOAST_UPGRADE(itemLink, quantity, specID, sex, baseQuality, personalLootToast, lessAwesome)",
+		},
+		{
+			"trigger": "_SHOW_PVP_FACTION_LOOT_TOAST\t(typeIdentifier, itemLink, quantity, specID, sex, personalLootToast, lessAwesome)",
+			"contents": "SHOW_PVP_FACTION_LOOT_TOAST(typeIdentifier, itemLink, quantity, specID, sex, personalLootToast, lessAwesome)",
+		},
+		{
+			"trigger": "_SHOW_RATED_PVP_REWARD_TOAST\t(typeIdentifier, itemLink, quantity, specID, sex, personalLootToast, lessAwesome)",
+			"contents": "SHOW_RATED_PVP_REWARD_TOAST(typeIdentifier, itemLink, quantity, specID, sex, personalLootToast, lessAwesome)",
+		},
+		{
+			"trigger": "_SIMPLE_BROWSER_WEB_ERROR\t(errorCode)",
+			"contents": "SIMPLE_BROWSER_WEB_ERROR(errorCode)",
+		},
+		{
+			"trigger": "_SIMPLE_BROWSER_WEB_PROXY_FAILED\t()",
+			"contents": "SIMPLE_BROWSER_WEB_PROXY_FAILED()",
+		},
+		{
+			"trigger": "_SIMPLE_CHECKOUT_CLOSED\t()",
+			"contents": "SIMPLE_CHECKOUT_CLOSED()",
+		},
+		{
+			"trigger": "_SKILL_LINES_CHANGED\t()",
+			"contents": "SKILL_LINES_CHANGED()",
+		},
+		{
+			"trigger": "_SOCIAL_ITEM_RECEIVED\t()",
+			"contents": "SOCIAL_ITEM_RECEIVED()",
+		},
+		{
+			"trigger": "_SOCIAL_QUEUE_CONFIG_UPDATED\t()",
+			"contents": "SOCIAL_QUEUE_CONFIG_UPDATED()",
+		},
+		{
+			"trigger": "_SOCIAL_QUEUE_UPDATE\t(groupGUID, numAddedItems)",
+			"contents": "SOCIAL_QUEUE_UPDATE(groupGUID, numAddedItems)",
+		},
+		{
+			"trigger": "_SOCKET_INFO_ACCEPT\t()",
+			"contents": "SOCKET_INFO_ACCEPT()",
+		},
+		{
+			"trigger": "_SOCKET_INFO_CLOSE\t()",
+			"contents": "SOCKET_INFO_CLOSE()",
+		},
+		{
+			"trigger": "_SOCKET_INFO_FAILURE\t()",
+			"contents": "SOCKET_INFO_FAILURE()",
+		},
+		{
+			"trigger": "_SOCKET_INFO_SUCCESS\t()",
+			"contents": "SOCKET_INFO_SUCCESS()",
+		},
+		{
+			"trigger": "_SOCKET_INFO_UPDATE\t()",
+			"contents": "SOCKET_INFO_UPDATE()",
+		},
+		{
+			"trigger": "_SOR_BY_TEXT_UPDATED\t()",
+			"contents": "SOR_BY_TEXT_UPDATED()",
+		},
+		{
+			"trigger": "_SOR_COUNTS_UPDATED\t()",
+			"contents": "SOR_COUNTS_UPDATED()",
+		},
+		{
+			"trigger": "_SOR_START_EXPERIENCE_INCOMPLETE\t()",
+			"contents": "SOR_START_EXPERIENCE_INCOMPLETE()",
+		},
+		{
+			"trigger": "_SOUND_DEVICE_UPDATE\t()",
+			"contents": "SOUND_DEVICE_UPDATE()",
+		},
+		{
+			"trigger": "_SOUNDKIT_FINISHED\t(soundHandle)",
+			"contents": "SOUNDKIT_FINISHED(soundHandle)",
+		},
+		{
+			"trigger": "_SPEC_INVOLUNTARILY_CHANGED\t(isPet)",
+			"contents": "SPEC_INVOLUNTARILY_CHANGED(isPet)",
+		},
+		{
+			"trigger": "_SPEED_UPDATE\t()",
+			"contents": "SPEED_UPDATE()",
+		},
+		{
+			"trigger": "_SPELL_ACTIVATION_OVERLAY_GLOW_HIDE\t(spellID)",
+			"contents": "SPELL_ACTIVATION_OVERLAY_GLOW_HIDE(spellID)",
+		},
+		{
+			"trigger": "_SPELL_ACTIVATION_OVERLAY_GLOW_SHOW\t(spellID)",
+			"contents": "SPELL_ACTIVATION_OVERLAY_GLOW_SHOW(spellID)",
+		},
+		{
+			"trigger": "_SPELL_ACTIVATION_OVERLAY_HIDE\t(spellID)",
+			"contents": "SPELL_ACTIVATION_OVERLAY_HIDE(spellID)",
+		},
+		{
+			"trigger": "_SPELL_ACTIVATION_OVERLAY_SHOW\t(spellID, overlayFileDataID, locationName, scale, r, g, b)",
+			"contents": "SPELL_ACTIVATION_OVERLAY_SHOW(spellID, overlayFileDataID, locationName, scale, r, g, b)",
+		},
+		{
+			"trigger": "_SPELL_CONFIRMATION_PROMPT\t(spellID, effectValue, message, duration, currencyTypesID, currentDifficulty)",
+			"contents": "SPELL_CONFIRMATION_PROMPT(spellID, effectValue, message, duration, currencyTypesID, currentDifficulty)",
+		},
+		{
+			"trigger": "_SPELL_CONFIRMATION_TIMEOUT\t(spellID, effectValue)",
+			"contents": "SPELL_CONFIRMATION_TIMEOUT(spellID, effectValue)",
+		},
+		{
+			"trigger": "_SPELL_FLYOUT_UPDATE\t(flyoutID, spellID, isLearned)",
+			"contents": "SPELL_FLYOUT_UPDATE(flyoutID, spellID, isLearned)",
+		},
+		{
+			"trigger": "_SPELL_POWER_CHANGED\t()",
+			"contents": "SPELL_POWER_CHANGED()",
+		},
+		{
+			"trigger": "_SPELL_PUSHED_TO_ACTIONBAR\t(spellID, slot, page)",
+			"contents": "SPELL_PUSHED_TO_ACTIONBAR(spellID, slot, page)",
+		},
+		{
+			"trigger": "_SPELL_UPDATE_CHARGES\t()",
+			"contents": "SPELL_UPDATE_CHARGES()",
+		},
+		{
+			"trigger": "_SPELL_UPDATE_COOLDOWN\t()",
+			"contents": "SPELL_UPDATE_COOLDOWN()",
+		},
+		{
+			"trigger": "_SPELL_UPDATE_ICON\t()",
+			"contents": "SPELL_UPDATE_ICON()",
+		},
+		{
+			"trigger": "_SPELL_UPDATE_USABLE\t()",
+			"contents": "SPELL_UPDATE_USABLE()",
+		},
+		{
+			"trigger": "_SPELLS_CHANGED\t()",
+			"contents": "SPELLS_CHANGED()",
+		},
+		{
+			"trigger": "_START_AUTOREPEAT_SPELL\t()",
+			"contents": "START_AUTOREPEAT_SPELL()",
+		},
+		{
+			"trigger": "_START_LOOT_ROLL\t(rollID, rollTime, lootHandle)",
+			"contents": "START_LOOT_ROLL(rollID, rollTime, lootHandle)",
+		},
+		{
+			"trigger": "_START_TIMER\t(timerType, timeRemaining, totalTime)",
+			"contents": "START_TIMER(timerType, timeRemaining, totalTime)",
+		},
+		{
+			"trigger": "_STOP_AUTOREPEAT_SPELL\t()",
+			"contents": "STOP_AUTOREPEAT_SPELL()",
+		},
+		{
+			"trigger": "_STREAMING_ICON\t(streamingStatus)",
+			"contents": "STREAMING_ICON(streamingStatus)",
+		},
+		{
+			"trigger": "_STURDINESS_UPDATE\t()",
+			"contents": "STURDINESS_UPDATE()",
+		},
+		{
+			"trigger": "_SUPER_TRACKED_QUEST_CHANGED\t(superTrackedQuestID)",
+			"contents": "SUPER_TRACKED_QUEST_CHANGED(superTrackedQuestID)",
+		},
+		{
+			"trigger": "_SYSMSG\t(string, r, g, b)",
+			"contents": "SYSMSG(string, r, g, b)",
+		},
+		{
+			"trigger": "_TABARD_CANSAVE_CHANGED\t()",
+			"contents": "TABARD_CANSAVE_CHANGED()",
+		},
+		{
+			"trigger": "_TABARD_SAVE_PENDING\t()",
+			"contents": "TABARD_SAVE_PENDING()",
+		},
+		{
+			"trigger": "_TALENTS_INVOLUNTARILY_RESET\t(isPetTalents)",
+			"contents": "TALENTS_INVOLUNTARILY_RESET(isPetTalents)",
+		},
+		{
+			"trigger": "_TALKINGHEAD_CLOSE\t()",
+			"contents": "TALKINGHEAD_CLOSE()",
+		},
+		{
+			"trigger": "_TALKINGHEAD_REQUESTED\t()",
+			"contents": "TALKINGHEAD_REQUESTED()",
+		},
+		{
+			"trigger": "_TASK_PROGRESS_UPDATE\t()",
+			"contents": "TASK_PROGRESS_UPDATE()",
+		},
+		{
+			"trigger": "_TAXIMAP_CLOSED\t()",
+			"contents": "TAXIMAP_CLOSED()",
+		},
+		{
+			"trigger": "_TAXIMAP_OPENED\t()",
+			"contents": "TAXIMAP_OPENED()",
+		},
+		{
+			"trigger": "_TIME_PLAYED_MSG\t(totalTimePlayed, timePlayedThisLevel)",
+			"contents": "TIME_PLAYED_MSG(totalTimePlayed, timePlayedThisLevel)",
+		},
+		{
+			"trigger": "_TOGGLE_CONSOLE\t(showConsole)",
+			"contents": "TOGGLE_CONSOLE(showConsole)",
+		},
+		{
+			"trigger": "_TOKEN_AUCTION_SOLD\t()",
+			"contents": "TOKEN_AUCTION_SOLD()",
+		},
+		{
+			"trigger": "_TOKEN_BUY_CONFIRM_REQUIRED\t()",
+			"contents": "TOKEN_BUY_CONFIRM_REQUIRED()",
+		},
+		{
+			"trigger": "_TOKEN_BUY_RESULT\t(result)",
+			"contents": "TOKEN_BUY_RESULT(result)",
+		},
+		{
+			"trigger": "_TOKEN_DISTRIBUTIONS_UPDATED\t(result)",
+			"contents": "TOKEN_DISTRIBUTIONS_UPDATED(result)",
+		},
+		{
+			"trigger": "_TOKEN_MARKET_PRICE_UPDATED\t(result)",
+			"contents": "TOKEN_MARKET_PRICE_UPDATED(result)",
+		},
+		{
+			"trigger": "_TOKEN_REDEEM_BALANCE_UPDATED\t()",
+			"contents": "TOKEN_REDEEM_BALANCE_UPDATED()",
+		},
+		{
+			"trigger": "_TOKEN_REDEEM_CONFIRM_REQUIRED\t(choiceType)",
+			"contents": "TOKEN_REDEEM_CONFIRM_REQUIRED(choiceType)",
+		},
+		{
+			"trigger": "_TOKEN_REDEEM_FRAME_SHOW\t()",
+			"contents": "TOKEN_REDEEM_FRAME_SHOW()",
+		},
+		{
+			"trigger": "_TOKEN_REDEEM_GAME_TIME_UPDATED\t()",
+			"contents": "TOKEN_REDEEM_GAME_TIME_UPDATED()",
+		},
+		{
+			"trigger": "_TOKEN_REDEEM_RESULT\t(result, choiceType)",
+			"contents": "TOKEN_REDEEM_RESULT(result, choiceType)",
+		},
+		{
+			"trigger": "_TOKEN_SELL_CONFIRM_REQUIRED\t()",
+			"contents": "TOKEN_SELL_CONFIRM_REQUIRED()",
+		},
+		{
+			"trigger": "_TOKEN_SELL_RESULT\t(result)",
+			"contents": "TOKEN_SELL_RESULT(result)",
+		},
+		{
+			"trigger": "_TOKEN_STATUS_CHANGED\t()",
+			"contents": "TOKEN_STATUS_CHANGED()",
+		},
+		{
+			"trigger": "_TOYS_UPDATED\t(itemID, isNew)",
+			"contents": "TOYS_UPDATED(itemID, isNew)",
+		},
+		{
+			"trigger": "_TRACKED_ACHIEVEMENT_LIST_CHANGED\t(achievementID, added)",
+			"contents": "TRACKED_ACHIEVEMENT_LIST_CHANGED(achievementID, added)",
+		},
+		{
+			"trigger": "_TRACKED_ACHIEVEMENT_UPDATE\t(achievementID, criteriaID, elapsed, duration)",
+			"contents": "TRACKED_ACHIEVEMENT_UPDATE(achievementID, criteriaID, elapsed, duration)",
+		},
+		{
+			"trigger": "_TRADE_ACCEPT_UPDATE\t(playerAccepted, targetAccepted)",
+			"contents": "TRADE_ACCEPT_UPDATE(playerAccepted, targetAccepted)",
+		},
+		{
+			"trigger": "_TRADE_CLOSED\t()",
+			"contents": "TRADE_CLOSED()",
+		},
+		{
+			"trigger": "_TRADE_CURRENCY_CHANGED\t()",
+			"contents": "TRADE_CURRENCY_CHANGED()",
+		},
+		{
+			"trigger": "_TRADE_MONEY_CHANGED\t()",
+			"contents": "TRADE_MONEY_CHANGED()",
+		},
+		{
+			"trigger": "_TRADE_PLAYER_ITEM_CHANGED\t(tradeSlotIndex)",
+			"contents": "TRADE_PLAYER_ITEM_CHANGED(tradeSlotIndex)",
+		},
+		{
+			"trigger": "_TRADE_POTENTIAL_BIND_ENCHANT\t(canBecomeBoundForTrade)",
+			"contents": "TRADE_POTENTIAL_BIND_ENCHANT(canBecomeBoundForTrade)",
+		},
+		{
+			"trigger": "_TRADE_POTENTIAL_REMOVE_TRANSMOG\t(itemLink, tradeSlotIndex)",
+			"contents": "TRADE_POTENTIAL_REMOVE_TRANSMOG(itemLink, tradeSlotIndex)",
+		},
+		{
+			"trigger": "_TRADE_REPLACE_ENCHANT\t(existing, replacement)",
+			"contents": "TRADE_REPLACE_ENCHANT(existing, replacement)",
+		},
+		{
+			"trigger": "_TRADE_REQUEST\t(name)",
+			"contents": "TRADE_REQUEST(name)",
+		},
+		{
+			"trigger": "_TRADE_REQUEST_CANCEL\t()",
+			"contents": "TRADE_REQUEST_CANCEL()",
+		},
+		{
+			"trigger": "_TRADE_SHOW\t()",
+			"contents": "TRADE_SHOW()",
+		},
+		{
+			"trigger": "_TRADE_SKILL_CLOSE\t()",
+			"contents": "TRADE_SKILL_CLOSE()",
+		},
+		{
+			"trigger": "_TRADE_SKILL_DATA_SOURCE_CHANGED\t()",
+			"contents": "TRADE_SKILL_DATA_SOURCE_CHANGED()",
+		},
+		{
+			"trigger": "_TRADE_SKILL_DATA_SOURCE_CHANGING\t()",
+			"contents": "TRADE_SKILL_DATA_SOURCE_CHANGING()",
+		},
+		{
+			"trigger": "_TRADE_SKILL_DETAILS_UPDATE\t()",
+			"contents": "TRADE_SKILL_DETAILS_UPDATE()",
+		},
+		{
+			"trigger": "_TRADE_SKILL_LIST_UPDATE\t()",
+			"contents": "TRADE_SKILL_LIST_UPDATE()",
+		},
+		{
+			"trigger": "_TRADE_SKILL_NAME_UPDATE\t()",
+			"contents": "TRADE_SKILL_NAME_UPDATE()",
+		},
+		{
+			"trigger": "_TRADE_SKILL_SHOW\t()",
+			"contents": "TRADE_SKILL_SHOW()",
+		},
+		{
+			"trigger": "_TRADE_TARGET_ITEM_CHANGED\t(tradeSlotIndex)",
+			"contents": "TRADE_TARGET_ITEM_CHANGED(tradeSlotIndex)",
+		},
+		{
+			"trigger": "_TRADE_UPDATE\t()",
+			"contents": "TRADE_UPDATE()",
+		},
+		{
+			"trigger": "_TRAINER_CLOSED\t()",
+			"contents": "TRAINER_CLOSED()",
+		},
+		{
+			"trigger": "_TRAINER_DESCRIPTION_UPDATE\t()",
+			"contents": "TRAINER_DESCRIPTION_UPDATE()",
+		},
+		{
+			"trigger": "_TRAINER_SHOW\t()",
+			"contents": "TRAINER_SHOW()",
+		},
+		{
+			"trigger": "_TRAINER_UPDATE\t()",
+			"contents": "TRAINER_UPDATE()",
+		},
+		{
+			"trigger": "_TRANSMOG_COLLECTION_CAMERA_UPDATE\t()",
+			"contents": "TRANSMOG_COLLECTION_CAMERA_UPDATE()",
+		},
+		{
+			"trigger": "_TRANSMOG_COLLECTION_ITEM_UPDATE\t()",
+			"contents": "TRANSMOG_COLLECTION_ITEM_UPDATE()",
+		},
+		{
+			"trigger": "_TRANSMOG_COLLECTION_SOURCE_ADDED\t(itemModifiedAppearanceID)",
+			"contents": "TRANSMOG_COLLECTION_SOURCE_ADDED(itemModifiedAppearanceID)",
+		},
+		{
+			"trigger": "_TRANSMOG_COLLECTION_SOURCE_REMOVED\t(itemModifiedAppearanceID)",
+			"contents": "TRANSMOG_COLLECTION_SOURCE_REMOVED(itemModifiedAppearanceID)",
+		},
+		{
+			"trigger": "_TRANSMOG_COLLECTION_UPDATED\t(collectionIndex, modID, itemAppearanceID, reason)",
+			"contents": "TRANSMOG_COLLECTION_UPDATED(collectionIndex, modID, itemAppearanceID, reason)",
+		},
+		{
+			"trigger": "_TRANSMOG_OUTFITS_CHANGED\t()",
+			"contents": "TRANSMOG_OUTFITS_CHANGED()",
+		},
+		{
+			"trigger": "_TRANSMOG_SEARCH_UPDATED\t(searchType, collectionType)",
+			"contents": "TRANSMOG_SEARCH_UPDATED(searchType, collectionType)",
+		},
+		{
+			"trigger": "_TRANSMOG_SETS_UPDATE_FAVORITE\t()",
+			"contents": "TRANSMOG_SETS_UPDATE_FAVORITE()",
+		},
+		{
+			"trigger": "_TRANSMOG_SOURCE_COLLECTABILITY_UPDATE\t(itemModifiedAppearanceID, collectable)",
+			"contents": "TRANSMOG_SOURCE_COLLECTABILITY_UPDATE(itemModifiedAppearanceID, collectable)",
+		},
+		{
+			"trigger": "_TRANSMOGRIFY_CLOSE\t()",
+			"contents": "TRANSMOGRIFY_CLOSE()",
+		},
+		{
+			"trigger": "_TRANSMOGRIFY_ITEM_UPDATE\t()",
+			"contents": "TRANSMOGRIFY_ITEM_UPDATE()",
+		},
+		{
+			"trigger": "_TRANSMOGRIFY_OPEN\t()",
+			"contents": "TRANSMOGRIFY_OPEN()",
+		},
+		{
+			"trigger": "_TRANSMOGRIFY_SUCCESS\t(invSlot, transmogType)",
+			"contents": "TRANSMOGRIFY_SUCCESS(invSlot, transmogType)",
+		},
+		{
+			"trigger": "_TRANSMOGRIFY_UPDATE\t(slotID, transmogType, action)",
+			"contents": "TRANSMOGRIFY_UPDATE(slotID, transmogType, action)",
+		},
+		{
+			"trigger": "_TRIAL_CAP_REACHED_MONEY\t()",
+			"contents": "TRIAL_CAP_REACHED_MONEY()",
+		},
+		{
+			"trigger": "_TUTORIAL_HIGHLIGHT_SPELL\t(spellID, tutorialGlobalStringTag)",
+			"contents": "TUTORIAL_HIGHLIGHT_SPELL(spellID, tutorialGlobalStringTag)",
+		},
+		{
+			"trigger": "_TUTORIAL_TRIGGER\t(tutorialIndex, forceShow)",
+			"contents": "TUTORIAL_TRIGGER(tutorialIndex, forceShow)",
+		},
+		{
+			"trigger": "_TUTORIAL_UNHIGHLIGHT_SPELL\t()",
+			"contents": "TUTORIAL_UNHIGHLIGHT_SPELL()",
+		},
+		{
+			"trigger": "_TWITTER_LINK_RESULT\t(isLinked, screenName, error)",
+			"contents": "TWITTER_LINK_RESULT(isLinked, screenName, error)",
+		},
+		{
+			"trigger": "_TWITTER_POST_RESULT\t(result)",
+			"contents": "TWITTER_POST_RESULT(result)",
+		},
+		{
+			"trigger": "_TWITTER_STATUS_UPDATE\t(isTwitterEnabled, isLinked, screenName)",
+			"contents": "TWITTER_STATUS_UPDATE(isTwitterEnabled, isLinked, screenName)",
+		},
+		{
+			"trigger": "_UI_ERROR_MESSAGE\t(errorType, message)",
+			"contents": "UI_ERROR_MESSAGE(errorType, message)",
+		},
+		{
+			"trigger": "_UI_INFO_MESSAGE\t(errorType, message)",
+			"contents": "UI_INFO_MESSAGE(errorType, message)",
+		},
+		{
+			"trigger": "_UI_MODEL_SCENE_INFO_UPDATED\t()",
+			"contents": "UI_MODEL_SCENE_INFO_UPDATED()",
+		},
+		{
+			"trigger": "_UI_SCALE_CHANGED\t()",
+			"contents": "UI_SCALE_CHANGED()",
+		},
+		{
+			"trigger": "_UNIT_ABSORB_AMOUNT_CHANGED\t()",
+			"contents": "UNIT_ABSORB_AMOUNT_CHANGED()",
+		},
+		{
+			"trigger": "_UNIT_ATTACK\t()",
+			"contents": "UNIT_ATTACK()",
+		},
+		{
+			"trigger": "_UNIT_ATTACK_POWER\t()",
+			"contents": "UNIT_ATTACK_POWER()",
+		},
+		{
+			"trigger": "_UNIT_ATTACK_SPEED\t()",
+			"contents": "UNIT_ATTACK_SPEED()",
+		},
+		{
+			"trigger": "_UNIT_AURA\t()",
+			"contents": "UNIT_AURA()",
+		},
+		{
+			"trigger": "_UNIT_CHEAT_TOGGLE_EVENT\t()",
+			"contents": "UNIT_CHEAT_TOGGLE_EVENT()",
+		},
+		{
+			"trigger": "_UNIT_CLASSIFICATION_CHANGED\t()",
+			"contents": "UNIT_CLASSIFICATION_CHANGED()",
+		},
+		{
+			"trigger": "_UNIT_COMBAT\t(event, flagText, amount, schoolMask)",
+			"contents": "UNIT_COMBAT(event, flagText, amount, schoolMask)",
+		},
+		{
+			"trigger": "_UNIT_CONNECTION\t(isConnected)",
+			"contents": "UNIT_CONNECTION(isConnected)",
+		},
+		{
+			"trigger": "_UNIT_DAMAGE\t()",
+			"contents": "UNIT_DAMAGE()",
+		},
+		{
+			"trigger": "_UNIT_DEFENSE\t()",
+			"contents": "UNIT_DEFENSE()",
+		},
+		{
+			"trigger": "_UNIT_DISPLAYPOWER\t()",
+			"contents": "UNIT_DISPLAYPOWER()",
+		},
+		{
+			"trigger": "_UNIT_ENTERED_VEHICLE\t(showVehicleFrame, isControlSeat, vehicleUIIndicatorID, vehicleGUID, mayChooseExit, hasPitch)",
+			"contents": "UNIT_ENTERED_VEHICLE(showVehicleFrame, isControlSeat, vehicleUIIndicatorID, vehicleGUID, mayChooseExit, hasPitch)",
+		},
+		{
+			"trigger": "_UNIT_ENTERING_VEHICLE\t(showVehicleFrame, isControlSeat, vehicleUIIndicatorID, vehicleGUID, mayChooseExit, hasPitch)",
+			"contents": "UNIT_ENTERING_VEHICLE(showVehicleFrame, isControlSeat, vehicleUIIndicatorID, vehicleGUID, mayChooseExit, hasPitch)",
+		},
+		{
+			"trigger": "_UNIT_EXITED_VEHICLE\t()",
+			"contents": "UNIT_EXITED_VEHICLE()",
+		},
+		{
+			"trigger": "_UNIT_EXITING_VEHICLE\t()",
+			"contents": "UNIT_EXITING_VEHICLE()",
+		},
+		{
+			"trigger": "_UNIT_FACTION\t()",
+			"contents": "UNIT_FACTION()",
+		},
+		{
+			"trigger": "_UNIT_FLAGS\t()",
+			"contents": "UNIT_FLAGS()",
+		},
+		{
+			"trigger": "_UNIT_HEAL_ABSORB_AMOUNT_CHANGED\t()",
+			"contents": "UNIT_HEAL_ABSORB_AMOUNT_CHANGED()",
+		},
+		{
+			"trigger": "_UNIT_HEAL_PREDICTION\t()",
+			"contents": "UNIT_HEAL_PREDICTION()",
+		},
+		{
+			"trigger": "_UNIT_HEALTH\t()",
+			"contents": "UNIT_HEALTH()",
+		},
+		{
+			"trigger": "_UNIT_HEALTH_FREQUENT\t()",
+			"contents": "UNIT_HEALTH_FREQUENT()",
+		},
+		{
+			"trigger": "_UNIT_INVENTORY_CHANGED\t()",
+			"contents": "UNIT_INVENTORY_CHANGED()",
+		},
+		{
+			"trigger": "_UNIT_LEVEL\t()",
+			"contents": "UNIT_LEVEL()",
+		},
+		{
+			"trigger": "_UNIT_MANA\t()",
+			"contents": "UNIT_MANA()",
+		},
+		{
+			"trigger": "_UNIT_MAXHEALTH\t()",
+			"contents": "UNIT_MAXHEALTH()",
+		},
+		{
+			"trigger": "_UNIT_MAXPOWER\t(powerType)",
+			"contents": "UNIT_MAXPOWER(powerType)",
+		},
+		{
+			"trigger": "_UNIT_MODEL_CHANGED\t()",
+			"contents": "UNIT_MODEL_CHANGED()",
+		},
+		{
+			"trigger": "_UNIT_NAME_UPDATE\t()",
+			"contents": "UNIT_NAME_UPDATE()",
+		},
+		{
+			"trigger": "_UNIT_OTHER_PARTY_CHANGED\t()",
+			"contents": "UNIT_OTHER_PARTY_CHANGED()",
+		},
+		{
+			"trigger": "_UNIT_PET\t()",
+			"contents": "UNIT_PET()",
+		},
+		{
+			"trigger": "_UNIT_PET_EXPERIENCE\t()",
+			"contents": "UNIT_PET_EXPERIENCE()",
+		},
+		{
+			"trigger": "_UNIT_PHASE\t()",
+			"contents": "UNIT_PHASE()",
+		},
+		{
+			"trigger": "_UNIT_PORTRAIT_UPDATE\t()",
+			"contents": "UNIT_PORTRAIT_UPDATE()",
+		},
+		{
+			"trigger": "_UNIT_POWER_BAR_HIDE\t()",
+			"contents": "UNIT_POWER_BAR_HIDE()",
+		},
+		{
+			"trigger": "_UNIT_POWER_BAR_SHOW\t()",
+			"contents": "UNIT_POWER_BAR_SHOW()",
+		},
+		{
+			"trigger": "_UNIT_POWER_BAR_TIMER_UPDATE\t()",
+			"contents": "UNIT_POWER_BAR_TIMER_UPDATE()",
+		},
+		{
+			"trigger": "_UNIT_POWER_FREQUENT\t(powerType)",
+			"contents": "UNIT_POWER_FREQUENT(powerType)",
+		},
+		{
+			"trigger": "_UNIT_POWER_UPDATE\t(powerType)",
+			"contents": "UNIT_POWER_UPDATE(powerType)",
+		},
+		{
+			"trigger": "_UNIT_QUEST_LOG_CHANGED\t()",
+			"contents": "UNIT_QUEST_LOG_CHANGED()",
+		},
+		{
+			"trigger": "_UNIT_RANGED_ATTACK_POWER\t()",
+			"contents": "UNIT_RANGED_ATTACK_POWER()",
+		},
+		{
+			"trigger": "_UNIT_RANGEDDAMAGE\t()",
+			"contents": "UNIT_RANGEDDAMAGE()",
+		},
+		{
+			"trigger": "_UNIT_RESISTANCES\t()",
+			"contents": "UNIT_RESISTANCES()",
+		},
+		{
+			"trigger": "_UNIT_SPELL_HASTE\t()",
+			"contents": "UNIT_SPELL_HASTE()",
+		},
+		{
+			"trigger": "_UNIT_SPELLCAST_CHANNEL_START\t(spellName, nameSubtext, castGUID, spellID)",
+			"contents": "UNIT_SPELLCAST_CHANNEL_START(spellName, nameSubtext, castGUID, spellID)",
+		},
+		{
+			"trigger": "_UNIT_SPELLCAST_CHANNEL_STOP\t(spellName, nameSubtext, castGUID, spellID)",
+			"contents": "UNIT_SPELLCAST_CHANNEL_STOP(spellName, nameSubtext, castGUID, spellID)",
+		},
+		{
+			"trigger": "_UNIT_SPELLCAST_CHANNEL_UPDATE\t(spellName, nameSubtext, castGUID, spellID)",
+			"contents": "UNIT_SPELLCAST_CHANNEL_UPDATE(spellName, nameSubtext, castGUID, spellID)",
+		},
+		{
+			"trigger": "_UNIT_SPELLCAST_DELAYED\t(spellName, nameSubtext, castGUID, spellID)",
+			"contents": "UNIT_SPELLCAST_DELAYED(spellName, nameSubtext, castGUID, spellID)",
+		},
+		{
+			"trigger": "_UNIT_SPELLCAST_FAILED\t(spellName, nameSubtext, castGUID, spellID)",
+			"contents": "UNIT_SPELLCAST_FAILED(spellName, nameSubtext, castGUID, spellID)",
+		},
+		{
+			"trigger": "_UNIT_SPELLCAST_FAILED_QUIET\t(spellName, nameSubtext, castGUID, spellID)",
+			"contents": "UNIT_SPELLCAST_FAILED_QUIET(spellName, nameSubtext, castGUID, spellID)",
+		},
+		{
+			"trigger": "_UNIT_SPELLCAST_INTERRUPTED\t(spellName, nameSubtext, castGUID, spellID)",
+			"contents": "UNIT_SPELLCAST_INTERRUPTED(spellName, nameSubtext, castGUID, spellID)",
+		},
+		{
+			"trigger": "_UNIT_SPELLCAST_INTERRUPTIBLE\t()",
+			"contents": "UNIT_SPELLCAST_INTERRUPTIBLE()",
+		},
+		{
+			"trigger": "_UNIT_SPELLCAST_NOT_INTERRUPTIBLE\t()",
+			"contents": "UNIT_SPELLCAST_NOT_INTERRUPTIBLE()",
+		},
+		{
+			"trigger": "_UNIT_SPELLCAST_SENT\t(unit, spellName, spellSubText, target, guidString)",
+			"contents": "UNIT_SPELLCAST_SENT(unit, spellName, spellSubText, target, guidString)",
+		},
+		{
+			"trigger": "_UNIT_SPELLCAST_START\t(spellName, nameSubtext, castGUID, spellID)",
+			"contents": "UNIT_SPELLCAST_START(spellName, nameSubtext, castGUID, spellID)",
+		},
+		{
+			"trigger": "_UNIT_SPELLCAST_STOP\t(spellName, nameSubtext, castGUID, spellID)",
+			"contents": "UNIT_SPELLCAST_STOP(spellName, nameSubtext, castGUID, spellID)",
+		},
+		{
+			"trigger": "_UNIT_SPELLCAST_SUCCEEDED\t(spellName, nameSubtext, castGUID, spellID)",
+			"contents": "UNIT_SPELLCAST_SUCCEEDED(spellName, nameSubtext, castGUID, spellID)",
+		},
+		{
+			"trigger": "_UNIT_STATS\t()",
+			"contents": "UNIT_STATS()",
+		},
+		{
+			"trigger": "_UNIT_TARGET\t()",
+			"contents": "UNIT_TARGET()",
+		},
+		{
+			"trigger": "_UNIT_TARGETABLE_CHANGED\t()",
+			"contents": "UNIT_TARGETABLE_CHANGED()",
+		},
+		{
+			"trigger": "_UNIT_THREAT_LIST_UPDATE\t()",
+			"contents": "UNIT_THREAT_LIST_UPDATE()",
+		},
+		{
+			"trigger": "_UNIT_THREAT_SITUATION_UPDATE\t()",
+			"contents": "UNIT_THREAT_SITUATION_UPDATE()",
+		},
+		{
+			"trigger": "_UPDATE_ACTIVE_BATTLEFIELD\t()",
+			"contents": "UPDATE_ACTIVE_BATTLEFIELD()",
+		},
+		{
+			"trigger": "_UPDATE_ALL_UI_WIDGETS\t()",
+			"contents": "UPDATE_ALL_UI_WIDGETS()",
+		},
+		{
+			"trigger": "_UPDATE_BATTLEFIELD_SCORE\t()",
+			"contents": "UPDATE_BATTLEFIELD_SCORE()",
+		},
+		{
+			"trigger": "_UPDATE_BATTLEFIELD_STATUS\t(battleFieldIndex)",
+			"contents": "UPDATE_BATTLEFIELD_STATUS(battleFieldIndex)",
+		},
+		{
+			"trigger": "_UPDATE_BINDINGS\t()",
+			"contents": "UPDATE_BINDINGS()",
+		},
+		{
+			"trigger": "_UPDATE_BONUS_ACTIONBAR\t()",
+			"contents": "UPDATE_BONUS_ACTIONBAR()",
+		},
+		{
+			"trigger": "_UPDATE_CHAT_COLOR\t(name, r, g, b)",
+			"contents": "UPDATE_CHAT_COLOR(name, r, g, b)",
+		},
+		{
+			"trigger": "_UPDATE_CHAT_COLOR_NAME_BY_CLASS\t(name, colorNameByClass)",
+			"contents": "UPDATE_CHAT_COLOR_NAME_BY_CLASS(name, colorNameByClass)",
+		},
+		{
+			"trigger": "_UPDATE_CHAT_WINDOWS\t()",
+			"contents": "UPDATE_CHAT_WINDOWS()",
+		},
+		{
+			"trigger": "_UPDATE_EXHAUSTION\t()",
+			"contents": "UPDATE_EXHAUSTION()",
+		},
+		{
+			"trigger": "_UPDATE_EXTRA_ACTIONBAR\t()",
+			"contents": "UPDATE_EXTRA_ACTIONBAR()",
+		},
+		{
+			"trigger": "_UPDATE_FACTION\t()",
+			"contents": "UPDATE_FACTION()",
+		},
+		{
+			"trigger": "_UPDATE_FLOATING_CHAT_WINDOWS\t()",
+			"contents": "UPDATE_FLOATING_CHAT_WINDOWS()",
+		},
+		{
+			"trigger": "_UPDATE_INSTANCE_INFO\t()",
+			"contents": "UPDATE_INSTANCE_INFO()",
+		},
+		{
+			"trigger": "_UPDATE_INVENTORY_ALERTS\t()",
+			"contents": "UPDATE_INVENTORY_ALERTS()",
+		},
+		{
+			"trigger": "_UPDATE_INVENTORY_DURABILITY\t()",
+			"contents": "UPDATE_INVENTORY_DURABILITY()",
+		},
+		{
+			"trigger": "_UPDATE_LFG_LIST\t()",
+			"contents": "UPDATE_LFG_LIST()",
+		},
+		{
+			"trigger": "_UPDATE_MACROS\t()",
+			"contents": "UPDATE_MACROS()",
+		},
+		{
+			"trigger": "_UPDATE_MASTER_LOOT_LIST\t()",
+			"contents": "UPDATE_MASTER_LOOT_LIST()",
+		},
+		{
+			"trigger": "_UPDATE_MOUSEOVER_UNIT\t()",
+			"contents": "UPDATE_MOUSEOVER_UNIT()",
+		},
+		{
+			"trigger": "_UPDATE_MULTI_CAST_ACTIONBAR\t()",
+			"contents": "UPDATE_MULTI_CAST_ACTIONBAR()",
+		},
+		{
+			"trigger": "_UPDATE_OVERRIDE_ACTIONBAR\t()",
+			"contents": "UPDATE_OVERRIDE_ACTIONBAR()",
+		},
+		{
+			"trigger": "_UPDATE_PENDING_MAIL\t()",
+			"contents": "UPDATE_PENDING_MAIL()",
+		},
+		{
+			"trigger": "_UPDATE_POSSESS_BAR\t()",
+			"contents": "UPDATE_POSSESS_BAR()",
+		},
+		{
+			"trigger": "_UPDATE_SHAPESHIFT_COOLDOWN\t()",
+			"contents": "UPDATE_SHAPESHIFT_COOLDOWN()",
+		},
+		{
+			"trigger": "_UPDATE_SHAPESHIFT_FORM\t()",
+			"contents": "UPDATE_SHAPESHIFT_FORM()",
+		},
+		{
+			"trigger": "_UPDATE_SHAPESHIFT_FORMS\t()",
+			"contents": "UPDATE_SHAPESHIFT_FORMS()",
+		},
+		{
+			"trigger": "_UPDATE_SHAPESHIFT_USABLE\t()",
+			"contents": "UPDATE_SHAPESHIFT_USABLE()",
+		},
+		{
+			"trigger": "_UPDATE_STEALTH\t()",
+			"contents": "UPDATE_STEALTH()",
+		},
+		{
+			"trigger": "_UPDATE_SUMMONPETS_ACTION\t()",
+			"contents": "UPDATE_SUMMONPETS_ACTION()",
+		},
+		{
+			"trigger": "_UPDATE_TRADESKILL_RECAST\t()",
+			"contents": "UPDATE_TRADESKILL_RECAST()",
+		},
+		{
+			"trigger": "_UPDATE_UI_WIDGET\t(widgetInfo)",
+			"contents": "UPDATE_UI_WIDGET(widgetInfo)",
+		},
+		{
+			"trigger": "_UPDATE_VEHICLE_ACTIONBAR\t()",
+			"contents": "UPDATE_VEHICLE_ACTIONBAR()",
+		},
+		{
+			"trigger": "_UPDATE_WEB_TICKET\t(hasTicket, numTickets, ticketStatus, caseIndex, waitTimeMinutes, waitMessage)",
+			"contents": "UPDATE_WEB_TICKET(hasTicket, numTickets, ticketStatus, caseIndex, waitTimeMinutes, waitMessage)",
+		},
+		{
+			"trigger": "_UPDATE_WORLD_STATES\t()",
+			"contents": "UPDATE_WORLD_STATES()",
+		},
+		{
+			"trigger": "_USE_BIND_CONFIRM\t()",
+			"contents": "USE_BIND_CONFIRM()",
+		},
+		{
+			"trigger": "_USE_GLYPH\t(spellSlot)",
+			"contents": "USE_GLYPH(spellSlot)",
+		},
+		{
+			"trigger": "_USE_NO_REFUND_CONFIRM\t()",
+			"contents": "USE_NO_REFUND_CONFIRM()",
+		},
+		{
+			"trigger": "_VARIABLES_LOADED\t()",
+			"contents": "VARIABLES_LOADED()",
+		},
+		{
+			"trigger": "_VEHICLE_ANGLE_SHOW\t(shouldShow)",
+			"contents": "VEHICLE_ANGLE_SHOW(shouldShow)",
+		},
+		{
+			"trigger": "_VEHICLE_ANGLE_UPDATE\t(normalizedPitch, radians)",
+			"contents": "VEHICLE_ANGLE_UPDATE(normalizedPitch, radians)",
+		},
+		{
+			"trigger": "_VEHICLE_PASSENGERS_CHANGED\t()",
+			"contents": "VEHICLE_PASSENGERS_CHANGED()",
+		},
+		{
+			"trigger": "_VEHICLE_POWER_SHOW\t(shouldShow)",
+			"contents": "VEHICLE_POWER_SHOW(shouldShow)",
+		},
+		{
+			"trigger": "_VEHICLE_UPDATE\t()",
+			"contents": "VEHICLE_UPDATE()",
+		},
+		{
+			"trigger": "_VIGNETTE_ADDED\t(instanceGUID, showToast)",
+			"contents": "VIGNETTE_ADDED(instanceGUID, showToast)",
+		},
+		{
+			"trigger": "_VIGNETTE_REMOVED\t(instanceGUID)",
+			"contents": "VIGNETTE_REMOVED(instanceGUID)",
+		},
+		{
+			"trigger": "_VOID_DEPOSIT_WARNING\t(slot, link)",
+			"contents": "VOID_DEPOSIT_WARNING(slot, link)",
+		},
+		{
+			"trigger": "_VOID_STORAGE_CLOSE\t()",
+			"contents": "VOID_STORAGE_CLOSE()",
+		},
+		{
+			"trigger": "_VOID_STORAGE_CONTENTS_UPDATE\t()",
+			"contents": "VOID_STORAGE_CONTENTS_UPDATE()",
+		},
+		{
+			"trigger": "_VOID_STORAGE_DEPOSIT_UPDATE\t(slot)",
+			"contents": "VOID_STORAGE_DEPOSIT_UPDATE(slot)",
+		},
+		{
+			"trigger": "_VOID_STORAGE_OPEN\t()",
+			"contents": "VOID_STORAGE_OPEN()",
+		},
+		{
+			"trigger": "_VOID_STORAGE_UPDATE\t()",
+			"contents": "VOID_STORAGE_UPDATE()",
+		},
+		{
+			"trigger": "_VOID_TRANSFER_DONE\t()",
+			"contents": "VOID_TRANSFER_DONE()",
+		},
+		{
+			"trigger": "_VOID_TRANSFER_SUCCESS\t()",
+			"contents": "VOID_TRANSFER_SUCCESS()",
+		},
+		{
+			"trigger": "_VOTE_KICK_REASON_NEEDED\t(name, resultGUID)",
+			"contents": "VOTE_KICK_REASON_NEEDED(name, resultGUID)",
+		},
+		{
+			"trigger": "_WAR_MODE_STATUS_UPDATE\t(warModeEnabled)",
+			"contents": "WAR_MODE_STATUS_UPDATE(warModeEnabled)",
+		},
+		{
+			"trigger": "_WARFRONT_UPDATE\t()",
+			"contents": "WARFRONT_UPDATE()",
+		},
+		{
+			"trigger": "_WARGAME_REQUESTED\t(opposingPartyMemberName, battlegroundName, timeoutSeconds, tournamentRules)",
+			"contents": "WARGAME_REQUESTED(opposingPartyMemberName, battlegroundName, timeoutSeconds, tournamentRules)",
+		},
+		{
+			"trigger": "_WEAR_EQUIPMENT_SET\t(setID)",
+			"contents": "WEAR_EQUIPMENT_SET(setID)",
+		},
+		{
+			"trigger": "_WHO_LIST_UPDATE\t()",
+			"contents": "WHO_LIST_UPDATE()",
+		},
+		{
+			"trigger": "_WORLD_MAP_UPDATE\t()",
+			"contents": "WORLD_MAP_UPDATE()",
+		},
+		{
+			"trigger": "_WORLD_QUEST_COMPLETED_BY_SPELL\t(questID)",
+			"contents": "WORLD_QUEST_COMPLETED_BY_SPELL(questID)",
+		},
+		{
+			"trigger": "_WORLD_STATE_TIMER_START\t(timerID)",
+			"contents": "WORLD_STATE_TIMER_START(timerID)",
+		},
+		{
+			"trigger": "_WORLD_STATE_TIMER_STOP\t(timerID)",
+			"contents": "WORLD_STATE_TIMER_STOP(timerID)",
+		},
+		{
+			"trigger": "_WORLD_STATE_UI_TIMER_UPDATE\t()",
+			"contents": "WORLD_STATE_UI_TIMER_UPDATE()",
+		},
+		{
+			"trigger": "_WOW_MOUSE_NOT_FOUND\t()",
+			"contents": "WOW_MOUSE_NOT_FOUND()",
+		},
+		{
+			"trigger": "_ZONE_CHANGED\t()",
+			"contents": "ZONE_CHANGED()",
+		},
+		{
+			"trigger": "_ZONE_CHANGED_INDOORS\t()",
+			"contents": "ZONE_CHANGED_INDOORS()",
+		},
+		{
+			"trigger": "_ZONE_CHANGED_NEW_AREA\t()",
+			"contents": "ZONE_CHANGED_NEW_AREA()",
+		},
+	]
+}

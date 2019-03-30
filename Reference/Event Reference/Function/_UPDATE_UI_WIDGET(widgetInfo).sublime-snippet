@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UPDATE_UI_WIDGET(widgetInfo)]]></content>
+	<tabTrigger>_UPDATE_UI_WIDGET</tabTrigger>
+	<description>(widgetInfo)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

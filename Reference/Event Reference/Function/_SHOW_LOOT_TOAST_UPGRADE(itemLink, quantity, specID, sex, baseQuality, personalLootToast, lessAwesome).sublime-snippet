@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SHOW_LOOT_TOAST_UPGRADE(itemLink, quantity, specID, sex, baseQuality, personalLootToast, lessAwesome)]]></content>
+	<tabTrigger>_SHOW_LOOT_TOAST_UPGRADE</tabTrigger>
+	<description>(itemLink, quantity, specID, sex, baseQuality, personalLootToast, lessAwesome)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

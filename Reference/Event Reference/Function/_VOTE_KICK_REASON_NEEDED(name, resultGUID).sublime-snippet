@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VOTE_KICK_REASON_NEEDED(name, resultGUID)]]></content>
+	<tabTrigger>_VOTE_KICK_REASON_NEEDED</tabTrigger>
+	<description>(name, resultGUID)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

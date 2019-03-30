@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[INSTANCE_ENCOUNTER_OBJECTIVE_UPDATE(objectiveID, objectiveProgress)]]></content>
+	<tabTrigger>_INSTANCE_ENCOUNTER_OBJECTIVE_UPDATE</tabTrigger>
+	<description>(objectiveID, objectiveProgress)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

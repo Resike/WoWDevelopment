@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DELETE_ITEM_CONFIRM(itemName, qualityID, bonding, questWarn)]]></content>
+	<tabTrigger>_DELETE_ITEM_CONFIRM</tabTrigger>
+	<description>(itemName, qualityID, bonding, questWarn)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

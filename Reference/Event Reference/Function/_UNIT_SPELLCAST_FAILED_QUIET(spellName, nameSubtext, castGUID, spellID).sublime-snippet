@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UNIT_SPELLCAST_FAILED_QUIET(spellName, nameSubtext, castGUID, spellID)]]></content>
+	<tabTrigger>_UNIT_SPELLCAST_FAILED_QUIET</tabTrigger>
+	<description>(spellName, nameSubtext, castGUID, spellID)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

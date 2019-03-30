@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MIRROR_TIMER_START(timerName, value, maxValue, scale, paused, timerLabel)]]></content>
+	<tabTrigger>_MIRROR_TIMER_START</tabTrigger>
+	<description>(timerName, value, maxValue, scale, paused, timerLabel)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>
