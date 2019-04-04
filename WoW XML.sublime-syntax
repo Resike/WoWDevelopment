@@ -3853,7 +3853,7 @@ contexts:
         1: punctuation.definition.numeric.hexadecimal.lua
       pop: true
 
-    - match: (\d+(?:\.\d+)?|\.\d+)([Ee][-+]?\d*)?
+    - match: (\d+(?:\.\d+)?|\.\d+)([Ee][-+]?\d+)?
       scope: constant.numeric.decimal.lua
       pop: true
 
