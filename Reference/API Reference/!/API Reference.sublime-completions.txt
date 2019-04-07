@@ -2170,7 +2170,7 @@
 		{"trigger": "_GetSortedSelfResurrectOptions\t()", "contents": "${1:resOptions} = GetSortedSelfResurrectOptions()$0"},
 		{"trigger": "_GetSpecialization\t()", "contents": "${1:specID} = GetSpecialization()$0"},
 		{"trigger": "_GetSpecializationInfo\t(specID)", "contents": "${1:id}, ${2:name}, ${3:description}, ${4:icon}, ${5:background}, ${6:role} = GetSpecializationInfo(${7:specID})$0"},
-		{"trigger": "_GetSpecializationInfoByID\t(specID)", "contents": "${1:id}, ${2:name}, ${3:description}, ${4:icon}, ${5:background}, ${6:role}, ${7:class} = GetSpecializationInfoByID(${8:specID})$0"},
+		{"trigger": "_GetSpecializationInfoByID\t(specID)", "contents": "${1:id}, ${2:name}, ${3:description}, ${4:icon}, ${5:role}, ${6:class} = GetSpecializationInfoByID(${7:specID})$0"},
 		{"trigger": "_GetSpecializationSpells\t(specIndex, [isInspect], [isPet])", "contents": "${1:spellID}, ${2:levelLearned}, ${3:...} = GetSpecializationSpells(${4:specIndex}, ${5:[isInspect]}, ${6:[isPet]})$0"},
 		{"trigger": "_GetSpellAutocast\t(id, \"bookType\")", "contents": "${1:autocastAllowed}, ${2:autocastEnabled} = GetSpellAutocast(${3:id}, \"${4:bookType}\")$0"},
 		{"trigger": "_GetSpellBaseCooldown\t(id)", "contents": "${1:cooldown} = GetSpellBaseCooldown(${2:id})$0"},
