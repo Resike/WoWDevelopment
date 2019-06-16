@@ -1848,7 +1848,7 @@
 		{"trigger": "_GetGuildBankMoney\t()", "contents": "${1:guildBankMoney} = GetGuildBankMoney()$0"},
 		{"trigger": "_GetGuildBankMoneyTransaction\t(index)", "contents": "${1:type}, ${2:name}, ${3:year}, ${4:month}, ${5:day}, ${6:hour} = GetGuildBankMoneyTransaction(${7:index})$0"},
 		{"trigger": "_GetGuildBankTabCost\t()", "contents": "${1:tabCost} = GetGuildBankTabCost()$0"},
-		{"trigger": "_GetGuildBankTabInfo\t(tab)", "contents": "${1:name}, ${2:icon}, ${3:isViewable}, ${4:canDeposit}, ${5:numWithdrawals}, ${6:remainingWithdrawals} = GetGuildBankTabInfo(${7:tab})$0"},
+		{"trigger": "_GetGuildBankTabInfo\t(tab)", "contents": "${1:name}, ${2:icon}, ${3:isViewable}, ${4:canDeposit}, ${5:numWithdrawals}, ${6:remainingWithdrawals}, ${7:filtered} = GetGuildBankTabInfo(${8:tab})$0"},
 		{"trigger": "_GetGuildBankTabPermissions\t(tab)", "contents": "${1:canView}, ${2:canDeposit}, ${3:canUpdateText}, ${4:numWithdrawls} = GetGuildBankTabPermissions(${5:tab})$0"},
 		{"trigger": "_GetGuildBankText\t(tab)", "contents": "${1:text} = GetGuildBankText(${2:tab})$0"},
 		{"trigger": "_GetGuildBankTransaction\t(tab, index)", "contents": "${1:type}, ${2:name}, ${3:itemLink}, ${4:count}, ${5:tab1}, ${6:tab2}, ${7:year}, ${8:month}, ${9:day}, ${10:hour} = GetGuildBankTransaction(${11:tab}, ${12:index})$0"},
