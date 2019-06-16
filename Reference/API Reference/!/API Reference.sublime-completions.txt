@@ -1843,7 +1843,7 @@
 		{"trigger": "_GetGossipOptions\t()", "contents": "${1:text}, ${2:gossipType}, ${3:...} = GetGossipOptions()$0"},
 		{"trigger": "_GetGossipText\t()", "contents": "${1:text} = GetGossipText()$0"},
 		{"trigger": "_GetGreetingText\t()", "contents": "${1:greetingText} = GetGreetingText()$0"},
-		{"trigger": "_GetGuildBankItemInfo\t(tab, slot)", "contents": "${1:texture}, ${2:count}, ${3:locked} = GetGuildBankItemInfo(${4:tab}, ${5:slot})$0"},
+		{"trigger": "_GetGuildBankItemInfo\t(tab, slot)", "contents": "${1:texture}, ${2:itemCount}, ${3:locked}, ${4:isFiltered}, ${5:quality} = GetGuildBankItemInfo(${6:tab}, ${7:slot})$0"},
 		{"trigger": "_GetGuildBankItemLink\t(tab, slot)", "contents": "${1:item} = GetGuildBankItemLink(${2:tab}, ${3:slot})$0"},
 		{"trigger": "_GetGuildBankMoney\t()", "contents": "${1:guildBankMoney} = GetGuildBankMoney()$0"},
 		{"trigger": "_GetGuildBankMoneyTransaction\t(index)", "contents": "${1:type}, ${2:name}, ${3:year}, ${4:month}, ${5:day}, ${6:hour} = GetGuildBankMoneyTransaction(${7:index})$0"},
