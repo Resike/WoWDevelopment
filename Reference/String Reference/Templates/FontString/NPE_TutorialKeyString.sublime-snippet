@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NPE_TutorialKeyString]]></content>
+	<tabTrigger>NPE_TutorialKeyString</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.fontstring</scope>
+</snippet>

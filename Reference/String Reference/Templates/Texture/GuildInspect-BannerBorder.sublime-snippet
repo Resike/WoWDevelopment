@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GuildInspect-BannerBorder]]></content>
+	<tabTrigger>GuildInspect-BannerBorder</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

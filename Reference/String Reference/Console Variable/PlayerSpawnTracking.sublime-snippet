@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSpawnTracking]]></content>
+	<tabTrigger>PlayerSpawnTracking</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

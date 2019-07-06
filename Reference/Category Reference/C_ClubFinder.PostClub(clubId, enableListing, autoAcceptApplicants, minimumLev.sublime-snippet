@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[C_ClubFinder.PostClub("${1:clubId}", ${2:enableListing}, ${3:autoAcceptApplicants}, ${4:minimumLevel}, ${5:itemLevelRequirement}, "${6:name}", "${7:description}", ${8:specs}, ${9:type})$0]]></content>
+	<tabTrigger>C_ClubFinder.PostClub</tabTrigger>
+	<description>("clubId", enableListing, autoAcceptApplicants, minimumLevel, itemLevelRequirement, "name", "description", specs, type)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

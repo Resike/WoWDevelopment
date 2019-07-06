@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UI-PaperOverlay-Check]]></content>
+	<tabTrigger>UI-PaperOverlay-Check</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

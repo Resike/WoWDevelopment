@@ -82,6 +82,82 @@
 			"contents": "C_ActionBar.ToggleAutoCastPetAction(${1:slotID})$0",
 		},
 		{
+			"trigger": "C_AdventureJournal.ActivateEntry\t(...)",
+			"contents": "C_AdventureJournal.ActivateEntry(${1:...})$0",
+		},
+		{
+			"trigger": "C_AdventureJournal.CanBeShown\t(...)",
+			"contents": "C_AdventureJournal.CanBeShown(${1:...})$0",
+		},
+		{
+			"trigger": "C_AdventureJournal.GetNumAvailableSuggestions\t(...)",
+			"contents": "C_AdventureJournal.GetNumAvailableSuggestions(${1:...})$0",
+		},
+		{
+			"trigger": "C_AdventureJournal.GetPrimaryOffset\t(...)",
+			"contents": "C_AdventureJournal.GetPrimaryOffset(${1:...})$0",
+		},
+		{
+			"trigger": "C_AdventureJournal.GetReward\t(...)",
+			"contents": "C_AdventureJournal.GetReward(${1:...})$0",
+		},
+		{
+			"trigger": "C_AdventureJournal.GetSuggestions\t(...)",
+			"contents": "C_AdventureJournal.GetSuggestions(${1:...})$0",
+		},
+		{
+			"trigger": "C_AdventureJournal.SetPrimaryOffset\t(...)",
+			"contents": "C_AdventureJournal.SetPrimaryOffset(${1:...})$0",
+		},
+		{
+			"trigger": "C_AdventureJournal.UpdateSuggestions\t(...)",
+			"contents": "C_AdventureJournal.UpdateSuggestions(${1:...})$0",
+		},
+		{
+			"trigger": "C_AdventureMap.Close\t(...)",
+			"contents": "C_AdventureMap.Close(${1:...})$0",
+		},
+		{
+			"trigger": "C_AdventureMap.GetMapID\t(...)",
+			"contents": "C_AdventureMap.GetMapID(${1:...})$0",
+		},
+		{
+			"trigger": "C_AdventureMap.GetMapInsetDetailTileInfo\t(...)",
+			"contents": "C_AdventureMap.GetMapInsetDetailTileInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_AdventureMap.GetMapInsetInfo\t(...)",
+			"contents": "C_AdventureMap.GetMapInsetInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_AdventureMap.GetNumMapInsets\t(...)",
+			"contents": "C_AdventureMap.GetNumMapInsets(${1:...})$0",
+		},
+		{
+			"trigger": "C_AdventureMap.GetNumQuestOffers\t(...)",
+			"contents": "C_AdventureMap.GetNumQuestOffers(${1:...})$0",
+		},
+		{
+			"trigger": "C_AdventureMap.GetNumZoneChoices\t(...)",
+			"contents": "C_AdventureMap.GetNumZoneChoices(${1:...})$0",
+		},
+		{
+			"trigger": "C_AdventureMap.GetQuestInfo\t(...)",
+			"contents": "C_AdventureMap.GetQuestInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_AdventureMap.GetQuestOfferInfo\t(...)",
+			"contents": "C_AdventureMap.GetQuestOfferInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_AdventureMap.GetZoneChoiceInfo\t(...)",
+			"contents": "C_AdventureMap.GetZoneChoiceInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_AdventureMap.StartQuest\t(...)",
+			"contents": "C_AdventureMap.StartQuest(${1:...})$0",
+		},
+		{
 			"trigger": "C_AlliedRaces.ClearAlliedRaceDetailsGiver\t()",
 			"contents": "C_AlliedRaces.ClearAlliedRaceDetailsGiver()$0",
 		},
@@ -104,6 +180,10 @@
 		{
 			"trigger": "C_AreaPoiInfo.GetAreaPOISecondsLeft\t(areaPoiID)",
 			"contents": "C_AreaPoiInfo.GetAreaPOISecondsLeft(${1:areaPoiID})$0",
+		},
+		{
+			"trigger": "C_AreaPoiInfo.GetAreaPOITimeLeft\t(...)",
+			"contents": "C_AreaPoiInfo.GetAreaPOITimeLeft(${1:...})$0",
 		},
 		{
 			"trigger": "C_AreaPoiInfo.IsAreaPOITimed\t(areaPoiID)",
@@ -430,6 +510,86 @@
 			"contents": "C_AzeriteEmpoweredItem.SetHasBeenViewed(${1:azeriteEmpoweredItemLocation})$0",
 		},
 		{
+			"trigger": "C_AzeriteEssence.ActivateEssence\t(essenceID, milestoneID)",
+			"contents": "C_AzeriteEssence.ActivateEssence(${1:essenceID}, ${2:milestoneID})$0",
+		},
+		{
+			"trigger": "C_AzeriteEssence.CanActivateEssence\t(essenceID, milestoneID)",
+			"contents": "C_AzeriteEssence.CanActivateEssence(${1:essenceID}, ${2:milestoneID})$0",
+		},
+		{
+			"trigger": "C_AzeriteEssence.CanDeactivateEssence\t(milestoneID)",
+			"contents": "C_AzeriteEssence.CanDeactivateEssence(${1:milestoneID})$0",
+		},
+		{
+			"trigger": "C_AzeriteEssence.CanOpenUI\t()",
+			"contents": "C_AzeriteEssence.CanOpenUI()$0",
+		},
+		{
+			"trigger": "C_AzeriteEssence.ClearPendingActivationEssence\t()",
+			"contents": "C_AzeriteEssence.ClearPendingActivationEssence()$0",
+		},
+		{
+			"trigger": "C_AzeriteEssence.CloseForge\t()",
+			"contents": "C_AzeriteEssence.CloseForge()$0",
+		},
+		{
+			"trigger": "C_AzeriteEssence.GetEssenceHyperlink\t(essenceID, rank)",
+			"contents": "C_AzeriteEssence.GetEssenceHyperlink(${1:essenceID}, ${2:rank})$0",
+		},
+		{
+			"trigger": "C_AzeriteEssence.GetEssenceInfo\t(essenceID)",
+			"contents": "C_AzeriteEssence.GetEssenceInfo(${1:essenceID})$0",
+		},
+		{
+			"trigger": "C_AzeriteEssence.GetEssences\t()",
+			"contents": "C_AzeriteEssence.GetEssences()$0",
+		},
+		{
+			"trigger": "C_AzeriteEssence.GetMilestoneEssence\t(milestoneID)",
+			"contents": "C_AzeriteEssence.GetMilestoneEssence(${1:milestoneID})$0",
+		},
+		{
+			"trigger": "C_AzeriteEssence.GetMilestoneInfo\t(milestoneID)",
+			"contents": "C_AzeriteEssence.GetMilestoneInfo(${1:milestoneID})$0",
+		},
+		{
+			"trigger": "C_AzeriteEssence.GetMilestones\t()",
+			"contents": "C_AzeriteEssence.GetMilestones()$0",
+		},
+		{
+			"trigger": "C_AzeriteEssence.GetMilestoneSpell\t(milestoneID)",
+			"contents": "C_AzeriteEssence.GetMilestoneSpell(${1:milestoneID})$0",
+		},
+		{
+			"trigger": "C_AzeriteEssence.GetNumUnlockedEssences\t()",
+			"contents": "C_AzeriteEssence.GetNumUnlockedEssences()$0",
+		},
+		{
+			"trigger": "C_AzeriteEssence.GetPendingActivationEssence\t()",
+			"contents": "C_AzeriteEssence.GetPendingActivationEssence()$0",
+		},
+		{
+			"trigger": "C_AzeriteEssence.HasNeverActivatedAnyEssences\t()",
+			"contents": "C_AzeriteEssence.HasNeverActivatedAnyEssences()$0",
+		},
+		{
+			"trigger": "C_AzeriteEssence.HasPendingActivationEssence\t()",
+			"contents": "C_AzeriteEssence.HasPendingActivationEssence()$0",
+		},
+		{
+			"trigger": "C_AzeriteEssence.IsAtForge\t()",
+			"contents": "C_AzeriteEssence.IsAtForge()$0",
+		},
+		{
+			"trigger": "C_AzeriteEssence.SetPendingActivationEssence\t(essenceID)",
+			"contents": "C_AzeriteEssence.SetPendingActivationEssence(${1:essenceID})$0",
+		},
+		{
+			"trigger": "C_AzeriteEssence.UnlockMilestone\t(milestoneID)",
+			"contents": "C_AzeriteEssence.UnlockMilestone(${1:milestoneID})$0",
+		},
+		{
 			"trigger": "C_AzeriteItem.FindActiveAzeriteItem\t()",
 			"contents": "C_AzeriteItem.FindActiveAzeriteItem()$0",
 		},
@@ -450,8 +610,44 @@
 			"contents": "C_AzeriteItem.IsAzeriteItem(${1:itemLocation})$0",
 		},
 		{
+			"trigger": "C_AzeriteItem.IsAzeriteItemAtMaxLevel\t()",
+			"contents": "C_AzeriteItem.IsAzeriteItemAtMaxLevel()$0",
+		},
+		{
 			"trigger": "C_AzeriteItem.IsAzeriteItemByID\t(\"itemInfo\")",
 			"contents": "C_AzeriteItem.IsAzeriteItemByID(\"${1:itemInfo}\")$0",
+		},
+		{
+			"trigger": "C_BlackMarket.Close\t(...)",
+			"contents": "C_BlackMarket.Close(${1:...})$0",
+		},
+		{
+			"trigger": "C_BlackMarket.GetHotItem\t(...)",
+			"contents": "C_BlackMarket.GetHotItem(${1:...})$0",
+		},
+		{
+			"trigger": "C_BlackMarket.GetItemInfoByID\t(...)",
+			"contents": "C_BlackMarket.GetItemInfoByID(${1:...})$0",
+		},
+		{
+			"trigger": "C_BlackMarket.GetItemInfoByIndex\t(...)",
+			"contents": "C_BlackMarket.GetItemInfoByIndex(${1:...})$0",
+		},
+		{
+			"trigger": "C_BlackMarket.GetNumItems\t(...)",
+			"contents": "C_BlackMarket.GetNumItems(${1:...})$0",
+		},
+		{
+			"trigger": "C_BlackMarket.IsViewOnly\t(...)",
+			"contents": "C_BlackMarket.IsViewOnly(${1:...})$0",
+		},
+		{
+			"trigger": "C_BlackMarket.ItemPlaceBid\t(...)",
+			"contents": "C_BlackMarket.ItemPlaceBid(${1:...})$0",
+		},
+		{
+			"trigger": "C_BlackMarket.RequestItems\t(...)",
+			"contents": "C_BlackMarket.RequestItems(${1:...})$0",
 		},
 		{
 			"trigger": "C_Calendar.AddEvent\t()",
@@ -698,6 +894,10 @@
 			"contents": "C_Calendar.GetClubCalendarEvents(\"${1:clubId}\", ${2:startTime}, ${3:endTime})$0",
 		},
 		{
+			"trigger": "C_Calendar.GetDate\t(...)",
+			"contents": "C_Calendar.GetDate(${1:...})$0",
+		},
+		{
 			"trigger": "C_Calendar.GetDayEvent\t(monthOffset, monthDay, index)",
 			"contents": "C_Calendar.GetDayEvent(${1:monthOffset}, ${2:monthDay}, ${3:index})$0",
 		},
@@ -910,12 +1110,68 @@
 			"contents": "C_ChallengeMode.StartChallengeMode()$0",
 		},
 		{
+			"trigger": "C_CharacterServices.AssignUpgradeDistribution\t(...)",
+			"contents": "C_CharacterServices.AssignUpgradeDistribution(${1:...})$0",
+		},
+		{
+			"trigger": "C_CharacterServices.GetActiveCharacterUpgradeBoostType\t(...)",
+			"contents": "C_CharacterServices.GetActiveCharacterUpgradeBoostType(${1:...})$0",
+		},
+		{
+			"trigger": "C_CharacterServices.GetActiveClassTrialBoostType\t(...)",
+			"contents": "C_CharacterServices.GetActiveClassTrialBoostType(${1:...})$0",
+		},
+		{
+			"trigger": "C_CharacterServices.GetAutomaticBoost\t(...)",
+			"contents": "C_CharacterServices.GetAutomaticBoost(${1:...})$0",
+		},
+		{
+			"trigger": "C_CharacterServices.GetAutomaticBoostCharacter\t(...)",
+			"contents": "C_CharacterServices.GetAutomaticBoostCharacter(${1:...})$0",
+		},
+		{
+			"trigger": "C_CharacterServices.GetCharacterServiceDisplayData\t(...)",
+			"contents": "C_CharacterServices.GetCharacterServiceDisplayData(${1:...})$0",
+		},
+		{
+			"trigger": "C_CharacterServices.GetCharacterServiceDisplayOrder\t(...)",
+			"contents": "C_CharacterServices.GetCharacterServiceDisplayOrder(${1:...})$0",
+		},
+		{
+			"trigger": "C_CharacterServices.HasRequiredBoostForClassTrial\t(...)",
+			"contents": "C_CharacterServices.HasRequiredBoostForClassTrial(${1:...})$0",
+		},
+		{
+			"trigger": "C_CharacterServices.HasRequiredBoostForUnrevoke\t(...)",
+			"contents": "C_CharacterServices.HasRequiredBoostForUnrevoke(${1:...})$0",
+		},
+		{
+			"trigger": "C_CharacterServices.SetAutomaticBoost\t(...)",
+			"contents": "C_CharacterServices.SetAutomaticBoost(${1:...})$0",
+		},
+		{
+			"trigger": "C_CharacterServices.SetAutomaticBoostCharacter\t(...)",
+			"contents": "C_CharacterServices.SetAutomaticBoostCharacter(${1:...})$0",
+		},
+		{
+			"trigger": "C_CharacterServicesPublic.ShouldSeeControlPopup\t(...)",
+			"contents": "C_CharacterServicesPublic.ShouldSeeControlPopup(${1:...})$0",
+		},
+		{
 			"trigger": "C_ChatBubbles.GetAllChatBubbles\t(includeForbidden)",
 			"contents": "C_ChatBubbles.GetAllChatBubbles(${1:includeForbidden})$0",
 		},
 		{
+			"trigger": "C_ChatInfo.CanReportPlayer\t(...)",
+			"contents": "C_ChatInfo.CanReportPlayer(${1:...})$0",
+		},
+		{
 			"trigger": "C_ChatInfo.GetChannelRosterInfo\t(channelIndex, rosterIndex)",
 			"contents": "C_ChatInfo.GetChannelRosterInfo(${1:channelIndex}, ${2:rosterIndex})$0",
+		},
+		{
+			"trigger": "C_ChatInfo.GetClubStreamIDs\t(\"clubID\")",
+			"contents": "C_ChatInfo.GetClubStreamIDs(\"${1:clubID}\")$0",
 		},
 		{
 			"trigger": "C_ChatInfo.GetNumActiveChannels\t()",
@@ -946,6 +1202,10 @@
 			"contents": "C_ChatInfo.ReplaceIconAndGroupExpressions(\"${1:input}\", [${2:noIconReplacement}, [${3:noGroupReplacement}]])$0",
 		},
 		{
+			"trigger": "C_ChatInfo.ReportPlayer\t(...)",
+			"contents": "C_ChatInfo.ReportPlayer(${1:...})$0",
+		},
+		{
 			"trigger": "C_ChatInfo.ResetDefaultZoneChannels\t()",
 			"contents": "C_ChatInfo.ResetDefaultZoneChannels()$0",
 		},
@@ -962,12 +1222,28 @@
 			"contents": "C_ChatInfo.SwapChatChannelsByChannelIndex(${1:firstChannelIndex}, ${2:secondChannelIndex})$0",
 		},
 		{
+			"trigger": "C_ClassColor.GetClassColor\t(\"className\")",
+			"contents": "C_ClassColor.GetClassColor(\"${1:className}\")$0",
+		},
+		{
+			"trigger": "C_ClassTrial.GetClassTrialLogoutTimeSeconds\t(...)",
+			"contents": "C_ClassTrial.GetClassTrialLogoutTimeSeconds(${1:...})$0",
+		},
+		{
+			"trigger": "C_ClassTrial.IsClassTrialCharacter\t(...)",
+			"contents": "C_ClassTrial.IsClassTrialCharacter(${1:...})$0",
+		},
+		{
 			"trigger": "C_Club.AcceptInvitation\t(\"clubId\")",
 			"contents": "C_Club.AcceptInvitation(\"${1:clubId}\")$0",
 		},
 		{
 			"trigger": "C_Club.AddClubStreamChatChannel\t(\"clubId\", \"streamId\")",
 			"contents": "C_Club.AddClubStreamChatChannel(\"${1:clubId}\", \"${2:streamId}\")$0",
+		},
+		{
+			"trigger": "C_Club.AddClubStreamToChatWindow\t(...)",
+			"contents": "C_Club.AddClubStreamToChatWindow(${1:...})$0",
 		},
 		{
 			"trigger": "C_Club.AdvanceStreamViewMarker\t(\"clubId\", \"streamId\")",
@@ -1258,6 +1534,114 @@
 			"contents": "C_Club.ValidateText(${1:clubType}, \"${2:text}\", ${3:clubFieldType})$0",
 		},
 		{
+			"trigger": "C_ClubFinder.ApplicantAcceptClubInvite\t(\"clubFinderGUID\")",
+			"contents": "C_ClubFinder.ApplicantAcceptClubInvite(\"${1:clubFinderGUID}\")$0",
+		},
+		{
+			"trigger": "C_ClubFinder.ApplicantDeclineClubInvite\t(\"clubFinderGUID\")",
+			"contents": "C_ClubFinder.ApplicantDeclineClubInvite(\"${1:clubFinderGUID}\")$0",
+		},
+		{
+			"trigger": "C_ClubFinder.CancelMembershipRequest\t(\"clubFinderGUID\")",
+			"contents": "C_ClubFinder.CancelMembershipRequest(\"${1:clubFinderGUID}\")$0",
+		},
+		{
+			"trigger": "C_ClubFinder.CheckAllPlayerApplicantSettings\t()",
+			"contents": "C_ClubFinder.CheckAllPlayerApplicantSettings()$0",
+		},
+		{
+			"trigger": "C_ClubFinder.ClearAllFinderCache\t()",
+			"contents": "C_ClubFinder.ClearAllFinderCache()$0",
+		},
+		{
+			"trigger": "C_ClubFinder.ClearClubApplicantsCache\t()",
+			"contents": "C_ClubFinder.ClearClubApplicantsCache()$0",
+		},
+		{
+			"trigger": "C_ClubFinder.ClearClubFinderPostingsCache\t()",
+			"contents": "C_ClubFinder.ClearClubFinderPostingsCache()$0",
+		},
+		{
+			"trigger": "C_ClubFinder.GetClubRecruitmentSettings\t()",
+			"contents": "C_ClubFinder.GetClubRecruitmentSettings()$0",
+		},
+		{
+			"trigger": "C_ClubFinder.GetPlayerApplicantSettings\t()",
+			"contents": "C_ClubFinder.GetPlayerApplicantSettings()$0",
+		},
+		{
+			"trigger": "C_ClubFinder.PlayerGetClubInvitationList\t()",
+			"contents": "C_ClubFinder.PlayerGetClubInvitationList()$0",
+		},
+		{
+			"trigger": "C_ClubFinder.PlayerRequestPendingClubsList\t(type)",
+			"contents": "C_ClubFinder.PlayerRequestPendingClubsList(${1:type})$0",
+		},
+		{
+			"trigger": "C_ClubFinder.PlayerReturnPendingCommunitiesList\t()",
+			"contents": "C_ClubFinder.PlayerReturnPendingCommunitiesList()$0",
+		},
+		{
+			"trigger": "C_ClubFinder.PlayerReturnPendingGuildsList\t()",
+			"contents": "C_ClubFinder.PlayerReturnPendingGuildsList()$0",
+		},
+		{
+			"trigger": "C_ClubFinder.PostClub\t(\"clubId\", enableListing, autoAcceptApplicants, minimumLevel, itemLevelRequirement, \"name\", \"description\", specs, type)",
+			"contents": "C_ClubFinder.PostClub(\"${1:clubId}\", ${2:enableListing}, ${3:autoAcceptApplicants}, ${4:minimumLevel}, ${5:itemLevelRequirement}, \"${6:name}\", \"${7:description}\", ${8:specs}, ${9:type})$0",
+		},
+		{
+			"trigger": "C_ClubFinder.RequestApplicantList\t(type)",
+			"contents": "C_ClubFinder.RequestApplicantList(${1:type})$0",
+		},
+		{
+			"trigger": "C_ClubFinder.RequestClubsList\t(guildListRequested, \"searchString\", specIDs)",
+			"contents": "C_ClubFinder.RequestClubsList(${1:guildListRequested}, \"${2:searchString}\", ${3:specIDs})$0",
+		},
+		{
+			"trigger": "C_ClubFinder.RequestMembershipToClub\t(\"clubFinderGUID\", \"comment\", specIDs)",
+			"contents": "C_ClubFinder.RequestMembershipToClub(\"${1:clubFinderGUID}\", \"${2:comment}\", ${3:specIDs})$0",
+		},
+		{
+			"trigger": "C_ClubFinder.RespondToApplicant\t(\"clubFinderGUID\", \"playerGUID\", shouldAccept, requestType)",
+			"contents": "C_ClubFinder.RespondToApplicant(\"${1:clubFinderGUID}\", \"${2:playerGUID}\", ${3:shouldAccept}, ${4:requestType})$0",
+		},
+		{
+			"trigger": "C_ClubFinder.ReturnCommunityApplicantList\t(\"clubId\")",
+			"contents": "C_ClubFinder.ReturnCommunityApplicantList(\"${1:clubId}\")$0",
+		},
+		{
+			"trigger": "C_ClubFinder.ReturnGuildApplicantList\t()",
+			"contents": "C_ClubFinder.ReturnGuildApplicantList()$0",
+		},
+		{
+			"trigger": "C_ClubFinder.ReturnMatchingCommunityList\t()",
+			"contents": "C_ClubFinder.ReturnMatchingCommunityList()$0",
+		},
+		{
+			"trigger": "C_ClubFinder.ReturnMatchingGuildList\t()",
+			"contents": "C_ClubFinder.ReturnMatchingGuildList()$0",
+		},
+		{
+			"trigger": "C_ClubFinder.ReturnPendingCommunityApplicantList\t(\"clubId\")",
+			"contents": "C_ClubFinder.ReturnPendingCommunityApplicantList(\"${1:clubId}\")$0",
+		},
+		{
+			"trigger": "C_ClubFinder.ReturnPendingGuildApplicantList\t()",
+			"contents": "C_ClubFinder.ReturnPendingGuildApplicantList()$0",
+		},
+		{
+			"trigger": "C_ClubFinder.SetPlayerApplicantSettings\t(index, checked)",
+			"contents": "C_ClubFinder.SetPlayerApplicantSettings(${1:index}, ${2:checked})$0",
+		},
+		{
+			"trigger": "C_ClubFinder.SetRecruitmentSettings\t(index, checked)",
+			"contents": "C_ClubFinder.SetRecruitmentSettings(${1:index}, ${2:checked})$0",
+		},
+		{
+			"trigger": "C_ClubFinder.ShouldShowClubFinder\t()",
+			"contents": "C_ClubFinder.ShouldShowClubFinder()$0",
+		},
+		{
 			"trigger": "C_Commentator.AddPlayerOverrideName\t(\"playerName\", \"overrideName\")",
 			"contents": "C_Commentator.AddPlayerOverrideName(\"${1:playerName}\", \"${2:overrideName}\")$0",
 		},
@@ -1348,6 +1732,10 @@
 		{
 			"trigger": "C_Commentator.GetDurationToForceHorizontalConvergence\t()",
 			"contents": "C_Commentator.GetDurationToForceHorizontalConvergence()$0",
+		},
+		{
+			"trigger": "C_Commentator.GetElapsedMs\t()",
+			"contents": "C_Commentator.GetElapsedMs()$0",
 		},
 		{
 			"trigger": "C_Commentator.GetExcludeDistance\t()",
@@ -1690,22 +2078,6 @@
 			"contents": "C_Commentator.ZoomOut()$0",
 		},
 		{
-			"trigger": "C_ConfigurationWarnings.GetConfigurationWarnings\t(includeSeenWarnings)",
-			"contents": "C_ConfigurationWarnings.GetConfigurationWarnings(${1:includeSeenWarnings})$0",
-		},
-		{
-			"trigger": "C_ConfigurationWarnings.GetConfigurationWarningSeen\t(configurationWarning)",
-			"contents": "C_ConfigurationWarnings.GetConfigurationWarningSeen(${1:configurationWarning})$0",
-		},
-		{
-			"trigger": "C_ConfigurationWarnings.GetConfigurationWarningString\t(configurationWarning)",
-			"contents": "C_ConfigurationWarnings.GetConfigurationWarningString(${1:configurationWarning})$0",
-		},
-		{
-			"trigger": "C_ConfigurationWarnings.SetConfigurationWarningSeen\t(configurationWarning)",
-			"contents": "C_ConfigurationWarnings.SetConfigurationWarningSeen(${1:configurationWarning})$0",
-		},
-		{
 			"trigger": "C_Console.GetAllCommands\t()",
 			"contents": "C_Console.GetAllCommands()$0",
 		},
@@ -1910,8 +2282,20 @@
 			"contents": "C_DateAndTime.GetCurrentCalendarTime()$0",
 		},
 		{
+			"trigger": "C_DateAndTime.GetDateFromEpoch\t(...)",
+			"contents": "C_DateAndTime.GetDateFromEpoch(${1:...})$0",
+		},
+		{
 			"trigger": "C_DateAndTime.GetServerTimeLocal\t()",
 			"contents": "C_DateAndTime.GetServerTimeLocal()$0",
+		},
+		{
+			"trigger": "C_DateAndTime.GetTodaysDate\t(...)",
+			"contents": "C_DateAndTime.GetTodaysDate(${1:...})$0",
+		},
+		{
+			"trigger": "C_DateAndTime.GetYesterdaysDate\t(...)",
+			"contents": "C_DateAndTime.GetYesterdaysDate(${1:...})$0",
 		},
 		{
 			"trigger": "C_DeathInfo.GetCorpseMapPosition\t(uiMapID)",
@@ -1932,6 +2316,26 @@
 		{
 			"trigger": "C_DeathInfo.UseSelfResurrectOption\t(optionType, id)",
 			"contents": "C_DeathInfo.UseSelfResurrectOption(${1:optionType}, ${2:id})$0",
+		},
+		{
+			"trigger": "C_Debug.DashboardIsEnabled\t(...)",
+			"contents": "C_Debug.DashboardIsEnabled(${1:...})$0",
+		},
+		{
+			"trigger": "C_Debug.GetAllPortLocsForMap\t(...)",
+			"contents": "C_Debug.GetAllPortLocsForMap(${1:...})$0",
+		},
+		{
+			"trigger": "C_Debug.GetMapDebugObjects\t(...)",
+			"contents": "C_Debug.GetMapDebugObjects(${1:...})$0",
+		},
+		{
+			"trigger": "C_Debug.TeleportToMapDebugObject\t(...)",
+			"contents": "C_Debug.TeleportToMapDebugObject(${1:...})$0",
+		},
+		{
+			"trigger": "C_Debug.TeleportToMapLocation\t(...)",
+			"contents": "C_Debug.TeleportToMapLocation(${1:...})$0",
 		},
 		{
 			"trigger": "C_EncounterJournal.GetDungeonEntrancesForMap\t(uiMapID)",
@@ -1956,6 +2360,14 @@
 		{
 			"trigger": "C_EncounterJournal.IsEncounterComplete\t(journalEncounterID)",
 			"contents": "C_EncounterJournal.IsEncounterComplete(${1:journalEncounterID})$0",
+		},
+		{
+			"trigger": "C_EncounterJournal.SetPreviewMythicPlusLevel\t(level)",
+			"contents": "C_EncounterJournal.SetPreviewMythicPlusLevel(${1:level})$0",
+		},
+		{
+			"trigger": "C_EncounterJournal.SetPreviewPvpTier\t(tier)",
+			"contents": "C_EncounterJournal.SetPreviewPvpTier(${1:tier})$0",
 		},
 		{
 			"trigger": "C_EquipmentSet.AssignSpecToEquipmentSet\t(equipmentSetID, specIndex)",
@@ -2174,6 +2586,178 @@
 			"contents": "C_FriendList.SortWho(\"${1:sorting}\")$0",
 		},
 		{
+			"trigger": "C_Garrison.AddFollowerToMission\t(...)",
+			"contents": "C_Garrison.AddFollowerToMission(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.AllowMissionStartAboveSoftCap\t(...)",
+			"contents": "C_Garrison.AllowMissionStartAboveSoftCap(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.AreMissionFollowerRequirementsMet\t(...)",
+			"contents": "C_Garrison.AreMissionFollowerRequirementsMet(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.AssignFollowerToBuilding\t(...)",
+			"contents": "C_Garrison.AssignFollowerToBuilding(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.CancelConstruction\t(...)",
+			"contents": "C_Garrison.CancelConstruction(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.CanGenerateRecruits\t(...)",
+			"contents": "C_Garrison.CanGenerateRecruits(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.CanOpenMissionChest\t(...)",
+			"contents": "C_Garrison.CanOpenMissionChest(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.CanSetRecruitmentPreference\t(...)",
+			"contents": "C_Garrison.CanSetRecruitmentPreference(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.CanSpellTargetFollowerIDWithAddAbility\t(...)",
+			"contents": "C_Garrison.CanSpellTargetFollowerIDWithAddAbility(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.CanUpgradeGarrison\t(...)",
+			"contents": "C_Garrison.CanUpgradeGarrison(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.CastItemSpellOnFollowerAbility\t(...)",
+			"contents": "C_Garrison.CastItemSpellOnFollowerAbility(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.CastSpellOnFollower\t(...)",
+			"contents": "C_Garrison.CastSpellOnFollower(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.CastSpellOnFollowerAbility\t(...)",
+			"contents": "C_Garrison.CastSpellOnFollowerAbility(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.CastSpellOnMission\t(...)",
+			"contents": "C_Garrison.CastSpellOnMission(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.ClearCompleteTalent\t(...)",
+			"contents": "C_Garrison.ClearCompleteTalent(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.CloseArchitect\t(...)",
+			"contents": "C_Garrison.CloseArchitect(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.CloseGarrisonTradeskillNPC\t(...)",
+			"contents": "C_Garrison.CloseGarrisonTradeskillNPC(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.CloseMissionNPC\t(...)",
+			"contents": "C_Garrison.CloseMissionNPC(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.CloseRecruitmentNPC\t(...)",
+			"contents": "C_Garrison.CloseRecruitmentNPC(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.CloseTalentNPC\t(...)",
+			"contents": "C_Garrison.CloseTalentNPC(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.CloseTradeskillCrafter\t(...)",
+			"contents": "C_Garrison.CloseTradeskillCrafter(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GenerateRecruits\t(...)",
+			"contents": "C_Garrison.GenerateRecruits(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetAllBonusAbilityEffects\t(...)",
+			"contents": "C_Garrison.GetAllBonusAbilityEffects(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetAllEncounterThreats\t(...)",
+			"contents": "C_Garrison.GetAllEncounterThreats(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetAvailableMissions\t(...)",
+			"contents": "C_Garrison.GetAvailableMissions(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetAvailableRecruits\t(...)",
+			"contents": "C_Garrison.GetAvailableRecruits(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetBasicMissionInfo\t(...)",
+			"contents": "C_Garrison.GetBasicMissionInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetBuffedFollowersForMission\t(...)",
+			"contents": "C_Garrison.GetBuffedFollowersForMission(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetBuildingInfo\t(...)",
+			"contents": "C_Garrison.GetBuildingInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetBuildingLockInfo\t(...)",
+			"contents": "C_Garrison.GetBuildingLockInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetBuildings\t(...)",
+			"contents": "C_Garrison.GetBuildings(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetBuildingsForPlot\t(...)",
+			"contents": "C_Garrison.GetBuildingsForPlot(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetBuildingsForSize\t(...)",
+			"contents": "C_Garrison.GetBuildingsForSize(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetBuildingSizes\t(...)",
+			"contents": "C_Garrison.GetBuildingSizes(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetBuildingSpecInfo\t(...)",
+			"contents": "C_Garrison.GetBuildingSpecInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetBuildingTimeRemaining\t(...)",
+			"contents": "C_Garrison.GetBuildingTimeRemaining(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetBuildingTooltip\t(...)",
+			"contents": "C_Garrison.GetBuildingTooltip(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetBuildingUpgradeInfo\t(...)",
+			"contents": "C_Garrison.GetBuildingUpgradeInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetClassSpecCategoryInfo\t(...)",
+			"contents": "C_Garrison.GetClassSpecCategoryInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetCombatAllyMission\t(...)",
+			"contents": "C_Garrison.GetCombatAllyMission(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetCompleteMissions\t(...)",
+			"contents": "C_Garrison.GetCompleteMissions(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetCompleteTalent\t(...)",
+			"contents": "C_Garrison.GetCompleteTalent(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetCurrencyTypes\t(...)",
+			"contents": "C_Garrison.GetCurrencyTypes(${1:...})$0",
+		},
+		{
 			"trigger": "C_Garrison.GetCurrentGarrTalentTreeFriendshipFactionID\t()",
 			"contents": "C_Garrison.GetCurrentGarrTalentTreeFriendshipFactionID()$0",
 		},
@@ -2182,12 +2766,460 @@
 			"contents": "C_Garrison.GetCurrentGarrTalentTreeID()$0",
 		},
 		{
+			"trigger": "C_Garrison.GetFollowerAbilities\t(...)",
+			"contents": "C_Garrison.GetFollowerAbilities(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerAbilityAtIndex\t(...)",
+			"contents": "C_Garrison.GetFollowerAbilityAtIndex(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerAbilityAtIndexByID\t(...)",
+			"contents": "C_Garrison.GetFollowerAbilityAtIndexByID(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerAbilityCounterMechanicInfo\t(...)",
+			"contents": "C_Garrison.GetFollowerAbilityCounterMechanicInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerAbilityCountersForMechanicTypes\t(...)",
+			"contents": "C_Garrison.GetFollowerAbilityCountersForMechanicTypes(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerAbilityDescription\t(...)",
+			"contents": "C_Garrison.GetFollowerAbilityDescription(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerAbilityIcon\t(...)",
+			"contents": "C_Garrison.GetFollowerAbilityIcon(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerAbilityInfo\t(...)",
+			"contents": "C_Garrison.GetFollowerAbilityInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerAbilityIsTrait\t(...)",
+			"contents": "C_Garrison.GetFollowerAbilityIsTrait(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerAbilityLink\t(...)",
+			"contents": "C_Garrison.GetFollowerAbilityLink(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerAbilityName\t(...)",
+			"contents": "C_Garrison.GetFollowerAbilityName(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerActivationCost\t(...)",
+			"contents": "C_Garrison.GetFollowerActivationCost(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerBiasForMission\t(...)",
+			"contents": "C_Garrison.GetFollowerBiasForMission(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerClassSpec\t(...)",
+			"contents": "C_Garrison.GetFollowerClassSpec(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerClassSpecAtlas\t(...)",
+			"contents": "C_Garrison.GetFollowerClassSpecAtlas(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerClassSpecByID\t(...)",
+			"contents": "C_Garrison.GetFollowerClassSpecByID(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerClassSpecName\t(...)",
+			"contents": "C_Garrison.GetFollowerClassSpecName(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerDisplayID\t(...)",
+			"contents": "C_Garrison.GetFollowerDisplayID(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerInfo\t(...)",
+			"contents": "C_Garrison.GetFollowerInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerInfoForBuilding\t(...)",
+			"contents": "C_Garrison.GetFollowerInfoForBuilding(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerIsTroop\t(...)",
+			"contents": "C_Garrison.GetFollowerIsTroop(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerItemLevelAverage\t(...)",
+			"contents": "C_Garrison.GetFollowerItemLevelAverage(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerItems\t(...)",
+			"contents": "C_Garrison.GetFollowerItems(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerLevel\t(...)",
+			"contents": "C_Garrison.GetFollowerLevel(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerLevelXP\t(...)",
+			"contents": "C_Garrison.GetFollowerLevelXP(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerLink\t(...)",
+			"contents": "C_Garrison.GetFollowerLink(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerLinkByID\t(...)",
+			"contents": "C_Garrison.GetFollowerLinkByID(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerMissionCompleteInfo\t(...)",
+			"contents": "C_Garrison.GetFollowerMissionCompleteInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerMissionTimeLeft\t(...)",
+			"contents": "C_Garrison.GetFollowerMissionTimeLeft(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerMissionTimeLeftSeconds\t(...)",
+			"contents": "C_Garrison.GetFollowerMissionTimeLeftSeconds(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerModelItems\t(...)",
+			"contents": "C_Garrison.GetFollowerModelItems(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerName\t(...)",
+			"contents": "C_Garrison.GetFollowerName(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerNameByID\t(...)",
+			"contents": "C_Garrison.GetFollowerNameByID(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerPortraitIconID\t(...)",
+			"contents": "C_Garrison.GetFollowerPortraitIconID(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerPortraitIconIDByID\t(...)",
+			"contents": "C_Garrison.GetFollowerPortraitIconIDByID(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerQuality\t(...)",
+			"contents": "C_Garrison.GetFollowerQuality(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerQualityTable\t(...)",
+			"contents": "C_Garrison.GetFollowerQualityTable(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerRecentlyGainedAbilityIDs\t(...)",
+			"contents": "C_Garrison.GetFollowerRecentlyGainedAbilityIDs(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerRecentlyGainedTraitIDs\t(...)",
+			"contents": "C_Garrison.GetFollowerRecentlyGainedTraitIDs(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowers\t(...)",
+			"contents": "C_Garrison.GetFollowers(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerShipments\t(...)",
+			"contents": "C_Garrison.GetFollowerShipments(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerSoftCap\t(...)",
+			"contents": "C_Garrison.GetFollowerSoftCap(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerSourceTextByID\t(...)",
+			"contents": "C_Garrison.GetFollowerSourceTextByID(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerSpecializationAtIndex\t(...)",
+			"contents": "C_Garrison.GetFollowerSpecializationAtIndex(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowersSpellsForMission\t(...)",
+			"contents": "C_Garrison.GetFollowersSpellsForMission(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerStatus\t(...)",
+			"contents": "C_Garrison.GetFollowerStatus(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowersTraitsForMission\t(...)",
+			"contents": "C_Garrison.GetFollowersTraitsForMission(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerTraitAtIndex\t(...)",
+			"contents": "C_Garrison.GetFollowerTraitAtIndex(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerTraitAtIndexByID\t(...)",
+			"contents": "C_Garrison.GetFollowerTraitAtIndexByID(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerTypeByID\t(...)",
+			"contents": "C_Garrison.GetFollowerTypeByID(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerTypeByMissionID\t(...)",
+			"contents": "C_Garrison.GetFollowerTypeByMissionID(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerUnderBiasReason\t(...)",
+			"contents": "C_Garrison.GetFollowerUnderBiasReason(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerXP\t(...)",
+			"contents": "C_Garrison.GetFollowerXP(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerXPTable\t(...)",
+			"contents": "C_Garrison.GetFollowerXPTable(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetFollowerZoneSupportAbilities\t(...)",
+			"contents": "C_Garrison.GetFollowerZoneSupportAbilities(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetGarrisonInfo\t(...)",
+			"contents": "C_Garrison.GetGarrisonInfo(${1:...})$0",
+		},
+		{
 			"trigger": "C_Garrison.GetGarrisonPlotsInstancesForMap\t(uiMapID)",
 			"contents": "C_Garrison.GetGarrisonPlotsInstancesForMap(${1:uiMapID})$0",
 		},
 		{
+			"trigger": "C_Garrison.GetGarrisonUpgradeCost\t(...)",
+			"contents": "C_Garrison.GetGarrisonUpgradeCost(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetInProgressMissions\t(...)",
+			"contents": "C_Garrison.GetInProgressMissions(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetLandingPageGarrisonType\t(...)",
+			"contents": "C_Garrison.GetLandingPageGarrisonType(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetLandingPageItems\t(...)",
+			"contents": "C_Garrison.GetLandingPageItems(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetLandingPageShipmentCount\t(...)",
+			"contents": "C_Garrison.GetLandingPageShipmentCount(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetLandingPageShipmentInfo\t(...)",
+			"contents": "C_Garrison.GetLandingPageShipmentInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetLandingPageShipmentInfoByContainerID\t(...)",
+			"contents": "C_Garrison.GetLandingPageShipmentInfoByContainerID(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetLooseShipments\t(...)",
+			"contents": "C_Garrison.GetLooseShipments(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetMissionBonusAbilityEffects\t(...)",
+			"contents": "C_Garrison.GetMissionBonusAbilityEffects(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetMissionCompleteEncounters\t(...)",
+			"contents": "C_Garrison.GetMissionCompleteEncounters(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetMissionCost\t(...)",
+			"contents": "C_Garrison.GetMissionCost(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetMissionDisplayIDs\t(...)",
+			"contents": "C_Garrison.GetMissionDisplayIDs(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetMissionInfo\t(...)",
+			"contents": "C_Garrison.GetMissionInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetMissionLink\t(...)",
+			"contents": "C_Garrison.GetMissionLink(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetMissionMaxFollowers\t(...)",
+			"contents": "C_Garrison.GetMissionMaxFollowers(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetMissionName\t(...)",
+			"contents": "C_Garrison.GetMissionName(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetMissionRewardInfo\t(...)",
+			"contents": "C_Garrison.GetMissionRewardInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetMissionSuccessChance\t(...)",
+			"contents": "C_Garrison.GetMissionSuccessChance(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetMissionTexture\t(...)",
+			"contents": "C_Garrison.GetMissionTexture(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetMissionTimes\t(...)",
+			"contents": "C_Garrison.GetMissionTimes(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetMissionUncounteredMechanics\t(...)",
+			"contents": "C_Garrison.GetMissionUncounteredMechanics(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetNumActiveFollowers\t(...)",
+			"contents": "C_Garrison.GetNumActiveFollowers(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetNumFollowerActivationsRemaining\t(...)",
+			"contents": "C_Garrison.GetNumFollowerActivationsRemaining(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetNumFollowerDailyActivations\t(...)",
+			"contents": "C_Garrison.GetNumFollowerDailyActivations(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetNumFollowers\t(...)",
+			"contents": "C_Garrison.GetNumFollowers(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetNumFollowersForMechanic\t(...)",
+			"contents": "C_Garrison.GetNumFollowersForMechanic(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetNumFollowersOnMission\t(...)",
+			"contents": "C_Garrison.GetNumFollowersOnMission(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetNumPendingShipments\t(...)",
+			"contents": "C_Garrison.GetNumPendingShipments(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetNumShipmentCurrencies\t(...)",
+			"contents": "C_Garrison.GetNumShipmentCurrencies(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetNumShipmentReagents\t(...)",
+			"contents": "C_Garrison.GetNumShipmentReagents(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetOwnedBuildingInfo\t(...)",
+			"contents": "C_Garrison.GetOwnedBuildingInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetOwnedBuildingInfoAbbrev\t(...)",
+			"contents": "C_Garrison.GetOwnedBuildingInfoAbbrev(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetPartyBuffs\t(...)",
+			"contents": "C_Garrison.GetPartyBuffs(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetPartyMentorLevels\t(...)",
+			"contents": "C_Garrison.GetPartyMentorLevels(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetPartyMissionInfo\t(...)",
+			"contents": "C_Garrison.GetPartyMissionInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetPendingShipmentInfo\t(...)",
+			"contents": "C_Garrison.GetPendingShipmentInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetPlots\t(...)",
+			"contents": "C_Garrison.GetPlots(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetPlotsForBuilding\t(...)",
+			"contents": "C_Garrison.GetPlotsForBuilding(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetPossibleFollowersForBuilding\t(...)",
+			"contents": "C_Garrison.GetPossibleFollowersForBuilding(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetRecruitAbilities\t(...)",
+			"contents": "C_Garrison.GetRecruitAbilities(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetRecruiterAbilityCategories\t(...)",
+			"contents": "C_Garrison.GetRecruiterAbilityCategories(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetRecruiterAbilityList\t(...)",
+			"contents": "C_Garrison.GetRecruiterAbilityList(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetRecruitmentPreferences\t(...)",
+			"contents": "C_Garrison.GetRecruitmentPreferences(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetShipDeathAnimInfo\t(...)",
+			"contents": "C_Garrison.GetShipDeathAnimInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetShipmentContainerInfo\t(...)",
+			"contents": "C_Garrison.GetShipmentContainerInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetShipmentItemInfo\t(...)",
+			"contents": "C_Garrison.GetShipmentItemInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetShipmentReagentCurrencyInfo\t(...)",
+			"contents": "C_Garrison.GetShipmentReagentCurrencyInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetShipmentReagentInfo\t(...)",
+			"contents": "C_Garrison.GetShipmentReagentInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetShipmentReagentItemLink\t(...)",
+			"contents": "C_Garrison.GetShipmentReagentItemLink(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetSpecChangeCost\t(...)",
+			"contents": "C_Garrison.GetSpecChangeCost(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetTabForPlot\t(...)",
+			"contents": "C_Garrison.GetTabForPlot(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetTalent\t(...)",
+			"contents": "C_Garrison.GetTalent(${1:...})$0",
+		},
+		{
 			"trigger": "C_Garrison.GetTalentTreeIDsByClassID\t(garrType, classID)",
 			"contents": "C_Garrison.GetTalentTreeIDsByClassID(${1:garrType}, ${2:classID})$0",
+		},
+		{
+			"trigger": "C_Garrison.GetTalentTreeInfoForID\t(...)",
+			"contents": "C_Garrison.GetTalentTreeInfoForID(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.HasGarrison\t(...)",
+			"contents": "C_Garrison.HasGarrison(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.HasShipyard\t(...)",
+			"contents": "C_Garrison.HasShipyard(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.IsAboveFollowerSoftCap\t(...)",
+			"contents": "C_Garrison.IsAboveFollowerSoftCap(${1:...})$0",
 		},
 		{
 			"trigger": "C_Garrison.IsAtGarrisonMissionNPC\t()",
@@ -2198,6 +3230,162 @@
 			"contents": "C_Garrison.IsEnvironmentCountered(${1:missionID})$0",
 		},
 		{
+			"trigger": "C_Garrison.IsFollowerCollected\t(...)",
+			"contents": "C_Garrison.IsFollowerCollected(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.IsInvasionAvailable\t(...)",
+			"contents": "C_Garrison.IsInvasionAvailable(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.IsMechanicFullyCountered\t(...)",
+			"contents": "C_Garrison.IsMechanicFullyCountered(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.IsOnGarrisonMap\t(...)",
+			"contents": "C_Garrison.IsOnGarrisonMap(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.IsOnShipmentQuestForNPC\t(...)",
+			"contents": "C_Garrison.IsOnShipmentQuestForNPC(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.IsOnShipyardMap\t(...)",
+			"contents": "C_Garrison.IsOnShipyardMap(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.IsPlayerInGarrison\t(...)",
+			"contents": "C_Garrison.IsPlayerInGarrison(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.IsUsingPartyGarrison\t(...)",
+			"contents": "C_Garrison.IsUsingPartyGarrison(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.IsVisitGarrisonAvailable\t(...)",
+			"contents": "C_Garrison.IsVisitGarrisonAvailable(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.MarkMissionComplete\t(...)",
+			"contents": "C_Garrison.MarkMissionComplete(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.MissionBonusRoll\t(...)",
+			"contents": "C_Garrison.MissionBonusRoll(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.PlaceBuilding\t(...)",
+			"contents": "C_Garrison.PlaceBuilding(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.RecruitFollower\t(...)",
+			"contents": "C_Garrison.RecruitFollower(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.RemoveFollower\t(...)",
+			"contents": "C_Garrison.RemoveFollower(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.RemoveFollowerFromBuilding\t(...)",
+			"contents": "C_Garrison.RemoveFollowerFromBuilding(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.RemoveFollowerFromMission\t(...)",
+			"contents": "C_Garrison.RemoveFollowerFromMission(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.RenameFollower\t(...)",
+			"contents": "C_Garrison.RenameFollower(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.RequestClassSpecCategoryInfo\t(...)",
+			"contents": "C_Garrison.RequestClassSpecCategoryInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.RequestGarrisonUpgradeable\t(...)",
+			"contents": "C_Garrison.RequestGarrisonUpgradeable(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.RequestLandingPageShipmentInfo\t(...)",
+			"contents": "C_Garrison.RequestLandingPageShipmentInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.RequestShipmentCreation\t(...)",
+			"contents": "C_Garrison.RequestShipmentCreation(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.RequestShipmentInfo\t(...)",
+			"contents": "C_Garrison.RequestShipmentInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.ResearchTalent\t(...)",
+			"contents": "C_Garrison.ResearchTalent(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.SearchForFollower\t(...)",
+			"contents": "C_Garrison.SearchForFollower(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.SetBuildingActive\t(...)",
+			"contents": "C_Garrison.SetBuildingActive(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.SetBuildingSpecialization\t(...)",
+			"contents": "C_Garrison.SetBuildingSpecialization(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.SetFollowerFavorite\t(...)",
+			"contents": "C_Garrison.SetFollowerFavorite(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.SetFollowerInactive\t(...)",
+			"contents": "C_Garrison.SetFollowerInactive(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.SetRecruitmentPreferences\t(...)",
+			"contents": "C_Garrison.SetRecruitmentPreferences(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.SetUsingPartyGarrison\t(...)",
+			"contents": "C_Garrison.SetUsingPartyGarrison(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.ShouldShowMapTab\t(...)",
+			"contents": "C_Garrison.ShouldShowMapTab(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.ShowFollowerNameInErrorMessage\t(...)",
+			"contents": "C_Garrison.ShowFollowerNameInErrorMessage(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.StartMission\t(...)",
+			"contents": "C_Garrison.StartMission(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.SwapBuildings\t(...)",
+			"contents": "C_Garrison.SwapBuildings(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.TargetSpellHasFollowerItemLevelUpgrade\t(...)",
+			"contents": "C_Garrison.TargetSpellHasFollowerItemLevelUpgrade(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.TargetSpellHasFollowerReroll\t(...)",
+			"contents": "C_Garrison.TargetSpellHasFollowerReroll(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.TargetSpellHasFollowerTemporaryAbility\t(...)",
+			"contents": "C_Garrison.TargetSpellHasFollowerTemporaryAbility(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.UpgradeBuilding\t(...)",
+			"contents": "C_Garrison.UpgradeBuilding(${1:...})$0",
+		},
+		{
+			"trigger": "C_Garrison.UpgradeGarrison\t(...)",
+			"contents": "C_Garrison.UpgradeGarrison(${1:...})$0",
+		},
+		{
 			"trigger": "C_GossipInfo.GetGossipPoiForUiMapID\t(uiMapID)",
 			"contents": "C_GossipInfo.GetGossipPoiForUiMapID(${1:uiMapID})$0",
 		},
@@ -2206,8 +3394,20 @@
 			"contents": "C_GossipInfo.GetGossipPoiInfo(${1:uiMapID}, ${2:gossipPoiID})$0",
 		},
 		{
+			"trigger": "C_GuildInfo.CanEditOfficerNote\t()",
+			"contents": "C_GuildInfo.CanEditOfficerNote()$0",
+		},
+		{
 			"trigger": "C_GuildInfo.CanSpeakInGuildChat\t()",
 			"contents": "C_GuildInfo.CanSpeakInGuildChat()$0",
+		},
+		{
+			"trigger": "C_GuildInfo.CanViewOfficerNote\t()",
+			"contents": "C_GuildInfo.CanViewOfficerNote()$0",
+		},
+		{
+			"trigger": "C_GuildInfo.GetGuildNewsInfo\t(index)",
+			"contents": "C_GuildInfo.GetGuildNewsInfo(${1:index})$0",
 		},
 		{
 			"trigger": "C_GuildInfo.GetGuildRankOrder\t(\"guid\")",
@@ -2216,6 +3416,10 @@
 		{
 			"trigger": "C_GuildInfo.GuildControlGetRankFlags\t(rankOrder)",
 			"contents": "C_GuildInfo.GuildControlGetRankFlags(${1:rankOrder})$0",
+		},
+		{
+			"trigger": "C_GuildInfo.GuildRoster\t()",
+			"contents": "C_GuildInfo.GuildRoster()$0",
 		},
 		{
 			"trigger": "C_GuildInfo.IsGuildRankAssignmentAllowed\t(\"guid\", rankOrder)",
@@ -2236,6 +3440,106 @@
 		{
 			"trigger": "C_GuildInfo.SetNote\t(\"guid\", \"note\", isPublic)",
 			"contents": "C_GuildInfo.SetNote(\"${1:guid}\", \"${2:note}\", ${3:isPublic})$0",
+		},
+		{
+			"trigger": "C_Heirloom.CanHeirloomUpgradeFromPending\t(...)",
+			"contents": "C_Heirloom.CanHeirloomUpgradeFromPending(${1:...})$0",
+		},
+		{
+			"trigger": "C_Heirloom.CreateHeirloom\t(...)",
+			"contents": "C_Heirloom.CreateHeirloom(${1:...})$0",
+		},
+		{
+			"trigger": "C_Heirloom.GetClassAndSpecFilters\t(...)",
+			"contents": "C_Heirloom.GetClassAndSpecFilters(${1:...})$0",
+		},
+		{
+			"trigger": "C_Heirloom.GetCollectedHeirloomFilter\t(...)",
+			"contents": "C_Heirloom.GetCollectedHeirloomFilter(${1:...})$0",
+		},
+		{
+			"trigger": "C_Heirloom.GetHeirloomInfo\t(...)",
+			"contents": "C_Heirloom.GetHeirloomInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_Heirloom.GetHeirloomItemIDFromDisplayedIndex\t(...)",
+			"contents": "C_Heirloom.GetHeirloomItemIDFromDisplayedIndex(${1:...})$0",
+		},
+		{
+			"trigger": "C_Heirloom.GetHeirloomItemIDs\t(...)",
+			"contents": "C_Heirloom.GetHeirloomItemIDs(${1:...})$0",
+		},
+		{
+			"trigger": "C_Heirloom.GetHeirloomLink\t(...)",
+			"contents": "C_Heirloom.GetHeirloomLink(${1:...})$0",
+		},
+		{
+			"trigger": "C_Heirloom.GetHeirloomMaxUpgradeLevel\t(...)",
+			"contents": "C_Heirloom.GetHeirloomMaxUpgradeLevel(${1:...})$0",
+		},
+		{
+			"trigger": "C_Heirloom.GetHeirloomSourceFilter\t(...)",
+			"contents": "C_Heirloom.GetHeirloomSourceFilter(${1:...})$0",
+		},
+		{
+			"trigger": "C_Heirloom.GetNumDisplayedHeirlooms\t(...)",
+			"contents": "C_Heirloom.GetNumDisplayedHeirlooms(${1:...})$0",
+		},
+		{
+			"trigger": "C_Heirloom.GetNumHeirlooms\t(...)",
+			"contents": "C_Heirloom.GetNumHeirlooms(${1:...})$0",
+		},
+		{
+			"trigger": "C_Heirloom.GetNumKnownHeirlooms\t(...)",
+			"contents": "C_Heirloom.GetNumKnownHeirlooms(${1:...})$0",
+		},
+		{
+			"trigger": "C_Heirloom.GetUncollectedHeirloomFilter\t(...)",
+			"contents": "C_Heirloom.GetUncollectedHeirloomFilter(${1:...})$0",
+		},
+		{
+			"trigger": "C_Heirloom.IsHeirloomSourceValid\t(...)",
+			"contents": "C_Heirloom.IsHeirloomSourceValid(${1:...})$0",
+		},
+		{
+			"trigger": "C_Heirloom.IsItemHeirloom\t(...)",
+			"contents": "C_Heirloom.IsItemHeirloom(${1:...})$0",
+		},
+		{
+			"trigger": "C_Heirloom.IsPendingHeirloomUpgrade\t(...)",
+			"contents": "C_Heirloom.IsPendingHeirloomUpgrade(${1:...})$0",
+		},
+		{
+			"trigger": "C_Heirloom.PlayerHasHeirloom\t(...)",
+			"contents": "C_Heirloom.PlayerHasHeirloom(${1:...})$0",
+		},
+		{
+			"trigger": "C_Heirloom.SetClassAndSpecFilters\t(...)",
+			"contents": "C_Heirloom.SetClassAndSpecFilters(${1:...})$0",
+		},
+		{
+			"trigger": "C_Heirloom.SetCollectedHeirloomFilter\t(...)",
+			"contents": "C_Heirloom.SetCollectedHeirloomFilter(${1:...})$0",
+		},
+		{
+			"trigger": "C_Heirloom.SetHeirloomSourceFilter\t(...)",
+			"contents": "C_Heirloom.SetHeirloomSourceFilter(${1:...})$0",
+		},
+		{
+			"trigger": "C_Heirloom.SetSearch\t(...)",
+			"contents": "C_Heirloom.SetSearch(${1:...})$0",
+		},
+		{
+			"trigger": "C_Heirloom.SetUncollectedHeirloomFilter\t(...)",
+			"contents": "C_Heirloom.SetUncollectedHeirloomFilter(${1:...})$0",
+		},
+		{
+			"trigger": "C_Heirloom.ShouldShowHeirloomHelp\t(...)",
+			"contents": "C_Heirloom.ShouldShowHeirloomHelp(${1:...})$0",
+		},
+		{
+			"trigger": "C_Heirloom.UpgradeHeirloom\t(...)",
+			"contents": "C_Heirloom.UpgradeHeirloom(${1:...})$0",
 		},
 		{
 			"trigger": "C_IncomingSummon.HasIncomingSummon\t(\"unit\")",
@@ -2386,6 +3690,10 @@
 			"contents": "C_ItemSocketInfo.CompleteSocketing()$0",
 		},
 		{
+			"trigger": "C_ItemUpgrade.GetItemHyperlink\t()",
+			"contents": "C_ItemUpgrade.GetItemHyperlink()$0",
+		},
+		{
 			"trigger": "C_KeyBindings.GetCustomBindingType\t(bindingIndex)",
 			"contents": "C_KeyBindings.GetCustomBindingType(${1:bindingIndex})$0",
 		},
@@ -2398,8 +3706,20 @@
 			"contents": "C_LFGInfo.HideNameFromUI(${1:dungeonID})$0",
 		},
 		{
+			"trigger": "C_LFGList.AcceptInvite\t(...)",
+			"contents": "C_LFGList.AcceptInvite(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.ApplyToGroup\t(...)",
+			"contents": "C_LFGList.ApplyToGroup(${1:...})$0",
+		},
+		{
 			"trigger": "C_LFGList.CanActiveEntryUseAutoAccept\t()",
 			"contents": "C_LFGList.CanActiveEntryUseAutoAccept()$0",
+		},
+		{
+			"trigger": "C_LFGList.CancelApplication\t(...)",
+			"contents": "C_LFGList.CancelApplication(${1:...})$0",
 		},
 		{
 			"trigger": "C_LFGList.CanCreateQuestGroup\t(questID)",
@@ -2414,6 +3734,10 @@
 			"contents": "C_LFGList.ClearCreationTextFields()$0",
 		},
 		{
+			"trigger": "C_LFGList.ClearSearchResults\t(...)",
+			"contents": "C_LFGList.ClearSearchResults(${1:...})$0",
+		},
+		{
 			"trigger": "C_LFGList.ClearSearchTextFields\t()",
 			"contents": "C_LFGList.ClearSearchTextFields()$0",
 		},
@@ -2422,28 +3746,192 @@
 			"contents": "C_LFGList.CopyActiveEntryInfoToCreationFields()$0",
 		},
 		{
+			"trigger": "C_LFGList.CreateListing\t(...)",
+			"contents": "C_LFGList.CreateListing(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.DeclineApplicant\t(...)",
+			"contents": "C_LFGList.DeclineApplicant(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.DeclineInvite\t(...)",
+			"contents": "C_LFGList.DeclineInvite(${1:...})$0",
+		},
+		{
 			"trigger": "C_LFGList.GetActiveEntryInfo\t()",
 			"contents": "C_LFGList.GetActiveEntryInfo()$0",
+		},
+		{
+			"trigger": "C_LFGList.GetActivityGroupInfo\t(...)",
+			"contents": "C_LFGList.GetActivityGroupInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.GetActivityIDForQuestID\t(...)",
+			"contents": "C_LFGList.GetActivityIDForQuestID(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.GetActivityInfo\t(...)",
+			"contents": "C_LFGList.GetActivityInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.GetActivityInfoExpensive\t(...)",
+			"contents": "C_LFGList.GetActivityInfoExpensive(${1:...})$0",
 		},
 		{
 			"trigger": "C_LFGList.GetApplicantInfo\t(applicantID)",
 			"contents": "C_LFGList.GetApplicantInfo(${1:applicantID})$0",
 		},
 		{
+			"trigger": "C_LFGList.GetApplicantMemberInfo\t(...)",
+			"contents": "C_LFGList.GetApplicantMemberInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.GetApplicantMemberStats\t(...)",
+			"contents": "C_LFGList.GetApplicantMemberStats(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.GetApplicants\t(...)",
+			"contents": "C_LFGList.GetApplicants(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.GetApplicationInfo\t(...)",
+			"contents": "C_LFGList.GetApplicationInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.GetApplications\t(...)",
+			"contents": "C_LFGList.GetApplications(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.GetAvailableActivities\t(...)",
+			"contents": "C_LFGList.GetAvailableActivities(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.GetAvailableActivityGroups\t(...)",
+			"contents": "C_LFGList.GetAvailableActivityGroups(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.GetAvailableCategories\t(...)",
+			"contents": "C_LFGList.GetAvailableCategories(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.GetAvailableLanguageSearchFilter\t(...)",
+			"contents": "C_LFGList.GetAvailableLanguageSearchFilter(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.GetAvailableRoles\t(...)",
+			"contents": "C_LFGList.GetAvailableRoles(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.GetCategoryInfo\t(...)",
+			"contents": "C_LFGList.GetCategoryInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.GetDefaultLanguageSearchFilter\t(...)",
+			"contents": "C_LFGList.GetDefaultLanguageSearchFilter(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.GetLanguageSearchFilter\t(...)",
+			"contents": "C_LFGList.GetLanguageSearchFilter(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.GetNumApplicants\t(...)",
+			"contents": "C_LFGList.GetNumApplicants(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.GetNumApplications\t(...)",
+			"contents": "C_LFGList.GetNumApplications(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.GetNumInvitedApplicantMembers\t(...)",
+			"contents": "C_LFGList.GetNumInvitedApplicantMembers(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.GetNumPendingApplicantMembers\t(...)",
+			"contents": "C_LFGList.GetNumPendingApplicantMembers(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.GetRoleCheckInfo\t(...)",
+			"contents": "C_LFGList.GetRoleCheckInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.GetSearchResultEncounterInfo\t(...)",
+			"contents": "C_LFGList.GetSearchResultEncounterInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.GetSearchResultFriends\t(...)",
+			"contents": "C_LFGList.GetSearchResultFriends(${1:...})$0",
+		},
+		{
 			"trigger": "C_LFGList.GetSearchResultInfo\t(searchResultID)",
 			"contents": "C_LFGList.GetSearchResultInfo(${1:searchResultID})$0",
+		},
+		{
+			"trigger": "C_LFGList.GetSearchResultMemberCounts\t(...)",
+			"contents": "C_LFGList.GetSearchResultMemberCounts(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.GetSearchResultMemberInfo\t(...)",
+			"contents": "C_LFGList.GetSearchResultMemberInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.GetSearchResults\t(...)",
+			"contents": "C_LFGList.GetSearchResults(${1:...})$0",
 		},
 		{
 			"trigger": "C_LFGList.HasActiveEntryInfo\t()",
 			"contents": "C_LFGList.HasActiveEntryInfo()$0",
 		},
 		{
+			"trigger": "C_LFGList.HasActivityList\t(...)",
+			"contents": "C_LFGList.HasActivityList(${1:...})$0",
+		},
+		{
 			"trigger": "C_LFGList.HasSearchResultInfo\t(searchResultID)",
 			"contents": "C_LFGList.HasSearchResultInfo(${1:searchResultID})$0",
 		},
 		{
+			"trigger": "C_LFGList.InviteApplicant\t(...)",
+			"contents": "C_LFGList.InviteApplicant(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.IsCurrentlyApplying\t(...)",
+			"contents": "C_LFGList.IsCurrentlyApplying(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.RefreshApplicants\t(...)",
+			"contents": "C_LFGList.RefreshApplicants(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.RemoveApplicant\t(...)",
+			"contents": "C_LFGList.RemoveApplicant(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.RemoveListing\t(...)",
+			"contents": "C_LFGList.RemoveListing(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.ReportApplicant\t(...)",
+			"contents": "C_LFGList.ReportApplicant(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.ReportSearchResult\t(...)",
+			"contents": "C_LFGList.ReportSearchResult(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.RequestAvailableActivities\t(...)",
+			"contents": "C_LFGList.RequestAvailableActivities(${1:...})$0",
+		},
+		{
+			"trigger": "C_LFGList.SaveLanguageSearchFilter\t(...)",
+			"contents": "C_LFGList.SaveLanguageSearchFilter(${1:...})$0",
+		},
+		{
 			"trigger": "C_LFGList.Search\t(categoryID, filter, preferredFilters, [languageFilter])",
 			"contents": "C_LFGList.Search(${1:categoryID}, ${2:filter}, ${3:preferredFilters}, [${4:languageFilter}])$0",
+		},
+		{
+			"trigger": "C_LFGList.SetApplicantMemberRole\t(...)",
+			"contents": "C_LFGList.SetApplicantMemberRole(${1:...})$0",
 		},
 		{
 			"trigger": "C_LFGList.SetSearchToActivity\t(activityID)",
@@ -2454,8 +3942,64 @@
 			"contents": "C_LFGList.SetSearchToQuestID(${1:questID})$0",
 		},
 		{
+			"trigger": "C_LFGList.UpdateListing\t(...)",
+			"contents": "C_LFGList.UpdateListing(${1:...})$0",
+		},
+		{
 			"trigger": "C_Loot.IsLegacyLootModeEnabled\t()",
 			"contents": "C_Loot.IsLegacyLootModeEnabled()$0",
+		},
+		{
+			"trigger": "C_LootHistory.CanMasterLoot\t(...)",
+			"contents": "C_LootHistory.CanMasterLoot(${1:...})$0",
+		},
+		{
+			"trigger": "C_LootHistory.GetExpiration\t(...)",
+			"contents": "C_LootHistory.GetExpiration(${1:...})$0",
+		},
+		{
+			"trigger": "C_LootHistory.GetItem\t(...)",
+			"contents": "C_LootHistory.GetItem(${1:...})$0",
+		},
+		{
+			"trigger": "C_LootHistory.GetNumItems\t(...)",
+			"contents": "C_LootHistory.GetNumItems(${1:...})$0",
+		},
+		{
+			"trigger": "C_LootHistory.GetPlayerInfo\t(...)",
+			"contents": "C_LootHistory.GetPlayerInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_LootHistory.GiveMasterLoot\t(...)",
+			"contents": "C_LootHistory.GiveMasterLoot(${1:...})$0",
+		},
+		{
+			"trigger": "C_LootHistory.SetExpiration\t(...)",
+			"contents": "C_LootHistory.SetExpiration(${1:...})$0",
+		},
+		{
+			"trigger": "C_LootJournal.GetClassAndSpecFilters\t(...)",
+			"contents": "C_LootJournal.GetClassAndSpecFilters(${1:...})$0",
+		},
+		{
+			"trigger": "C_LootJournal.GetFilteredItemSets\t(...)",
+			"contents": "C_LootJournal.GetFilteredItemSets(${1:...})$0",
+		},
+		{
+			"trigger": "C_LootJournal.GetItemSetItems\t(...)",
+			"contents": "C_LootJournal.GetItemSetItems(${1:...})$0",
+		},
+		{
+			"trigger": "C_LootJournal.SetClassAndSpecFilters\t(...)",
+			"contents": "C_LootJournal.SetClassAndSpecFilters(${1:...})$0",
+		},
+		{
+			"trigger": "C_LossOfControl.GetEventInfo\t(...)",
+			"contents": "C_LossOfControl.GetEventInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_LossOfControl.GetNumEvents\t(...)",
+			"contents": "C_LossOfControl.GetNumEvents(${1:...})$0",
 		},
 		{
 			"trigger": "C_Mail.HasInboxMoney\t(inboxIndex)",
@@ -2614,6 +4158,14 @@
 			"contents": "C_ModelInfo.GetModelSceneInfoByID(${1:modelSceneID})$0",
 		},
 		{
+			"trigger": "C_MountJournal.ApplyMountEquipment\t(itemLocation)",
+			"contents": "C_MountJournal.ApplyMountEquipment(${1:itemLocation})$0",
+		},
+		{
+			"trigger": "C_MountJournal.AreMountEquipmentEffectsSuppressed\t()",
+			"contents": "C_MountJournal.AreMountEquipmentEffectsSuppressed()$0",
+		},
+		{
 			"trigger": "C_MountJournal.ClearFanfare\t(mountID)",
 			"contents": "C_MountJournal.ClearFanfare(${1:mountID})$0",
 		},
@@ -2624,6 +4176,10 @@
 		{
 			"trigger": "C_MountJournal.Dismiss\t()",
 			"contents": "C_MountJournal.Dismiss()$0",
+		},
+		{
+			"trigger": "C_MountJournal.GetAppliedMountEquipmentID\t()",
+			"contents": "C_MountJournal.GetAppliedMountEquipmentID()$0",
 		},
 		{
 			"trigger": "C_MountJournal.GetCollectedFilterSetting\t(filterIndex)",
@@ -2648,6 +4204,10 @@
 		{
 			"trigger": "C_MountJournal.GetMountAllCreatureDisplayInfoByID\t(mountID)",
 			"contents": "C_MountJournal.GetMountAllCreatureDisplayInfoByID(${1:mountID})$0",
+		},
+		{
+			"trigger": "C_MountJournal.GetMountEquipmentUnlockLevel\t()",
+			"contents": "C_MountJournal.GetMountEquipmentUnlockLevel()$0",
 		},
 		{
 			"trigger": "C_MountJournal.GetMountFromItem\t(itemID)",
@@ -2684,6 +4244,18 @@
 		{
 			"trigger": "C_MountJournal.GetNumMountsNeedingFanfare\t()",
 			"contents": "C_MountJournal.GetNumMountsNeedingFanfare()$0",
+		},
+		{
+			"trigger": "C_MountJournal.IsItemMountEquipment\t(itemLocation)",
+			"contents": "C_MountJournal.IsItemMountEquipment(${1:itemLocation})$0",
+		},
+		{
+			"trigger": "C_MountJournal.IsMountEquipmentApplied\t()",
+			"contents": "C_MountJournal.IsMountEquipmentApplied()$0",
+		},
+		{
+			"trigger": "C_MountJournal.IsMountEquipmentUnlocked\t()",
+			"contents": "C_MountJournal.IsMountEquipmentUnlocked()$0",
 		},
 		{
 			"trigger": "C_MountJournal.IsSourceChecked\t(filterIndex)",
@@ -2786,6 +4358,110 @@
 			"contents": "C_MythicPlus.RequestRewards()$0",
 		},
 		{
+			"trigger": "C_NamePlate.GetNamePlateEnemyClickThrough\t(...)",
+			"contents": "C_NamePlate.GetNamePlateEnemyClickThrough(${1:...})$0",
+		},
+		{
+			"trigger": "C_NamePlate.GetNamePlateEnemyPreferredClickInsets\t(...)",
+			"contents": "C_NamePlate.GetNamePlateEnemyPreferredClickInsets(${1:...})$0",
+		},
+		{
+			"trigger": "C_NamePlate.GetNamePlateEnemySize\t(...)",
+			"contents": "C_NamePlate.GetNamePlateEnemySize(${1:...})$0",
+		},
+		{
+			"trigger": "C_NamePlate.GetNamePlateForUnit\t(...)",
+			"contents": "C_NamePlate.GetNamePlateForUnit(${1:...})$0",
+		},
+		{
+			"trigger": "C_NamePlate.GetNamePlateFriendlyClickThrough\t(...)",
+			"contents": "C_NamePlate.GetNamePlateFriendlyClickThrough(${1:...})$0",
+		},
+		{
+			"trigger": "C_NamePlate.GetNamePlateFriendlyPreferredClickInsets\t(...)",
+			"contents": "C_NamePlate.GetNamePlateFriendlyPreferredClickInsets(${1:...})$0",
+		},
+		{
+			"trigger": "C_NamePlate.GetNamePlateFriendlySize\t(...)",
+			"contents": "C_NamePlate.GetNamePlateFriendlySize(${1:...})$0",
+		},
+		{
+			"trigger": "C_NamePlate.GetNamePlates\t(...)",
+			"contents": "C_NamePlate.GetNamePlates(${1:...})$0",
+		},
+		{
+			"trigger": "C_NamePlate.GetNamePlateSelfClickThrough\t(...)",
+			"contents": "C_NamePlate.GetNamePlateSelfClickThrough(${1:...})$0",
+		},
+		{
+			"trigger": "C_NamePlate.GetNamePlateSelfPreferredClickInsets\t(...)",
+			"contents": "C_NamePlate.GetNamePlateSelfPreferredClickInsets(${1:...})$0",
+		},
+		{
+			"trigger": "C_NamePlate.GetNamePlateSelfSize\t(...)",
+			"contents": "C_NamePlate.GetNamePlateSelfSize(${1:...})$0",
+		},
+		{
+			"trigger": "C_NamePlate.GetNumNamePlateMotionTypes\t(...)",
+			"contents": "C_NamePlate.GetNumNamePlateMotionTypes(${1:...})$0",
+		},
+		{
+			"trigger": "C_NamePlate.GetTargetClampingInsets\t(...)",
+			"contents": "C_NamePlate.GetTargetClampingInsets(${1:...})$0",
+		},
+		{
+			"trigger": "C_NamePlate.SetNamePlateEnemyClickThrough\t(...)",
+			"contents": "C_NamePlate.SetNamePlateEnemyClickThrough(${1:...})$0",
+		},
+		{
+			"trigger": "C_NamePlate.SetNamePlateEnemyPreferredClickInsets\t(...)",
+			"contents": "C_NamePlate.SetNamePlateEnemyPreferredClickInsets(${1:...})$0",
+		},
+		{
+			"trigger": "C_NamePlate.SetNamePlateEnemySize\t(...)",
+			"contents": "C_NamePlate.SetNamePlateEnemySize(${1:...})$0",
+		},
+		{
+			"trigger": "C_NamePlate.SetNamePlateFriendlyClickThrough\t(...)",
+			"contents": "C_NamePlate.SetNamePlateFriendlyClickThrough(${1:...})$0",
+		},
+		{
+			"trigger": "C_NamePlate.SetNamePlateFriendlyPreferredClickInsets\t(...)",
+			"contents": "C_NamePlate.SetNamePlateFriendlyPreferredClickInsets(${1:...})$0",
+		},
+		{
+			"trigger": "C_NamePlate.SetNamePlateFriendlySize\t(...)",
+			"contents": "C_NamePlate.SetNamePlateFriendlySize(${1:...})$0",
+		},
+		{
+			"trigger": "C_NamePlate.SetNamePlateSelfClickThrough\t(...)",
+			"contents": "C_NamePlate.SetNamePlateSelfClickThrough(${1:...})$0",
+		},
+		{
+			"trigger": "C_NamePlate.SetNamePlateSelfPreferredClickInsets\t(...)",
+			"contents": "C_NamePlate.SetNamePlateSelfPreferredClickInsets(${1:...})$0",
+		},
+		{
+			"trigger": "C_NamePlate.SetNamePlateSelfSize\t(...)",
+			"contents": "C_NamePlate.SetNamePlateSelfSize(${1:...})$0",
+		},
+		{
+			"trigger": "C_NamePlate.SetTargetClampingInsets\t(...)",
+			"contents": "C_NamePlate.SetTargetClampingInsets(${1:...})$0",
+		},
+		{
+			"trigger": "C_NewItems.ClearAll\t(...)",
+			"contents": "C_NewItems.ClearAll(${1:...})$0",
+		},
+		{
+			"trigger": "C_NewItems.IsNewItem\t(...)",
+			"contents": "C_NewItems.IsNewItem(${1:...})$0",
+		},
+		{
+			"trigger": "C_NewItems.RemoveNewItem\t(...)",
+			"contents": "C_NewItems.RemoveNewItem(${1:...})$0",
+		},
+		{
 			"trigger": "C_PaperDollInfo.GetArmorEffectiveness\t(armor, attackerLevel)",
 			"contents": "C_PaperDollInfo.GetArmorEffectiveness(${1:armor}, ${2:attackerLevel})$0",
 		},
@@ -2796,6 +4472,10 @@
 		{
 			"trigger": "C_PaperDollInfo.GetInspectAzeriteItemEmpoweredChoices\t(\"unit\", equipmentSlotIndex)",
 			"contents": "C_PaperDollInfo.GetInspectAzeriteItemEmpoweredChoices(\"${1:unit}\", ${2:equipmentSlotIndex})$0",
+		},
+		{
+			"trigger": "C_PaperDollInfo.GetInspectItemLevel\t(\"unit\")",
+			"contents": "C_PaperDollInfo.GetInspectItemLevel(\"${1:unit}\")$0",
 		},
 		{
 			"trigger": "C_PaperDollInfo.GetMinItemLevel\t()",
@@ -2830,8 +4510,256 @@
 			"contents": "C_PartyPose.GetPartyPoseInfoByMapID(${1:mapID})$0",
 		},
 		{
+			"trigger": "C_PetBattles.AcceptPVPDuel\t(...)",
+			"contents": "C_PetBattles.AcceptPVPDuel(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.AcceptQueuedPVPMatch\t(...)",
+			"contents": "C_PetBattles.AcceptQueuedPVPMatch(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.CanAcceptQueuedPVPMatch\t(...)",
+			"contents": "C_PetBattles.CanAcceptQueuedPVPMatch(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.CanActivePetSwapOut\t(...)",
+			"contents": "C_PetBattles.CanActivePetSwapOut(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.CancelPVPDuel\t(...)",
+			"contents": "C_PetBattles.CancelPVPDuel(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.CanPetSwapIn\t(...)",
+			"contents": "C_PetBattles.CanPetSwapIn(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.ChangePet\t(...)",
+			"contents": "C_PetBattles.ChangePet(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.DeclineQueuedPVPMatch\t(...)",
+			"contents": "C_PetBattles.DeclineQueuedPVPMatch(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.ForfeitGame\t(...)",
+			"contents": "C_PetBattles.ForfeitGame(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.GetAbilityEffectInfo\t(...)",
+			"contents": "C_PetBattles.GetAbilityEffectInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.GetAbilityInfo\t(...)",
+			"contents": "C_PetBattles.GetAbilityInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.GetAbilityInfoByID\t(...)",
+			"contents": "C_PetBattles.GetAbilityInfoByID(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.GetAbilityProcTurnIndex\t(...)",
+			"contents": "C_PetBattles.GetAbilityProcTurnIndex(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.GetAbilityState\t(...)",
+			"contents": "C_PetBattles.GetAbilityState(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.GetAbilityStateModification\t(...)",
+			"contents": "C_PetBattles.GetAbilityStateModification(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.GetActivePet\t(...)",
+			"contents": "C_PetBattles.GetActivePet(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.GetAllEffectNames\t(...)",
+			"contents": "C_PetBattles.GetAllEffectNames(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.GetAllStates\t(...)",
+			"contents": "C_PetBattles.GetAllStates(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.GetAttackModifier\t(...)",
+			"contents": "C_PetBattles.GetAttackModifier(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.GetAuraInfo\t(...)",
+			"contents": "C_PetBattles.GetAuraInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.GetBattleState\t(...)",
+			"contents": "C_PetBattles.GetBattleState(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.GetBreedQuality\t(...)",
+			"contents": "C_PetBattles.GetBreedQuality(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.GetDisplayID\t(...)",
+			"contents": "C_PetBattles.GetDisplayID(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.GetForfeitPenalty\t(...)",
+			"contents": "C_PetBattles.GetForfeitPenalty(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.GetHealth\t(...)",
+			"contents": "C_PetBattles.GetHealth(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.GetIcon\t(...)",
+			"contents": "C_PetBattles.GetIcon(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.GetLevel\t(...)",
+			"contents": "C_PetBattles.GetLevel(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.GetMaxHealth\t(...)",
+			"contents": "C_PetBattles.GetMaxHealth(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.GetName\t(...)",
+			"contents": "C_PetBattles.GetName(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.GetNumAuras\t(...)",
+			"contents": "C_PetBattles.GetNumAuras(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.GetNumPets\t(...)",
+			"contents": "C_PetBattles.GetNumPets(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.GetPetSpeciesID\t(...)",
+			"contents": "C_PetBattles.GetPetSpeciesID(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.GetPetType\t(...)",
+			"contents": "C_PetBattles.GetPetType(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.GetPlayerTrapAbility\t(...)",
+			"contents": "C_PetBattles.GetPlayerTrapAbility(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.GetPower\t(...)",
+			"contents": "C_PetBattles.GetPower(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.GetPVPMatchmakingInfo\t(...)",
+			"contents": "C_PetBattles.GetPVPMatchmakingInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.GetSelectedAction\t(...)",
+			"contents": "C_PetBattles.GetSelectedAction(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.GetSpeed\t(...)",
+			"contents": "C_PetBattles.GetSpeed(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.GetStateValue\t(...)",
+			"contents": "C_PetBattles.GetStateValue(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.GetTurnTimeInfo\t(...)",
+			"contents": "C_PetBattles.GetTurnTimeInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.GetXP\t(...)",
+			"contents": "C_PetBattles.GetXP(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.IsInBattle\t(...)",
+			"contents": "C_PetBattles.IsInBattle(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.IsPlayerNPC\t(...)",
+			"contents": "C_PetBattles.IsPlayerNPC(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.IsSkipAvailable\t(...)",
+			"contents": "C_PetBattles.IsSkipAvailable(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.IsTrapAvailable\t(...)",
+			"contents": "C_PetBattles.IsTrapAvailable(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.IsWaitingOnOpponent\t(...)",
+			"contents": "C_PetBattles.IsWaitingOnOpponent(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.IsWildBattle\t(...)",
+			"contents": "C_PetBattles.IsWildBattle(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.SetPendingReportBattlePetTarget\t(...)",
+			"contents": "C_PetBattles.SetPendingReportBattlePetTarget(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.SetPendingReportTargetFromUnit\t(...)",
+			"contents": "C_PetBattles.SetPendingReportTargetFromUnit(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.ShouldShowPetSelect\t(...)",
+			"contents": "C_PetBattles.ShouldShowPetSelect(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.SkipTurn\t(...)",
+			"contents": "C_PetBattles.SkipTurn(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.StartPVPDuel\t(...)",
+			"contents": "C_PetBattles.StartPVPDuel(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.StartPVPMatchmaking\t(...)",
+			"contents": "C_PetBattles.StartPVPMatchmaking(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.StopPVPMatchmaking\t(...)",
+			"contents": "C_PetBattles.StopPVPMatchmaking(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.UseAbility\t(...)",
+			"contents": "C_PetBattles.UseAbility(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetBattles.UseTrap\t(...)",
+			"contents": "C_PetBattles.UseTrap(${1:...})$0",
+		},
+		{
 			"trigger": "C_PetInfo.GetPetTamersForMap\t(uiMapID)",
 			"contents": "C_PetInfo.GetPetTamersForMap(${1:uiMapID})$0",
+		},
+		{
+			"trigger": "C_PetJournal.CagePetByID\t(...)",
+			"contents": "C_PetJournal.CagePetByID(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.ClearFanfare\t(...)",
+			"contents": "C_PetJournal.ClearFanfare(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.ClearRecentFanfares\t(...)",
+			"contents": "C_PetJournal.ClearRecentFanfares(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.ClearSearchFilter\t(...)",
+			"contents": "C_PetJournal.ClearSearchFilter(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.FindPetIDByName\t(...)",
+			"contents": "C_PetJournal.FindPetIDByName(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.GetBattlePetLink\t(...)",
+			"contents": "C_PetJournal.GetBattlePetLink(${1:...})$0",
 		},
 		{
 			"trigger": "C_PetJournal.GetDisplayIDByIndex\t(speciesID, index)",
@@ -2842,12 +4770,236 @@
 			"contents": "C_PetJournal.GetDisplayProbabilityByIndex(${1:speciesID}, ${2:index})$0",
 		},
 		{
+			"trigger": "C_PetJournal.GetNumCollectedInfo\t(...)",
+			"contents": "C_PetJournal.GetNumCollectedInfo(${1:...})$0",
+		},
+		{
 			"trigger": "C_PetJournal.GetNumDisplays\t(speciesID)",
 			"contents": "C_PetJournal.GetNumDisplays(${1:speciesID})$0",
 		},
 		{
+			"trigger": "C_PetJournal.GetNumMaxPets\t(...)",
+			"contents": "C_PetJournal.GetNumMaxPets(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.GetNumPets\t(...)",
+			"contents": "C_PetJournal.GetNumPets(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.GetNumPetsNeedingFanfare\t(...)",
+			"contents": "C_PetJournal.GetNumPetsNeedingFanfare(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.GetNumPetSources\t(...)",
+			"contents": "C_PetJournal.GetNumPetSources(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.GetNumPetTypes\t(...)",
+			"contents": "C_PetJournal.GetNumPetTypes(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.GetOwnedBattlePetString\t(...)",
+			"contents": "C_PetJournal.GetOwnedBattlePetString(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.GetPetAbilityInfo\t(...)",
+			"contents": "C_PetJournal.GetPetAbilityInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.GetPetAbilityList\t(...)",
+			"contents": "C_PetJournal.GetPetAbilityList(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.GetPetCooldownByGUID\t(...)",
+			"contents": "C_PetJournal.GetPetCooldownByGUID(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.GetPetInfoByIndex\t(...)",
+			"contents": "C_PetJournal.GetPetInfoByIndex(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.GetPetInfoByItemID\t(...)",
+			"contents": "C_PetJournal.GetPetInfoByItemID(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.GetPetInfoByPetID\t(...)",
+			"contents": "C_PetJournal.GetPetInfoByPetID(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.GetPetInfoBySpeciesID\t(...)",
+			"contents": "C_PetJournal.GetPetInfoBySpeciesID(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.GetPetLoadOutInfo\t(...)",
+			"contents": "C_PetJournal.GetPetLoadOutInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.GetPetModelSceneInfoBySpeciesID\t(...)",
+			"contents": "C_PetJournal.GetPetModelSceneInfoBySpeciesID(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.GetPetSortParameter\t(...)",
+			"contents": "C_PetJournal.GetPetSortParameter(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.GetPetStats\t(...)",
+			"contents": "C_PetJournal.GetPetStats(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.GetPetSummonInfo\t(\"battlePetGUID\")",
+			"contents": "C_PetJournal.GetPetSummonInfo(\"${1:battlePetGUID}\")$0",
+		},
+		{
+			"trigger": "C_PetJournal.GetPetTeamAverageLevel\t(...)",
+			"contents": "C_PetJournal.GetPetTeamAverageLevel(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.GetSummonBattlePetCooldown\t(...)",
+			"contents": "C_PetJournal.GetSummonBattlePetCooldown(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.GetSummonedPetGUID\t(...)",
+			"contents": "C_PetJournal.GetSummonedPetGUID(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.GetSummonRandomFavoritePetGUID\t(...)",
+			"contents": "C_PetJournal.GetSummonRandomFavoritePetGUID(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.IsFilterChecked\t(...)",
+			"contents": "C_PetJournal.IsFilterChecked(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.IsFindBattleEnabled\t(...)",
+			"contents": "C_PetJournal.IsFindBattleEnabled(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.IsJournalReadOnly\t(...)",
+			"contents": "C_PetJournal.IsJournalReadOnly(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.IsJournalUnlocked\t(...)",
+			"contents": "C_PetJournal.IsJournalUnlocked(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.IsPetSourceChecked\t(...)",
+			"contents": "C_PetJournal.IsPetSourceChecked(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.IsPetTypeChecked\t(...)",
+			"contents": "C_PetJournal.IsPetTypeChecked(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.PetCanBeReleased\t(...)",
+			"contents": "C_PetJournal.PetCanBeReleased(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.PetIsCapturable\t(...)",
+			"contents": "C_PetJournal.PetIsCapturable(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.PetIsFavorite\t(...)",
+			"contents": "C_PetJournal.PetIsFavorite(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.PetIsHurt\t(...)",
+			"contents": "C_PetJournal.PetIsHurt(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.PetIsLockedForConvert\t(...)",
+			"contents": "C_PetJournal.PetIsLockedForConvert(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.PetIsRevoked\t(...)",
+			"contents": "C_PetJournal.PetIsRevoked(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.PetIsSlotted\t(...)",
+			"contents": "C_PetJournal.PetIsSlotted(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.PetIsSummonable\t(\"battlePetGUID\")",
+			"contents": "C_PetJournal.PetIsSummonable(\"${1:battlePetGUID}\")$0",
+		},
+		{
+			"trigger": "C_PetJournal.PetIsTradable\t(...)",
+			"contents": "C_PetJournal.PetIsTradable(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.PetIsUsable\t(...)",
+			"contents": "C_PetJournal.PetIsUsable(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.PetNeedsFanfare\t(...)",
+			"contents": "C_PetJournal.PetNeedsFanfare(${1:...})$0",
+		},
+		{
 			"trigger": "C_PetJournal.PetUsesRandomDisplay\t(speciesID)",
 			"contents": "C_PetJournal.PetUsesRandomDisplay(${1:speciesID})$0",
+		},
+		{
+			"trigger": "C_PetJournal.PickupPet\t(...)",
+			"contents": "C_PetJournal.PickupPet(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.PickupSummonRandomPet\t(...)",
+			"contents": "C_PetJournal.PickupSummonRandomPet(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.ReleasePetByID\t(...)",
+			"contents": "C_PetJournal.ReleasePetByID(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.SetAbility\t(...)",
+			"contents": "C_PetJournal.SetAbility(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.SetAllPetSourcesChecked\t(...)",
+			"contents": "C_PetJournal.SetAllPetSourcesChecked(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.SetAllPetTypesChecked\t(...)",
+			"contents": "C_PetJournal.SetAllPetTypesChecked(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.SetCustomName\t(...)",
+			"contents": "C_PetJournal.SetCustomName(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.SetFavorite\t(...)",
+			"contents": "C_PetJournal.SetFavorite(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.SetFilterChecked\t(...)",
+			"contents": "C_PetJournal.SetFilterChecked(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.SetPetLoadOutInfo\t(...)",
+			"contents": "C_PetJournal.SetPetLoadOutInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.SetPetSortParameter\t(...)",
+			"contents": "C_PetJournal.SetPetSortParameter(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.SetPetSourceChecked\t(...)",
+			"contents": "C_PetJournal.SetPetSourceChecked(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.SetPetTypeFilter\t(...)",
+			"contents": "C_PetJournal.SetPetTypeFilter(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.SetSearchFilter\t(...)",
+			"contents": "C_PetJournal.SetSearchFilter(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.SummonPetByGUID\t(...)",
+			"contents": "C_PetJournal.SummonPetByGUID(${1:...})$0",
+		},
+		{
+			"trigger": "C_PetJournal.SummonRandomPet\t(...)",
+			"contents": "C_PetJournal.SummonRandomPet(${1:...})$0",
 		},
 		{
 			"trigger": "C_PlayerInfo.GetClass\t(playerLocation)",
@@ -2878,6 +5030,38 @@
 			"contents": "C_PlayerInfo.UnitIsSameServer(${1:playerLocation})$0",
 		},
 		{
+			"trigger": "C_ProductChoice.GetChoices\t(...)",
+			"contents": "C_ProductChoice.GetChoices(${1:...})$0",
+		},
+		{
+			"trigger": "C_ProductChoice.GetNumSuppressed\t(...)",
+			"contents": "C_ProductChoice.GetNumSuppressed(${1:...})$0",
+		},
+		{
+			"trigger": "C_ProductChoice.GetProducts\t(...)",
+			"contents": "C_ProductChoice.GetProducts(${1:...})$0",
+		},
+		{
+			"trigger": "C_ProductChoice.MakeSelection\t(...)",
+			"contents": "C_ProductChoice.MakeSelection(${1:...})$0",
+		},
+		{
+			"trigger": "C_PrototypeDialog.EnsureRemoved\t(...)",
+			"contents": "C_PrototypeDialog.EnsureRemoved(${1:...})$0",
+		},
+		{
+			"trigger": "C_PrototypeDialog.SelectOption\t(...)",
+			"contents": "C_PrototypeDialog.SelectOption(${1:...})$0",
+		},
+		{
+			"trigger": "C_PvP.CanDisplayDeaths\t()",
+			"contents": "C_PvP.CanDisplayDeaths()$0",
+		},
+		{
+			"trigger": "C_PvP.CanDisplayHonorableKills\t()",
+			"contents": "C_PvP.CanDisplayHonorableKills()$0",
+		},
+		{
 			"trigger": "C_PvP.CanToggleWarMode\t(toggle)",
 			"contents": "C_PvP.CanToggleWarMode(${1:toggle})$0",
 		},
@@ -2886,8 +5070,28 @@
 			"contents": "C_PvP.CanToggleWarModeInArea()$0",
 		},
 		{
+			"trigger": "C_PvP.DoesMatchOutcomeAffectRating\t()",
+			"contents": "C_PvP.DoesMatchOutcomeAffectRating()$0",
+		},
+		{
 			"trigger": "C_PvP.GetActiveBrawlInfo\t()",
 			"contents": "C_PvP.GetActiveBrawlInfo()$0",
+		},
+		{
+			"trigger": "C_PvP.GetActiveMatchBracket\t()",
+			"contents": "C_PvP.GetActiveMatchBracket()$0",
+		},
+		{
+			"trigger": "C_PvP.GetActiveMatchDuration\t()",
+			"contents": "C_PvP.GetActiveMatchDuration()$0",
+		},
+		{
+			"trigger": "C_PvP.GetActiveMatchState\t()",
+			"contents": "C_PvP.GetActiveMatchState()$0",
+		},
+		{
+			"trigger": "C_PvP.GetActiveMatchWinner\t()",
+			"contents": "C_PvP.GetActiveMatchWinner()$0",
 		},
 		{
 			"trigger": "C_PvP.GetArenaCrowdControlInfo\t(\"playerToken\")",
@@ -2906,6 +5110,10 @@
 			"contents": "C_PvP.GetAvailableBrawlInfo()$0",
 		},
 		{
+			"trigger": "C_PvP.GetBrawlInfo\t(...)",
+			"contents": "C_PvP.GetBrawlInfo(${1:...})$0",
+		},
+		{
 			"trigger": "C_PvP.GetBrawlRewards\t(brawlType)",
 			"contents": "C_PvP.GetBrawlRewards(${1:brawlType})$0",
 		},
@@ -2918,12 +5126,32 @@
 			"contents": "C_PvP.GetHonorRewardInfo(${1:honorLevel})$0",
 		},
 		{
+			"trigger": "C_PvP.GetMatchPVPStatColumn\t(pvpStatID)",
+			"contents": "C_PvP.GetMatchPVPStatColumn(${1:pvpStatID})$0",
+		},
+		{
+			"trigger": "C_PvP.GetMatchPVPStatIDs\t()",
+			"contents": "C_PvP.GetMatchPVPStatIDs()$0",
+		},
+		{
 			"trigger": "C_PvP.GetNextHonorLevelForReward\t(honorLevel)",
 			"contents": "C_PvP.GetNextHonorLevelForReward(${1:honorLevel})$0",
 		},
 		{
 			"trigger": "C_PvP.GetOutdoorPvPWaitTime\t(uiMapID)",
 			"contents": "C_PvP.GetOutdoorPvPWaitTime(${1:uiMapID})$0",
+		},
+		{
+			"trigger": "C_PvP.GetPostMatchCurrencyRewards\t()",
+			"contents": "C_PvP.GetPostMatchCurrencyRewards()$0",
+		},
+		{
+			"trigger": "C_PvP.GetPostMatchItemRewards\t()",
+			"contents": "C_PvP.GetPostMatchItemRewards()$0",
+		},
+		{
+			"trigger": "C_PvP.GetPVPActiveMatchPersonalRatedInfo\t()",
+			"contents": "C_PvP.GetPVPActiveMatchPersonalRatedInfo()$0",
 		},
 		{
 			"trigger": "C_PvP.GetPvpTierInfo\t(tierID)",
@@ -2954,12 +5182,24 @@
 			"contents": "C_PvP.GetRewardItemLevelsByTierEnum(${1:pvpTierEnum})$0",
 		},
 		{
+			"trigger": "C_PvP.GetScoreInfo\t(offsetIndex)",
+			"contents": "C_PvP.GetScoreInfo(${1:offsetIndex})$0",
+		},
+		{
+			"trigger": "C_PvP.GetScoreInfoByPlayerGuid\t(\"guid\")",
+			"contents": "C_PvP.GetScoreInfoByPlayerGuid(\"${1:guid}\")$0",
+		},
+		{
 			"trigger": "C_PvP.GetSeasonBestInfo\t()",
 			"contents": "C_PvP.GetSeasonBestInfo()$0",
 		},
 		{
 			"trigger": "C_PvP.GetSkirmishInfo\t(pvpBracket)",
 			"contents": "C_PvP.GetSkirmishInfo(${1:pvpBracket})$0",
+		},
+		{
+			"trigger": "C_PvP.GetTeamInfo\t(factionIndex)",
+			"contents": "C_PvP.GetTeamInfo(${1:factionIndex})$0",
 		},
 		{
 			"trigger": "C_PvP.GetWarModeRewardBonus\t()",
@@ -2982,6 +5222,18 @@
 			"contents": "C_PvP.IsActiveBattlefield()$0",
 		},
 		{
+			"trigger": "C_PvP.IsActiveMatchRegistered\t()",
+			"contents": "C_PvP.IsActiveMatchRegistered()$0",
+		},
+		{
+			"trigger": "C_PvP.IsArena\t()",
+			"contents": "C_PvP.IsArena()$0",
+		},
+		{
+			"trigger": "C_PvP.IsBattleground\t()",
+			"contents": "C_PvP.IsBattleground()$0",
+		},
+		{
 			"trigger": "C_PvP.IsBattlegroundEnlistmentBonusActive\t()",
 			"contents": "C_PvP.IsBattlegroundEnlistmentBonusActive()$0",
 		},
@@ -2990,8 +5242,28 @@
 			"contents": "C_PvP.IsInBrawl()$0",
 		},
 		{
+			"trigger": "C_PvP.IsMatchConsideredArena\t()",
+			"contents": "C_PvP.IsMatchConsideredArena()$0",
+		},
+		{
+			"trigger": "C_PvP.IsMatchFactional\t()",
+			"contents": "C_PvP.IsMatchFactional()$0",
+		},
+		{
 			"trigger": "C_PvP.IsPVPMap\t()",
 			"contents": "C_PvP.IsPVPMap()$0",
+		},
+		{
+			"trigger": "C_PvP.IsRatedArena\t()",
+			"contents": "C_PvP.IsRatedArena()$0",
+		},
+		{
+			"trigger": "C_PvP.IsRatedBattleground\t()",
+			"contents": "C_PvP.IsRatedBattleground()$0",
+		},
+		{
+			"trigger": "C_PvP.IsRatedMap\t()",
+			"contents": "C_PvP.IsRatedMap()$0",
 		},
 		{
 			"trigger": "C_PvP.IsWarModeActive\t()",
@@ -3058,6 +5330,18 @@
 			"contents": "C_QuestLog.GetMaxNumQuestsCanAccept()$0",
 		},
 		{
+			"trigger": "C_QuestLog.GetNextWaypoint\t(questID)",
+			"contents": "C_QuestLog.GetNextWaypoint(${1:questID})$0",
+		},
+		{
+			"trigger": "C_QuestLog.GetNextWaypointForMap\t(questID, uiMapID)",
+			"contents": "C_QuestLog.GetNextWaypointForMap(${1:questID}, ${2:uiMapID})$0",
+		},
+		{
+			"trigger": "C_QuestLog.GetNextWaypointText\t(questID)",
+			"contents": "C_QuestLog.GetNextWaypointText(${1:questID})$0",
+		},
+		{
 			"trigger": "C_QuestLog.GetNumQuestObjectives\t(questID)",
 			"contents": "C_QuestLog.GetNumQuestObjectives(${1:questID})$0",
 		},
@@ -3098,12 +5382,24 @@
 			"contents": "C_QuestLog.ShouldShowQuestRewards(${1:questID})$0",
 		},
 		{
-			"trigger": "C_ReportPlayer.CanReportPlayer\t(playerLocation)",
-			"contents": "C_ReportPlayer.CanReportPlayer(${1:playerLocation})$0",
+			"trigger": "C_RaidLocks.IsEncounterComplete\t(mapID, encounterID, [difficultyID])",
+			"contents": "C_RaidLocks.IsEncounterComplete(${1:mapID}, ${2:encounterID}, [${3:difficultyID}])$0",
 		},
 		{
-			"trigger": "C_ReportPlayer.ReportPlayer\t(\"complaintType\", [playerLocation, [\"comment\"]])",
-			"contents": "C_ReportPlayer.ReportPlayer(\"${1:complaintType}\", [${2:playerLocation}, [\"${3:comment}\"]])$0",
+			"trigger": "C_RecruitAFriend.CheckEmailEnabled\t(...)",
+			"contents": "C_RecruitAFriend.CheckEmailEnabled(${1:...})$0",
+		},
+		{
+			"trigger": "C_RecruitAFriend.GetRecruitInfo\t(...)",
+			"contents": "C_RecruitAFriend.GetRecruitInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_RecruitAFriend.IsSendingEnabled\t(...)",
+			"contents": "C_RecruitAFriend.IsSendingEnabled(${1:...})$0",
+		},
+		{
+			"trigger": "C_RecruitAFriend.SendRecruit\t(...)",
+			"contents": "C_RecruitAFriend.SendRecruit(${1:...})$0",
 		},
 		{
 			"trigger": "C_ReportSystem.CanReportPlayer\t(playerLocation)",
@@ -3112,6 +5408,10 @@
 		{
 			"trigger": "C_ReportSystem.InitiateReportPlayer\t(\"complaintType\", [playerLocation])",
 			"contents": "C_ReportSystem.InitiateReportPlayer(\"${1:complaintType}\", [${2:playerLocation}])$0",
+		},
+		{
+			"trigger": "C_ReportSystem.OpenReportPlayerDialog\t(\"reportType\", \"playerName\", [playerLocation])",
+			"contents": "C_ReportSystem.OpenReportPlayerDialog(\"${1:reportType}\", \"${2:playerName}\", [${3:playerLocation}])$0",
 		},
 		{
 			"trigger": "C_ReportSystem.ReportServerLag\t()",
@@ -3148,6 +5448,54 @@
 		{
 			"trigger": "C_ResearchInfo.GetDigSitesForMap\t(uiMapID)",
 			"contents": "C_ResearchInfo.GetDigSitesForMap(${1:uiMapID})$0",
+		},
+		{
+			"trigger": "C_Scenario.GetBonusStepRewardQuestID\t(...)",
+			"contents": "C_Scenario.GetBonusStepRewardQuestID(${1:...})$0",
+		},
+		{
+			"trigger": "C_Scenario.GetBonusSteps\t(...)",
+			"contents": "C_Scenario.GetBonusSteps(${1:...})$0",
+		},
+		{
+			"trigger": "C_Scenario.GetCriteriaInfo\t(...)",
+			"contents": "C_Scenario.GetCriteriaInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_Scenario.GetCriteriaInfoByStep\t(...)",
+			"contents": "C_Scenario.GetCriteriaInfoByStep(${1:...})$0",
+		},
+		{
+			"trigger": "C_Scenario.GetInfo\t(...)",
+			"contents": "C_Scenario.GetInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_Scenario.GetProvingGroundsInfo\t(...)",
+			"contents": "C_Scenario.GetProvingGroundsInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_Scenario.GetScenarioIconInfo\t(...)",
+			"contents": "C_Scenario.GetScenarioIconInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_Scenario.GetStepInfo\t(...)",
+			"contents": "C_Scenario.GetStepInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_Scenario.GetSupersededObjectives\t(...)",
+			"contents": "C_Scenario.GetSupersededObjectives(${1:...})$0",
+		},
+		{
+			"trigger": "C_Scenario.IsInScenario\t(...)",
+			"contents": "C_Scenario.IsInScenario(${1:...})$0",
+		},
+		{
+			"trigger": "C_Scenario.ShouldShowCriteria\t(...)",
+			"contents": "C_Scenario.ShouldShowCriteria(${1:...})$0",
+		},
+		{
+			"trigger": "C_Scenario.TreatScenarioAsDungeon\t(...)",
+			"contents": "C_Scenario.TreatScenarioAsDungeon(${1:...})$0",
 		},
 		{
 			"trigger": "C_ScrappingMachineUI.CloseScrappingMachine\t()",
@@ -3198,6 +5546,46 @@
 			"contents": "C_ScrappingMachineUI.ValidateScrappingList()$0",
 		},
 		{
+			"trigger": "C_SharedCharacterServices.GetLastSeenCharacterUpgradePopup\t(...)",
+			"contents": "C_SharedCharacterServices.GetLastSeenCharacterUpgradePopup(${1:...})$0",
+		},
+		{
+			"trigger": "C_SharedCharacterServices.GetLastSeenExpansionTrialPopup\t(...)",
+			"contents": "C_SharedCharacterServices.GetLastSeenExpansionTrialPopup(${1:...})$0",
+		},
+		{
+			"trigger": "C_SharedCharacterServices.GetUpgradeDistributions\t(...)",
+			"contents": "C_SharedCharacterServices.GetUpgradeDistributions(${1:...})$0",
+		},
+		{
+			"trigger": "C_SharedCharacterServices.HasFreePromotionalUpgrade\t(...)",
+			"contents": "C_SharedCharacterServices.HasFreePromotionalUpgrade(${1:...})$0",
+		},
+		{
+			"trigger": "C_SharedCharacterServices.HasSeenFreePromotionalUpgradePopup\t(...)",
+			"contents": "C_SharedCharacterServices.HasSeenFreePromotionalUpgradePopup(${1:...})$0",
+		},
+		{
+			"trigger": "C_SharedCharacterServices.IsPurchaseIDPendingUpgrade\t(...)",
+			"contents": "C_SharedCharacterServices.IsPurchaseIDPendingUpgrade(${1:...})$0",
+		},
+		{
+			"trigger": "C_SharedCharacterServices.QueryClassTrialBoostResult\t(...)",
+			"contents": "C_SharedCharacterServices.QueryClassTrialBoostResult(${1:...})$0",
+		},
+		{
+			"trigger": "C_SharedCharacterServices.SetCharacterUpgradePopupSeen\t(...)",
+			"contents": "C_SharedCharacterServices.SetCharacterUpgradePopupSeen(${1:...})$0",
+		},
+		{
+			"trigger": "C_SharedCharacterServices.SetExpansionTrialPopupSeen\t(...)",
+			"contents": "C_SharedCharacterServices.SetExpansionTrialPopupSeen(${1:...})$0",
+		},
+		{
+			"trigger": "C_SharedCharacterServices.SetPromotionalPopupSeen\t(...)",
+			"contents": "C_SharedCharacterServices.SetPromotionalPopupSeen(${1:...})$0",
+		},
+		{
 			"trigger": "C_Social.GetLastAchievement\t()",
 			"contents": "C_Social.GetLastAchievement()$0",
 		},
@@ -3206,12 +5594,24 @@
 			"contents": "C_Social.GetLastItem()$0",
 		},
 		{
+			"trigger": "C_Social.GetLastScreenshot\t(...)",
+			"contents": "C_Social.GetLastScreenshot(${1:...})$0",
+		},
+		{
 			"trigger": "C_Social.GetLastScreenshotIndex\t()",
 			"contents": "C_Social.GetLastScreenshotIndex()$0",
 		},
 		{
 			"trigger": "C_Social.GetMaxTweetLength\t()",
 			"contents": "C_Social.GetMaxTweetLength()$0",
+		},
+		{
+			"trigger": "C_Social.GetNumCharactersPerMedia\t(...)",
+			"contents": "C_Social.GetNumCharactersPerMedia(${1:...})$0",
+		},
+		{
+			"trigger": "C_Social.GetScreenshotByIndex\t(...)",
+			"contents": "C_Social.GetScreenshotByIndex(${1:...})$0",
 		},
 		{
 			"trigger": "C_Social.GetScreenshotInfoByIndex\t(index)",
@@ -3224,6 +5624,14 @@
 		{
 			"trigger": "C_Social.IsSocialEnabled\t()",
 			"contents": "C_Social.IsSocialEnabled()$0",
+		},
+		{
+			"trigger": "C_Social.RegisterSocialBrowser\t(...)",
+			"contents": "C_Social.RegisterSocialBrowser(${1:...})$0",
+		},
+		{
+			"trigger": "C_Social.SetTextureToScreenshot\t(...)",
+			"contents": "C_Social.SetTextureToScreenshot(${1:...})$0",
 		},
 		{
 			"trigger": "C_Social.TwitterCheckStatus\t()",
@@ -3242,8 +5650,20 @@
 			"contents": "C_Social.TwitterGetMSTillCanPost()$0",
 		},
 		{
+			"trigger": "C_Social.TwitterPostAchievement\t(...)",
+			"contents": "C_Social.TwitterPostAchievement(${1:...})$0",
+		},
+		{
+			"trigger": "C_Social.TwitterPostItem\t(...)",
+			"contents": "C_Social.TwitterPostItem(${1:...})$0",
+		},
+		{
 			"trigger": "C_Social.TwitterPostMessage\t(\"message\")",
 			"contents": "C_Social.TwitterPostMessage(\"${1:message}\")$0",
+		},
+		{
+			"trigger": "C_Social.TwitterPostScreenshot\t(...)",
+			"contents": "C_Social.TwitterPostScreenshot(${1:...})$0",
 		},
 		{
 			"trigger": "C_SocialQueue.GetAllGroups\t(allowNonJoinable, allowNonQueuedGroups)",
@@ -3330,6 +5750,10 @@
 			"contents": "C_Spell.RequestLoadSpellData(${1:spellID})$0",
 		},
 		{
+			"trigger": "C_SpellBook.ContainsAnyDisenchantSpell\t()",
+			"contents": "C_SpellBook.ContainsAnyDisenchantSpell()$0",
+		},
+		{
 			"trigger": "C_StorePublic.DoesGroupHavePurchaseableProducts\t(groupID)",
 			"contents": "C_StorePublic.DoesGroupHavePurchaseableProducts(${1:groupID})$0",
 		},
@@ -3368,6 +5792,30 @@
 		{
 			"trigger": "C_SummonInfo.IsSummonSkippingStartExperience\t()",
 			"contents": "C_SummonInfo.IsSummonSkippingStartExperience()$0",
+		},
+		{
+			"trigger": "C_TalkingHead.GetConversationsDeferred\t(...)",
+			"contents": "C_TalkingHead.GetConversationsDeferred(${1:...})$0",
+		},
+		{
+			"trigger": "C_TalkingHead.GetCurrentLineAnimationInfo\t(...)",
+			"contents": "C_TalkingHead.GetCurrentLineAnimationInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_TalkingHead.GetCurrentLineInfo\t(...)",
+			"contents": "C_TalkingHead.GetCurrentLineInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_TalkingHead.IgnoreCurrentTalkingHead\t(...)",
+			"contents": "C_TalkingHead.IgnoreCurrentTalkingHead(${1:...})$0",
+		},
+		{
+			"trigger": "C_TalkingHead.IsCurrentTalkingHeadIgnored\t(...)",
+			"contents": "C_TalkingHead.IsCurrentTalkingHeadIgnored(${1:...})$0",
+		},
+		{
+			"trigger": "C_TalkingHead.SetConversationsDeferred\t(...)",
+			"contents": "C_TalkingHead.SetConversationsDeferred(${1:...})$0",
 		},
 		{
 			"trigger": "C_TaskQuest.DoesMapShowTaskQuestObjectives\t(uiMapID)",
@@ -3430,6 +5878,122 @@
 			"contents": "C_Texture.GetAtlasInfo(\"${1:atlas}\")$0",
 		},
 		{
+			"trigger": "C_Timer.After\t(...)",
+			"contents": "C_Timer.After(${1:...})$0",
+		},
+		{
+			"trigger": "C_Timer.NewTicker\t(...)",
+			"contents": "C_Timer.NewTicker(${1:...})$0",
+		},
+		{
+			"trigger": "C_Timer.NewTimer\t(...)",
+			"contents": "C_Timer.NewTimer(${1:...})$0",
+		},
+		{
+			"trigger": "C_ToyBox.ForceToyRefilter\t(...)",
+			"contents": "C_ToyBox.ForceToyRefilter(${1:...})$0",
+		},
+		{
+			"trigger": "C_ToyBox.GetCollectedShown\t(...)",
+			"contents": "C_ToyBox.GetCollectedShown(${1:...})$0",
+		},
+		{
+			"trigger": "C_ToyBox.GetIsFavorite\t(...)",
+			"contents": "C_ToyBox.GetIsFavorite(${1:...})$0",
+		},
+		{
+			"trigger": "C_ToyBox.GetNumFilteredToys\t(...)",
+			"contents": "C_ToyBox.GetNumFilteredToys(${1:...})$0",
+		},
+		{
+			"trigger": "C_ToyBox.GetNumLearnedDisplayedToys\t(...)",
+			"contents": "C_ToyBox.GetNumLearnedDisplayedToys(${1:...})$0",
+		},
+		{
+			"trigger": "C_ToyBox.GetNumTotalDisplayedToys\t(...)",
+			"contents": "C_ToyBox.GetNumTotalDisplayedToys(${1:...})$0",
+		},
+		{
+			"trigger": "C_ToyBox.GetNumToys\t(...)",
+			"contents": "C_ToyBox.GetNumToys(${1:...})$0",
+		},
+		{
+			"trigger": "C_ToyBox.GetToyFromIndex\t(...)",
+			"contents": "C_ToyBox.GetToyFromIndex(${1:...})$0",
+		},
+		{
+			"trigger": "C_ToyBox.GetToyInfo\t(...)",
+			"contents": "C_ToyBox.GetToyInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_ToyBox.GetToyLink\t(...)",
+			"contents": "C_ToyBox.GetToyLink(${1:...})$0",
+		},
+		{
+			"trigger": "C_ToyBox.GetUncollectedShown\t(...)",
+			"contents": "C_ToyBox.GetUncollectedShown(${1:...})$0",
+		},
+		{
+			"trigger": "C_ToyBox.GetUnusableShown\t(...)",
+			"contents": "C_ToyBox.GetUnusableShown(${1:...})$0",
+		},
+		{
+			"trigger": "C_ToyBox.HasFavorites\t(...)",
+			"contents": "C_ToyBox.HasFavorites(${1:...})$0",
+		},
+		{
+			"trigger": "C_ToyBox.IsExpansionTypeFilterChecked\t(...)",
+			"contents": "C_ToyBox.IsExpansionTypeFilterChecked(${1:...})$0",
+		},
+		{
+			"trigger": "C_ToyBox.IsSourceTypeFilterChecked\t(...)",
+			"contents": "C_ToyBox.IsSourceTypeFilterChecked(${1:...})$0",
+		},
+		{
+			"trigger": "C_ToyBox.IsToyUsable\t(...)",
+			"contents": "C_ToyBox.IsToyUsable(${1:...})$0",
+		},
+		{
+			"trigger": "C_ToyBox.PickupToyBoxItem\t(...)",
+			"contents": "C_ToyBox.PickupToyBoxItem(${1:...})$0",
+		},
+		{
+			"trigger": "C_ToyBox.SetAllExpansionTypeFilters\t(...)",
+			"contents": "C_ToyBox.SetAllExpansionTypeFilters(${1:...})$0",
+		},
+		{
+			"trigger": "C_ToyBox.SetAllSourceTypeFilters\t(...)",
+			"contents": "C_ToyBox.SetAllSourceTypeFilters(${1:...})$0",
+		},
+		{
+			"trigger": "C_ToyBox.SetCollectedShown\t(...)",
+			"contents": "C_ToyBox.SetCollectedShown(${1:...})$0",
+		},
+		{
+			"trigger": "C_ToyBox.SetExpansionTypeFilter\t(...)",
+			"contents": "C_ToyBox.SetExpansionTypeFilter(${1:...})$0",
+		},
+		{
+			"trigger": "C_ToyBox.SetFilterString\t(...)",
+			"contents": "C_ToyBox.SetFilterString(${1:...})$0",
+		},
+		{
+			"trigger": "C_ToyBox.SetIsFavorite\t(...)",
+			"contents": "C_ToyBox.SetIsFavorite(${1:...})$0",
+		},
+		{
+			"trigger": "C_ToyBox.SetSourceTypeFilter\t(...)",
+			"contents": "C_ToyBox.SetSourceTypeFilter(${1:...})$0",
+		},
+		{
+			"trigger": "C_ToyBox.SetUncollectedShown\t(...)",
+			"contents": "C_ToyBox.SetUncollectedShown(${1:...})$0",
+		},
+		{
+			"trigger": "C_ToyBox.SetUnusableShown\t(...)",
+			"contents": "C_ToyBox.SetUnusableShown(${1:...})$0",
+		},
+		{
 			"trigger": "C_ToyBoxInfo.ClearFanfare\t(itemID)",
 			"contents": "C_ToyBoxInfo.ClearFanfare(${1:itemID})$0",
 		},
@@ -3438,8 +6002,168 @@
 			"contents": "C_ToyBoxInfo.NeedsFanfare(${1:itemID})$0",
 		},
 		{
+			"trigger": "C_TradeSkillUI.AnyRecipeCategoriesFiltered\t(...)",
+			"contents": "C_TradeSkillUI.AnyRecipeCategoriesFiltered(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.AreAnyInventorySlotsFiltered\t(...)",
+			"contents": "C_TradeSkillUI.AreAnyInventorySlotsFiltered(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.CanObliterateCursorItem\t(...)",
+			"contents": "C_TradeSkillUI.CanObliterateCursorItem(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.CanTradeSkillListLink\t(...)",
+			"contents": "C_TradeSkillUI.CanTradeSkillListLink(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.ClearInventorySlotFilter\t(...)",
+			"contents": "C_TradeSkillUI.ClearInventorySlotFilter(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.ClearPendingObliterateItem\t(...)",
+			"contents": "C_TradeSkillUI.ClearPendingObliterateItem(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.ClearRecipeCategoryFilter\t(...)",
+			"contents": "C_TradeSkillUI.ClearRecipeCategoryFilter(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.ClearRecipeSourceTypeFilter\t(...)",
+			"contents": "C_TradeSkillUI.ClearRecipeSourceTypeFilter(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.CloseObliterumForge\t(...)",
+			"contents": "C_TradeSkillUI.CloseObliterumForge(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.CloseTradeSkill\t(...)",
+			"contents": "C_TradeSkillUI.CloseTradeSkill(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.CraftRecipe\t(...)",
+			"contents": "C_TradeSkillUI.CraftRecipe(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.DropPendingObliterateItemFromCursor\t(...)",
+			"contents": "C_TradeSkillUI.DropPendingObliterateItemFromCursor(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.GetAllFilterableInventorySlots\t(...)",
+			"contents": "C_TradeSkillUI.GetAllFilterableInventorySlots(${1:...})$0",
+		},
+		{
 			"trigger": "C_TradeSkillUI.GetAllProfessionTradeSkillLines\t()",
 			"contents": "C_TradeSkillUI.GetAllProfessionTradeSkillLines()$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.GetAllRecipeIDs\t(...)",
+			"contents": "C_TradeSkillUI.GetAllRecipeIDs(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.GetCategories\t(...)",
+			"contents": "C_TradeSkillUI.GetCategories(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.GetCategoryInfo\t(...)",
+			"contents": "C_TradeSkillUI.GetCategoryInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.GetFilterableInventorySlots\t(...)",
+			"contents": "C_TradeSkillUI.GetFilterableInventorySlots(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.GetFilteredRecipeIDs\t(...)",
+			"contents": "C_TradeSkillUI.GetFilteredRecipeIDs(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.GetObliterateSpellID\t(...)",
+			"contents": "C_TradeSkillUI.GetObliterateSpellID(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.GetOnlyShowLearnedRecipes\t(...)",
+			"contents": "C_TradeSkillUI.GetOnlyShowLearnedRecipes(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.GetOnlyShowMakeableRecipes\t(...)",
+			"contents": "C_TradeSkillUI.GetOnlyShowMakeableRecipes(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.GetOnlyShowSkillUpRecipes\t(...)",
+			"contents": "C_TradeSkillUI.GetOnlyShowSkillUpRecipes(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.GetOnlyShowUnlearnedRecipes\t(...)",
+			"contents": "C_TradeSkillUI.GetOnlyShowUnlearnedRecipes(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.GetPendingObliterateItemID\t(...)",
+			"contents": "C_TradeSkillUI.GetPendingObliterateItemID(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.GetPendingObliterateItemLink\t(...)",
+			"contents": "C_TradeSkillUI.GetPendingObliterateItemLink(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.GetRecipeCooldown\t(...)",
+			"contents": "C_TradeSkillUI.GetRecipeCooldown(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.GetRecipeDescription\t(...)",
+			"contents": "C_TradeSkillUI.GetRecipeDescription(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.GetRecipeInfo\t(...)",
+			"contents": "C_TradeSkillUI.GetRecipeInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.GetRecipeItemLevelFilter\t(...)",
+			"contents": "C_TradeSkillUI.GetRecipeItemLevelFilter(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.GetRecipeItemLink\t(...)",
+			"contents": "C_TradeSkillUI.GetRecipeItemLink(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.GetRecipeItemNameFilter\t(...)",
+			"contents": "C_TradeSkillUI.GetRecipeItemNameFilter(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.GetRecipeLink\t(...)",
+			"contents": "C_TradeSkillUI.GetRecipeLink(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.GetRecipeNumItemsProduced\t(...)",
+			"contents": "C_TradeSkillUI.GetRecipeNumItemsProduced(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.GetRecipeNumReagents\t(...)",
+			"contents": "C_TradeSkillUI.GetRecipeNumReagents(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.GetRecipeReagentInfo\t(...)",
+			"contents": "C_TradeSkillUI.GetRecipeReagentInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.GetRecipeReagentItemLink\t(...)",
+			"contents": "C_TradeSkillUI.GetRecipeReagentItemLink(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.GetRecipeRepeatCount\t(...)",
+			"contents": "C_TradeSkillUI.GetRecipeRepeatCount(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.GetRecipeSourceText\t(...)",
+			"contents": "C_TradeSkillUI.GetRecipeSourceText(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.GetRecipeTools\t(...)",
+			"contents": "C_TradeSkillUI.GetRecipeTools(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.GetSubCategories\t(...)",
+			"contents": "C_TradeSkillUI.GetSubCategories(${1:...})$0",
 		},
 		{
 			"trigger": "C_TradeSkillUI.GetTradeSkillDisplayName\t(skillLineID)",
@@ -3450,24 +6174,320 @@
 			"contents": "C_TradeSkillUI.GetTradeSkillLine()$0",
 		},
 		{
+			"trigger": "C_TradeSkillUI.GetTradeSkillLineForRecipe\t(...)",
+			"contents": "C_TradeSkillUI.GetTradeSkillLineForRecipe(${1:...})$0",
+		},
+		{
 			"trigger": "C_TradeSkillUI.GetTradeSkillLineInfoByID\t(skillLineID)",
 			"contents": "C_TradeSkillUI.GetTradeSkillLineInfoByID(${1:skillLineID})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.GetTradeSkillListLink\t(...)",
+			"contents": "C_TradeSkillUI.GetTradeSkillListLink(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.GetTradeSkillTexture\t(...)",
+			"contents": "C_TradeSkillUI.GetTradeSkillTexture(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.IsAnyRecipeFromSource\t(...)",
+			"contents": "C_TradeSkillUI.IsAnyRecipeFromSource(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.IsDataSourceChanging\t(...)",
+			"contents": "C_TradeSkillUI.IsDataSourceChanging(${1:...})$0",
 		},
 		{
 			"trigger": "C_TradeSkillUI.IsEmptySkillLineCategory\t(categoryID)",
 			"contents": "C_TradeSkillUI.IsEmptySkillLineCategory(${1:categoryID})$0",
 		},
 		{
+			"trigger": "C_TradeSkillUI.IsInventorySlotFiltered\t(...)",
+			"contents": "C_TradeSkillUI.IsInventorySlotFiltered(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.IsNPCCrafting\t(...)",
+			"contents": "C_TradeSkillUI.IsNPCCrafting(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.IsRecipeCategoryFiltered\t(...)",
+			"contents": "C_TradeSkillUI.IsRecipeCategoryFiltered(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.IsRecipeFavorite\t(...)",
+			"contents": "C_TradeSkillUI.IsRecipeFavorite(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.IsRecipeRepeating\t(...)",
+			"contents": "C_TradeSkillUI.IsRecipeRepeating(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.IsRecipeSearchInProgress\t(...)",
+			"contents": "C_TradeSkillUI.IsRecipeSearchInProgress(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.IsRecipeSourceTypeFiltered\t(...)",
+			"contents": "C_TradeSkillUI.IsRecipeSourceTypeFiltered(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.IsTradeSkillGuild\t(...)",
+			"contents": "C_TradeSkillUI.IsTradeSkillGuild(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.IsTradeSkillGuildMember\t(...)",
+			"contents": "C_TradeSkillUI.IsTradeSkillGuildMember(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.IsTradeSkillLinked\t(...)",
+			"contents": "C_TradeSkillUI.IsTradeSkillLinked(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.IsTradeSkillReady\t(...)",
+			"contents": "C_TradeSkillUI.IsTradeSkillReady(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.ObliterateItem\t(...)",
+			"contents": "C_TradeSkillUI.ObliterateItem(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.OpenTradeSkill\t(...)",
+			"contents": "C_TradeSkillUI.OpenTradeSkill(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.SetInventorySlotFilter\t(...)",
+			"contents": "C_TradeSkillUI.SetInventorySlotFilter(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.SetOnlyShowLearnedRecipes\t(...)",
+			"contents": "C_TradeSkillUI.SetOnlyShowLearnedRecipes(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.SetOnlyShowMakeableRecipes\t(...)",
+			"contents": "C_TradeSkillUI.SetOnlyShowMakeableRecipes(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.SetOnlyShowSkillUpRecipes\t(...)",
+			"contents": "C_TradeSkillUI.SetOnlyShowSkillUpRecipes(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.SetOnlyShowUnlearnedRecipes\t(...)",
+			"contents": "C_TradeSkillUI.SetOnlyShowUnlearnedRecipes(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.SetRecipeCategoryFilter\t(...)",
+			"contents": "C_TradeSkillUI.SetRecipeCategoryFilter(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.SetRecipeFavorite\t(...)",
+			"contents": "C_TradeSkillUI.SetRecipeFavorite(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.SetRecipeItemLevelFilter\t(...)",
+			"contents": "C_TradeSkillUI.SetRecipeItemLevelFilter(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.SetRecipeItemNameFilter\t(...)",
+			"contents": "C_TradeSkillUI.SetRecipeItemNameFilter(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.SetRecipeRepeatCount\t(...)",
+			"contents": "C_TradeSkillUI.SetRecipeRepeatCount(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.SetRecipeSourceTypeFilter\t(...)",
+			"contents": "C_TradeSkillUI.SetRecipeSourceTypeFilter(${1:...})$0",
+		},
+		{
+			"trigger": "C_TradeSkillUI.StopRecipeRepeat\t(...)",
+			"contents": "C_TradeSkillUI.StopRecipeRepeat(${1:...})$0",
+		},
+		{
+			"trigger": "C_Transmog.ApplyAllPending\t(...)",
+			"contents": "C_Transmog.ApplyAllPending(${1:...})$0",
+		},
+		{
+			"trigger": "C_Transmog.CanTransmogItemWithItem\t(...)",
+			"contents": "C_Transmog.CanTransmogItemWithItem(${1:...})$0",
+		},
+		{
+			"trigger": "C_Transmog.ClearPending\t(...)",
+			"contents": "C_Transmog.ClearPending(${1:...})$0",
+		},
+		{
+			"trigger": "C_Transmog.Close\t(...)",
+			"contents": "C_Transmog.Close(${1:...})$0",
+		},
+		{
+			"trigger": "C_Transmog.GetApplyWarnings\t(...)",
+			"contents": "C_Transmog.GetApplyWarnings(${1:...})$0",
+		},
+		{
+			"trigger": "C_Transmog.GetCost\t(...)",
+			"contents": "C_Transmog.GetCost(${1:...})$0",
+		},
+		{
 			"trigger": "C_Transmog.GetCreatureDisplayIDForSource\t(itemModifiedAppearanceID)",
 			"contents": "C_Transmog.GetCreatureDisplayIDForSource(${1:itemModifiedAppearanceID})$0",
+		},
+		{
+			"trigger": "C_Transmog.GetItemInfo\t(...)",
+			"contents": "C_Transmog.GetItemInfo(${1:...})$0",
 		},
 		{
 			"trigger": "C_Transmog.GetSlotForInventoryType\t(inventoryType)",
 			"contents": "C_Transmog.GetSlotForInventoryType(${1:inventoryType})$0",
 		},
 		{
+			"trigger": "C_Transmog.GetSlotInfo\t(...)",
+			"contents": "C_Transmog.GetSlotInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_Transmog.GetSlotUseError\t(...)",
+			"contents": "C_Transmog.GetSlotUseError(${1:...})$0",
+		},
+		{
+			"trigger": "C_Transmog.GetSlotVisualInfo\t(...)",
+			"contents": "C_Transmog.GetSlotVisualInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_Transmog.LoadOutfit\t(...)",
+			"contents": "C_Transmog.LoadOutfit(${1:...})$0",
+		},
+		{
+			"trigger": "C_Transmog.LoadSources\t(...)",
+			"contents": "C_Transmog.LoadSources(${1:...})$0",
+		},
+		{
+			"trigger": "C_Transmog.SetPending\t(...)",
+			"contents": "C_Transmog.SetPending(${1:...})$0",
+		},
+		{
+			"trigger": "C_Transmog.ValidateAllPending\t(...)",
+			"contents": "C_Transmog.ValidateAllPending(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.CanSetFavoriteInCategory\t(...)",
+			"contents": "C_TransmogCollection.CanSetFavoriteInCategory(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.ClearNewAppearance\t(...)",
+			"contents": "C_TransmogCollection.ClearNewAppearance(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.ClearSearch\t(...)",
+			"contents": "C_TransmogCollection.ClearSearch(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.DeleteOutfit\t(...)",
+			"contents": "C_TransmogCollection.DeleteOutfit(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.EndSearch\t(...)",
+			"contents": "C_TransmogCollection.EndSearch(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.GetAllAppearanceSources\t(...)",
+			"contents": "C_TransmogCollection.GetAllAppearanceSources(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.GetAppearanceCameraID\t(...)",
+			"contents": "C_TransmogCollection.GetAppearanceCameraID(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.GetAppearanceCameraIDBySource\t(...)",
+			"contents": "C_TransmogCollection.GetAppearanceCameraIDBySource(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.GetAppearanceInfoBySource\t(...)",
+			"contents": "C_TransmogCollection.GetAppearanceInfoBySource(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.GetAppearanceSourceDrops\t(...)",
+			"contents": "C_TransmogCollection.GetAppearanceSourceDrops(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.GetAppearanceSourceInfo\t(...)",
+			"contents": "C_TransmogCollection.GetAppearanceSourceInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.GetAppearanceSourceInfoForTransmog\t(...)",
+			"contents": "C_TransmogCollection.GetAppearanceSourceInfoForTransmog(${1:...})$0",
+		},
+		{
 			"trigger": "C_TransmogCollection.GetAppearanceSources\t(appearanceID)",
 			"contents": "C_TransmogCollection.GetAppearanceSources(${1:appearanceID})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.GetCategoryAppearances\t(...)",
+			"contents": "C_TransmogCollection.GetCategoryAppearances(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.GetCategoryCollectedCount\t(...)",
+			"contents": "C_TransmogCollection.GetCategoryCollectedCount(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.GetCategoryInfo\t(...)",
+			"contents": "C_TransmogCollection.GetCategoryInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.GetCategoryTotal\t(...)",
+			"contents": "C_TransmogCollection.GetCategoryTotal(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.GetCollectedShown\t(...)",
+			"contents": "C_TransmogCollection.GetCollectedShown(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.GetIllusionFallbackWeaponSource\t(...)",
+			"contents": "C_TransmogCollection.GetIllusionFallbackWeaponSource(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.GetIllusions\t(...)",
+			"contents": "C_TransmogCollection.GetIllusions(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.GetIllusionSourceInfo\t(...)",
+			"contents": "C_TransmogCollection.GetIllusionSourceInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.GetInspectSources\t(...)",
+			"contents": "C_TransmogCollection.GetInspectSources(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.GetIsAppearanceFavorite\t(...)",
+			"contents": "C_TransmogCollection.GetIsAppearanceFavorite(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.GetItemInfo\t(...)",
+			"contents": "C_TransmogCollection.GetItemInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.GetLatestAppearance\t(...)",
+			"contents": "C_TransmogCollection.GetLatestAppearance(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.GetNumMaxOutfits\t(...)",
+			"contents": "C_TransmogCollection.GetNumMaxOutfits(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.GetNumTransmogSources\t(...)",
+			"contents": "C_TransmogCollection.GetNumTransmogSources(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.GetOutfitName\t(...)",
+			"contents": "C_TransmogCollection.GetOutfitName(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.GetOutfits\t(...)",
+			"contents": "C_TransmogCollection.GetOutfits(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.GetOutfitSources\t(...)",
+			"contents": "C_TransmogCollection.GetOutfitSources(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.GetShowMissingSourceInItemTooltips\t(...)",
+			"contents": "C_TransmogCollection.GetShowMissingSourceInItemTooltips(${1:...})$0",
 		},
 		{
 			"trigger": "C_TransmogCollection.GetSourceIcon\t(itemModifiedAppearanceID)",
@@ -3476,6 +6496,106 @@
 		{
 			"trigger": "C_TransmogCollection.GetSourceInfo\t(sourceID)",
 			"contents": "C_TransmogCollection.GetSourceInfo(${1:sourceID})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.GetSourceRequiredHoliday\t(...)",
+			"contents": "C_TransmogCollection.GetSourceRequiredHoliday(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.GetUncollectedShown\t(...)",
+			"contents": "C_TransmogCollection.GetUncollectedShown(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.HasFavorites\t(...)",
+			"contents": "C_TransmogCollection.HasFavorites(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.IsCategoryValidForItem\t(...)",
+			"contents": "C_TransmogCollection.IsCategoryValidForItem(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.IsNewAppearance\t(...)",
+			"contents": "C_TransmogCollection.IsNewAppearance(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.IsSearchDBLoading\t(...)",
+			"contents": "C_TransmogCollection.IsSearchDBLoading(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.IsSearchInProgress\t(...)",
+			"contents": "C_TransmogCollection.IsSearchInProgress(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.IsSourceTypeFilterChecked\t(...)",
+			"contents": "C_TransmogCollection.IsSourceTypeFilterChecked(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.ModifyOutfit\t(...)",
+			"contents": "C_TransmogCollection.ModifyOutfit(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.PlayerCanCollectSource\t(...)",
+			"contents": "C_TransmogCollection.PlayerCanCollectSource(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.PlayerHasTransmog\t(...)",
+			"contents": "C_TransmogCollection.PlayerHasTransmog(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.PlayerHasTransmogItemModifiedAppearance\t(...)",
+			"contents": "C_TransmogCollection.PlayerHasTransmogItemModifiedAppearance(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.PlayerKnowsSource\t(...)",
+			"contents": "C_TransmogCollection.PlayerKnowsSource(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.SaveOutfit\t(...)",
+			"contents": "C_TransmogCollection.SaveOutfit(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.SearchProgress\t(...)",
+			"contents": "C_TransmogCollection.SearchProgress(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.SearchSize\t(...)",
+			"contents": "C_TransmogCollection.SearchSize(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.SetAllSourceTypeFilters\t(...)",
+			"contents": "C_TransmogCollection.SetAllSourceTypeFilters(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.SetCollectedShown\t(...)",
+			"contents": "C_TransmogCollection.SetCollectedShown(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.SetIsAppearanceFavorite\t(...)",
+			"contents": "C_TransmogCollection.SetIsAppearanceFavorite(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.SetSearch\t(...)",
+			"contents": "C_TransmogCollection.SetSearch(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.SetSearchAndFilterCategory\t(...)",
+			"contents": "C_TransmogCollection.SetSearchAndFilterCategory(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.SetShowMissingSourceInItemTooltips\t(...)",
+			"contents": "C_TransmogCollection.SetShowMissingSourceInItemTooltips(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.SetSourceTypeFilter\t(...)",
+			"contents": "C_TransmogCollection.SetSourceTypeFilter(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.SetUncollectedShown\t(...)",
+			"contents": "C_TransmogCollection.SetUncollectedShown(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogCollection.UpdateUsableAppearances\t(...)",
+			"contents": "C_TransmogCollection.UpdateUsableAppearances(${1:...})$0",
 		},
 		{
 			"trigger": "C_TransmogSets.ClearLatestSource\t()",
@@ -3490,8 +6610,20 @@
 			"contents": "C_TransmogSets.ClearSetNewSourcesForSlot(${1:transmogSetID}, ${2:slot})$0",
 		},
 		{
+			"trigger": "C_TransmogSets.GetAllSets\t(...)",
+			"contents": "C_TransmogSets.GetAllSets(${1:...})$0",
+		},
+		{
 			"trigger": "C_TransmogSets.GetAllSourceIDs\t(transmogSetID)",
 			"contents": "C_TransmogSets.GetAllSourceIDs(${1:transmogSetID})$0",
+		},
+		{
+			"trigger": "C_TransmogSets.GetBaseSetID\t(...)",
+			"contents": "C_TransmogSets.GetBaseSetID(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogSets.GetBaseSets\t(...)",
+			"contents": "C_TransmogSets.GetBaseSets(${1:...})$0",
 		},
 		{
 			"trigger": "C_TransmogSets.GetBaseSetsCounts\t()",
@@ -3514,6 +6646,10 @@
 			"contents": "C_TransmogSets.GetLatestSource()$0",
 		},
 		{
+			"trigger": "C_TransmogSets.GetSetInfo\t(...)",
+			"contents": "C_TransmogSets.GetSetInfo(${1:...})$0",
+		},
+		{
 			"trigger": "C_TransmogSets.GetSetNewSources\t(transmogSetID)",
 			"contents": "C_TransmogSets.GetSetNewSources(${1:transmogSetID})$0",
 		},
@@ -3522,12 +6658,24 @@
 			"contents": "C_TransmogSets.GetSetsContainingSourceID(${1:sourceID})$0",
 		},
 		{
+			"trigger": "C_TransmogSets.GetSetSources\t(...)",
+			"contents": "C_TransmogSets.GetSetSources(${1:...})$0",
+		},
+		{
 			"trigger": "C_TransmogSets.GetSourceIDsForSlot\t(transmogSetID, slot)",
 			"contents": "C_TransmogSets.GetSourceIDsForSlot(${1:transmogSetID}, ${2:slot})$0",
 		},
 		{
 			"trigger": "C_TransmogSets.GetSourcesForSlot\t(transmogSetID, slot)",
 			"contents": "C_TransmogSets.GetSourcesForSlot(${1:transmogSetID}, ${2:slot})$0",
+		},
+		{
+			"trigger": "C_TransmogSets.GetUsableSets\t(...)",
+			"contents": "C_TransmogSets.GetUsableSets(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogSets.GetVariantSets\t(...)",
+			"contents": "C_TransmogSets.GetVariantSets(${1:...})$0",
 		},
 		{
 			"trigger": "C_TransmogSets.HasUsableSets\t()",
@@ -3540,6 +6688,14 @@
 		{
 			"trigger": "C_TransmogSets.IsNewSource\t(sourceID)",
 			"contents": "C_TransmogSets.IsNewSource(${1:sourceID})$0",
+		},
+		{
+			"trigger": "C_TransmogSets.IsSetCollected\t(...)",
+			"contents": "C_TransmogSets.IsSetCollected(${1:...})$0",
+		},
+		{
+			"trigger": "C_TransmogSets.IsSetUsable\t(...)",
+			"contents": "C_TransmogSets.IsSetUsable(${1:...})$0",
 		},
 		{
 			"trigger": "C_TransmogSets.SetBaseSetsFilter\t(index, isChecked)",
@@ -3556,6 +6712,42 @@
 		{
 			"trigger": "C_TransmogSets.SetIsFavorite\t(transmogSetID, isFavorite)",
 			"contents": "C_TransmogSets.SetIsFavorite(${1:transmogSetID}, ${2:isFavorite})$0",
+		},
+		{
+			"trigger": "C_Trophy.MonumentChangeAppearanceToTrophyID\t(...)",
+			"contents": "C_Trophy.MonumentChangeAppearanceToTrophyID(${1:...})$0",
+		},
+		{
+			"trigger": "C_Trophy.MonumentCloseMonumentUI\t(...)",
+			"contents": "C_Trophy.MonumentCloseMonumentUI(${1:...})$0",
+		},
+		{
+			"trigger": "C_Trophy.MonumentGetCount\t(...)",
+			"contents": "C_Trophy.MonumentGetCount(${1:...})$0",
+		},
+		{
+			"trigger": "C_Trophy.MonumentGetSelectedTrophyID\t(...)",
+			"contents": "C_Trophy.MonumentGetSelectedTrophyID(${1:...})$0",
+		},
+		{
+			"trigger": "C_Trophy.MonumentGetTrophyInfoByIndex\t(...)",
+			"contents": "C_Trophy.MonumentGetTrophyInfoByIndex(${1:...})$0",
+		},
+		{
+			"trigger": "C_Trophy.MonumentLoadList\t(...)",
+			"contents": "C_Trophy.MonumentLoadList(${1:...})$0",
+		},
+		{
+			"trigger": "C_Trophy.MonumentLoadSelectedTrophyID\t(...)",
+			"contents": "C_Trophy.MonumentLoadSelectedTrophyID(${1:...})$0",
+		},
+		{
+			"trigger": "C_Trophy.MonumentRevertAppearanceToSaved\t(...)",
+			"contents": "C_Trophy.MonumentRevertAppearanceToSaved(${1:...})$0",
+		},
+		{
+			"trigger": "C_Trophy.MonumentSaveSelection\t(...)",
+			"contents": "C_Trophy.MonumentSaveSelection(${1:...})$0",
 		},
 		{
 			"trigger": "C_UI.Reload\t()",
@@ -3606,6 +6798,10 @@
 			"contents": "C_UIWidgetManager.GetIconTextAndCurrenciesWidgetVisualizationInfo(${1:widgetID})$0",
 		},
 		{
+			"trigger": "C_UIWidgetManager.GetObjectiveTrackerWidgetSetID\t()",
+			"contents": "C_UIWidgetManager.GetObjectiveTrackerWidgetSetID()$0",
+		},
+		{
 			"trigger": "C_UIWidgetManager.GetScenarioHeaderCurrenciesAndBackgroundWidgetVisualizationInfo\t(widgetID)",
 			"contents": "C_UIWidgetManager.GetScenarioHeaderCurrenciesAndBackgroundWidgetVisualizationInfo(${1:widgetID})$0",
 		},
@@ -3622,8 +6818,12 @@
 			"contents": "C_UIWidgetManager.GetStatusBarWidgetVisualizationInfo(${1:widgetID})$0",
 		},
 		{
-			"trigger": "C_UIWidgetManager.GetTextureWithStateVisualizationInfo\t(widgetID)",
-			"contents": "C_UIWidgetManager.GetTextureWithStateVisualizationInfo(${1:widgetID})$0",
+			"trigger": "C_UIWidgetManager.GetTextureAndTextRowVisualizationInfo\t(widgetID)",
+			"contents": "C_UIWidgetManager.GetTextureAndTextRowVisualizationInfo(${1:widgetID})$0",
+		},
+		{
+			"trigger": "C_UIWidgetManager.GetTextureAndTextVisualizationInfo\t(widgetID)",
+			"contents": "C_UIWidgetManager.GetTextureAndTextVisualizationInfo(${1:widgetID})$0",
 		},
 		{
 			"trigger": "C_UIWidgetManager.GetTextWithStateWidgetVisualizationInfo\t(widgetID)",
@@ -3632,6 +6832,10 @@
 		{
 			"trigger": "C_UIWidgetManager.GetTopCenterWidgetSetID\t()",
 			"contents": "C_UIWidgetManager.GetTopCenterWidgetSetID()$0",
+		},
+		{
+			"trigger": "C_UIWidgetManager.GetZoneControlVisualizationInfo\t(widgetID)",
+			"contents": "C_UIWidgetManager.GetZoneControlVisualizationInfo(${1:widgetID})$0",
 		},
 		{
 			"trigger": "C_VideoOptions.GetGxAdapterInfo\t()",
@@ -3726,6 +6930,10 @@
 			"contents": "C_VoiceChat.GetLocalPlayerMemberID(${1:channelID})$0",
 		},
 		{
+			"trigger": "C_VoiceChat.GetMasterVolumeScale\t()",
+			"contents": "C_VoiceChat.GetMasterVolumeScale()$0",
+		},
+		{
 			"trigger": "C_VoiceChat.GetMemberGUID\t(memberID, channelID)",
 			"contents": "C_VoiceChat.GetMemberGUID(${1:memberID}, ${2:channelID})$0",
 		},
@@ -3764,6 +6972,10 @@
 		{
 			"trigger": "C_VoiceChat.GetVADSensitivity\t()",
 			"contents": "C_VoiceChat.GetVADSensitivity()$0",
+		},
+		{
+			"trigger": "C_VoiceChat.IsChannelJoinPending\t(channelType, [\"clubId\", [\"streamId\"]])",
+			"contents": "C_VoiceChat.IsChannelJoinPending(${1:channelType}, [\"${2:clubId}\", [\"${3:streamId}\"]])$0",
 		},
 		{
 			"trigger": "C_VoiceChat.IsDeafened\t()",
@@ -3834,8 +7046,8 @@
 			"contents": "C_VoiceChat.RequestJoinAndActivateCommunityStreamChannel(\"${1:clubId}\", \"${2:streamId}\")$0",
 		},
 		{
-			"trigger": "C_VoiceChat.RequestJoinChannelByChannelType\t(channelType)",
-			"contents": "C_VoiceChat.RequestJoinChannelByChannelType(${1:channelType})$0",
+			"trigger": "C_VoiceChat.RequestJoinChannelByChannelType\t(channelType, [autoActivate])",
+			"contents": "C_VoiceChat.RequestJoinChannelByChannelType(${1:channelType}, [${2:autoActivate}])$0",
 		},
 		{
 			"trigger": "C_VoiceChat.SetCommunicationMode\t(communicationMode)",
@@ -3852,6 +7064,10 @@
 		{
 			"trigger": "C_VoiceChat.SetInputVolume\t(volume)",
 			"contents": "C_VoiceChat.SetInputVolume(${1:volume})$0",
+		},
+		{
+			"trigger": "C_VoiceChat.SetMasterVolumeScale\t(scale)",
+			"contents": "C_VoiceChat.SetMasterVolumeScale(${1:scale})$0",
 		},
 		{
 			"trigger": "C_VoiceChat.SetMemberMuted\t(playerLocation, muted)",
@@ -3900,6 +7116,66 @@
 		{
 			"trigger": "C_VoiceChat.ToggleMuted\t()",
 			"contents": "C_VoiceChat.ToggleMuted()$0",
+		},
+		{
+			"trigger": "C_Widget.IsFrameWidget\t(...)",
+			"contents": "C_Widget.IsFrameWidget(${1:...})$0",
+		},
+		{
+			"trigger": "C_Widget.IsRenderableWidget\t(...)",
+			"contents": "C_Widget.IsRenderableWidget(${1:...})$0",
+		},
+		{
+			"trigger": "C_Widget.IsWidget\t(...)",
+			"contents": "C_Widget.IsWidget(${1:...})$0",
+		},
+		{
+			"trigger": "C_WowTokenPublic.BuyToken\t(...)",
+			"contents": "C_WowTokenPublic.BuyToken(${1:...})$0",
+		},
+		{
+			"trigger": "C_WowTokenPublic.GetCommerceSystemStatus\t(...)",
+			"contents": "C_WowTokenPublic.GetCommerceSystemStatus(${1:...})$0",
+		},
+		{
+			"trigger": "C_WowTokenPublic.GetCurrentMarketPrice\t(...)",
+			"contents": "C_WowTokenPublic.GetCurrentMarketPrice(${1:...})$0",
+		},
+		{
+			"trigger": "C_WowTokenPublic.GetGuaranteedPrice\t(...)",
+			"contents": "C_WowTokenPublic.GetGuaranteedPrice(${1:...})$0",
+		},
+		{
+			"trigger": "C_WowTokenPublic.GetListedAuctionableTokenInfo\t(...)",
+			"contents": "C_WowTokenPublic.GetListedAuctionableTokenInfo(${1:...})$0",
+		},
+		{
+			"trigger": "C_WowTokenPublic.GetNumListedAuctionableTokens\t(...)",
+			"contents": "C_WowTokenPublic.GetNumListedAuctionableTokens(${1:...})$0",
+		},
+		{
+			"trigger": "C_WowTokenPublic.IsAuctionableWowToken\t(...)",
+			"contents": "C_WowTokenPublic.IsAuctionableWowToken(${1:...})$0",
+		},
+		{
+			"trigger": "C_WowTokenPublic.IsConsumableWowToken\t(...)",
+			"contents": "C_WowTokenPublic.IsConsumableWowToken(${1:...})$0",
+		},
+		{
+			"trigger": "C_WowTokenPublic.SellToken\t(...)",
+			"contents": "C_WowTokenPublic.SellToken(${1:...})$0",
+		},
+		{
+			"trigger": "C_WowTokenPublic.UpdateListedAuctionableTokens\t(...)",
+			"contents": "C_WowTokenPublic.UpdateListedAuctionableTokens(${1:...})$0",
+		},
+		{
+			"trigger": "C_WowTokenPublic.UpdateMarketPrice\t(...)",
+			"contents": "C_WowTokenPublic.UpdateMarketPrice(${1:...})$0",
+		},
+		{
+			"trigger": "C_WowTokenPublic.UpdateTokenCount\t(...)",
+			"contents": "C_WowTokenPublic.UpdateTokenCount(${1:...})$0",
 		},
 
 
@@ -4279,6 +7555,66 @@
 			"contents": "${1:success} = C_AzeriteEmpoweredItem.SelectPower(${2:azeriteEmpoweredItemLocation}, ${3:powerID})$0",
 		},
 		{
+			"trigger": "_C_AzeriteEssence.CanActivateEssence\t(essenceID, milestoneID)",
+			"contents": "${1:canActivate} = C_AzeriteEssence.CanActivateEssence(${2:essenceID}, ${3:milestoneID})$0",
+		},
+		{
+			"trigger": "_C_AzeriteEssence.CanDeactivateEssence\t(milestoneID)",
+			"contents": "${1:canDeactivate} = C_AzeriteEssence.CanDeactivateEssence(${2:milestoneID})$0",
+		},
+		{
+			"trigger": "_C_AzeriteEssence.CanOpenUI\t()",
+			"contents": "${1:canOpen} = C_AzeriteEssence.CanOpenUI()$0",
+		},
+		{
+			"trigger": "_C_AzeriteEssence.GetEssenceHyperlink\t(essenceID, rank)",
+			"contents": "${1:link} = C_AzeriteEssence.GetEssenceHyperlink(${2:essenceID}, ${3:rank})$0",
+		},
+		{
+			"trigger": "_C_AzeriteEssence.GetEssenceInfo\t(essenceID)",
+			"contents": "${1:info} = C_AzeriteEssence.GetEssenceInfo(${2:essenceID})$0",
+		},
+		{
+			"trigger": "_C_AzeriteEssence.GetEssences\t()",
+			"contents": "${1:essences} = C_AzeriteEssence.GetEssences()$0",
+		},
+		{
+			"trigger": "_C_AzeriteEssence.GetMilestoneEssence\t(milestoneID)",
+			"contents": "${1:essenceID} = C_AzeriteEssence.GetMilestoneEssence(${2:milestoneID})$0",
+		},
+		{
+			"trigger": "_C_AzeriteEssence.GetMilestoneInfo\t(milestoneID)",
+			"contents": "${1:info} = C_AzeriteEssence.GetMilestoneInfo(${2:milestoneID})$0",
+		},
+		{
+			"trigger": "_C_AzeriteEssence.GetMilestones\t()",
+			"contents": "${1:milestones} = C_AzeriteEssence.GetMilestones()$0",
+		},
+		{
+			"trigger": "_C_AzeriteEssence.GetMilestoneSpell\t(milestoneID)",
+			"contents": "${1:spellID} = C_AzeriteEssence.GetMilestoneSpell(${2:milestoneID})$0",
+		},
+		{
+			"trigger": "_C_AzeriteEssence.GetNumUnlockedEssences\t()",
+			"contents": "${1:numUnlockedEssences} = C_AzeriteEssence.GetNumUnlockedEssences()$0",
+		},
+		{
+			"trigger": "_C_AzeriteEssence.GetPendingActivationEssence\t()",
+			"contents": "${1:essenceID} = C_AzeriteEssence.GetPendingActivationEssence()$0",
+		},
+		{
+			"trigger": "_C_AzeriteEssence.HasNeverActivatedAnyEssences\t()",
+			"contents": "${1:hasNeverActivatedAnyEssences} = C_AzeriteEssence.HasNeverActivatedAnyEssences()$0",
+		},
+		{
+			"trigger": "_C_AzeriteEssence.HasPendingActivationEssence\t()",
+			"contents": "${1:hasEssence} = C_AzeriteEssence.HasPendingActivationEssence()$0",
+		},
+		{
+			"trigger": "_C_AzeriteEssence.IsAtForge\t()",
+			"contents": "${1:isAtForge} = C_AzeriteEssence.IsAtForge()$0",
+		},
+		{
 			"trigger": "_C_AzeriteItem.FindActiveAzeriteItem\t()",
 			"contents": "${1:activeAzeriteItemLocation} = C_AzeriteItem.FindActiveAzeriteItem()$0",
 		},
@@ -4297,6 +7633,10 @@
 		{
 			"trigger": "_C_AzeriteItem.IsAzeriteItem\t(itemLocation)",
 			"contents": "${1:isAzeriteItem} = C_AzeriteItem.IsAzeriteItem(${2:itemLocation})$0",
+		},
+		{
+			"trigger": "_C_AzeriteItem.IsAzeriteItemAtMaxLevel\t()",
+			"contents": "${1:isAtMax} = C_AzeriteItem.IsAzeriteItemAtMaxLevel()$0",
 		},
 		{
 			"trigger": "_C_AzeriteItem.IsAzeriteItemByID\t(\"itemInfo\")",
@@ -4508,7 +7848,7 @@
 		},
 		{
 			"trigger": "_C_ChallengeMode.GetCompletionInfo\t()",
-			"contents": "${1:mapChallengeModeID}, ${2:level}, ${3:time}, ${4:onTime}, ${5:keystoneUpgradeLevels} = C_ChallengeMode.GetCompletionInfo()$0",
+			"contents": "${1:mapChallengeModeID}, ${2:level}, ${3:time}, ${4:onTime}, ${5:keystoneUpgradeLevels}, ${6:practiceRun} = C_ChallengeMode.GetCompletionInfo()$0",
 		},
 		{
 			"trigger": "_C_ChallengeMode.GetDeathCount\t()",
@@ -4559,6 +7899,10 @@
 			"contents": "${1:name}, ${2:owner}, ${3:moderator}, ${4:guid} = C_ChatInfo.GetChannelRosterInfo(${5:channelIndex}, ${6:rosterIndex})$0",
 		},
 		{
+			"trigger": "_C_ChatInfo.GetClubStreamIDs\t(\"clubID\")",
+			"contents": "${1:ids} = C_ChatInfo.GetClubStreamIDs(\"${2:clubID}\")$0",
+		},
+		{
 			"trigger": "_C_ChatInfo.GetNumActiveChannels\t()",
 			"contents": "${1:numChannels} = C_ChatInfo.GetNumActiveChannels()$0",
 		},
@@ -4593,6 +7937,10 @@
 		{
 			"trigger": "_C_ChatInfo.SendAddonMessageLogged\t(\"prefix\", \"message\", [\"chatType\", [\"target\"]])",
 			"contents": "${1:success} = C_ChatInfo.SendAddonMessageLogged(\"${2:prefix}\", \"${3:message}\", [\"${4:chatType}\", [\"${5:target}\"]])$0",
+		},
+		{
+			"trigger": "_C_ClassColor.GetClassColor\t(\"className\")",
+			"contents": "${1:classColor} = C_ClassColor.GetClassColor(\"${2:className}\")$0",
 		},
 		{
 			"trigger": "_C_Club.CanResolvePlayerLocationFromClubMessageData\t(\"clubId\", \"streamId\", epoch, position)",
@@ -4743,6 +8091,54 @@
 			"contents": "${1:result} = C_Club.ValidateText(${2:clubType}, \"${3:text}\", ${4:clubFieldType})$0",
 		},
 		{
+			"trigger": "_C_ClubFinder.GetClubRecruitmentSettings\t()",
+			"contents": "${1:settings} = C_ClubFinder.GetClubRecruitmentSettings()$0",
+		},
+		{
+			"trigger": "_C_ClubFinder.GetPlayerApplicantSettings\t()",
+			"contents": "${1:settings} = C_ClubFinder.GetPlayerApplicantSettings()$0",
+		},
+		{
+			"trigger": "_C_ClubFinder.PlayerGetClubInvitationList\t()",
+			"contents": "${1:inviteList} = C_ClubFinder.PlayerGetClubInvitationList()$0",
+		},
+		{
+			"trigger": "_C_ClubFinder.PlayerReturnPendingCommunitiesList\t()",
+			"contents": "${1:info} = C_ClubFinder.PlayerReturnPendingCommunitiesList()$0",
+		},
+		{
+			"trigger": "_C_ClubFinder.PlayerReturnPendingGuildsList\t()",
+			"contents": "${1:info} = C_ClubFinder.PlayerReturnPendingGuildsList()$0",
+		},
+		{
+			"trigger": "_C_ClubFinder.ReturnCommunityApplicantList\t(\"clubId\")",
+			"contents": "${1:info} = C_ClubFinder.ReturnCommunityApplicantList(\"${2:clubId}\")$0",
+		},
+		{
+			"trigger": "_C_ClubFinder.ReturnGuildApplicantList\t()",
+			"contents": "${1:info} = C_ClubFinder.ReturnGuildApplicantList()$0",
+		},
+		{
+			"trigger": "_C_ClubFinder.ReturnMatchingCommunityList\t()",
+			"contents": "${1:recruitingClubs} = C_ClubFinder.ReturnMatchingCommunityList()$0",
+		},
+		{
+			"trigger": "_C_ClubFinder.ReturnMatchingGuildList\t()",
+			"contents": "${1:recruitingClubs} = C_ClubFinder.ReturnMatchingGuildList()$0",
+		},
+		{
+			"trigger": "_C_ClubFinder.ReturnPendingCommunityApplicantList\t(\"clubId\")",
+			"contents": "${1:info} = C_ClubFinder.ReturnPendingCommunityApplicantList(\"${2:clubId}\")$0",
+		},
+		{
+			"trigger": "_C_ClubFinder.ReturnPendingGuildApplicantList\t()",
+			"contents": "${1:info} = C_ClubFinder.ReturnPendingGuildApplicantList()$0",
+		},
+		{
+			"trigger": "_C_ClubFinder.ShouldShowClubFinder\t()",
+			"contents": "${1:shouldShow} = C_ClubFinder.ShouldShowClubFinder()$0",
+		},
+		{
 			"trigger": "_C_Commentator.AreTeamsSwapped\t()",
 			"contents": "${1:teamsAreSwapped} = C_Commentator.AreTeamsSwapped()$0",
 		},
@@ -4789,6 +8185,10 @@
 		{
 			"trigger": "_C_Commentator.GetDurationToForceHorizontalConvergence\t()",
 			"contents": "${1:ms} = C_Commentator.GetDurationToForceHorizontalConvergence()$0",
+		},
+		{
+			"trigger": "_C_Commentator.GetElapsedMs\t()",
+			"contents": "${1:timeLeft} = C_Commentator.GetElapsedMs()$0",
 		},
 		{
 			"trigger": "_C_Commentator.GetExcludeDistance\t()",
@@ -4949,18 +8349,6 @@
 		{
 			"trigger": "_C_Commentator.IsUsingSmartCamera\t()",
 			"contents": "${1:isUsingSmartCamera} = C_Commentator.IsUsingSmartCamera()$0",
-		},
-		{
-			"trigger": "_C_ConfigurationWarnings.GetConfigurationWarnings\t(includeSeenWarnings)",
-			"contents": "${1:configurationWarnings} = C_ConfigurationWarnings.GetConfigurationWarnings(${2:includeSeenWarnings})$0",
-		},
-		{
-			"trigger": "_C_ConfigurationWarnings.GetConfigurationWarningSeen\t(configurationWarning)",
-			"contents": "${1:hasSeenConfigurationWarning} = C_ConfigurationWarnings.GetConfigurationWarningSeen(${2:configurationWarning})$0",
-		},
-		{
-			"trigger": "_C_ConfigurationWarnings.GetConfigurationWarningString\t(configurationWarning)",
-			"contents": "${1:configurationWarningString} = C_ConfigurationWarnings.GetConfigurationWarningString(${2:configurationWarning})$0",
 		},
 		{
 			"trigger": "_C_Console.GetAllCommands\t()",
@@ -5339,8 +8727,20 @@
 			"contents": "${1:gossipPoiInfo} = C_GossipInfo.GetGossipPoiInfo(${2:uiMapID}, ${3:gossipPoiID})$0",
 		},
 		{
+			"trigger": "_C_GuildInfo.CanEditOfficerNote\t()",
+			"contents": "${1:canEditOfficerNote} = C_GuildInfo.CanEditOfficerNote()$0",
+		},
+		{
 			"trigger": "_C_GuildInfo.CanSpeakInGuildChat\t()",
 			"contents": "${1:canSpeakInGuildChat} = C_GuildInfo.CanSpeakInGuildChat()$0",
+		},
+		{
+			"trigger": "_C_GuildInfo.CanViewOfficerNote\t()",
+			"contents": "${1:canViewOfficerNote} = C_GuildInfo.CanViewOfficerNote()$0",
+		},
+		{
+			"trigger": "_C_GuildInfo.GetGuildNewsInfo\t(index)",
+			"contents": "${1:newsInfo} = C_GuildInfo.GetGuildNewsInfo(${2:index})$0",
 		},
 		{
 			"trigger": "_C_GuildInfo.GetGuildRankOrder\t(\"guid\")",
@@ -5469,6 +8869,10 @@
 		{
 			"trigger": "_C_Item.IsLocked\t(itemLocation)",
 			"contents": "${1:isLocked} = C_Item.IsLocked(${2:itemLocation})$0",
+		},
+		{
+			"trigger": "_C_ItemUpgrade.GetItemHyperlink\t()",
+			"contents": "${1:link} = C_ItemUpgrade.GetItemHyperlink()$0",
 		},
 		{
 			"trigger": "_C_KeyBindings.GetCustomBindingType\t(bindingIndex)",
@@ -5651,6 +9055,18 @@
 			"contents": "${1:modelSceneType}, ${2:modelCameraIDs}, ${3:modelActorsIDs} = C_ModelInfo.GetModelSceneInfoByID(${4:modelSceneID})$0",
 		},
 		{
+			"trigger": "_C_MountJournal.ApplyMountEquipment\t(itemLocation)",
+			"contents": "${1:canContinue} = C_MountJournal.ApplyMountEquipment(${2:itemLocation})$0",
+		},
+		{
+			"trigger": "_C_MountJournal.AreMountEquipmentEffectsSuppressed\t()",
+			"contents": "${1:areEffectsSuppressed} = C_MountJournal.AreMountEquipmentEffectsSuppressed()$0",
+		},
+		{
+			"trigger": "_C_MountJournal.GetAppliedMountEquipmentID\t()",
+			"contents": "${1:itemID} = C_MountJournal.GetAppliedMountEquipmentID()$0",
+		},
+		{
 			"trigger": "_C_MountJournal.GetCollectedFilterSetting\t(filterIndex)",
 			"contents": "${1:isChecked} = C_MountJournal.GetCollectedFilterSetting(${2:filterIndex})$0",
 		},
@@ -5673,6 +9089,10 @@
 		{
 			"trigger": "_C_MountJournal.GetMountAllCreatureDisplayInfoByID\t(mountID)",
 			"contents": "${1:allDisplayInfo} = C_MountJournal.GetMountAllCreatureDisplayInfoByID(${2:mountID})$0",
+		},
+		{
+			"trigger": "_C_MountJournal.GetMountEquipmentUnlockLevel\t()",
+			"contents": "${1:level} = C_MountJournal.GetMountEquipmentUnlockLevel()$0",
 		},
 		{
 			"trigger": "_C_MountJournal.GetMountFromItem\t(itemID)",
@@ -5709,6 +9129,18 @@
 		{
 			"trigger": "_C_MountJournal.GetNumMountsNeedingFanfare\t()",
 			"contents": "${1:numMountsNeedingFanfare} = C_MountJournal.GetNumMountsNeedingFanfare()$0",
+		},
+		{
+			"trigger": "_C_MountJournal.IsItemMountEquipment\t(itemLocation)",
+			"contents": "${1:isMountEquipment} = C_MountJournal.IsItemMountEquipment(${2:itemLocation})$0",
+		},
+		{
+			"trigger": "_C_MountJournal.IsMountEquipmentApplied\t()",
+			"contents": "${1:isApplied} = C_MountJournal.IsMountEquipmentApplied()$0",
+		},
+		{
+			"trigger": "_C_MountJournal.IsMountEquipmentUnlocked\t()",
+			"contents": "${1:isUnlocked} = C_MountJournal.IsMountEquipmentUnlocked()$0",
 		},
 		{
 			"trigger": "_C_MountJournal.IsSourceChecked\t(filterIndex)",
@@ -5783,6 +9215,10 @@
 			"contents": "${1:azeritePowerIDs} = C_PaperDollInfo.GetInspectAzeriteItemEmpoweredChoices(\"${2:unit}\", ${3:equipmentSlotIndex})$0",
 		},
 		{
+			"trigger": "_C_PaperDollInfo.GetInspectItemLevel\t(\"unit\")",
+			"contents": "${1:equippedItemLevel} = C_PaperDollInfo.GetInspectItemLevel(\"${2:unit}\")$0",
+		},
+		{
 			"trigger": "_C_PaperDollInfo.GetMinItemLevel\t()",
 			"contents": "${1:minItemLevel} = C_PaperDollInfo.GetMinItemLevel()$0",
 		},
@@ -5831,6 +9267,14 @@
 			"contents": "${1:numDisplays} = C_PetJournal.GetNumDisplays(${2:speciesID})$0",
 		},
 		{
+			"trigger": "_C_PetJournal.GetPetSummonInfo\t(\"battlePetGUID\")",
+			"contents": "${1:isSummonable}, ${2:error}, ${3:errorText} = C_PetJournal.GetPetSummonInfo(\"${4:battlePetGUID}\")$0",
+		},
+		{
+			"trigger": "_C_PetJournal.PetIsSummonable\t(\"battlePetGUID\")",
+			"contents": "${1:isSummonable} = C_PetJournal.PetIsSummonable(\"${2:battlePetGUID}\")$0",
+		},
+		{
 			"trigger": "_C_PetJournal.PetUsesRandomDisplay\t(speciesID)",
 			"contents": "${1:usesRandomDisplay} = C_PetJournal.PetUsesRandomDisplay(${2:speciesID})$0",
 		},
@@ -5863,6 +9307,14 @@
 			"contents": "${1:unitIsSameServer} = C_PlayerInfo.UnitIsSameServer(${2:playerLocation})$0",
 		},
 		{
+			"trigger": "_C_PvP.CanDisplayDeaths\t()",
+			"contents": "${1:canDisplay} = C_PvP.CanDisplayDeaths()$0",
+		},
+		{
+			"trigger": "_C_PvP.CanDisplayHonorableKills\t()",
+			"contents": "${1:canDisplay} = C_PvP.CanDisplayHonorableKills()$0",
+		},
+		{
 			"trigger": "_C_PvP.CanToggleWarMode\t(toggle)",
 			"contents": "${1:canTogglePvP} = C_PvP.CanToggleWarMode(${2:toggle})$0",
 		},
@@ -5871,8 +9323,28 @@
 			"contents": "${1:canTogglePvPInArea} = C_PvP.CanToggleWarModeInArea()$0",
 		},
 		{
+			"trigger": "_C_PvP.DoesMatchOutcomeAffectRating\t()",
+			"contents": "${1:doesAffect} = C_PvP.DoesMatchOutcomeAffectRating()$0",
+		},
+		{
 			"trigger": "_C_PvP.GetActiveBrawlInfo\t()",
 			"contents": "${1:brawlInfo} = C_PvP.GetActiveBrawlInfo()$0",
+		},
+		{
+			"trigger": "_C_PvP.GetActiveMatchBracket\t()",
+			"contents": "${1:bracket} = C_PvP.GetActiveMatchBracket()$0",
+		},
+		{
+			"trigger": "_C_PvP.GetActiveMatchDuration\t()",
+			"contents": "${1:duration} = C_PvP.GetActiveMatchDuration()$0",
+		},
+		{
+			"trigger": "_C_PvP.GetActiveMatchState\t()",
+			"contents": "${1:state} = C_PvP.GetActiveMatchState()$0",
+		},
+		{
+			"trigger": "_C_PvP.GetActiveMatchWinner\t()",
+			"contents": "${1:winner} = C_PvP.GetActiveMatchWinner()$0",
 		},
 		{
 			"trigger": "_C_PvP.GetArenaCrowdControlInfo\t(\"playerToken\")",
@@ -5903,12 +9375,32 @@
 			"contents": "${1:info} = C_PvP.GetHonorRewardInfo(${2:honorLevel})$0",
 		},
 		{
+			"trigger": "_C_PvP.GetMatchPVPStatColumn\t(pvpStatID)",
+			"contents": "${1:info} = C_PvP.GetMatchPVPStatColumn(${2:pvpStatID})$0",
+		},
+		{
+			"trigger": "_C_PvP.GetMatchPVPStatIDs\t()",
+			"contents": "${1:pvpStatIDs} = C_PvP.GetMatchPVPStatIDs()$0",
+		},
+		{
 			"trigger": "_C_PvP.GetNextHonorLevelForReward\t(honorLevel)",
 			"contents": "${1:nextHonorLevelWithReward} = C_PvP.GetNextHonorLevelForReward(${2:honorLevel})$0",
 		},
 		{
 			"trigger": "_C_PvP.GetOutdoorPvPWaitTime\t(uiMapID)",
 			"contents": "${1:pvpWaitTime} = C_PvP.GetOutdoorPvPWaitTime(${2:uiMapID})$0",
+		},
+		{
+			"trigger": "_C_PvP.GetPostMatchCurrencyRewards\t()",
+			"contents": "${1:rewards} = C_PvP.GetPostMatchCurrencyRewards()$0",
+		},
+		{
+			"trigger": "_C_PvP.GetPostMatchItemRewards\t()",
+			"contents": "${1:rewards} = C_PvP.GetPostMatchItemRewards()$0",
+		},
+		{
+			"trigger": "_C_PvP.GetPVPActiveMatchPersonalRatedInfo\t()",
+			"contents": "${1:info} = C_PvP.GetPVPActiveMatchPersonalRatedInfo()$0",
 		},
 		{
 			"trigger": "_C_PvP.GetPvpTierInfo\t(tierID)",
@@ -5939,12 +9431,24 @@
 			"contents": "${1:activityItemLevel}, ${2:weeklyItemLevel} = C_PvP.GetRewardItemLevelsByTierEnum(${3:pvpTierEnum})$0",
 		},
 		{
+			"trigger": "_C_PvP.GetScoreInfo\t(offsetIndex)",
+			"contents": "${1:info} = C_PvP.GetScoreInfo(${2:offsetIndex})$0",
+		},
+		{
+			"trigger": "_C_PvP.GetScoreInfoByPlayerGuid\t(\"guid\")",
+			"contents": "${1:info} = C_PvP.GetScoreInfoByPlayerGuid(\"${2:guid}\")$0",
+		},
+		{
 			"trigger": "_C_PvP.GetSeasonBestInfo\t()",
 			"contents": "${1:tierID}, ${2:nextTierID} = C_PvP.GetSeasonBestInfo()$0",
 		},
 		{
 			"trigger": "_C_PvP.GetSkirmishInfo\t(pvpBracket)",
 			"contents": "${1:battlemasterListInfo} = C_PvP.GetSkirmishInfo(${2:pvpBracket})$0",
+		},
+		{
+			"trigger": "_C_PvP.GetTeamInfo\t(factionIndex)",
+			"contents": "${1:info} = C_PvP.GetTeamInfo(${2:factionIndex})$0",
 		},
 		{
 			"trigger": "_C_PvP.GetWarModeRewardBonus\t()",
@@ -5967,6 +9471,18 @@
 			"contents": "${1:isActiveBattlefield} = C_PvP.IsActiveBattlefield()$0",
 		},
 		{
+			"trigger": "_C_PvP.IsActiveMatchRegistered\t()",
+			"contents": "${1:registered} = C_PvP.IsActiveMatchRegistered()$0",
+		},
+		{
+			"trigger": "_C_PvP.IsArena\t()",
+			"contents": "${1:isArena} = C_PvP.IsArena()$0",
+		},
+		{
+			"trigger": "_C_PvP.IsBattleground\t()",
+			"contents": "${1:isBattleground} = C_PvP.IsBattleground()$0",
+		},
+		{
 			"trigger": "_C_PvP.IsBattlegroundEnlistmentBonusActive\t()",
 			"contents": "${1:battlegroundActive}, ${2:brawlActive} = C_PvP.IsBattlegroundEnlistmentBonusActive()$0",
 		},
@@ -5975,8 +9491,28 @@
 			"contents": "${1:isInBrawl} = C_PvP.IsInBrawl()$0",
 		},
 		{
+			"trigger": "_C_PvP.IsMatchConsideredArena\t()",
+			"contents": "${1:asArena} = C_PvP.IsMatchConsideredArena()$0",
+		},
+		{
+			"trigger": "_C_PvP.IsMatchFactional\t()",
+			"contents": "${1:isFactional} = C_PvP.IsMatchFactional()$0",
+		},
+		{
 			"trigger": "_C_PvP.IsPVPMap\t()",
 			"contents": "${1:isPVPMap} = C_PvP.IsPVPMap()$0",
+		},
+		{
+			"trigger": "_C_PvP.IsRatedArena\t()",
+			"contents": "${1:isRatedArena} = C_PvP.IsRatedArena()$0",
+		},
+		{
+			"trigger": "_C_PvP.IsRatedBattleground\t()",
+			"contents": "${1:isRatedBattleground} = C_PvP.IsRatedBattleground()$0",
+		},
+		{
+			"trigger": "_C_PvP.IsRatedMap\t()",
+			"contents": "${1:isRatedMap} = C_PvP.IsRatedMap()$0",
 		},
 		{
 			"trigger": "_C_PvP.IsWarModeActive\t()",
@@ -6023,6 +9559,18 @@
 			"contents": "${1:maxNumQuestsCanAccept} = C_QuestLog.GetMaxNumQuestsCanAccept()$0",
 		},
 		{
+			"trigger": "_C_QuestLog.GetNextWaypoint\t(questID)",
+			"contents": "${1:mapID}, ${2:x}, ${3:y} = C_QuestLog.GetNextWaypoint(${4:questID})$0",
+		},
+		{
+			"trigger": "_C_QuestLog.GetNextWaypointForMap\t(questID, uiMapID)",
+			"contents": "${1:x}, ${2:y} = C_QuestLog.GetNextWaypointForMap(${3:questID}, ${4:uiMapID})$0",
+		},
+		{
+			"trigger": "_C_QuestLog.GetNextWaypointText\t(questID)",
+			"contents": "${1:waypointText} = C_QuestLog.GetNextWaypointText(${2:questID})$0",
+		},
+		{
 			"trigger": "_C_QuestLog.GetNumQuestObjectives\t(questID)",
 			"contents": "${1:leaderboardCount} = C_QuestLog.GetNumQuestObjectives(${2:questID})$0",
 		},
@@ -6059,8 +9607,8 @@
 			"contents": "${1:shouldShow} = C_QuestLog.ShouldShowQuestRewards(${2:questID})$0",
 		},
 		{
-			"trigger": "_C_ReportPlayer.CanReportPlayer\t(playerLocation)",
-			"contents": "${1:canReport} = C_ReportPlayer.CanReportPlayer(${2:playerLocation})$0",
+			"trigger": "_C_RaidLocks.IsEncounterComplete\t(mapID, encounterID, [difficultyID])",
+			"contents": "${1:encounterIsComplete} = C_RaidLocks.IsEncounterComplete(${2:mapID}, ${3:encounterID}, [${4:difficultyID}])$0",
 		},
 		{
 			"trigger": "_C_ReportSystem.CanReportPlayer\t(playerLocation)",
@@ -6213,6 +9761,10 @@
 		{
 			"trigger": "_C_Spell.IsSpellDataCached\t(spellID)",
 			"contents": "${1:isCached} = C_Spell.IsSpellDataCached(${2:spellID})$0",
+		},
+		{
+			"trigger": "_C_SpellBook.ContainsAnyDisenchantSpell\t()",
+			"contents": "${1:contains} = C_SpellBook.ContainsAnyDisenchantSpell()$0",
 		},
 		{
 			"trigger": "_C_StorePublic.DoesGroupHavePurchaseableProducts\t(groupID)",
@@ -6451,6 +10003,10 @@
 			"contents": "${1:widgetInfo} = C_UIWidgetManager.GetIconTextAndCurrenciesWidgetVisualizationInfo(${2:widgetID})$0",
 		},
 		{
+			"trigger": "_C_UIWidgetManager.GetObjectiveTrackerWidgetSetID\t()",
+			"contents": "${1:setID} = C_UIWidgetManager.GetObjectiveTrackerWidgetSetID()$0",
+		},
+		{
 			"trigger": "_C_UIWidgetManager.GetScenarioHeaderCurrenciesAndBackgroundWidgetVisualizationInfo\t(widgetID)",
 			"contents": "${1:widgetInfo} = C_UIWidgetManager.GetScenarioHeaderCurrenciesAndBackgroundWidgetVisualizationInfo(${2:widgetID})$0",
 		},
@@ -6467,8 +10023,12 @@
 			"contents": "${1:widgetInfo} = C_UIWidgetManager.GetStatusBarWidgetVisualizationInfo(${2:widgetID})$0",
 		},
 		{
-			"trigger": "_C_UIWidgetManager.GetTextureWithStateVisualizationInfo\t(widgetID)",
-			"contents": "${1:widgetInfo} = C_UIWidgetManager.GetTextureWithStateVisualizationInfo(${2:widgetID})$0",
+			"trigger": "_C_UIWidgetManager.GetTextureAndTextRowVisualizationInfo\t(widgetID)",
+			"contents": "${1:widgetInfo} = C_UIWidgetManager.GetTextureAndTextRowVisualizationInfo(${2:widgetID})$0",
+		},
+		{
+			"trigger": "_C_UIWidgetManager.GetTextureAndTextVisualizationInfo\t(widgetID)",
+			"contents": "${1:widgetInfo} = C_UIWidgetManager.GetTextureAndTextVisualizationInfo(${2:widgetID})$0",
 		},
 		{
 			"trigger": "_C_UIWidgetManager.GetTextWithStateWidgetVisualizationInfo\t(widgetID)",
@@ -6477,6 +10037,10 @@
 		{
 			"trigger": "_C_UIWidgetManager.GetTopCenterWidgetSetID\t()",
 			"contents": "${1:setID} = C_UIWidgetManager.GetTopCenterWidgetSetID()$0",
+		},
+		{
+			"trigger": "_C_UIWidgetManager.GetZoneControlVisualizationInfo\t(widgetID)",
+			"contents": "${1:widgetInfo} = C_UIWidgetManager.GetZoneControlVisualizationInfo(${2:widgetID})$0",
 		},
 		{
 			"trigger": "_C_VideoOptions.GetGxAdapterInfo\t()",
@@ -6555,6 +10119,10 @@
 			"contents": "${1:memberID} = C_VoiceChat.GetLocalPlayerMemberID(${2:channelID})$0",
 		},
 		{
+			"trigger": "_C_VoiceChat.GetMasterVolumeScale\t()",
+			"contents": "${1:scale} = C_VoiceChat.GetMasterVolumeScale()$0",
+		},
+		{
 			"trigger": "_C_VoiceChat.GetMemberGUID\t(memberID, channelID)",
 			"contents": "${1:memberGUID} = C_VoiceChat.GetMemberGUID(${2:memberID}, ${3:channelID})$0",
 		},
@@ -6593,6 +10161,10 @@
 		{
 			"trigger": "_C_VoiceChat.GetVADSensitivity\t()",
 			"contents": "${1:sensitivity} = C_VoiceChat.GetVADSensitivity()$0",
+		},
+		{
+			"trigger": "_C_VoiceChat.IsChannelJoinPending\t(channelType, [\"clubId\", [\"streamId\"]])",
+			"contents": "${1:isPending} = C_VoiceChat.IsChannelJoinPending(${2:channelType}, [\"${3:clubId}\", [\"${4:streamId}\"]])$0",
 		},
 		{
 			"trigger": "_C_VoiceChat.IsDeafened\t()",

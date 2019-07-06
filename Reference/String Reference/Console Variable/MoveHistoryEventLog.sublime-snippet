@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MoveHistoryEventLog]]></content>
+	<tabTrigger>MoveHistoryEventLog</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:info} = C_AzeriteEssence.GetEssenceInfo(${2:essenceID})$0]]></content>
+	<tabTrigger>_C_AzeriteEssence.GetEssenceInfo</tabTrigger>
+	<description>(essenceID)</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

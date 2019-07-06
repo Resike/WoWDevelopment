@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UI-PaperOverlay-PaperHeader-SelectUp-Right]]></content>
+	<tabTrigger>UI-PaperOverlay-PaperHeader-SelectUp-Right</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

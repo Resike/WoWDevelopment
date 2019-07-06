@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextGlowSM-Bg]]></content>
+	<tabTrigger>TextGlowSM-Bg</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Bank-Slot-BG]]></content>
+	<tabTrigger>Bank-Slot-BG</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

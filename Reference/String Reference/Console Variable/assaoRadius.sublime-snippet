@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[assaoRadius]]></content>
+	<tabTrigger>assaoRadius</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TalentHeader-GoldBorder]]></content>
+	<tabTrigger>TalentHeader-GoldBorder</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

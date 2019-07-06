@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VOICE_CHAT_OUTPUT_DEVICES_UPDATED(${1:...})$0]]></content>
-	<tabTrigger>VOICE_CHAT_OUTPUT_DEVICES_UPDATED</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

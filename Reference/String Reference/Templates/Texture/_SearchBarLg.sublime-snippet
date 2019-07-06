@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[_SearchBarLg]]></content>
-	<tabTrigger>_SearchBarLg</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

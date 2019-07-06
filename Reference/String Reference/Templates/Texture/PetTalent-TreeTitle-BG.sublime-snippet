@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PetTalent-TreeTitle-BG]]></content>
+	<tabTrigger>PetTalent-TreeTitle-BG</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

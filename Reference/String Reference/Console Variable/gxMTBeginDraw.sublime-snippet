@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[gxMTBeginDraw]]></content>
+	<tabTrigger>gxMTBeginDraw</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

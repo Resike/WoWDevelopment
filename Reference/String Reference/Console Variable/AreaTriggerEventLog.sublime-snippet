@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AreaTriggerEventLog]]></content>
+	<tabTrigger>AreaTriggerEventLog</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

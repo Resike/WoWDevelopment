@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[QuestPortrait-Corner_BL]]></content>
+	<tabTrigger>QuestPortrait-Corner_BL</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

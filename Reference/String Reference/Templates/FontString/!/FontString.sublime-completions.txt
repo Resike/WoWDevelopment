@@ -162,10 +162,6 @@
 			"contents": "ErrorFont",
 		},
 		{
-			"trigger": "EventTraceTimeFont\t\"template\"",
-			"contents": "EventTraceTimeFont",
-		},
-		{
 			"trigger": "FactionName_Shadow_Huge\t\"template\"",
 			"contents": "FactionName_Shadow_Huge",
 		},
@@ -538,6 +534,14 @@
 			"contents": "GameFontNormalHuge3Outline",
 		},
 		{
+			"trigger": "GameFontNormalHuge4\t\"template\"",
+			"contents": "GameFontNormalHuge4",
+		},
+		{
+			"trigger": "GameFontNormalHuge4Outline\t\"template\"",
+			"contents": "GameFontNormalHuge4Outline",
+		},
+		{
 			"trigger": "GameFontNormalHugeBlack\t\"template\"",
 			"contents": "GameFontNormalHugeBlack",
 		},
@@ -894,10 +898,6 @@
 			"contents": "ItemTextFontNormal",
 		},
 		{
-			"trigger": "LootUpgradeFrame_ItemNameTemplate\t\"template\"",
-			"contents": "LootUpgradeFrame_ItemNameTemplate",
-		},
-		{
 			"trigger": "MailFont_Large\t\"template\"",
 			"contents": "MailFont_Large",
 		},
@@ -916,6 +916,10 @@
 		{
 			"trigger": "NewSubSpellFont\t\"template\"",
 			"contents": "NewSubSpellFont",
+		},
+		{
+			"trigger": "NPE_TutorialKeyString\t\"template\"",
+			"contents": "NPE_TutorialKeyString",
 		},
 		{
 			"trigger": "Number12Font_o1\t\"template\"",
@@ -1072,10 +1076,6 @@
 		{
 			"trigger": "OptionsFontSmallLeft\t\"template\"",
 			"contents": "OptionsFontSmallLeft",
-		},
-		{
-			"trigger": "OrderHallTalentFrameTick\t\"template\"",
-			"contents": "OrderHallTalentFrameTick",
 		},
 		{
 			"trigger": "PVPInfoTextFont\t\"template\"",
@@ -1330,6 +1330,10 @@
 			"contents": "SystemFont_Shadow_Huge3",
 		},
 		{
+			"trigger": "SystemFont_Shadow_Huge4\t\"template\"",
+			"contents": "SystemFont_Shadow_Huge4",
+		},
+		{
 			"trigger": "SystemFont_Shadow_Large\t\"template\"",
 			"contents": "SystemFont_Shadow_Large",
 		},
@@ -1370,6 +1374,10 @@
 			"contents": "SystemFont_Shadow_Outline_Huge3",
 		},
 		{
+			"trigger": "SystemFont_Shadow_Outline_Huge4\t\"template\"",
+			"contents": "SystemFont_Shadow_Outline_Huge4",
+		},
+		{
 			"trigger": "SystemFont_Shadow_Outline_Large\t\"template\"",
 			"contents": "SystemFont_Shadow_Outline_Large",
 		},
@@ -1392,14 +1400,6 @@
 		{
 			"trigger": "SystemFont_Small2\t\"template\"",
 			"contents": "SystemFont_Small2",
-		},
-		{
-			"trigger": "SystemFont_Tiny\t\"template\"",
-			"contents": "SystemFont_Tiny",
-		},
-		{
-			"trigger": "SystemFont_Tiny2\t\"template\"",
-			"contents": "SystemFont_Tiny2",
 		},
 		{
 			"trigger": "SystemFont_World\t\"template\"",

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SystemFont_Tiny2]]></content>
-	<tabTrigger>SystemFont_Tiny2</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.fontstring</scope>
-</snippet>

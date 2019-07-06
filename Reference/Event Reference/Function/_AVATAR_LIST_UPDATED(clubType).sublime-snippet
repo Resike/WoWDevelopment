@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AVATAR_LIST_UPDATED(clubType)]]></content>
+	<tabTrigger>_AVATAR_LIST_UPDATED</tabTrigger>
+	<description>(clubType)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

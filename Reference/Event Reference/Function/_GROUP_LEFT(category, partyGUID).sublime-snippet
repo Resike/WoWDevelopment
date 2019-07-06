@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GROUP_LEFT(category, partyGUID)]]></content>
+	<tabTrigger>_GROUP_LEFT</tabTrigger>
+	<description>(category, partyGUID)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

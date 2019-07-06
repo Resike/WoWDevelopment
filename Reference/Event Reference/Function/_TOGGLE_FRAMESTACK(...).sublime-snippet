@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[TOGGLE_FRAMESTACK(${1:...})$0]]></content>
-	<tabTrigger>TOGGLE_FRAMESTACK</tabTrigger>
+	<content><![CDATA[TOGGLE_FRAMESTACK(...)]]></content>
+	<tabTrigger>_TOGGLE_FRAMESTACK</tabTrigger>
 	<description>(...)</description>
 	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
 </snippet>

@@ -18410,16 +18410,8 @@
 			"contents": "OnGearManagerDialogPopupButtonCreated($1)$0",
 		},
 		{
-			"trigger": "OnMaximize\t(...)",
-			"contents": "OnMaximize",
-		},
-		{
 			"trigger": "OnMenuLoad\t(...)",
 			"contents": "OnMenuLoad($1)$0",
-		},
-		{
-			"trigger": "OnMinimize\t(...)",
-			"contents": "OnMinimize",
 		},
 		{
 			"trigger": "OnPooledAlertFrameQueueHide\t(...)",
@@ -18496,10 +18488,6 @@
 		{
 			"trigger": "OpenMailFrame_UpdateButtonPositions\t(...)",
 			"contents": "OpenMailFrame_UpdateButtonPositions($1)$0",
-		},
-		{
-			"trigger": "OpenStackSplitFrame\t(...)",
-			"contents": "OpenStackSplitFrame($1)$0",
 		},
 		{
 			"trigger": "OpenTrainer\t(...)",
@@ -26010,10 +25998,6 @@
 			"contents": "ToggleWorldMap($1)$0",
 		},
 		{
-			"trigger": "ToggleWorldStateScoreFrame\t(...)",
-			"contents": "ToggleWorldStateScoreFrame($1)$0",
-		},
-		{
 			"trigger": "TokenButton_OnClick\t(...)",
 			"contents": "TokenButton_OnClick($1)$0",
 		},
@@ -27312,10 +27296,6 @@
 		{
 			"trigger": "UpdateProfessionButton\t(...)",
 			"contents": "UpdateProfessionButton($1)$0",
-		},
-		{
-			"trigger": "UpdateStackSplitFrame\t(...)",
-			"contents": "UpdateStackSplitFrame($1)$0",
 		},
 		{
 			"trigger": "UpdateUIPanelPositions\t(...)",

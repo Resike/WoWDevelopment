@@ -314,12 +314,36 @@
 			"contents": "AZERITE_EMPOWERED_ITEM_LOOTED",
 		},
 		{
-			"trigger": "AZERITE_EMPOWERED_ITEM_NEW_TIER_AVAILABLE\t\"event\"",
-			"contents": "AZERITE_EMPOWERED_ITEM_NEW_TIER_AVAILABLE",
-		},
-		{
 			"trigger": "AZERITE_EMPOWERED_ITEM_SELECTION_UPDATED\t\"event\"",
 			"contents": "AZERITE_EMPOWERED_ITEM_SELECTION_UPDATED",
+		},
+		{
+			"trigger": "AZERITE_ESSENCE_ACTIVATED\t\"event\"",
+			"contents": "AZERITE_ESSENCE_ACTIVATED",
+		},
+		{
+			"trigger": "AZERITE_ESSENCE_ACTIVATION_FAILED\t\"event\"",
+			"contents": "AZERITE_ESSENCE_ACTIVATION_FAILED",
+		},
+		{
+			"trigger": "AZERITE_ESSENCE_CHANGED\t\"event\"",
+			"contents": "AZERITE_ESSENCE_CHANGED",
+		},
+		{
+			"trigger": "AZERITE_ESSENCE_FORGE_CLOSE\t\"event\"",
+			"contents": "AZERITE_ESSENCE_FORGE_CLOSE",
+		},
+		{
+			"trigger": "AZERITE_ESSENCE_FORGE_OPEN\t\"event\"",
+			"contents": "AZERITE_ESSENCE_FORGE_OPEN",
+		},
+		{
+			"trigger": "AZERITE_ESSENCE_MILESTONE_UNLOCKED\t\"event\"",
+			"contents": "AZERITE_ESSENCE_MILESTONE_UNLOCKED",
+		},
+		{
+			"trigger": "AZERITE_ESSENCE_UPDATE\t\"event\"",
+			"contents": "AZERITE_ESSENCE_UPDATE",
 		},
 		{
 			"trigger": "AZERITE_ITEM_EXPERIENCE_CHANGED\t\"event\"",
@@ -658,10 +682,6 @@
 			"contents": "CHALLENGE_MODE_MEMBER_INFO_UPDATED",
 		},
 		{
-			"trigger": "CHALLENGE_MODE_NEW_RECORD\t\"event\"",
-			"contents": "CHALLENGE_MODE_NEW_RECORD",
-		},
-		{
 			"trigger": "CHALLENGE_MODE_RESET\t\"event\"",
 			"contents": "CHALLENGE_MODE_RESET",
 		},
@@ -696,10 +716,6 @@
 		{
 			"trigger": "CHANNEL_UI_UPDATE\t\"event\"",
 			"contents": "CHANNEL_UI_UPDATE",
-		},
-		{
-			"trigger": "CHANNEL_VOICE_UPDATE\t\"event\"",
-			"contents": "CHANNEL_VOICE_UPDATE",
 		},
 		{
 			"trigger": "CHARACTER_ITEM_FIXUP_NOTIFICATION\t\"event\"",
@@ -1014,16 +1030,36 @@
 			"contents": "CLOSE_TABARD_FRAME",
 		},
 		{
-			"trigger": "CLOSE_WORLD_MAP\t\"event\"",
-			"contents": "CLOSE_WORLD_MAP",
-		},
-		{
 			"trigger": "CLUB_ADDED\t\"event\"",
 			"contents": "CLUB_ADDED",
 		},
 		{
 			"trigger": "CLUB_ERROR\t\"event\"",
 			"contents": "CLUB_ERROR",
+		},
+		{
+			"trigger": "CLUB_FINDER_CLUB_LIST_RETURNED\t\"event\"",
+			"contents": "CLUB_FINDER_CLUB_LIST_RETURNED",
+		},
+		{
+			"trigger": "CLUB_FINDER_MEMBERSHIP_LIST_CHANGED\t\"event\"",
+			"contents": "CLUB_FINDER_MEMBERSHIP_LIST_CHANGED",
+		},
+		{
+			"trigger": "CLUB_FINDER_PLAYER_PENDING_LIST_RECIEVED\t\"event\"",
+			"contents": "CLUB_FINDER_PLAYER_PENDING_LIST_RECIEVED",
+		},
+		{
+			"trigger": "CLUB_FINDER_POST_UPDATED\t\"event\"",
+			"contents": "CLUB_FINDER_POST_UPDATED",
+		},
+		{
+			"trigger": "CLUB_FINDER_RECRUIT_LIST_CHANGED\t\"event\"",
+			"contents": "CLUB_FINDER_RECRUIT_LIST_CHANGED",
+		},
+		{
+			"trigger": "CLUB_FINDER_RECRUITS_UPDATED\t\"event\"",
+			"contents": "CLUB_FINDER_RECRUITS_UPDATED",
 		},
 		{
 			"trigger": "CLUB_INVITATION_ADDED_FOR_SELF\t\"event\"",
@@ -1850,10 +1886,6 @@
 			"contents": "HONOR_LEVEL_UPDATE",
 		},
 		{
-			"trigger": "HONOR_PRESTIGE_UPDATE\t\"event\"",
-			"contents": "HONOR_PRESTIGE_UPDATE",
-		},
-		{
 			"trigger": "HONOR_XP_UPDATE\t\"event\"",
 			"contents": "HONOR_XP_UPDATE",
 		},
@@ -2370,10 +2402,6 @@
 			"contents": "MAIL_UNLOCK_SEND_ITEMS",
 		},
 		{
-			"trigger": "MAP_BAR_UPDATE\t\"event\"",
-			"contents": "MAP_BAR_UPDATE",
-		},
-		{
 			"trigger": "MAP_EXPLORATION_UPDATED\t\"event\"",
 			"contents": "MAP_EXPLORATION_UPDATED",
 		},
@@ -2436,6 +2464,10 @@
 		{
 			"trigger": "MOUNT_CURSOR_CLEAR\t\"event\"",
 			"contents": "MOUNT_CURSOR_CLEAR",
+		},
+		{
+			"trigger": "MOUNT_EQUIPMENT_APPLY_RESULT\t\"event\"",
+			"contents": "MOUNT_EQUIPMENT_APPLY_RESULT",
 		},
 		{
 			"trigger": "MOUNT_JOURNAL_SEARCH_UPDATED\t\"event\"",
@@ -2534,6 +2566,10 @@
 			"contents": "OPEN_MASTER_LOOT_LIST",
 		},
 		{
+			"trigger": "OPEN_REPORT_PLAYER\t\"event\"",
+			"contents": "OPEN_REPORT_PLAYER",
+		},
+		{
 			"trigger": "OPEN_TABARD_FRAME\t\"event\"",
 			"contents": "OPEN_TABARD_FRAME",
 		},
@@ -2568,6 +2604,10 @@
 		{
 			"trigger": "PARTY_REFER_A_FRIEND_UPDATED\t\"event\"",
 			"contents": "PARTY_REFER_A_FRIEND_UPDATED",
+		},
+		{
+			"trigger": "PENDING_AZERITE_ESSENCE_CHANGED\t\"event\"",
+			"contents": "PENDING_AZERITE_ESSENCE_CHANGED",
 		},
 		{
 			"trigger": "PET_ATTACK_START\t\"event\"",
@@ -2656,6 +2696,10 @@
 		{
 			"trigger": "PET_BATTLE_OVER\t\"event\"",
 			"contents": "PET_BATTLE_OVER",
+		},
+		{
+			"trigger": "PET_BATTLE_OVERRIDE_ABILITY\t\"event\"",
+			"contents": "PET_BATTLE_OVERRIDE_ABILITY",
 		},
 		{
 			"trigger": "PET_BATTLE_PET_CHANGED\t\"event\"",
@@ -2946,12 +2990,28 @@
 			"contents": "PLAYER_SPECIALIZATION_CHANGED",
 		},
 		{
+			"trigger": "PLAYER_STARTED_LOOKING\t\"event\"",
+			"contents": "PLAYER_STARTED_LOOKING",
+		},
+		{
 			"trigger": "PLAYER_STARTED_MOVING\t\"event\"",
 			"contents": "PLAYER_STARTED_MOVING",
 		},
 		{
+			"trigger": "PLAYER_STARTED_TURNING\t\"event\"",
+			"contents": "PLAYER_STARTED_TURNING",
+		},
+		{
+			"trigger": "PLAYER_STOPPED_LOOKING\t\"event\"",
+			"contents": "PLAYER_STOPPED_LOOKING",
+		},
+		{
 			"trigger": "PLAYER_STOPPED_MOVING\t\"event\"",
 			"contents": "PLAYER_STOPPED_MOVING",
+		},
+		{
+			"trigger": "PLAYER_STOPPED_TURNING\t\"event\"",
+			"contents": "PLAYER_STOPPED_TURNING",
 		},
 		{
 			"trigger": "PLAYER_TALENT_UPDATE\t\"event\"",
@@ -3010,8 +3070,12 @@
 			"contents": "PORTRAITS_UPDATED",
 		},
 		{
-			"trigger": "PRESTIGE_AND_HONOR_INVOLUNTARILY_CHANGED\t\"event\"",
-			"contents": "PRESTIGE_AND_HONOR_INVOLUNTARILY_CHANGED",
+			"trigger": "POST_MATCH_CURRENCY_REWARD_UPDATE\t\"event\"",
+			"contents": "POST_MATCH_CURRENCY_REWARD_UPDATE",
+		},
+		{
+			"trigger": "POST_MATCH_ITEM_REWARD_UPDATE\t\"event\"",
+			"contents": "POST_MATCH_ITEM_REWARD_UPDATE",
 		},
 		{
 			"trigger": "PRODUCT_CHOICE_UPDATE\t\"event\"",
@@ -3024,6 +3088,18 @@
 		{
 			"trigger": "PVP_BRAWL_INFO_UPDATED\t\"event\"",
 			"contents": "PVP_BRAWL_INFO_UPDATED",
+		},
+		{
+			"trigger": "PVP_MATCH_ACTIVE\t\"event\"",
+			"contents": "PVP_MATCH_ACTIVE",
+		},
+		{
+			"trigger": "PVP_MATCH_COMPLETE\t\"event\"",
+			"contents": "PVP_MATCH_COMPLETE",
+		},
+		{
+			"trigger": "PVP_MATCH_INACTIVE\t\"event\"",
+			"contents": "PVP_MATCH_INACTIVE",
 		},
 		{
 			"trigger": "PVP_POWER_UPDATE\t\"event\"",
@@ -3938,6 +4014,10 @@
 			"contents": "TRANSMOGRIFY_UPDATE",
 		},
 		{
+			"trigger": "TREASURE_PICKER_CACHE_FLUSH\t\"event\"",
+			"contents": "TREASURE_PICKER_CACHE_FLUSH",
+		},
+		{
 			"trigger": "TRIAL_CAP_REACHED_LEVEL\t\"event\"",
 			"contents": "TRIAL_CAP_REACHED_LEVEL",
 		},
@@ -4382,10 +4462,6 @@
 			"contents": "UPDATE_WEB_TICKET",
 		},
 		{
-			"trigger": "UPDATE_WORLD_STATES\t\"event\"",
-			"contents": "UPDATE_WORLD_STATES",
-		},
-		{
 			"trigger": "USE_BIND_CONFIRM\t\"event\"",
 			"contents": "USE_BIND_CONFIRM",
 		},
@@ -4430,16 +4506,8 @@
 			"contents": "VEHICLE_UPDATE",
 		},
 		{
-			"trigger": "VIGNETTE_ADDED\t\"event\"",
-			"contents": "VIGNETTE_ADDED",
-		},
-		{
 			"trigger": "VIGNETTE_MINIMAP_UPDATED\t\"event\"",
 			"contents": "VIGNETTE_MINIMAP_UPDATED",
-		},
-		{
-			"trigger": "VIGNETTE_REMOVED\t\"event\"",
-			"contents": "VIGNETTE_REMOVED",
 		},
 		{
 			"trigger": "VIGNETTES_UPDATED\t\"event\"",
@@ -4634,12 +4702,12 @@
 			"contents": "WARFRONT_COMPLETED",
 		},
 		{
-			"trigger": "WARFRONT_UPDATE\t\"event\"",
-			"contents": "WARFRONT_UPDATE",
-		},
-		{
 			"trigger": "WARGAME_REQUESTED\t\"event\"",
 			"contents": "WARGAME_REQUESTED",
+		},
+		{
+			"trigger": "WAYPOINT_UPDATE\t\"event\"",
+			"contents": "WAYPOINT_UPDATE",
 		},
 		{
 			"trigger": "WEAR_EQUIPMENT_SET\t\"event\"",
@@ -4648,10 +4716,6 @@
 		{
 			"trigger": "WHO_LIST_UPDATE\t\"event\"",
 			"contents": "WHO_LIST_UPDATE",
-		},
-		{
-			"trigger": "WORLD_MAP_UPDATE\t\"event\"",
-			"contents": "WORLD_MAP_UPDATE",
 		},
 		{
 			"trigger": "WORLD_QUEST_COMPLETED_BY_SPELL\t\"event\"",
@@ -4664,10 +4728,6 @@
 		{
 			"trigger": "WORLD_STATE_TIMER_STOP\t\"event\"",
 			"contents": "WORLD_STATE_TIMER_STOP",
-		},
-		{
-			"trigger": "WORLD_STATE_UI_TIMER_UPDATE\t\"event\"",
-			"contents": "WORLD_STATE_UI_TIMER_UPDATE",
 		},
 		{
 			"trigger": "WOW_MOUSE_NOT_FOUND\t\"event\"",

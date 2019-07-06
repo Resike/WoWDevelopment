@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UNIT_POWER_BAR_HIDE()]]></content>
-	<tabTrigger>_UNIT_POWER_BAR_HIDE</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

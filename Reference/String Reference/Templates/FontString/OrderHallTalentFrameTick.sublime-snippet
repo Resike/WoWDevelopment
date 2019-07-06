@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OrderHallTalentFrameTick]]></content>
-	<tabTrigger>OrderHallTalentFrameTick</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.fontstring</scope>
-</snippet>

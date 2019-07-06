@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VOICE_CHAT_CHANNEL_MEMBER_ACTIVE_STATE_CHANGED(${1:...})$0]]></content>
-	<tabTrigger>VOICE_CHAT_CHANNEL_MEMBER_ACTIVE_STATE_CHANGED</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

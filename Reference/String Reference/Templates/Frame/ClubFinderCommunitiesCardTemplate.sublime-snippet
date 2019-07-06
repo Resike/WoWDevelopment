@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ClubFinderCommunitiesCardTemplate]]></content>
+	<tabTrigger>ClubFinderCommunitiesCardTemplate</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.frame</scope>
+</snippet>

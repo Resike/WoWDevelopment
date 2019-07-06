@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PENDING_AZERITE_ESSENCE_CHANGED(essenceID)]]></content>
+	<tabTrigger>_PENDING_AZERITE_ESSENCE_CHANGED</tabTrigger>
+	<description>(essenceID)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

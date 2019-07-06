@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AZERITE_ESSENCE_CHANGED(essenceID, newRank)]]></content>
+	<tabTrigger>_AZERITE_ESSENCE_CHANGED</tabTrigger>
+	<description>(essenceID, newRank)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

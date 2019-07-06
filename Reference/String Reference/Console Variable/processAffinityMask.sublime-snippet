@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[processAffinityMask]]></content>
-	<tabTrigger>processAffinityMask</tabTrigger>
-	<description>"CVar"</description>
-	<scope>source.lua string.cvartype</scope>
-</snippet>

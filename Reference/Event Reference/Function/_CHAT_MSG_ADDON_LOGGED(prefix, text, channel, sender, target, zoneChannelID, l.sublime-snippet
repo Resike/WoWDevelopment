@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHAT_MSG_ADDON_LOGGED(prefix, text, channel, sender, target, zoneChannelID, localID, name, instanceID)]]></content>
+	<tabTrigger>_CHAT_MSG_ADDON_LOGGED</tabTrigger>
+	<description>(prefix, text, channel, sender, target, zoneChannelID, localID, name, instanceID)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

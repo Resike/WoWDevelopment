@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CURRENCY_DISPLAY_UPDATE(currencyType, quantity)]]></content>
-	<tabTrigger>_CURRENCY_DISPLAY_UPDATE</tabTrigger>
-	<description>(currencyType, quantity)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

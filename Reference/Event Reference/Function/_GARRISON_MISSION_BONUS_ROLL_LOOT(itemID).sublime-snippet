@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GARRISON_MISSION_BONUS_ROLL_LOOT(itemID)]]></content>
-	<tabTrigger>_GARRISON_MISSION_BONUS_ROLL_LOOT</tabTrigger>
-	<description>(itemID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

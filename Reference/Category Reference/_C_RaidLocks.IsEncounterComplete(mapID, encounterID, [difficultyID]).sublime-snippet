@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:encounterIsComplete} = C_RaidLocks.IsEncounterComplete(${2:mapID}, ${3:encounterID}, [${4:difficultyID}])$0]]></content>
+	<tabTrigger>_C_RaidLocks.IsEncounterComplete</tabTrigger>
+	<description>(mapID, encounterID, [difficultyID])</description>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+</snippet>

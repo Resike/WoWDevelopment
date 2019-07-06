@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:hasSeenConfigurationWarning} = C_ConfigurationWarnings.GetConfigurationWarningSeen(${2:configurationWarning})$0]]></content>
-	<tabTrigger>_C_ConfigurationWarnings.GetConfigurationWarningSeen</tabTrigger>
-	<description>(configurationWarning)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

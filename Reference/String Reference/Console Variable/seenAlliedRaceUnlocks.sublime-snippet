@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[seenAlliedRaceUnlocks]]></content>
+	<tabTrigger>seenAlliedRaceUnlocks</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

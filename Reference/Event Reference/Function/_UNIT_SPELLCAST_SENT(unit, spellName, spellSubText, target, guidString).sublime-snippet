@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UNIT_SPELLCAST_SENT(unit, spellName, spellSubText, target, guidString)]]></content>
-	<tabTrigger>_UNIT_SPELLCAST_SENT</tabTrigger>
-	<description>(unit, spellName, spellSubText, target, guidString)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

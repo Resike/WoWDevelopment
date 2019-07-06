@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PetStable-TabUnsel-Right]]></content>
+	<tabTrigger>PetStable-TabUnsel-Right</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

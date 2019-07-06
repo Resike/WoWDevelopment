@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WorldStateScoreColumnTemplate]]></content>
-	<tabTrigger>WorldStateScoreColumnTemplate</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.frame</scope>
-</snippet>

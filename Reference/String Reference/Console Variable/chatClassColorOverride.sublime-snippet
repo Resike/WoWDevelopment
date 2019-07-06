@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[chatClassColorOverride]]></content>
+	<tabTrigger>chatClassColorOverride</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

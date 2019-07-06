@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CHAT_MSG_BG_SYSTEM_NEUTRAL(text, playerName, languageName, channelName, ...)]]></content>
-	<tabTrigger>_CHAT_MSG_BG_SYSTEM_NEUTRAL</tabTrigger>
-	<description>(text, playerName, languageName, channelName, ...)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

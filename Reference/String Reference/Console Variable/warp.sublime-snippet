@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[warp]]></content>
-	<tabTrigger>warp</tabTrigger>
-	<description>"CVar"</description>
-	<scope>source.lua string.cvartype</scope>
-</snippet>

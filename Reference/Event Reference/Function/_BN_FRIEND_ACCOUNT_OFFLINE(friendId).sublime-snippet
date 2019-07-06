@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BN_FRIEND_ACCOUNT_OFFLINE(friendId)]]></content>
-	<tabTrigger>_BN_FRIEND_ACCOUNT_OFFLINE</tabTrigger>
-	<description>(friendId)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

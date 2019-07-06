@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UNIT_LEVEL()]]></content>
-	<tabTrigger>_UNIT_LEVEL</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

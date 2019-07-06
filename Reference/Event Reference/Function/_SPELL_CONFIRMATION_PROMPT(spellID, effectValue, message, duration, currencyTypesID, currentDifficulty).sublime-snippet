@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SPELL_CONFIRMATION_PROMPT(spellID, effectValue, message, duration, currencyTypesID, currentDifficulty)]]></content>
-	<tabTrigger>_SPELL_CONFIRMATION_PROMPT</tabTrigger>
-	<description>(spellID, effectValue, message, duration, currencyTypesID, currentDifficulty)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

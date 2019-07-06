@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UI-EJ-MapButtonLg-Select]]></content>
+	<tabTrigger>UI-EJ-MapButtonLg-Select</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

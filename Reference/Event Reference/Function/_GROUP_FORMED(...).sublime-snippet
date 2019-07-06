@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GROUP_FORMED(${1:...})$0]]></content>
-	<tabTrigger>GROUP_FORMED</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

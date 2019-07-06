@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ADDON_ACTION_FORBIDDEN(isTainted, function)]]></content>
-	<tabTrigger>_ADDON_ACTION_FORBIDDEN</tabTrigger>
-	<description>(isTainted, function)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

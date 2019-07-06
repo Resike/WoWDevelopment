@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UI-EJ-DungeonGridTab-RightHighlight]]></content>
+	<tabTrigger>UI-EJ-DungeonGridTab-RightHighlight</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

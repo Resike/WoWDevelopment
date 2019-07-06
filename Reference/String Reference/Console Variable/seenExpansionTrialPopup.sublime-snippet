@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[seenExpansionTrialPopup]]></content>
+	<tabTrigger>seenExpansionTrialPopup</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

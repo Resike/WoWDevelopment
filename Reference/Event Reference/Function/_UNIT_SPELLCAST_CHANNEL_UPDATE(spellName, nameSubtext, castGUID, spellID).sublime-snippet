@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UNIT_SPELLCAST_CHANNEL_UPDATE(spellName, nameSubtext, castGUID, spellID)]]></content>
-	<tabTrigger>_UNIT_SPELLCAST_CHANNEL_UPDATE</tabTrigger>
-	<description>(spellName, nameSubtext, castGUID, spellID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

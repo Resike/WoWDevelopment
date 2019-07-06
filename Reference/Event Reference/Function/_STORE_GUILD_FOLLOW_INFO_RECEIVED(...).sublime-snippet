@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[STORE_GUILD_FOLLOW_INFO_RECEIVED(${1:...})$0]]></content>
-	<tabTrigger>STORE_GUILD_FOLLOW_INFO_RECEIVED</tabTrigger>
+	<content><![CDATA[STORE_GUILD_FOLLOW_INFO_RECEIVED(...)]]></content>
+	<tabTrigger>_STORE_GUILD_FOLLOW_INFO_RECEIVED</tabTrigger>
 	<description>(...)</description>
 	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
 </snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NAME_PLATE_UNIT_REMOVED(unitToken)]]></content>
-	<tabTrigger>_NAME_PLATE_UNIT_REMOVED</tabTrigger>
-	<description>(unitToken)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

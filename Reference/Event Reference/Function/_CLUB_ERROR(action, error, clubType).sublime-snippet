@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLUB_ERROR(action, error, clubType)]]></content>
+	<tabTrigger>_CLUB_ERROR</tabTrigger>
+	<description>(action, error, clubType)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

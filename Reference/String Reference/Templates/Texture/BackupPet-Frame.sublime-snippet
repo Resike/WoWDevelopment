@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BackupPet-Frame]]></content>
+	<tabTrigger>BackupPet-Frame</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

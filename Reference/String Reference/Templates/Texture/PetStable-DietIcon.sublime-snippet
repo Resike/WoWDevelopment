@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PetStable-DietIcon]]></content>
+	<tabTrigger>PetStable-DietIcon</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

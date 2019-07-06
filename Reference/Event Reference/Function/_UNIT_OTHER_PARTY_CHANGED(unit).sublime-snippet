@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UNIT_OTHER_PARTY_CHANGED(unit)]]></content>
+	<tabTrigger>_UNIT_OTHER_PARTY_CHANGED</tabTrigger>
+	<description>(unit)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

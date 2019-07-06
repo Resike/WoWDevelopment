@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UNIT_QUEST_LOG_CHANGED()]]></content>
-	<tabTrigger>_UNIT_QUEST_LOG_CHANGED</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LootUpgradeFrame_ItemNameTemplate]]></content>
-	<tabTrigger>LootUpgradeFrame_ItemNameTemplate</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.fontstring</scope>
-</snippet>

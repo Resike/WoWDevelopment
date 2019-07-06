@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PLAYER_GAINS_VEHICLE_DATA(vehicleUIIndicatorID)]]></content>
-	<tabTrigger>_PLAYER_GAINS_VEHICLE_DATA</tabTrigger>
-	<description>(vehicleUIIndicatorID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

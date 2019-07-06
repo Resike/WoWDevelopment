@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[communitiesShowOffline]]></content>
+	<tabTrigger>communitiesShowOffline</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

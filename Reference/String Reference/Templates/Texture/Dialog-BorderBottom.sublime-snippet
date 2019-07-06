@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Dialog-BorderBottom]]></content>
+	<tabTrigger>Dialog-BorderBottom</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

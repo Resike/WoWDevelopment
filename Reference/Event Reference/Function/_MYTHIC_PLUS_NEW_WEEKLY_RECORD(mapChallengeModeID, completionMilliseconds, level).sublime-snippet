@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MYTHIC_PLUS_NEW_WEEKLY_RECORD(mapChallengeModeID, completionMilliseconds, level)]]></content>
+	<tabTrigger>_MYTHIC_PLUS_NEW_WEEKLY_RECORD</tabTrigger>
+	<description>(mapChallengeModeID, completionMilliseconds, level)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

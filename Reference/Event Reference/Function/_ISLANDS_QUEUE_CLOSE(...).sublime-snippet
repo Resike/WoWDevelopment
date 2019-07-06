@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ISLANDS_QUEUE_CLOSE(${1:...})$0]]></content>
-	<tabTrigger>ISLANDS_QUEUE_CLOSE</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

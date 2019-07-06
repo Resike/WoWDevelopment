@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[hbaoPowerExp]]></content>
-	<tabTrigger>hbaoPowerExp</tabTrigger>
-	<description>"CVar"</description>
-	<scope>source.lua string.cvartype</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[outlineMouseOverFadeDuration]]></content>
-	<tabTrigger>outlineMouseOverFadeDuration</tabTrigger>
-	<description>"CVar"</description>
-	<scope>source.lua string.cvartype</scope>
-</snippet>

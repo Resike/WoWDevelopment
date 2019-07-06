@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[newMythicPlusSeason]]></content>
+	<tabTrigger>newMythicPlusSeason</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

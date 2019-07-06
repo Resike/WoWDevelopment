@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BehaviorTree]]></content>
+	<tabTrigger>BehaviorTree</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

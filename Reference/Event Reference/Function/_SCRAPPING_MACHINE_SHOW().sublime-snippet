@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SCRAPPING_MACHINE_SHOW()]]></content>
+	<tabTrigger>_SCRAPPING_MACHINE_SHOW</tabTrigger>
+	<description>()</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

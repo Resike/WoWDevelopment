@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[legacyBankSwap]]></content>
-	<tabTrigger>legacyBankSwap</tabTrigger>
-	<description>"CVar"</description>
-	<scope>source.lua string.cvartype</scope>
-</snippet>
