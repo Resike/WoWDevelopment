@@ -918,10 +918,6 @@
 			"contents": "NewSubSpellFont",
 		},
 		{
-			"trigger": "NPE_TutorialKeyString\t\"template\"",
-			"contents": "NPE_TutorialKeyString",
-		},
-		{
 			"trigger": "Number12Font_o1\t\"template\"",
 			"contents": "Number12Font_o1",
 		},
@@ -1400,6 +1396,14 @@
 		{
 			"trigger": "SystemFont_Small2\t\"template\"",
 			"contents": "SystemFont_Small2",
+		},
+		{
+			"trigger": "SystemFont_Tiny\t\"template\"",
+			"contents": "SystemFont_Tiny",
+		},
+		{
+			"trigger": "SystemFont_Tiny2\t\"template\"",
+			"contents": "SystemFont_Tiny2",
 		},
 		{
 			"trigger": "SystemFont_World\t\"template\"",
