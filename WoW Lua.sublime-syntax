@@ -17,6 +17,8 @@ variables:
       local|or|repeat|return|then|until|while
     ){{identifier_break}})
 
+  metaproperty: (?:__(?:metatable|mode){{identifier_break}})
+
   metamethod: |-
     (?x:__(?:
       # special
@@ -27,9 +29,7 @@ variables:
       |band|bor|bxor|bnot|shl|shr
       # comparison
       |eq|lt|le
-    ))
-
-  metaproperty: (?:__(?:metatable|mode))
+    ){{identifier_break}})
 
   identifier_start: (?:[A-Za-z_])
   identifier_char: (?:[A-Za-z0-9_])
