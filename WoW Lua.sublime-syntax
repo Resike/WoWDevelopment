@@ -4241,9 +4241,9 @@ contexts:
       scope: meta.property.lua entity.name.function.lua
       pop: true
 
-    - match: '{{identifier}}{{function_call_ahead}}'
-      scope: meta.property.lua variable.function.lua
-      pop: true
+    # - match: '{{identifier}}{{function_call_ahead}}'
+    #   scope: meta.property.lua variable.function.lua
+    #   pop: true
 
     - match: '{{metaproperty}}'
       scope: meta.property.lua support.other.metaproperty.lua
