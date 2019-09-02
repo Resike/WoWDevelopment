@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:isEqual} = rawequal(${2:v1}, ${3:v2})$0]]></content>
 	<tabTrigger>_rawequal</tabTrigger>
 	<description>(v1, v2)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -3,6 +3,6 @@
 	${0}
 ${2:end}]]></content>
 	<tabTrigger>if</tabTrigger>
-	<scope>source.lua - string</scope>
+	<scope>source.lua - entity - punctuation - string - meta.function.arguments.lua - meta.function-call.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 	<description>if x then</description>
 </snippet>

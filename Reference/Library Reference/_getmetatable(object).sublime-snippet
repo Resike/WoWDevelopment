@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:metatable} = getmetatable(${2:object})$0]]></content>
 	<tabTrigger>_getmetatable</tabTrigger>
 	<description>(object)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

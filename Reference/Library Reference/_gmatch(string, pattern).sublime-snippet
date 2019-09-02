@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:iterator} = gmatch("${2:string}", "${3:pattern}")$0]]></content>
 	<tabTrigger>_gmatch</tabTrigger>
 	<description>("string", "pattern")</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

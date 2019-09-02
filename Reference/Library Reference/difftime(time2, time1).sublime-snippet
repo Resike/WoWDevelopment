@@ -2,5 +2,5 @@
 	<content><![CDATA[difftime(${1:time2}, ${2:time1})$0]]></content>
 	<tabTrigger>difftime</tabTrigger>
 	<description>(time2, time1)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

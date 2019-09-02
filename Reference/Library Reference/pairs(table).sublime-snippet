@@ -2,5 +2,5 @@
 	<content><![CDATA[pairs(${1:table})$0]]></content>
 	<tabTrigger>pairs</tabTrigger>
 	<description>(table)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

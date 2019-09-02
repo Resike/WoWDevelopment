@@ -2,5 +2,5 @@
 	<content><![CDATA[setprinthandler(${1:printHandler})$0]]></content>
 	<tabTrigger>setprinthandler</tabTrigger>
 	<description>(printHandler)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

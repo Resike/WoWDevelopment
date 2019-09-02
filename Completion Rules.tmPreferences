@@ -6,7 +6,7 @@
 		<key>settings</key>
 		<dict>
 			<key>cancelCompletion</key>
-			<string>^\s*\b(and|break|do|else|elseif|end|for|function|if|in|local|not|or|repeat|return|then|until|while)$</string>
+			<string>^\s*\b(and|break|do|else|elseif|end|false|for|function|if|in|local|nil|not|or|repeat|return|then|true|until|while)$</string>
 		</dict>
 	</dict>
 </plist>

@@ -5,6 +5,6 @@ while ${1:true} do
 end
 ]]></content>
 	<tabTrigger>while</tabTrigger>
-	<scope>source.lua - entity - punctuation - string</scope>
+	<scope>source.lua - entity - punctuation - string - meta.function.arguments.lua - meta.function-call.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 	<description>while (true) do</description>
 </snippet>

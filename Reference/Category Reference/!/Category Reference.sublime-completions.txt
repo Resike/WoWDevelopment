@@ -6214,8 +6214,8 @@
 			"contents": "C_TradeSkillUI.IsRecipeCategoryFiltered(${1:...})$0",
 		},
 		{
-			"trigger": "C_TradeSkillUI.IsRecipeFavorite\t(...)",
-			"contents": "C_TradeSkillUI.IsRecipeFavorite(${1:...})$0",
+			"trigger": "C_TradeSkillUI.IsRecipeFavorite\t(recipeID)",
+			"contents": "C_TradeSkillUI.IsRecipeFavorite(${1:recipeID})$0",
 		},
 		{
 			"trigger": "C_TradeSkillUI.IsRecipeRepeating\t(...)",
@@ -9877,6 +9877,10 @@
 		{
 			"trigger": "_C_TradeSkillUI.IsEmptySkillLineCategory\t(categoryID)",
 			"contents": "${1:effectivelyKnown} = C_TradeSkillUI.IsEmptySkillLineCategory(${2:categoryID})$0",
+		},
+		{
+			"trigger": "_C_TradeSkillUI.IsRecipeFavorite\t(recipeID)",
+			"contents": "${1:isFavorite} = C_TradeSkillUI.IsRecipeFavorite(${2:recipeID})$0",
 		},
 		{
 			"trigger": "_C_Transmog.GetCreatureDisplayIDForSource\t(itemModifiedAppearanceID)",
