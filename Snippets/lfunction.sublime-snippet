@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[if ${1:a} == ${2:b} then
+	<content><![CDATA[local function ${1:FunctionName}(${2:...})
 	$0
-${3:end}]]></content>
-	<tabTrigger>if=</tabTrigger>
+end]]></content>
+	<tabTrigger>lfunction</tabTrigger>
+	<description>FunctionName(...)</description>
 	<scope>source.lua - entity - punctuation - string - meta.function.arguments.lua - meta.function-call.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
-	<description>if a == b then</description>
 </snippet>

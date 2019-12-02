@@ -3840,7 +3840,7 @@ contexts:
           scope: punctuation.definition.comment.end.lua
           pop: true
 
-    - match: (--).*
+    - match: (--).*\n
       scope: comment.line.lua
       captures:
         1: punctuation.definition.comment.lua
@@ -3859,10 +3859,15 @@ contexts:
     - match: ;
       scope: punctuation.terminator.statement.lua
 
+    - match: (local)\s+({{identifier}}){{function_assignment_ahead}}
+      captures:
+        1: keyword.control.lua
+        2: entity.name.function.lua
+
     - match: (local)\s+(?!function)\s*({{identifier}})((\s*(,)\s*({{identifier}}))*)?
       captures:
         1: keyword.control.lua
-        4: punctuation.separator.lua
+        5: punctuation.separator.lua
 
     - match: function{{identifier_break}}
       scope: keyword.control.function.lua
@@ -4120,6 +4125,12 @@ contexts:
     - match: (?=;)
       pop: true
 
+    - include: builtin
+
+    - match: '{{identifier}}{{function_assignment_ahead}}'
+      scope: entity.name.function.lua
+      pop: true
+
     - match: '\b(spairs)\b'
       scope: support.function.lua-library.lua
     - match: '\b(abs|acos|asin|atan|atan2|ceil|class|cos|date|debuglocals|debugprofilestart|debugprofilestop|debugstack|deg|difftime|escapePatternSymbols|exp|fastrandom|floor|forceinsecure|foreach|foreachi|format|frexp|gcinfo|geterrorhandler|getfenv|getglobal|getn|getprinthandler|gmatch|gsub|hooksecurefunc|includes|instanceOf|issecure|issecurevariable|ldexp|loadstring|log|log10|max|message|min|mod|newproxy|nop|rad|random|rtable|scrub|securecall|seterrorhandler|setfenv|setglobal|setprinthandler|sin|sort|sqrt|strbyte|strchar|strcmputf8i|strconcat|strfind|strjoin|strlen|strlenutf8|strlower|strmatch|strrep|strrev|strsplit|strsub|strtrim|strupper|subclassOf|tan|tContains|tDeleteItem|tFilter|time|tIndexOf|tinsert|tInvert|tostringall|tremove|unpack|wipe)\b'
@@ -4170,7 +4181,6 @@ contexts:
       scope: constant.numeric.numbers.lua
 
     - include: prefix-operator
-    - include: builtin
     - include: support
     - include: variable
     - include: number
