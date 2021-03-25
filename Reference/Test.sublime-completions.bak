@@ -1,0 +1,9 @@
+{
+	"scope": "source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua",
+	"completions": [
+		{"trigger": "TESTXCOMP", "annotation": "()", "contents": "TESTCOMP()$0", "kind": ["markup", "f", "function"], "details": "Test <code>function</code>. <a href='https://www.google.com/'>link</a>"},
+		{"trigger": "TESTXVOID", "annotation": "()", "contents": "TESTCOMP()$0", "kind": ["keyword", "f", "function"], "details": "Test <code>function</code>. <a href='https://www.google.com/'>link</a>"},
+		{"trigger": "TESTXPARAMLESS", "annotation": "()", "contents": "TESTCOMP()$0", "kind": ["navigation", "f", "function"], "details": "Test <code>function</code>. <a href='https://www.google.com/'>link</a>"},
+		{"trigger": "SOUNDKIT.ACHIEVEMENT_MENU_CLOSE", "annotation": "13833", "contents": "SOUNDKIT.ACHIEVEMENT_MENU_CLOSE$0", "kind": ["type", "s", "SoundKit"], "details": "<html><head><meta name=\"viewport\" content=\"width=device-width\"></head><body><video controls=\"\" autoplay=\"\" name=\"media\"><source src=\"https://wow.tools/casc/preview/chash?buildconfig=806f4fd265de05a9b328310fcc42eed0&cdnconfig=b225a5d105393ef582066157f7dd34fc&filename=sound%2Finterface%2Fachievementmenuclose.ogg&contenthash=070a44784736dd982f33821456847d84\" type=\"audio/ogg\"></video></body></html>"},
+	]
+}

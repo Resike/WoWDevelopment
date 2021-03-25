@@ -3840,10 +3840,14 @@ contexts:
           scope: punctuation.definition.comment.end.lua
           pop: true
 
-    - match: (--).*\n
+    - match: (---|--)\s*
       scope: comment.line.lua
-      captures:
-        1: punctuation.definition.comment.lua
+      push:
+        - match: \@\w*
+          scope: storage.type.annotation.lua
+        - match: .*
+          scope: comment.line.lua
+          pop: true
 
   end:
     - match: end{{identifier_break}}
@@ -3858,6 +3862,10 @@ contexts:
   statements:
     - match: ;
       scope: punctuation.terminator.statement.lua
+
+    - match: end{{identifier_break}}
+      scope: invalid.illegal.unexpected-end.lua
+      pop: true
 
     - match: (local)\s+({{identifier}}){{function_assignment_ahead}}
       captures:
@@ -3889,9 +3897,6 @@ contexts:
     - match: local{{identifier_break}}
       scope: storage.modifier.lua
       push: expression-list
-
-    - match: end{{identifier_break}}
-      scope: invalid.illegal.unexpected-end.lua
 
     - match: (?=\S)
       push: expression
@@ -4227,7 +4232,7 @@ contexts:
       scope: punctuation.accessor.lua
       push: punctuation-call
 
-    - match: '[.:]'
+    - match: '[:]'
       scope: punctuation.accessor.lua
       push: method-call
 
@@ -4420,7 +4425,8 @@ contexts:
         - include: else-pop
 
     - match: \n
-      scope: invalid.illegal.newline.lua
+      scope: invalid.illegal.unclosed-string.lua
+      pop: true
 
     - match: \\.
       scope: invalid.illegal.invalid-escape.lua
@@ -4534,20 +4540,20 @@ contexts:
             - include: property
         - include: else-pop
 
-    - match: debug{{identifier_break}}
-      scope: support.constant.builtin.lua
-      set:
-        - match: \.
-          scope: punctuation.accessor.lua
-          set:
-            - match: |-
-                (?x:
-                  debug|gethook|getinfo|getlocal|getmetatable|getregistry|getupvalue|getuservalue|sethook|setlocal|setmetatable|setupvalue|setuservalue|traceback|upvalueid|upvaluejoin
-                ){{identifier_break}}
-              scope: meta.property.lua support.function.builtin.lua
-              pop: true
-            - include: property
-        - include: else-pop
+    # - match: debug{{identifier_break}}
+    #   scope: support.constant.builtin.lua
+    #   set:
+    #     - match: \.
+    #       scope: punctuation.accessor.lua
+    #       set:
+    #         - match: |-
+    #             (?x:
+    #               debug|gethook|getinfo|getlocal|getmetatable|getregistry|getupvalue|getuservalue|sethook|setlocal|setmetatable|setupvalue|setuservalue|traceback|upvalueid|upvaluejoin
+    #             ){{identifier_break}}
+    #           scope: meta.property.lua support.function.builtin.lua
+    #           pop: true
+    #         - include: property
+    #     - include: else-pop
 
     # - match: io{{identifier_break}}
     #   scope: support.constant.builtin.lua
