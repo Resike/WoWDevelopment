@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[C_AccountInfo.IsGUIDRelatedToLocalAccount("${1:guid}")$0]]></content>
-	<tabTrigger>C_AccountInfo.IsGUIDRelatedToLocalAccount</tabTrigger>
+	<content><![CDATA[IsGUIDRelatedToLocalAccount("${1:guid}")$0]]></content>
+	<tabTrigger>IsGUIDRelatedToLocalAccount</tabTrigger>
 	<description>("guid")</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>wow-method-accountinfo.lua</scope>
 </snippet>

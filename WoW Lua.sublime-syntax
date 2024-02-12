@@ -742,6 +742,9 @@ contexts:
                 ){{identifier_break}}
               scope: meta.property.lua support.function.wow-api.lua
               pop: true
+            - match: \w*
+              scope: meta.property.lua wow-method-accountinfo.lua
+              pop: true
             - include: property
         - include: else-pop
 
