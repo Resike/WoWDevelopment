@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ISLAND_AZERITE_GAIN(amount, gainedByPlayer, factionIndex, gainedBy, gainedFrom)]]></content>
+	<tabTrigger>_ISLAND_AZERITE_GAIN</tabTrigger>
+	<description>(amount, gainedByPlayer, factionIndex, gainedBy, gainedFrom)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

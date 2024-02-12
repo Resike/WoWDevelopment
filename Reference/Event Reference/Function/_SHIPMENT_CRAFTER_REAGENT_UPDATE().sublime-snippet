@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SHIPMENT_CRAFTER_REAGENT_UPDATE()]]></content>
+	<tabTrigger>_SHIPMENT_CRAFTER_REAGENT_UPDATE</tabTrigger>
+	<description>()</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

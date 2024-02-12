@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILDBANK_UPDATE_TABS()]]></content>
+	<tabTrigger>_GUILDBANK_UPDATE_TABS</tabTrigger>
+	<description>()</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

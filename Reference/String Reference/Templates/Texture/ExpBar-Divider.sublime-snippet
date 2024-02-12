@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ExpBar-Divider]]></content>
+	<tabTrigger>ExpBar-Divider</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

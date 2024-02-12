@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLUB_MESSAGE_HISTORY_RECEIVED(clubId, streamId, downloadedRange, contiguousRange)]]></content>
+	<tabTrigger>_CLUB_MESSAGE_HISTORY_RECEIVED</tabTrigger>
+	<description>(clubId, streamId, downloadedRange, contiguousRange)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

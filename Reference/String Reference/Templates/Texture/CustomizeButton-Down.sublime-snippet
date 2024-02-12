@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CustomizeButton-Down]]></content>
+	<tabTrigger>CustomizeButton-Down</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

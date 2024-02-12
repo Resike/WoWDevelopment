@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UNIT_COMBAT(unit, event, flagText, amount, schoolMask)]]></content>
+	<tabTrigger>_UNIT_COMBAT</tabTrigger>
+	<description>(unit, event, flagText, amount, schoolMask)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

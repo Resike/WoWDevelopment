@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[assaoDetailShadowStrength]]></content>
+	<tabTrigger>assaoDetailShadowStrength</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

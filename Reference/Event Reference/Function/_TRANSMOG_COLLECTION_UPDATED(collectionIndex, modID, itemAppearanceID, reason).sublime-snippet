@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TRANSMOG_COLLECTION_UPDATED(collectionIndex, modID, itemAppearanceID, reason)]]></content>
+	<tabTrigger>_TRANSMOG_COLLECTION_UPDATED</tabTrigger>
+	<description>(collectionIndex, modID, itemAppearanceID, reason)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Start-BackupPetRing]]></content>
+	<tabTrigger>Start-BackupPetRing</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

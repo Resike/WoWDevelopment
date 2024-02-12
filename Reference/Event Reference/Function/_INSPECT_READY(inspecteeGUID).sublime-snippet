@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[INSPECT_READY(inspecteeGUID)]]></content>
+	<tabTrigger>_INSPECT_READY</tabTrigger>
+	<description>(inspecteeGUID)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

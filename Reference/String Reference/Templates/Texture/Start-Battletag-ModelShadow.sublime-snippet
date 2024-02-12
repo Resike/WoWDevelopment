@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Start-Battletag-ModelShadow]]></content>
+	<tabTrigger>Start-Battletag-ModelShadow</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

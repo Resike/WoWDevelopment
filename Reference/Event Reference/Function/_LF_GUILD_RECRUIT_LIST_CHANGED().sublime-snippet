@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LF_GUILD_RECRUIT_LIST_CHANGED()]]></content>
+	<tabTrigger>_LF_GUILD_RECRUIT_LIST_CHANGED</tabTrigger>
+	<description>()</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

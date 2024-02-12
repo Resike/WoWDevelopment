@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[assaoNormals]]></content>
+	<tabTrigger>assaoNormals</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[pvpBlacklistMaps1]]></content>
-	<tabTrigger>pvpBlacklistMaps1</tabTrigger>
-	<description>"CVar"</description>
-	<scope>source.lua string.cvartype</scope>
-</snippet>

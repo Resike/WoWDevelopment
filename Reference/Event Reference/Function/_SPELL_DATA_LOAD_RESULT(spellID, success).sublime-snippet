@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SPELL_DATA_LOAD_RESULT(spellID, success)]]></content>
+	<tabTrigger>_SPELL_DATA_LOAD_RESULT</tabTrigger>
+	<description>(spellID, success)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[clubFinderCacheExpiry]]></content>
+	<tabTrigger>clubFinderCacheExpiry</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

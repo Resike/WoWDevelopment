@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TOKEN_MARKET_PRICE_UPDATED(result)]]></content>
+	<tabTrigger>_TOKEN_MARKET_PRICE_UPDATED</tabTrigger>
+	<description>(result)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

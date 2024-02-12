@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AJ_PVP_ACTION(battleMasterListID)]]></content>
+	<tabTrigger>_AJ_PVP_ACTION</tabTrigger>
+	<description>(battleMasterListID)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

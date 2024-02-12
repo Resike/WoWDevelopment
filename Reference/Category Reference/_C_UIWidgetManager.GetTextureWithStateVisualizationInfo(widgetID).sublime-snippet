@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:widgetInfo} = C_UIWidgetManager.GetTextureWithStateVisualizationInfo(${2:widgetID})$0]]></content>
-	<tabTrigger>_C_UIWidgetManager.GetTextureWithStateVisualizationInfo</tabTrigger>
-	<description>(widgetID)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

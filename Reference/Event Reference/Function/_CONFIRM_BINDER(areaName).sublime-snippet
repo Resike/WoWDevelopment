@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CONFIRM_BINDER(areaName)]]></content>
+	<tabTrigger>_CONFIRM_BINDER</tabTrigger>
+	<description>(areaName)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

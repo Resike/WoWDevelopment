@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HEARTHSTONE_BOUND()]]></content>
+	<tabTrigger>_HEARTHSTONE_BOUND</tabTrigger>
+	<description>()</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

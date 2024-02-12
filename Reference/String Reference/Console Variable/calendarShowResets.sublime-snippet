@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[calendarShowResets]]></content>
-	<tabTrigger>calendarShowResets</tabTrigger>
-	<description>"CVar"</description>
-	<scope>source.lua string.cvartype</scope>
-</snippet>

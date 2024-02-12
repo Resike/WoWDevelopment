@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TalentHeader-ParchmentBG]]></content>
+	<tabTrigger>TalentHeader-ParchmentBG</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PROVING_GROUNDS_SCORE_UPDATE(points)]]></content>
+	<tabTrigger>_PROVING_GROUNDS_SCORE_UPDATE</tabTrigger>
+	<description>(points)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

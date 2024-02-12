@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[COMPACT_UNIT_FRAME_PROFILES_LOADED()]]></content>
+	<tabTrigger>_COMPACT_UNIT_FRAME_PROFILES_LOADED</tabTrigger>
+	<description>()</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

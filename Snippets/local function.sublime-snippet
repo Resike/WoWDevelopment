@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[local function ${1:FunctionName}(${2:...})
-	${0:}
+	$0
 end]]></content>
 	<tabTrigger>local function</tabTrigger>
 	<description>(...)</description>
-	<scope>source.lua - entity - punctuation - string</scope>
+	<scope>source.lua - entity - punctuation - string - meta.function.arguments.lua - meta.function-call.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

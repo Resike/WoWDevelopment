@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TUTORIAL_UNHIGHLIGHT_SPELL()]]></content>
+	<tabTrigger>_TUTORIAL_UNHIGHLIGHT_SPELL</tabTrigger>
+	<description>()</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

@@ -3553,7 +3553,7 @@ contexts:
     - match: \(
       scope: punctuation.section.group.begin.lua
       set:
-        - meta_scope: meta.group.lua
+        - meta_scope: meta.group.lua meta.function.arguments.lua
         - match: \)
           scope: punctuation.section.group.end.lua
           pop: 1

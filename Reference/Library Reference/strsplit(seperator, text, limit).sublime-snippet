@@ -2,5 +2,5 @@
 	<content><![CDATA[strsplit("${1:seperator}", "${2:text}", ${3:limit})$0]]></content>
 	<tabTrigger>strsplit</tabTrigger>
 	<description>("seperator", "text", limit)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PLAYER_AVG_ITEM_LEVEL_UPDATE()]]></content>
+	<tabTrigger>_PLAYER_AVG_ITEM_LEVEL_UPDATE</tabTrigger>
+	<description>()</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

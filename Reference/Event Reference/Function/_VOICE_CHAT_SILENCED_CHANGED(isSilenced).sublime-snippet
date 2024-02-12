@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VOICE_CHAT_SILENCED_CHANGED(isSilenced)]]></content>
+	<tabTrigger>_VOICE_CHAT_SILENCED_CHANGED</tabTrigger>
+	<description>(isSilenced)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

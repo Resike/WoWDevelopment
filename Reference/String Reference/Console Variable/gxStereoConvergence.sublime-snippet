@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[gxStereoConvergence]]></content>
-	<tabTrigger>gxStereoConvergence</tabTrigger>
-	<description>"CVar"</description>
-	<scope>source.lua string.cvartype</scope>
-</snippet>

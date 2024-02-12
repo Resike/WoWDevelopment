@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[assaoBlurPassCount]]></content>
+	<tabTrigger>assaoBlurPassCount</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

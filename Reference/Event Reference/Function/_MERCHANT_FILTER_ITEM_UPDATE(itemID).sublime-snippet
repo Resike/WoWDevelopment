@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MERCHANT_FILTER_ITEM_UPDATE(itemID)]]></content>
+	<tabTrigger>_MERCHANT_FILTER_ITEM_UPDATE</tabTrigger>
+	<description>(itemID)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

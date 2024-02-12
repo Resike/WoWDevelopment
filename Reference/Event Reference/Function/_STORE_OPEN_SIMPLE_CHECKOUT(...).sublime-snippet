@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[STORE_OPEN_SIMPLE_CHECKOUT(...)]]></content>
+	<tabTrigger>_STORE_OPEN_SIMPLE_CHECKOUT</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

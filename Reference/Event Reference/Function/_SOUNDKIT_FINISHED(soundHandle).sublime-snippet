@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SOUNDKIT_FINISHED(soundHandle)]]></content>
+	<tabTrigger>_SOUNDKIT_FINISHED</tabTrigger>
+	<description>(soundHandle)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

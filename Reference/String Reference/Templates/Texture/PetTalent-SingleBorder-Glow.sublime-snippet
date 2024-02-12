@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PetTalent-SingleBorder-Glow]]></content>
+	<tabTrigger>PetTalent-SingleBorder-Glow</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

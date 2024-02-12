@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UNIT_ATTACK_SPEED(unit)]]></content>
+	<tabTrigger>_UNIT_ATTACK_SPEED</tabTrigger>
+	<description>(unit)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

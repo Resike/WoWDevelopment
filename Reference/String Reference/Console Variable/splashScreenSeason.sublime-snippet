@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[splashScreenSeason]]></content>
+	<tabTrigger>splashScreenSeason</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

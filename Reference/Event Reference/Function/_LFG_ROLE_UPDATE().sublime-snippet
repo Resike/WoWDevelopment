@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LFG_ROLE_UPDATE()]]></content>
+	<tabTrigger>_LFG_ROLE_UPDATE</tabTrigger>
+	<description>()</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

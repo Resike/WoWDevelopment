@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PLAYER_LEVEL_UP(level, healthDelta, powerDelta, numNewTalents, numNewPvpTalentSlots, strengthDelta, agilityDelta, staminaDelta, intellectDelta)]]></content>
+	<tabTrigger>_PLAYER_LEVEL_UP</tabTrigger>
+	<description>(level, healthDelta, powerDelta, numNewTalents, numNewPvpTalentSlots, strengthDelta, agilityDelta, staminaDelta, intellectDelta)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UI-EJ-FilterButtonSelect]]></content>
+	<tabTrigger>UI-EJ-FilterButtonSelect</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

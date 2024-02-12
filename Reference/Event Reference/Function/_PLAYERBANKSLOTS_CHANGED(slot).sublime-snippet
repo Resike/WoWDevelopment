@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PLAYERBANKSLOTS_CHANGED(slot)]]></content>
+	<tabTrigger>_PLAYERBANKSLOTS_CHANGED</tabTrigger>
+	<description>(slot)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

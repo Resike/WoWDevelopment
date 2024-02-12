@@ -2,5 +2,5 @@
 	<content><![CDATA[collectgarbage(${1:option}, ${2:[arg]})$0]]></content>
 	<tabTrigger>collectgarbage</tabTrigger>
 	<description>(option, [arg])</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

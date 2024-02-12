@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VOICE_CHAT_CHANNEL_PTT_CHANGED(channelID, pushToTalkSetting)]]></content>
+	<tabTrigger>_VOICE_CHAT_CHANNEL_PTT_CHANGED</tabTrigger>
+	<description>(channelID, pushToTalkSetting)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LFG_INVALID_ERROR_MESSAGE(reason, subReason1, subReason2)]]></content>
+	<tabTrigger>_LFG_INVALID_ERROR_MESSAGE</tabTrigger>
+	<description>(reason, subReason1, subReason2)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

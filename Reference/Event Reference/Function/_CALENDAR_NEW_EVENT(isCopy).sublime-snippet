@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CALENDAR_NEW_EVENT(isCopy)]]></content>
+	<tabTrigger>_CALENDAR_NEW_EVENT</tabTrigger>
+	<description>(isCopy)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

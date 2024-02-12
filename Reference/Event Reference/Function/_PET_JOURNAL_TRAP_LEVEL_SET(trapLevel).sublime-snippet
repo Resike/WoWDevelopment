@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PET_JOURNAL_TRAP_LEVEL_SET(trapLevel)]]></content>
+	<tabTrigger>_PET_JOURNAL_TRAP_LEVEL_SET</tabTrigger>
+	<description>(trapLevel)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

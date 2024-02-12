@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHALLENGE_MODE_KEYSTONE_SLOTTED(keystoneID)]]></content>
+	<tabTrigger>_CHALLENGE_MODE_KEYSTONE_SLOTTED</tabTrigger>
+	<description>(keystoneID)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

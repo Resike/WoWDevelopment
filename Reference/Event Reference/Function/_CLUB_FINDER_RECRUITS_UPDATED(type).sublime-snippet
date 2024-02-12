@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLUB_FINDER_RECRUITS_UPDATED(type)]]></content>
+	<tabTrigger>_CLUB_FINDER_RECRUITS_UPDATED</tabTrigger>
+	<description>(type)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

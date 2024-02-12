@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VOICE_CHAT_CHANNEL_DISPLAY_NAME_CHANGED(channelID, channelDisplayName)]]></content>
+	<tabTrigger>_VOICE_CHAT_CHANNEL_DISPLAY_NAME_CHANGED</tabTrigger>
+	<description>(channelID, channelDisplayName)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ActionBarFlyoutButton-IconFrame]]></content>
+	<tabTrigger>ActionBarFlyoutButton-IconFrame</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

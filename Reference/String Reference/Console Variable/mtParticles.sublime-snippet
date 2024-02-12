@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[mtParticles]]></content>
-	<tabTrigger>mtParticles</tabTrigger>
-	<description>"CVar"</description>
-	<scope>source.lua string.cvartype</scope>
-</snippet>

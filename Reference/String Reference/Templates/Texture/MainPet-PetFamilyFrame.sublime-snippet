@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MainPet-PetFamilyFrame]]></content>
+	<tabTrigger>MainPet-PetFamilyFrame</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AZERITE_ITEM_POWER_LEVEL_CHANGED(azeriteItemLocation, oldPowerLevel, newPowerLevel, unlockedEmpoweredItemsInfo)]]></content>
+	<tabTrigger>_AZERITE_ITEM_POWER_LEVEL_CHANGED</tabTrigger>
+	<description>(azeriteItemLocation, oldPowerLevel, newPowerLevel, unlockedEmpoweredItemsInfo)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

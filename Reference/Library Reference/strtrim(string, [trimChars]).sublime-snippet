@@ -2,5 +2,5 @@
 	<content><![CDATA[strtrim("${1:string}", ${2:["trimChars"]})$0]]></content>
 	<tabTrigger>strtrim</tabTrigger>
 	<description>("string", ["trimChars"])</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

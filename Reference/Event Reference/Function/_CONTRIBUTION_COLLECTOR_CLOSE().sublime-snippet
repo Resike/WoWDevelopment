@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CONTRIBUTION_COLLECTOR_CLOSE()]]></content>
+	<tabTrigger>_CONTRIBUTION_COLLECTOR_CLOSE</tabTrigger>
+	<description>()</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

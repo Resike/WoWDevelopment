@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[QUEST_TURNED_IN(questID, xpReward, moneyReward)]]></content>
+	<tabTrigger>_QUEST_TURNED_IN</tabTrigger>
+	<description>(questID, xpReward, moneyReward)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

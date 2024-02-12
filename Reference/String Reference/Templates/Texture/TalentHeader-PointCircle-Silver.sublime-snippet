@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TalentHeader-PointCircle-Silver]]></content>
+	<tabTrigger>TalentHeader-PointCircle-Silver</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

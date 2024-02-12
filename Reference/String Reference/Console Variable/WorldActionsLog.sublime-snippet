@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WorldActionsLog]]></content>
+	<tabTrigger>WorldActionsLog</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

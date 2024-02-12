@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[STORE_GUILD_MASTER_INFO_RECEIVED(...)]]></content>
+	<tabTrigger>_STORE_GUILD_MASTER_INFO_RECEIVED</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

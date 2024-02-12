@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PLAYER_TOTEM_UPDATE(totemSlot)]]></content>
+	<tabTrigger>_PLAYER_TOTEM_UPDATE</tabTrigger>
+	<description>(totemSlot)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

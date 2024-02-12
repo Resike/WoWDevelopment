@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UNIT_MAXPOWER(unit, powerType)]]></content>
+	<tabTrigger>_UNIT_MAXPOWER</tabTrigger>
+	<description>(unit, powerType)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

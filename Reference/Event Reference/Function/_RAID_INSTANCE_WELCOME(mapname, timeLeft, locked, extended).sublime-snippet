@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RAID_INSTANCE_WELCOME(mapname, timeLeft, locked, extended)]]></content>
+	<tabTrigger>_RAID_INSTANCE_WELCOME</tabTrigger>
+	<description>(mapname, timeLeft, locked, extended)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

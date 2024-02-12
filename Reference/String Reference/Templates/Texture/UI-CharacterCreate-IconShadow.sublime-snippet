@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UI-CharacterCreate-IconShadow]]></content>
+	<tabTrigger>UI-CharacterCreate-IconShadow</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BN_CUSTOM_MESSAGE_CHANGED(id)]]></content>
+	<tabTrigger>_BN_CUSTOM_MESSAGE_CHANGED</tabTrigger>
+	<description>(id)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

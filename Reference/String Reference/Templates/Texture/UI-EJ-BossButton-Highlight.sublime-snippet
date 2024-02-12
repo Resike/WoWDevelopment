@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UI-EJ-BossButton-Highlight]]></content>
+	<tabTrigger>UI-EJ-BossButton-Highlight</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[showDungeonEntrancesOnMap]]></content>
+	<tabTrigger>showDungeonEntrancesOnMap</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

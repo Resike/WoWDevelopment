@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GARRISON_MISSION_COMPLETE_RESPONSE(missionID, canComplete, success, bonusRollSuccess, followerDeaths)]]></content>
+	<tabTrigger>_GARRISON_MISSION_COMPLETE_RESPONSE</tabTrigger>
+	<description>(missionID, canComplete, success, bonusRollSuccess, followerDeaths)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

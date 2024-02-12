@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UI-EJ-LeftPageHeader]]></content>
+	<tabTrigger>UI-EJ-LeftPageHeader</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

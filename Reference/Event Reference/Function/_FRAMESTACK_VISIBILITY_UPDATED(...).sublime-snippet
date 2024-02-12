@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FRAMESTACK_VISIBILITY_UPDATED(...)]]></content>
+	<tabTrigger>_FRAMESTACK_VISIBILITY_UPDATED</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

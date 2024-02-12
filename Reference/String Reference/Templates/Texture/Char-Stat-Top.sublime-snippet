@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Char-Stat-Top]]></content>
+	<tabTrigger>Char-Stat-Top</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:remainder} = mod(${2:x}, ${3:y})$0]]></content>
 	<tabTrigger>_mod</tabTrigger>
 	<description>(x, y)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

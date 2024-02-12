@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UNIT_ABSORB_AMOUNT_CHANGED(unit)]]></content>
+	<tabTrigger>_UNIT_ABSORB_AMOUNT_CHANGED</tabTrigger>
+	<description>(unit)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

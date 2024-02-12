@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PowerSwirlScaleTexture]]></content>
+	<tabTrigger>PowerSwirlScaleTexture</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

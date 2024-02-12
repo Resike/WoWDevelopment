@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Play-Down]]></content>
+	<tabTrigger>Play-Down</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

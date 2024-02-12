@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UI-EJ-SearchIconFrameLg]]></content>
+	<tabTrigger>UI-EJ-SearchIconFrameLg</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

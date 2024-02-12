@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DEBUG_MENU_TOGGLED(...)]]></content>
+	<tabTrigger>_DEBUG_MENU_TOGGLED</tabTrigger>
+	<description>(...)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

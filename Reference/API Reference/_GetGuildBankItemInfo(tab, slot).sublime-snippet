@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[${1:texture}, ${2:count}, ${3:locked} = GetGuildBankItemInfo(${4:tab}, ${5:slot})$0]]></content>
+	<content><![CDATA[${1:texture}, ${2:itemCount}, ${3:locked}, ${4:isFiltered}, ${5:quality} = GetGuildBankItemInfo(${6:tab}, ${7:slot})$0]]></content>
 	<tabTrigger>_GetGuildBankItemInfo</tabTrigger>
 	<description>(tab, slot)</description>
 	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>

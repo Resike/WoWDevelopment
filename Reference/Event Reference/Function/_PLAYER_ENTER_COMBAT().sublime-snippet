@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PLAYER_ENTER_COMBAT()]]></content>
+	<tabTrigger>_PLAYER_ENTER_COMBAT</tabTrigger>
+	<description>()</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

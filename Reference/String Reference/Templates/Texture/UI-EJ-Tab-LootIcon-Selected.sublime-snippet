@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UI-EJ-Tab-LootIcon-Selected]]></content>
+	<tabTrigger>UI-EJ-Tab-LootIcon-Selected</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

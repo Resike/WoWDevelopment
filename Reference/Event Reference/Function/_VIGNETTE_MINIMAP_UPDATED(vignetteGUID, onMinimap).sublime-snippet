@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VIGNETTE_MINIMAP_UPDATED(vignetteGUID, onMinimap)]]></content>
+	<tabTrigger>_VIGNETTE_MINIMAP_UPDATED</tabTrigger>
+	<description>(vignetteGUID, onMinimap)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

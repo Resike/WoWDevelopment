@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GARRISON_FOLLOWER_DURABILITY_CHANGED(garrFollowerTypeID, followerDbID, followerDurability)]]></content>
+	<tabTrigger>_GARRISON_FOLLOWER_DURABILITY_CHANGED</tabTrigger>
+	<description>(garrFollowerTypeID, followerDbID, followerDurability)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

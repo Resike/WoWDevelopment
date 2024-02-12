@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AutoQuestToastBorder-BotRight]]></content>
+	<tabTrigger>AutoQuestToastBorder-BotRight</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

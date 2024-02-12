@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Thumbnail-Frame]]></content>
+	<tabTrigger>Thumbnail-Frame</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

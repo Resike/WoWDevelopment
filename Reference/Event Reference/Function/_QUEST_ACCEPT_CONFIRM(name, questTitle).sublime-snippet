@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[QUEST_ACCEPT_CONFIRM(name, questTitle)]]></content>
+	<tabTrigger>_QUEST_ACCEPT_CONFIRM</tabTrigger>
+	<description>(name, questTitle)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

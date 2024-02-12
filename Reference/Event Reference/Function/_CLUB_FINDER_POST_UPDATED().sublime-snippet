@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLUB_FINDER_POST_UPDATED()]]></content>
+	<tabTrigger>_CLUB_FINDER_POST_UPDATED</tabTrigger>
+	<description>()</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>

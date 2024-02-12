@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[QuestIcon-Exclamation]]></content>
+	<tabTrigger>QuestIcon-Exclamation</tabTrigger>
+	<description>"template"</description>
+	<scope>source.lua string.template.texture</scope>
+</snippet>

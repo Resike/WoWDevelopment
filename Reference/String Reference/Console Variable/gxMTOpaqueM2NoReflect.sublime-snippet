@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[gxMTOpaqueM2NoReflect]]></content>
+	<tabTrigger>gxMTOpaqueM2NoReflect</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

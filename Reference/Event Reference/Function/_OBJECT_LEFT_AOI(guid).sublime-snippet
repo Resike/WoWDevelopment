@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OBJECT_LEFT_AOI(guid)]]></content>
+	<tabTrigger>_OBJECT_LEFT_AOI</tabTrigger>
+	<description>(guid)</description>
+	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
+</snippet>
