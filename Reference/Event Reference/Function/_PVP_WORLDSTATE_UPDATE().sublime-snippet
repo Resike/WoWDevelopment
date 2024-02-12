@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PVP_WORLDSTATE_UPDATE()]]></content>
-	<tabTrigger>_PVP_WORLDSTATE_UPDATE</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAX_SPELL_START_RECOVERY_OFFSET_CHANGED(clampedNewQueueWindowMs)]]></content>
-	<tabTrigger>_MAX_SPELL_START_RECOVERY_OFFSET_CHANGED</tabTrigger>
-	<description>(clampedNewQueueWindowMs)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

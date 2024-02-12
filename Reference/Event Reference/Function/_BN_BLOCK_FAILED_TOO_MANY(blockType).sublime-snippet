@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BN_BLOCK_FAILED_TOO_MANY(blockType)]]></content>
-	<tabTrigger>_BN_BLOCK_FAILED_TOO_MANY</tabTrigger>
-	<description>(blockType)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

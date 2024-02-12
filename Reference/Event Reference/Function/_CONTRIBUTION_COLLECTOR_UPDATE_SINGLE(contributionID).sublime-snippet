@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CONTRIBUTION_COLLECTOR_UPDATE_SINGLE(contributionID)]]></content>
-	<tabTrigger>_CONTRIBUTION_COLLECTOR_UPDATE_SINGLE</tabTrigger>
-	<description>(contributionID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

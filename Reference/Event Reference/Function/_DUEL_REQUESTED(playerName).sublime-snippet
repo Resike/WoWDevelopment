@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DUEL_REQUESTED(playerName)]]></content>
-	<tabTrigger>_DUEL_REQUESTED</tabTrigger>
-	<description>(playerName)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

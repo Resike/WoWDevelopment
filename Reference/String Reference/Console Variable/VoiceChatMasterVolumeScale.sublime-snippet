@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VoiceChatMasterVolumeScale]]></content>
-	<tabTrigger>VoiceChatMasterVolumeScale</tabTrigger>
-	<description>"CVar"</description>
-	<scope>source.lua string.cvartype</scope>
-</snippet>

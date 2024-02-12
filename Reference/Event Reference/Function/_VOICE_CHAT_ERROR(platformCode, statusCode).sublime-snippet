@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VOICE_CHAT_ERROR(platformCode, statusCode)]]></content>
-	<tabTrigger>_VOICE_CHAT_ERROR</tabTrigger>
-	<description>(platformCode, statusCode)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

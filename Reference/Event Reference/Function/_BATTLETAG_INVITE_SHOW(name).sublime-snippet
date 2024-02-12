@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BATTLETAG_INVITE_SHOW(name)]]></content>
-	<tabTrigger>_BATTLETAG_INVITE_SHOW</tabTrigger>
-	<description>(name)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

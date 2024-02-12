@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BANK_BAG_SLOT_FLAGS_UPDATED(slot)]]></content>
-	<tabTrigger>_BANK_BAG_SLOT_FLAGS_UPDATED</tabTrigger>
-	<description>(slot)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

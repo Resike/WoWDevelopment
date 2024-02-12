@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CLUB_TICKET_RECEIVED(ticket)]]></content>
-	<tabTrigger>_CLUB_TICKET_RECEIVED</tabTrigger>
-	<description>(ticket)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

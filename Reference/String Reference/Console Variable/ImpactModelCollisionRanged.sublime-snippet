@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ImpactModelCollisionRanged]]></content>
-	<tabTrigger>ImpactModelCollisionRanged</tabTrigger>
-	<description>"CVar"</description>
-	<scope>source.lua string.cvartype</scope>
-</snippet>

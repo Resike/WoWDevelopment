@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LOOT_SLOT_CLEARED(lootSlot)]]></content>
-	<tabTrigger>_LOOT_SLOT_CLEARED</tabTrigger>
-	<description>(lootSlot)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UI-EJ-BossButton-Up]]></content>
-	<tabTrigger>UI-EJ-BossButton-Up</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

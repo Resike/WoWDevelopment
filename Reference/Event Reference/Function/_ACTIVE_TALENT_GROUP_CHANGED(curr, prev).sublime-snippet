@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACTIVE_TALENT_GROUP_CHANGED(curr, prev)]]></content>
-	<tabTrigger>_ACTIVE_TALENT_GROUP_CHANGED</tabTrigger>
-	<description>(curr, prev)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

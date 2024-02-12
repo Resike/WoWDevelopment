@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GARRISON_RECALL_PORTAL_LAST_USED_TIME(success, recallPortalLastUsedTime)]]></content>
-	<tabTrigger>_GARRISON_RECALL_PORTAL_LAST_USED_TIME</tabTrigger>
-	<description>(success, recallPortalLastUsedTime)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

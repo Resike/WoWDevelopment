@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ARTIFACT_DIGSITE_COMPLETE(researchBranchID)]]></content>
-	<tabTrigger>_ARTIFACT_DIGSITE_COMPLETE</tabTrigger>
-	<description>(researchBranchID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

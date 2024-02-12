@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[END_BOUND_TRADEABLE(reason)]]></content>
-	<tabTrigger>_END_BOUND_TRADEABLE</tabTrigger>
-	<description>(reason)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

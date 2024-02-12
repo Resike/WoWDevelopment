@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MACRO_ACTION_FORBIDDEN(func)]]></content>
-	<tabTrigger>_MACRO_ACTION_FORBIDDEN</tabTrigger>
-	<description>(func)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

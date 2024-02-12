@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[START_LOOT_ROLL(rollID, rollTime, lootHandle)]]></content>
-	<tabTrigger>_START_LOOT_ROLL</tabTrigger>
-	<description>(rollID, rollTime, lootHandle)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SystemFont_Shadow_Outline_Huge4]]></content>
-	<tabTrigger>SystemFont_Shadow_Outline_Huge4</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.fontstring</scope>
-</snippet>

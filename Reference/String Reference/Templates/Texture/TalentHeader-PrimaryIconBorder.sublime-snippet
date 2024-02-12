@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TalentHeader-PrimaryIconBorder]]></content>
-	<tabTrigger>TalentHeader-PrimaryIconBorder</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

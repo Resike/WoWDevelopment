@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QUEST_LOOT_RECEIVED(questID, itemLink, quantity)]]></content>
-	<tabTrigger>_QUEST_LOOT_RECEIVED</tabTrigger>
-	<description>(questID, itemLink, quantity)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UI-EJ-PaperHeader-UnSelectDown-Right]]></content>
-	<tabTrigger>UI-EJ-PaperHeader-UnSelectDown-Right</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

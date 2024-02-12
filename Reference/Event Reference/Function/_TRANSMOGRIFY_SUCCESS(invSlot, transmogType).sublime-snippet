@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TRANSMOGRIFY_SUCCESS(invSlot, transmogType)]]></content>
-	<tabTrigger>_TRANSMOGRIFY_SUCCESS</tabTrigger>
-	<description>(invSlot, transmogType)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

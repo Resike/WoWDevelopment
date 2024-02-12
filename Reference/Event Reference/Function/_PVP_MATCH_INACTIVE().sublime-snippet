@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PVP_MATCH_INACTIVE()]]></content>
-	<tabTrigger>_PVP_MATCH_INACTIVE</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

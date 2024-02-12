@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UNIT_TARGETABLE_CHANGED(unit)]]></content>
-	<tabTrigger>_UNIT_TARGETABLE_CHANGED</tabTrigger>
-	<description>(unit)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

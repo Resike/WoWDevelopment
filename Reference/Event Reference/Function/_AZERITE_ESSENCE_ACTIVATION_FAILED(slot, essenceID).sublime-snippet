@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AZERITE_ESSENCE_ACTIVATION_FAILED(slot, essenceID)]]></content>
-	<tabTrigger>_AZERITE_ESSENCE_ACTIVATION_FAILED</tabTrigger>
-	<description>(slot, essenceID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

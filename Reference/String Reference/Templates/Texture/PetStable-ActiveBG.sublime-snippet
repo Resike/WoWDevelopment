@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PetStable-ActiveBG]]></content>
-	<tabTrigger>PetStable-ActiveBG</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

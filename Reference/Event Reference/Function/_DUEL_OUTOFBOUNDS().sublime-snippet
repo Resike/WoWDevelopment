@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DUEL_OUTOFBOUNDS()]]></content>
-	<tabTrigger>_DUEL_OUTOFBOUNDS</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

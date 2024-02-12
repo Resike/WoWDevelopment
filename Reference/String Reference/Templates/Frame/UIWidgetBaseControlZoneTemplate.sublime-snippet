@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UIWidgetBaseControlZoneTemplate]]></content>
-	<tabTrigger>UIWidgetBaseControlZoneTemplate</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.frame</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILDBANK_UPDATE_WITHDRAWMONEY()]]></content>
-	<tabTrigger>_GUILDBANK_UPDATE_WITHDRAWMONEY</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

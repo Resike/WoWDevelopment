@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SOCIAL_QUEUE_UPDATE(groupGUID, numAddedItems)]]></content>
-	<tabTrigger>_SOCIAL_QUEUE_UPDATE</tabTrigger>
-	<description>(groupGUID, numAddedItems)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

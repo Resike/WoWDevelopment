@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAIL_UNLOCK_SEND_ITEMS()]]></content>
-	<tabTrigger>_MAIL_UNLOCK_SEND_ITEMS</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AZERITE_EMPOWERED_ITEM_SELECTION_UPDATED(azeriteEmpoweredItemLocation)]]></content>
-	<tabTrigger>_AZERITE_EMPOWERED_ITEM_SELECTION_UPDATED</tabTrigger>
-	<description>(azeriteEmpoweredItemLocation)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

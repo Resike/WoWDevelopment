@@ -162,6 +162,10 @@
 			"contents": "ErrorFont",
 		},
 		{
+			"trigger": "EventTraceTimeFont\t\"template\"",
+			"contents": "EventTraceTimeFont",
+		},
+		{
 			"trigger": "FactionName_Shadow_Huge\t\"template\"",
 			"contents": "FactionName_Shadow_Huge",
 		},
@@ -534,14 +538,6 @@
 			"contents": "GameFontNormalHuge3Outline",
 		},
 		{
-			"trigger": "GameFontNormalHuge4\t\"template\"",
-			"contents": "GameFontNormalHuge4",
-		},
-		{
-			"trigger": "GameFontNormalHuge4Outline\t\"template\"",
-			"contents": "GameFontNormalHuge4Outline",
-		},
-		{
 			"trigger": "GameFontNormalHugeBlack\t\"template\"",
 			"contents": "GameFontNormalHugeBlack",
 		},
@@ -898,6 +894,10 @@
 			"contents": "ItemTextFontNormal",
 		},
 		{
+			"trigger": "LootUpgradeFrame_ItemNameTemplate\t\"template\"",
+			"contents": "LootUpgradeFrame_ItemNameTemplate",
+		},
+		{
 			"trigger": "MailFont_Large\t\"template\"",
 			"contents": "MailFont_Large",
 		},
@@ -1072,6 +1072,10 @@
 		{
 			"trigger": "OptionsFontSmallLeft\t\"template\"",
 			"contents": "OptionsFontSmallLeft",
+		},
+		{
+			"trigger": "OrderHallTalentFrameTick\t\"template\"",
+			"contents": "OrderHallTalentFrameTick",
 		},
 		{
 			"trigger": "PVPInfoTextFont\t\"template\"",
@@ -1326,10 +1330,6 @@
 			"contents": "SystemFont_Shadow_Huge3",
 		},
 		{
-			"trigger": "SystemFont_Shadow_Huge4\t\"template\"",
-			"contents": "SystemFont_Shadow_Huge4",
-		},
-		{
 			"trigger": "SystemFont_Shadow_Large\t\"template\"",
 			"contents": "SystemFont_Shadow_Large",
 		},
@@ -1368,10 +1368,6 @@
 		{
 			"trigger": "SystemFont_Shadow_Outline_Huge3\t\"template\"",
 			"contents": "SystemFont_Shadow_Outline_Huge3",
-		},
-		{
-			"trigger": "SystemFont_Shadow_Outline_Huge4\t\"template\"",
-			"contents": "SystemFont_Shadow_Outline_Huge4",
 		},
 		{
 			"trigger": "SystemFont_Shadow_Outline_Large\t\"template\"",

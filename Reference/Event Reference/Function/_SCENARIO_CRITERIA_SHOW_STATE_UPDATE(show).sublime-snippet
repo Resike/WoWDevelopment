@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SCENARIO_CRITERIA_SHOW_STATE_UPDATE(show)]]></content>
-	<tabTrigger>_SCENARIO_CRITERIA_SHOW_STATE_UPDATE</tabTrigger>
-	<description>(show)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

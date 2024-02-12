@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILDBANKLOG_UPDATE()]]></content>
-	<tabTrigger>_GUILDBANKLOG_UPDATE</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

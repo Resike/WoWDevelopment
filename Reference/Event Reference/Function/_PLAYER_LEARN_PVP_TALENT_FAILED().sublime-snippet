@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PLAYER_LEARN_PVP_TALENT_FAILED()]]></content>
-	<tabTrigger>_PLAYER_LEARN_PVP_TALENT_FAILED</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[break]]></content>
-	<tabTrigger>break</tabTrigger>
-	<scope>source.lua - entity - punctuation - string - meta.function.arguments.lua - meta.function-call.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
-	<description>break</description>
-</snippet>

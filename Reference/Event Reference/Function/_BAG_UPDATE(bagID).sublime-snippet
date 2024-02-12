@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BAG_UPDATE(bagID)]]></content>
-	<tabTrigger>_BAG_UPDATE</tabTrigger>
-	<description>(bagID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

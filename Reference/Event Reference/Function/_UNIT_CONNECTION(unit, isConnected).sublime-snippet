@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UNIT_CONNECTION(unit, isConnected)]]></content>
-	<tabTrigger>_UNIT_CONNECTION</tabTrigger>
-	<description>(unit, isConnected)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

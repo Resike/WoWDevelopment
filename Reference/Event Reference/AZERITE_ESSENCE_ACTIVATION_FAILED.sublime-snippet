@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AZERITE_ESSENCE_ACTIVATION_FAILED]]></content>
-	<tabTrigger>AZERITE_ESSENCE_ACTIVATION_FAILED</tabTrigger>
-	<description>"event"</description>
-	<scope>source.lua string - string.frametype - string.blendmode - string.stratatype - string.animationtype - string.looptype - string.smoothtype - string.scripttype - string.attribtype - string.slottype - string.fontflag - string.orienttype - string.buttonstate - string.cvartype - string.drawlayer - string.anchortype - string.anchortype-horizontal - string.anchortype-vertical - string.anchortype-tooltip - string.template.animation - string.template.fontstring - string.template.frame - string.template.texture</scope>
-</snippet>

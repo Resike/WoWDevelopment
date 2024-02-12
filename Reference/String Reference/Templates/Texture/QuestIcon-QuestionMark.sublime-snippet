@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QuestIcon-QuestionMark]]></content>
-	<tabTrigger>QuestIcon-QuestionMark</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

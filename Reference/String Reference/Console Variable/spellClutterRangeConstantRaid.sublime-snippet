@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[spellClutterRangeConstantRaid]]></content>
+	<tabTrigger>spellClutterRangeConstantRaid</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

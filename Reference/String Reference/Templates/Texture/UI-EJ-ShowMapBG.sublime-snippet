@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UI-EJ-ShowMapBG]]></content>
-	<tabTrigger>UI-EJ-ShowMapBG</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

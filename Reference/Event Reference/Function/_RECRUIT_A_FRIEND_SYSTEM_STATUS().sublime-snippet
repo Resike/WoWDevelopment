@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RECRUIT_A_FRIEND_SYSTEM_STATUS()]]></content>
-	<tabTrigger>_RECRUIT_A_FRIEND_SYSTEM_STATUS</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

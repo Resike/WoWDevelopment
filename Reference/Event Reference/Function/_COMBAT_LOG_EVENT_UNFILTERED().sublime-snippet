@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[COMBAT_LOG_EVENT_UNFILTERED()]]></content>
-	<tabTrigger>_COMBAT_LOG_EVENT_UNFILTERED</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

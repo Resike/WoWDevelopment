@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Play-Up]]></content>
-	<tabTrigger>Play-Up</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

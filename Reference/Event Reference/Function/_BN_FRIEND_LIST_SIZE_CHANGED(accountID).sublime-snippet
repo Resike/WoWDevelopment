@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BN_FRIEND_LIST_SIZE_CHANGED(accountID)]]></content>
-	<tabTrigger>_BN_FRIEND_LIST_SIZE_CHANGED</tabTrigger>
-	<description>(accountID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

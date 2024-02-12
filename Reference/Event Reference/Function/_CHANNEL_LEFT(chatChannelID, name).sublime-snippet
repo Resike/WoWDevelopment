@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CHANNEL_LEFT(chatChannelID, name)]]></content>
-	<tabTrigger>_CHANNEL_LEFT</tabTrigger>
-	<description>(chatChannelID, name)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

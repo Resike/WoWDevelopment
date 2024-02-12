@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UNIT_SPELLCAST_STOP(unit, castGUID, spellID)]]></content>
-	<tabTrigger>_UNIT_SPELLCAST_STOP</tabTrigger>
-	<description>(unit, castGUID, spellID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

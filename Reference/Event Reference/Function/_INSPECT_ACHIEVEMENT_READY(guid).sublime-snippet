@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[INSPECT_ACHIEVEMENT_READY(guid)]]></content>
-	<tabTrigger>_INSPECT_ACHIEVEMENT_READY</tabTrigger>
-	<description>(guid)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

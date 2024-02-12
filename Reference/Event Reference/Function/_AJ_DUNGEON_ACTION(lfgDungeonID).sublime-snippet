@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AJ_DUNGEON_ACTION(lfgDungeonID)]]></content>
-	<tabTrigger>_AJ_DUNGEON_ACTION</tabTrigger>
-	<description>(lfgDungeonID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

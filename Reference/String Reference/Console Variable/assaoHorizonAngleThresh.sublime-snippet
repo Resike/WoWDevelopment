@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[assaoHorizonAngleThresh]]></content>
-	<tabTrigger>assaoHorizonAngleThresh</tabTrigger>
-	<description>"CVar"</description>
-	<scope>source.lua string.cvartype</scope>
-</snippet>

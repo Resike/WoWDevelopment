@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LUA_WARNING(warnType, warningText)]]></content>
-	<tabTrigger>_LUA_WARNING</tabTrigger>
-	<description>(warnType, warningText)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

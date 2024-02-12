@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[REQUIRED_GUILD_RENAME_RESULT(success)]]></content>
-	<tabTrigger>_REQUIRED_GUILD_RENAME_RESULT</tabTrigger>
-	<description>(success)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

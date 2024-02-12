@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RESEARCH_ARTIFACT_COMPLETE(name)]]></content>
-	<tabTrigger>_RESEARCH_ARTIFACT_COMPLETE</tabTrigger>
-	<description>(name)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

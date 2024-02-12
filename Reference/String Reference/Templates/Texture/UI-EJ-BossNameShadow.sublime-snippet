@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UI-EJ-BossNameShadow]]></content>
-	<tabTrigger>UI-EJ-BossNameShadow</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

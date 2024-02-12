@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SYSMSG(string, r, g, b)]]></content>
-	<tabTrigger>_SYSMSG</tabTrigger>
-	<description>(string, r, g, b)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

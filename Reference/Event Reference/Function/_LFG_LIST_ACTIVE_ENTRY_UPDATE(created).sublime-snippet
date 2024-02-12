@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFG_LIST_ACTIVE_ENTRY_UPDATE(created)]]></content>
-	<tabTrigger>_LFG_LIST_ACTIVE_ENTRY_UPDATE</tabTrigger>
-	<description>(created)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

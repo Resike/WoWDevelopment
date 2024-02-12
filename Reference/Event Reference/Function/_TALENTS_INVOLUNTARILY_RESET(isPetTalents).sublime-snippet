@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TALENTS_INVOLUNTARILY_RESET(isPetTalents)]]></content>
-	<tabTrigger>_TALENTS_INVOLUNTARILY_RESET</tabTrigger>
-	<description>(isPetTalents)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

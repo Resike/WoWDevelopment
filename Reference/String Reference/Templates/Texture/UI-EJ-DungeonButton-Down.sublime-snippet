@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UI-EJ-DungeonButton-Down]]></content>
-	<tabTrigger>UI-EJ-DungeonButton-Down</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

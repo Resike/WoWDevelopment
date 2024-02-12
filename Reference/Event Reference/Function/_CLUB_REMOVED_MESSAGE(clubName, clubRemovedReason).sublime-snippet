@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CLUB_REMOVED_MESSAGE(clubName, clubRemovedReason)]]></content>
-	<tabTrigger>_CLUB_REMOVED_MESSAGE</tabTrigger>
-	<description>(clubName, clubRemovedReason)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

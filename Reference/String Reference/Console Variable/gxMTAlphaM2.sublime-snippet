@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[gxMTAlphaM2]]></content>
-	<tabTrigger>gxMTAlphaM2</tabTrigger>
-	<description>"CVar"</description>
-	<scope>source.lua string.cvartype</scope>
-</snippet>

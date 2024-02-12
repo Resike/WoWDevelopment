@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILD_RENAME_REQUIRED(flagSet)]]></content>
-	<tabTrigger>_GUILD_RENAME_REQUIRED</tabTrigger>
-	<description>(flagSet)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

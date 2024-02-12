@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[incompleteQuestPriorityThresholdDelta]]></content>
+	<tabTrigger>incompleteQuestPriorityThresholdDelta</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

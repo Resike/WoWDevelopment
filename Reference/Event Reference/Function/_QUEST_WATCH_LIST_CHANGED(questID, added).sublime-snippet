@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QUEST_WATCH_LIST_CHANGED(questID, added)]]></content>
-	<tabTrigger>_QUEST_WATCH_LIST_CHANGED</tabTrigger>
-	<description>(questID, added)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

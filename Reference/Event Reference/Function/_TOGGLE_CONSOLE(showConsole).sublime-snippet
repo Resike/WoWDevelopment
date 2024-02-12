@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TOGGLE_CONSOLE(showConsole)]]></content>
-	<tabTrigger>_TOGGLE_CONSOLE</tabTrigger>
-	<description>(showConsole)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

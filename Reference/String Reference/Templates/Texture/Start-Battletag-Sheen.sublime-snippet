@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Start-Battletag-Sheen]]></content>
-	<tabTrigger>Start-Battletag-Sheen</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

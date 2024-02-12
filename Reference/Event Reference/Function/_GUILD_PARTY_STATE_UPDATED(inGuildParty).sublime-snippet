@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILD_PARTY_STATE_UPDATED(inGuildParty)]]></content>
-	<tabTrigger>_GUILD_PARTY_STATE_UPDATED</tabTrigger>
-	<description>(inGuildParty)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

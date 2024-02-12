@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UI-Frame-InnerBotLeftCorner]]></content>
-	<tabTrigger>UI-Frame-InnerBotLeftCorner</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

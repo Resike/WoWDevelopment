@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SecureHandlerDoubleClickTemplate]]></content>
-	<tabTrigger>SecureHandlerDoubleClickTemplate</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.frame</scope>
-</snippet>

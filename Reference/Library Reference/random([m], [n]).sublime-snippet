@@ -2,5 +2,5 @@
 	<content><![CDATA[random(${1:[m]}, ${2:[n]})$0]]></content>
 	<tabTrigger>random</tabTrigger>
 	<description>([m], [n])</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

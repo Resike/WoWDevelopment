@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VEHICLE_POWER_SHOW(shouldShow)]]></content>
-	<tabTrigger>_VEHICLE_POWER_SHOW</tabTrigger>
-	<description>(shouldShow)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

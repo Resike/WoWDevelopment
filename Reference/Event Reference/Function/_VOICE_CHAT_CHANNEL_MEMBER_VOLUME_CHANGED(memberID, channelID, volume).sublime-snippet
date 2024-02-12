@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VOICE_CHAT_CHANNEL_MEMBER_VOLUME_CHANGED(memberID, channelID, volume)]]></content>
-	<tabTrigger>_VOICE_CHAT_CHANNEL_MEMBER_VOLUME_CHANGED</tabTrigger>
-	<description>(memberID, channelID, volume)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

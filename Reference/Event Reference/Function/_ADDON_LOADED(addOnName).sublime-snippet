@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ADDON_LOADED(addOnName)]]></content>
-	<tabTrigger>_ADDON_LOADED</tabTrigger>
-	<description>(addOnName)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

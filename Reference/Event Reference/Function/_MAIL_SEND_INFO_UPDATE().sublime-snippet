@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAIL_SEND_INFO_UPDATE()]]></content>
-	<tabTrigger>_MAIL_SEND_INFO_UPDATE</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

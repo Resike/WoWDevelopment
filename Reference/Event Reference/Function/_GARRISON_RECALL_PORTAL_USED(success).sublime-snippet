@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GARRISON_RECALL_PORTAL_USED(success)]]></content>
-	<tabTrigger>_GARRISON_RECALL_PORTAL_USED</tabTrigger>
-	<description>(success)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFG_LIST_APPLICATION_STATUS_UPDATED(searchResultID, newStatus, oldStatus, groupName)]]></content>
-	<tabTrigger>_LFG_LIST_APPLICATION_STATUS_UPDATED</tabTrigger>
-	<description>(searchResultID, newStatus, oldStatus, groupName)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

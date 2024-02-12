@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:mapID}, ${2:x}, ${3:y} = C_QuestLog.GetNextWaypoint(${4:questID})$0]]></content>
-	<tabTrigger>_C_QuestLog.GetNextWaypoint</tabTrigger>
-	<description>(questID)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

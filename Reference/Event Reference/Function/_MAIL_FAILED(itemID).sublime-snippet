@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAIL_FAILED(itemID)]]></content>
-	<tabTrigger>_MAIL_FAILED</tabTrigger>
-	<description>(itemID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

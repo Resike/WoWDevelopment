@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RECEIVED_ACHIEVEMENT_MEMBER_LIST(achievementID)]]></content>
-	<tabTrigger>_RECEIVED_ACHIEVEMENT_MEMBER_LIST</tabTrigger>
-	<description>(achievementID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

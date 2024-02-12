@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BLACK_MARKET_BID_RESULT(marketID, resultCode)]]></content>
-	<tabTrigger>_BLACK_MARKET_BID_RESULT</tabTrigger>
-	<description>(marketID, resultCode)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

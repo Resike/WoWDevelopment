@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RESEARCH_ARTIFACT_HISTORY_READY()]]></content>
-	<tabTrigger>_RESEARCH_ARTIFACT_HISTORY_READY</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

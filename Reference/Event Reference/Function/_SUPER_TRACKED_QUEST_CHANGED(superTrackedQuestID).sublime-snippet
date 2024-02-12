@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SUPER_TRACKED_QUEST_CHANGED(superTrackedQuestID)]]></content>
-	<tabTrigger>_SUPER_TRACKED_QUEST_CHANGED</tabTrigger>
-	<description>(superTrackedQuestID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

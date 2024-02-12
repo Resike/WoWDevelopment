@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TOKEN_REDEEM_CONFIRM_REQUIRED(choiceType)]]></content>
-	<tabTrigger>_TOKEN_REDEEM_CONFIRM_REQUIRED</tabTrigger>
-	<description>(choiceType)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

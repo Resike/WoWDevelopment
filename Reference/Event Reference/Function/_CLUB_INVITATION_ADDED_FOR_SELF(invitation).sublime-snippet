@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CLUB_INVITATION_ADDED_FOR_SELF(invitation)]]></content>
-	<tabTrigger>_CLUB_INVITATION_ADDED_FOR_SELF</tabTrigger>
-	<description>(invitation)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LOOT_ITEM_ROLL_WON(itemLink, rollQuantity, rollType, roll, upgraded)]]></content>
-	<tabTrigger>_LOOT_ITEM_ROLL_WON</tabTrigger>
-	<description>(itemLink, rollQuantity, rollType, roll, upgraded)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

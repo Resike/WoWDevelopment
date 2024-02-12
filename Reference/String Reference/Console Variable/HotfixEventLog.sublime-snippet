@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HotfixEventLog]]></content>
-	<tabTrigger>HotfixEventLog</tabTrigger>
-	<description>"CVar"</description>
-	<scope>source.lua string.cvartype</scope>
-</snippet>

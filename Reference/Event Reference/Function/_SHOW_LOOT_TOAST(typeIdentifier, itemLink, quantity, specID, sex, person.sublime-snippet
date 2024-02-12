@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SHOW_LOOT_TOAST(typeIdentifier, itemLink, quantity, specID, sex, personalLootToast, toastMethod, lessAwesome, upgraded)]]></content>
-	<tabTrigger>_SHOW_LOOT_TOAST</tabTrigger>
-	<description>(typeIdentifier, itemLink, quantity, specID, sex, personalLootToast, toastMethod, lessAwesome, upgraded)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

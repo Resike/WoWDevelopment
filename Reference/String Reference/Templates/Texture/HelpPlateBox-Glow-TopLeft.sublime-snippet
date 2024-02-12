@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HelpPlateBox-Glow-TopLeft]]></content>
-	<tabTrigger>HelpPlateBox-Glow-TopLeft</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

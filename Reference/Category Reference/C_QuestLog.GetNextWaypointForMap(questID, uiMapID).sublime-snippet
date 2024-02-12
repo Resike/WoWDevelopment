@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_QuestLog.GetNextWaypointForMap(${1:questID}, ${2:uiMapID})$0]]></content>
-	<tabTrigger>C_QuestLog.GetNextWaypointForMap</tabTrigger>
-	<description>(questID, uiMapID)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ClientCastDebug]]></content>
+	<tabTrigger>ClientCastDebug</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

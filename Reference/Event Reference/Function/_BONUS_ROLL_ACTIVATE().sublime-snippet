@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BONUS_ROLL_ACTIVATE()]]></content>
-	<tabTrigger>_BONUS_ROLL_ACTIVATE</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UNIT_RANGED_ATTACK_POWER(unit)]]></content>
-	<tabTrigger>_UNIT_RANGED_ATTACK_POWER</tabTrigger>
-	<description>(unit)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

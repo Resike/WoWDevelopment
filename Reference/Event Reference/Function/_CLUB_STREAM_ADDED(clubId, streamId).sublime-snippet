@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CLUB_STREAM_ADDED(clubId, streamId)]]></content>
-	<tabTrigger>_CLUB_STREAM_ADDED</tabTrigger>
-	<description>(clubId, streamId)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

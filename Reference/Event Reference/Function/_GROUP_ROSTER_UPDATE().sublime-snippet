@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GROUP_ROSTER_UPDATE()]]></content>
-	<tabTrigger>_GROUP_ROSTER_UPDATE</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

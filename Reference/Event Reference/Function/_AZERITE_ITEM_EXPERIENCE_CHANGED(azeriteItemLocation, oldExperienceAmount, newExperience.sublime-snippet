@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AZERITE_ITEM_EXPERIENCE_CHANGED(azeriteItemLocation, oldExperienceAmount, newExperienceAmount)]]></content>
-	<tabTrigger>_AZERITE_ITEM_EXPERIENCE_CHANGED</tabTrigger>
-	<description>(azeriteItemLocation, oldExperienceAmount, newExperienceAmount)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

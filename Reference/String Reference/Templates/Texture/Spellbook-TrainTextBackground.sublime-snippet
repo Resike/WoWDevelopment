@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Spellbook-TrainTextBackground]]></content>
-	<tabTrigger>Spellbook-TrainTextBackground</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

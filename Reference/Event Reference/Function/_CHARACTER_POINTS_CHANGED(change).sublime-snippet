@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CHARACTER_POINTS_CHANGED(change)]]></content>
-	<tabTrigger>_CHARACTER_POINTS_CHANGED</tabTrigger>
-	<description>(change)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

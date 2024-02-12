@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TRANSMOG_COLLECTION_SOURCE_REMOVED(itemModifiedAppearanceID)]]></content>
-	<tabTrigger>_TRANSMOG_COLLECTION_SOURCE_REMOVED</tabTrigger>
-	<description>(itemModifiedAppearanceID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

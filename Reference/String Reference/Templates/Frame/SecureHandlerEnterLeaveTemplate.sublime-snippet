@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SecureHandlerEnterLeaveTemplate]]></content>
-	<tabTrigger>SecureHandlerEnterLeaveTemplate</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.frame</scope>
-</snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[loadstring("${1:string}", ${2:["chunkname"]})$0]]></content>
 	<tabTrigger>loadstring</tabTrigger>
 	<description>("string", ["chunkname"])</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

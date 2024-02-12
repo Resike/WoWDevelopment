@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BattleBar-ButtonBG-EndCap]]></content>
-	<tabTrigger>BattleBar-ButtonBG-EndCap</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

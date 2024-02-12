@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ClientMessageEventLog]]></content>
-	<tabTrigger>ClientMessageEventLog</tabTrigger>
-	<description>"CVar"</description>
-	<scope>source.lua string.cvartype</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OPEN_REPORT_PLAYER(token, reportType, playerName)]]></content>
-	<tabTrigger>_OPEN_REPORT_PLAYER</tabTrigger>
-	<description>(token, reportType, playerName)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

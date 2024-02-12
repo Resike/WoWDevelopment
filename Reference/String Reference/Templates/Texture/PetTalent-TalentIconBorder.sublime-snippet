@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PetTalent-TalentIconBorder]]></content>
-	<tabTrigger>PetTalent-TalentIconBorder</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

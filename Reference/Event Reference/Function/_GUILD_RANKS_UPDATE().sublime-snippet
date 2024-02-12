@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILD_RANKS_UPDATE()]]></content>
-	<tabTrigger>_GUILD_RANKS_UPDATE</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

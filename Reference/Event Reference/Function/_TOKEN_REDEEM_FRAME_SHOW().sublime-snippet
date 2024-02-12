@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TOKEN_REDEEM_FRAME_SHOW()]]></content>
-	<tabTrigger>_TOKEN_REDEEM_FRAME_SHOW</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

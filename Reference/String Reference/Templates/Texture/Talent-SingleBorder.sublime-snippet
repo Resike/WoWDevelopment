@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Talent-SingleBorder]]></content>
-	<tabTrigger>Talent-SingleBorder</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

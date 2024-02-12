@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Talent-SingleBorder-Shadow]]></content>
-	<tabTrigger>Talent-SingleBorder-Shadow</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

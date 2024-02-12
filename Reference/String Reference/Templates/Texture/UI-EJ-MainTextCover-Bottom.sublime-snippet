@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UI-EJ-MainTextCover-Bottom]]></content>
-	<tabTrigger>UI-EJ-MainTextCover-Bottom</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

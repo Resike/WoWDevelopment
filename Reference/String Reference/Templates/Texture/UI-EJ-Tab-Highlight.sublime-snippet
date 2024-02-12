@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UI-EJ-Tab-Highlight]]></content>
-	<tabTrigger>UI-EJ-Tab-Highlight</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

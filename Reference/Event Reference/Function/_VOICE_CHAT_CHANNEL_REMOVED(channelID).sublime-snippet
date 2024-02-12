@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VOICE_CHAT_CHANNEL_REMOVED(channelID)]]></content>
-	<tabTrigger>_VOICE_CHAT_CHANNEL_REMOVED</tabTrigger>
-	<description>(channelID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

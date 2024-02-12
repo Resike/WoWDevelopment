@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Char-Inner-Left]]></content>
-	<tabTrigger>Char-Inner-Left</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

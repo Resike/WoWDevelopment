@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CLEAR_BOSS_EMOTES()]]></content>
-	<tabTrigger>_CLEAR_BOSS_EMOTES</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TWITTER_STATUS_UPDATE(isTwitterEnabled, isLinked, screenName)]]></content>
-	<tabTrigger>_TWITTER_STATUS_UPDATE</tabTrigger>
-	<description>(isTwitterEnabled, isLinked, screenName)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

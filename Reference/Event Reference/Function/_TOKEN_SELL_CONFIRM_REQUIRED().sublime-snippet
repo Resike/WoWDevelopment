@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TOKEN_SELL_CONFIRM_REQUIRED()]]></content>
-	<tabTrigger>_TOKEN_SELL_CONFIRM_REQUIRED</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

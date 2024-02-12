@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFG_OFFER_CONTINUE(name, lfgDungeonsID, typeID)]]></content>
-	<tabTrigger>_LFG_OFFER_CONTINUE</tabTrigger>
-	<description>(name, lfgDungeonsID, typeID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

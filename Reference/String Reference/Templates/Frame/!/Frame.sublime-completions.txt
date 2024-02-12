@@ -146,10 +146,6 @@
 			"contents": "AlertFrameTemplate",
 		},
 		{
-			"trigger": "AlertMountEquipmentFeatureTemplate\t\"template\"",
-			"contents": "AlertMountEquipmentFeatureTemplate",
-		},
-		{
 			"trigger": "AlliedRaceAbilityTemplate\t\"template\"",
 			"contents": "AlliedRaceAbilityTemplate",
 		},
@@ -350,40 +346,12 @@
 			"contents": "AzeriteEmpoweredItemUITemplate",
 		},
 		{
-			"trigger": "AzeriteEssenceButtonTemplate\t\"template\"",
-			"contents": "AzeriteEssenceButtonTemplate",
-		},
-		{
-			"trigger": "AzeriteEssenceDependencyLineTemplate\t\"template\"",
-			"contents": "AzeriteEssenceDependencyLineTemplate",
-		},
-		{
-			"trigger": "AzeriteEssenceStarsAnimationFrameTemplate\t\"template\"",
-			"contents": "AzeriteEssenceStarsAnimationFrameTemplate",
-		},
-		{
 			"trigger": "AzeriteIslandsPartyToastTextTemplate\t\"template\"",
 			"contents": "AzeriteIslandsPartyToastTextTemplate",
 		},
 		{
 			"trigger": "AzeriteIslandsPlayerToastTextTemplate\t\"template\"",
 			"contents": "AzeriteIslandsPlayerToastTextTemplate",
-		},
-		{
-			"trigger": "AzeriteMilestoneBaseTemplate\t\"template\"",
-			"contents": "AzeriteMilestoneBaseTemplate",
-		},
-		{
-			"trigger": "AzeriteMilestoneMajorSlotTemplate\t\"template\"",
-			"contents": "AzeriteMilestoneMajorSlotTemplate",
-		},
-		{
-			"trigger": "AzeriteMilestoneMinorSlotTemplate\t\"template\"",
-			"contents": "AzeriteMilestoneMinorSlotTemplate",
-		},
-		{
-			"trigger": "AzeriteMilestoneStaminaTemplate\t\"template\"",
-			"contents": "AzeriteMilestoneStaminaTemplate",
 		},
 		{
 			"trigger": "AzeriteRankFrameTemplate\t\"template\"",
@@ -782,14 +750,6 @@
 			"contents": "CharacterStatFrameTemplate",
 		},
 		{
-			"trigger": "CharacterTemplateConfirmDialog\t\"template\"",
-			"contents": "CharacterTemplateConfirmDialog",
-		},
-		{
-			"trigger": "CharacterTemplatesFrame\t\"template\"",
-			"contents": "CharacterTemplatesFrame",
-		},
-		{
 			"trigger": "CharacterUpgradeSelectFactionRadioButtonTemplate\t\"template\"",
 			"contents": "CharacterUpgradeSelectFactionRadioButtonTemplate",
 		},
@@ -960,78 +920,6 @@
 		{
 			"trigger": "ClickToZoomDataProvider_LabelTemplate\t\"template\"",
 			"contents": "ClickToZoomDataProvider_LabelTemplate",
-		},
-		{
-			"trigger": "ClubFinderApplicantEntryTemplate\t\"template\"",
-			"contents": "ClubFinderApplicantEntryTemplate",
-		},
-		{
-			"trigger": "ClubFinderApplicantListFrameTemplate\t\"template\"",
-			"contents": "ClubFinderApplicantListFrameTemplate",
-		},
-		{
-			"trigger": "ClubFinderCheckboxTemplate\t\"template\"",
-			"contents": "ClubFinderCheckboxTemplate",
-		},
-		{
-			"trigger": "ClubFinderCommunitiesCardFrameTemplate\t\"template\"",
-			"contents": "ClubFinderCommunitiesCardFrameTemplate",
-		},
-		{
-			"trigger": "ClubFinderCommunitiesCardTemplate\t\"template\"",
-			"contents": "ClubFinderCommunitiesCardTemplate",
-		},
-		{
-			"trigger": "ClubFinderEditBoxScrollFrameTemplate\t\"template\"",
-			"contents": "ClubFinderEditBoxScrollFrameTemplate",
-		},
-		{
-			"trigger": "ClubFinderFocusDropdownTemplate\t\"template\"",
-			"contents": "ClubFinderFocusDropdownTemplate",
-		},
-		{
-			"trigger": "ClubFinderGuildAndCommunityFrameTemplate\t\"template\"",
-			"contents": "ClubFinderGuildAndCommunityFrameTemplate",
-		},
-		{
-			"trigger": "ClubFinderGuildCardsFrameTemplate\t\"template\"",
-			"contents": "ClubFinderGuildCardsFrameTemplate",
-		},
-		{
-			"trigger": "ClubFinderGuildCardTemplate\t\"template\"",
-			"contents": "ClubFinderGuildCardTemplate",
-		},
-		{
-			"trigger": "ClubFinderInvitationsFrameTemplate\t\"template\"",
-			"contents": "ClubFinderInvitationsFrameTemplate",
-		},
-		{
-			"trigger": "ClubFinderOptionsTemplate\t\"template\"",
-			"contents": "ClubFinderOptionsTemplate",
-		},
-		{
-			"trigger": "ClubFinderRequestToJoinTemplate\t\"template\"",
-			"contents": "ClubFinderRequestToJoinTemplate",
-		},
-		{
-			"trigger": "ClubFinderRoleTemplate\t\"template\"",
-			"contents": "ClubFinderRoleTemplate",
-		},
-		{
-			"trigger": "ClubFinderSpecializationCheckBoxTemplate\t\"template\"",
-			"contents": "ClubFinderSpecializationCheckBoxTemplate",
-		},
-		{
-			"trigger": "ClubPendingRecruitListFrameTemplate\t\"template\"",
-			"contents": "ClubPendingRecruitListFrameTemplate",
-		},
-		{
-			"trigger": "ClubsFinderJoinClubWarningTemplate\t\"template\"",
-			"contents": "ClubsFinderJoinClubWarningTemplate",
-		},
-		{
-			"trigger": "ClubsRecruitmentDialogTemplate\t\"template\"",
-			"contents": "ClubsRecruitmentDialogTemplate",
 		},
 		{
 			"trigger": "CollectionsBackgroundTemplate\t\"template\"",
@@ -1490,14 +1378,6 @@
 			"contents": "DebuffButtonTemplate",
 		},
 		{
-			"trigger": "DebugIdentifierFrameNoNameTemplate\t\"template\"",
-			"contents": "DebugIdentifierFrameNoNameTemplate",
-		},
-		{
-			"trigger": "DebugIdentifierFrameTemplate\t\"template\"",
-			"contents": "DebugIdentifierFrameTemplate",
-		},
-		{
 			"trigger": "DefaultPanelTemplate\t\"template\"",
 			"contents": "DefaultPanelTemplate",
 		},
@@ -1524,26 +1404,6 @@
 		{
 			"trigger": "DeveloperConsoleBackgroundTemplate\t\"template\"",
 			"contents": "DeveloperConsoleBackgroundTemplate",
-		},
-		{
-			"trigger": "DialogBorderDarkTemplate\t\"template\"",
-			"contents": "DialogBorderDarkTemplate",
-		},
-		{
-			"trigger": "DialogBorderNoCenterTemplate\t\"template\"",
-			"contents": "DialogBorderNoCenterTemplate",
-		},
-		{
-			"trigger": "DialogBorderOpaqueTemplate\t\"template\"",
-			"contents": "DialogBorderOpaqueTemplate",
-		},
-		{
-			"trigger": "DialogBorderTemplate\t\"template\"",
-			"contents": "DialogBorderTemplate",
-		},
-		{
-			"trigger": "DialogBorderTranslucentTemplate\t\"template\"",
-			"contents": "DialogBorderTranslucentTemplate",
 		},
 		{
 			"trigger": "DialogBoxFrame\t\"template\"",
@@ -2470,10 +2330,6 @@
 			"contents": "GuildBankPopupButtonTemplate",
 		},
 		{
-			"trigger": "GuildBankTabPermissionsTabTemplate\t\"template\"",
-			"contents": "GuildBankTabPermissionsTabTemplate",
-		},
-		{
 			"trigger": "GuildBankTabTemplate\t\"template\"",
 			"contents": "GuildBankTabTemplate",
 		},
@@ -3050,10 +2906,6 @@
 			"contents": "LootHistoryPlayerTemplate",
 		},
 		{
-			"trigger": "LootItemExtended\t\"template\"",
-			"contents": "LootItemExtended",
-		},
-		{
 			"trigger": "LootJournalItemButtonTemplate\t\"template\"",
 			"contents": "LootJournalItemButtonTemplate",
 		},
@@ -3254,10 +3106,6 @@
 			"contents": "MonkLightEnergyTemplate",
 		},
 		{
-			"trigger": "MountEquipmentButtonTemplate\t\"template\"",
-			"contents": "MountEquipmentButtonTemplate",
-		},
-		{
 			"trigger": "MountListButtonTemplate\t\"template\"",
 			"contents": "MountListButtonTemplate",
 		},
@@ -3400,10 +3248,6 @@
 		{
 			"trigger": "ObjectiveTrackerTimerBarTemplate\t\"template\"",
 			"contents": "ObjectiveTrackerTimerBarTemplate",
-		},
-		{
-			"trigger": "ObjectiveTrackerUIWidgetBlock\t\"template\"",
-			"contents": "ObjectiveTrackerUIWidgetBlock",
 		},
 		{
 			"trigger": "OpenMailAttachment\t\"template\"",
@@ -3662,18 +3506,6 @@
 			"contents": "PossessButtonTemplate",
 		},
 		{
-			"trigger": "PowerDependencyCurvedLineTemplate\t\"template\"",
-			"contents": "PowerDependencyCurvedLineTemplate",
-		},
-		{
-			"trigger": "PowerDependencyLineTemplate\t\"template\"",
-			"contents": "PowerDependencyLineTemplate",
-		},
-		{
-			"trigger": "PowerSwirlAnimationTemplate\t\"template\"",
-			"contents": "PowerSwirlAnimationTemplate",
-		},
-		{
 			"trigger": "PrimaryProfessionTemplate\t\"template\"",
 			"contents": "PrimaryProfessionTemplate",
 		},
@@ -3718,32 +3550,8 @@
 			"contents": "PVPCasualActivityButtonTemplate",
 		},
 		{
-			"trigger": "PVPCellClassTemplate\t\"template\"",
-			"contents": "PVPCellClassTemplate",
-		},
-		{
-			"trigger": "PVPCellHonorLevelTemplate\t\"template\"",
-			"contents": "PVPCellHonorLevelTemplate",
-		},
-		{
-			"trigger": "PVPCellNameTemplate\t\"template\"",
-			"contents": "PVPCellNameTemplate",
-		},
-		{
-			"trigger": "PVPCellStatTemplate\t\"template\"",
-			"contents": "PVPCellStatTemplate",
-		},
-		{
-			"trigger": "PVPCellStringTemplate\t\"template\"",
-			"contents": "PVPCellStringTemplate",
-		},
-		{
 			"trigger": "PVPConquestBarTemplate\t\"template\"",
 			"contents": "PVPConquestBarTemplate",
-		},
-		{
-			"trigger": "PVPConquestRewardButton\t\"template\"",
-			"contents": "PVPConquestRewardButton",
 		},
 		{
 			"trigger": "PVPCurrencyDisplayTemplate\t\"template\"",
@@ -3754,20 +3562,8 @@
 			"contents": "PVPCurrencyRewardTemplate",
 		},
 		{
-			"trigger": "PVPHeaderIconTemplate\t\"template\"",
-			"contents": "PVPHeaderIconTemplate",
-		},
-		{
-			"trigger": "PVPHeaderStringTemplate\t\"template\"",
-			"contents": "PVPHeaderStringTemplate",
-		},
-		{
 			"trigger": "PVPHonorRewardCodeTemplate\t\"template\"",
 			"contents": "PVPHonorRewardCodeTemplate",
-		},
-		{
-			"trigger": "PVPHonorRewardTemplate\t\"template\"",
-			"contents": "PVPHonorRewardTemplate",
 		},
 		{
 			"trigger": "PVPHonorSystemLargeXPBar\t\"template\"",
@@ -3778,28 +3574,12 @@
 			"contents": "PVPHonorSystemSmallXPBar",
 		},
 		{
-			"trigger": "PVPIconTemplate\t\"template\"",
-			"contents": "PVPIconTemplate",
-		},
-		{
 			"trigger": "PVPInstanceListEntryButtonTemplate\t\"template\"",
 			"contents": "PVPInstanceListEntryButtonTemplate",
 		},
 		{
 			"trigger": "PVPInstanceListHeaderButtonTemplate\t\"template\"",
 			"contents": "PVPInstanceListHeaderButtonTemplate",
-		},
-		{
-			"trigger": "PVPLootTemplate\t\"template\"",
-			"contents": "PVPLootTemplate",
-		},
-		{
-			"trigger": "PVPMatchResultsLoot\t\"template\"",
-			"contents": "PVPMatchResultsLoot",
-		},
-		{
-			"trigger": "PVPNewRatingTemplate\t\"template\"",
-			"contents": "PVPNewRatingTemplate",
 		},
 		{
 			"trigger": "PVPQueueFrameButtonTemplate\t\"template\"",
@@ -3824,14 +3604,6 @@
 		{
 			"trigger": "PVPSpecificBattlegroundButtonTemplate\t\"template\"",
 			"contents": "PVPSpecificBattlegroundButtonTemplate",
-		},
-		{
-			"trigger": "PVPStringTemplate\t\"template\"",
-			"contents": "PVPStringTemplate",
-		},
-		{
-			"trigger": "PVPTableRowTemplate\t\"template\"",
-			"contents": "PVPTableRowTemplate",
 		},
 		{
 			"trigger": "PvpTalentButtonTemplate\t\"template\"",
@@ -3886,10 +3658,6 @@
 			"contents": "QuestFramePanelTemplate",
 		},
 		{
-			"trigger": "QuestInfoHonorFrameScriptTemplate\t\"template\"",
-			"contents": "QuestInfoHonorFrameScriptTemplate",
-		},
-		{
 			"trigger": "QuestInfoRewardFollowerCodeTemplate\t\"template\"",
 			"contents": "QuestInfoRewardFollowerCodeTemplate",
 		},
@@ -3928,10 +3696,6 @@
 		{
 			"trigger": "QuestObjectiveItemButtonTemplate\t\"template\"",
 			"contents": "QuestObjectiveItemButtonTemplate",
-		},
-		{
-			"trigger": "QuestObjectiveWaypointLineTemplate\t\"template\"",
-			"contents": "QuestObjectiveWaypointLineTemplate",
 		},
 		{
 			"trigger": "QuestPinTemplate\t\"template\"",
@@ -4094,14 +3858,6 @@
 			"contents": "RogueResourceOverlayComboFrame",
 		},
 		{
-			"trigger": "RoleCountNoScriptsTemplate\t\"template\"",
-			"contents": "RoleCountNoScriptsTemplate",
-		},
-		{
-			"trigger": "RoleCountTemplate\t\"template\"",
-			"contents": "RoleCountTemplate",
-		},
-		{
 			"trigger": "RolePollRoleButtonTemplate\t\"template\"",
 			"contents": "RolePollRoleButtonTemplate",
 		},
@@ -4202,22 +3958,6 @@
 			"contents": "SecureAuraHeaderTemplate",
 		},
 		{
-			"trigger": "SecureDialogBorderDarkTemplate\t\"template\"",
-			"contents": "SecureDialogBorderDarkTemplate",
-		},
-		{
-			"trigger": "SecureDialogBorderNoCenterTemplate\t\"template\"",
-			"contents": "SecureDialogBorderNoCenterTemplate",
-		},
-		{
-			"trigger": "SecureDialogBorderOpaqueTemplate\t\"template\"",
-			"contents": "SecureDialogBorderOpaqueTemplate",
-		},
-		{
-			"trigger": "SecureDialogBorderTemplate\t\"template\"",
-			"contents": "SecureDialogBorderTemplate",
-		},
-		{
 			"trigger": "SecureFrameTemplate\t\"template\"",
 			"contents": "SecureFrameTemplate",
 		},
@@ -4228,46 +3968,6 @@
 		{
 			"trigger": "SecureGroupPetHeaderTemplate\t\"template\"",
 			"contents": "SecureGroupPetHeaderTemplate",
-		},
-		{
-			"trigger": "SecureHandlerAttributeTemplate\t\"template\"",
-			"contents": "SecureHandlerAttributeTemplate",
-		},
-		{
-			"trigger": "SecureHandlerBaseTemplate\t\"template\"",
-			"contents": "SecureHandlerBaseTemplate",
-		},
-		{
-			"trigger": "SecureHandlerClickTemplate\t\"template\"",
-			"contents": "SecureHandlerClickTemplate",
-		},
-		{
-			"trigger": "SecureHandlerDoubleClickTemplate\t\"template\"",
-			"contents": "SecureHandlerDoubleClickTemplate",
-		},
-		{
-			"trigger": "SecureHandlerDragTemplate\t\"template\"",
-			"contents": "SecureHandlerDragTemplate",
-		},
-		{
-			"trigger": "SecureHandlerEnterLeaveTemplate\t\"template\"",
-			"contents": "SecureHandlerEnterLeaveTemplate",
-		},
-		{
-			"trigger": "SecureHandlerMouseUpDownTemplate\t\"template\"",
-			"contents": "SecureHandlerMouseUpDownTemplate",
-		},
-		{
-			"trigger": "SecureHandlerMouseWheelTemplate\t\"template\"",
-			"contents": "SecureHandlerMouseWheelTemplate",
-		},
-		{
-			"trigger": "SecureHandlerShowHideTemplate\t\"template\"",
-			"contents": "SecureHandlerShowHideTemplate",
-		},
-		{
-			"trigger": "SecureHandlerStateTemplate\t\"template\"",
-			"contents": "SecureHandlerStateTemplate",
 		},
 		{
 			"trigger": "SecurePartyHeaderTemplate\t\"template\"",
@@ -4346,6 +4046,18 @@
 			"contents": "ShoppingTooltipTemplate",
 		},
 		{
+			"trigger": "SimpleCheckoutBorder\t\"template\"",
+			"contents": "SimpleCheckoutBorder",
+		},
+		{
+			"trigger": "SimpleCheckoutInsideBorder\t\"template\"",
+			"contents": "SimpleCheckoutInsideBorder",
+		},
+		{
+			"trigger": "SimpleCheckoutOutsideBorder\t\"template\"",
+			"contents": "SimpleCheckoutOutsideBorder",
+		},
+		{
 			"trigger": "SimplePanelTemplate\t\"template\"",
 			"contents": "SimplePanelTemplate",
 		},
@@ -4388,6 +4100,14 @@
 		{
 			"trigger": "SocialShareButton\t\"template\"",
 			"contents": "SocialShareButton",
+		},
+		{
+			"trigger": "SocialToastAnimInTemplate\t\"template\"",
+			"contents": "SocialToastAnimInTemplate",
+		},
+		{
+			"trigger": "SocialToastAnimOutTemplate\t\"template\"",
+			"contents": "SocialToastAnimOutTemplate",
 		},
 		{
 			"trigger": "SocialToastCloseButtonTemplate\t\"template\"",
@@ -4898,10 +4618,6 @@
 			"contents": "UIServiceButtonTemplate",
 		},
 		{
-			"trigger": "UIWidgetBaseControlZoneTemplate\t\"template\"",
-			"contents": "UIWidgetBaseControlZoneTemplate",
-		},
-		{
 			"trigger": "UIWidgetBaseCurrencyTemplate\t\"template\"",
 			"contents": "UIWidgetBaseCurrencyTemplate",
 		},
@@ -4918,16 +4634,8 @@
 			"contents": "UIWidgetBaseStateIconTemplate",
 		},
 		{
-			"trigger": "UIWidgetBaseStatusBarTemplate\t\"template\"",
-			"contents": "UIWidgetBaseStatusBarTemplate",
-		},
-		{
 			"trigger": "UIWidgetBaseTemplate\t\"template\"",
 			"contents": "UIWidgetBaseTemplate",
-		},
-		{
-			"trigger": "UIWidgetBaseTextureAndTextTemplate\t\"template\"",
-			"contents": "UIWidgetBaseTextureAndTextTemplate",
 		},
 		{
 			"trigger": "UIWidgetContainerTemplate\t\"template\"",
@@ -4998,12 +4706,8 @@
 			"contents": "UIWidgetTemplateStatusBar",
 		},
 		{
-			"trigger": "UIWidgetTemplateTextureAndText\t\"template\"",
-			"contents": "UIWidgetTemplateTextureAndText",
-		},
-		{
-			"trigger": "UIWidgetTemplateTextureAndTextRow\t\"template\"",
-			"contents": "UIWidgetTemplateTextureAndTextRow",
+			"trigger": "UIWidgetTemplateTextureWithState\t\"template\"",
+			"contents": "UIWidgetTemplateTextureWithState",
 		},
 		{
 			"trigger": "UIWidgetTemplateTextWithState\t\"template\"",
@@ -5012,10 +4716,6 @@
 		{
 			"trigger": "UIWidgetTemplateTooltipFrame\t\"template\"",
 			"contents": "UIWidgetTemplateTooltipFrame",
-		},
-		{
-			"trigger": "UIWidgetTemplateZoneControl\t\"template\"",
-			"contents": "UIWidgetTemplateZoneControl",
 		},
 		{
 			"trigger": "UnitCounterBarNumberTemplate\t\"template\"",
@@ -5332,6 +5032,14 @@
 		{
 			"trigger": "WorldQuestSpellEffectPinTemplate\t\"template\"",
 			"contents": "WorldQuestSpellEffectPinTemplate",
+		},
+		{
+			"trigger": "WorldStateScoreColumnTemplate\t\"template\"",
+			"contents": "WorldStateScoreColumnTemplate",
+		},
+		{
+			"trigger": "WorldStateScoreTemplate\t\"template\"",
+			"contents": "WorldStateScoreTemplate",
 		},
 		{
 			"trigger": "WowTokenButtonTemplate\t\"template\"",

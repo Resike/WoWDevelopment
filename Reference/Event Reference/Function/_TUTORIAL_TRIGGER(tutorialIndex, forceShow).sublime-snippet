@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TUTORIAL_TRIGGER(tutorialIndex, forceShow)]]></content>
-	<tabTrigger>_TUTORIAL_TRIGGER</tabTrigger>
-	<description>(tutorialIndex, forceShow)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

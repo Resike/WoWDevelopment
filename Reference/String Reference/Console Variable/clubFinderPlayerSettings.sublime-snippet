@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[clubFinderPlayerSettings]]></content>
-	<tabTrigger>clubFinderPlayerSettings</tabTrigger>
-	<description>"CVar"</description>
-	<scope>source.lua string.cvartype</scope>
-</snippet>

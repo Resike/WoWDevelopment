@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GARRISON_BUILDING_LIST_UPDATE(categoryID)]]></content>
-	<tabTrigger>_GARRISON_BUILDING_LIST_UPDATE</tabTrigger>
-	<description>(categoryID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

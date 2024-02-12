@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GARRISON_FOLLOWER_ADDED(followerDbID, followerName, followerClassName, followerLevel, followerQuality, isUpgraded, texturePrefix, followerTypeID)]]></content>
-	<tabTrigger>_GARRISON_FOLLOWER_ADDED</tabTrigger>
-	<description>(followerDbID, followerName, followerClassName, followerLevel, followerQuality, isUpgraded, texturePrefix, followerTypeID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

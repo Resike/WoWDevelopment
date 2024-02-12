@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BattleBar-SwapPetShadow]]></content>
-	<tabTrigger>BattleBar-SwapPetShadow</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

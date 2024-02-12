@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GARRISON_TALENT_NPC_CLOSED()]]></content>
-	<tabTrigger>_GARRISON_TALENT_NPC_CLOSED</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

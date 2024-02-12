@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WORLD_QUEST_COMPLETED_BY_SPELL(questID)]]></content>
-	<tabTrigger>_WORLD_QUEST_COMPLETED_BY_SPELL</tabTrigger>
-	<description>(questID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

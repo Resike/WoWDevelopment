@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PLAYER_LEVEL_CHANGED(oldLevel, newLevel)]]></content>
-	<tabTrigger>_PLAYER_LEVEL_CHANGED</tabTrigger>
-	<description>(oldLevel, newLevel)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILD_INVITE_REQUEST(inviter, guildName, guildAchievementPoints, oldGuildName, isNewGuild, bkgColorR, bkgColorG, bkgColorB, borderColorR, borderColorG, borderColorB, emblemColorR, emblemColorG, emblemColorB, emblemFileID, emblemIndex)]]></content>
-	<tabTrigger>_GUILD_INVITE_REQUEST</tabTrigger>
-	<description>(inviter, guildName, guildAchievementPoints, oldGuildName, isNewGuild, bkgColorR, bkgColorG, bkgColorB, borderColorR, borderColorG, borderColorB, emblemColorR, emblemColorG, emblemColorB, emblemFileID, emblemIndex)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GARRISON_SHOW_LANDING_PAGE()]]></content>
-	<tabTrigger>_GARRISON_SHOW_LANDING_PAGE</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[${1:red}, ${2:green}, ${3:blue}, ${4:alpha} = UnitSelectionColor("${5:name}")$0]]></content>
+	<content><![CDATA[${1:red}, ${2:green}, ${:blue}, ${4:alpha} = UnitSelectionColor("${5:name}")$0]]></content>
 	<tabTrigger>_UnitSelectionColor</tabTrigger>
 	<description>("name")</description>
 	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Talent-TitleGlow-Left]]></content>
-	<tabTrigger>Talent-TitleGlow-Left</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GENERIC_ERROR(errorMessage)]]></content>
-	<tabTrigger>_GENERIC_ERROR</tabTrigger>
-	<description>(errorMessage)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

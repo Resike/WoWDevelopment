@@ -2,5 +2,5 @@
 	<content><![CDATA[tonumber(${1:x}, ${2:[base]})$0]]></content>
 	<tabTrigger>tonumber</tabTrigger>
 	<description>(x, [base])</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

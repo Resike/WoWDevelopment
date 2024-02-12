@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Timer-Frame]]></content>
-	<tabTrigger>Timer-Frame</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

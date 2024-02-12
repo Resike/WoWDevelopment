@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILD_ROSTER_UPDATE(canRequestRosterUpdate)]]></content>
-	<tabTrigger>_GUILD_ROSTER_UPDATE</tabTrigger>
-	<description>(canRequestRosterUpdate)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

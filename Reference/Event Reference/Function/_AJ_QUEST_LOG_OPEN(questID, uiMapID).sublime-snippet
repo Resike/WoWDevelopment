@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AJ_QUEST_LOG_OPEN(questID, uiMapID)]]></content>
-	<tabTrigger>_AJ_QUEST_LOG_OPEN</tabTrigger>
-	<description>(questID, uiMapID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

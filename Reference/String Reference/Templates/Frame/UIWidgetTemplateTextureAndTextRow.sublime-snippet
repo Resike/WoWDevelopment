@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UIWidgetTemplateTextureAndTextRow]]></content>
-	<tabTrigger>UIWidgetTemplateTextureAndTextRow</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.frame</scope>
-</snippet>

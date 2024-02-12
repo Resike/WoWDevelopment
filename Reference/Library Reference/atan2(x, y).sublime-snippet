@@ -2,5 +2,5 @@
 	<content><![CDATA[atan2(${1:x}, ${2:y})$0]]></content>
 	<tabTrigger>atan2</tabTrigger>
 	<description>(x, y)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

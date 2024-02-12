@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BattleBar-Button-Highlight]]></content>
-	<tabTrigger>BattleBar-Button-Highlight</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

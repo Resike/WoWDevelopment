@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ = ${TM_CURRENT_LINE/(local\s*|\s*|--.*|\+\+)//g} - 1]]></content>
-	<tabTrigger>+-</tabTrigger>
-	<scope>source.lua - entity - punctuation - string - meta.function.arguments.lua - meta.function-call.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
-	<description>x = x - 1</description>
-</snippet>

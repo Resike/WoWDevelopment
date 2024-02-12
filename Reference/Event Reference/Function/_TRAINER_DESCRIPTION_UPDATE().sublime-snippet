@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TRAINER_DESCRIPTION_UPDATE()]]></content>
-	<tabTrigger>_TRAINER_DESCRIPTION_UPDATE</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

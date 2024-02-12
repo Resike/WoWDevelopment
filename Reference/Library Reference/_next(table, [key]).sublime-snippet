@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:nextKey}, ${2:nextValue} = next(${3:table}, ${4:[key]})$0]]></content>
 	<tabTrigger>_next</tabTrigger>
 	<description>(table, [key])</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

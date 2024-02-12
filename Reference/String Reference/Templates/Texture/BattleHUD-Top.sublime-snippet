@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BattleHUD-Top]]></content>
-	<tabTrigger>BattleHUD-Top</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

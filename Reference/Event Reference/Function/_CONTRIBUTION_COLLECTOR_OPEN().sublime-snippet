@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CONTRIBUTION_COLLECTOR_OPEN()]]></content>
-	<tabTrigger>_CONTRIBUTION_COLLECTOR_OPEN</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

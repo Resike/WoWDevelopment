@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GARRISON_MISSION_LIST_UPDATE(garrFollowerTypeID)]]></content>
-	<tabTrigger>_GARRISON_MISSION_LIST_UPDATE</tabTrigger>
-	<description>(garrFollowerTypeID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:newsInfo} = C_GuildInfo.GetGuildNewsInfo(${2:index})$0]]></content>
-	<tabTrigger>_C_GuildInfo.GetGuildNewsInfo</tabTrigger>
-	<description>(index)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

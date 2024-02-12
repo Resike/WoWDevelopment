@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VOICE_CHAT_AUDIO_CAPTURE_STARTED()]]></content>
-	<tabTrigger>_VOICE_CHAT_AUDIO_CAPTURE_STARTED</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

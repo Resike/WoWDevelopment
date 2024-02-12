@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PET_BATTLE_PVP_DUEL_REQUESTED(fullName)]]></content>
-	<tabTrigger>_PET_BATTLE_PVP_DUEL_REQUESTED</tabTrigger>
-	<description>(fullName)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

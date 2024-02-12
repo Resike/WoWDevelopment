@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MAIL_CLOSED()]]></content>
-	<tabTrigger>_MAIL_CLOSED</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

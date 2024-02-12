@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CHARACTER_UPGRADE_SPELL_TIER_SET(tierIndex)]]></content>
-	<tabTrigger>_CHARACTER_UPGRADE_SPELL_TIER_SET</tabTrigger>
-	<description>(tierIndex)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

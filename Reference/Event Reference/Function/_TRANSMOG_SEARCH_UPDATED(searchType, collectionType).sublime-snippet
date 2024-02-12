@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TRANSMOG_SEARCH_UPDATED(searchType, collectionType)]]></content>
-	<tabTrigger>_TRANSMOG_SEARCH_UPDATED</tabTrigger>
-	<description>(searchType, collectionType)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

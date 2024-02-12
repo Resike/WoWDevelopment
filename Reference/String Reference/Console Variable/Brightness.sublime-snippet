@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Brightness]]></content>
-	<tabTrigger>Brightness</tabTrigger>
-	<description>"CVar"</description>
-	<scope>source.lua string.cvartype</scope>
-</snippet>

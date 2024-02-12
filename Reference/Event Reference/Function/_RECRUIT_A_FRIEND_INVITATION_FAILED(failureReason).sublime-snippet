@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RECRUIT_A_FRIEND_INVITATION_FAILED(failureReason)]]></content>
-	<tabTrigger>_RECRUIT_A_FRIEND_INVITATION_FAILED</tabTrigger>
-	<description>(failureReason)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

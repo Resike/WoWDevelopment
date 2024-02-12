@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UNIT_FACTION(unit)]]></content>
-	<tabTrigger>_UNIT_FACTION</tabTrigger>
-	<description>(unit)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

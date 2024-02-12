@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UI-Frame-BtnDivMiddle]]></content>
-	<tabTrigger>UI-Frame-BtnDivMiddle</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

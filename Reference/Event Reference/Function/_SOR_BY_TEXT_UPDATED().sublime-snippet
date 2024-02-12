@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SOR_BY_TEXT_UPDATED()]]></content>
-	<tabTrigger>_SOR_BY_TEXT_UPDATED</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

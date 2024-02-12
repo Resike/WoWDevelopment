@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BONUS_ROLL_RESULT(typeIdentifier, itemLink, quantity, specID, sex, personalLootToast, currencyID, isSecondaryResult)]]></content>
-	<tabTrigger>_BONUS_ROLL_RESULT</tabTrigger>
-	<description>(typeIdentifier, itemLink, quantity, specID, sex, personalLootToast, currencyID, isSecondaryResult)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BN_CUSTOM_MESSAGE_LOADED()]]></content>
-	<tabTrigger>_BN_CUSTOM_MESSAGE_LOADED</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

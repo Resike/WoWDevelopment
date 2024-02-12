@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Talent-PointBg-Green]]></content>
-	<tabTrigger>Talent-PointBg-Green</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

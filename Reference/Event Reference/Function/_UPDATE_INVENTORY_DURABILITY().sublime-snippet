@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UPDATE_INVENTORY_DURABILITY()]]></content>
-	<tabTrigger>_UPDATE_INVENTORY_DURABILITY</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

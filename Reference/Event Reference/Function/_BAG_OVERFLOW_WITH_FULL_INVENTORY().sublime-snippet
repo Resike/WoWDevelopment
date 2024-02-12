@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BAG_OVERFLOW_WITH_FULL_INVENTORY()]]></content>
-	<tabTrigger>_BAG_OVERFLOW_WITH_FULL_INVENTORY</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

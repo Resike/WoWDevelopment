@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AutoQuest-QuestLogIcon]]></content>
-	<tabTrigger>AutoQuest-QuestLogIcon</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

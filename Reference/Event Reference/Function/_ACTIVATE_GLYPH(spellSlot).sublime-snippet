@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACTIVATE_GLYPH(spellSlot)]]></content>
-	<tabTrigger>_ACTIVATE_GLYPH</tabTrigger>
-	<description>(spellSlot)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

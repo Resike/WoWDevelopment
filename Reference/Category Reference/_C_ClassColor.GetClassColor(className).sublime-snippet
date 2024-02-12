@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:classColor} = C_ClassColor.GetClassColor("${2:className}")$0]]></content>
-	<tabTrigger>_C_ClassColor.GetClassColor</tabTrigger>
-	<description>("className")</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

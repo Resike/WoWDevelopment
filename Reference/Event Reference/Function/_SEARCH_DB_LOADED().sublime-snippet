@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SEARCH_DB_LOADED()]]></content>
-	<tabTrigger>_SEARCH_DB_LOADED</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

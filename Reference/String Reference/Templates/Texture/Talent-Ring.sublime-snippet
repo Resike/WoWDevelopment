@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Talent-Ring]]></content>
-	<tabTrigger>Talent-Ring</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

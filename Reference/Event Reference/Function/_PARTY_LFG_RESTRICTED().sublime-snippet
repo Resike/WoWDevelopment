@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PARTY_LFG_RESTRICTED()]]></content>
-	<tabTrigger>_PARTY_LFG_RESTRICTED</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

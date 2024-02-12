@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LEARNED_SPELL_IN_TAB(spellID, skillInfoIndex, isGuildPerkSpell)]]></content>
-	<tabTrigger>_LEARNED_SPELL_IN_TAB</tabTrigger>
-	<description>(spellID, skillInfoIndex, isGuildPerkSpell)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

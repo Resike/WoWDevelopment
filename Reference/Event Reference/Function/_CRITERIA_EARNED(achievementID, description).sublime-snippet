@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CRITERIA_EARNED(achievementID, description)]]></content>
-	<tabTrigger>_CRITERIA_EARNED</tabTrigger>
-	<description>(achievementID, description)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

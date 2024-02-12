@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UI_ERROR_MESSAGE(errorType, message)]]></content>
-	<tabTrigger>_UI_ERROR_MESSAGE</tabTrigger>
-	<description>(errorType, message)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

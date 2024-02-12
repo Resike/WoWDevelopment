@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CLOSE_INBOX_ITEM(mailIndex)]]></content>
-	<tabTrigger>_CLOSE_INBOX_ITEM</tabTrigger>
-	<description>(mailIndex)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

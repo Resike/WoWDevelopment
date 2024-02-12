@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EQUIPMENT_SWAP_FINISHED(result, setID)]]></content>
-	<tabTrigger>_EQUIPMENT_SWAP_FINISHED</tabTrigger>
-	<description>(result, setID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

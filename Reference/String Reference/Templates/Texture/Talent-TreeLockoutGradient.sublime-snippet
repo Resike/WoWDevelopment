@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Talent-TreeLockoutGradient]]></content>
-	<tabTrigger>Talent-TreeLockoutGradient</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

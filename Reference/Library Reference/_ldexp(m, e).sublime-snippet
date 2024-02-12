@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:x} = ldexp(${2:m}, ${3:e})$0]]></content>
 	<tabTrigger>_ldexp</tabTrigger>
 	<description>(m, e)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

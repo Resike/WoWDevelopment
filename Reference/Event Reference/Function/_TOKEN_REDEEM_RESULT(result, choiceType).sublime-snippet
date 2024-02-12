@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TOKEN_REDEEM_RESULT(result, choiceType)]]></content>
-	<tabTrigger>_TOKEN_REDEEM_RESULT</tabTrigger>
-	<description>(result, choiceType)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

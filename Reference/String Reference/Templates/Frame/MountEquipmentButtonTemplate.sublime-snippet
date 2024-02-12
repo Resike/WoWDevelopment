@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MountEquipmentButtonTemplate]]></content>
-	<tabTrigger>MountEquipmentButtonTemplate</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.frame</scope>
-</snippet>

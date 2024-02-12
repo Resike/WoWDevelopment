@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AZERITE_EMPOWERED_ITEM_EQUIPPED_STATUS_CHANGED(isHeartEquipped)]]></content>
-	<tabTrigger>_AZERITE_EMPOWERED_ITEM_EQUIPPED_STATUS_CHANGED</tabTrigger>
-	<description>(isHeartEquipped)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

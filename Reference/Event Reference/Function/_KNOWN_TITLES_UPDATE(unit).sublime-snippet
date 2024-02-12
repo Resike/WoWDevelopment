@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[KNOWN_TITLES_UPDATE(unit)]]></content>
-	<tabTrigger>_KNOWN_TITLES_UPDATE</tabTrigger>
-	<description>(unit)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFG_OPEN_FROM_GOSSIP(dungeonID)]]></content>
-	<tabTrigger>_LFG_OPEN_FROM_GOSSIP</tabTrigger>
-	<description>(dungeonID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

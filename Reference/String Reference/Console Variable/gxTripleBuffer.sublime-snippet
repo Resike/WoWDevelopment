@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[gxTripleBuffer]]></content>
+	<tabTrigger>gxTripleBuffer</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

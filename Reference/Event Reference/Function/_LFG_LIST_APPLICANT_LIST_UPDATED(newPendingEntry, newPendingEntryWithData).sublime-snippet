@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFG_LIST_APPLICANT_LIST_UPDATED(newPendingEntry, newPendingEntryWithData)]]></content>
-	<tabTrigger>_LFG_LIST_APPLICANT_LIST_UPDATED</tabTrigger>
-	<description>(newPendingEntry, newPendingEntryWithData)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

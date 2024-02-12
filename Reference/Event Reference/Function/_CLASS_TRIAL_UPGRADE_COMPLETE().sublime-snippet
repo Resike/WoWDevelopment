@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CLASS_TRIAL_UPGRADE_COMPLETE()]]></content>
-	<tabTrigger>_CLASS_TRIAL_UPGRADE_COMPLETE</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

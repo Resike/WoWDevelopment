@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BAG_UPDATE_DELAYED()]]></content>
-	<tabTrigger>_BAG_UPDATE_DELAYED</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UPDATE_INSTANCE_INFO()]]></content>
-	<tabTrigger>_UPDATE_INSTANCE_INFO</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

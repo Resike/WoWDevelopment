@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UNIT_MAXHEALTH(unit)]]></content>
-	<tabTrigger>_UNIT_MAXHEALTH</tabTrigger>
-	<description>(unit)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

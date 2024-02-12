@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Talent-Inner-BotLeft]]></content>
-	<tabTrigger>Talent-Inner-BotLeft</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

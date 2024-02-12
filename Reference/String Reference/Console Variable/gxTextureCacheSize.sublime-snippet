@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[gxTextureCacheSize]]></content>
+	<tabTrigger>gxTextureCacheSize</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

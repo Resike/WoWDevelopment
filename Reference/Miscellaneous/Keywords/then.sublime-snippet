@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[then]]></content>
+	<tabTrigger>then</tabTrigger>
+	<scope>source.lua - entity - punctuation - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+	<description>then</description>
+</snippet>

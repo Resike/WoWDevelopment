@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[COMPANION_LEARNED()]]></content>
-	<tabTrigger>_COMPANION_LEARNED</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

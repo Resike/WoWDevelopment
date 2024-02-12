@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ACHIEVEMENT_PLAYER_NAME(achievementID)]]></content>
-	<tabTrigger>_ACHIEVEMENT_PLAYER_NAME</tabTrigger>
-	<description>(achievementID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

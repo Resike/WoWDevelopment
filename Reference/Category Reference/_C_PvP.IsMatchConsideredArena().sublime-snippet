@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:asArena} = C_PvP.IsMatchConsideredArena()$0]]></content>
-	<tabTrigger>_C_PvP.IsMatchConsideredArena</tabTrigger>
-	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

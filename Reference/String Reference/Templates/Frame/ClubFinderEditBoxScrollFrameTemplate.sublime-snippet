@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ClubFinderEditBoxScrollFrameTemplate]]></content>
-	<tabTrigger>ClubFinderEditBoxScrollFrameTemplate</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.frame</scope>
-</snippet>

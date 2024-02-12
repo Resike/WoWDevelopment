@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CVAR_UPDATE(eventName, value)]]></content>
-	<tabTrigger>_CVAR_UPDATE</tabTrigger>
-	<description>(eventName, value)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

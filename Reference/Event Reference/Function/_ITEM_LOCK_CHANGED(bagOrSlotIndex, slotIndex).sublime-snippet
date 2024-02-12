@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ITEM_LOCK_CHANGED(bagOrSlotIndex, slotIndex)]]></content>
-	<tabTrigger>_ITEM_LOCK_CHANGED</tabTrigger>
-	<description>(bagOrSlotIndex, slotIndex)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

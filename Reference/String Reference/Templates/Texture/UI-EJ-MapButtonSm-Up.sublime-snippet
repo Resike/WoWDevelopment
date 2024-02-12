@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UI-EJ-MapButtonSm-Up]]></content>
-	<tabTrigger>UI-EJ-MapButtonSm-Up</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

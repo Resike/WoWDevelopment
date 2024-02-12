@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PARTY_MEMBER_ENABLE(unit)]]></content>
-	<tabTrigger>_PARTY_MEMBER_ENABLE</tabTrigger>
-	<description>(unit)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

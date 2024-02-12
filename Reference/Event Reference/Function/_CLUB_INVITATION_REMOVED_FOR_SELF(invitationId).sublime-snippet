@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CLUB_INVITATION_REMOVED_FOR_SELF(invitationId)]]></content>
-	<tabTrigger>_CLUB_INVITATION_REMOVED_FOR_SELF</tabTrigger>
-	<description>(invitationId)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

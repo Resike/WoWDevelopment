@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DEBUG_PORT_LOCS_UPDATED(...)]]></content>
-	<tabTrigger>_DEBUG_PORT_LOCS_UPDATED</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

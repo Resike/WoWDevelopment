@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SPELL_FLYOUT_UPDATE(flyoutID, spellID, isLearned)]]></content>
-	<tabTrigger>_SPELL_FLYOUT_UPDATE</tabTrigger>
-	<description>(flyoutID, spellID, isLearned)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

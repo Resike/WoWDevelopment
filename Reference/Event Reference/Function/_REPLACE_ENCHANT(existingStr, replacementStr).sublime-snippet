@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[REPLACE_ENCHANT(existingStr, replacementStr)]]></content>
-	<tabTrigger>_REPLACE_ENCHANT</tabTrigger>
-	<description>(existingStr, replacementStr)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

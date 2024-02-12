@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VoiceOutputDevice]]></content>
-	<tabTrigger>VoiceOutputDevice</tabTrigger>
-	<description>"CVar"</description>
-	<scope>source.lua string.cvartype</scope>
-</snippet>

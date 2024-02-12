@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFG_LIST_APPLICANT_UPDATED(applicantID)]]></content>
-	<tabTrigger>_LFG_LIST_APPLICANT_UPDATED</tabTrigger>
-	<description>(applicantID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

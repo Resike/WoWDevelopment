@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PetStable-StableSlot]]></content>
-	<tabTrigger>PetStable-StableSlot</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

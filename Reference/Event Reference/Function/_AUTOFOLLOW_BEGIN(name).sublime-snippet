@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AUTOFOLLOW_BEGIN(name)]]></content>
-	<tabTrigger>_AUTOFOLLOW_BEGIN</tabTrigger>
-	<description>(name)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QUEST_LOG_CRITERIA_UPDATE(questID, specificTreeID, description, numFulfilled, numRequired)]]></content>
-	<tabTrigger>_QUEST_LOG_CRITERIA_UPDATE</tabTrigger>
-	<description>(questID, specificTreeID, description, numFulfilled, numRequired)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

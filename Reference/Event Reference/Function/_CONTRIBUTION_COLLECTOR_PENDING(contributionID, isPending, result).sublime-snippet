@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CONTRIBUTION_COLLECTOR_PENDING(contributionID, isPending, result)]]></content>
-	<tabTrigger>_CONTRIBUTION_COLLECTOR_PENDING</tabTrigger>
-	<description>(contributionID, isPending, result)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

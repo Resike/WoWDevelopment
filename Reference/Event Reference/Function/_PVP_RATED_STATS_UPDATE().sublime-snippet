@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PVP_RATED_STATS_UPDATE()]]></content>
-	<tabTrigger>_PVP_RATED_STATS_UPDATE</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

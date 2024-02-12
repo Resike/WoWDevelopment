@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ClubFinderApplicantListFrameTemplate]]></content>
-	<tabTrigger>ClubFinderApplicantListFrameTemplate</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.frame</scope>
-</snippet>

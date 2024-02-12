@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Frame-Bottom]]></content>
-	<tabTrigger>Frame-Bottom</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ARENA_COOLDOWNS_UPDATE(unit)]]></content>
-	<tabTrigger>_ARENA_COOLDOWNS_UPDATE</tabTrigger>
-	<description>(unit)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

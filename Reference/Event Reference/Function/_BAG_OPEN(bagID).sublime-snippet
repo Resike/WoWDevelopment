@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BAG_OPEN(bagID)]]></content>
-	<tabTrigger>_BAG_OPEN</tabTrigger>
-	<description>(bagID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

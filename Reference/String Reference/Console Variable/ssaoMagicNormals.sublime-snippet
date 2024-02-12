@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ssaoMagicNormals]]></content>
-	<tabTrigger>ssaoMagicNormals</tabTrigger>
-	<description>"CVar"</description>
-	<scope>source.lua string.cvartype</scope>
-</snippet>

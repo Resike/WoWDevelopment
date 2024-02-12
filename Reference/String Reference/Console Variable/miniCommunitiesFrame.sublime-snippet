@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[miniCommunitiesFrame]]></content>
-	<tabTrigger>miniCommunitiesFrame</tabTrigger>
-	<description>"CVar"</description>
-	<scope>source.lua string.cvartype</scope>
-</snippet>

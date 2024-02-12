@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SAVED_VARIABLES_TOO_LARGE(addOnName)]]></content>
-	<tabTrigger>_SAVED_VARIABLES_TOO_LARGE</tabTrigger>
-	<description>(addOnName)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

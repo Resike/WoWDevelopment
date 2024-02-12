@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BARBER_SHOP_CLOSE()]]></content>
-	<tabTrigger>_BARBER_SHOP_CLOSE</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

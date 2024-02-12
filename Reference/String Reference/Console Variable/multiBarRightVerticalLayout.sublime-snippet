@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[multiBarRightVerticalLayout]]></content>
-	<tabTrigger>multiBarRightVerticalLayout</tabTrigger>
-	<description>"CVar"</description>
-	<scope>source.lua string.cvartype</scope>
-</snippet>

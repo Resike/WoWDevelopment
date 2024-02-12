@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Pathing]]></content>
-	<tabTrigger>Pathing</tabTrigger>
-	<description>"CVar"</description>
-	<scope>source.lua string.cvartype</scope>
-</snippet>

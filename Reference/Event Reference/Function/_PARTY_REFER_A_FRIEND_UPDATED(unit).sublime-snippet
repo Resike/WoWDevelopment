@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PARTY_REFER_A_FRIEND_UPDATED(unit)]]></content>
-	<tabTrigger>_PARTY_REFER_A_FRIEND_UPDATED</tabTrigger>
-	<description>(unit)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

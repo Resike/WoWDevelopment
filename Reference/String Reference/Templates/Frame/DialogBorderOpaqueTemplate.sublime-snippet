@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DialogBorderOpaqueTemplate]]></content>
-	<tabTrigger>DialogBorderOpaqueTemplate</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.frame</scope>
-</snippet>

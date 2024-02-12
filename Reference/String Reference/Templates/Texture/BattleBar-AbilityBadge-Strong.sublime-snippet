@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BattleBar-AbilityBadge-Strong]]></content>
-	<tabTrigger>BattleBar-AbilityBadge-Strong</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ARTIFACT_UPDATE(newItem)]]></content>
-	<tabTrigger>_ARTIFACT_UPDATE</tabTrigger>
-	<description>(newItem)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

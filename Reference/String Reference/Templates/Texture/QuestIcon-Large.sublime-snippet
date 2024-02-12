@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QuestIcon-Large]]></content>
-	<tabTrigger>QuestIcon-Large</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

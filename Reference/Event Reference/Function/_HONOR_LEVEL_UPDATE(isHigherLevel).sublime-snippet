@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HONOR_LEVEL_UPDATE(isHigherLevel)]]></content>
-	<tabTrigger>_HONOR_LEVEL_UPDATE</tabTrigger>
-	<description>(isHigherLevel)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

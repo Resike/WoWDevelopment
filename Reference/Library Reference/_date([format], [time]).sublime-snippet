@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:dateValue} = date(${2:["format"]}, ${3:[time]})$0]]></content>
 	<tabTrigger>_date</tabTrigger>
 	<description>(["format"], [time])</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

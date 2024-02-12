@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TRANSMOG_SOURCE_COLLECTABILITY_UPDATE(itemModifiedAppearanceID, collectable)]]></content>
-	<tabTrigger>_TRANSMOG_SOURCE_COLLECTABILITY_UPDATE</tabTrigger>
-	<description>(itemModifiedAppearanceID, collectable)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

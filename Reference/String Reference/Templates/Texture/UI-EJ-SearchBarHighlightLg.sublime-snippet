@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UI-EJ-SearchBarHighlightLg]]></content>
-	<tabTrigger>UI-EJ-SearchBarHighlightLg</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

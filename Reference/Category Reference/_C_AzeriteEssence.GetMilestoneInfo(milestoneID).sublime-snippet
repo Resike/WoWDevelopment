@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:info} = C_AzeriteEssence.GetMilestoneInfo(${2:milestoneID})$0]]></content>
-	<tabTrigger>_C_AzeriteEssence.GetMilestoneInfo</tabTrigger>
-	<description>(milestoneID)</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

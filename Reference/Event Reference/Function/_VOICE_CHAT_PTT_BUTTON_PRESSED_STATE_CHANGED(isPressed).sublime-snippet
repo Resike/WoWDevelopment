@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VOICE_CHAT_PTT_BUTTON_PRESSED_STATE_CHANGED(isPressed)]]></content>
-	<tabTrigger>_VOICE_CHAT_PTT_BUTTON_PRESSED_STATE_CHANGED</tabTrigger>
-	<description>(isPressed)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

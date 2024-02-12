@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[COMMENTATOR_PLAYER_NAME_OVERRIDE_UPDATE(nameToOverride, overrideName)]]></content>
-	<tabTrigger>_COMMENTATOR_PLAYER_NAME_OVERRIDE_UPDATE</tabTrigger>
-	<description>(nameToOverride, overrideName)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

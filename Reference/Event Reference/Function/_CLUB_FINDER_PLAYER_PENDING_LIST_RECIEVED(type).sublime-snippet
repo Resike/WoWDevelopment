@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CLUB_FINDER_PLAYER_PENDING_LIST_RECIEVED(type)]]></content>
-	<tabTrigger>_CLUB_FINDER_PLAYER_PENDING_LIST_RECIEVED</tabTrigger>
-	<description>(type)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILD_REGISTRAR_SHOW()]]></content>
-	<tabTrigger>_GUILD_REGISTRAR_SHOW</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[assaoAdaptiveQualityLimit]]></content>
-	<tabTrigger>assaoAdaptiveQualityLimit</tabTrigger>
-	<description>"CVar"</description>
-	<scope>source.lua string.cvartype</scope>
-</snippet>

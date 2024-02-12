@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AJ_PVP_SKIRMISH_ACTION()]]></content>
-	<tabTrigger>_AJ_PVP_SKIRMISH_ACTION</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

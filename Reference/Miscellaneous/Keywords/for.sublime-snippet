@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[for]]></content>
+	<tabTrigger>for</tabTrigger>
+	<scope>source.lua - entity - punctuation - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+	<description>for</description>
+</snippet>

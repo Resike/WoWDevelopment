@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LEVEL_GRANT_PROPOSED(senderName)]]></content>
-	<tabTrigger>_LEVEL_GRANT_PROPOSED</tabTrigger>
-	<description>(senderName)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

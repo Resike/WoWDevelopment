@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DEBUG_MAP_OBJECTS_UPDATED(...)]]></content>
-	<tabTrigger>_DEBUG_MAP_OBJECTS_UPDATED</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

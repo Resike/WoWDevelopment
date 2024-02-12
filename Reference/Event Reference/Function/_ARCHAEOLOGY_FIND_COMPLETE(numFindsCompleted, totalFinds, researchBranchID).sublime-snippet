@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ARCHAEOLOGY_FIND_COMPLETE(numFindsCompleted, totalFinds, researchBranchID)]]></content>
-	<tabTrigger>_ARCHAEOLOGY_FIND_COMPLETE</tabTrigger>
-	<description>(numFindsCompleted, totalFinds, researchBranchID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

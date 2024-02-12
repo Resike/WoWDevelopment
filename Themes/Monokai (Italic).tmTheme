@@ -26,17 +26,13 @@
 				<string>#000000</string>
 				<key>selectionBorder</key>
 				<string>#222218</string>
-				<key>guide</key>
-				<string>#92003b</string>
 				<key>activeGuide</key>
-				<string>#7fb11b</string>
-				<key>stackGuide</key>
-				<string>#635f2d</string>
+				<string>#9D550FB0</string>
 
 				<key>bracketsForeground</key>
 				<string>#F8F8F2A5</string>
 				<key>bracketsOptions</key>
-				<string>glow underline</string>
+				<string>underline</string>
 
 				<key>bracketContentsForeground</key>
 				<string>#F8F8F2A5</string>
@@ -253,32 +249,6 @@
 				<string></string>
 				<key>foreground</key>
 				<string>#66D9EF</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Live API</string>
-			<key>scope</key>
-			<string>support.function.global-api-live</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#336C77</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Classic API</string>
-			<key>scope</key>
-			<string>support.function.global-api-classic</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string></string>
-				<key>foreground</key>
-				<string>#D1F3FA</string>
 			</dict>
 		</dict>
 		<dict>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LOOT_OPENED(autoLoot)]]></content>
-	<tabTrigger>_LOOT_OPENED</tabTrigger>
-	<description>(autoLoot)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

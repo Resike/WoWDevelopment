@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CustomWindowEventLog]]></content>
-	<tabTrigger>CustomWindowEventLog</tabTrigger>
-	<description>"CVar"</description>
-	<scope>source.lua string.cvartype</scope>
-</snippet>

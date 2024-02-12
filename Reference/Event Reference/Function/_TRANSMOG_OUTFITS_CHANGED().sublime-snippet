@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TRANSMOG_OUTFITS_CHANGED()]]></content>
-	<tabTrigger>_TRANSMOG_OUTFITS_CHANGED</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

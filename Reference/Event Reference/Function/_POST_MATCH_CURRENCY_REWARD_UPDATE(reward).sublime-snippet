@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[POST_MATCH_CURRENCY_REWARD_UPDATE(reward)]]></content>
-	<tabTrigger>_POST_MATCH_CURRENCY_REWARD_UPDATE</tabTrigger>
-	<description>(reward)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

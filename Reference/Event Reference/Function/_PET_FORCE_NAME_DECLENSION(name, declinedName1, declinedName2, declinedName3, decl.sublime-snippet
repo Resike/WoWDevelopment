@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PET_FORCE_NAME_DECLENSION(name, declinedName1, declinedName2, declinedName3, declinedName4, declinedName5)]]></content>
-	<tabTrigger>_PET_FORCE_NAME_DECLENSION</tabTrigger>
-	<description>(name, declinedName1, declinedName2, declinedName3, declinedName4, declinedName5)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

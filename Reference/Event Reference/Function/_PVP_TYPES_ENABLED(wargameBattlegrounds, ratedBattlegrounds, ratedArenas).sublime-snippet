@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PVP_TYPES_ENABLED(wargameBattlegrounds, ratedBattlegrounds, ratedArenas)]]></content>
-	<tabTrigger>_PVP_TYPES_ENABLED</tabTrigger>
-	<description>(wargameBattlegrounds, ratedBattlegrounds, ratedArenas)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

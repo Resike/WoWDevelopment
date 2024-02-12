@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[STORE_VAS_PURCHASE_COMPLETE(...)]]></content>
-	<tabTrigger>_STORE_VAS_PURCHASE_COMPLETE</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

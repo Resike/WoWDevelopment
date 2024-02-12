@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Talent-PrimaryHighlight-TopRight]]></content>
-	<tabTrigger>Talent-PrimaryHighlight-TopRight</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

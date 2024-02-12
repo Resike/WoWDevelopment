@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WEAR_EQUIPMENT_SET(setID)]]></content>
-	<tabTrigger>_WEAR_EQUIPMENT_SET</tabTrigger>
-	<description>(setID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

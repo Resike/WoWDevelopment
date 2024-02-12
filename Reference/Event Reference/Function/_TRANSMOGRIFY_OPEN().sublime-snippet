@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TRANSMOGRIFY_OPEN()]]></content>
-	<tabTrigger>_TRANSMOGRIFY_OPEN</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

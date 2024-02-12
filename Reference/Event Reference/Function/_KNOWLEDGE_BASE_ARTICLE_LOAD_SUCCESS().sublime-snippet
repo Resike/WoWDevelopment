@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[KNOWLEDGE_BASE_ARTICLE_LOAD_SUCCESS()]]></content>
-	<tabTrigger>_KNOWLEDGE_BASE_ARTICLE_LOAD_SUCCESS</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

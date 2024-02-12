@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TrackerButton-AutoComplete-Down]]></content>
-	<tabTrigger>TrackerButton-AutoComplete-Down</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

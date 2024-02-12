@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EXECUTE_CHAT_LINE(chatLine)]]></content>
-	<tabTrigger>_EXECUTE_CHAT_LINE</tabTrigger>
-	<description>(chatLine)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

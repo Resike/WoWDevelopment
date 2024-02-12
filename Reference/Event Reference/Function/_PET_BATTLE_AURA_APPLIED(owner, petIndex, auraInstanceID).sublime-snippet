@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PET_BATTLE_AURA_APPLIED(owner, petIndex, auraInstanceID)]]></content>
-	<tabTrigger>_PET_BATTLE_AURA_APPLIED</tabTrigger>
-	<description>(owner, petIndex, auraInstanceID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

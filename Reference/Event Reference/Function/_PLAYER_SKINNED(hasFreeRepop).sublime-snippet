@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PLAYER_SKINNED(hasFreeRepop)]]></content>
-	<tabTrigger>_PLAYER_SKINNED</tabTrigger>
-	<description>(hasFreeRepop)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

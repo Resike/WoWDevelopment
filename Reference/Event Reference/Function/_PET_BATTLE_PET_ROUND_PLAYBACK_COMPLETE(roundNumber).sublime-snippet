@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PET_BATTLE_PET_ROUND_PLAYBACK_COMPLETE(roundNumber)]]></content>
-	<tabTrigger>_PET_BATTLE_PET_ROUND_PLAYBACK_COMPLETE</tabTrigger>
-	<description>(roundNumber)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

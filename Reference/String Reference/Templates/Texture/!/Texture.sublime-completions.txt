@@ -2,20 +2,12 @@
 	"scope": "source.lua string.template.texture",
 	"completions": [
 		{
-			"trigger": "ActionBarFlyoutButton-ArrowUp\t\"template\"",
-			"contents": "ActionBarFlyoutButton-ArrowUp",
+			"trigger": "_SearchBarLg\t\"template\"",
+			"contents": "_SearchBarLg",
 		},
 		{
-			"trigger": "ActionBarFlyoutButton-FlyoutTop\t\"template\"",
-			"contents": "ActionBarFlyoutButton-FlyoutTop",
-		},
-		{
-			"trigger": "ActionBarFlyoutButton-IconFrame\t\"template\"",
-			"contents": "ActionBarFlyoutButton-IconFrame",
-		},
-		{
-			"trigger": "ActionBarFlyoutButton-IconShadow\t\"template\"",
-			"contents": "ActionBarFlyoutButton-IconShadow",
+			"trigger": "_SearchBarSm\t\"template\"",
+			"contents": "_SearchBarSm",
 		},
 		{
 			"trigger": "AdventureMapDetailTileTemplate\t\"template\"",
@@ -26,32 +18,8 @@
 			"contents": "AllianceLogo",
 		},
 		{
-			"trigger": "Arrow-Left\t\"template\"",
-			"contents": "Arrow-Left",
-		},
-		{
-			"trigger": "Arrow-Right\t\"template\"",
-			"contents": "Arrow-Right",
-		},
-		{
-			"trigger": "AutoQuest-QuestLogIcon\t\"template\"",
-			"contents": "AutoQuest-QuestLogIcon",
-		},
-		{
-			"trigger": "AutoQuestToastBorder-BotLeft\t\"template\"",
-			"contents": "AutoQuestToastBorder-BotLeft",
-		},
-		{
-			"trigger": "AutoQuestToastBorder-BotRight\t\"template\"",
-			"contents": "AutoQuestToastBorder-BotRight",
-		},
-		{
-			"trigger": "AutoQuestToastBorder-TopLeft\t\"template\"",
-			"contents": "AutoQuestToastBorder-TopLeft",
-		},
-		{
-			"trigger": "AutoQuestToastBorder-TopRight\t\"template\"",
-			"contents": "AutoQuestToastBorder-TopRight",
+			"trigger": "ArtifactToAzeriteTexture\t\"template\"",
+			"contents": "ArtifactToAzeriteTexture",
 		},
 		{
 			"trigger": "AzeriteGearBackgroundTexture\t\"template\"",
@@ -90,176 +58,12 @@
 			"contents": "AzeriteUITexture",
 		},
 		{
-			"trigger": "BackupPet-DeadFrame\t\"template\"",
-			"contents": "BackupPet-DeadFrame",
-		},
-		{
-			"trigger": "BackupPet-Frame\t\"template\"",
-			"contents": "BackupPet-Frame",
-		},
-		{
-			"trigger": "Bank-Rivet\t\"template\"",
-			"contents": "Bank-Rivet",
-		},
-		{
-			"trigger": "Bank-Slot-BG\t\"template\"",
-			"contents": "Bank-Slot-BG",
-		},
-		{
 			"trigger": "Banners\t\"template\"",
 			"contents": "Banners",
 		},
 		{
-			"trigger": "BattleBar-AbilityBadge-Strong\t\"template\"",
-			"contents": "BattleBar-AbilityBadge-Strong",
-		},
-		{
-			"trigger": "BattleBar-AbilityBadge-Weak\t\"template\"",
-			"contents": "BattleBar-AbilityBadge-Weak",
-		},
-		{
-			"trigger": "BattleBar-Button-Highlight\t\"template\"",
-			"contents": "BattleBar-Button-Highlight",
-		},
-		{
-			"trigger": "BattleBar-ButtonBG-Divider\t\"template\"",
-			"contents": "BattleBar-ButtonBG-Divider",
-		},
-		{
-			"trigger": "BattleBar-ButtonBG-EndCap\t\"template\"",
-			"contents": "BattleBar-ButtonBG-EndCap",
-		},
-		{
-			"trigger": "BattleBar-Countdown-Shadow\t\"template\"",
-			"contents": "BattleBar-Countdown-Shadow",
-		},
-		{
-			"trigger": "BattleBar-EndCap\t\"template\"",
-			"contents": "BattleBar-EndCap",
-		},
-		{
-			"trigger": "BattleBar-SwapPetFrame\t\"template\"",
-			"contents": "BattleBar-SwapPetFrame",
-		},
-		{
-			"trigger": "BattleBar-SwapPetFrame-DeadIcon\t\"template\"",
-			"contents": "BattleBar-SwapPetFrame-DeadIcon",
-		},
-		{
-			"trigger": "BattleBar-SwapPetFrame-Highlight\t\"template\"",
-			"contents": "BattleBar-SwapPetFrame-Highlight",
-		},
-		{
-			"trigger": "BattleBar-SwapPetIcon\t\"template\"",
-			"contents": "BattleBar-SwapPetIcon",
-		},
-		{
-			"trigger": "BattleBar-SwapPetShadow\t\"template\"",
-			"contents": "BattleBar-SwapPetShadow",
-		},
-		{
-			"trigger": "BattleHUD-Top\t\"template\"",
-			"contents": "BattleHUD-Top",
-		},
-		{
-			"trigger": "BattleHUD-Versus\t\"template\"",
-			"contents": "BattleHUD-Versus",
-		},
-		{
-			"trigger": "Buff-BG\t\"template\"",
-			"contents": "Buff-BG",
-		},
-		{
-			"trigger": "Buff-Divider\t\"template\"",
-			"contents": "Buff-Divider",
-		},
-		{
-			"trigger": "ButtonFrame-Left\t\"template\"",
-			"contents": "ButtonFrame-Left",
-		},
-		{
-			"trigger": "ButtonFrame-Right\t\"template\"",
-			"contents": "ButtonFrame-Right",
-		},
-		{
-			"trigger": "ButtonText-Bg\t\"template\"",
-			"contents": "ButtonText-Bg",
-		},
-		{
 			"trigger": "CapProgressBarDividerTemplate\t\"template\"",
 			"contents": "CapProgressBarDividerTemplate",
-		},
-		{
-			"trigger": "Char-BottomSlot\t\"template\"",
-			"contents": "Char-BottomSlot",
-		},
-		{
-			"trigger": "Char-Corner-LowerLeft\t\"template\"",
-			"contents": "Char-Corner-LowerLeft",
-		},
-		{
-			"trigger": "Char-Corner-LowerRight\t\"template\"",
-			"contents": "Char-Corner-LowerRight",
-		},
-		{
-			"trigger": "Char-Corner-UpperLeft\t\"template\"",
-			"contents": "Char-Corner-UpperLeft",
-		},
-		{
-			"trigger": "Char-Corner-UpperRight\t\"template\"",
-			"contents": "Char-Corner-UpperRight",
-		},
-		{
-			"trigger": "Char-Inner-Bottom\t\"template\"",
-			"contents": "Char-Inner-Bottom",
-		},
-		{
-			"trigger": "Char-Inner-Left\t\"template\"",
-			"contents": "Char-Inner-Left",
-		},
-		{
-			"trigger": "Char-Inner-Right\t\"template\"",
-			"contents": "Char-Inner-Right",
-		},
-		{
-			"trigger": "Char-Inner-Top\t\"template\"",
-			"contents": "Char-Inner-Top",
-		},
-		{
-			"trigger": "Char-LeftSlot\t\"template\"",
-			"contents": "Char-LeftSlot",
-		},
-		{
-			"trigger": "Char-RightSlot\t\"template\"",
-			"contents": "Char-RightSlot",
-		},
-		{
-			"trigger": "Char-Slot-Bottom-Left\t\"template\"",
-			"contents": "Char-Slot-Bottom-Left",
-		},
-		{
-			"trigger": "Char-Slot-Bottom-Right\t\"template\"",
-			"contents": "Char-Slot-Bottom-Right",
-		},
-		{
-			"trigger": "Char-Stat-Bottom\t\"template\"",
-			"contents": "Char-Stat-Bottom",
-		},
-		{
-			"trigger": "Char-Stat-Minimized\t\"template\"",
-			"contents": "Char-Stat-Minimized",
-		},
-		{
-			"trigger": "Char-Stat-Minus\t\"template\"",
-			"contents": "Char-Stat-Minus",
-		},
-		{
-			"trigger": "Char-Stat-Plus\t\"template\"",
-			"contents": "Char-Stat-Plus",
-		},
-		{
-			"trigger": "Char-Stat-Top\t\"template\"",
-			"contents": "Char-Stat-Top",
 		},
 		{
 			"trigger": "ChatTabConversationIconTemplate\t\"template\"",
@@ -268,26 +72,6 @@
 		{
 			"trigger": "ColorblindExampleIconTemplate\t\"template\"",
 			"contents": "ColorblindExampleIconTemplate",
-		},
-		{
-			"trigger": "CombatLog-BG\t\"template\"",
-			"contents": "CombatLog-BG",
-		},
-		{
-			"trigger": "CustomizeButton-Down\t\"template\"",
-			"contents": "CustomizeButton-Down",
-		},
-		{
-			"trigger": "CustomizeButton-Highlight\t\"template\"",
-			"contents": "CustomizeButton-Highlight",
-		},
-		{
-			"trigger": "CustomizeButton-Selection\t\"template\"",
-			"contents": "CustomizeButton-Selection",
-		},
-		{
-			"trigger": "CustomizeButton-Up\t\"template\"",
-			"contents": "CustomizeButton-Up",
 		},
 		{
 			"trigger": "DarkRect\t\"template\"",
@@ -300,38 +84,6 @@
 		{
 			"trigger": "DebugTextureBlack\t\"template\"",
 			"contents": "DebugTextureBlack",
-		},
-		{
-			"trigger": "Dialog-BorderBottom\t\"template\"",
-			"contents": "Dialog-BorderBottom",
-		},
-		{
-			"trigger": "Dialog-BorderBottomLeft\t\"template\"",
-			"contents": "Dialog-BorderBottomLeft",
-		},
-		{
-			"trigger": "Dialog-BorderBottomRight\t\"template\"",
-			"contents": "Dialog-BorderBottomRight",
-		},
-		{
-			"trigger": "Dialog-BorderLeft\t\"template\"",
-			"contents": "Dialog-BorderLeft",
-		},
-		{
-			"trigger": "Dialog-BorderRight\t\"template\"",
-			"contents": "Dialog-BorderRight",
-		},
-		{
-			"trigger": "Dialog-BorderTop\t\"template\"",
-			"contents": "Dialog-BorderTop",
-		},
-		{
-			"trigger": "Dialog-BorderTopLeft\t\"template\"",
-			"contents": "Dialog-BorderTopLeft",
-		},
-		{
-			"trigger": "Dialog-BorderTopRight\t\"template\"",
-			"contents": "Dialog-BorderTopRight",
 		},
 		{
 			"trigger": "DialogButtonDisabledTexture\t\"template\"",
@@ -358,18 +110,6 @@
 			"contents": "EquipmentFlyoutTexture",
 		},
 		{
-			"trigger": "ExpBar-Divider\t\"template\"",
-			"contents": "ExpBar-Divider",
-		},
-		{
-			"trigger": "Frame-Bottom\t\"template\"",
-			"contents": "Frame-Bottom",
-		},
-		{
-			"trigger": "Frame-Top\t\"template\"",
-			"contents": "Frame-Top",
-		},
-		{
 			"trigger": "GarrisonMissionFollowerButtonDurabilityTemplate\t\"template\"",
 			"contents": "GarrisonMissionFollowerButtonDurabilityTemplate",
 		},
@@ -380,30 +120,6 @@
 		{
 			"trigger": "GarrisonTalentChoiceTemplate\t\"template\"",
 			"contents": "GarrisonTalentChoiceTemplate",
-		},
-		{
-			"trigger": "Gender-Female-Down\t\"template\"",
-			"contents": "Gender-Female-Down",
-		},
-		{
-			"trigger": "Gender-Female-Up\t\"template\"",
-			"contents": "Gender-Female-Up",
-		},
-		{
-			"trigger": "Gender-Highlight\t\"template\"",
-			"contents": "Gender-Highlight",
-		},
-		{
-			"trigger": "Gender-Male-Down\t\"template\"",
-			"contents": "Gender-Male-Down",
-		},
-		{
-			"trigger": "Gender-Male-Up\t\"template\"",
-			"contents": "Gender-Male-Up",
-		},
-		{
-			"trigger": "Gender-Selection\t\"template\"",
-			"contents": "Gender-Selection",
 		},
 		{
 			"trigger": "GluePanelButtonDisabledDownTexture\t\"template\"",
@@ -450,22 +166,6 @@
 			"contents": "GreenCheckMarkTemplate",
 		},
 		{
-			"trigger": "GuildInspect-Banner\t\"template\"",
-			"contents": "GuildInspect-Banner",
-		},
-		{
-			"trigger": "GuildInspect-BannerBorder\t\"template\"",
-			"contents": "GuildInspect-BannerBorder",
-		},
-		{
-			"trigger": "GuildInspect-BG\t\"template\"",
-			"contents": "GuildInspect-BG",
-		},
-		{
-			"trigger": "GuildInspect-ClassBreakdownLine\t\"template\"",
-			"contents": "GuildInspect-ClassBreakdownLine",
-		},
-		{
 			"trigger": "HealAbsorbBarLeftShadowTemplate\t\"template\"",
 			"contents": "HealAbsorbBarLeftShadowTemplate",
 		},
@@ -478,60 +178,12 @@
 			"contents": "HealAbsorbBarTemplate",
 		},
 		{
-			"trigger": "HelpPlateArrow-GlowDOWN\t\"template\"",
-			"contents": "HelpPlateArrow-GlowDOWN",
-		},
-		{
-			"trigger": "HelpPlateArrow-GlowUP\t\"template\"",
-			"contents": "HelpPlateArrow-GlowUP",
-		},
-		{
-			"trigger": "HelpPlateArrow-Shadow\t\"template\"",
-			"contents": "HelpPlateArrow-Shadow",
-		},
-		{
 			"trigger": "HelpPlateArrowDOWN\t\"template\"",
 			"contents": "HelpPlateArrowDOWN",
 		},
 		{
 			"trigger": "HelpPlateArrowUP\t\"template\"",
 			"contents": "HelpPlateArrowUP",
-		},
-		{
-			"trigger": "HelpPlateBox-Glow-BottomLeft\t\"template\"",
-			"contents": "HelpPlateBox-Glow-BottomLeft",
-		},
-		{
-			"trigger": "HelpPlateBox-Glow-BottomRight\t\"template\"",
-			"contents": "HelpPlateBox-Glow-BottomRight",
-		},
-		{
-			"trigger": "HelpPlateBox-Glow-TopLeft\t\"template\"",
-			"contents": "HelpPlateBox-Glow-TopLeft",
-		},
-		{
-			"trigger": "HelpPlateBox-Glow-TopRight\t\"template\"",
-			"contents": "HelpPlateBox-Glow-TopRight",
-		},
-		{
-			"trigger": "HelpPlateBox-Shadow-BottomLeft\t\"template\"",
-			"contents": "HelpPlateBox-Shadow-BottomLeft",
-		},
-		{
-			"trigger": "HelpPlateBox-Shadow-BottomRight\t\"template\"",
-			"contents": "HelpPlateBox-Shadow-BottomRight",
-		},
-		{
-			"trigger": "HelpPlateBox-Shadow-TopLeft\t\"template\"",
-			"contents": "HelpPlateBox-Shadow-TopLeft",
-		},
-		{
-			"trigger": "HelpPlateBox-Shadow-TopRight\t\"template\"",
-			"contents": "HelpPlateBox-Shadow-TopRight",
-		},
-		{
-			"trigger": "Highlight-Square\t\"template\"",
-			"contents": "Highlight-Square",
 		},
 		{
 			"trigger": "HordeLogo\t\"template\"",
@@ -550,32 +202,8 @@
 			"contents": "InspectGuildFrameBannerBorder",
 		},
 		{
-			"trigger": "MainPet-Frame\t\"template\"",
-			"contents": "MainPet-Frame",
-		},
-		{
-			"trigger": "MainPet-HealthBarBG\t\"template\"",
-			"contents": "MainPet-HealthBarBG",
-		},
-		{
-			"trigger": "MainPet-HealthBarFill\t\"template\"",
-			"contents": "MainPet-HealthBarFill",
-		},
-		{
-			"trigger": "MainPet-HealthBarFrame\t\"template\"",
-			"contents": "MainPet-HealthBarFrame",
-		},
-		{
-			"trigger": "MainPet-LevelBubble\t\"template\"",
-			"contents": "MainPet-LevelBubble",
-		},
-		{
-			"trigger": "MainPet-PetFamilyActivate\t\"template\"",
-			"contents": "MainPet-PetFamilyActivate",
-		},
-		{
-			"trigger": "MainPet-PetFamilyFrame\t\"template\"",
-			"contents": "MainPet-PetFamilyFrame",
+			"trigger": "LootUpgradeFrame_ArrowTemplate\t\"template\"",
+			"contents": "LootUpgradeFrame_ArrowTemplate",
 		},
 		{
 			"trigger": "MapCanvasDebugTriggerAreaTemplate\t\"template\"",
@@ -622,86 +250,6 @@
 			"contents": "PetBattleUnitTooltipPetTypeStrengthTemplate",
 		},
 		{
-			"trigger": "PetStable-ActiveBG\t\"template\"",
-			"contents": "PetStable-ActiveBG",
-		},
-		{
-			"trigger": "PetStable-DietIcon\t\"template\"",
-			"contents": "PetStable-DietIcon",
-		},
-		{
-			"trigger": "PetStable-ModelBG\t\"template\"",
-			"contents": "PetStable-ModelBG",
-		},
-		{
-			"trigger": "PetStable-StableBG\t\"template\"",
-			"contents": "PetStable-StableBG",
-		},
-		{
-			"trigger": "PetStable-StableSlot\t\"template\"",
-			"contents": "PetStable-StableSlot",
-		},
-		{
-			"trigger": "PetStable-TabSel-Left\t\"template\"",
-			"contents": "PetStable-TabSel-Left",
-		},
-		{
-			"trigger": "PetStable-TabSel-Right\t\"template\"",
-			"contents": "PetStable-TabSel-Right",
-		},
-		{
-			"trigger": "PetStable-TabUnsel-Left\t\"template\"",
-			"contents": "PetStable-TabUnsel-Left",
-		},
-		{
-			"trigger": "PetStable-TabUnsel-Right\t\"template\"",
-			"contents": "PetStable-TabUnsel-Right",
-		},
-		{
-			"trigger": "PetTalent-PetIconBorder\t\"template\"",
-			"contents": "PetTalent-PetIconBorder",
-		},
-		{
-			"trigger": "PetTalent-SingleBorder\t\"template\"",
-			"contents": "PetTalent-SingleBorder",
-		},
-		{
-			"trigger": "PetTalent-SingleBorder-Glow\t\"template\"",
-			"contents": "PetTalent-SingleBorder-Glow",
-		},
-		{
-			"trigger": "PetTalent-SingleBorder-Shadow\t\"template\"",
-			"contents": "PetTalent-SingleBorder-Shadow",
-		},
-		{
-			"trigger": "PetTalent-TalentIconBorder\t\"template\"",
-			"contents": "PetTalent-TalentIconBorder",
-		},
-		{
-			"trigger": "PetTalent-TreeBorder\t\"template\"",
-			"contents": "PetTalent-TreeBorder",
-		},
-		{
-			"trigger": "PetTalent-TreeTitle-BG\t\"template\"",
-			"contents": "PetTalent-TreeTitle-BG",
-		},
-		{
-			"trigger": "Play-Down\t\"template\"",
-			"contents": "Play-Down",
-		},
-		{
-			"trigger": "Play-Highlight\t\"template\"",
-			"contents": "Play-Highlight",
-		},
-		{
-			"trigger": "Play-Up\t\"template\"",
-			"contents": "Play-Up",
-		},
-		{
-			"trigger": "PowerSwirlScaleTexture\t\"template\"",
-			"contents": "PowerSwirlScaleTexture",
-		},
-		{
 			"trigger": "QuestChoiceBottomHide\t\"template\"",
 			"contents": "QuestChoiceBottomHide",
 		},
@@ -718,208 +266,12 @@
 			"contents": "QuestChoiceTopHide",
 		},
 		{
-			"trigger": "QuestIcon-Exclamation\t\"template\"",
-			"contents": "QuestIcon-Exclamation",
-		},
-		{
-			"trigger": "QuestIcon-Large\t\"template\"",
-			"contents": "QuestIcon-Large",
-		},
-		{
-			"trigger": "QuestIcon-QuestionMark\t\"template\"",
-			"contents": "QuestIcon-QuestionMark",
-		},
-		{
-			"trigger": "QuestIcon-WhiteFlash\t\"template\"",
-			"contents": "QuestIcon-WhiteFlash",
-		},
-		{
-			"trigger": "QuestPortrait-Corner_BL\t\"template\"",
-			"contents": "QuestPortrait-Corner_BL",
-		},
-		{
-			"trigger": "QuestPortrait-Corner_BR\t\"template\"",
-			"contents": "QuestPortrait-Corner_BR",
-		},
-		{
-			"trigger": "QuestPortrait-Corner_UL\t\"template\"",
-			"contents": "QuestPortrait-Corner_UL",
-		},
-		{
-			"trigger": "QuestPortrait-Corner_UR\t\"template\"",
-			"contents": "QuestPortrait-Corner_UR",
-		},
-		{
-			"trigger": "QuestPortrait-Divider_noname\t\"template\"",
-			"contents": "QuestPortrait-Divider_noname",
-		},
-		{
-			"trigger": "QuestPortrait-MrBrownstone\t\"template\"",
-			"contents": "QuestPortrait-MrBrownstone",
-		},
-		{
-			"trigger": "QuestPortrait-Nameplate\t\"template\"",
-			"contents": "QuestPortrait-Nameplate",
-		},
-		{
-			"trigger": "QuestPortrait-StoneSwirls-Top\t\"template\"",
-			"contents": "QuestPortrait-StoneSwirls-Top",
-		},
-		{
-			"trigger": "Selection-Square\t\"template\"",
-			"contents": "Selection-Square",
-		},
-		{
 			"trigger": "SharedPetBattleStrengthPetTypeTemplate\t\"template\"",
 			"contents": "SharedPetBattleStrengthPetTypeTemplate",
 		},
 		{
 			"trigger": "SocialToastGlowTemplate\t\"template\"",
 			"contents": "SocialToastGlowTemplate",
-		},
-		{
-			"trigger": "Spellbook-CompanionIcon_BG\t\"template\"",
-			"contents": "Spellbook-CompanionIcon_BG",
-		},
-		{
-			"trigger": "Spellbook-EmptySlot\t\"template\"",
-			"contents": "Spellbook-EmptySlot",
-		},
-		{
-			"trigger": "Spellbook-MountIcon_BG\t\"template\"",
-			"contents": "Spellbook-MountIcon_BG",
-		},
-		{
-			"trigger": "Spellbook-MountModelFrame\t\"template\"",
-			"contents": "Spellbook-MountModelFrame",
-		},
-		{
-			"trigger": "Spellbook-RandomIconOverlay\t\"template\"",
-			"contents": "Spellbook-RandomIconOverlay",
-		},
-		{
-			"trigger": "Spellbook-SlotFrame\t\"template\"",
-			"contents": "Spellbook-SlotFrame",
-		},
-		{
-			"trigger": "Spellbook-TextBackground\t\"template\"",
-			"contents": "Spellbook-TextBackground",
-		},
-		{
-			"trigger": "Spellbook-TrainBook\t\"template\"",
-			"contents": "Spellbook-TrainBook",
-		},
-		{
-			"trigger": "Spellbook-TrainSlot\t\"template\"",
-			"contents": "Spellbook-TrainSlot",
-		},
-		{
-			"trigger": "Spellbook-TrainTextBackground\t\"template\"",
-			"contents": "Spellbook-TrainTextBackground",
-		},
-		{
-			"trigger": "Spellbook-UnlearnedSlot\t\"template\"",
-			"contents": "Spellbook-UnlearnedSlot",
-		},
-		{
-			"trigger": "Start-BackupPetRing\t\"template\"",
-			"contents": "Start-BackupPetRing",
-		},
-		{
-			"trigger": "Start-Battletag\t\"template\"",
-			"contents": "Start-Battletag",
-		},
-		{
-			"trigger": "Start-Battletag-ModelShadow\t\"template\"",
-			"contents": "Start-Battletag-ModelShadow",
-		},
-		{
-			"trigger": "Start-Battletag-Sheen\t\"template\"",
-			"contents": "Start-Battletag-Sheen",
-		},
-		{
-			"trigger": "Start-VersusSplash\t\"template\"",
-			"contents": "Start-VersusSplash",
-		},
-		{
-			"trigger": "Talent-GoldMedal-Border\t\"template\"",
-			"contents": "Talent-GoldMedal-Border",
-		},
-		{
-			"trigger": "Talent-GoldMedal-Glow\t\"template\"",
-			"contents": "Talent-GoldMedal-Glow",
-		},
-		{
-			"trigger": "Talent-Inner-BotLeft\t\"template\"",
-			"contents": "Talent-Inner-BotLeft",
-		},
-		{
-			"trigger": "Talent-Inner-BotRight\t\"template\"",
-			"contents": "Talent-Inner-BotRight",
-		},
-		{
-			"trigger": "Talent-Inner-TopLeft\t\"template\"",
-			"contents": "Talent-Inner-TopLeft",
-		},
-		{
-			"trigger": "Talent-Inner-TopRight\t\"template\"",
-			"contents": "Talent-Inner-TopRight",
-		},
-		{
-			"trigger": "Talent-PointBg\t\"template\"",
-			"contents": "Talent-PointBg",
-		},
-		{
-			"trigger": "Talent-PointBg-Green\t\"template\"",
-			"contents": "Talent-PointBg-Green",
-		},
-		{
-			"trigger": "Talent-PrimaryHighlight-BottomLeft\t\"template\"",
-			"contents": "Talent-PrimaryHighlight-BottomLeft",
-		},
-		{
-			"trigger": "Talent-PrimaryHighlight-BottomRight\t\"template\"",
-			"contents": "Talent-PrimaryHighlight-BottomRight",
-		},
-		{
-			"trigger": "Talent-PrimaryHighlight-TopLeft\t\"template\"",
-			"contents": "Talent-PrimaryHighlight-TopLeft",
-		},
-		{
-			"trigger": "Talent-PrimaryHighlight-TopRight\t\"template\"",
-			"contents": "Talent-PrimaryHighlight-TopRight",
-		},
-		{
-			"trigger": "Talent-Ring\t\"template\"",
-			"contents": "Talent-Ring",
-		},
-		{
-			"trigger": "Talent-RingGlow\t\"template\"",
-			"contents": "Talent-RingGlow",
-		},
-		{
-			"trigger": "Talent-SingleBorder\t\"template\"",
-			"contents": "Talent-SingleBorder",
-		},
-		{
-			"trigger": "Talent-SingleBorder-Glow\t\"template\"",
-			"contents": "Talent-SingleBorder-Glow",
-		},
-		{
-			"trigger": "Talent-SingleBorder-Shadow\t\"template\"",
-			"contents": "Talent-SingleBorder-Shadow",
-		},
-		{
-			"trigger": "Talent-TitleGlow-Left\t\"template\"",
-			"contents": "Talent-TitleGlow-Left",
-		},
-		{
-			"trigger": "Talent-TitleGlow-Right\t\"template\"",
-			"contents": "Talent-TitleGlow-Right",
-		},
-		{
-			"trigger": "Talent-TreeLockoutGradient\t\"template\"",
-			"contents": "Talent-TreeLockoutGradient",
 		},
 		{
 			"trigger": "TalentArrowTemplate\t\"template\"",
@@ -930,488 +282,12 @@
 			"contents": "TalentBranchTemplate",
 		},
 		{
-			"trigger": "TalentCover-Overlay-BottomLeft\t\"template\"",
-			"contents": "TalentCover-Overlay-BottomLeft",
-		},
-		{
-			"trigger": "TalentCover-Overlay-BottomRight\t\"template\"",
-			"contents": "TalentCover-Overlay-BottomRight",
-		},
-		{
-			"trigger": "TalentCover-Overlay-TopLeft\t\"template\"",
-			"contents": "TalentCover-Overlay-TopLeft",
-		},
-		{
-			"trigger": "TalentCover-Overlay-TopRight\t\"template\"",
-			"contents": "TalentCover-Overlay-TopRight",
-		},
-		{
-			"trigger": "TalentCover-SmallIconBorder\t\"template\"",
-			"contents": "TalentCover-SmallIconBorder",
-		},
-		{
-			"trigger": "TalentHeader-GoldBorder\t\"template\"",
-			"contents": "TalentHeader-GoldBorder",
-		},
-		{
-			"trigger": "TalentHeader-ParchmentBG\t\"template\"",
-			"contents": "TalentHeader-ParchmentBG",
-		},
-		{
-			"trigger": "TalentHeader-PointCircle-Gold\t\"template\"",
-			"contents": "TalentHeader-PointCircle-Gold",
-		},
-		{
-			"trigger": "TalentHeader-PointCircle-Silver\t\"template\"",
-			"contents": "TalentHeader-PointCircle-Silver",
-		},
-		{
-			"trigger": "TalentHeader-PrimaryIconBorder\t\"template\"",
-			"contents": "TalentHeader-PrimaryIconBorder",
-		},
-		{
-			"trigger": "TalentHeader-SecondaryIconBorder\t\"template\"",
-			"contents": "TalentHeader-SecondaryIconBorder",
-		},
-		{
-			"trigger": "TextGlowLG-Bg\t\"template\"",
-			"contents": "TextGlowLG-Bg",
-		},
-		{
-			"trigger": "TextGlowSM-Bg\t\"template\"",
-			"contents": "TextGlowSM-Bg",
-		},
-		{
-			"trigger": "Thin-BorderBottomLeft\t\"template\"",
-			"contents": "Thin-BorderBottomLeft",
-		},
-		{
-			"trigger": "Thin-BorderBottomRight\t\"template\"",
-			"contents": "Thin-BorderBottomRight",
-		},
-		{
-			"trigger": "Thin-BorderTopLeft\t\"template\"",
-			"contents": "Thin-BorderTopLeft",
-		},
-		{
-			"trigger": "Thin-BorderTopRight\t\"template\"",
-			"contents": "Thin-BorderTopRight",
-		},
-		{
-			"trigger": "Thumbnail-Frame\t\"template\"",
-			"contents": "Thumbnail-Frame",
-		},
-		{
-			"trigger": "Thumbnail-Highlight\t\"template\"",
-			"contents": "Thumbnail-Highlight",
-		},
-		{
-			"trigger": "Thumbnail-Selection\t\"template\"",
-			"contents": "Thumbnail-Selection",
-		},
-		{
-			"trigger": "Timer-BG\t\"template\"",
-			"contents": "Timer-BG",
-		},
-		{
-			"trigger": "Timer-Fill\t\"template\"",
-			"contents": "Timer-Fill",
-		},
-		{
-			"trigger": "Timer-Frame\t\"template\"",
-			"contents": "Timer-Frame",
-		},
-		{
 			"trigger": "TotalAbsorbBarOverlayTemplate\t\"template\"",
 			"contents": "TotalAbsorbBarOverlayTemplate",
 		},
 		{
 			"trigger": "TotalAbsorbBarTemplate\t\"template\"",
 			"contents": "TotalAbsorbBarTemplate",
-		},
-		{
-			"trigger": "TrackerButton-AutoComplete-Down\t\"template\"",
-			"contents": "TrackerButton-AutoComplete-Down",
-		},
-		{
-			"trigger": "TrackerButton-AutoComplete-Up\t\"template\"",
-			"contents": "TrackerButton-AutoComplete-Up",
-		},
-		{
-			"trigger": "UI-CharacterCreate-IconShadow\t\"template\"",
-			"contents": "UI-CharacterCreate-IconShadow",
-		},
-		{
-			"trigger": "UI-EJ-AbilityIconBorder\t\"template\"",
-			"contents": "UI-EJ-AbilityIconBorder",
-		},
-		{
-			"trigger": "UI-EJ-BossButton-Down\t\"template\"",
-			"contents": "UI-EJ-BossButton-Down",
-		},
-		{
-			"trigger": "UI-EJ-BossButton-Highlight\t\"template\"",
-			"contents": "UI-EJ-BossButton-Highlight",
-		},
-		{
-			"trigger": "UI-EJ-BossButton-Up\t\"template\"",
-			"contents": "UI-EJ-BossButton-Up",
-		},
-		{
-			"trigger": "UI-EJ-BossModelButton\t\"template\"",
-			"contents": "UI-EJ-BossModelButton",
-		},
-		{
-			"trigger": "UI-EJ-BossNameShadow\t\"template\"",
-			"contents": "UI-EJ-BossNameShadow",
-		},
-		{
-			"trigger": "UI-EJ-Bullet\t\"template\"",
-			"contents": "UI-EJ-Bullet",
-		},
-		{
-			"trigger": "UI-EJ-CreatureHeaderFrameSm\t\"template\"",
-			"contents": "UI-EJ-CreatureHeaderFrameSm",
-		},
-		{
-			"trigger": "UI-EJ-CreatureHeaderFrameSm-bg\t\"template\"",
-			"contents": "UI-EJ-CreatureHeaderFrameSm-bg",
-		},
-		{
-			"trigger": "UI-EJ-DungeonButton-Down\t\"template\"",
-			"contents": "UI-EJ-DungeonButton-Down",
-		},
-		{
-			"trigger": "UI-EJ-DungeonButton-Highlight\t\"template\"",
-			"contents": "UI-EJ-DungeonButton-Highlight",
-		},
-		{
-			"trigger": "UI-EJ-DungeonButton-Up\t\"template\"",
-			"contents": "UI-EJ-DungeonButton-Up",
-		},
-		{
-			"trigger": "UI-EJ-DungeonGridTab-Left\t\"template\"",
-			"contents": "UI-EJ-DungeonGridTab-Left",
-		},
-		{
-			"trigger": "UI-EJ-DungeonGridTab-LeftHighlight\t\"template\"",
-			"contents": "UI-EJ-DungeonGridTab-LeftHighlight",
-		},
-		{
-			"trigger": "UI-EJ-DungeonGridTab-LeftSelect\t\"template\"",
-			"contents": "UI-EJ-DungeonGridTab-LeftSelect",
-		},
-		{
-			"trigger": "UI-EJ-DungeonGridTab-Right\t\"template\"",
-			"contents": "UI-EJ-DungeonGridTab-Right",
-		},
-		{
-			"trigger": "UI-EJ-DungeonGridTab-RightHighlight\t\"template\"",
-			"contents": "UI-EJ-DungeonGridTab-RightHighlight",
-		},
-		{
-			"trigger": "UI-EJ-DungeonGridTab-RightSelect\t\"template\"",
-			"contents": "UI-EJ-DungeonGridTab-RightSelect",
-		},
-		{
-			"trigger": "UI-EJ-DungeonGridTab-SelectedGlow\t\"template\"",
-			"contents": "UI-EJ-DungeonGridTab-SelectedGlow",
-		},
-		{
-			"trigger": "UI-EJ-DungeonGridTab-Shadow\t\"template\"",
-			"contents": "UI-EJ-DungeonGridTab-Shadow",
-		},
-		{
-			"trigger": "UI-EJ-DungeonLootFrame\t\"template\"",
-			"contents": "UI-EJ-DungeonLootFrame",
-		},
-		{
-			"trigger": "UI-EJ-DungeonNameBg\t\"template\"",
-			"contents": "UI-EJ-DungeonNameBg",
-		},
-		{
-			"trigger": "UI-EJ-FilterBar\t\"template\"",
-			"contents": "UI-EJ-FilterBar",
-		},
-		{
-			"trigger": "UI-EJ-FilterButtonDown\t\"template\"",
-			"contents": "UI-EJ-FilterButtonDown",
-		},
-		{
-			"trigger": "UI-EJ-FilterButtonHighlight\t\"template\"",
-			"contents": "UI-EJ-FilterButtonHighlight",
-		},
-		{
-			"trigger": "UI-EJ-FilterButtonSelect\t\"template\"",
-			"contents": "UI-EJ-FilterButtonSelect",
-		},
-		{
-			"trigger": "UI-EJ-FilterButtonUp\t\"template\"",
-			"contents": "UI-EJ-FilterButtonUp",
-		},
-		{
-			"trigger": "UI-EJ-Header-Overview\t\"template\"",
-			"contents": "UI-EJ-Header-Overview",
-		},
-		{
-			"trigger": "UI-EJ-LeftPageHeader\t\"template\"",
-			"contents": "UI-EJ-LeftPageHeader",
-		},
-		{
-			"trigger": "UI-EJ-LootFrame\t\"template\"",
-			"contents": "UI-EJ-LootFrame",
-		},
-		{
-			"trigger": "UI-EJ-LoreTextCover-Bottom\t\"template\"",
-			"contents": "UI-EJ-LoreTextCover-Bottom",
-		},
-		{
-			"trigger": "UI-EJ-LoreTextCover-Top\t\"template\"",
-			"contents": "UI-EJ-LoreTextCover-Top",
-		},
-		{
-			"trigger": "UI-EJ-MainTextCover-Bottom\t\"template\"",
-			"contents": "UI-EJ-MainTextCover-Bottom",
-		},
-		{
-			"trigger": "UI-EJ-MainTextCover-Top\t\"template\"",
-			"contents": "UI-EJ-MainTextCover-Top",
-		},
-		{
-			"trigger": "UI-EJ-MapButtonLg-Down\t\"template\"",
-			"contents": "UI-EJ-MapButtonLg-Down",
-		},
-		{
-			"trigger": "UI-EJ-MapButtonLg-Highlight\t\"template\"",
-			"contents": "UI-EJ-MapButtonLg-Highlight",
-		},
-		{
-			"trigger": "UI-EJ-MapButtonLg-Select\t\"template\"",
-			"contents": "UI-EJ-MapButtonLg-Select",
-		},
-		{
-			"trigger": "UI-EJ-MapButtonLg-Up\t\"template\"",
-			"contents": "UI-EJ-MapButtonLg-Up",
-		},
-		{
-			"trigger": "UI-EJ-MapButtonSm-Down\t\"template\"",
-			"contents": "UI-EJ-MapButtonSm-Down",
-		},
-		{
-			"trigger": "UI-EJ-MapButtonSm-Highlight\t\"template\"",
-			"contents": "UI-EJ-MapButtonSm-Highlight",
-		},
-		{
-			"trigger": "UI-EJ-MapButtonSm-Selection\t\"template\"",
-			"contents": "UI-EJ-MapButtonSm-Selection",
-		},
-		{
-			"trigger": "UI-EJ-MapButtonSm-Up\t\"template\"",
-			"contents": "UI-EJ-MapButtonSm-Up",
-		},
-		{
-			"trigger": "UI-EJ-MoreTextBelowHighlight\t\"template\"",
-			"contents": "UI-EJ-MoreTextBelowHighlight",
-		},
-		{
-			"trigger": "UI-EJ-PaperHeader-Highlight-Left\t\"template\"",
-			"contents": "UI-EJ-PaperHeader-Highlight-Left",
-		},
-		{
-			"trigger": "UI-EJ-PaperHeader-Highlight-Right\t\"template\"",
-			"contents": "UI-EJ-PaperHeader-Highlight-Right",
-		},
-		{
-			"trigger": "UI-EJ-PaperHeader-SelectDown-Left\t\"template\"",
-			"contents": "UI-EJ-PaperHeader-SelectDown-Left",
-		},
-		{
-			"trigger": "UI-EJ-PaperHeader-SelectDown-Right\t\"template\"",
-			"contents": "UI-EJ-PaperHeader-SelectDown-Right",
-		},
-		{
-			"trigger": "UI-EJ-PaperHeader-SelectUp-Right\t\"template\"",
-			"contents": "UI-EJ-PaperHeader-SelectUp-Right",
-		},
-		{
-			"trigger": "UI-EJ-PaperHeader-UnSelectDown-Left\t\"template\"",
-			"contents": "UI-EJ-PaperHeader-UnSelectDown-Left",
-		},
-		{
-			"trigger": "UI-EJ-PaperHeader-UnSelectDown-Right\t\"template\"",
-			"contents": "UI-EJ-PaperHeader-UnSelectDown-Right",
-		},
-		{
-			"trigger": "UI-EJ-PaperHeader-UnSelectUp-Left\t\"template\"",
-			"contents": "UI-EJ-PaperHeader-UnSelectUp-Left",
-		},
-		{
-			"trigger": "UI-EJ-PaperHeader-UnSelectUp-Right\t\"template\"",
-			"contents": "UI-EJ-PaperHeader-UnSelectUp-Right",
-		},
-		{
-			"trigger": "UI-EJ-ReturnToDefault\t\"template\"",
-			"contents": "UI-EJ-ReturnToDefault",
-		},
-		{
-			"trigger": "UI-EJ-RightPageHeader\t\"template\"",
-			"contents": "UI-EJ-RightPageHeader",
-		},
-		{
-			"trigger": "UI-EJ-SearchBarHighlightLg\t\"template\"",
-			"contents": "UI-EJ-SearchBarHighlightLg",
-		},
-		{
-			"trigger": "UI-EJ-SearchBarHighlightSm\t\"template\"",
-			"contents": "UI-EJ-SearchBarHighlightSm",
-		},
-		{
-			"trigger": "UI-EJ-SearchIconFrameLg\t\"template\"",
-			"contents": "UI-EJ-SearchIconFrameLg",
-		},
-		{
-			"trigger": "UI-EJ-SearchIconFrameSm\t\"template\"",
-			"contents": "UI-EJ-SearchIconFrameSm",
-		},
-		{
-			"trigger": "UI-EJ-ShowMapBG\t\"template\"",
-			"contents": "UI-EJ-ShowMapBG",
-		},
-		{
-			"trigger": "UI-EJ-Tab-AbilitiesIcon-Selected\t\"template\"",
-			"contents": "UI-EJ-Tab-AbilitiesIcon-Selected",
-		},
-		{
-			"trigger": "UI-EJ-Tab-AbilitiesIcon-UnSelected\t\"template\"",
-			"contents": "UI-EJ-Tab-AbilitiesIcon-UnSelected",
-		},
-		{
-			"trigger": "UI-EJ-Tab-BossIcon-Selected\t\"template\"",
-			"contents": "UI-EJ-Tab-BossIcon-Selected",
-		},
-		{
-			"trigger": "UI-EJ-Tab-BossIcon-UnSelected\t\"template\"",
-			"contents": "UI-EJ-Tab-BossIcon-UnSelected",
-		},
-		{
-			"trigger": "UI-EJ-Tab-Highlight\t\"template\"",
-			"contents": "UI-EJ-Tab-Highlight",
-		},
-		{
-			"trigger": "UI-EJ-Tab-LootIcon-Selected\t\"template\"",
-			"contents": "UI-EJ-Tab-LootIcon-Selected",
-		},
-		{
-			"trigger": "UI-EJ-Tab-LootIcon-UnSelected\t\"template\"",
-			"contents": "UI-EJ-Tab-LootIcon-UnSelected",
-		},
-		{
-			"trigger": "UI-EJ-Tab-ModelIcon-Selected\t\"template\"",
-			"contents": "UI-EJ-Tab-ModelIcon-Selected",
-		},
-		{
-			"trigger": "UI-EJ-Tab-ModelIcon-UnSelected\t\"template\"",
-			"contents": "UI-EJ-Tab-ModelIcon-UnSelected",
-		},
-		{
-			"trigger": "UI-EJ-Tab-Selected\t\"template\"",
-			"contents": "UI-EJ-Tab-Selected",
-		},
-		{
-			"trigger": "UI-EJ-Tab-UnSelected\t\"template\"",
-			"contents": "UI-EJ-Tab-UnSelected",
-		},
-		{
-			"trigger": "UI-Frame-BotCornerLeft\t\"template\"",
-			"contents": "UI-Frame-BotCornerLeft",
-		},
-		{
-			"trigger": "UI-Frame-BotCornerRight\t\"template\"",
-			"contents": "UI-Frame-BotCornerRight",
-		},
-		{
-			"trigger": "UI-Frame-BtnDivLeft\t\"template\"",
-			"contents": "UI-Frame-BtnDivLeft",
-		},
-		{
-			"trigger": "UI-Frame-BtnDivMiddle\t\"template\"",
-			"contents": "UI-Frame-BtnDivMiddle",
-		},
-		{
-			"trigger": "UI-Frame-BtnDivRight\t\"template\"",
-			"contents": "UI-Frame-BtnDivRight",
-		},
-		{
-			"trigger": "UI-Frame-InnerBotLeftCorner\t\"template\"",
-			"contents": "UI-Frame-InnerBotLeftCorner",
-		},
-		{
-			"trigger": "UI-Frame-InnerBotRight\t\"template\"",
-			"contents": "UI-Frame-InnerBotRight",
-		},
-		{
-			"trigger": "UI-Frame-InnerSplitLeft\t\"template\"",
-			"contents": "UI-Frame-InnerSplitLeft",
-		},
-		{
-			"trigger": "UI-Frame-InnerSplitRight\t\"template\"",
-			"contents": "UI-Frame-InnerSplitRight",
-		},
-		{
-			"trigger": "UI-Frame-InnerTopLeft\t\"template\"",
-			"contents": "UI-Frame-InnerTopLeft",
-		},
-		{
-			"trigger": "UI-Frame-InnerTopRight\t\"template\"",
-			"contents": "UI-Frame-InnerTopRight",
-		},
-		{
-			"trigger": "UI-Frame-Portrait\t\"template\"",
-			"contents": "UI-Frame-Portrait",
-		},
-		{
-			"trigger": "UI-Frame-TopCornerLeft\t\"template\"",
-			"contents": "UI-Frame-TopCornerLeft",
-		},
-		{
-			"trigger": "UI-Frame-TopCornerRight\t\"template\"",
-			"contents": "UI-Frame-TopCornerRight",
-		},
-		{
-			"trigger": "UI-Frame-TopCornerRightSimple\t\"template\"",
-			"contents": "UI-Frame-TopCornerRightSimple",
-		},
-		{
-			"trigger": "UI-Frame-TopLeftCorner\t\"template\"",
-			"contents": "UI-Frame-TopLeftCorner",
-		},
-		{
-			"trigger": "UI-PaperOverlay-AbilityTextBG\t\"template\"",
-			"contents": "UI-PaperOverlay-AbilityTextBG",
-		},
-		{
-			"trigger": "UI-PaperOverlay-AbilityTextBottomBorder\t\"template\"",
-			"contents": "UI-PaperOverlay-AbilityTextBottomBorder",
-		},
-		{
-			"trigger": "UI-PaperOverlay-Bullet\t\"template\"",
-			"contents": "UI-PaperOverlay-Bullet",
-		},
-		{
-			"trigger": "UI-PaperOverlay-Check\t\"template\"",
-			"contents": "UI-PaperOverlay-Check",
-		},
-		{
-			"trigger": "UI-PaperOverlay-PaperHeader-SelectUp-Left\t\"template\"",
-			"contents": "UI-PaperOverlay-PaperHeader-SelectUp-Left",
-		},
-		{
-			"trigger": "UI-PaperOverlay-PaperHeader-SelectUp-Mid\t\"template\"",
-			"contents": "UI-PaperOverlay-PaperHeader-SelectUp-Mid",
-		},
-		{
-			"trigger": "UI-PaperOverlay-PaperHeader-SelectUp-Right\t\"template\"",
-			"contents": "UI-PaperOverlay-PaperHeader-SelectUp-Right",
 		},
 		{
 			"trigger": "UIPanelButtonDisabledDownTexture\t\"template\"",
@@ -1440,6 +316,14 @@
 		{
 			"trigger": "VideoFrame\t\"template\"",
 			"contents": "VideoFrame",
+		},
+		{
+			"trigger": "videoSubUnderline\t\"template\"",
+			"contents": "videoSubUnderline",
+		},
+		{
+			"trigger": "videoUnderline\t\"template\"",
+			"contents": "videoUnderline",
 		},
 	]
 }

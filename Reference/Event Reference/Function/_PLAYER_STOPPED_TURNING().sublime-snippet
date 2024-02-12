@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PLAYER_STOPPED_TURNING()]]></content>
-	<tabTrigger>_PLAYER_STOPPED_TURNING</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

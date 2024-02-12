@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QuestPortrait-Divider_noname]]></content>
-	<tabTrigger>QuestPortrait-Divider_noname</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

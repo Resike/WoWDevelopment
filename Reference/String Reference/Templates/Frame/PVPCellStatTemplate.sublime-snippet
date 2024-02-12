@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PVPCellStatTemplate]]></content>
-	<tabTrigger>PVPCellStatTemplate</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.frame</scope>
-</snippet>

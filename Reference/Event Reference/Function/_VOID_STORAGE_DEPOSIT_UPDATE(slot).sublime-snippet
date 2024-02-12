@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VOID_STORAGE_DEPOSIT_UPDATE(slot)]]></content>
-	<tabTrigger>_VOID_STORAGE_DEPOSIT_UPDATE</tabTrigger>
-	<description>(slot)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Highlight-Square]]></content>
-	<tabTrigger>Highlight-Square</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

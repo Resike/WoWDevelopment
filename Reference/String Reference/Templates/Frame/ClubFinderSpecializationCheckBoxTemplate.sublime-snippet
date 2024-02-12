@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ClubFinderSpecializationCheckBoxTemplate]]></content>
-	<tabTrigger>ClubFinderSpecializationCheckBoxTemplate</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.frame</scope>
-</snippet>

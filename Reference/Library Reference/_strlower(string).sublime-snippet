@@ -2,5 +2,5 @@
 	<content><![CDATA[${1:lowerCase} = strlower("${2:string}")$0]]></content>
 	<tabTrigger>_strlower</tabTrigger>
 	<description>("string")</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - keyword - string - meta.punctuation.lua - meta.method-call.lua</scope>
 </snippet>

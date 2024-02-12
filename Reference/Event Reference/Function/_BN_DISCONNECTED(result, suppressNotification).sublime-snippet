@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BN_DISCONNECTED(result, suppressNotification)]]></content>
-	<tabTrigger>_BN_DISCONNECTED</tabTrigger>
-	<description>(result, suppressNotification)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

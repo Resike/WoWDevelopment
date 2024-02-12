@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SECURE_TRANSFER_CANCEL()]]></content>
-	<tabTrigger>_SECURE_TRANSFER_CANCEL</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

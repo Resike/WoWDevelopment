@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[C_SpellBook.ContainsAnyDisenchantSpell()$0]]></content>
-	<tabTrigger>C_SpellBook.ContainsAnyDisenchantSpell</tabTrigger>
-	<description>()</description>
-	<scope>source.lua - entity - punctuation - keyword - string - meta.function.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
-</snippet>

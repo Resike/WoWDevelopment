@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFG_READY_CHECK_PLAYER_IS_READY(name)]]></content>
-	<tabTrigger>_LFG_READY_CHECK_PLAYER_IS_READY</tabTrigger>
-	<description>(name)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

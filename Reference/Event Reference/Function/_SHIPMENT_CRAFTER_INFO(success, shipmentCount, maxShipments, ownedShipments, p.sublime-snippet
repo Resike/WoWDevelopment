@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SHIPMENT_CRAFTER_INFO(success, shipmentCount, maxShipments, ownedShipments, plotInstanceID)]]></content>
-	<tabTrigger>_SHIPMENT_CRAFTER_INFO</tabTrigger>
-	<description>(success, shipmentCount, maxShipments, ownedShipments, plotInstanceID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

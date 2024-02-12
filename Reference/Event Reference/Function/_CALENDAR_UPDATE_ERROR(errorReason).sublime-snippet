@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CALENDAR_UPDATE_ERROR(errorReason)]]></content>
-	<tabTrigger>_CALENDAR_UPDATE_ERROR</tabTrigger>
-	<description>(errorReason)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

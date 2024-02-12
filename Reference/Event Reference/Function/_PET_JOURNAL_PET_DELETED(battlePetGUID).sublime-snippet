@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PET_JOURNAL_PET_DELETED(battlePetGUID)]]></content>
-	<tabTrigger>_PET_JOURNAL_PET_DELETED</tabTrigger>
-	<description>(battlePetGUID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GARRISON_BUILDING_ACTIVATED(garrisonPlotInstanceID, garrisonBuildingID)]]></content>
-	<tabTrigger>_GARRISON_BUILDING_ACTIVATED</tabTrigger>
-	<description>(garrisonPlotInstanceID, garrisonBuildingID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

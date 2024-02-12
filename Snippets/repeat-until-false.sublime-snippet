@@ -3,6 +3,6 @@
 	${2}
 until ${1:false}$0]]></content>
 	<tabTrigger>repeat</tabTrigger>
-	<scope>source.lua - entity - punctuation - string - meta.function.arguments.lua - meta.function-call.arguments.lua - meta.punctuation.lua - meta.method-call.lua</scope>
+	<scope>source.lua - entity - punctuation - string</scope>
 	<description>repeat until false</description>
 </snippet>

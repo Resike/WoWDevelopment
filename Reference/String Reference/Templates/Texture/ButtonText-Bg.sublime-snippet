@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ButtonText-Bg]]></content>
-	<tabTrigger>ButtonText-Bg</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

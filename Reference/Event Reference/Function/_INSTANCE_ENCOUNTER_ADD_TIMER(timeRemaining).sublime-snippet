@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[INSTANCE_ENCOUNTER_ADD_TIMER(timeRemaining)]]></content>
-	<tabTrigger>_INSTANCE_ENCOUNTER_ADD_TIMER</tabTrigger>
-	<description>(timeRemaining)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

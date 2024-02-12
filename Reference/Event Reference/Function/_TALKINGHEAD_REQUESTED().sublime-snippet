@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TALKINGHEAD_REQUESTED()]]></content>
-	<tabTrigger>_TALKINGHEAD_REQUESTED</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

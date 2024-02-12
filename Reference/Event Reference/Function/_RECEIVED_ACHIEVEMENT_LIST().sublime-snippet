@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RECEIVED_ACHIEVEMENT_LIST()]]></content>
-	<tabTrigger>_RECEIVED_ACHIEVEMENT_LIST</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SPELL_ACTIVATION_OVERLAY_SHOW(spellID, overlayFileDataID, locationName, scale, r, g, b)]]></content>
-	<tabTrigger>_SPELL_ACTIVATION_OVERLAY_SHOW</tabTrigger>
-	<description>(spellID, overlayFileDataID, locationName, scale, r, g, b)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Thin-BorderTopRight]]></content>
-	<tabTrigger>Thin-BorderTopRight</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

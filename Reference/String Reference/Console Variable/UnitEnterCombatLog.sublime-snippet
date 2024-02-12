@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnitEnterCombatLog]]></content>
-	<tabTrigger>UnitEnterCombatLog</tabTrigger>
-	<description>"CVar"</description>
-	<scope>source.lua string.cvartype</scope>
-</snippet>

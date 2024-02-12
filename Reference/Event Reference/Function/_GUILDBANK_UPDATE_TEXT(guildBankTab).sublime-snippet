@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILDBANK_UPDATE_TEXT(guildBankTab)]]></content>
-	<tabTrigger>_GUILDBANK_UPDATE_TEXT</tabTrigger>
-	<description>(guildBankTab)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

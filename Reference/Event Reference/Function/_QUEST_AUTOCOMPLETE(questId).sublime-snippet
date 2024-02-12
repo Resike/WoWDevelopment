@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QUEST_AUTOCOMPLETE(questId)]]></content>
-	<tabTrigger>_QUEST_AUTOCOMPLETE</tabTrigger>
-	<description>(questId)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

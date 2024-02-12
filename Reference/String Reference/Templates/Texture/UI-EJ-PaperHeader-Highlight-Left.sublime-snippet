@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UI-EJ-PaperHeader-Highlight-Left]]></content>
-	<tabTrigger>UI-EJ-PaperHeader-Highlight-Left</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

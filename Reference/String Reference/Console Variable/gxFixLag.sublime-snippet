@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[gxFixLag]]></content>
+	<tabTrigger>gxFixLag</tabTrigger>
+	<description>"CVar"</description>
+	<scope>source.lua string.cvartype</scope>
+</snippet>

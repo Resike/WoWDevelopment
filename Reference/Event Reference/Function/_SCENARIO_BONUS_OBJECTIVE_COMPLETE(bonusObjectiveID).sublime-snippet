@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SCENARIO_BONUS_OBJECTIVE_COMPLETE(bonusObjectiveID)]]></content>
-	<tabTrigger>_SCENARIO_BONUS_OBJECTIVE_COMPLETE</tabTrigger>
-	<description>(bonusObjectiveID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

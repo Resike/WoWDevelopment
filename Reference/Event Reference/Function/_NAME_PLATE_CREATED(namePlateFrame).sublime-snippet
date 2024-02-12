@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NAME_PLATE_CREATED(namePlateFrame)]]></content>
-	<tabTrigger>_NAME_PLATE_CREATED</tabTrigger>
-	<description>(namePlateFrame)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UI-EJ-CreatureHeaderFrameSm-bg]]></content>
-	<tabTrigger>UI-EJ-CreatureHeaderFrameSm-bg</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

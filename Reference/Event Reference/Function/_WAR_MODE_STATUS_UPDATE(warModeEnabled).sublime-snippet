@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WAR_MODE_STATUS_UPDATE(warModeEnabled)]]></content>
-	<tabTrigger>_WAR_MODE_STATUS_UPDATE</tabTrigger>
-	<description>(warModeEnabled)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

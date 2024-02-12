@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IGR_BILLING_NAG_DIALOG(...)]]></content>
-	<tabTrigger>_IGR_BILLING_NAG_DIALOG</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

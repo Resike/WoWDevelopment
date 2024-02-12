@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PET_BATTLE_LEVEL_CHANGED(owner, petIndex, newLevel)]]></content>
-	<tabTrigger>_PET_BATTLE_LEVEL_CHANGED</tabTrigger>
-	<description>(owner, petIndex, newLevel)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

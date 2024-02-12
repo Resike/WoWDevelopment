@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UPDATE_WEB_TICKET(hasTicket, numTickets, ticketStatus, caseIndex, waitTimeMinutes, waitMessage)]]></content>
-	<tabTrigger>_UPDATE_WEB_TICKET</tabTrigger>
-	<description>(hasTicket, numTickets, ticketStatus, caseIndex, waitTimeMinutes, waitMessage)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

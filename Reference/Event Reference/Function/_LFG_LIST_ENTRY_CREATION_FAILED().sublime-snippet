@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LFG_LIST_ENTRY_CREATION_FAILED()]]></content>
-	<tabTrigger>_LFG_LIST_ENTRY_CREATION_FAILED</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

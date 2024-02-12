@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UPDATE_INVENTORY_ALERTS()]]></content>
-	<tabTrigger>_UPDATE_INVENTORY_ALERTS</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

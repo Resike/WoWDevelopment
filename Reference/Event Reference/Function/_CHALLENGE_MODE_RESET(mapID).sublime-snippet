@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CHALLENGE_MODE_RESET(mapID)]]></content>
-	<tabTrigger>_CHALLENGE_MODE_RESET</tabTrigger>
-	<description>(mapID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

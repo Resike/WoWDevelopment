@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QUEST_BOSS_EMOTE(text, playerName, displayTime, enableBossEmoteWarningSound)]]></content>
-	<tabTrigger>_QUEST_BOSS_EMOTE</tabTrigger>
-	<description>(text, playerName, displayTime, enableBossEmoteWarningSound)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

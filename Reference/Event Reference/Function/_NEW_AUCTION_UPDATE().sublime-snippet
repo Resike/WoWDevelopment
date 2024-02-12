@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NEW_AUCTION_UPDATE()]]></content>
-	<tabTrigger>_NEW_AUCTION_UPDATE</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

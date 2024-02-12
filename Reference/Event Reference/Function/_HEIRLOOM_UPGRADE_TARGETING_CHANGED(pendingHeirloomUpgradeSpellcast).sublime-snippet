@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HEIRLOOM_UPGRADE_TARGETING_CHANGED(pendingHeirloomUpgradeSpellcast)]]></content>
-	<tabTrigger>_HEIRLOOM_UPGRADE_TARGETING_CHANGED</tabTrigger>
-	<description>(pendingHeirloomUpgradeSpellcast)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[START_AUTOREPEAT_SPELL()]]></content>
-	<tabTrigger>_START_AUTOREPEAT_SPELL</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TRADE_REQUEST_CANCEL()]]></content>
-	<tabTrigger>_TRADE_REQUEST_CANCEL</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

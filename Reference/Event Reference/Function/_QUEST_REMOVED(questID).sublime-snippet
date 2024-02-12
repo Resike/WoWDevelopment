@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[QUEST_REMOVED(questID)]]></content>
-	<tabTrigger>_QUEST_REMOVED</tabTrigger>
-	<description>(questID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

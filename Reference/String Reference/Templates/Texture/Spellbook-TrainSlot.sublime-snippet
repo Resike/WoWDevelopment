@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Spellbook-TrainSlot]]></content>
-	<tabTrigger>Spellbook-TrainSlot</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

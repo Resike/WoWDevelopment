@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CHANNEL_ROSTER_UPDATE(displayIndex, count)]]></content>
-	<tabTrigger>_CHANNEL_ROSTER_UPDATE</tabTrigger>
-	<description>(displayIndex, count)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

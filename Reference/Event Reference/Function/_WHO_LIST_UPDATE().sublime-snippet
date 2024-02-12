@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WHO_LIST_UPDATE()]]></content>
-	<tabTrigger>_WHO_LIST_UPDATE</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[OPEN_MASTER_LOOT_LIST()]]></content>
-	<tabTrigger>_OPEN_MASTER_LOOT_LIST</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

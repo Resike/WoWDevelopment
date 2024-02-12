@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[gxMTOpaqueWMO]]></content>
-	<tabTrigger>gxMTOpaqueWMO</tabTrigger>
-	<description>"CVar"</description>
-	<scope>source.lua string.cvartype</scope>
-</snippet>

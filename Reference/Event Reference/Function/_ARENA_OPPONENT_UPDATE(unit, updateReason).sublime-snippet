@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ARENA_OPPONENT_UPDATE(unit, updateReason)]]></content>
-	<tabTrigger>_ARENA_OPPONENT_UPDATE</tabTrigger>
-	<description>(unit, updateReason)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

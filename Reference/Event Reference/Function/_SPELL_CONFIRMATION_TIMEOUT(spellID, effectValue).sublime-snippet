@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SPELL_CONFIRMATION_TIMEOUT(spellID, effectValue)]]></content>
-	<tabTrigger>_SPELL_CONFIRMATION_TIMEOUT</tabTrigger>
-	<description>(spellID, effectValue)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

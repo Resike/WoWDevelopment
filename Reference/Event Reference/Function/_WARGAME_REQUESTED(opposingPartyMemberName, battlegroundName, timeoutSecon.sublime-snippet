@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WARGAME_REQUESTED(opposingPartyMemberName, battlegroundName, timeoutSeconds, tournamentRules)]]></content>
-	<tabTrigger>_WARGAME_REQUESTED</tabTrigger>
-	<description>(opposingPartyMemberName, battlegroundName, timeoutSeconds, tournamentRules)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

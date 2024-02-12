@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RESURRECT_REQUEST(inviter)]]></content>
-	<tabTrigger>_RESURRECT_REQUEST</tabTrigger>
-	<description>(inviter)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

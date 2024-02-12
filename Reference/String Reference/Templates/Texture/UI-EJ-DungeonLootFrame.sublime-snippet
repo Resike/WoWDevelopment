@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UI-EJ-DungeonLootFrame]]></content>
-	<tabTrigger>UI-EJ-DungeonLootFrame</tabTrigger>
-	<description>"template"</description>
-	<scope>source.lua string.template.texture</scope>
-</snippet>

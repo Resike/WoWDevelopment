@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FORBIDDEN_NAME_PLATE_UNIT_ADDED(unit)]]></content>
-	<tabTrigger>_FORBIDDEN_NAME_PLATE_UNIT_ADDED</tabTrigger>
-	<description>(unit)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

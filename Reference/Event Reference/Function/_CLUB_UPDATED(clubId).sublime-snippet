@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CLUB_UPDATED(clubId)]]></content>
-	<tabTrigger>_CLUB_UPDATED</tabTrigger>
-	<description>(clubId)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PET_BAR_UPDATE_COOLDOWN()]]></content>
-	<tabTrigger>_PET_BAR_UPDATE_COOLDOWN</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

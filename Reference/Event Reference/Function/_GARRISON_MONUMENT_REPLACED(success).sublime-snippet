@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GARRISON_MONUMENT_REPLACED(success)]]></content>
-	<tabTrigger>_GARRISON_MONUMENT_REPLACED</tabTrigger>
-	<description>(success)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

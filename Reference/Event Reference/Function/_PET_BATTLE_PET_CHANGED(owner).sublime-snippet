@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PET_BATTLE_PET_CHANGED(owner)]]></content>
-	<tabTrigger>_PET_BATTLE_PET_CHANGED</tabTrigger>
-	<description>(owner)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

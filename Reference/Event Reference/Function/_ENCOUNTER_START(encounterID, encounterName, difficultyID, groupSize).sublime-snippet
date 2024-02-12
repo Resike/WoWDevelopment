@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ENCOUNTER_START(encounterID, encounterName, difficultyID, groupSize)]]></content>
-	<tabTrigger>_ENCOUNTER_START</tabTrigger>
-	<description>(encounterID, encounterName, difficultyID, groupSize)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

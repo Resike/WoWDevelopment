@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[START_TIMER(timerType, timeRemaining, totalTime)]]></content>
-	<tabTrigger>_START_TIMER</tabTrigger>
-	<description>(timerType, timeRemaining, totalTime)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

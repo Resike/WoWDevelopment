@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[REAGENTBANK_PURCHASED()]]></content>
-	<tabTrigger>_REAGENTBANK_PURCHASED</tabTrigger>
-	<description>()</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

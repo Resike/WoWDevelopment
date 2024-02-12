@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GARRISON_TALENT_COMPLETE(garrTypeID, doAlert)]]></content>
-	<tabTrigger>_GARRISON_TALENT_COMPLETE</tabTrigger>
-	<description>(garrTypeID, doAlert)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CHARACTER_ITEM_FIXUP_NOTIFICATION(fixupVersion)]]></content>
-	<tabTrigger>_CHARACTER_ITEM_FIXUP_NOTIFICATION</tabTrigger>
-	<description>(fixupVersion)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

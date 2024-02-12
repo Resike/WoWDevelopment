@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GARRISON_MISSION_REWARD_INFO(missionID, followerDbID)]]></content>
-	<tabTrigger>_GARRISON_MISSION_REWARD_INFO</tabTrigger>
-	<description>(missionID, followerDbID)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

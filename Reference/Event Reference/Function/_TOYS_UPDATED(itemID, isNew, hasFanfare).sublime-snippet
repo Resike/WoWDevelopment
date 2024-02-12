@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TOYS_UPDATED(itemID, isNew, hasFanfare)]]></content>
-	<tabTrigger>_TOYS_UPDATED</tabTrigger>
-	<description>(itemID, isNew, hasFanfare)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

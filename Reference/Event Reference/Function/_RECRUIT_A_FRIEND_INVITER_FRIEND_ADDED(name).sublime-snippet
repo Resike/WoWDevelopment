@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RECRUIT_A_FRIEND_INVITER_FRIEND_ADDED(name)]]></content>
-	<tabTrigger>_RECRUIT_A_FRIEND_INVITER_FRIEND_ADDED</tabTrigger>
-	<description>(name)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

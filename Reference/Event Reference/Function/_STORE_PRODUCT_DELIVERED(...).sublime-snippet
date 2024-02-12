@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[STORE_PRODUCT_DELIVERED(...)]]></content>
-	<tabTrigger>_STORE_PRODUCT_DELIVERED</tabTrigger>
-	<description>(...)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

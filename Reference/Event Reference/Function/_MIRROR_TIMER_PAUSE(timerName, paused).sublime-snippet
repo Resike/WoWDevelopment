@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MIRROR_TIMER_PAUSE(timerName, paused)]]></content>
-	<tabTrigger>_MIRROR_TIMER_PAUSE</tabTrigger>
-	<description>(timerName, paused)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>

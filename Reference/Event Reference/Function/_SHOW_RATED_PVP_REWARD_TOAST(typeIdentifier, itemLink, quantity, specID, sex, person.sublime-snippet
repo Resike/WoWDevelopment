@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SHOW_RATED_PVP_REWARD_TOAST(typeIdentifier, itemLink, quantity, specID, sex, personalLootToast, lessAwesome)]]></content>
-	<tabTrigger>_SHOW_RATED_PVP_REWARD_TOAST</tabTrigger>
-	<description>(typeIdentifier, itemLink, quantity, specID, sex, personalLootToast, lessAwesome)</description>
-	<scope>source.lua meta.name.function.lua entity.name.function.lua</scope>
-</snippet>
